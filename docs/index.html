@@ -1,0 +1,14 @@
+<head>
+    <script>
+        function setLink(n) {
+            var matrix = "-5--\nB-C-\n-5-5\n5-5-"
+            document.getElementById("show").href = "https://d-bl.github.io/GroundForge/sheet.html?patch=" + encodeURI(matrix) + ";bricks"
+            return false
+        }
+    </script>
+</head>
+<body>
+<label for="rows">Spiders with 4 x </label>
+<input id="rows" name="rows" min="1" style="width: 3em" value="0" type="number" onchange="setLink(this)"/> legs.
+<a id="show" href="#">To GroundForge</a>
+</body>
