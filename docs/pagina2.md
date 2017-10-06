@@ -3,8 +3,9 @@
 * inhoud regel 2 <br>
 
 <p> en hier komt dan allerlei leuke tekst
+<p><br>
   
-<h3>squared rose ground</>
+<h3>squared rose ground</h3>
 <img alt="torchon-flemish" align="left" src="https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf-tor-vl.png">
 
 By putting the traditional rose ground unit in a square, little stars can be made.<br>
