@@ -11,3 +11,8 @@
 By putting the traditional rose ground unit in a square, little stars can be made.<br>
 Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates.
 <br><br>
+
+nu alleen nog uitzoeken hoe het zit met plaatjes.
+waarschijnlijk moeten die in een plaatjes mapje in de site map.
+<img alt="torchon-flemish" align="left" src="(https://maetempels.github.io/MAE-gf/images_wt/gf-tor-vl.png">
+
