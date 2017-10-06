@@ -1,6 +1,6 @@
 <h3> dit is pagina 2</h3>
-* inhoud regel 1
-* inhoud regel 2
+* inhoud regel 1 <br>
+* inhoud regel 2 <br>
 
-<p> en hier komt dan allerlei leuke tekst>
+<p> en hier komt dan allerlei leuke tekst
   
