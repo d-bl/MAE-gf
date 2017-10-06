@@ -14,5 +14,6 @@ Please note: when making the actual lace, it will make a big difference if the u
 
 nu alleen nog uitzoeken hoe het zit met plaatjes.
 waarschijnlijk moeten die in een plaatjes mapje in de site map.
-<img alt="torchon-flemish" align="left" src="(https://maetempels.github.io/MAE-gf/images_wt/gf-tor-vl.png">
+<img alt="tf" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-tor-vl.png">
+
 
