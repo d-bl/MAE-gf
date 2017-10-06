@@ -2,4 +2,5 @@
 * inhoud regel 1
 * inhoud regel 2
 
-<p style="color: red"} even uitproberen </p>
+<p> en hier komt dan allerlei leuke tekst>
+  
