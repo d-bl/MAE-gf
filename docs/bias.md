@@ -7,7 +7,7 @@
 <li><a href="#bias-crdf">Bias Ground crossed differently</a></li>
 <li><a href="#bias-diag">Bias Ground with a diagonal in between</a></li>
 <li><a href="#bias-crdi">Bias Ground crossed and a diagonal in between</a></li>
-</ul><br>
+</ul><p><br>
 
 <h3 id="bias-intr">Introduction</h3>
 <img align="right" alt="biasground" src="https://maetempels.github.io/MAE-gf/images_wt/gf%200221%20wt.png">
@@ -16,20 +16,23 @@ The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagra
 
 Other nice grounds can be obtained by using one unit only. See <a href="https://github.com/MAETempels/MAE-gf/wiki/Fancy%20examples#short-bias"><i>Fancy examples</i></a>.<br>
 Better names for the examples will follow.
-<br><br>
+<p><br><br>
 
 <h3 id="bias-trad">Traditional Bias Ground</h3>
-<img align="left" alt="traditional bias" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-tr.png"></p>
+<img align="left" alt="traditional bias" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-tr.png">
+<p><br>
 > [traditional][G-0221-tr], [cloth][G-0228OD]
 <p><br>
 
 <h3 id="bias-crrs">Bias Ground crossed rose style</h3>
 <img align="left" alt="bias crossed" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-at.png">
+<p><br>
 > [WI D6][wi-D6], [WI F4][wi-F4]
 <p><br>
 
 <h3 id="bias-crdf">Bias Ground crossed differently</h3>
 <img align="left" alt="bias alt crossed" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-aa.png">
+<p><br>
 > [WI E6][wi-E6]
 <p><br>
 
@@ -37,11 +40,13 @@ Better names for the examples will follow.
 The Bias and the diagonal in between are connected diagonaly in the matrix-scheme. A horizontal connection also works.
 <br><br> 
 <img align="left" alt="bias with diagonal" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-vg.png">
+<p><br>
 > [example][G-0221-vg]
 <p><br>
 
 <h3 id="bias-crdi">Bias Ground crossed and a diagonal in between</h3>
 <img align="left" alt="bias crossed and diagonal" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-av.png">
+<p><br>
 > [example][G-0221-av]
 <p><br>
 
