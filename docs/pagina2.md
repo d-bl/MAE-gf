@@ -1,4 +1,4 @@
-#dit is pagina 2
+# dit is pagina 2
 * inhoud regel 1 <br>
 * inhoud regel 2 <br>
 * [rozengrond](#squared-rose-ground)
@@ -6,7 +6,7 @@
 <p> en hier komt dan allerlei leuke tekst
 <p><br>
   
-###squared rose ground
+### squared rose ground
 <img alt="tf" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-tor-vl.png">
 
 By putting the traditional rose ground unit in a square, little stars can be made.<br>
