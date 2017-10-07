@@ -18,15 +18,16 @@ In this wiki you find pages with additional patterns for use in <a href="https:/
 
 <h3 id="main-hwto">How to use these pages</h3>
 <p>
-All examples are links to the Groundforge main page. Follow the link and click <b>SHOW</b> in the <b>PAIR/THREAD DIAGRAM</b> section. Please feel free to play with the stitches. E.g. try what happens if you change the default <b>ctc</b> of the spiders or fish in b>ct</b>.<br>
+All examples are links to the Groundforge main page. Follow the link and click <b>SHOW</b> in the <b>PAIR/THREAD DIAGRAM</b> section. Please feel free to play with the stitches. E.g. try what happens if you change the default <b>ctc</b> of the spiders or fish in <b>ct</b>.<br>
 The examples use pair-diagrams in the styled version (<i>matrix-scheme</i>) that Groundforge understands. If you wish to see this scheme, click <b>DIAGRAM</b>.<br>
 Most of the patterns also have a scheme in the TesseLace index. Some, as the spiders and the larger fishes, don't.
 </p>
 
 <h3 id="main-diag">Diagrams</h3>
 <p>
-<img align="right" alt="several types of drawings" src="https://maetempels.github.io/MAE-gf/images/gf%20picts.png">
-
+<img align="left" alt="several types of drawings" src="https://maetempels.github.io/MAE-gf/images/gf%20picts.png">
+</p>
+<p>
 In this wiki several types of diagrams are used, as illustrated in the picture. On the left is a drawing of a <i>pair-diagram</i> or <i>working-scheme</i>. Pins, pinpositions and colourcode are given as needed for the actual lace. In the middle the ground is drawn schematic, to given an impression. Pins and colourcode may or may not be drawn. The pinpositions are drawn as required for the actual lace. On the right the <i>matrix-scheme</i> that Groundforge understands. In the articles the name <i>scheme</i> or <i>diagram</i> will be used for all types of the drawings.<br> 
 Several grounds have more than one working matrix-scheme, as is explained in de Groundforge-userguide. 
 <br><br>
@@ -43,7 +44,7 @@ WI = Whiting index
 <h3 id="main-link">Links</h3>
 <p>
 <a href="https://github.com/d-bl/GroundForge/wiki">Groundforge user guide</a><br>
-<a href="(https://github.com/d-bl/GroundForge/wiki/TesseLace-Index">TesseLace index</a><br>
+<a href="https://github.com/d-bl/GroundForge/wiki/TesseLace-Index">TesseLace index</a><br>
 <a href="http://gwydir.demon.co.uk/jo/lace/whiting/index.htm#picindex">Whiting index</a>: Jo Edkins created an annotated online index on the grounds in _A Lace Guide for Makers and Collectors_ by Gertrude Whiting which dates from 1920.<br>
 <a href="https://github.com/d-bl/GroundForge/wiki/Whiting-Index">Groundforge Whiting index</a>: The same index, with links to Groundforge scheme's and main page.
 </p>
