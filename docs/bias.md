@@ -1,3 +1,8 @@
+<style>
+table th, td {padding: 5px;}
+</style>
+<body>
+
 <h1>Bias Grounds</h1>
   
 <h3>Contents</h3>
@@ -53,6 +58,8 @@ The Bias and the diagonal in between are connected diagonaly in the matrix-schem
 <img align="left" alt="bias crossed and diagonal" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-av.png">
 > [example][G-0221-av]
 </p><br>
+
+</body>
 
 [wi-D6]: https://d-bl.github.io/GroundForge/index.html?m=8-48%0A8314%3Bbricks%3B16%3B16%3B0%3B0&s1=ct%20D2%3Dctct%20A1%3Dctct%20C1%3Dctct%20B2%3Dctct
 [wi-F4]: https://d-bl.github.io/GroundForge/index.html?m=1483%208-48%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20A2%3Dctcllctc%20C2%3Dctcrrctc
