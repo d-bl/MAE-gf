@@ -1,5 +1,6 @@
 <style>
-table th, td {padding: 5px;}
+table th, td {padding: 20px;}
+  th, td {text-align: "left";}
 </style>
 <body>
 
@@ -26,17 +27,20 @@ Better names for the examples will follow.
 </p><br>
 
 <h3 id="bias-trad">Traditional Bias Ground</h3>
-<p>
-<img align="left" alt="traditional bias" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-tr.png">
-<a href="https://d-bl.github.io/GroundForge/index.html?m=6-48%20%0A86-4%3Bbricks%3B16%3B16%3B0%3B0&s1=ctct%20B1%3Dct%20C2%3Dct"><i>traditional</i></a>, 
+<table>
+  <tr>
+    <td><img align="left" alt="traditional bias" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-tr.png"><td>
+    <td><a href="https://d-bl.github.io/GroundForge/index.html?m=6-48%20%0A86-4%3Bbricks%3B16%3B16%3B0%3B0&s1=ctct%20B1%3Dct%20C2%3Dct"><i>traditional</i></a>, 
 <a href="https://d-bl.github.io/GroundForge/index.html?m=6-48%20%0A86-4%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtct%20C2%3Dtct"><i>cloth stitch</i></a>
-</p><br>
+    </td>
+  </tr>
+</table>
 
 <h3 id="bias-crrs">Bias Ground crossed rose style</h3>
 <table>
   <tr>
     <td><img align="left" alt="bias crossed" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-at.png"></td>
-    <td> {text-align: "left";}[WI D6][wi-D6], [WI F4][wi-F4]</td>
+    <td> [WI D6][wi-D6], [WI F4][wi-F4]</td>
   </tr>
 </table>
 
