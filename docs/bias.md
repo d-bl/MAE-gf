@@ -1,7 +1,7 @@
 <h1>Bias Grounds</h1>
 <h3>Contents</h3>
 <ul>
-[li]<a href="bias-intr">Introduction</a></li>
+<li><a href="bias-intr">Introduction</a></li>
 [Introduction](#introduction)
 [Traditional Bias Ground](#traditional-bias-ground)
 [Bias Ground crossed rose style](#bias-ground-crossed-rose-style)
