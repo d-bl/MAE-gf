@@ -14,13 +14,13 @@
                      
 <h3 id="main-intr">Introduction</h3>
 <p>
-In this wiki you find pages with additional patterns for use in [Groundforge](https://d-bl.github.io/GroundForge/), made by [Jo Pol](https://github.com/jo-pol). Given are the parameter-section and, in most cases, stitches, although not always traditional.
+In this wiki you find pages with additional patterns for use in <a href="https://d-bl.github.io/GroundForge/">Groundforge</a>, made by <a href="https://github.com/jo-pol">Jo Pol</a>. Given are the parameter-section and, in most cases, stitches, although not always traditional.
 </p>
 
-<h3 id="main-hwto">How to use these examples</h3>
+<h3 id="main-hwto">How to use these pages</h3>
 <p>
-All examples are links to the Groundforge main page. Follow the link and click `SHOW` in the `PAIR/THREAD DIAGRAM` section. Please feel free to play with the stitches. E.g. try what happens if you change the default `ctc` of the spiders or fish in `ct`.<br>
-The examples use pair-diagrams in the styled version (_matrix-scheme_) that Groundforge understands. If you wish to see this scheme, click `DIAGRAM`.
+All examples are links to the Groundforge main page. Follow the link and click <div style="background-color:grey;>SHOW</div> in the <div <div style="background-color:grey;>PAIR/THREAD DIAGRAM</div> section. Please feel free to play with the stitches. E.g. try what happens if you change the default <div style="background-color:grey;>ctc</div> of the spiders or fish in <div style="background-color:grey;>ct</div>.<br>
+The examples use pair-diagrams in the styled version (<i>matrix-scheme</i>) that Groundforge understands. If you wish to see this scheme, click <div style="background-color:grey;>DIAGRAM</div>.
 <br>
 Most of the patterns also have a scheme in the TesseLace index. Some, as the spiders and the larger fishes, don't.
 </p>
@@ -42,7 +42,7 @@ The pictures in this wiki are mostly made with Knipling (TM).
 WI = Whiting index
 </p>
 
-<h3 id="main-link">Other links</h3>
+<h3 id="main-link">Links</h3>
 <p>
 [Groundforge user guide](https://github.com/d-bl/GroundForge/wiki)   
 [Whiting index](http://gwydir.demon.co.uk/jo/lace/whiting/index.htm#picindex): Jo Edkins created an annotated online index on the grounds in _A Lace Guide for Makers and Collectors_ by Gertrude Whiting which dates from 1920.     
