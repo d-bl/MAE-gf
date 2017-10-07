@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
-  <head><title>Bias Grounds</title></head>
+<head><title>Bias Grounds</title></head>
+  <h1>Bias Grounds 2>
 <body>  
   
 <h3>Contents</h3>
@@ -27,7 +28,7 @@ Better names for the examples will follow.
 <p>
 <img align="left" alt="traditional bias" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-tr.png">
 <a href="https://d-bl.github.io/GroundForge/index.html?m=6-48%20%0A86-4%3Bbricks%3B16%3B16%3B0%3B0&s1=ctct%20B1%3Dct%20C2%3Dct"><i>traditional</i></a>, 
-<a href="https://d-bl.github.io/GroundForge/index.html?m=6-48%20%0A86-4%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtct%20C2%3Dtct"><i>cloth stitch</i></a>>
+<a href="https://d-bl.github.io/GroundForge/index.html?m=6-48%20%0A86-4%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtct%20C2%3Dtct"><i>cloth stitch</i></a>
 </p><br>
 
 <h3 id="bias-crrs">Bias Ground crossed rose style</h3>
