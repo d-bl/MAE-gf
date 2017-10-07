@@ -19,7 +19,7 @@ Better names for the examples will follow.
 <br><br>
 
 <h3 id="bias-trad">Traditional Bias Ground</h3>
-<img align="left" alt="traditional bias" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-tr.png">
+<img align="left" alt="traditional bias" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-tr.png"></p>
 > [traditional][G-0221-tr], [cloth][G-0228OD]
 <p><br>
 
