@@ -5,7 +5,7 @@
 
 <p> en hier komt dan allerlei leuke tekst
 <p><br>
-  
+ 
 ### squared rose ground
 <img alt="tf" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-tor-vl.png">
 
