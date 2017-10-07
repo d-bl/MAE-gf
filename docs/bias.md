@@ -1,6 +1,6 @@
 <style>
 table th, td {padding: 20px;}
-  th, td {width: 50%;}
+  th, td {width: 50%; text-align:left;}
 </style>
 <body>
 
