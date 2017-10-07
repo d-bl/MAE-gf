@@ -1,44 +1,46 @@
-### Contents
-* [Introduction](#introduction)
-* [Traditional Bias Ground](#traditional-bias-ground)
-* [Bias Ground crossed rose style](#bias-ground-crossed-rose-style)
-* [Bias Ground crossed differently](#bias-ground-crossed-differently)
-* [Bias Ground with a diagonal in between](#bias-ground-with-a-diagonal-in-between)
-* [Bias Ground crossed and a diagonal in between](#bias-ground-crossed-and-a-diagonal-in-between)
-<br>
+<h1>Bias Grounds</h1>
+<h3>Contents</h3>
+<ul>
+[Introduction](#introduction)
+[Traditional Bias Ground](#traditional-bias-ground)
+[Bias Ground crossed rose style](#bias-ground-crossed-rose-style)
+[Bias Ground crossed differently](#bias-ground-crossed-differently)
+[Bias Ground with a diagonal in between](#bias-ground-with-a-diagonal-in-between)
+[Bias Ground crossed and a diagonal in between](#bias-ground-crossed-and-a-diagonal-in-between)
+</ul><br>
 
-### Introduction
+<h3>Introduction</h3>
 <img align="right" alt="biasground" src="https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf%200221%20wt.png">
 
 The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagram on the right. In this article we show different grounds based on this diagonal.<br>
 
-Other nice grounds can be obtained by using one unit only. See [_Fancy examples_](https://github.com/MAETempels/MAE-gf/wiki/Fancy%20examples#short-bias).<br>
+Other nice grounds can be obtained by using one unit only. See <a href="https://github.com/MAETempels/MAE-gf/wiki/Fancy%20examples#short-bias"><i>Fancy examples</i></a>.<br>
 Better names for the examples will follow.
 <br><br>
 
-### Traditional Bias Ground
+<h3>Traditional Bias Ground</h3>
 ![traditional][P-0221-tr]
 > [traditional][G-0221-tr], [cloth][G-0228OD]
 <p><br>
 
-###  Bias Ground crossed rose style
+</h3>Bias Ground crossed rose style</h3>
 ![crossed][P-0221-at]
 > [WI D6][wi-D6], [WI F4][wi-F4]
 <p><br>
 
-### Bias Ground crossed differently
+<3>Bias Ground crossed differently</h3>
 ![alt crossed][P-0221-aa]
 > [WI E6][wi-E6]
 <p><br>
 
-### Bias Ground with a diagonal in between
+<h3>Bias Ground with a diagonal in between</h3>
 The Bias and the diagonal in between are connected diagonaly in the matrix-scheme. A horizontal connection also works.
 <br><br> 
 ![row between][P-0221-vg]
 > [example][G-0221-vg]
 <p><br>
 
-### Bias Ground crossed and a diagonal in between   
+<h3>Bias Ground crossed and a diagonal in between  </h3> 
 ![row & crossed][P-0221-av]
 > [example][G-0221-av]
 <p><br>
