@@ -1,9 +1,9 @@
 # dit is pagina 2
 * inhoud regel 1 <br>
 * inhoud regel 2 <br>
-* [rozengrond](#squared-rose-ground)
+* [rozengrond](#squared-rose-ground) <br>
 
-<p> en hier komt dan allerlei leuke tekst
+<p> en hier komt dan allerlei leuke tekst en nog wat fraais
 <p><br>
  
 ### squared rose ground
@@ -11,7 +11,7 @@
 
 By putting the traditional rose ground unit in a square, little stars can be made.<br>
 Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates.
-<br><br>
+<br><br></p>
 
 [naar index](https://maetempels.github.io/MAE-gf)
 <br>
