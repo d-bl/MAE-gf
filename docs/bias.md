@@ -23,12 +23,12 @@ Better names for the examples will follow.
 > [traditional][G-0221-tr], [cloth][G-0228OD]
 <p><br>
 
-</h3>Bias Ground crossed rose style</h3>
+<h3>Bias Ground crossed rose style</h3>
 ![crossed][P-0221-at]
 > [WI D6][wi-D6], [WI F4][wi-F4]
 <p><br>
 
-<3>Bias Ground crossed differently</h3>
+<h3>Bias Ground crossed differently</h3>
 ![alt crossed][P-0221-aa]
 > [WI E6][wi-E6]
 <p><br>
