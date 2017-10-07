@@ -22,6 +22,8 @@ inderdaad, in ...docs/images_wt of hoe ik dat dan ook wil noemen.<br>
 [naar pagina 2](https://maetempels.github.io/MAE-gf/docs/pagina2) 
 <br>
 
+<a href="https://maetempels.github.io/MAE-gf">naar index</a>
+<a href="url">link text</a>
 
 
 
