@@ -1,5 +1,6 @@
 <style>
 table th, td {padding: 20px;}
+  table {text-align: left;}
 </style>
 <body>
 
