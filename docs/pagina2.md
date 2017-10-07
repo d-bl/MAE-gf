@@ -15,6 +15,7 @@ nu alleen nog uitzoeken hoe het zit met plaatjes.
 waarschijnlijk moeten die in een plaatjes mapje in de site map.
 
 inderdaad, in ...docs/images_wt of hoe ik dat dan ook wil noemen.<br>
+<p>
 
 [naar pagina 2](https://maetempels.github.io/MAE-gf/docs/pagina2) <br>
 [naar index](https://maetempels.github.io/MAE-gf)<br>
