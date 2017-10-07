@@ -15,6 +15,7 @@ nu alleen nog uitzoeken hoe het zit met plaatjes.
 waarschijnlijk moeten die in een plaatjes mapje in de site map.
 
 inderdaad, in ...docs/images_wt of hoe ik dat dan ook wil noemen.<br>
+<p>
 
 [naar index](https://maetempels.github.io/MAE-gf)
 <br>
@@ -23,7 +24,7 @@ inderdaad, in ...docs/images_wt of hoe ik dat dan ook wil noemen.<br>
 <br>
 
 <a href="https://maetempels.github.io/MAE-gf">naar index</a>
-<a href="url">link text</a>
+
 
 
 
