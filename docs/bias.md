@@ -31,7 +31,7 @@ Better names for the examples will follow.
 <table>
   <tr>
     <td><img align="left" alt="bias crossed" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-at.png"></td>
-    <td>[WI D6][wi-D6], [WI F4][wi-F4]</td>
+    <td> {text-align: "left";}[WI D6][wi-D6], [WI F4][wi-F4]</td>
   </tr>
 </table>
 
