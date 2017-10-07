@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head><title>Bias Grounds</title></head>
-  <h1>Bias Grounds 2>
-<body>  
+<h1>Bias Grounds</h1>
   
 <h3>Contents</h3>
 <p><ul>
@@ -32,10 +28,12 @@ Better names for the examples will follow.
 </p><br>
 
 <h3 id="bias-crrs">Bias Ground crossed rose style</h3>
-<p>
-<img align="left" alt="bias crossed" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-at.png">
-> [WI D6][wi-D6], [WI F4][wi-F4]
-</p><br>
+<table>
+  <tr>
+    <td><img align="left" alt="bias crossed" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-at.png"></td>
+    <td>[WI D6][wi-D6], [WI F4][wi-F4]</td>
+  </tr>
+</table>
 
 <h3 id="bias-crdf">Bias Ground crossed differently</h3>
 <p>
@@ -55,9 +53,6 @@ The Bias and the diagonal in between are connected diagonaly in the matrix-schem
 <img align="left" alt="bias crossed and diagonal" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-av.png">
 > [example][G-0221-av]
 </p><br>
-
-</body>
-</html>
 
 [wi-D6]: https://d-bl.github.io/GroundForge/index.html?m=8-48%0A8314%3Bbricks%3B16%3B16%3B0%3B0&s1=ct%20D2%3Dctct%20A1%3Dctct%20C1%3Dctct%20B2%3Dctct
 [wi-F4]: https://d-bl.github.io/GroundForge/index.html?m=1483%208-48%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20A2%3Dctcllctc%20C2%3Dctcrrctc
