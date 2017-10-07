@@ -1,7 +1,7 @@
 <h1>Bias Grounds</h1>
 <h3>Contents</h3>
 <ul>
-<li><a href="bias-intr">Introduction</a></li>
+<li><a href="#bias-intr">Introduction</a></li>
 [Introduction](#introduction)
 [Traditional Bias Ground](#traditional-bias-ground)
 [Bias Ground crossed rose style](#bias-ground-crossed-rose-style)
@@ -11,7 +11,7 @@
 </ul><br>
 
 <h3 id="bias-intr">Introduction</h3>
-<img align="right" alt="biasground" src="https://maetempels.github.io/mae-gf/images_wt/gf%200221%20wt.png">
+<img align="right" alt="biasground" src="https://maetempels.github.io/MAE-gf/images_wt/gf%200221%20wt.png">
 
 The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagram on the right. In this article we show different grounds based on this diagonal.<br>
 
