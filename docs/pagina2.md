@@ -1,6 +1,7 @@
 <h3> dit is pagina 2</h3>
 * inhoud regel 1 <br>
 * inhoud regel 2 <br>
+* #rozengrond(squared-rose-ground)
 
 <p> en hier komt dan allerlei leuke tekst
 <p><br>
@@ -17,7 +18,7 @@ waarschijnlijk moeten die in een plaatjes mapje in de site map.
 inderdaad, in ...docs/images_wt of hoe ik dat dan ook wil noemen.<br>
 <p>
 
-[naar index](https://maetempels.github.io/MAE-gf)
+[naar index] (https://maetempels.github.io/MAE-gf)
 <br>
 
 [naar pagina 2](https://maetempels.github.io/MAE-gf/docs/pagina2) 
