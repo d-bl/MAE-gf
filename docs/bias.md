@@ -62,7 +62,7 @@ Better names for the examples will follow.
 <table>
   <tr>
     <td><img align="left" alt="bias with diagonal" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-vg.png"></td>
-    <td>The Bias and the diagonal in between are connected diagonaly in the matrix-scheme. A horizontal connection also works.<br>
+    <td style="text-align:left;">The Bias and the diagonal in between are connected diagonaly in the matrix-scheme. A horizontal connection also works.<br>
   <a href="https://d-bl.github.io/GroundForge/index.html?m=5-486-%0A-5-486%0A6-5-48%0A%0A%3Bbricks%3B16%3B16%3B0%3B0&s1=ctct%20C2%3Dct%20B1%3Dct%20A3%3Dct"><i>example</i></a>
     </td>
   </tr>
