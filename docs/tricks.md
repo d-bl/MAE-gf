@@ -29,6 +29,7 @@ Stitches used in the examples in this wiki:<br>
 <li>Cloth stitch = cross, twist, cross. Coloured purple.</li>
 <li>Whole stitch & twist = (twist if not already done), cross, twist, cross, twist. Coloured red.</li>
 <li>Plaits = (twist,) cross, twist, cross, twist, cross, twist, cross (, twist), .... . Coloured blue.</li>
+ </ul>
 </p>
 <p>
 <img alt="example" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf-tctct.png">
