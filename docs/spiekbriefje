@@ -1,0 +1,54 @@
+// tabel voor plaatjes & voorbeelden
+<style> 
+  table th, td {padding: 20px;} 
+  th, td {width: 50%; text-align:left;} 
+</style>
+
+// table voor 1 plaatje
+<style> 
+  table th, td {padding: 20px;} 
+</style>
+
+<body>          // start zichtbare tekst
+<h1>Naam van de pagina</h1>
+
+<h3>Contents</h3>
+<p><ul>
+  <li><a href="#spiek-par1">paragraaf 1</a></li>
+  <li><a href="#spiek-par2">paragraaf 2</a></li>
+</ul></p>
+
+<h3 id="spiek-par1">paragraaf 1</h3>
+<p>
+  // plaatje:
+<img alt="rose v.s. cinq" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png">
+  
+  // verwijzing naar GF in tekst
+<a href="https://d-bl.github.io/GroundForge/index.html?m=5831%20-4-7%3Bbricks%3B16%3B16%3B0%3B0&s1=ct%20A1%3Dctct%20C1%3Dctct">result</a>.
+ 
+ // verwijzing naar GF in examples
+<h3 id="bias-trad">Traditional Bias Ground</h3>
+<table>
+  <tr>
+    <td><img alt="traditional bias" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-tr.png"></td>
+    <td>
+      <a href="https://d-bl.github.io/GroundForge/index.html...."><i>traditional</i></a>, 
+      <a href="https://d-bl.github.io/GroundForge/index.html..."><i>cloth stitch</i></a>
+    </td>
+  </tr>
+</table>
+
+  // verwijzing naar paragraaf in deze website (nog aanpassen)
+<a href="https://github.com/MAETempels/MAE-gf/wiki/Marian's-patterns#sunny-stitch"><i>Sunny Stitch</i></a>
+</p>
+
+<h3 id="spiek-par2">paragraaf 2</h3>
+<p>
+  // steken
+<font style="background-color:oldlace;">stitches</font>
+
+  // verwijzing naar GF elementen
+<font style="background-color:linen;">GF elementen</font>
+</p>
+</body>   // einde zichtbare tekst
+
