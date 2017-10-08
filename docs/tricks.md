@@ -30,7 +30,7 @@ Stitch-colours used in the examples in this website:<br>
 <li>Plaits = (twist,) cross, twist, cross, twist, cross, twist, cross (, twist), .... . Coloured <b style="color:blue;">blue</b>.</li>
 </ul></p>
 <p>
-Sometimes, onorthodox stitches are used, like <b style="background-color:white;">Cross only</b> or <b>crcllcrc</b>, as in the 
+Sometimes, onorthodox stitches are used, like <b style="background-color:ivory;">Cross only</b> or <b>crcllcrc</b>, as in the 
 <a href="https://github.com/MAETempels/MAE-gf/wiki/Marian's-patterns#sunny-stitch"><i>Sunny Stitch</i></a>
 </p>
 <p>
