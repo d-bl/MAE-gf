@@ -23,15 +23,15 @@ Stitch-colours used in the examples in this website:<br>
 <img alt="colours" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-kleurtjes.png">
 <br>
 <ul>
-<li>Cross only. In working scheme's coloured <font style="color:grey;">grey</font>.</li>
-<li>Half stitch = (twist if not already done), cross, twist. Coloured <font style="color:lime;">green</font>.</li>
-<li>Cloth stitch = cross, twist, cross. Coloured <font style="color:purple;">purple</font>.</li>
-<li>Whole stitch & twist = (twist if not already done), cross, twist, cross, twist. Coloured <font style="color:red;">red</font>.</li>
-<li>Plaits = (twist,) cross, twist, cross, twist, cross, twist, cross (, twist), .... . Coloured <font style="color:blue;">blue</font>.</li>
+<li>Cross only. In working scheme's coloured <font style="color:grey; background-color:white;">grey</font>.</li>
+<li>Half stitch = (twist if not already done), cross, twist. Coloured <font style="color:lime; background-color:white;">green</font>.</li>
+<li>Cloth stitch = cross, twist, cross. Coloured <font style="color:purple; background-color:white;">purple</font>.</li>
+<li>Whole stitch & twist = (twist if not already done), cross, twist, cross, twist. Coloured <font style="color:red; background-color:white;">red</font>.</li>
+<li>Plaits = (twist,) cross, twist, cross, twist, cross, twist, cross (, twist), .... . Coloured <font style="color:blue; background-color:white;">blue</font>.</li>
 </ul></p>
 <p>
-Sometimes, onorthodox stitches are used, like <font style="background-color:oldlace;">Cross only</font> or <font style="background-color:oldlace;">crcllcrc</font>, as in the 
-<a href="https://github.com/MAETempels/MAE-gf/wiki/Marian's-patterns#sunny-stitch"><i>Sunny Stitch</i></a>
+Sometimes, onorthodox stitches are used, like <font style="background-color:oldlace;">cross only</font> or <font style="background-color:oldlace;">crcllcrc</font>, as in the 
+<a href="https://github.com/MAETempels/MAE-gf/wiki/Marian's-patterns#sunny-stitch"><i>Sunny Stitch</i></a>.
 </p>
 <p>
 Groundforge has rules as to which stitch-code gets what colour, according to the slightly adapted Belgian colour code. In this website, the pair-diagrams will not always show the Belgian colour code, due to the following, illustrated with an example. <br>
@@ -39,9 +39,10 @@ Groundforge has rules as to which stitch-code gets what colour, according to the
 <img alt="example" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf-tctct.png">
 Suppose, we wish to work on the example on the right. The whole stitch & twist in the middle can be specified several ways. We prefer to use <font style="background-color:oldlace;">ctc B1=tctct</font>, see 
 <a href="https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtctct">here</a>. 
-However, doing so, Groundforge colours this stitch in black in the pair-diagram (the left one). If we wish to see a red stitch, we have to use <font style="background-color:oldlace;">ctc A1=ctcr A2=ctcr B1=ctct</font>, see 
-<a href="https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dctct%20A2%3Dctcr%20A1%3Dctcr">here</a>.<br>
-
+However, doing so, Groundforge colours this stitch in black in the pair-diagram. If we wish to see a red stitch, we have to use <font style="background-color:oldlace;">ctc A1=ctcr A2=ctcr B1=ctct</font>, see 
+<a href="https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dctct%20A2%3Dctcr%20A1%3Dctcr">here</a>.
+</p>
+<p>
 Groundforge accepts only stitch-instructions with at least one cross. The instruction <font style="background-color:oldlace;">A1=t</font> will be translated into <font style="background-color:oldlace;">A1=ct</font>. </p>
 <p>
 We have tried <font style="background-color:oldlace;">ctctclllllctctc</font> as a substitute for picots. Groundforge needs some time to generate this, and the result is not as expected.
@@ -51,7 +52,7 @@ We have tried <font style="background-color:oldlace;">ctctclllllctctc</font> as 
 <p>
 Most examples use the <font style="background-color:linen;">brick</font> parameter setting, drawn as a blue rectangle when shown, since it's less ID's to specify. Some scheme's do not have a working brick diagram, so, of course, a <font style="background-color:linen;">checkers</font> parameter is used, drawn as a red rectangle when shown. <br>
 
-Please note, that the ID's needed for the stitches shift somehow. <font style="background-color:oldlace;">A1</font> is not in the upperleft corner of the shown units in the examples.
+Please note, that the ID's needed for the stitches shift somehow. <font style="background-color:linen;">A1</font> is not in the upperleft corner of the shown units in the examples.
 </p>
 
 <h3 id="trck-foot">Footsides</h3>
