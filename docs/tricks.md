@@ -18,13 +18,10 @@ Example: The picture shows the working-scheme's of one unit of <i>Slavic rose gr
 
 <h3 id="trck-stch">Stitches</h3>
 <p>
-<img alt="colours" align="center" src="https://maetempels.github.io/MAE-gf/images_wt/gf-kleurtjes.png">
-</p>
-
-<p>
-Stitches used in the examples in this wiki:<br>
+<img alt="colours" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-kleurtjes.png">
+Stitches used in the examples in this website:<br>
 <ul>
-<li>Cross only. In working scheme's coloured in grey.</li>
+<li>Cross only. In working scheme's coloured grey.</li>
 <li>Half stitch = (twist if not already done), cross, twist. Coloured green.</li>
 <li>Cloth stitch = cross, twist, cross. Coloured purple.</li>
 <li>Whole stitch & twist = (twist if not already done), cross, twist, cross, twist. Coloured red.</li>
@@ -34,16 +31,18 @@ Stitches used in the examples in this wiki:<br>
 <p>
 Sometimes, onorthodox stitches are used, like <b>Cross only</b> or <b>crcllcrc</b>, as in the 
 <a href="https://github.com/MAETempels/MAE-gf/wiki/Marian's-patterns#sunny-stitch"><i>Sunny Stitch</i></a>
-<br>
+</p>
+<p>
+Groundforge has rules as to which stitch-code gets what colour, according to the slightly adapted Belgian colour code. In this website, the pair-diagrams will not always show the Belgian colour code, due to the following, illustrated with an example. <br>
+
 <img alt="example" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf-tctct.png">
-Groundforge has rules as which stitch-code gets what colour, according to the Belgian colour code. In this wiki, the pair-diagrams will not always show the Belgian colour code, due to the following, illustrated with an example. <br>
 Suppose, we wish to work on the example on the right. The whole stitch & twist in the middle can be specified several ways. We prefer to use <b>ctc B1=tctct</b>, see 
 <a href="https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtctct">here</a>. 
 However, doing so, Groundforge colours this stitch in black in the pair-diagram (the left one). If we wish to see a red stitch, we have to use <b>ctc A1=ctcr A2=ctcr B1=ctct</b>, see 
 <a href="https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dctct%20A2%3Dctcr%20A1%3Dctcr">here</a>.<br>
 
-Groundforge accepts only stitch-instructions with at least one cross. The instruction <b>A1=t</b> will be translated into <b>A1=ct</b>. <br>
-
+Groundforge accepts only stitch-instructions with at least one cross. The instruction <b>A1=t</b> will be translated into <b>A1=ct</b>. </p>
+<p>
 We have tried <b>ctctclllllctctc</b> as a substitute for picots. Groundforge needs some time to generate this, and the result is not as expected.
 </p>
 
