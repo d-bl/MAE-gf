@@ -19,15 +19,15 @@ Example: The picture shows the working-scheme's of one unit of <i>Slavic rose gr
 
 <h3 id="trck-stch">Stitches</h3>
 <p>
-Stitch-colours used in the examples in this website:<br>
-<img alt="colours" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-kleurtjes.png">
+Stitch-colours used in the examples in this website:
+<img alt="colours" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf-kleurtjes.png">
 <br>
 <ul>
 <li>Cross only. In working scheme's coloured <font style="color:grey; background-color:white;">grey</font>.</li>
 <li>Half stitch = (twist if not already done), cross, twist. Coloured <font style="color:lime; background-color:white;">green</font>.</li>
 <li>Cloth stitch = cross, twist, cross. Coloured <font style="color:purple; background-color:white;">purple</font>.</li>
 <li>Whole stitch & twist = (twist if not already done), cross, twist, cross, twist. Coloured <font style="color:red; background-color:white;">red</font>.</li>
-<li>Plaits = (twist,) cross, twist, cross, twist, cross, twist, cross (, twist), .... . Coloured <font style="color:blue; background-color:white;">blue</font>.</li>
+<li>Plaits = (twist,) cross, twist, cross, twist, cross, twist, cross (, twist), .... Coloured <font style="color:blue; background-color:white;">blue</font>.</li>
 </ul></p>
 <p>
 Sometimes, onorthodox stitches are used, like <font style="background-color:oldlace;">cross only</font> or <font style="background-color:oldlace;">crcllcrc</font>, as in the 
