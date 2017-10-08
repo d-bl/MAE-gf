@@ -5,8 +5,8 @@
 <p><ul>
 <li><a href="#trck-grna">Ground names</a></li>
 <li><a href="#trck-stch">Stitches</a></li>
-<li><a href="trck-tile">Tiling</a></li>
-<li><a href="trck-foot">Footsides</a></li>
+<li><a href="#trck-tile">Tiling</a></li>
+<li><a href="#trck-foot">Footsides</a></li>
 </ul></p>
 
 <h3 id="trck-grna">Ground names</h3>
@@ -32,12 +32,10 @@ Stitches used in the examples in this wiki:<br>
  </ul>
 </p>
 <p>
-<img alt="example" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf-tctct.png">
 Sometimes, onorthodox stitches are used, like <b>Cross only</b> or <b>crcllcrc</b>, as in the 
-<a href="https://github.com/MAETempels/MAE-gf/wiki/Marian's-patterns#sunny-stitch><i>Sunny Stitch</i></a>
-                                                                                                 
-</p>
-<p>
+<a href="https://github.com/MAETempels/MAE-gf/wiki/Marian's-patterns#sunny-stitch"><i>Sunny Stitch</i></a>
+<br>
+<img alt="example" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf-tctct.png">
 Groundforge has rules as which stitch-code gets what colour, according to the Belgian colour code. In this wiki, the pair-diagrams will not always show the Belgian colour code, due to the following, illustrated with an example. <br>
 Suppose, we wish to work on the example on the right. The whole stitch & twist in the middle can be specified several ways. We prefer to use <b>ctc B1=tctct</b>, see 
 <a href="https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtctct">here</a>. 
