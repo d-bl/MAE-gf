@@ -18,15 +18,16 @@ Example: The picture shows the working-scheme's of one unit of <i>Slavic rose gr
 
 <h3 id="trck-stch">Stitches</h3>
 <p>
+Stitch-colours used in the examples in this website:<br>
 <img alt="colours" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-kleurtjes.png">
-Stitches used in the examples in this website:<br>
+<br>
 <ul>
-<li>Cross only. In working scheme's coloured grey.</li>
-<li>Half stitch = (twist if not already done), cross, twist. Coloured green.</li>
-<li>Cloth stitch = cross, twist, cross. Coloured purple.</li>
-<li>Whole stitch & twist = (twist if not already done), cross, twist, cross, twist. Coloured red.</li>
-<li>Plaits = (twist,) cross, twist, cross, twist, cross, twist, cross (, twist), .... . Coloured blue.</li>
- </ul>
+<li style="color:grey;">Cross only. In working scheme's coloured grey.</li></p>
+<li><p style="color:green;">Half stitch = (twist if not already done), cross, twist. Coloured green.</li></p>
+<li style="color:purple;">Cloth stitch = cross, twist, cross. Coloured purple.</li>
+<li style="color:red;">Whole stitch & twist = (twist if not already done), cross, twist, cross, twist. Coloured red.</li>
+<li style="color:blue;">Plaits = (twist,) cross, twist, cross, twist, cross, twist, cross (, twist), .... . Coloured blue.</li>
+</ul>
 </p>
 <p>
 Sometimes, onorthodox stitches are used, like <b>Cross only</b> or <b>crcllcrc</b>, as in the 
