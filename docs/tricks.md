@@ -13,7 +13,8 @@
 <p>
 <img alt="rose v.s. cinq" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png">
 Unfortunately grounds do not have one unique name. Not even in one language. Also, the same name is used for different grounds. To make naming even more difficult, Groundforge does not make a difference in Torchon or Flemish grounds.<br> 
-Example: The picture shows the working-scheme's of one unit of <i>Slavic rose ground</i> and one unit of <i>Fond au cinq trous</i>. Groundforge gives the same <a href="https://d-bl.github.io/GroundForge/index.html?m=5831%20-4-7%3Bbricks%3B16%3B16%3B0%3B0&s1=ct%20A1%3Dctct%20C1%3Dctct">result</a>.
+Example: The picture shows the working-scheme's of one unit of <i>Slavic rose ground</i> and one unit of <i>Fond au cinq trous</i>. Groundforge gives the same 
+ <a href="https://d-bl.github.io/GroundForge/index.html?m=5831%20-4-7%3Bbricks%3B16%3B16%3B0%3B0&s1=ct%20A1%3Dctct%20C1%3Dctct">result</a>.
 </p>
 
 <h3 id="trck-stch">Stitches</h3>
@@ -22,13 +23,12 @@ Stitch-colours used in the examples in this website:<br>
 <img alt="colours" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-kleurtjes.png">
 <br>
 <ul>
-<li style="color:grey;">Cross only. In working scheme's coloured grey.</li></p>
-<li><p style="color:green;">Half stitch = (twist if not already done), cross, twist. Coloured green.</li></p>
+<li style="color:grey;">Cross only. In working scheme's coloured grey.</li>
+<li style="color:green;">Half stitch = (twist if not already done), cross, twist. Coloured green.</li>
 <li style="color:purple;">Cloth stitch = cross, twist, cross. Coloured purple.</li>
 <li style="color:red;">Whole stitch & twist = (twist if not already done), cross, twist, cross, twist. Coloured red.</li>
 <li style="color:blue;">Plaits = (twist,) cross, twist, cross, twist, cross, twist, cross (, twist), .... . Coloured blue.</li>
-</ul>
-</p>
+</ul></p>
 <p>
 Sometimes, onorthodox stitches are used, like <b>Cross only</b> or <b>crcllcrc</b>, as in the 
 <a href="https://github.com/MAETempels/MAE-gf/wiki/Marian's-patterns#sunny-stitch"><i>Sunny Stitch</i></a>
