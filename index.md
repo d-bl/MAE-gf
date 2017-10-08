@@ -50,7 +50,7 @@ WI = Whiting index
 <p>
 <a href="https://github.com/d-bl/GroundForge/wiki">Groundforge user guide</a><br>
 <a href="https://github.com/d-bl/GroundForge/wiki/TesseLace-Index">TesseLace index</a><br>
-<a href="http://gwydir.demon.co.uk/jo/lace/whiting/index.htm#picindex">Whiting index</a>: Jo Edkins created an annotated online index on the grounds in _A Lace Guide for Makers and Collectors_ by Gertrude Whiting which dates from 1920.<br>
+<a href="http://gwydir.demon.co.uk/jo/lace/whiting/index.htm#picindex">Whiting index</a>: Jo Edkins created an annotated online index on the grounds in <i>A Lace Guide for Makers and Collectors</i> by Gertrude Whiting which dates from 1920.<br>
 <a href="https://github.com/d-bl/GroundForge/wiki/Whiting-Index">Groundforge Whiting index</a>: The same index, with links to Groundforge scheme's and main page.
 </p>
 
