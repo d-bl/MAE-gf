@@ -23,8 +23,8 @@ In this wiki you find pages with additional patterns for use in <a href="https:/
 
 <h3 id="main-hwto">How to use these pages</h3>
 <p>
-All examples are links to the Groundforge main page. Follow the link and click <b style="background-color:lightcyan;">SHOW</b> in the <b style="background-color:lightcyan;">PAIR/THREAD DIAGRAM</b> section. Please feel free to play with the stitches. E.g. try what happens if you change the default <b style="background-color:lightcyan;">ctc</b> of the spiders or fish in <b style="background-color:lightcyan;">ct</b>.<br>
-The examples use pair-diagrams in the styled version (<i>matrix-scheme</i>) that Groundforge understands. If you wish to see this scheme, click <b style="background-color:lightcyan;">DIAGRAM</b>.<br>
+All examples are links to the Groundforge main page. Follow the link and click <font style="background-color:linen;">SHOW</font> in the <font style="background-color:linen;">PAIR/THREAD DIAGRAM</font> section. Please feel free to play with the stitches. E.g. try what happens if you change the default <font style="background-color:oldlace;">ctc</font> of the spiders or fish in <font style="background-color:oldlace;">ct</font>.<br>
+The examples use pair-diagrams in the styled version (<i>matrix-scheme</i>) that Groundforge understands. If you wish to see this scheme, click <font style="background-color:linen;">DIAGRAM</font>.<br>
 Most of the patterns also have a scheme in the TesseLace index. Some, as the spiders and the larger fishes, don't.
 </p>
 
