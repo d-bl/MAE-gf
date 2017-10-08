@@ -31,8 +31,8 @@ Better names for the examples will follow.
   <tr>
     <td><img alt="traditional bias" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-tr.png"></td>
     <td>
-      <a href="https://d-bl.github.io/GroundForge/index.html?m=6-48%20%0A86-4%3Bbricks%3B16%3B16%3B0%3B0&s1=ctct%20B1%3Dct%20C2%3Dct"><i>traditional</i></a>, 
-<a href="https://d-bl.github.io/GroundForge/index.html?m=6-48%20%0A86-4%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtct%20C2%3Dtct"><i>cloth stitch</i></a>
+      <a href="https://d-bl.github.io/GroundForge/index.html?m=6-48%20%0A86-4%3Bbricks%3B16%3B16%3B0%3B0&s1=ctct%20B1%3Dct%20C2%3Dct">traditional</a>, 
+<a href="https://d-bl.github.io/GroundForge/index.html?m=6-48%20%0A86-4%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtct%20C2%3Dtct">cloth stitch</a>
     </td>
   </tr>
 </table>
@@ -42,8 +42,8 @@ Better names for the examples will follow.
   <tr>
     <td><img alt="bias crossed" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-at.png"></td>
     <td> 
-      <a href="https://d-bl.github.io/GroundForge/index.html?m=8-48%0A8314%3Bbricks%3B16%3B16%3B0%3B0&s1=ct%20D2%3Dctct%20A1%3Dctct%20C1%3Dctct%20B2%3Dctct"><i>WI D6</i></a>,
-      <a href="https://d-bl.github.io/GroundForge/index.html?m=1483%208-48%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20A2%3Dctcllctc%20C2%3Dctcrrctc"><i>WI F4</i></a>
+      <a href="https://d-bl.github.io/GroundForge/index.html?m=8-48%0A8314%3Bbricks%3B16%3B16%3B0%3B0&s1=ct%20D2%3Dctct%20A1%3Dctct%20C1%3Dctct%20B2%3Dctct">WI D6</a>,
+      <a href="https://d-bl.github.io/GroundForge/index.html?m=1483%208-48%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20A2%3Dctcllctc%20C2%3Dctcrrctc">WI F4</a>
       </td>
   </tr>
 </table>
@@ -53,7 +53,7 @@ Better names for the examples will follow.
   <tr>
     <td><img alt="bias alt crossed" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-aa.png"></td>
     <td>
-    <a href="https://d-bl.github.io/GroundForge/index.html?m=1488-483%208-483148%20831488-4%20488-4831%3Bbricks%3B16%3B16%3B0%3B0&s1=ct%20F3%3Dctct%20E4%3Dctct%20G4%3Dctct%20B1%3Dctct%20H1%3Dctct%20C4%3Dctct%20A2%3Dctct%20H3%3Dctct%20B3%3Dctct%20A4%3Dctct%20D1%3Dctct%20C2%3Dctct%20E2%3Dctct%20D3%3Dctct%20F1%3Dctct%20G4%3Dctct%20G2%3Dctct"><i>WI E6</i></a>
+    <a href="https://d-bl.github.io/GroundForge/index.html?m=1488-483%208-483148%20831488-4%20488-4831%3Bbricks%3B16%3B16%3B0%3B0&s1=ct%20F3%3Dctct%20E4%3Dctct%20G4%3Dctct%20B1%3Dctct%20H1%3Dctct%20C4%3Dctct%20A2%3Dctct%20H3%3Dctct%20B3%3Dctct%20A4%3Dctct%20D1%3Dctct%20C2%3Dctct%20E2%3Dctct%20D3%3Dctct%20F1%3Dctct%20G4%3Dctct%20G2%3Dctct">WI E6</a>
     </td>
   </tr>
 </table>
@@ -63,7 +63,7 @@ Better names for the examples will follow.
   <tr>
     <td><img alt="bias with diagonal" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-vg.png"></td>
     <td>The Bias and the diagonal in between are connected diagonaly in the matrix-scheme. A horizontal connection also works.<br>
-  <a href="https://d-bl.github.io/GroundForge/index.html?m=5-486-%0A-5-486%0A6-5-48%0A%0A%3Bbricks%3B16%3B16%3B0%3B0&s1=ctct%20C2%3Dct%20B1%3Dct%20A3%3Dct"><i>example</i></a>
+  <a href="https://d-bl.github.io/GroundForge/index.html?m=5-486-%0A-5-486%0A6-5-48%0A%0A%3Bbricks%3B16%3B16%3B0%3B0&s1=ctct%20C2%3Dct%20B1%3Dct%20A3%3Dct">example</a>
     </td>
   </tr>
 </table>
@@ -73,7 +73,7 @@ Better names for the examples will follow.
   <tr>
     <td><img alt="bias crossed and diagonal" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-av.png"></td>
     <td>
-      <a href="https://d-bl.github.io/GroundForge/index.html?m=8-7-48%0A831214%0A488-7-%0A148312%0A7-488-%0A121483%0A%0A%3Bchecker%3B16%3B16%3B0%3B0&s1=ctct%20E4%3Dct%20F5%3Dct%20B1%3Dct%20D3%3Dct%20A6%3Dct%20C2%3Dct"><i>example</i></a>
+      <a href="https://d-bl.github.io/GroundForge/index.html?m=8-7-48%0A831214%0A488-7-%0A148312%0A7-488-%0A121483%0A%0A%3Bchecker%3B16%3B16%3B0%3B0&s1=ctct%20E4%3Dct%20F5%3Dct%20B1%3Dct%20D3%3Dct%20A6%3Dct%20C2%3Dct">example</a>
     </td>
   </tr>
 </table>
