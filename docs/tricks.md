@@ -36,6 +36,7 @@ Stitches used in the examples in this wiki:<br>
 Sometimes, onorthodox stitches are used, like <b>Cross only</b> or <b>crcllcrc</b>, as in the 
 <a href="https://github.com/MAETempels/MAE-gf/wiki/Marian's-patterns#sunny-stitch><i>Sunny Stitch</i></a>
 <img alt="example" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf-tctct.png">
+                                                                                                 
 </p>
 <p>
 Groundforge has rules as which stitch-code gets what colour, according to the Belgian colour code. In this wiki, the pair-diagrams will not always show the Belgian colour code, due to the following, illustrated with an example. <br>
