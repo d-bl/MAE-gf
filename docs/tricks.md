@@ -23,14 +23,14 @@ Stitch-colours used in the examples in this website:<br>
 <img alt="colours" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-kleurtjes.png">
 <br>
 <ul>
-<li style="color:grey;">Cross only. In working scheme's coloured grey.</li>
-<li style="color:green;">Half stitch = (twist if not already done), cross, twist. Coloured green.</li>
-<li style="color:purple;">Cloth stitch = cross, twist, cross. Coloured purple.</li>
-<li style="color:red;">Whole stitch & twist = (twist if not already done), cross, twist, cross, twist. Coloured red.</li>
-<li style="color:blue;">Plaits = (twist,) cross, twist, cross, twist, cross, twist, cross (, twist), .... . Coloured blue.</li>
+<li>Cross only. In working scheme's coloured <b style="color:grey;">grey</b>.</li>
+<li>Half stitch = (twist if not already done), cross, twist. Coloured <b style="color:green;">green</b>.</li>
+<li>Cloth stitch = cross, twist, cross. Coloured <b style="color:purple:">purple</b>.</li>
+<li>Whole stitch & twist = (twist if not already done), cross, twist, cross, twist. Coloured <b style="color:red";>red</b>.</li>
+<li>Plaits = (twist,) cross, twist, cross, twist, cross, twist, cross (, twist), .... . Coloured <b style="color:blue;">blue</b>.</li>
 </ul></p>
 <p>
-Sometimes, onorthodox stitches are used, like <b>Cross only</b> or <b>crcllcrc</b>, as in the 
+Sometimes, onorthodox stitches are used, like <b style="background-color:grey;">Cross only</b> or <b>crcllcrc</b>, as in the 
 <a href="https://github.com/MAETempels/MAE-gf/wiki/Marian's-patterns#sunny-stitch"><i>Sunny Stitch</i></a>
 </p>
 <p>
