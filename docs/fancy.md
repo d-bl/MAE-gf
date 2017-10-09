@@ -9,14 +9,14 @@
 
 <h3>Contents</h3>
 <p><ul>
-  <li><a href="fanc-intr">Introduction</a></li>
+  <li><a href="#fanc-intr">Introduction</a></li>
 </ul></p> 
 <b>Squares</b>
 <p><ul>
-  <li><a href="#fanc-rose">Squared rose ground</a></li>
-  <li><a href="#fanc-snow">Squared snowflake</a></li>
-  <li><a href="#fanc-spin">Squared spider</a></li>
-  <li><a href="#fanc-pago">Squared pagoda</a></li>
+  <li><a href="#fanc-rose">Rose ground in a square</a></li>
+  <li><a href="#fanc-snow">Snowflake in a square</a></li>
+  <li><a href="#fanc-spin">Spider in a square</a></li>
+  <li><a href="#fanc-pago">Pagoda in a square</a></li>
 </ul></p>
 <b>Others</b>
 <p><ul>
@@ -30,7 +30,7 @@
 Some fancy examples, collected on this page. Names will be looked after later.
 </p>
 
-<h3 id="fanc-rose">Squared Rose ground</h3>
+<h3 id="fanc-rose">Rose ground in a square</h3>
 <table><tr>
   <td><img alt="torchon-flemish" src="https://maetempels.github.io/MAE-gf/images_wt/gf-tor-vl.png"> </td>
   <td><p>By putting the traditional rose ground unit in a square, little stars can be made.<br>
@@ -38,19 +38,19 @@ Please note: when making the actual lace, it will make a big difference if the u
 <a href="https://d-bl.github.io/GroundForge/index.html?m=586-21%0A-48317%0A5-4-7-%0A%3Bbricks%3B16%3B16%3B0%3B0&s1=ctctt%20E3%3Dc%20A3%3Dc%20E2%3Dctt%20A2%3Dctt%20A1%3Dctcl%20E1%3Dctcr%20F2%3Dctct%20F3%3Dctct">Star</a></td>
 </tr></table>
 
-<h3 id="fanc-snow">Squared Snowflake</h3>
+<h3 id="fanc-snow">Snowflake in a square</h3>
 <p>
-See page <a href="https:///github.com/MAETempels/MAE-gf/wiki/Snowflakes/#squared-snowflake"><i>Snowflakes</i></a>.
+See page <a href="https://github.com/MAETempels/MAE-gf/wiki/Snowflakes#snowflake-in-a-square"><i>Snowflakes</i></a>.
 </p>
 
-<h3 id="fanc-spin">Squared Spider</h3>
+<h3 id="fanc-spin">Spider in a square</h3>
 <p>
 See page <a href="https:///github.com/MAETempels/MAE-gf/wiki/Spiders#spiders-in-a-square"><i>Spiders</i></a>.
 </p>
 
-<h3 id="fanc-pago">Squared pagoda</h3>
+<h3 id="fanc-pago">Pagoda in a square</h3>
 <p>
-See page <a href="https:///github.com/MAETempels/MAE-gf/wiki/Pagoda's-or-Triangular-grounds#pagoda-in-a-square"><i>Pagoda's</i></a>.
+See page <a href="https://github.com/MAETempels/MAE-gf/wiki/Pagoda's-or-Triangular-grounds#pagoda-in-a-square"><i>Pagoda's</i></a>.
 </p>
 
 <h3 id="fanc-omom">Om & Om</h3>
