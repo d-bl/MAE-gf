@@ -1,8 +1,14 @@
+// tabel voor plaatjes & voorbeelden
+<style> 
+  table th, td {padding: 20px;} 
+  th, td {width: 50%; text-align:left;} 
+</style>
+
 <body>
 
 <h1>Fancy examples</h1>
 
-<h3 Contents</h3>
+<h3>Contents</h3>
 <p><ul>
   <li><a href="fanc-intr">Introduction</a><li>
 </ul></p> 
@@ -15,7 +21,7 @@
 </ul></p>
 <b>Others</b>
 <p><ul>
-  <li><a href="#fanc-omom">Om & Om (alternate stitch></a></li>
+  <li><a href="#fanc-omom">Om & Om (alternate stitch)</a></li>
   <li><a href="#fanc-bias">Short bias</li>
   <li><a href="#fanc-plai">Plaits and Roses</a></li>
 </ul></p>
@@ -27,13 +33,15 @@ Some fancy examples, collected on this page. Names will be looked after later.
 
 <h3 id="fanc-rose">Squared Rose ground</h3>
 <p>
-<img alt="torchon-flemish" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-tor-vl.png">
-By putting the traditional rose ground unit in a square, little stars can be made.<br>
+<table><tr>
+  <td><img alt="torchon-flemish" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-tor-vl.png"> </td>
+<td>By putting the traditional rose ground unit in a square, little stars can be made.<br>
 Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates.
 </p>
 <p>
-> [Star][G-0112]
-<p><br>
+[Star][G-0112]
+ </td>
+</tr></table>
 
 <h3 id="fanc-snow">Squared Snowflake</h3>
 See page [Snowflakes](https://github.com/MAETempels/MAE-gf/wiki/Snowflakes/#squared-snowflake).
@@ -50,34 +58,30 @@ See page [Pagoda's](https://github.com/MAETempels/MAE-gf/wiki/Pagoda's-or-Triang
 </p>
 
 <h3 id="fanc-omom">Om & Om</h3>
-<img alt="om & om" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-oeno-11.png">
-<p>
-In the Tesselace index a scheme for <i>Om & Om</i> can be found (the very first one).<br>
-However, as the tiling-parameter is set to `Brick` the stitches can not be chosen to generate the Om & Om. Setting the tiling to `Checkers` does the trick, as in the following examples. You might try to see what happens if you change the tiling-parameter (works even with an odd number of collumns).
-</p>
-<p>
-> [o&o 11][oo-11], [o&o 12][oo-12], [o&o 12a][oo-12a]
-</p>
+<table><tr>
+  <td><img alt="om & om" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-oeno-11.png"></td>
+  <td>In the Tesselace index a scheme for <i>Om & Om</i> can be found (the very first one).<br>
+However, as the tiling-parameter is set to `Brick` the stitches can not be chosen to generate the Om & Om. Setting the tiling to `Checkers` does the trick, as in the following examples. You might try to see what happens if you change the tiling-parameter (works even with an odd number of collumns).<br>
+[o&o 11][oo-11], [o&o 12][oo-12], [o&o 12a][oo-12a]
+</td></tr></table>
 
 <h3 id="fanc-bias">Short Bias</h3>
-<p>
-Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter may give nice results in two colours.
-</p>
-<p>
-![short bias foto][foto-0228-OGy] ![short bias 1][pic-0228-OG] ![short bias 2][pic-0228-OGy]
-</p>
-<p>
-> [left][G-0228-OG], [right][G-0228-OGy]
-</p>
+<table><tr>
+  <td>![short bias foto][foto-0228-OGy]</td>
+  <td>Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter may give nice results in two colours.</td>
+</tr><tr>
+   <td>![short bias 1][pic-0228-OG] ![short bias 2][pic-0228-OGy]</td>
+   <td> [left][G-0228-OG], [right][G-0228-OGy]</td>
+</tr></table>
 
 <h3 id="fanc-plai">Plaits and Roses</h3>
-<p>
-<img alt="fusion" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-fusion.png">  
-The traditional rose ground units separated with plaits. Please note: the plaits should stay plaits. The Snowflake example uses the same pricking as the rose ground, but is made as a little snowflake.
-</p>
-<p>
+<table><tr>
+  <td><img alt="fusion" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-fusion.png"></td>
+  <td>
+The traditional rose ground units separated with plaits. Please note: the plaits should stay plaits. The Snowflake example uses the same pricking as the rose ground, but is made as a little snowflake.<br>
 > [Snowflake][G-0342]  
-</p>
+</td>
+  </tr></table>
 
 </body>
 
