@@ -1,4 +1,3 @@
-// tabel voor plaatjes & voorbeelden
 <style> 
   table th, td {padding: 20px;} 
   th, td {width: 50%; text-align:left;} 
@@ -10,7 +9,7 @@
 
 <h3>Contents</h3>
 <p><ul>
-  <li><a href="fanc-intr">Introduction</a><li>
+  <li><a href="fanc-intr">Introduction</a></li>
 </ul></p> 
 <b>Squares</b>
 <p><ul>
@@ -32,18 +31,16 @@ Some fancy examples, collected on this page. Names will be looked after later.
 </p>
 
 <h3 id="fanc-rose">Squared Rose ground</h3>
-<p>
 <table><tr>
-  <td><img alt="torchon-flemish" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-tor-vl.png"> </td>
-<td>By putting the traditional rose ground unit in a square, little stars can be made.<br>
-Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates.
-</p>
-<p>
+  <td><img alt="torchon-flemish" src="https://maetempels.github.io/MAE-gf/images_wt/gf-tor-vl.png"> </td>
+  <td>By putting the traditional rose ground unit in a square, little stars can be made.<br>
+Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates.<br>
 [Star][G-0112]
  </td>
 </tr></table>
 
 <h3 id="fanc-snow">Squared Snowflake</h3>
+<p>
 See page [Snowflakes](https://github.com/MAETempels/MAE-gf/wiki/Snowflakes/#squared-snowflake).
 </p>
 
@@ -59,7 +56,7 @@ See page [Pagoda's](https://github.com/MAETempels/MAE-gf/wiki/Pagoda's-or-Triang
 
 <h3 id="fanc-omom">Om & Om</h3>
 <table><tr>
-  <td><img alt="om & om" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-oeno-11.png"></td>
+  <td><img alt="om & om" src="https://maetempels.github.io/MAE-gf/images_wt/gf-oeno-11.png"></td>
   <td>In the Tesselace index a scheme for <i>Om & Om</i> can be found (the very first one).<br>
 However, as the tiling-parameter is set to `Brick` the stitches can not be chosen to generate the Om & Om. Setting the tiling to `Checkers` does the trick, as in the following examples. You might try to see what happens if you change the tiling-parameter (works even with an odd number of collumns).<br>
 [o&o 11][oo-11], [o&o 12][oo-12], [o&o 12a][oo-12a]
@@ -76,7 +73,7 @@ However, as the tiling-parameter is set to `Brick` the stitches can not be chose
 
 <h3 id="fanc-plai">Plaits and Roses</h3>
 <table><tr>
-  <td><img alt="fusion" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-fusion.png"></td>
+  <td><img alt="fusion" src="https://maetempels.github.io/MAE-gf/images_wt/gf-fusion.png"></td>
   <td>
 The traditional rose ground units separated with plaits. Please note: the plaits should stay plaits. The Snowflake example uses the same pricking as the rose ground, but is made as a little snowflake.<br>
 > [Snowflake][G-0342]  
