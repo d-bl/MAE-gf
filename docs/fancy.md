@@ -1,4 +1,7 @@
-Some fancy examples, collected on this page. Names will be looked after later.    
+<h1>Fancy examples</h1>
+<p>
+Some fancy examples, collected on this page. Names will be looked after later.
+</p>
 
 ### Contents
 **Squares**
@@ -6,58 +9,67 @@ Some fancy examples, collected on this page. Names will be looked after later.
 * [Squared snowflake](#squared-snowflake)
 * [Squared spider](#squared-spider)
 * [Squared pagoda](#squared-pagoda)
+</p>
 <p>
-
 **Others**
 * [Om & Om (alternate stitch)](#om--om)
 * [Short bias](#short-bias)
 * [Plaits and Roses](#plaits-and-roses)
-<br>
+</p>
 
 ### Squared Rose ground
 <img alt="torchon-flemish" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-tor-vl.png">
-
+<p>
 By putting the traditional rose ground unit in a square, little stars can be made.<br>
 Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates.
-<br>
-
+</p>
+<p>
 > [Star][G-0112]
 <p><br>
 
 ### Squared Snowflake
 See page [Snowflakes](https://github.com/MAETempels/MAE-gf/wiki/Snowflakes/#squared-snowflake).
-<p><br>
+</p>
 
 ### Squared Spider
+<p>
 See page [Spiders](https://github.com/MAETempels/MAE-gf/wiki/Spiders#spiders-in-a-square).
-<p><br>
+</p>
 
 ### Squared pagoda
+<p>
 See page [Pagoda's](https://github.com/MAETempels/MAE-gf/wiki/Pagoda's-or-Triangular-grounds#pagoda-in-a-square). 
-<p><br>
+</p>
 
 ### Om & Om
 <img alt="om & om" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-oeno-11.png">
-
+<p>
 In the Tesselace index a scheme for <i>Om & Om</i> can be found (the very first one).<br>
 However, as the tiling-parameter is set to `Brick` the stitches can not be chosen to generate the Om & Om. Setting the tiling to `Checkers` does the trick, as in the following examples. You might try to see what happens if you change the tiling-parameter (works even with an odd number of collumns).
-<br>     
+</p>
+<p>
 > [o&o 11][oo-11], [o&o 12][oo-12], [o&o 12a][oo-12a]
-<p><br>
+</p>
 
 ### Short Bias
-Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter may give nice results in two colours.<br>
+<p>
+Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter may give nice results in two colours.
+</p>
+<p>
 ![short bias foto][foto-0228-OGy] ![short bias 1][pic-0228-OG] ![short bias 2][pic-0228-OGy]
+</p>
+<p>
 > [left][G-0228-OG], [right][G-0228-OGy]
-<p><br>
+</p>
 
 ### Plaits and Roses
-<img alt="fusion" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-fusion.png">
+<p>
+<img alt="fusion" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-fusion.png">  
 The traditional rose ground units separated with plaits. Please note: the plaits should stay plaits. The Snowflake example uses the same pricking as the rose ground, but is made as a little snowflake.
-<br><br><br><br>
-
+</p>
+<p>
 > [Snowflake][G-0342]  
-<p><br>
+</p>
 
 
 [pic-tor-flem]: https://maetempels.github.io/MAE-gf/images_wt/gf-tor-vl.png
