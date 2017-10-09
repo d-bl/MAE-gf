@@ -1,25 +1,33 @@
+<body>
+
 <h1>Fancy examples</h1>
+
+<h3 Contents</h3>
+<p><ul>
+  <li><a href="fanc-intr">Introduction</a><li>
+</ul></p> 
+<b>Squares</b>
+<p><ul>
+  <li><a href="#fanc-rose">Squared rose ground</a></li>
+  <li><a href="#fanc-snow">Squared snowflake</a></li>
+  <li><a href="#fanc-spin">Squared spider</a></li>
+  <li><a href="#fanc-pago">Squared pagoda</a></li>
+</ul></p>
+<b>Others</b>
+<p><ul>
+  <li><a href="#fanc-omom">Om & Om (alternate stitch></a></li>
+  <li><a href="#fanc-bias">Short bias</li>
+  <li><a href="#fanc-plai">Plaits and Roses</a></li>
+</ul></p>
+
+<h3 id="fanc-intr">Introduction</h3>
 <p>
 Some fancy examples, collected on this page. Names will be looked after later.
 </p>
 
-### Contents
-**Squares**
-* [Squared rose ground](#squared-rose-ground)
-* [Squared snowflake](#squared-snowflake)
-* [Squared spider](#squared-spider)
-* [Squared pagoda](#squared-pagoda)
-</p>
+<h3 id="fanc-rose">Squared Rose ground</h3>
 <p>
-**Others**
-* [Om & Om (alternate stitch)](#om--om)
-* [Short bias](#short-bias)
-* [Plaits and Roses](#plaits-and-roses)
-</p>
-
-### Squared Rose ground
 <img alt="torchon-flemish" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-tor-vl.png">
-<p>
 By putting the traditional rose ground unit in a square, little stars can be made.<br>
 Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates.
 </p>
@@ -27,21 +35,21 @@ Please note: when making the actual lace, it will make a big difference if the u
 > [Star][G-0112]
 <p><br>
 
-### Squared Snowflake
+<h3 id="fanc-snow">Squared Snowflake</h3>
 See page [Snowflakes](https://github.com/MAETempels/MAE-gf/wiki/Snowflakes/#squared-snowflake).
 </p>
 
-### Squared Spider
+<h3 id="fanc-spin">Squared Spider</h3>
 <p>
 See page [Spiders](https://github.com/MAETempels/MAE-gf/wiki/Spiders#spiders-in-a-square).
 </p>
 
-### Squared pagoda
+<h3 id="fanc-pago">Squared pagoda</h3>
 <p>
 See page [Pagoda's](https://github.com/MAETempels/MAE-gf/wiki/Pagoda's-or-Triangular-grounds#pagoda-in-a-square). 
 </p>
 
-### Om & Om
+<h3 id="fanc-omom">Om & Om</h3>
 <img alt="om & om" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-oeno-11.png">
 <p>
 In the Tesselace index a scheme for <i>Om & Om</i> can be found (the very first one).<br>
@@ -51,7 +59,7 @@ However, as the tiling-parameter is set to `Brick` the stitches can not be chose
 > [o&o 11][oo-11], [o&o 12][oo-12], [o&o 12a][oo-12a]
 </p>
 
-### Short Bias
+<h3 id="fanc-bias">Short Bias</h3>
 <p>
 Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter may give nice results in two colours.
 </p>
@@ -62,7 +70,7 @@ Take just one unit of the Bias ground and place them all in the same direction, 
 > [left][G-0228-OG], [right][G-0228-OGy]
 </p>
 
-### Plaits and Roses
+<h3 id="fanc-plai">Plaits and Roses</h3>
 <p>
 <img alt="fusion" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-fusion.png">  
 The traditional rose ground units separated with plaits. Please note: the plaits should stay plaits. The Snowflake example uses the same pricking as the rose ground, but is made as a little snowflake.
@@ -71,6 +79,7 @@ The traditional rose ground units separated with plaits. Please note: the plaits
 > [Snowflake][G-0342]  
 </p>
 
+</body>
 
 [pic-tor-flem]: https://maetempels.github.io/MAE-gf/images_wt/gf-tor-vl.png
 [pic-fusion]: https://maetempels.github.io/MAE-gf/images_wt/gf-fusion.png
