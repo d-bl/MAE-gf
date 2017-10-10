@@ -5,7 +5,7 @@
   span.b-gree {background-color: white; color: lime}
   span.b-purp {background-color: white; color: purple}
   span.b-red  {background-color: white; color: red}
-  span.b-blue {background-color: blue; color: blue}  
+  span.b-blue {background-color: white; color: blue}  
 </style>  
 
 <body>
