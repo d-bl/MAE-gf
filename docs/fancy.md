@@ -59,7 +59,7 @@ See page <a href="https://github.com/MAETempels/MAE-gf/wiki/Pagoda's-or-Triangul
 
 <h3 id="fanc-omom">Om & Om</h3>
 <p>In the Tesselace index a scheme for <i>Om & Om</i> can be found.<br>
-However, as the tiling-parameter is set to <span class="elem">brick</class> the stitches can not be chosen to generate the Om & Om. Setting the tiling to <span class="elem">checkers</span> does the trick, as in the following examples. You might try to see what happens if you change the tiling-parameter (works even with an odd number of collumns).
+However, as the tiling-parameter is set to <span class="elem">brick</span> the stitches can not be chosen to generate the Om & Om. Setting the tiling to <span class="elem">checkers</span> does the trick, as in the following examples. You might try to see what happens if you change the tiling-parameter (works even with an odd number of collumns).
 </p>
 <table><tr>
   <td><img alt="om & om" src="https://maetempels.github.io/MAE-gf/images_wt/gf-oeno-11.png"></td>
@@ -80,7 +80,7 @@ Take just one unit of the Bias ground and place them all in the same direction, 
 <img alt="short bias 2" src="https://maetempels.github.io/MAE-gf/images_wt/gf%200228%20OGy.png">
 </p>  
 <p>
-<a href="https://d-bl.github.io/GroundForge/index.html?m=86-5%0A4-5-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20C1%3Dtct">example same direction</a>
+<a href="https://d-bl.github.io/GroundForge/index.html?m=86-5%0A4-5-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20C1%3Dtct">example same direction</a>,
 <a href="https://d-bl.github.io/GroundForge/index.html?m=15-2%0A7-5-%0A-586%0A5-4-%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20A3%3Dtct%20C1%3Dtct">example alternating directions</a>
 </p>  
 
