@@ -1,6 +1,6 @@
 <style>
-  span.stch {background-color: white; border: 1px CadetBlue;}
-  span.elem {background-color: white; linen; border: 1px DarkCyan;}
+  span.stch {background-color: white; border: 1px solid CadetBlue;}
+  span.elem {background-color: white; border: 1px solid DarkCyan;}
   span.b-grey {background-color: white; color: grey}
   span.b-gree {background-color: white; color: lime}
   span.b-purp {background-color: white; color: purple}
