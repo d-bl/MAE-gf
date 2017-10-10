@@ -17,14 +17,14 @@
 In all formula N is the number of legs on one side. The spider will thus have 4N legs. Spaces have to be ingored. The sign "&" means "concatenate": "A" & "B" => "AB". The "" are omitted.<br>   
 For the <b>traditional spider in a square</b>, the following code will do the trick. N>=2.</p>
 <p>Brick:</p>
-<p background-color="oldLace">
-5 & (for i=1 to N: -) & 5 & (for i=1 to N: -)               
--C & (for i=1 to N-2: D) & 632 & (for i=1 to N-2: A) & B              
-(for j=1 to N-2:                                                     
-     5 & (for i=1 to N: 6) & 3 & (for i=1 to N: 2)                    
-next j)                                                          
+<p background-color="oldLace"><pre>
+5 & (for i=1 to N: -) & 5 & (for i=1 to N: -)
+-C & (for i=1 to N-2: D) & 632 & (for i=1 to N-2: A) & B
+(for j=1 to N-2:
+     5 & (for i=1 to N: 6) & 3 & (for i=1 to N: 2)
+next j)
 5 & (for i=1 to N: 6) & - & (for i=1 to N: 2)                 
-</p>
+</pre></p>
 
 <h3>To big matrix</h3>
 <p><img alt="to big matrix" align="left" src=https://maetempels.github.io/MAE-gf/images/gf-sn-nott.png> 
