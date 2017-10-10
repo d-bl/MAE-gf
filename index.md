@@ -1,5 +1,7 @@
 <style>
-table th, td {padding: 20px;}
+  table th, td {padding: 20px;}
+  span.stch {background-color:oldlace;}
+  span.eleme {background-color:linen;}
 </style>
 <body>
 
@@ -23,8 +25,8 @@ In this wiki you find pages with additional patterns for use in <a href="https:/
 
 <h3 id="main-hwto">How to use these pages</h3>
 <p>
-All examples are links to the Groundforge main page. Follow the link and click <font style="background-color:linen;">SHOW</font> in the <font style="background-color:linen;">PAIR/THREAD DIAGRAM</font> section. Please feel free to play with the stitches. E.g. try what happens if you change the default <font style="background-color:oldlace;">ctc</font> of the spiders or fish in <font style="background-color:oldlace;">ct</font>.<br>
-The examples use pair-diagrams in the styled version (<i>matrix-scheme</i>) that Groundforge understands. If you wish to see this scheme, click <font style="background-color:linen;">DIAGRAM</font>.<br>
+All examples are links to the Groundforge main page. Follow the link and click <span class="elem">SHOW</span> in the <span class="elem">PAIR/THREAD DIAGRAM</font> section. Please feel free to play with the stitches. E.g. try what happens if you change the default <span class="stch">ctc</span> of the spiders or fish in <span class="stch">ct</span>.<br>
+The examples use pair-diagrams in the styled version (<i>matrix-scheme</i>) that Groundforge understands. If you wish to see this scheme, click <span class="elem">DIAGRAM</span>.<br>
 Most of the patterns also have a scheme in the TesseLace index. Some, as the spiders and the larger fishes, don't.
 </p>
 
@@ -38,7 +40,7 @@ Several grounds have more than one working matrix-scheme, as is explained in de 
 <br><br>
 The example is a variation on a 's Gravenmoers snowflake ground. See <a href="https://d-bl.github.io/GroundForge/index.html?m=--B-C---%0A-E-5-O-K%0A5-----5-%0A-------5%3Bbricks%3B24%3B24%3B0%3B0&s1=c%20F4%3Dctct%20B2%3Dtct%20B4%3Dtctc%20A1%3Dcl%20C1%3Dcr">here</a> how the thread-diagram looks like.
 <br><br>
-The pictures in this wiki are mostly made with Knipling (TM).
+The pictures on these pages are mostly made with Knipling (TM).
 </p>
 
 <h3 id="main-refe">References</h3>
@@ -48,7 +50,7 @@ WI = Whiting index
 
 <h3 id="main-link">Links</h3>
 <p>
-<a href="https://github.com/d-bl/GroundForge/wiki">Groundforge user guide</a><br>
+<a href="https://d-bl.github.io/GroundForge/help/">Groundforge user guide</a><br>
 <a href="https://github.com/d-bl/GroundForge/wiki/TesseLace-Index">TesseLace index</a><br>
 <a href="http://gwydir.demon.co.uk/jo/lace/whiting/index.htm#picindex">Whiting index</a>: Jo Edkins created an annotated online index on the grounds in <i>A Lace Guide for Makers and Collectors</i> by Gertrude Whiting which dates from 1920.<br>
 <a href="https://github.com/d-bl/GroundForge/wiki/Whiting-Index">Groundforge Whiting index</a>: The same index, with links to Groundforge scheme's and main page.
