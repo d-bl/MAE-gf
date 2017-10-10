@@ -1,6 +1,6 @@
 <style>
-  span.stch {border: 2px solid OldLace;}
-  span.elem {border: 2px solid Linen;}
+  span.stch {border: 1px solid DeepSkyBlue;}
+  span.elem {border: 1px solid DarkTurquoise;}
   span.b-grey {background-color: white; color: grey}
   span.b-gree {background-color: white; color: lime}
   span.b-purp {background-color: white; color: purple}
