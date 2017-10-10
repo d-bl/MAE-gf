@@ -53,7 +53,7 @@ However, doing so, Groundforge colours this stitch in black in the pair-diagram.
 <a href="https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dctct%20A2%3Dctcr%20A1%3Dctcr">here</a>.
 </p>
 <p>
-Groundforge accepts only stitch-instructions with at least one cross. The instruction <span class="elem">A1=t</span> will be translated into <span class="elem">A1=ct</span>. </p>
+Groundforge accepts only stitch-instructions with at least one cross. The instruction <span class="stch">A1=t</span> will be translated into <span class="stch">A1=ct</span>. </p>
 <p>
 We have tried <span class="stch">ctctclllllctctc</span> as a substitute for picots. Groundforge needs some time to generate this, and the result is not as expected.
 </p>
