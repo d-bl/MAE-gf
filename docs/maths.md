@@ -1,7 +1,7 @@
 <style>
-  span.elem {border: 1px solid DeepSkyBlue;}
-  span.stch {border: 1px solid DarkTurquoise;}
-  span.form {background-color="oldLace;" font="10px courier-new;"}
+  .elem {border: 1px solid DeepSkyBlue;}
+  .stch {border: 1px solid DarkTurquoise;}
+  .form {background-color="oldLace;" font="10px courier-new;"}
 </style>
 
 <body>
