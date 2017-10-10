@@ -2,6 +2,8 @@
 <style> 
   table th, td {padding: 20px;} 
   th, td {width: 50%; text-align:left;} 
+  span.stch {background-color:oldlace;}
+  span.eleme {background-color:linen;}
 </style>
 
 // table voor 1 plaatje
@@ -21,13 +23,17 @@
 <h3 id="spiek-par1">paragraaf 1</h3>
 <p>
   // plaatje:
+  <p>
 <img alt="rose v.s. cinq" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png">
+Tekst bij dit plaatje
+</p>
   
   // verwijzing naar GF in tekst
 <a href="https://d-bl.github.io/GroundForge/index.html...">result</a>.
  
  // verwijzing naar GF in examples
 <h3 id="bias-trad">Traditional Bias Ground</h3>
+<p> hier tekst neerzetten die bij de plaatjes en de voorbeelden hoort</p>
 <table>
   <tr>
     <td><img alt="traditional bias" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-tr.png"></td>
@@ -46,10 +52,10 @@
 <h3 id="spiek-par2">paragraaf 2</h3>
 <p>
   // steken
-<font style="background-color:oldlace;">stitches</font>
+<span class="stch">stitches</span>
 
   // verwijzing naar GF elementen
-<font style="background-color:linen;">GF elementen</font>
+<span class="elem">GF elementen</span>
 </p>
 </body>   // einde zichtbare tekst
 
