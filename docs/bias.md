@@ -1,6 +1,8 @@
 <style>
 table th, td {padding: 20px;}
   th, td {width: 50%; text-align:left;}
+  span.stch {background-color:oldlace;}
+  span.eleme {background-color:linen;}
 </style>
 <body>
 
@@ -53,7 +55,7 @@ Better names for the examples will follow.
   <tr>
     <td><img alt="bias alt crossed" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-aa.png"></td>
     <td>
-    <a href="https://d-bl.github.io/GroundForge/index.html?m=1488-483%208-483148%20831488-4%20488-4831%3Bbricks%3B16%3B16%3B0%3B0&s1=ct%20F3%3Dctct%20E4%3Dctct%20G4%3Dctct%20B1%3Dctct%20H1%3Dctct%20C4%3Dctct%20A2%3Dctct%20H3%3Dctct%20B3%3Dctct%20A4%3Dctct%20D1%3Dctct%20C2%3Dctct%20E2%3Dctct%20D3%3Dctct%20F1%3Dctct%20G4%3Dctct%20G2%3Dctct">WI E6</a>
+      <a href="https://d-bl.github.io/GroundForge/index.html?m=1488-483%208-483148%20831488-4%20488-4831%3Bbricks%3B16%3B16%3B0%3B0&s1=ct%20F3%3Dctct%20E4%3Dctct%20G4%3Dctct%20B1%3Dctct%20H1%3Dctct%20C4%3Dctct%20A2%3Dctct%20H3%3Dctct%20B3%3Dctct%20A4%3Dctct%20D1%3Dctct%20C2%3Dctct%20E2%3Dctct%20D3%3Dctct%20F1%3Dctct%20G4%3Dctct%20G2%3Dctct">WI E6</a>
     </td>
   </tr>
 </table>
@@ -62,8 +64,8 @@ Better names for the examples will follow.
 <table>
   <tr>
     <td><img alt="bias with diagonal" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-vg.png"></td>
-    <td>The Bias and the diagonal in between are connected diagonaly in the matrix-scheme. A horizontal connection also works.<br>
-  <a href="https://d-bl.github.io/GroundForge/index.html?m=5-486-%0A-5-486%0A6-5-48%0A%0A%3Bbricks%3B16%3B16%3B0%3B0&s1=ctct%20C2%3Dct%20B1%3Dct%20A3%3Dct">example</a>
+    <td>
+      <a href="https://d-bl.github.io/GroundForge/index.html?m=5-486-%0A-5-486%0A6-5-48%0A%0A%3Bbricks%3B16%3B16%3B0%3B0&s1=ctct%20C2%3Dct%20B1%3Dct%20A3%3Dct">example</a>
     </td>
   </tr>
 </table>
