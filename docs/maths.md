@@ -1,38 +1,33 @@
-# Mathematics
+<body>
+     
+<h1>Mathematics</h1>
 
-### Contents
-* [Introduction](#introduction)
-* [Spider formula's](#spider-formulas)
-* [To big matrix](#to-big-matrix)
-<br>
+<h3>Contents</h3>
+<p><ul>
+     <li><a href="#mats-intr">Introduction</a></li>
+     <li><a href="#mats-spin">Spiders formula</a></li>
+     <li><a href="#mats-bigg">To big matrix</a></li>
+     </ul></p>     
 
-### Introduction
-On this page some mathematics for those who like such. Including formula in pseudo-code.
-<br><br>
+<h3 span class="mats-intr">Introduction</h3>
+<p>On this page some mathematics for those who like such. Including formula in pseudo-code.</p>
 
-### Spider formula's
-As shown in the [spiders][spiders-page] article, spider-matrices can be generated. <br>
-In all formula N is the number of legs on one side. The spider will thus have 4N legs.   
-Spaces have to be ingored. The sign & means "concatenate": "A" & "B" => "AB". The "" are omitted.
-<br>   
-For the **traditional spider in a square**, the following code will do the trick. N>=2.<br>
-Brick:    
-```  
+<h3 span class="mats-spin">Spider formula's</h3>
+<p>As shown in the <a href="https://github.com/MAETempels/MAE-gf/wiki/Spiders"><i>Spiders</i></a> article, spider-matrices can be generated. <br>
+In all formula N is the number of legs on one side. The spider will thus have 4N legs. Spaces have to be ingored. The sign "&" means "concatenate": "A" & "B" => "AB". The "" are omitted.<br>   
+For the <b>traditional spider in a square</b>, the following code will do the trick. N>=2.</p>
+<p>Brick:</p>
+<p background-color="oldLace">
 5 & (for i=1 to N: -) & 5 & (for i=1 to N: -)               
 -C & (for i=1 to N-2: D) & 632 & (for i=1 to N-2: A) & B              
 (for j=1 to N-2:                                                     
      5 & (for i=1 to N: 6) & 3 & (for i=1 to N: 2)                    
 next j)                                                          
 5 & (for i=1 to N: 6) & - & (for i=1 to N: 2)                 
-``` 
-<br>
+</p>
 
-### To big matrix
-<p><img alt="to big matrix" align="left" src=https://github.com/MAETempels/MAE-gf/blob/master/images/gf-sn-nott.png/> We wished to find the matrix-scheme for the crossed-snowflake-in-a-square. Just putting te snowflake in the square won't work, since the snowflake requires 11 "nodes", whereas the square has 9 nodes inside. So, the square has to be enlarged. The matrix in the picture follows the rules for matrices, but the tiles are too big for Groundforge to handle. 
-<br><br><br><br><br><br><br><br> 
-
-
-
-[spiders-page]: https://github.com/MAETempels/MAE-gf/wiki/Spiders
-
-[to-big-sn]: https://github.com/MAETempels/MAE-gf/blob/master/images/gf-sn-nott.png
+<h3>To big matrix</h3>
+<p><img alt="to big matrix" align="left" src=https://maetempels.github.io/MAE-gf/images/gf-sn-nott.png> 
+We wished to find the matrix-scheme for the crossed-snowflake-in-a-square. Just putting te snowflake in the square won't work, since the snowflake requires 11 "nodes", whereas the square has 9 nodes inside. So, the square has to be enlarged. The matrix in the picture follows the rules for matrices, but the tiles are too big for Groundforge to handle.</p>
+    
+</body>
