@@ -35,9 +35,9 @@ Stitch-colours used in the examples in this website:
 <ul>
 <li>Cross only. In working scheme's coloured <span class="b-grey">grey</span>.</li>
 <li>Half stitch = (twist if not already done), cross, twist. Coloured <span class="b-gree">green</span>.</li>
-<li>Cloth stitch = cross, twist, cross. Coloured <span class="purp">purple</span>.</li>
-<li>Whole stitch & twist = (twist if not already done), cross, twist, cross, twist. Coloured <span class="red">red</span>.</li>
-<li>Plaits = (twist,) cross, twist, cross, twist, cross, twist, cross (, twist), .... Coloured <span class="blue">blue</span>.</li>
+<li>Cloth stitch = cross, twist, cross. Coloured <span class="b-purp">purple</span>.</li>
+<li>Whole stitch & twist = (twist if not already done), cross, twist, cross, twist. Coloured <span class="b-red">red</span>.</li>
+<li>Plaits = (twist,) cross, twist, cross, twist, cross, twist, cross (, twist), .... Coloured <span class="b-blue">blue</span>.</li>
 </ul></p>
 <p>
 Sometimes, onorthodox stitches are used, like <span class="stch">cross only</span> or <span class="stch">crcllcrc</span>, as in the 
