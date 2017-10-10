@@ -1,9 +1,8 @@
 <style>
   table th, td {padding: 20px;}
-  span.stch {background-color:oldlace;}
-  span.eleme {background-color:linen;}
+  span.stch {background-color: oldlace;}
+  span.elem {background-color: linen;}
 </style>
-<body>
 
 <body>
 <h1>Start page</h1>
@@ -25,15 +24,15 @@ In this wiki you find pages with additional patterns for use in <a href="https:/
 
 <h3 id="main-hwto">How to use these pages</h3>
 <p>
-All examples are links to the Groundforge main page. Follow the link and click <span class="elem">SHOW</span> in the <span class="elem">PAIR/THREAD DIAGRAM</font> section. Please feel free to play with the stitches. E.g. try what happens if you change the default <span class="stch">ctc</span> of the spiders or fish in <span class="stch">ct</span>.<br>
+All examples are links to the Groundforge main page. Follow the link and click <span class="elem">SHOW</span> in the <span class="elem">PAIR/THREAD DIAGRAM</span> section. Please feel free to play with the stitches. E.g. try what happens if you change the default <span class="stch">ctc</span> of the spiders or fish in <span class="stch">ct</span>.<br>
 The examples use pair-diagrams in the styled version (<i>matrix-scheme</i>) that Groundforge understands. If you wish to see this scheme, click <span class="elem">DIAGRAM</span>.<br>
 Most of the patterns also have a scheme in the TesseLace index. Some, as the spiders and the larger fishes, don't.
 </p>
 
 <h3 id="main-diag">Diagrams</h3>
-<table><tr><td>
+<p align="center">
 <img alt="several types of drawings" src="https://maetempels.github.io/MAE-gf/images/gf%20picts.png">
-</td></tr></table>
+</p>  
 <p>
 In this wiki several types of diagrams are used, as illustrated in the picture. On the left is a drawing of a <i>pair-diagram</i> or <i>working-scheme</i>. Pins, pinpositions and colourcode are given as needed for the actual lace. In the middle the ground is drawn schematic, to given an impression. Pins and colourcode may or may not be drawn. The pinpositions are drawn as required for the actual lace. On the right the <i>matrix-scheme</i> that Groundforge understands. In the articles the name <i>scheme</i> or <i>diagram</i> will be used for all types of the drawings.<br> 
 Several grounds have more than one working matrix-scheme, as is explained in de Groundforge-userguide. 
