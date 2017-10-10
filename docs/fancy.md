@@ -1,8 +1,8 @@
 <style> 
   table th, td {padding: 20px;} 
   th, td {width: 50%; text-align:left;}
-  span.stch {background-color:oldlace;}
-  span.eleme {background-color:linen;}
+  span.stch {background-color: oldlace;}
+  span.elem {background-color: linen;}
 </style>
 
 <body>
@@ -33,11 +33,13 @@ Some fancy examples, collected on this page. Names will be looked after later.
 </p>
 
 <h3 id="fanc-rose">Rose ground in a square</h3>
+<p>By putting the traditional rose ground unit in a square, little stars can be made.<br>
+Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates.</p>
 <table><tr>
   <td><img alt="torchon-flemish" src="https://maetempels.github.io/MAE-gf/images_wt/gf-tor-vl.png"> </td>
-  <td><p>By putting the traditional rose ground unit in a square, little stars can be made.<br>
-Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates.</p>
-<a href="https://d-bl.github.io/GroundForge/index.html?m=586-21%0A-48317%0A5-4-7-%0A%3Bbricks%3B16%3B16%3B0%3B0&s1=ctctt%20E3%3Dc%20A3%3Dc%20E2%3Dctt%20A2%3Dctt%20A1%3Dctcl%20E1%3Dctcr%20F2%3Dctct%20F3%3Dctct">Star</a></td>
+  <td>
+<a href="https://d-bl.github.io/GroundForge/index.html?m=586-21%0A-48317%0A5-4-7-%0A%3Bbricks%3B16%3B16%3B0%3B0&s1=ctctt%20E3%3Dc%20A3%3Dc%20E2%3Dctt%20A2%3Dctt%20A1%3Dctcl%20E1%3Dctcr%20F2%3Dctct%20F3%3Dctct">Star</a>
+  </td>
 </tr></table>
 
 <h3 id="fanc-snow">Snowflake in a square</h3>
@@ -73,17 +75,14 @@ However, as the tiling-parameter is set to <span class="elem">brick</class> the 
 <img alt="short bias photo" align="right" src="https://maetempels.github.io/MAE-gf/photos/gf-0228-foto.jpg">
 Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter may give nice results in two colours.
 </p>
-<table><tr>
-  <td><img alt="short bias 1" src="https://maetempels.github.io/MAE-gf/images_wt/gf%200228-OG.png"></td>
-  <td>
-    <a href="https://d-bl.github.io/GroundForge/index.html?m=86-5%0A4-5-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20C1%3Dtct">example</a>
-  </td>
-</tr><tr>
-  <td><img alt="short bias 2" src="https://maetempels.github.io/MAE-gf/images_wt/gf%200228%20OGy.png"></td>   
-  <td>
-    <a href="https://d-bl.github.io/GroundForge/index.html?m=15-2%0A7-5-%0A-586%0A5-4-%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20A3%3Dtct%20C1%3Dtct">example</a>
-  </td> 
-</tr></table>
+<p>
+<img alt="short bias 1" src="https://maetempels.github.io/MAE-gf/images_wt/gf%200228-OG.png">
+<img alt="short bias 2" src="https://maetempels.github.io/MAE-gf/images_wt/gf%200228%20OGy.png">
+</p>  
+<p>
+<a href="https://d-bl.github.io/GroundForge/index.html?m=86-5%0A4-5-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20C1%3Dtct">example same direction</a>
+<a href="https://d-bl.github.io/GroundForge/index.html?m=15-2%0A7-5-%0A-586%0A5-4-%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20A3%3Dtct%20C1%3Dtct">example alternating directions</a>
+</p>  
 
 <h3 id="fanc-plai">Plaits and Roses</h3>
 <p>The traditional rose ground units separated with plaits. Please note: the plaits should stay plaits. The Snowflake example uses the same pricking as the rose ground, but is made as a little snowflake.
