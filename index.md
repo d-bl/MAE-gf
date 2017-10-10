@@ -1,7 +1,7 @@
 <style>
   table th, td {padding: 20px;}
-  span.stch {background-color: oldlace;}
-  span.elem {background-color: linen;}
+  span.elem {border: 1px solid DeepSkyBlue;}
+  span.stch {border: 1px solid DarkTurquoise;}
 </style>
 
 <body>
