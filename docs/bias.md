@@ -1,8 +1,8 @@
 <style>
 table th, td {padding: 20px;}
   th, td {width: 50%; text-align:left;}
-  span.stch {background-color:oldlace;}
-  span.eleme {background-color:linen;}
+  span.stch {background-color: oldlace;}
+  span.elem {background-color: linen;}
 </style>
 <body>
 
