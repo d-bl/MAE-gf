@@ -8,11 +8,11 @@
   .b-purp {background-color: white; color: purple}
   .b-red  {background-color: white; color: red}
   .b-blue {background-color: white; color: blue}  
-  h1 {color: blue}
+  p {color: blue}
 </style>  
 
 <body>
-<h1>Tips, Tricks & other notes</h1>
+  <h1><span class="b-red">Tips, Tricks & other notes</span></h1>
 
 <h3>Contents</h3>
 <p><ul>
