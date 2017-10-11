@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 <style> 
-  span.elem {border: 1px solid DeepSkyBlue;}
-  span.stch {border: 1px solid DarkTurquoise;}
+  .elem {border: 1px solid DeepSkyBlue;}
+  .stch {border: 1px solid DarkTurquoise;}
+h1 {color: red;}
 </style>
