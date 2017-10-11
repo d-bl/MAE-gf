@@ -1,9 +1,6 @@
-<style>
-  .elem {border: 1px solid DeepSkyBlue;}
-  .stch {border: 1px solid DarkTurquoise;}
-  .form {background-color="oldLace;" font="10px courier-new;"}
-</style>
-
+<head>
+<link rel="stylesheet" type="text/css" href="https://maetempels.github.io/MAE-gf/assets/css/style.scss">
+</head>
 <body>
      
 <h1>Mathematics</h1>
