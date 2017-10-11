@@ -1,7 +1,7 @@
-<style>
-  span.elem {border: 1px solid DeepSkyBlue;}
-  span.stch {border: 1px solid DarkTurquoise;}
-</style>
+<head>
+<link rel="stylesheet" type="text/css" href="https://maetempels.github.io/MAE-gf/assets/css/style.scss">
+</head>
+
 <body>
 
 <h1>Bias Grounds</h1>
