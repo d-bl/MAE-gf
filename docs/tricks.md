@@ -8,6 +8,7 @@
   .b-purp {background-color: white; color: purple}
   .b-red  {background-color: white; color: red}
   .b-blue {background-color: white; color: blue}  
+  h1 {color: blue}
 </style>  
 
 <body>
