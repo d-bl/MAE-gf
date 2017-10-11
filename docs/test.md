@@ -9,6 +9,7 @@ table th, td {padding: 20px;}
 
 `test`
 <span class="elem">test2</span>
+nog meer tekst - om de een of andere reden zie ik geen updates
 
 <h3 id="bias-trad">Traditional Bias Ground</h3>
 <p><img alt="traditional bias" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-tr.png"></p>
