@@ -1,11 +1,13 @@
+<head>
+<link rel="stylesheet" type="text/css" href="https://maetempels.github.io/MAE-gf/assets/css/style.scss">
+</head>
+
 <style>
-  span.elem {border: 1px solid DeepSkyBlue;}
-  span.stch {border: 1px solid DarkTurquoise;}
-  span.b-grey {background-color: white; color: grey}
-  span.b-gree {background-color: white; color: lime}
-  span.b-purp {background-color: white; color: purple}
-  span.b-red  {background-color: white; color: red}
-  span.b-blue {background-color: white; color: blue}  
+  .b-grey {background-color: white; color: grey}
+  .b-gree {background-color: white; color: lime}
+  .b-purp {background-color: white; color: purple}
+  .b-red  {background-color: white; color: red}
+  .b-blue {background-color: white; color: blue}  
 </style>  
 
 <body>
