@@ -1,9 +1,6 @@
-<style> 
-  table th, td {padding: 20px;} 
-  th, td {width: 50%; text-align:left;}
-  span.elem {border: 1px solid DeepSkyBlue;}
-  span.stch {border: 1px solid DarkTurquoise;}
-</style>
+<head>
+<link rel="stylesheet" type="text/css" href="https://maetempels.github.io/MAE-gf/assets/css/style.scss">
+</head>
 
 <body>
 
