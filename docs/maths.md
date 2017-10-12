@@ -1,16 +1,13 @@
-<head>
-<link rel="stylesheet" type="text/css" href="https://maetempels.github.io/MAE-gf/assets/css/style.scss">
-</head>
 <body>
      
 <h1>Mathematics</h1>
 
 <h3>Contents</h3>
-<p><ul>
+<ul>
   <li><a href="#mats-intr">Introduction</a></li>
   <li><a href="#mats-spin">Spiders formula</a></li>
   <li><a href="#mats-bigg">To big matrix</a></li>
-  </ul></p>     
+</ul>
 
 <h3 span class="mats-intr">Introduction</h3>
 <p>On this page some mathematics for those who like such. Including formula in pseudo-code.</p>
