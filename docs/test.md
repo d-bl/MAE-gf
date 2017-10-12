@@ -1,6 +1,7 @@
 <body>
 
 <h1> testpagina</h1>
+<h2>nog een</h2>
 <h3> inderdaad</h3>
 
 <ul>
