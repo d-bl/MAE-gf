@@ -1,7 +1,6 @@
-<style>
-table th, td {padding: 20px;}
-  th, td {width: 50%; text-align:left;}
-</style>
+<head>
+<link rel="stylesheet" type="text/css" href="https://maetempels.github.io/MAE-gf/assets/css/style.scss">
+</head>
 <body>
 
 <h1> testpagina</h1>
