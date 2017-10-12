@@ -1,6 +1,3 @@
-<head>
-<link rel="stylesheet" type="text/css" href="https://maetempels.github.io/MAE-gf/assets/css/style.scss">
-</head>
 <body>
 
 <h1> testpagina</h1>
@@ -17,6 +14,7 @@
 </ul></p>
 
 en nog wat tekst
-en nog meer
+en nog meer<br>
+en nu zonder de included
 
 </body>
