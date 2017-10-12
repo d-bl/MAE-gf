@@ -18,4 +18,6 @@ en nog wat tekst
 en nog meer<br>
 en nu zonder de included
 
+<p><hr></p>
+
 </body>
