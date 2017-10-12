@@ -23,10 +23,10 @@
 <h1>Naam van de pagina</h1>
 
 <h3>Contents</h3>
-<p><ul>
+<ul>
   <li><a href="#spiek-par1">paragraaf 1</a></li>
   <li><a href="#spiek-par2">paragraaf 2</a></li>
-</ul></p>
+</ul>
 
 <h3 id="spiek-par1">paragraaf 1</h3>
 <p>
