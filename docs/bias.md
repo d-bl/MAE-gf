@@ -1,20 +1,16 @@
-<head>
-<link rel="stylesheet" type="text/css" href="https://maetempels.github.io/MAE-gf/assets/css/style.scss">
-</head>
-
 <body>
 
 <h1>Bias Grounds</h1>
   
 <h3>Contents</h3>
-<p><ul>
+<ul>
 <li><a href="#bias-intr">Introduction</a></li>
 <li><a href="#bias-trad">Traditional Bias Ground</a></li>
 <li><a href="#bias-crrs">Bias Ground crossed rose style</a></li>
 <li><a href="#bias-crdf">Bias Ground crossed differently</a></li>
 <li><a href="#bias-diag">Bias Ground with a diagonal in between</a></li>
 <li><a href="#bias-crdi">Bias Ground crossed and a diagonal in between</a></li>
-</ul></p>
+</ul>
 
 <h3 id="bias-intr">Introduction</h3>
 <p><img align="right" alt="biasground" src="https://maetempels.github.io/MAE-gf/images_wt/gf%200221%20wt.png">
