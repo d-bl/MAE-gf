@@ -14,7 +14,7 @@
   <li><a href="#fanc-pago">Pagoda in a square</a></li>
 </ul>
 <b>Others</b><br>
-<p><ul>
+<ul>
   <li><a href="#fanc-omom">Om & Om (alternate stitch)</a></li>
   <li><a href="#fanc-bias">Short bias</a></li>
   <li><a href="#fanc-plai">Plaits and Roses</a></li>
