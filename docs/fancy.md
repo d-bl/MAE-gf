@@ -64,4 +64,5 @@ However, as the tiling-parameter is set to <span class="elem">brick</span> the s
 <p><a href="https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B24%3B0%3B0&s1=D1%3Dctctctctctc%20B1%3Dctctctctctc%20A1%3Dctctc%20D2%3Dctc%20B2%3Dctc%20C1%3Dctctc">Rose</a>,
    <a href="https://d-bl.github.io/GroundForge/index.html?m=--B-C---%0A-E-5-O-K%0A5-----5-%0A-------5%3Bbricks%3B24%3B24%3B0%3B0&s1=ct%20H4%3Dctctctctc%20D4%3Dctctctctc%20B2%3Dctct%20A3%3Dcr%20C3%3Dcl%20B4%3Dc">Snowflake</a></p>
 
+<p><hr></p>
 </body>
