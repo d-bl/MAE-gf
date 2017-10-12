@@ -40,5 +40,5 @@ Better names for the examples will follow.</p>
 <p><img alt="bias crossed and diagonal" src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-av.png"></p>
 <p><a href="https://d-bl.github.io/GroundForge/index.html?m=8-7-48%0A831214%0A488-7-%0A148312%0A7-488-%0A121483%0A%0A%3Bchecker%3B16%3B16%3B0%3B0&s1=ctct%20E4%3Dct%20F5%3Dct%20B1%3Dct%20D3%3Dct%20A6%3Dct%20C2%3Dct">example</a></p>
 
-<p><hr><p>
+<p><hr></p>
 </body>
