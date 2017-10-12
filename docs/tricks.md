@@ -53,4 +53,5 @@ Please note, that the ID's needed for the stitches shift somehow. <span class="e
 <h3 id="trck-foot">Footsides</h3>
 <p>The examples provided focus on just elements of the grounds. No attention is paid to footsides. This may sometimes lead to tilted figures.</p> 
 
+<p><hr></p>
 </body>
