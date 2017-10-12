@@ -4,8 +4,8 @@ table th, td {padding: 20px;}
 </style>
 <body>
 
-<h1> testpagina
-<h3> inderdaad
+<h1> testpagina</h1>
+<h3> inderdaad</h3>
 
 <ul>
   <li>een</li>
@@ -17,5 +17,6 @@ table th, td {padding: 20px;}
   <li>twee</li>
 </ul></p>
 
+en nog wat tekst
 
 </body>
