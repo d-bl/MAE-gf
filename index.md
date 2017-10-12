@@ -43,4 +43,5 @@ WI = Whiting index
 <p>All links worked when created. Due to work on the Groundforge coding, there may be hiccups. There is a work-around, but I have to study this first.</p>
 <p>English is not my native language, so please forgive me any mistakes.</p>
 
+<p><hr></p>
 </body>
