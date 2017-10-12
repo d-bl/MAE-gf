@@ -1,28 +1,24 @@
-<head>
-<link rel="stylesheet" type="text/css" href="https://maetempels.github.io/MAE-gf/assets/css/style.scss">
-</head>
-
 <body>
 
 <h1>Fancy examples</h1>
 
 <h3>Contents</h3>
-<p><ul>
+<ul>
   <li><a href="#fanc-intr">Introduction</a></li>
-</ul></p> 
-<b>Squares</b>
-<p><ul>
+</ul>
+<b>Squares</b><br>
+<ul>
   <li><a href="#fanc-rose">Rose ground in a square</a></li>
   <li><a href="#fanc-snow">Snowflake in a square</a></li>
   <li><a href="#fanc-spin">Spider in a square</a></li>
   <li><a href="#fanc-pago">Pagoda in a square</a></li>
-</ul></p>
-<b>Others</b>
+</ul>
+<b>Others</b><br>
 <p><ul>
   <li><a href="#fanc-omom">Om & Om (alternate stitch)</a></li>
   <li><a href="#fanc-bias">Short bias</a></li>
   <li><a href="#fanc-plai">Plaits and Roses</a></li>
-</ul></p>
+</ul>
 
 <h3 id="fanc-intr">Introduction</h3>
 <p>
