@@ -1,6 +1,8 @@
+// include voor stylesheet. Dit werkt, maar is niet nodig.
 <head>
 <link rel="stylesheet" type="text/css" href="https://maetempels.github.io/MAE-gf/assets/css/style.scss">
 </head>
+
 
 // tabel voor plaatjes & voorbeelden
 <style> 
