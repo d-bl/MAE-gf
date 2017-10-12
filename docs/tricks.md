@@ -1,7 +1,3 @@
-<head>
-<link rel="stylesheet" type="text/css" href="https://maetempels.github.io/MAE-gf/assets/css/style.scss">
-</head>
-
 <style>
   .b-grey {background-color: white; color: grey}
   .b-gree {background-color: white; color: lime}
@@ -14,12 +10,12 @@
 <h1>Tips, Tricks & other notes</h1>
 
 <h3>Contents</h3>
-<p><ul>
+<ul>
 <li><a href="#trck-grna">Ground names</a></li>
 <li><a href="#trck-stch">Stitches</a></li>
 <li><a href="#trck-tile">Tiling</a></li>
 <li><a href="#trck-foot">Footsides</a></li>
-</ul></p>
+</ul>
 
 <h3 id="trck-grna">Ground names</h3>
 <p><img alt="rose v.s. cinq" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png">
