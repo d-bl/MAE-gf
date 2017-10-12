@@ -3,9 +3,12 @@
 
 @import "{{ site.theme }}";
 
-/* steken en elementen */
+/* stitches & elements */
 .stch {border: 1px solid #DBE7F3; background-color: #F2F8FC;}
 .elem {border: 1px solid #DBE7F3;}
 .form {background-color: White; font: Courier;}
+
+/* colored things */
+hr {color #DBE7F3;}
 
 /* let op: kleurnamen moeten met een hoofdletter */
