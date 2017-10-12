@@ -1,19 +1,15 @@
-<head>
-<link rel="stylesheet" type="text/css" href="https://maetempels.github.io/MAE-gf/assets/css/style.scss">
-</head>
-
 <body>
 <h1>Start page</h1>
 
 <h3>Contents</h3>
-<p><ul>
+<ul>
 <li><a href="#main-intr">Introduction</a></li>
 <li><a href="#main-hwto">How to use these pages</a></li>
 <li><a href="#main-diag">Diagrams</a></li>
 <li><a href="#main-refe">References</a></li>
 <li><a href="#main-link">Links</a></li>
 <li><a href="#main-disc">Disclaimer</a></li>
-</ul></p>
+</ul>
                      
 <h3 id="main-intr">Introduction</h3>
 <p>In this wiki you find pages with additional patterns for use in <a href="https://d-bl.github.io/GroundForge/">Groundforge</a>, made by <a href="https://github.com/jo-pol">Jo Pol</a>. Given are the parameter-section and, in most cases, stitches, although not always traditional.</p>
