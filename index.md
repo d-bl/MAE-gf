@@ -44,4 +44,3 @@ WI = Whiting index
 <p>English is not my native language, so please forgive me any mistakes.</p>
 
 </body>
-dklfwm
