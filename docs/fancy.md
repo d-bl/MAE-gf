@@ -32,7 +32,7 @@ Please note: when making the actual lace, it will make a big difference if the u
 <p><a href="https://d-bl.github.io/GroundForge/index.html?m=586-21%0A-48317%0A5-4-7-%0A%3Bbricks%3B16%3B16%3B0%3B0&s1=ctctt%20E3%3Dc%20A3%3Dc%20E2%3Dctt%20A2%3Dctt%20A1%3Dctcl%20E1%3Dctcr%20F2%3Dctct%20F3%3Dctct">Star</a></p>
 
 <h3 id="fanc-snow">Snowflake in a square</h3>
-<p>See page <a href="https://mae.tempels.github.io/MAE-gf/docs/Snowflakes#snowflake-in-a-square"><i>Snowflakes</i></a>.</p>
+<p>See page <a href="https://maetempels.github.io/MAE-gf/docs/Snowflakes#snowflake-in-a-square"><i>Snowflakes</i></a>.</p>
 
 <h3 id="fanc-spin">Spider in a square</h3>
 <p>See page <a href="https:///github.com/MAETempels/MAE-gf/wiki/Spiders#spiders-in-a-square"><i>Spiders</i></a>.</p>
