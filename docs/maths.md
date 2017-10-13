@@ -13,8 +13,9 @@ As shown in the [spiders][spiders-page] article, spider-matrices can be generate
 In all formula N is the number of legs on one side. The spider will thus have 4N legs.   
 Spaces have to be ingored. The sign "&" means "concatenate": "A" & "B" => "AB". The "" are omitted.   
       
-For the **traditional spider in a square**, the following code will do the trick. N>=2. Tiling is set to `brick`.       
-     
+For the **traditional spider in a square**, the following code will do the trick. N>=2. Tiling is set to <span class="elem">brick</span>.       
+
+<span class="form">
 ```  
 5 & (for i=1 to N: -) & 5 & (for i=1 to N: -)               
 -C & (for i=1 to N-2: D) & 632 & (for i=1 to N-2: A) & B              
@@ -23,6 +24,7 @@ For the **traditional spider in a square**, the following code will do the trick
 next j)                                                          
 5 & (for i=1 to N: 6) & - & (for i=1 to N: 2)                 
 ``` 
+</span>
 
 ### To big matrix
 <img alt="to big matrix" align="right" src="https://maetempels.github.io/MAE-gf/images/gf-sn-nott.png"> 
