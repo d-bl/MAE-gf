@@ -3,7 +3,7 @@
   
   p.one {
     border-style: solid;
-    border-color: Red;
+    border-color: Green;
 }
 </style>
 
