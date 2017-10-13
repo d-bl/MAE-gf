@@ -1,5 +1,5 @@
 <style>
-.lijn {solid 1px Red;}
+.lijn {border-style: solid 1px; border-color: Red;}
   
 .one {
     border-style: solid 1px;
