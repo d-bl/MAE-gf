@@ -37,7 +37,7 @@ The little snowflake can also be put into a square. However, we have not been ab
 
 > [example][ex-sn-dia]
 
-
+***
 
 
 [pic-fusion]: https:/maetempels.github.io/MAE-gf/images_wt/gf-fusion.png
