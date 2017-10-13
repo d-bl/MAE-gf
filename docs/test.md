@@ -1,9 +1,9 @@
 <style>
 .lijn {border-style: solid 1px; border-color:Red;}
   
-  p.one {
+.one {
     border-style: solid;
-    border-color: Green;
+    border-color: Yellow;
 }
 </style>
 
