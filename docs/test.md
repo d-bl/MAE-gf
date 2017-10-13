@@ -1,6 +1,6 @@
 <style>
 .lijn {color:Red;"}
-h2 {color:Blue;"}
+h2 {border: solid 1px color:Blue;"}
 </style>
 
 <body>
