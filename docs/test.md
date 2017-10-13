@@ -18,9 +18,7 @@
   <li>twee</li>
 </ul></p>
 
-en nog wat tekst
-en nog meer<br>
-en nu zonder de included
+la di la di la
 
 
 <p class="lijn"><hr></p>
