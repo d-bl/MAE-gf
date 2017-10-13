@@ -26,7 +26,7 @@ Picture to follow. For the Binche spiders see page [Spiders](https://github.com/
 ### Snowflake in a square
 <img alt="snowflake squared" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf%200301%20wt.png">
 
-The little snowflake can also be put into a square. However, we have not been able (yet) to discover a working matrix-scheme for the crossed snowflake on the right. There is a matrix-scheme, but this is to big. See the article on the [Maths](https://maetempels.github.io/MAE-gf/docs/maths#To-big-matrix) page.          
+The little snowflake can also be put into a square. However, we have not been able (yet) to discover a working matrix-scheme for the crossed snowflake on the right. There is a matrix-scheme, but this is to big. See the article on the [Maths](https://maetempels.github.io/MAE-gf/docs/maths#mats-bigg) page.          
 * [left][ex-0306], right 
 
 ### Snowflakes diagonal
