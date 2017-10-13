@@ -1,5 +1,5 @@
 <style>
-.lijn {border-style: solid 1px; border-color:Red;}
+.lijn {solid 1px Red;}
   
 .one {
     border-style: solid 1px;
@@ -26,7 +26,7 @@
 la di la di la
 dom di dom
 
-<p class="lijn">dit is een test</p>
+<p class="lijn"> </p>
 
 <p class="one">  </p>
 
