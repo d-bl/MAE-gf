@@ -26,8 +26,8 @@
 la di la di la
 dom di dom
 
-<p class="lijn">.. </p>
+<p class="lijn">lijn </p>
 
-<p class="one">..  </p>
+<p class="one">one </p>
 
 </body>
