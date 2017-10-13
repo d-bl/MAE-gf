@@ -2,7 +2,7 @@
 .lijn {border-style: solid 1px; border-color:Red;}
   
 .one {
-    border-style: solid;
+    border-style: solid 1px;
     border-color: Yellow;
 }
 </style>
