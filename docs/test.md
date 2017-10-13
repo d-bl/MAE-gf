@@ -1,3 +1,8 @@
+<style>
+.lijn {color:Red;"}
+h2 {color:Blue;"}
+</style>
+
 <body>
 
 <h1> testpagina</h1>
@@ -18,7 +23,7 @@ en nog wat tekst
 en nog meer<br>
 en nu zonder de included
 
-<h2 style="color: Blue:" the quick brown fox</h2>
-<p style="color: Red;"><hr></p>
+<h2>the quick brown fox jumps</h2>
+<p class="lijn"><hr></p>
 
 </body>
