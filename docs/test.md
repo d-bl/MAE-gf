@@ -1,6 +1,5 @@
 <style>
 .lijn {border: solid 1px color:Red;}
-h2 {color:Blue;"}
 </style>
 
 <body>
@@ -23,7 +22,7 @@ en nog wat tekst
 en nog meer<br>
 en nu zonder de included
 
-<h2>the quick brown fox jumps</h2>
+
 <p class="lijn"><hr></p>
 
 </body>
