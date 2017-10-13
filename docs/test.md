@@ -26,6 +26,8 @@
 la di la di la
 dom di dom
 
+<p class="lijn">dit is een test</p>
+
 
 <p class="one"><hr></p>
 
