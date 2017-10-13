@@ -1,5 +1,10 @@
 <style>
 .lijn {border-style: solid 1px; border-color:Red;}
+  
+  p.one {
+    border-style: solid;
+    border-color: Red;
+}
 </style>
 
 <body>
@@ -19,8 +24,9 @@
 </ul></p>
 
 la di la di la
+dom di dom
 
 
-<p class="lijn"><hr></p>
+<p class="one"><hr></p>
 
 </body>
