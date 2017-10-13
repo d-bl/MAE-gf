@@ -28,7 +28,6 @@ dom di dom
 
 <p class="lijn">dit is een test</p>
 
-
-<p class="one"><hr></p>
+<p class="one">  </p>
 
 </body>
