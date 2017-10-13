@@ -18,7 +18,7 @@ en nog wat tekst
 en nog meer<br>
 en nu zonder de included
 
-
+<h2 style="color: Blue:" the quick brown fox</h2>
 <p style="color: Red;"><hr></p>
 
 </body>
