@@ -13,32 +13,27 @@ On this page several snowflake-grounds are collected.
 
 ### Binche Snowflake
 Picture to follow. For the Binche spiders see page [Spiders](https://github.com/MAETempels/MAE-gf/wiki/Spiders).     
-
-> [binche snowflake][ex-sn-bin]
+[binche snowflake][ex-sn-bin]
 
 ### Little Snowflake
 ![little snowflake][pic-sn-oo]      
-
-> [example][ex-0300]
+[example][ex-0300]
 
 ### Little Snowflake, crossed
 ![little snowflake crossed][pic-sn-cr]      
-
-> [example][ex-0342]
+[example][ex-0342]
 
 ### Snowflake in a square
 <img alt="snowflake squared" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf%200301%20wt.png">
 
 The little snowflake can also be put into a square. However, we have not been able (yet) to discover a working matrix-scheme for the crossed snowflake on the right. There is a matrix-scheme, but this is to big. See the article on the [Maths](https://maetempels.github.io/MAE-gf/docs/mats#to-big-matrix) page.          
-> [left][ex-0306], right 
+[left][ex-0306], right 
 
 ### Snowflakes diagonal
 ![diagonal snowflakes][pic-sn-dia]     
-
-> [example][ex-sn-dia]
+[example][ex-sn-dia]
 
 ***
-
 
 [pic-fusion]: https:/maetempels.github.io/MAE-gf/images_wt/gf-fusion.png
 [pic-0306-OIv]: https:/maetempels.github.io/MAE-gf/images_wt/gf%200301%20wt.png
