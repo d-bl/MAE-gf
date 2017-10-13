@@ -35,7 +35,7 @@ The little snowflake can also be put into a square. However, we have not been ab
 
 ***
 
-[page-spider]: https://github.com/MAETempels/MAE-gf/wiki/Spiders
+[page-spiders]: https://github.com/MAETempels/MAE-gf/wiki/Spiders
 [page-maths-tb]: https://maetempels.github.io/MAE-gf/docs/maths#to-big-matrix
 
 [pic-fusion]: https:/maetempels.github.io/MAE-gf/images_wt/gf-fusion.png
