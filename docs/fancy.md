@@ -34,15 +34,14 @@ See page [_Spiders_](https://github.com/MAETempels/MAE-gf/wiki/Spiders#spiders-i
 See page [_Pagoda's_](https://github.com/MAETempels/MAE-gf/wiki/Pagoda's-or-Triangular-grounds#pagoda-in-a-square). 
 
 ### Om & Om
-<img alt="om & om" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-oeno-11.png">
-
 In the Tesselace index a scheme for <i>Om & Om</i> can be found.        
-However, as the tiling-parameter is set to <span class="elem">brick</span> the stitches can not be chosen to generate the Om & Om. Setting the tiling to <span class="elem">checkers</span> does the trick, as in the following examples. You might try to see what happens if you change the tiling-parameter (works even with an odd number of collumns).
+However, as the tiling-parameter is set to <span class="elem">brick</span> the stitches can not be chosen to generate the Om & Om. Setting the tiling to <span class="elem">checkers</span> does the trick, as in the following examples. You might try to see what happens if you change the tiling-parameter (works even with an odd number of collumns).         
+![om & om][pic-oeno]
 * [o&o 11][oo-11], [o&o 12][oo-12], [o&o 12a][oo-12a]
 
 ### Short Bias
-![short bias foto][foto-0228-OGy] ![short bias 1][pic-0228-OG] ![short bias 2][pic-0228-OGy]
-Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter may give nice results in two colours.
+Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter may give nice results in two colours.                 
+![short bias 1][pic-0228-OG] ![short bias 2][pic-0228-OGy] ![short bias foto][foto-0228-OGy] 
 * [left][G-0228-OG], [right][G-0228-OGy]
 
 ### Plaits and Roses
@@ -72,7 +71,7 @@ The traditional rose ground units separated with plaits. Please note: the plaits
 
 [G-0228-OGy]: https://d-bl.github.io/GroundForge/index.html?m=15-2%0A7-5-%0A-586%0A5-4-%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20A3%3Dtct%20C1%3Dtct
 
-[G-rose]: a href="https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B24%3B0%3B0&s1=D1%3Dctctctctctc%20B1%3Dctctctctctc%20A1%3Dctctc%20D2%3Dctc%20B2%3Dctc%20C1%3Dctctc
+[G-rose]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B24%3B0%3B0&s1=D1%3Dctctctctctc%20B1%3Dctctctctctc%20A1%3Dctctc%20D2%3Dctc%20B2%3Dctc%20C1%3Dctctc
 
 [oo-11]: https://d-bl.github.io/GroundForge/index.html?m=88%0A11%3Bchecker%3B24%3B24%3B0%3B0&s1=ct%20A1%3Dctct%20B2%3Dctct
 
