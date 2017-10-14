@@ -5,7 +5,7 @@
 * [How to use these pages](#how-to-use-these-pages)
 * [Diagrams](#diagrams)
 * [References](#references)
-* [Other links](#other-links)
+* [Links](#links)
 * [Disclaimer](#disclaimer)
 
 ### Introduction
@@ -29,9 +29,7 @@ The pictures in this wiki are mostly made with Knipling (TM).
 ### References
 WI = Whiting index
 
-### Other links
-Some of these links you'll also find in the footer.
-
+### Links
 [Groundforge user guide][gf-help]              
 [Whiting index][wi-index]: Jo Edkins created an annotated online index on the grounds in _A Lace Guide for Makers and Collectors_ by Gertrude Whiting which dates from 1920.                 
 [Groundforge Whiting index][gf-wi]: The same index, with links to Groundforge scheme's and main page.                 
