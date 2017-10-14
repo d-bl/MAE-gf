@@ -12,7 +12,7 @@
 * [Ground names](#ground-names)
 * [Stitches](#stitches)
 * [Tiling](#tiling)
-* [Footsides](#Footsides)
+* [Footsides](#footsides)
 
 ### Ground names
 <img alt="rose v.s. cinq" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png"> 
