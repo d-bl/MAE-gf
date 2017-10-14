@@ -1,4 +1,4 @@
-# Bias grounds
+# Bias Grounds
 
 ### Contents
 * [Introduction](#introduction)
