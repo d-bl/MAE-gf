@@ -6,7 +6,7 @@
 * [Disclaimer](#disclaimer)
 
 ### Introduction
-On these pages you find pages with additional patterns for use in Groundforge, made by [Jo Pol][gf-jo]. Given are the parameter-section and, in most cases, stitches, although not always traditional.
+On this website you find pages with additional patterns for use in Groundforge, made by [Jo Pol][gf-jo]. Given are the parameter-section and, in most cases, stitches, although not always traditional.
 
 ### How to use these pages
 All examples are links to the Groundforge main page. Follow the link and click <span class="elem">SHOW</span> in the <span class="elem">PAIR/THREAD DIAGRAM</span> section. Please feel free to play with the stitches. E.g. try what happens if you change the default <span class="stch">ctc</span> of the spiders or fish in <span class="stch">ct</span>.       
