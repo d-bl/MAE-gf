@@ -25,7 +25,7 @@ Please note: when making the actual lace, it will make a big difference if the u
 * [Star][G-0112]
 
 ### Snowflakes in a square
-See page [_Snowflakes_](https://maetempels.github.io/MAE-gf/docs/snowflakes#squared-snowflake).
+See page [_Snowflakes_](https://maetempels.github.io/MAE-gf/docs/snowflakes#snowflake-in-a-square).
 
 ### Spiders in a square
 See page [_Spiders_](https://github.com/MAETempels/MAE-gf/wiki/Spiders#spiders-in-a-square).
