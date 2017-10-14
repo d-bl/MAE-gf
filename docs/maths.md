@@ -9,7 +9,7 @@
 On this page some mathematics for those who like such. Including formula in pseudo-code.
 
 ### Spider formula's
-As shown in the _[spiders][spiders-page]_ article, spider-matrices can be generated.      
+As shown in the [_spiders_][spiders-page] page, spider-matrices can be generated.      
 In all formula N is the number of legs on one side. The spider will thus have 4N legs.   
 Spaces have to be ingored. The sign "&" means "concatenate": "A" & "B" => "AB". The "" are omitted.   
       
