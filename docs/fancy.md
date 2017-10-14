@@ -1,4 +1,4 @@
-# Fance examples
+# Fancy examples
 
 ### Contents
 * [Introduction](#introduction)
