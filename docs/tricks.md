@@ -1,11 +1,3 @@
-<style> 
-  .b-grey {background-color: white; color: grey} 
-  .b-gree {background-color: white; color: lime} 
-  .b-purp {background-color: white; color: purple} 
-  .b-red {background-color: white; color: red} 
-  .b-blue {background-color: white; color: blue} 
-</style>
-
 # Tips, Tricks & Other notes
 
 ### Contents
