@@ -13,6 +13,7 @@
 * [Om & Om (alternate stitch)](#om--om)
 * [Short bias](#short-bias)
 * [Plaits and Roses](#plaits-and-roses)
+* [Big Rose ground]{#big-rose-ground)
 
 ### Introduction
 Some fancy examples, collected on this page. Names will be looked after later.
@@ -51,7 +52,12 @@ The traditional rose ground units separated with plaits. Please note: the plaits
 The Snowflake example uses the same pricking as the rose ground, but is made as a little snowflake.
 
 ![fusion][pic-fusion]
-* [Rose][G-rose], [Snowflake][G-0342]  
+* [Rose][G-rose], [Snowflake][G-0342]
+
+### Big Rose ground
+![big roses][pic-big-rose]
+* [Traditional][big-rg1], [another example][big-rg2]
+
 
 ***
 
@@ -61,6 +67,7 @@ The Snowflake example uses the same pricking as the rose ground, but is made as 
 [pic-0228-OG]: https://maetempels.github.io/MAE-gf/images_wt/gf%200228-OG.png
 [pic-0228-OGy]: https://maetempels.github.io/MAE-gf/images_wt/gf%200228%20OGy.png
 [pic-oeno]: https://maetempels.github.io/MAE-gf/images_wt/gf-oeno-11.png
+[pic-big-rose]:  https://maetempels.github.io/MAE-gf/images_wt/big-rose.png
 
 [foto-0228-OGy]: https://maetempels.github.io/MAE-gf/photos/gf-0228-foto.jpg
 
@@ -81,3 +88,8 @@ The Snowflake example uses the same pricking as the rose ground, but is made as 
 [oo-12a]: https://d-bl.github.io/GroundForge/index.html?m=888%0A111%3Bchecker%3B24%3B24%3B0%3B0&s1=ctct%20A1%3Dct%20C1%3Dct
 
 [oo-12]: https://d-bl.github.io/GroundForge/index.html?m=888%0A111%0A888%0A111%0A888%0A111%3Bchecker%3B24%3B24%3B0%3B0&s1=ct%20A1%3Dctct%20B2%3Dctct%20C3%3Dctct%20A4%3Dctct%20B5%3Dctct%20C6%3Dctct
+
+[big-rg2]: https://d-bl.github.io/GroundForge/index.html?m=-5---5%0A--C-B-%0A-B-5-C%3Bbricks%3B24%3B24%3B0%3B0&s1=ct%20F1%3Dctc%20E3%3Dc%20A3%3Dc
+
+[big-rg1]: https://d-bl.github.io/GroundForge/index.html?m=-5---5%0A--C-B-%0A-B-5-C%3Bbricks%3B24%3B24%3B0%3B0&s1=ctct%20B1%3Dct%20D1%3Dct
+
