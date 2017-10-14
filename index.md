@@ -26,7 +26,7 @@ The example is a variation on a 's Gravenmoers snowflake ground. See [here][ex-0
 The pictures in this wiki are mostly made with Knipling (TM).
 
 ### References
-WI = Whiting index. Jo Edkins created an annotated online index on the grounds in _A Lace Guide for Makers and Collectors_ by Gertrude Whiting which dates from 1920. See [Whiting index][wi-index].          
+WI = [Whiting index][wi-index]. Jo Edkins created an annotated online index on the grounds in _A Lace Guide for Makers and Collectors_ by Gertrude Whiting which dates from 1920.       
 
 ### Disclaimer
 All links worked when created. Due to work on the Groundforge coding, there may be hiccups. There is a work-around, but I have to study this first.           
