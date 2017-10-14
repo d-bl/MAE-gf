@@ -33,7 +33,7 @@ Stitches used in the examples on these pages:
 Sometimes, onorthodox stitches are used, like `Cross only` or `crcllcrc`, as in the [_Sunny Stitch_][ex-sun].
     
 
-Groundforge has rules as which stitch-code gets what colour, according to the Belgian colour code. For the examples on these pages, the pair-diagrams will not always show the Belgian colour code, due to the following, illustrated with an example.     
+Groundforge has rules as which stitch-code gets what colour, according to the Belgian colour code. For the examples on these pages, the pair-diagrams will not always show the Belgian colour code, due to the following, illustrated with an example.
 
 <img alt="example" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf-tctct.png">
 
