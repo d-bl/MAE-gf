@@ -3,7 +3,7 @@
 ### Contents
 * [Introduction](#introduction)
 
-**Squares**
+**Ground-units in squares**
 * [Rose ground](#rose-ground-in-a-square)
 * [Snowflakes](#snowflakes-in-a-square)
 * [Spider](#spiders-in-a-square)
