@@ -35,19 +35,22 @@ See page [_Pagoda's_](https://github.com/MAETempels/MAE-gf/wiki/Pagoda's-or-Tria
 
 ### Om & Om
 In the Tesselace index a scheme for <i>Om & Om</i> can be found.        
-However, as the tiling-parameter is set to <span class="elem">brick</span> the stitches can not be chosen to generate the Om & Om. Setting the tiling to <span class="elem">checkers</span> does the trick, as in the following examples. You might try to see what happens if you change the tiling-parameter (works even with an odd number of collumns).         
+However, as the tiling-parameter is set to <span class="elem">brick</span> the stitches can not be chosen to generate the Om & Om. Setting the tiling to <span class="elem">checkers</span> does the trick, as in the following examples. You might try to see what happens if you change the tiling-parameter (works even with an odd number of collumns).
+
 ![om & om][pic-oeno]
 * [o&o 11][oo-11], [o&o 12][oo-12], [o&o 12a][oo-12a]
 
 ### Short Bias
-Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter may give nice results in two colours.                 
-![short bias 1][pic-0228-OG] ![short bias 2][pic-0228-OGy] ![short bias foto][foto-0228-OGy] 
-* [left][G-0228-OG], [right][G-0228-OGy]
+Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter may give nice results in two colours.
+
+![same direction][pic-0228-OG] ![alternating][pic-0228-OGy] ![short bias foto][foto-0228-OGy] 
+* [example same direction][G-0228-OG], [example alternating directions][G-0228-OGy]
 
 ### Plaits and Roses
-<img alt="fusion" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-fusion.png">
+The traditional rose ground units separated with plaits. Please note: the plaits should stay plaits.              
+The Snowflake example uses the same pricking as the rose ground, but is made as a little snowflake.
 
-The traditional rose ground units separated with plaits. Please note: the plaits should stay plaits. The Snowflake example uses the same pricking as the rose ground, but is made as a little snowflake.
+![fusion][pic-fusion]
 * [Rose][G-rose], [Snowflake][G-0342]  
 
 ***
