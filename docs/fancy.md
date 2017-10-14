@@ -29,7 +29,7 @@ Please note: when making the actual lace, it will make a big difference if the u
 See page [_Snowflakes_](https://maetempels.github.io/MAE-gf/docs/snowflakes#snowflake-in-a-square).
 
 ### Spiders in a square
-See page [_Spiders_](https://github.com/MAETempels/MAE-gf/wiki/Spiders#spiders-in-a-square).
+See page [_Spiders_](https://maetempels.github.io/MAE-gf/docs/spiders#spiders-in-a-square).
 
 ### Pagoda's in a square
 See page [_Pagoda's_](https://github.com/MAETempels/MAE-gf/wiki/Pagoda's-or-Triangular-grounds#pagoda-in-a-square). 
