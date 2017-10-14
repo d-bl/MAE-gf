@@ -4,10 +4,10 @@
 * [Introduction](#introduction)
 
 **Squares**
-* [Squared rose ground](#squared-rose-ground)
-* [Squared snowflake](#squared-snowflake)
-* [Squared spider](#squared-spider)
-* [Squared pagoda](#squared-pagoda)
+* [Rose ground](#rose-ground-in-a-square)
+* [Snowflakes](#snowflakes-in-a-square)
+* [Spider](#spiders-in-a-square)
+* [Pagoda's](#pagodas-in-a-square)
 
 **Others**
 * [Om & Om (alternate stitch)](#om--om)
@@ -17,20 +17,20 @@
 ### Introduction
 Some fancy examples, collected on this page. Names will be looked after later.
 
-### Squared Rose ground
+### Rose ground in a square
 <img alt="torchon-flemish" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-tor-vl.png">
 
 By putting the traditional rose ground unit in a square, little stars can be made.                 
 Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates.
 * [Star][G-0112]
 
-### Squared Snowflake
+### Snowflakes in a square
 See page [_Snowflakes_](https://mae.tempels.github.io/MAE-gf/docs/snowflakes/#squared-snowflake).
 
-### Squared Spider
+### Spiders in a square
 See page [_Spiders_](https://github.com/MAETempels/MAE-gf/wiki/Spiders#spiders-in-a-square).
 
-### Squared pagoda
+### Pagoda's in a square
 See page [_Pagoda's_](https://github.com/MAETempels/MAE-gf/wiki/Pagoda's-or-Triangular-grounds#pagoda-in-a-square). 
 
 ### Om & Om
