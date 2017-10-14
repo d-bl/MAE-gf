@@ -21,7 +21,7 @@ Some fancy examples, collected on this page. Names will be looked after later.
 By putting the traditional rose ground unit in a square, little stars can be made.                 
 Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates.
 
-[torchon-flemish][pic-tor-flem]
+![torchon-flemish][pic-tor-flem]
 * [Star][G-0112]
 
 ### Snowflakes in a square
