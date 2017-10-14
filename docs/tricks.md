@@ -23,7 +23,8 @@ Stitches used in the examples on these pages:
 * Whole stitch & twist = (twist if not already done), cross, twist, cross, twist. Coloured <span class="b-red">red</span>.
 * Plaits = (twist,) cross, twist, cross, twist, cross, twist, cross (, twist), .... . Coloured <span class="b-blue">blue</span>.
 
-Sometimes, onorthodox stitches are used, like <span class="stch">Cross only</span> or <span class="stch">crcllcrc</span> , as in the [_Sunny Stitch_][ex-sun]. 
+Sometimes, onorthodox stitches are used, like <span class="stch">cross only</span> or <span class="stch">crcllcrc</span> , as in the [_Sunny Stitch_][ex-sun].    
+We have tried <span class="stch">ctctclllllctctc</span>  as a substitute for picots. Groundforge needs some time to generate this, and the result is not as expected.
 
 <img alt="example" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf-tctct.png">
 
@@ -32,8 +33,6 @@ Suppose, we wish to work on the example on the right. The whole stitch & twist i
 
 Groundforge accepts only stitch-instructions with at least one cross, so the stitch <span class="stch">do nothing</span> is not supported by Groundforge.          
 The instruction <span class="stch">A1=t</span> will be translated into <span class="stch">A1=ct</span>.               
-
-We have tried <span class="stch">ctctclllllctctc</span>  as a substitute for picots. Groundforge needs some time to generate this, and the result is not as expected.
 
 ### Diagrams
 <p align="center"><img alt="several types of drawings" src="https://maetempels.github.io/MAE-gf/images/gf%20picts.png"></p>
