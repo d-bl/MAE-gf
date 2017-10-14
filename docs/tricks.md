@@ -29,7 +29,7 @@ Sometimes, onorthodox stitches are used, like <span class="stch">Cross only</spa
 Groundforge has rules as which stitch-code gets what colour, according to the Belgian colour code. For the examples on these pages, the pair-diagrams will not always show the Belgian colour code, due to the following, illustrated with an example.            
 Suppose, we wish to work on the example on the right. The whole stitch & twist in the middle can be specified several ways. We prefer to use <span class="stch">ctc B1=tctct</span>, see [here][ex-tctct]. However, doing so, Groundforge colours this stitch in black in the pair-diagram. If we wish to see a red stitch, we have to use <span class="stch">ctc A1=ctcr A2=ctcr B1=ctct</span> , see [here][ex-ctct].
 
-Groundforge accepts only stitch-instructions with at least one cross. The instruction <span class="stch">A1=t` will be translated into <span class="stch">A1=ct</span> .
+Groundforge accepts only stitch-instructions with at least one cross. The instruction <span class="stch">A1=t</span> will be translated into <span class="stch">A1=ct</span> .
 
 We have tried <span class="stch">ctctclllllctctc</span>  as a substitute for picots. Groundforge needs some time to generate this, and the result is not as expected.
 
