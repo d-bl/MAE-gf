@@ -9,7 +9,7 @@
 On this page some mathematics for those who like such. Including formula in pseudo-code.
 
 ### Spider formula's
-As shown in the [spiders][spiders-page] article, spider-matrices can be generated.      
+As shown in the _[spiders][spiders-page]_ article, spider-matrices can be generated.      
 In all formula N is the number of legs on one side. The spider will thus have 4N legs.   
 Spaces have to be ingored. The sign "&" means "concatenate": "A" & "B" => "AB". The "" are omitted.   
       
@@ -28,7 +28,7 @@ next j)
 ### To big matrix
 <img alt="to big matrix" align="right" src="https://maetempels.github.io/MAE-gf/images/gf-sn-nott.png"> 
 
-We wished to find the matrix-scheme for the crossed-snowflake-in-a-square. Just putting te snowflake in the square won't work, since the snowflake requires 11 "nodes", whereas the square has 9 nodes inside. So, the square has to be enlarged. The matrix in the picture follows the rules for matrices, but the tiles are too big for Groundforge to handle. 
+We wished to find the matrix-scheme for the crossed-snowflake-in-a-square. Just putting the snowflake in the square won't work, since the snowflake requires 11 "nodes", whereas the square has 9 nodes inside. So, the square has to be enlarged. The matrix in the picture follows the rules for matrices, but the tiles are too big for Groundforge to handle. 
       
       
       
