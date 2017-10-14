@@ -2,7 +2,7 @@
 
 ### Contents
 * [Introduction](#introduction)
-* [How to use this wiki](#how-to-use-these pages)
+* [How to use this wiki](#how-to-use-these-pages)
 * [Diagrams](#diagrams)
 * [References](#references)
 * [Other links](#other-links)
