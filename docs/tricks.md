@@ -23,7 +23,6 @@ Example: The picture shows the working-scheme's of one unit of _Slavic rose grou
 ### Stitches
 <img alt="colours" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf-kleurtjes.png">
 
-![colours][pic-kleur]      
 Stitches used in the examples on these pages:
 * Cross only. In working scheme's coloured in <span class="b-grey">grey.</span>
 * Half stitch = (twist if not already done), cross, twist. Coloured <span class="b-gree">green</span>.
