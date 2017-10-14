@@ -39,5 +39,6 @@ English is not my native language, so please forgive me any mistakes.
 
 [gf-main]: https://d-bl.github.io/GroundForge/
 [gf-jo]: https://github.com/jo-pol
+[wi-index]: http://gwydir.demon.co.uk/jo/lace/whiting/index.htm#picindex
 
 [ex-0306]: https://d-bl.github.io/GroundForge/index.html?m=--B-C---%0A-E-5-O-K%0A5-----5-%0A-------5%3Bbricks%3B24%3B24%3B0%3B0&s1=c%20F4%3Dctct%20B2%3Dtct%20B4%3Dtctc%20A1%3Dcl%20C1%3Dcr
