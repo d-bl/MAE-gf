@@ -1,7 +1,8 @@
 # About us
 
 ### Marian Tempels
-![tulp][tulp]
+![tulp][tulp]      
+
 Living in the Netherlands.        
 
 I started making lace about 1980. Worked my way through "Slag voor slag" by Zus Boelaars. Some years later I took lessons, still working traditional.   
