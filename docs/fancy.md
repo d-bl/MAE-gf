@@ -13,7 +13,7 @@
 * [Om & Om (alternate stitch)](#om--om)
 * [Short bias](#short-bias)
 * [Plaits and Roses](#plaits-and-roses)
-* [Big Rose ground]{#big-rose-ground)
+* [Big Rose ground](#big-rose-ground)
 
 ### Introduction
 Some fancy examples, collected on this page. Names will be looked after later.
