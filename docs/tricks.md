@@ -22,21 +22,21 @@ Stitches used in the examples on these pages:
 * Whole stitch & twist = (twist if not already done), cross, twist, cross, twist. Coloured <span class="b-red">red</span>.
 * Plaits = (twist,) cross, twist, cross, twist, cross, twist, cross (, twist), .... . Coloured <span class="b-blue">blue</span>.
 
-Sometimes, onorthodox stitches are used, like `Cross only` or `crcllcrc`, as in the [_Sunny Stitch_][ex-sun].
+Sometimes, onorthodox stitches are used, like <span class="stch">Cross only</span>  or <span class="stch">crcllcrc</span> , as in the [_Sunny Stitch_][ex-sun].
     
 <img alt="example" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf-tctct.png">
 
 Groundforge has rules as which stitch-code gets what colour, according to the Belgian colour code. For the examples on these pages, the pair-diagrams will not always show the Belgian colour code, due to the following, illustrated with an example.            
-Suppose, we wish to work on the example on the right. The whole stitch & twist in the middle can be specified several ways. We prefer to use <span class="stch">ctc B1=tctct</span>, see [here][ex-tctct]. However, doing so, Groundforge colours this stitch in black in the pair-diagram. If we wish to see a red stitch, we have to use `ctc A1=ctcr A2=ctcr B1=ctct`, see [here][ex-ctct].
+Suppose, we wish to work on the example on the right. The whole stitch & twist in the middle can be specified several ways. We prefer to use <span class="stch">ctc B1=tctct</span>, see [here][ex-tctct]. However, doing so, Groundforge colours this stitch in black in the pair-diagram. If we wish to see a red stitch, we have to use <span class="stch">ctc A1=ctcr A2=ctcr B1=ctct</span> , see [here][ex-ctct].
 
-Groundforge accepts only stitch-instructions with at least one cross. The instruction `A1=t` will be translated into `A1=ct`.
+Groundforge accepts only stitch-instructions with at least one cross. The instruction <span class="stch">A1=t` will be translated into <span class="stch">A1=ct</span> .
 
-We have tried `ctctclllllctctc` as a substitute for picots. Groundforge needs some time to generate this, and the result is not as expected.
+We have tried <span class="stch">ctctclllllctctc</span>  as a substitute for picots. Groundforge needs some time to generate this, and the result is not as expected.
 
 ### Tiling
 Most examples use the <span class="elem">brick</span> parameter setting, drawn as a blue rectangle when shown, since it's less ID's to specify. Some scheme's do not have a working brick diagram, so, of course, a <span class="elem">checkers</span> parameter is used, drawn as a red rectangle when shown.           
 
-Please note, that the ID's needed for the stitches shift somehow. `A1` is not in the upperleft corner of the shown units in the examples.
+Please note, that the ID's needed for the stitches shift somehow. <span class="elem">A1</span> is not in the upperleft corner of the shown units in the examples.
 
 ### Footsides
 The examples provided focus on just elements of the grounds. No attention is paid to footsides. This may sometimes lead to tilted figures.
