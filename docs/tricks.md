@@ -30,7 +30,7 @@ Stitches used in the examples on these pages:
 * Whole stitch & twist = (twist if not already done), cross, twist, cross, twist. Coloured <span class="b-red">red</span>.
 * Plaits = (twist,) cross, twist, cross, twist, cross, twist, cross (, twist), .... . Coloured <span class="b-blue">blue</span>.
 
-Sometimes, onorthodox stitches are used, like `Cross only` or `crcllcrc`, as in the [sunny stitch][ex-sun].
+Sometimes, onorthodox stitches are used, like `Cross only` or `crcllcrc`, as in the [_Sunny Stitch_][ex-sun].
     
 <img alt="example" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf-tctct.png">
 
