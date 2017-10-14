@@ -9,7 +9,7 @@ I started making lace about 1980. Worked my way through "Slag voor slag" by Zus 
 My lace-making got a tremendous boost when I joined lacegroup De Waaier. I started taking classes in different styles including modern lace.           
 Inspired by "Hollandsche kant" I started to experiment with the rose-ground, using onorthodox stitches like "cross only" or "do nothing". Also, I joined the units of the rose ground with plaits. These works were published in the "Kantbrief", the magazine from the dutch lace-society LOKK.   
 
-I studied Mathematics at Technical University Eindhoven. I work as database-designer.    
+I studied Mathematics at Technical University Eindhoven and work as database-designer.    
 
 ***
 
