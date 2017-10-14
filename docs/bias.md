@@ -39,7 +39,7 @@ Better names for the examples will follow.
 
 ***
 
-[fancy-sb]: https://maetempels.github.io/MAE-gf/docs/fancy%20examples#short-bias
+[fancy-sb]: https://maetempels.github.io/MAE-gf/docs/fancy#short-bias
 
 [p-0221-wt]: https://maetempels.github.io/MAE-gf/images_wt/gf%200221%20wt.png
 [P-0221-tr]: https://maetempels.github.io/MAE-gf/images_wt/gf-bias-tr.png
