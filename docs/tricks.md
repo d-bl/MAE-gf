@@ -35,7 +35,7 @@ Groundforge accepts only stitch-instructions with at least one cross, so the sti
 The instruction <span class="stch">A1=t</span> will be translated into <span class="stch">A1=ct</span>.               
 
 ### Diagrams
-<p align="center"><img alt="several types of drawings" src="https://maetempels.github.io/MAE-gf/images/gf%20picts.png"></p>
+<p class="central"><img alt="several types of drawings" src="https://maetempels.github.io/MAE-gf/images/gf%20picts.png"></p>
 
 On these pages several types of diagrams are used, as illustrated in the picture. On the left is a drawing of a _pair-diagram_ or _working-scheme_. Pins, pinpositions and colourcode are given as needed for the actual lace. In the middle the ground is drawn schematic, to given an impression. Pins and colourcode may or may not be drawn. The pinpositions are drawn as required for the actual lace. On the right the _matrix-scheme_ that Groundforge understands. In the articles the name _scheme_ or _diagram_ will be used for all types of the drawings.                     
 Several grounds have more than one working matrix-scheme, as is explained in de Groundforge-userguide.    
