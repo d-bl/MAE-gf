@@ -23,7 +23,7 @@ Better names for the examples will follow.
 
 ###  Bias Ground crossed rose style
 ![crossed][P-0221-at]
-* [WI D6][wi-D6], [WI F4][wi-F4]
+* [WI D6][wi-D6], [WI F4][wi-F4], [Star][G-0278-KG]
 
 ### Bias Ground crossed differently
 ![alt crossed][P-0221-aa]
@@ -59,6 +59,8 @@ Better names for the examples will follow.
 [G-0221-av]: https://d-bl.github.io/GroundForge/index.html?m=8-7-48%0A831214%0A488-7-%0A148312%0A7-488-%0A121483%0A%0A%3Bchecker%3B16%3B16%3B0%3B0&s1=ctct%20E4%3Dct%20F5%3Dct%20B1%3Dct%20D3%3Dct%20A6%3Dct%20C2%3Dct
 
 [G-0228OD]: https://d-bl.github.io/GroundForge/index.html?m=6-48%20%0A86-4%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtct%20C2%3Dtct
+
+[G-0278-KG]: https://d-bl.github.io/GroundForge/index.html?m=8-48%0A8314%3Bbricks%3B16%3B16%3B0%3B0&s1=c%20D2%3Dctct%20A1%3Dctc%20B1%3Dc%20C1%3Dctc%20B2%3Dtctc
 
 
 
