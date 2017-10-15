@@ -52,7 +52,7 @@ The traditional rose ground units separated with plaits. Please note: the plaits
 The Snowflake example uses the same pricking as the rose ground, but is made as a little snowflake.
 
 ![fusion][pic-fusion]
-* [Rose][G-rose], [Snowflake][G-0342]
+* [Rose][G-rose], [Snowflake][G-0342], [Bias star][G-0278-KF]
 
 ### Big Rose ground
 ![big roses][pic-big-rose]
@@ -82,6 +82,8 @@ The Snowflake example uses the same pricking as the rose ground, but is made as 
 [G-0228-OGy]: https://d-bl.github.io/GroundForge/index.html?m=15-2%0A7-5-%0A-586%0A5-4-%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20A3%3Dtct%20C1%3Dtct
 
 [G-rose]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B24%3B0%3B0&s1=D1%3Dctctctctctc%20B1%3Dctctctctctc%20A1%3Dctctc%20D2%3Dctc%20B2%3Dctc%20C1%3Dctctc
+
+[G-0278-KF]: https://d-bl.github.io/GroundForge/index.html?m=8-48%0A8314%3Bbricks%3B16%3B16%3B0%3B0&s1=ctctctctc%20D2%3Dctct%20A1%3Dctc%20B1%3Dc%20C1%3Dctc%20B2%3Dtctc
 
 [oo-11]: https://d-bl.github.io/GroundForge/index.html?m=88%0A11%3Bchecker%3B24%3B24%3B0%3B0&s1=ct%20A1%3Dctct%20B2%3Dctct
 
