@@ -12,7 +12,7 @@
 On this page several snowflake-grounds are collected. 
 
 ### Binche Snowflake
-Picture to follow. For the Binche spiders see page [_Spiders_][page-spiders]. 
+Picture to follow. For the Binche spiders see [_Spiders_][page-spiders] page. 
 * [binche snowflake][ex-sn-bin]
 
 ### Little Snowflake
