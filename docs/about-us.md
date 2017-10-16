@@ -1,6 +1,6 @@
 # About us
 
-### Marian Tempels
+### M.A.E. Tempels
 ![tulp][tulp]      
 
 Living in the Netherlands.        
