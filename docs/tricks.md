@@ -55,7 +55,7 @@ The examples provided focus on just elements of the grounds. No attention is pai
 ***
 
 
-[ex-sun]: https://maetempels.github.io/docs/marian#sunny-stitch
+[ex-sun]: https://maetempels.github.io/docs/MAE-gf/marian#sunny-stitch
 
 [ex-tctct]: https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtctct
 
