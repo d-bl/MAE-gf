@@ -26,13 +26,13 @@ Please note: when making the actual lace, it will make a big difference if the u
 * [Star][G-0112]
 
 ### Snowflakes in a square
-See page [_Snowflakes_](https://maetempels.github.io/MAE-gf/docs/snowflakes#snowflake-in-a-square).
+See page [_Snowflakes_][page-snow].
 
 ### Spiders in a square
-See page [_Spiders_](https://maetempels.github.io/MAE-gf/docs/spiders#spiders-in-a-square).
+See page [_Spiders_][page-spid].
 
 ### Pagoda's in a square
-See page [_Pagoda's_](https://github.com/MAETempels/MAE-gf/wiki/Pagoda's-or-Triangular-grounds#pagoda-in-a-square). 
+See page [_Pagoda's_][page-tria]. 
 
 ### Om & Om
 In the Tesselace index a scheme for <i>Om & Om</i> can be found.        
@@ -60,6 +60,10 @@ The Snowflake example uses the same pricking as the rose ground, but is made as 
 
 
 ***
+
+[page-snow]: https://maetempels.github.io/MAE-gf/docs/snowflakes#snowflake-in-a-square
+[page-spid]: https://maetempels.github.io/MAE-gf/docs/spiders#spiders-in-a-square
+[page-tria]: https://maetempels.github.io/MAE-gf/docs/tria#pagoda-in-a-square
 
 [pic-tor-flem]: https://maetempels.github.io/MAE-gf/images_wt/gf-tor-vl.png
 [pic-fusion]: https://maetempels.github.io/MAE-gf/images_wt/gf-fusion.png
