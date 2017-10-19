@@ -45,7 +45,7 @@ The units can be placed all facing in the same direction, or alternating.
 * [square][ex-sqre]
 
 ### Building Pagoda's
-Bigger pagoda's can be build much in the same way as building bigger fish.            
+Bigger pagoda's can be build much in the same way as building bigger _[fish][fish-page]_.            
 The coloured dots indicate what goes where when translating the working scheme into a matrix. The black lines indicate one unit, the grey lines show where the other units connect.         
 ![building pagoda's][build pagoda]
 
@@ -66,6 +66,7 @@ The unit on the left looks more like the working-scheme. It works nice as a buil
 [pg-face]: https://maetempels.github.io/MAE-gf/images_wt/gf-pg-face.png
 [pg-sqre]: https://maetempels.github.io/MAE-gf/images_wt/gf-pg-sqre.png
 
+[fish-page]: https://maetempels.github.io/MAE-gf/docs/fish#building-fish
 
 [ex-sqre]: https://d-bl.github.io/GroundForge/index.html?m=215-5-%0A-786-5%0A246-5-%3Bbricks%3B24%3B24%3B0%3B0&s1=ctct%20A1%3Dtctc%20B2%3Drctc%20A2%3Dctc%20F2%3Dlctclctcll%20D3%3Dctc%20E3%3Dctcrr%20D1%3Dctctt
 
