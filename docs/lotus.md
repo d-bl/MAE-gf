@@ -3,8 +3,8 @@
 ### Contents
 * [Introduction](#introduction)
 * [Lotus notation](#lotus-notation)
-* [Lotus building](#lotus-building)
 * [Lotus examples](#lotus-examples)
+* [Lotus building](#lotus-building)
 
 ### Introduction
 <img alt="lotus pair dia" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf%20lotus%20wt.png">
