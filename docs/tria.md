@@ -66,7 +66,7 @@ The unit on the left looks more like the working-scheme. It works nice as a buil
 [pg-face]: https://maetempels.github.io/MAE-gf/images_wt/gf-pg-face.png
 [pg-sqre]: https://maetempels.github.io/MAE-gf/images_wt/gf-pg-sqre.png
 
-[fish-page]: https://maetempels.github.io/MAE-gf/docs/fish#building-fish
+[fish-page]: https://maetempels.github.io/MAE-gf/docs/fish#fish-building
 
 [ex-sqre]: https://d-bl.github.io/GroundForge/index.html?m=215-5-%0A-786-5%0A246-5-%3Bbricks%3B24%3B24%3B0%3B0&s1=ctct%20A1%3Dtctc%20B2%3Drctc%20A2%3Dctc%20F2%3Dlctclctcll%20D3%3Dctc%20E3%3Dctcrr%20D1%3Dctctt
 
