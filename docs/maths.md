@@ -34,6 +34,6 @@ We wished to find the matrix-scheme for the crossed-snowflake-in-a-square. Just 
 
 ***
 
-[spiders-page]: https://github.com/MAETempels/MAE-gf/wiki/Spiders
+[spiders-page]: https://maetempels.github.io/MAE-gf/docs/spiders#building-spiders
 
 [to-big-sn]: https://maetempels.github.io/MAE-gf/images/gf-sn-nott.png
