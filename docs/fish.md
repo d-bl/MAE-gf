@@ -1,4 +1,4 @@
-# Milanese fish
+# Milanese Fish
 
 ### Contents
 * [Introduction](#introduction)
@@ -30,15 +30,15 @@ Fish B,S,W means: the number of Bones, the number of Spines and the number of Wa
 ### Fish building.
 The general fish scheme looks like the schemes in the picture. Of course, other scheme's are possible. Please note that an even or odd number of "waves" dictate if a <span class="elem">brick-matrix</span> is possible.      
 
-<span class="central"><img alt="fish generator" src="https://maetempels.github.io/MAE-gf/images/gf%20vis%20gen.png"></p>
+<p class="central"><img alt="fish generator" src="https://maetempels.github.io/MAE-gf/images/gf%20vis%20gen.png"></p>
      
 Building bigger fish is illustrated in the following picture. Please note the change of direction of the weavers.       
 
-<span class="central"><img alt="fish build" src="https://maetempels.github.io/MAE-gf/images/gf%20vis%20bouw.png"></p>
+<p class="central"><img alt="fish build" src="https://maetempels.github.io/MAE-gf/images/gf%20vis%20bouw.png"></p>
 
 ***
 
-[lotus-page]: https://github.com/MAETempels/MAE-gf/wiki/Milanese-Lotus
+[lotus-page]: https://maetempels.github.io/MAE-gf/docs/lotus
 
 [F12-]: https://d-bl.github.io/GroundForge/index.html?m=8%0A1%3Bchecker%3B16%3B16%3B0%3B0&s1=A1%3Dctc%20A2%3Dctcr
 
