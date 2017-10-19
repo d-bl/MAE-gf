@@ -25,7 +25,7 @@ Building bigger lotus is similair to the building of bigger fish, as illustrated
 
 ***
 
-[fish-page]: https://maetempels.github.io/MAE-gf/docs/fish#building-fish
+[fish-page]: https://maetempels.github.io/MAE-gf/docs/fish#fish-building
 [lotus_wt]: https://maetempels.github.io/MAE-gf/images_wt/gf%20lotus%20wt.png
 [lotus_gen]: https://maetempels.github.io/MAE-gf/images/gf%20lotus%20gen.png
 
