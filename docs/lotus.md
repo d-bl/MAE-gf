@@ -7,7 +7,7 @@
 * [Lotus examples](#lotus-examples)
 
 ### Introduction
-<img alt="lotus pair dia" align="right" src="https://github.com/MAETempels/MAE-gf/blob/master/images_wt/gf%20lotus%20wt.png">
+<img alt="lotus pair dia" align="right" src="https:/maetempels.github.io/MAE-gf/images_wt/gf%20lotus%20wt.png">
 Lotus grounds are usualy used in small braids, 14-18 pairs.
 
 ### Lotus notation
