@@ -1,4 +1,4 @@
-# Triangular grounds or Pagoda's
+# Triangular Grounds or Pagoda's
 
 ### Contents
 * [Introduction](#introduction)
