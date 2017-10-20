@@ -20,11 +20,8 @@ Clearly, this pattern as such can not be made with Groundforge, however, there i
 * [Lace lintje][LLLL]
 
 ### Sunny stitch
-This stitch I created because I wished to see a little loop at the sides of the rose ground. To obtain this, I used a very onorthodox stitch.    
-
-![sunny stitch][pic-0902]
-The colour grey indicates <span class="stch">cross only</span>.            
-      
+This stitch I created because I wished to see a little loop at the sides of the rose ground. To obtain this, I used a very onorthodox stitch. The colour grey indicates <span class="stch">cross only</span>.     
+![sunny stitch][pic-0902]        
 * [sunny stitch in plaits][G-0902-f], [sunny stitch in square][G-0902-q]
 
 ### Ants
