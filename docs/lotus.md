@@ -1,4 +1,4 @@
-# Milanes Lotus
+# Milanese Lotus
 
 ### Contents
 * [Introduction](#introduction)
