@@ -18,12 +18,14 @@ the picture on the right.
 Please note that some of the examples are mirrored. 
 
 ### Traditional pagoda's
-![traditional pg][pg-trad]      
+<img alt="pg traditional" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png">
+     
 Please note: traditionally the pagoda-ground uses a weaver, that returns round the pin with two twists at the pointy bit. The example looked better not turning.
 * [traditional][ex-trad] 
 
 ### Bigger pagoda's
-![bigg pg][pg-bigg]        
+<img alt="pg-bigg" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-bigg.png">
+  
 The resulting thread diagram shows a pagoda that is bended over, due to the chosen matrix-scheme.
 * [bigger pagoda][ex-bigg]
 
@@ -40,8 +42,9 @@ The resulting thread diagram shows a pagoda that is bended over, due to the chos
 * [stacked][ex-stck]
          
 ### Pagoda in a square
+<img alt="pg in square" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-sqre.png">
+
 The units can be placed all facing in the same direction, or alternating.        
-![pg in square][pg-sqre]
 * [square][ex-sqre]
 
 ### Building Pagoda's
