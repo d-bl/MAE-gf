@@ -28,8 +28,9 @@ Please note: traditionally the pagoda-ground uses a weaver, that returns round t
 <img alt="pg-bigg" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-bigg.png">
   
 The resulting thread diagram shows a pagoda that is bended over, due to the chosen matrix-scheme.     
-<br><br><br>
+<p>
 * [bigger pagoda][ex-bigg]
+</p>     
 
 ### Pagoda's kissing
 ![pg kissing][pg-kiss]
@@ -44,11 +45,9 @@ The resulting thread diagram shows a pagoda that is bended over, due to the chos
 * [stacked][ex-stck]
          
 ### Pagoda in a square
-<div>
 <img alt="pg in square" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-sqre.png">
 
 The units can be placed all facing in the same direction, or alternating.        
-</div>
 * [square][ex-sqre]
 
 ### Building Pagoda's
