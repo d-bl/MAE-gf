@@ -54,6 +54,7 @@ The coloured dots indicate what goes where when translating the working scheme i
 The unit on the right looks more like the working-scheme. It works nice as a building block for the traditional pagoda, however, the matrix-scheme's for the other pagoda examples are harder to achieve.         
 
 <br><br><br>
+
 ***
 
 [build pagoda]: https://maetempels.github.io/MAE-gf/images/gf%20build%20pagoda.png
