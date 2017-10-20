@@ -16,18 +16,19 @@
 In this article we show several placings of one unit of the _Pagoda_ or _Triangular_ ground. One unit is shown in 
 the picture on the right.          
 Please note that some of the examples are mirrored. 
-<div>  </div>
 
 ### Traditional pagoda's
 <img alt="pg traditional" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png">
      
-Please note: traditionally the pagoda-ground uses a weaver, that returns round the pin with two twists at the pointy bit. The example looked better not turning.
+Please note: traditionally the pagoda-ground uses a weaver, that returns round the pin with two twists at the pointy bit. The example looked better not turning.     
+<br><br><br>
 * [traditional][ex-trad] 
 
 ### Bigger pagoda's
 <img alt="pg-bigg" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-bigg.png">
   
-The resulting thread diagram shows a pagoda that is bended over, due to the chosen matrix-scheme.
+The resulting thread diagram shows a pagoda that is bended over, due to the chosen matrix-scheme.     
+<br><br><br>
 * [bigger pagoda][ex-bigg]
 
 ### Pagoda's kissing
@@ -43,9 +44,11 @@ The resulting thread diagram shows a pagoda that is bended over, due to the chos
 * [stacked][ex-stck]
          
 ### Pagoda in a square
+<div>
 <img alt="pg in square" align="left" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-sqre.png">
 
 The units can be placed all facing in the same direction, or alternating.        
+</div>
 * [square][ex-sqre]
 
 ### Building Pagoda's
