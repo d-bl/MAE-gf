@@ -20,12 +20,12 @@
 #sidebar hr { height: 12px; border: 0; box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.2); }
 
 /* pictures */
-.fig-left { display: inline-block; margin:0; width:30%; }
-.txt-left { display: inline-block; margin-left:2em; width:50%; color:red;}
+.fig-left { display: inline-block; margin:0; width: 30%; }
+.txt-left { display: inline-block; margin-left:2em; width: 40%; color:blue;}
 
 /* goes with figure-left.html, however, the picture starts not at the left border of file */
 /* it does not help to use "block" with img. */
 /*
-img.fig-left { display: inline-block; margin:0; width:30%}
-figure.fig-left figcaption { display: inline-block; margin-left:2em; width:50%; }
+img.fig-left { display: inline-block; margin:0; width: 30%}
+figure.fig-left figcaption { display: inline-block; margin-left:2em; width: 50%; }
 */ 
