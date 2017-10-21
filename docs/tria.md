@@ -28,7 +28,7 @@ Please note that some of the examples are mirrored.
   alt="torchon pg" 
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png" 
  %}
- <p class="txt-left">hier tekst</p>
+ <p class="pic-left">hier tekst</p>
 
 
 * [traditional][ex-trad] 
