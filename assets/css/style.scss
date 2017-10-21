@@ -6,11 +6,11 @@
 /* stitches & elements */
 .stch {border: 1px solid #DBE7F3; background-color: #F2F8FC;}
 .elem {border: 1px solid #DBE7F3;}
-.b-grey {background-color: white; color: grey} 
-.b-gree {background-color: white; color: lime} 
-.b-purp {background-color: white; color: purple} 
-.b-red {background-color: white; color: red} 
-.b-blue {background-color: white; color: blue} 
+.b-grey {background-color: white; color: grey;} 
+.b-gree {background-color: white; color: lime;} 
+.b-purp {background-color: white; color: purple;} 
+.b-red {background-color: white; color: red;} 
+.b-blue {background-color: white; color: blue;} 
 
 /* others */
 .form {background-color: White; font: Courier;}
@@ -23,5 +23,5 @@
 .fig-left { display: inline-block; margin-left:0; margin-top:0; margin-right:1em; width: 33%; }
 */
 
-image.fig-left { display: block; margin:0;}
-figure.fig-left figcaption { display: inline-block; margin-left:2em; width: 50%; color:red }
+image.fig-left { display: block; margin:0; width: 30%}
+figure.fig-left figcaption { display: inline-block; margin-left:2em; width: 60%; color:green }
