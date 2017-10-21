@@ -21,14 +21,18 @@ Please note that some of the examples are mirrored.
 {% include figure.html 
   class="fig-left" alt="torchon pg" 
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png" 
-   %}
+%}
 <p class="fig-left">Please note: traditionally the pagoda-ground uses a weaver which returns round the pin with two twists at the pointy bit. The example looked better not turning.</p>
 
 * [traditional][ex-trad] 
 
 ### Bigger pagoda's
-![pg bigg][pg-bigg]      
-The resulting thread diagram shows a pagoda that is bended over, due to the chosen matrix-scheme.        
+{% include figure.html
+  class="fig-left" alt="bigg pg"
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-bigg.png"
+%}
+<p class="fig-left">The resulting thread diagram shows a pagoda that is bended over, due to the chosen matrix-scheme.</p>
+
 * [bigger pagoda][ex-bigg]
  
 ### Pagoda's kissing
