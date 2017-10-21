@@ -24,6 +24,12 @@ Please note that some of the examples are mirrored.
   caption="Please note: traditionally the pagoda-ground uses a weaver which returns round the pin with two twists at the pointy bit. The example looked better not turning."
 %}
 
+{% include test-links.html
+  class="fig-test" alt="doe maar even"
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png"
+  bijschrift="het resultaat van al dat testen is, dat het wel leuk is maar niet tot veel leidt"
+ %} 
+
 * [traditional][ex-trad] 
 
 ### Bigger pagoda's
