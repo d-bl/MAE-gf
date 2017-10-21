@@ -23,5 +23,5 @@
 .fig-left { display: inline-block; margin-left:0; margin-top:0; margin-right:1em; width: 33%; }
 */
 
-figure.fig-left image.fig-left { display: block; margin-left:0; margin-top:0; margin-right:1em; width: 33%; }
-figure.fig-left image.fig-left figcaption { display: inline-block;  color:white; width: 33%}
+image.fig-left { display: block; margin-left:0; margin-top:0; margin-right:1em; width: 33%; }
+figure.fig-left figcaption { display: inline-block;  color:green; width: 33%}
