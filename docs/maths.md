@@ -26,7 +26,7 @@ next j)
 ``` 
 
 ### To big matrix
-{% include picts-right.html 
+{% include picts-left.html 
       class="f-perc5"
       alt="to big matrix" 
       src="https://maetempels.github.io/MAE-gf/images/gf-sn-nott.png" 
