@@ -13,7 +13,8 @@
  
 
 {% include picts-left.html 
-  class="f-pic-13"
+  class-p="f-pic-13"
+  class-c="f-cls-l3"
   alt="torchon pg" 
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png" 
   caption="dit is tekst ernaast"
