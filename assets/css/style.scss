@@ -21,11 +21,11 @@
 
 /* pictures left 30% */
 img.f-pic-l3 { display: inline-block; margin-right:0; margin-top:0; margin-left:0; width: 30%; }
-figure figcaption { display: inline-block; margin-left:0; width: 50%; color:red;}
-p.f-txt-l3 { display: inline-block; margin-right:0; margin-top:0; margin-left:2em; width: 50%; color:blue}
+figure figcaption { display: inline-block; margin-left:0; width: 50%; color:yellow;}
+p.f-txt-l3 { display: inline-block; margin-right:0; margin-top:0; margin-left:2em; width: 50%; color:green}
 
 .fig-left { display: inline-block; margin-right:0; margin-top:0; margin-left:0; width: 30%; }
-.txt-left { display: inline-block; margin-right:0; margin-top:0; margin-left:2em; width: 50%; }
+/*.txt-left { display: inline-block; margin-right:0; margin-top:0; margin-left:2em; width: 50%; }*/
 
 /* goes with figure-left.html, however, the picture starts not at the left border of file */
 /* it does not help to use "block" with img. */
