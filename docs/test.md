@@ -8,8 +8,8 @@
   alt="torchon pg" 
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png" 
   caption="k"
-  content="zonder caption?"
 %}
+* tekst
     
  
 
