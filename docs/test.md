@@ -4,7 +4,6 @@
 <p> tekst </p>
 
 {% include picts-left.html 
-  class="f-pic-13"
   alt="torchon pg" 
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png" 
   content="zonder caption?"
@@ -13,7 +12,6 @@
  
 
 {% include picts-left.html 
-  class="f-pic-11"
   alt="torchon pg" 
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png" 
   caption="dit is tekst ernaast dit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaast"
