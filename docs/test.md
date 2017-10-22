@@ -6,7 +6,10 @@ p.a-txt-l3 { display: inline-block; margin-right:0; margin-top:0; margin-left:2e
 
 <body>
 
-### kopregel
+### kopregeltje
+<p> tekst </p>
+
+
 
 <figure class="a-pic-l3">
     <img src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png"  alt="test">
