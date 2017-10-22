@@ -2,6 +2,7 @@
 
 ### kopregel
 
+
 <figure class="f-pic-l3">
     <img src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png"  alt="test">
     <figcaption>test 1</figcaption>
@@ -14,8 +15,7 @@
   class="f-pic-13"
   alt="torchon pg" 
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png" 
-  caption="test 2"
-  content="extra tekst"
+  content="extra tekst er bij als tekst ernaast hoop ik"
 %}
 
 </body>
