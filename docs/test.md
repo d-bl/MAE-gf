@@ -7,6 +7,7 @@
   class="f-perc7"
   alt="torchon pg" 
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png" 
+  caption="kleintje"
   content="zonder caption?"
 %}
     
