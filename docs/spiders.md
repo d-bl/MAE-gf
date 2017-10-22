@@ -34,7 +34,7 @@ Please note: for a traditional Torchon spider, a stitch like <span class="stch">
   class="f-perc5l"
   alt="spider with an eye" 
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-sp-gat.png" 
-  caption="Please note: to get a clear eye in the middle, the stitches in the eye of the spider have to be chosen like the example for the 4x3 legged spider: <span class="stch">A5=ctclctc E5=ctcrctc</span>."
+  caption="Please note: to get a clear eye in the middle, the stitches in the eye of the spider have to be chosen like the example for the 4x3 legged spider: A5=ctclctc E5=ctcrctc"
 %}
 Please note: to get a clear eye in the middle, the stitches in the eye of the spider have to be chosen like the example for the 4x3 legged spider: <span class="stch">A5=ctclctc E5=ctcrctc</span>.
 
