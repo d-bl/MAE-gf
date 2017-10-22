@@ -3,7 +3,7 @@
 ### kopregeltje
 <p> tekst </p>
 
-{% include picts-right.html 
+{% include picts-left.html 
   class="f-perc5r"
   alt="torchon pg" 
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png" 
@@ -14,7 +14,7 @@
     
  
 
-{% include picts-left.html 
+{% include picts-right.html 
   class="f-perc5l"
   alt="torchon pg" 
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png" 
