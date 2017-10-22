@@ -19,7 +19,7 @@ Please note that some of the examples are mirrored.
 
 ### Traditional pagoda's
 {% include picts-left.html 
-  class="fig-left"
+  class="f-pic-13"
   alt="torchon pg" 
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png" 
   content="Please note: traditionally the pagoda-ground uses a weaver which returns round the pin with two twists at the pointy bit. The example looked better not turning."
@@ -29,7 +29,7 @@ Please note that some of the examples are mirrored.
 
 ### Bigger pagoda's
 {% include picts-left.html
-  class="fig-left"
+  class="f-pic-13"
   alt="bigg pg"
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-bigg.png"
   content="The resulting thread diagram shows a pagoda that is bended over, due to the chosen matrix-scheme."
@@ -60,7 +60,7 @@ The coloured dots indicate what goes where when translating the working scheme i
 ![building pagoda's][build pagoda]
 
 {% include picts-left.html
-  class="fig-left"
+  class="f-pic-13"
   alt="alternative unit"
   src="https://maetempels.github.io/MAE-gf/images/gf-pg-uni2.png"
   content="The unit on the left looks more like the working-scheme. It works nice as a building block for the traditional pagoda, however, the matrix-scheme's for the other pagoda examples are harder to achieve."
