@@ -1,7 +1,7 @@
 <style>
     image.b-pic-l3 { display: inline-block; margin-right:0; margin-top:0; margin-left:0; width: 30%; }
 figure.a-pic-l3 { display: inline-block; margin-right:0; margin-top:0; margin-left:0; width: 30%; }
-figure figcaption { display: inline-block; margin-left:2em; width: 50%; color:yellow;}
+figure figcaption { display: inline-block; margin-left:2em; width: 50%; color:red;}
 p.a-txt-l3 { display: inline-block; margin-right:0; margin-top:0; margin-left:2em; width: 50%; color:green;}
 </style>    
 
@@ -17,7 +17,6 @@ p.a-txt-l3 { display: inline-block; margin-right:0; margin-top:0; margin-left:2e
 </figure>
 <p class="a-txt-l3">zonder caption</p>  
     
- 
 
 <figure class="b-pic-l3">
     <img src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png"  alt="test">
