@@ -1,7 +1,7 @@
 <style>
 .a-pic-l3 { display: inline-block; margin-right:0; margin-top:0; margin-left:0; width: 30%; }
-figure figcaption { display: inline-block; margin-left:2em; width: 50%; color:blue;}
-p.a-txt-l3 { display: inline-block; margin-right:0; margin-top:0; margin-left:2em; width: 50%; color:red;}
+figure figcaption { display: inline-block; margin-left:2em; width: 50%; color:grey;}
+p.a-txt-l3 { display: inline-block; margin-right:0; margin-top:0; margin-left:2em; width: 50%; color:brown;}
 </style>    
 
 <body>
