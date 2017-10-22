@@ -12,6 +12,7 @@
   alt="torchon pg" 
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png" 
   caption="Please note: traditionally the pagoda-ground uses a weaver which returns round the pin with two twists at the pointy bit. The example looked better not turning."
+  content="extra tekst"
 %}
 
 </body>
