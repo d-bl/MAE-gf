@@ -1,7 +1,7 @@
 <style>
   img.f-pic-l3 { display: inline-block; margin-right:0; margin-top:0; margin-left:0; width: 30%; }
-  p.f-txt-13 { display: inline-block; margin-right:0; margin-top:0; margin-left:2em; width: 50%; }
-  figure figcaption { display: inline-block; margin-left:2em; width: 50%; color:red;}
+  p.f-txt-l3 { display: inline-block; margin-right:0; margin-top:0; margin-left:2em; width: 50%; color:blue}
+  figure.f-pic-l3 figcaption { display: inline-block; margin-left:2em; width: 50%; color:red;}
 </style>  
 
 
