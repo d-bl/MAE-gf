@@ -22,15 +22,8 @@
 /* pictures */
 figure {display: block; margin:0;  }
 figure figcaption { display: inline-block; margin-left:2em; width: 50%;}
-
-/* pictures left 30% */
-image.f-pic-l3 { display: inline-block; margin:0; width: 30%; }
-p.f-txt-l3 { display: inline-block; margin-right:0; margin-top:0; margin-left:2em; width: 50%;}
-
-/* picture left 10% */
-image.f-pic-l1 { display: inline-block; margin:0; width: 10%; }
-figure figcaption { display: inline-block; margin-left:2em; width: 70%;}
-p.f-txt-l1 { display: inline-block; margin-right:0; margin-top:0; margin-left:2em; width: 70%;}
+image.f-pict { display: inline-block; margin:0; width: 30%; }
+p.f-txt { display: inline-block; margin-right:0; margin-top:0; margin-left:2em; width: 50%;}
 
 /*.fig-left { display: inline-block; margin-right:0; margin-top:0; margin-left:0; width: 30%; }*/
 /*.txt-left { display: inline-block; margin-right:0; margin-top:0; margin-left:2em; width: 50%; }*/
