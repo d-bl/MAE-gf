@@ -3,7 +3,7 @@ image.b-pic-l3 { display: inline-block; margin-right:0; margin-top:0; margin-lef
 figure.a-pic-l3 { display: inline-block; margin-right:0; margin-top:0; margin-left:0; width: 30%; }
 figure figcaption { display: inline-block; margin-left:2em; width: 50%; color:red;}
     
-p.a-txt-l3 { display: inline-block; margin-right:0; margin-top:0; margin-left:2em; width: 50%; color:black;}
+p.a-txt-l3 { display: inline-block; margin-right:0; margin-top:0; margin-left:2em; width: 50%; color:grey;}
 </style>    
 
 <body>
@@ -30,7 +30,8 @@ p.a-txt-l3 { display: inline-block; margin-right:0; margin-top:0; margin-left:2e
   class="f-pic-13"
   alt="torchon pg" 
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png" 
-  content="extra tekst er bij als tekst ernaast hoop ik"
+  caption="dit is tekst ernaast"
+  content="dit is tekst eronder"
 %}
 
 </body>
