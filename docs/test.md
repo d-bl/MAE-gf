@@ -1,5 +1,5 @@
 <style>
-image.b-pic-l3 { display: inline-block; margin-right:0; margin-top:0; margin-left:0; width: 30%; }
+image.b-pic-l3 { display: inline-block; margin:0; width: 30%; }
 figure {display: block; margin:0;  }
 figure figcaption { display: inline-block; margin-left:2em; width: 50%; color:red;}
     
