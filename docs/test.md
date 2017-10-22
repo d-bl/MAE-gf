@@ -12,17 +12,10 @@ p.a-txt-l3 { display: inline-block; margin-right:0; margin-top:0; margin-left:2e
 <p> tekst </p>
 
 <figure>
-    <img class="b-pic-l3" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png"  alt="test">
+    <img class="p-pic-l3" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png"  alt="test">
     <figcaption>is dit een caption?</figcaption>
 </figure>
-<p class="a-txt-l3">wat komt hier? </p>  
-    
-
-<figure class="b-pic-l3">
-    <img src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png"  alt="test">
-    <figcaption>test 1</figcaption>
-</figure>
-<p class="a-txt-l3">en hier nog wat tekst er extra bij</p>  
+<p class="p-txt-l3">wat komt hier? </p>  
     
  
 
