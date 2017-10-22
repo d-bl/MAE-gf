@@ -4,7 +4,7 @@
 <p> tekst </p>
 
 {% include picts-left.html 
-  class="f-perc7"
+  class="f-perc5"
   alt="torchon pg" 
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png" 
   caption="kleintje"
