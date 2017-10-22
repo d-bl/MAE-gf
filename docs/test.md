@@ -14,8 +14,9 @@ p.a-txt-l3 { display: inline-block; margin-right:0; margin-top:0; margin-left:2e
 
 <figure class="a-pic-l3">
     <img src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png"  alt="test">
+    <figcaption><test nogeens></figcaption>
 </figure>
-<p class="a-txt-l3">zonder caption</p>  
+<p class="a-txt-l3">wat komt hier? </p>  
     
 
 <figure class="b-pic-l3">
