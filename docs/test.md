@@ -2,7 +2,7 @@
 
 ### kopregel
 
-<figure class="pic-left">
+<figure class="fig-left">
     <img src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png"  alt="test">
     <figcaption>Please note: traditionally the pagoda-ground uses a weaver which returns round the pin with two twists at the pointy bit. The example looked better not turning.</figcaption>
 </figure>
