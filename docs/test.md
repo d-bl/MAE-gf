@@ -1,10 +1,10 @@
 <style>
-    image.b-pic-l3 { display: inline-block; margin-right:0; margin-top:0; margin-left:0; width: 30%; }
+image.b-pic-l3 { display: inline-block; margin-right:0; margin-top:0; margin-left:0; width: 30%; }
 figure.a-pic-l3 { display: inline-block; margin-right:0; margin-top:0; margin-left:0; width: 30%; }
 figure figcaption { display: inline-block; margin-left:2em; width: 50%; color:red;}
 image figcaption { display: inline-block; margin-left:2em; width: 50%; color:green;}
     
-p.a-txt-l3 { display: inline-block; margin-right:0; margin-top:0; margin-left:2em; width: 50%; color:green;}
+p.a-txt-l3 { display: inline-block; margin-right:0; margin-top:0; margin-left:2em; width: 50%; color:blue;}
 </style>    
 
 <body>
