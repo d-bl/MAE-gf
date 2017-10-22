@@ -60,7 +60,7 @@ The coloured dots indicate what goes where when translating the working scheme i
 ![building pagoda's][build pagoda]
 
 {% include picts-left.html
-  class=""fig-left"
+  class="fig-left"
   alt="alternative unit"
   src="https://maetempels.github.io/MAE-gf/images/gf-pg-uni2.png"
   content="The unit on the left looks more like the working-scheme. It works nice as a building block for the traditional pagoda, however, the matrix-scheme's for the other pagoda examples are harder to achieve."
