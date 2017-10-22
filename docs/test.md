@@ -11,9 +11,9 @@ p.a-txt-l3 { display: inline-block; margin-right:0; margin-top:0; margin-left:2e
 ### kopregeltje
 <p> tekst </p>
 
-<figure>
-    <img class="b-pic-l3" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png"  alt="test">
-    <figcaption></figcaption>
+<figure class="a-pic-l3">
+    <img src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png"  alt="test">
+    <figcaption>is dit een caption?</figcaption>
 </figure>
 <p class="a-txt-l3">wat komt hier? </p>  
     
