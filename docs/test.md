@@ -2,9 +2,9 @@
 
 ### kopregel
 
-<figure class="fig-left">
+<figure class="f-pic-l3">
     <img src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png"  alt="test">
-    <figcaption>Please note: traditionally the pagoda-ground uses a weaver which returns round the pin with two twists at the pointy bit. The example looked better not turning.</figcaption>
+    <figcaption>test 1</figcaption>
 </figure>
 <p class="f-txt-l3">en hier nog wat tekst er extra bij</p>  
     
@@ -14,7 +14,7 @@
   class="f-pic-13"
   alt="torchon pg" 
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png" 
-  caption="Please note: traditionally the pagoda-ground uses a weaver which returns round the pin with two twists at the pointy bit. The example looked better not turning."
+  caption="test 2"
   content="extra tekst"
 %}
 
