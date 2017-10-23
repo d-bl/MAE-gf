@@ -4,6 +4,10 @@
 
 <p> tekst </p>
 
+<img class=”fl-l” src=”https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png”>
+<p> eerste test</p>
+<p class=”break”></p>
+
 {% include pict-test.html
   class="fl-l"
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png" 
