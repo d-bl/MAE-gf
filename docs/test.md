@@ -4,8 +4,7 @@
 
 <p> tekst </p>
 
-<img src="https://maetempels.github.io/MAE-gf/images_wt/gf%20lotus%20wt.png">
-<img  src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png">
+<img class="fl-l" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png">
 <p> eerste test</p>
 <p class=”break”></p>
 
