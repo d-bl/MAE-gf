@@ -1,25 +1,21 @@
 <body>
 
 ### kopregeltje
+
 <p> tekst </p>
 
-{% include picts-left.html 
-  class="f-perc5r"
-  alt="torchon pg" 
+{% include pict-test.html
+  class="fl-l"
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png" 
-  caption="k"
+  description=""dit is tekst ernaast dit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaast"
 %}
 
-* tekst
-    
- 
-
-{% include picts-right.html 
-  class="f-perc5l"
-  alt="torchon pg" 
+{% include pict-test.html
+  class="fl-r"
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png" 
-  caption="dit is tekst ernaast dit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaast"
-  content="dit is tekst eronder"
+  description=""dit is tekst ernaast dit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaastdit is tekst ernaast"
 %}
+
+
 
 </body>
