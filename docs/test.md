@@ -4,7 +4,7 @@
 
 <p> tekst </p>
 
-<img alt="" src=”https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png”>
+<img alt="lotus pair dia" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf%20lotus%20wt.png">
 <p> eerste test</p>
 <p class=”break”></p>
 
