@@ -4,9 +4,11 @@
 
 <p> tekst </p>
 
+<figure>
 <img class="fl-l" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png">
 <p> eerste test</p>
 <p class=”break”>geen tekst</p>
+</figure>
 
 {% include pict-test.html 
   class="fl-r"
