@@ -4,7 +4,7 @@
 
 <p> tekst </p>
 
-<img src=”https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png”>
+<img alt="" src=”https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png”>
 <p> eerste test</p>
 <p class=”break”></p>
 
