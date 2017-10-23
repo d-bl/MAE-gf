@@ -6,7 +6,7 @@
 
 <img class="fl-r" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png">
 <p> eerste test</p>
-<p class=”break”></p>
+<p class=”break”>lege tekst</p>
 
 {% include pict-test.html 
   class="fl-r"
