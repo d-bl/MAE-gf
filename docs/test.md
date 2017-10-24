@@ -1,7 +1,7 @@
 <style>
 diagram image, img.fl { float: left; }
 diagram image, img.fr { float: right; }
-diagram p.fl { left-margin:2em; color: red; }
+diagram p.fl { margin-left:2em; color: red; }
 diagram p.fr { color: blue; }	
 .diagram, .break { clear: both; }
 </style>
