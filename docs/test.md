@@ -17,7 +17,7 @@
 
 
 <figure class="diagram">
-	<img class="fl-r" src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png" alt="testje">
+	<img class="fl-r" src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png" alt="testje" width=127>
 	<p class="fl-r">Unfortunately grounds do not have one unique name. Not even in one language. Also, the same name is used for different grounds. To make naming even more difficult, Groundforge does not make a difference in Torchon or Flemish grounds.</p>
 </figure>
 
