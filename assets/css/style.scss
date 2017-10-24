@@ -24,8 +24,8 @@ figure {display: block; margin:0;  }
 figcaption.f-perc5l { display: inline-block; margin-left:2em; width: 50%;}
 figcaption.f-perc7l { display: inline-block; margin-left:2em; width: 70%;}
 figcaption.f-perc5r { display: inline-block; margin-right:2em; width: 50%;}
-diagram img, image.f-pict { display: inline-block; margin:0; width: 30%; }
-diagram p.f-txt { display: inline-block; margin-right:0; margin-top:0; margin-left:2em; width: 50%;}
+.diagram img, image.f-pict { display: inline-block; margin:0; width: 30%; }
+.diagram p.f-txt { display: inline-block; margin-right:0; margin-top:0; margin-left:2em; width: 50%;}
 
 /*.fig-left { display: inline-block; margin-right:0; margin-top:0; margin-left:0; width: 30%; }*/
 /*.txt-left { display: inline-block; margin-right:0; margin-top:0; margin-left:2em; width: 50%; }*/
@@ -33,6 +33,6 @@ diagram p.f-txt { display: inline-block; margin-right:0; margin-top:0; margin-le
 /* floating pictures */
 .diagram image, img.fl-l { float: left; }
 .diagram p.fl-l { margin-left:2em; }
-.diagram image, img.fl-r { float: right; }
+.diagram image, img.fl-r { float: right; color: blue; }
 .diagram p.fl-r { margin-right:2em; }
 .diagram, .break { clear: both; }
