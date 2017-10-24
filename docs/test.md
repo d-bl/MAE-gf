@@ -1,14 +1,13 @@
 <style>
-image, img.fl { float: left; right-margin:2em;}
-image, img.fr { float: right; }
+diagram image, img.fl { float: left; }
+diagram image, img.fr { float: right; }
+diagram p.fl { left-margin:2em; color: red}	
 .diagram, .break { clear: both; }
 </style>
 
 <body>
 
-
-
-## kopregeltje
+## kopregeltjes
   
 hier wat tekst en zo     
 
