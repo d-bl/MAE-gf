@@ -1,16 +1,17 @@
 <style>
 diagram image, img.fl { float: left; }
 diagram image, img.fr { float: right; }
-diagram p.fl { margin-left:2em; color: red; }
+p.fl { margin-left:2em; color: red; }
 diagram p.fr { color: blue; }	
 .diagram, .break { clear: both; }
 </style>
 
 <body>
-
+	
 ## kopregeltjes
   
-hier wat tekst en zo     
+<p class="fl"> hier wat tekst en zo erbij</p>
+
 
 
 <figure class="diagram">
