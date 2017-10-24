@@ -9,8 +9,8 @@
 hier wat tekst en zo     
 
 
-figure class="diagram"
-	img class="ff" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png">
+<figure class="diagram">
+	<img class="ff" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png">
 	<p>deze tekst komt er naast</p>
 </figure>
 
