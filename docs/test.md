@@ -5,6 +5,7 @@
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png"
   alt="doe maar iets"
   style="align: central;"
+  description="laten we eens test <i>schuine tekst</i> en recht"
   %}
 
 {% include picts-float.html
