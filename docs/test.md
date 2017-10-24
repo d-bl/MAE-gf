@@ -14,7 +14,7 @@ dia2 p, image, img.fp { display: inline-block; margin:0; width: 30%; }
 ## kopregeltjes
   
 <p class="fl"> hier wat tekst en zo erbij</p>
-<p class="fr"> en hier wat tekst in zwart en groen en blauw</p>
+<p class="fr"> en hier wat tekst in zwart en groen en oranje</p>
 
 <figure class="diagram">
 	<img class="fl" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png">
@@ -30,7 +30,7 @@ dia2 p, image, img.fp { display: inline-block; margin:0; width: 30%; }
   
 <figure class="dia2">
 	<img class="fp" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png">
-	<p>beetjes</p>
+	<p class="fp">beetjes</p>
 </figure>
 
 {% include pict-test.html
