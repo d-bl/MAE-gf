@@ -6,7 +6,7 @@
 {% include picts-float.html
   class="fl-r"
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png"
-  description="Please note: traditionally the pagoda-ground uses a weaver which returns round the pin with two twists at the pointy bit. The example looked better not. enzovoorts"
+  description="Please note: traditionally the pagoda-ground uses a weaver which returns round the pin with two twists at the pointy bit. The example looked better not. metfloat weer"
 %}
 
 {% include picts-float.html
@@ -17,7 +17,7 @@
 
 
 <figure>
-	<img src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png" alt="testje" style="width: natural; height: natural">
+	<img src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png" alt="testje" style="width: natural; height: natural float: left">
 	<p class="fl-r">Unfortunately grounds do not have one unique name. Not even in one language. Also, the same name is used for different grounds. To make naming even more difficult, Groundforge does not make a difference in Torchon or Flemish grounds. bijna daar</p>
 </figure>
 
