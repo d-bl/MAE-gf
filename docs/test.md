@@ -14,7 +14,7 @@ p, image, img.fp { display: inline-block; margin:0; width: 30%; }
 ## kopregeltjes
   
 <p class="fl"> hier wat tekst en zo erbij</p>
-<p class="fr"> en hier wat tekst in zwart en groen en oranje</p>
+<p class="fr"> en hier wat tekst in zwart en groen en pimpelpaars</p>
 
 <figure class="diagram">
 	<img class="fl" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png">
