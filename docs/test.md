@@ -1,6 +1,6 @@
 <style>
-img.fl { float: left; }
-imgage.fr { float: right; }
+img.fl { float: left; left-margin:2em;}
+img.fr { float: right; }
 .diagram, .break { clear: both; }
 </style>
 
@@ -16,12 +16,17 @@ hier wat tekst en zo
 <figure class="diagram">
 	<img class="fl" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png">
 	<p>deze tekst komt er naast</p>
+	<p class="break"></p>
 </figure>
 
+  
+  
 <figure class="diagram">
 	<img class="fr" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png">
 	<p>deze tekst komt er naast hoop ik</p>
+	<p class="break"></p>	
 </figure>
+  
 
 {% include pict-test.html
   class="fl-l"
