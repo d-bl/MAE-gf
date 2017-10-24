@@ -1,11 +1,11 @@
 <style>
-dia1 image, img.fl { float: left; }
-dia1 image, img.fr { float: right; }
-dia1 p.fl { margin-left:2em; color: red; }
-dia1 p.fr { color: blue; }	
-.dia1, .break { clear: both; }
+image, img.fl { float: left; }
+image, img.fr { float: right; }
+p.fl { margin-left:2em; color: red; }
+p.fr { color: blue; }	
+.break { clear: both; }
 
-dia 2 p, image, img.fp { display: inline-block; margin:0; width: 30%; }
+p, image, img.fp { display: inline-block; margin:0; width: 30%; }
 
 </style>
 
@@ -14,7 +14,7 @@ dia 2 p, image, img.fp { display: inline-block; margin:0; width: 30%; }
 ## kopregeltjes
   
 <p class="fl"> hier wat tekst en zo erbij</p>
-<p class="fr"> en hier wat tekst in zwart en groen en pimpelpaars</p>
+<p class="fr"> en hier wat tekst in zwart en groen en donkerbruin</p>
 
 <figure class="dia1">
 	<img class="fl" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png">
