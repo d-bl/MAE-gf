@@ -1,11 +1,11 @@
 <style>
-dia1 image, img.fl { float: left; }
-dia1 image, img.fr { float: right; }
-dia1 p.fl { margin-left:2em; color: red; }
-dia1 p.fr { color: blue; }	
-dia1, .break { clear: both; }
+.dia1 image, img.fl { float: left; }
+.dia1 image, img.fr { float: right; }
+.dia1 p.fl { margin-left:2em; color: red; }
+.dia1 p.fr { color: blue; }	
+.dia1, .break { clear: both; }
 
-dia2 p, image, img.fp { display: inline-block; margin:0; width: 30%; }
+.dia2 p, image, img.fp { display: inline-block; margin:0; width: 30%; }
 
 </style>
 
