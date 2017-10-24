@@ -14,7 +14,7 @@ hier wat tekst en zo
 
 <figure class="diagram">
 	<img class="fl" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png">
-	<p>deze tekst komt er naast</p>
+	<p class=""fl">deze tekst komt er naast</p>
 	<p class="break"></p>
 </figure>
 
