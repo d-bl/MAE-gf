@@ -1,7 +1,7 @@
 <h2>kopregeltjes</h2>
  
 {% include picts-float.html
-  class="fl-r"
+  class="fl-l"
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png"
   alt="doe maar iets"
   style="float: left;"
