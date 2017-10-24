@@ -1,11 +1,11 @@
 <style>
-diagram image, img.fl { float: left; }
-diagram image, img.fr { float: right; }
-diagram p.fl { margin-left:2em; color: red; }
-diagram p.fr { color: blue; }	
+image, img.fl { float: left; }
+image, img.fr { float: right; }
+p.fl { margin-left:2em; color: red; }
+p.fr { color: blue; }	
 .diagram, .break { clear: both; }
 
-dia2 p, image, img.fp { display: inline-block; margin:0; width: 30%; }
+p, image, img.fp { display: inline-block; margin:0; width: 30%; }
 
 </style>
 
