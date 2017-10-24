@@ -1,11 +1,11 @@
 <style>
-image, img.fl { float: left; }
-image, img.fr { float: right; }
-p.fl { margin-left:2em; color: red; }
-p.fr { color: blue; }	
-.diagram, .break { clear: both; }
+dia1 image, img.fl { float: left; }
+dia1 image, img.fr { float: right; }
+dia1 p.fl { margin-left:2em; color: red; }
+dia1 p.fr { color: blue; }	
+.dia1, .break { clear: both; }
 
-p, image, img.fp { display: inline-block; margin:0; width: 30%; }
+dia 2 p, image, img.fp { display: inline-block; margin:0; width: 30%; }
 
 </style>
 
@@ -16,13 +16,13 @@ p, image, img.fp { display: inline-block; margin:0; width: 30%; }
 <p class="fl"> hier wat tekst en zo erbij</p>
 <p class="fr"> en hier wat tekst in zwart en groen en pimpelpaars</p>
 
-<figure class="diagram">
+<figure class="dia1">
 	<img class="fl" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png">
 	<p class="fl">deze tekst komt er naast</p>
 	<p class="break"></p>
 </figure>
   
-<figure class="diagram">
+<figure class="dia1">
 	<img class="fr" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png">
 	<p class="fr">deze tekst komt er naast hoop ik</p>
 	<p class="break"></p>	
