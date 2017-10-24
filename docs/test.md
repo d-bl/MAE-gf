@@ -3,11 +3,7 @@
 <p class="fl-l"> hier wat tekst en zo erbij</p>
 <p class="fr-l"> en hier wat tekst in zwart en groen en donkerbruin met een zwart randje</p>
 
-{% include picts-float.html
-  class="fl-r"
-  src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png"
-  description="Please note: traditionally the pagoda-ground uses a weaver which returns round the pin with two twists at the pointy bit. The example looked better not."
-%}
+
 
 {% include picts-float.html
   class="fl-r"
