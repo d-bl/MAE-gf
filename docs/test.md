@@ -1,7 +1,7 @@
 <style>
 .diagram image, img.fl { float: left; }
 .diagram image, img.fr { float: right; }
-.diagram.fl { margin-left:2em; color: red; }
+.diagram fl { margin-left:2em; color: red; }
 .diagram p.fr { color: blue; }	
 .diagram, .break { clear: both; }
 
@@ -14,7 +14,7 @@
 <h2>kopregeltjes</h2>
   
 <p class="fl"> hier wat tekst en zo erbij</p>
-<p class="fr"> en hier wat tekst in zwart en groen en donkerbruin met een blauw randje</p>
+<p class="fr"> en hier wat tekst in zwart en groen en donkerbruin met een groen randje</p>
 
 <figure class="diagram">
 	<img class="fl" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png">
