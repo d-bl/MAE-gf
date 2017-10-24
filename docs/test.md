@@ -1,6 +1,6 @@
 <style>
-image img.fl { float: left; right-margin:2em;}
-image img.fr { float: right; }
+image, img.fl { float: left; right-margin:2em;}
+image, img.fr { float: right; }
 .diagram, .break { clear: both; }
 </style>
 
