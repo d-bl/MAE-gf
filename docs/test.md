@@ -1,11 +1,26 @@
+<style>
+img.fl { float: left; }
+imgage.fr { float: right; }
+.diagram, .break { clear: both; }
+</style>
+
+<body>
+
+
+
 ## kopregeltje
   
 hier wat tekst en zo     
 
 
 <figure class="diagram">
-	<img class="fl-l" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png">
+	<img class="fl" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png">
 	<p>deze tekst komt er naast</p>
+</figure>
+
+<figure class="diagram">
+	<img class="fr" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png">
+	<p>deze tekst komt er naast hoop ik</p>
 </figure>
 
 {% include pict-test.html
@@ -20,3 +35,4 @@ hier wat tekst en zo
   description="Please note: traditionally the pagoda-ground uses a weaver which returns round the pin with two twists at the pointy bit. The example looked better not. Etc etc. Quite hard to find the hidden quotes"
 %}
 
+</body>
