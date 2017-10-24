@@ -27,6 +27,7 @@ next j)
 
 ### To big matrix
 {% include picts-float.html
+  style="float: right;"
   class="fl-r"
   alt="to big matrix"
   src="https://maetempels.github.io/MAE-gf/images/gf-sn-nott.png"
