@@ -10,8 +10,8 @@
 </figure>
   
 <figure class="diagram">
-	<img class="fr-r" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png">
-	<p class="fr-r">deze tekst komt er naast hoop ik</p>
+	<img class="fl-r" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png">
+	<p class="fl-r">deze tekst komt er naast hoop ik</p>
 	<p class="break"></p>	
 </figure>
 
