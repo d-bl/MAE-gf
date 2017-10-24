@@ -4,6 +4,9 @@ diagram image, img.fr { float: right; }
 p.fl { margin-left:2em; color: red; }
 diagram p.fr { color: blue; }	
 .diagram, .break { clear: both; }
+
+image img.f-pict { display: inline-block; margin:0; width: 30%; }
+
 </style>
 
 <body>
@@ -11,8 +14,7 @@ diagram p.fr { color: blue; }
 ## kopregeltjes
   
 <p class="fl"> hier wat tekst en zo erbij</p>
-
-
+<p> en hier wat tekst in zwart</p>
 
 <figure class="diagram">
 	<img class="fl" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png">
@@ -28,6 +30,10 @@ diagram p.fr { color: blue; }
 	<p class="break"></p>	
 </figure>
   
+<figure class="diagram">
+	<img class="f-pict" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png">
+	<p>beetjes</p>
+</figure>
 
 {% include pict-test.html
   class="fl-l"
