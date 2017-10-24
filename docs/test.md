@@ -1,11 +1,11 @@
 <style>
 diagram image, img.fl { float: left; }
 diagram image, img.fr { float: right; }
-p.fl { margin-left:2em; color: red; }
+diagram p.fl { margin-left:2em; color: red; }
 diagram p.fr { color: blue; }	
 .diagram, .break { clear: both; }
 
-p, image, img.fp { display: inline-block; margin:0; width: 30%; }
+dia2 p, image, img.fp { display: inline-block; margin:0; width: 30%; }
 
 </style>
 
@@ -14,15 +14,13 @@ p, image, img.fp { display: inline-block; margin:0; width: 30%; }
 ## kopregeltjes
   
 <p class="fl"> hier wat tekst en zo erbij</p>
-<p> en hier wat tekst in zwart en groen en rood</p>
+<p class="fr"> en hier wat tekst in zwart en groen en blauw</p>
 
 <figure class="diagram">
 	<img class="fl" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png">
 	<p class="fl">deze tekst komt er naast</p>
 	<p class="break"></p>
 </figure>
-
-
   
 <figure class="diagram">
 	<img class="fr" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png">
