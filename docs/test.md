@@ -17,10 +17,16 @@
 
 
 <figure>
-	<img src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png" alt="testje" style="width: natural; height: natural; float: right; ">
+	<img src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png" alt="testje" style="float: right; ">
 	<p class="fl-r">Unfortunately grounds do not have one unique name. Not even in one language. Also, the same name is used for different grounds. To make naming even more difficult, Groundforge does not make a difference in Torchon or Flemish grounds. bijna daar</p>
 </figure>
 
 Example: The picture shows the <span class="elem">working-scheme's</span> of one unit of _Slavic rose ground_ and one unit of _Fond au cinq trous_. Groundforge gives the same <a href="https://maetempels.github.io/MAE-gf/docs/bias">Bias Grounds</a>
 
+<p class="break"></p>
+
+<figure>
+	<img src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png" alt="testje" style="float: left; ">
+	<p class="fl-r">Unfortunately grounds do not have one unique name. Not even in one language. Also, the same name is used for different grounds. To make naming even more difficult, Groundforge does not make a difference in  bijna daar</p>
+</figure>
 <p class="break"></p>
