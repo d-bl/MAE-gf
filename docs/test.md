@@ -1,7 +1,6 @@
 <body>
-
-### kopregeltje
-<p> tekst </p>
+  ### kopregeltje
+  <p> hier wat tekst </p>  
 
 {% include pict-test.html
   class="fl-l"
