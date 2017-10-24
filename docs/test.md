@@ -19,7 +19,7 @@ Example: The picture shows the <span class="elem">working-scheme's</span> of one
 {% include picts-float.html
   class="fl-r"
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png"
-  style="float: right;"
+  style="float: left;"
   description="Please note: traditionally the pagoda-ground uses a weaver which returns round the pin with two twists at the pointy bit. The example looked better not. met floats weer"
 %}
 
