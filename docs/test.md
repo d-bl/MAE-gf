@@ -4,7 +4,7 @@
   class="fl-l"
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png"
   alt="doe maar iets"
-  style="float: left;"
+  style="align: central;"
   %}
 
 {% include picts-float.html
