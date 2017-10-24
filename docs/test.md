@@ -1,7 +1,7 @@
 <h2>kopregeltjes</h2>
   
 <p class="fl-l"> hier wat tekst en zo erbij</p>
-<p class="fr-l"> en hier wat tekst in zwart en groen en donkerbruin met een wit randje</p>
+<p class="fr-l"> en hier wat tekst in zwart en groen en donkerbruin met een zwart randje</p>
 
 {% include picts-float.html
   class="fl-l"
