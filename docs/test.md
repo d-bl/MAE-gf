@@ -1,7 +1,8 @@
 <style>
 diagram image, img.fl { float: left; }
 diagram image, img.fr { float: right; }
-diagram p.fl { left-margin:2em; color: red}	
+diagram p.fl { left-margin:2em; color: red; }
+diagram p.fr { color: blue; }	
 .diagram, .break { clear: both; }
 </style>
 
@@ -14,7 +15,7 @@ hier wat tekst en zo
 
 <figure class="diagram">
 	<img class="fl" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png">
-	<p class=""fl">deze tekst komt er naast</p>
+	<p class="fl">deze tekst komt er naast</p>
 	<p class="break"></p>
 </figure>
 
@@ -22,7 +23,7 @@ hier wat tekst en zo
   
 <figure class="diagram">
 	<img class="fr" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png">
-	<p>deze tekst komt er naast hoop ik</p>
+	<p class="fr">deze tekst komt er naast hoop ik</p>
 	<p class="break"></p>	
 </figure>
   
