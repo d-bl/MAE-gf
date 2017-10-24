@@ -32,7 +32,7 @@ diagram p.f-txt { display: inline-block; margin-right:0; margin-top:0; margin-le
 
 /* floating pictures */
 .diagram image, img.fl-l { float: left; }
-.diagram p.fl-l { margin-left:2em; color: green; }
+.diagram p.fl-l { margin-left:2em; }
 .diagram image, img.fl-r { float: right; }
-.diagram p.fl-r { color: yellow; }
+.diagram p.fl-r { margin-right:2em; }
 .diagram, .break { clear: both; }
