@@ -1,11 +1,11 @@
 <style>
-.dia1 image, img.fl { float: left; }
-.dia1 image, img.fr { float: right; }
-.dia1 p.fl { margin-left:2em; color: red; }
-.dia1 p.fr { color: blue; }	
-.dia1, .break { clear: both; }
+.diagram image, img.fl { float: left; }
+.diagram image, img.fr { float: right; }
+.diagram.fl { margin-left:2em; color: red; }
+.diagram p.fr { color: blue; }	
+.diagram, .break { clear: both; }
 
-.dia2 p, image, img.fp { display: inline-block; margin:0; width: 30%; }
+.diagram p, image, img.fp { display: inline-block; margin:0; width: 30%; }
 
 </style>
 
@@ -14,21 +14,21 @@
 <h2>kopregeltjes</h2>
   
 <p class="fl"> hier wat tekst en zo erbij</p>
-<p class="fr"> en hier wat tekst in zwart en groen en donkerbruin met een randje</p>
+<p class="fr"> en hier wat tekst in zwart en groen en donkerbruin met een blauw randje</p>
 
-<figure class="dia1">
+<figure class="diagram">
 	<img class="fl" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png">
 	<p class="fl">deze tekst komt er naast</p>
 	<p class="break"></p>
 </figure>
   
-<figure class="dia1">
+<figure class="diagram">
 	<img class="fr" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png">
 	<p class="fr">deze tekst komt er naast hoop ik</p>
 	<p class="break"></p>	
 </figure>
   
-<figure class="dia2">
+<figure class="diagram">
 	<img class="fp" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png">
 	<p class="fp">beetjes</p>
 </figure>
