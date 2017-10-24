@@ -17,8 +17,8 @@
 
 
 <figure class="diagram">
-	<img src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png" alt="testje" style="float: right; width: 127; height: 64">
-	<p class="fl-r">Unfortunately grounds do not have one unique name. Not even in one language. Also, the same name is used for different grounds. To make naming even more difficult, Groundforge does not make a difference in Torchon or Flemish grounds. rezue</p>
+	<img src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png" alt="testje" style="width: 127; height: 64">
+	<p class="fl-r">Unfortunately grounds do not have one unique name. Not even in one language. Also, the same name is used for different grounds. To make naming even more difficult, Groundforge does not make a difference in Torchon or Flemish grounds. bewm</p>
 </figure>
 
 Example: The picture shows the <span class="elem">working-scheme's</span> of one unit of _Slavic rose ground_ and one unit of _Fond au cinq trous_. Groundforge gives the same <a href="https://maetempels.github.io/MAE-gf/docs/bias">Bias Grounds</a>
