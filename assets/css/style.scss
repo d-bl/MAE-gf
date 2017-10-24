@@ -31,8 +31,8 @@ figcaption.f-perc5r { display: inline-block; margin-right:2em; width: 50%;}
 /*.txt-left { display: inline-block; margin-right:0; margin-top:0; margin-left:2em; width: 50%; }*/
 
 /* floating pictures */
-.diagram image, img.fl-l { width: natural; height: natural; float: left; }
-.diagram p.fl-l { margin-left:2em; color: white; }
-.diagram image, img.fl-r { width: natural; height: natural; float: right; }
+img.fl-l { float: left; }
+p.fl-l { margin-left:2em; color: white; }
+.diagram image, img.fl-r { float: right; }
 .diagram p.fl-r { margin-right:2em; color: red; }
 .diagram, .break { clear: both; }
