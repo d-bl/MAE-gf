@@ -1,10 +1,14 @@
 <h2>kopregeltjes</h2>
 
+{& capture test1 %}
+laten <span class="elem">we eens</span> test "test in "; en nog zo wat
+{% endcapture %}
+
 {% include picts-float.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png"
   alt="doe maar iets"
   style="float: left; margin-right:2em"
-  description="laten &lt;span class=&quot;elem&quot;&gt;we eens&lt;/span&gt; test &quot;test in quotes&quot; en nog zo wat"
+  description=test1
   %}
 
 {% include picts-float.html
