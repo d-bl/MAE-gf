@@ -10,7 +10,7 @@
 {% include picts-float.html
   style="float: right; margin-left:2em"
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-kleurtjes.png"
-  description="Please note: traditionally the <span class=&quot;elem&quot;> pagoda-ground </span> uses a weaver which returns round the pin with two twists at the pointy bit. The example looked better "
+  description="Please note: traditionally the <span> pagoda-ground </span> uses a weaver which returns round the pin with two twists at the pointy bit. The example looked better "
 %}
 
 
