@@ -2,7 +2,7 @@
 
 <figure>
 <img src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png" style="float: left;">
-<p style="margin-left:2em; border: 2px solid;">maar eens even kijken wat er nu ook gebeurt</p>
+ <span style="margin-left:2em; border: 2px solid;">maar eens even kijken wat er nu ook gebeurt</span>
 <p class="break"></p>
  </figure>
 
