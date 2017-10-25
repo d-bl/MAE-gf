@@ -1,7 +1,7 @@
 <h2>kopregeltjes</h2>
 
 {% capture test1 %}
-laten we dit eens bekijken
+laten we dit eens bekijken met "quotes"
 {% endcapture %}
 
 {% include picts-float.html
