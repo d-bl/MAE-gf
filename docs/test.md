@@ -1,7 +1,7 @@
 <h2>kopregeltjes</h2>
 
 <img src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png" style="float: left;">
-<p style="margin-left:2em">maar eens even kijken wat er nu wweer gebeurt</p>
+<p style="margin-left:2em; border: 1px solid;">maar eens even kijken wat er nu ook gebeurt</p>
 <p class="break"></p>
 
  
