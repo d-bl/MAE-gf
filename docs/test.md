@@ -2,8 +2,7 @@
 
 <figure>
 <img src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png" style="float: left;">
-  description="Please note: traditionally the pagoda-ground uses a weaver which returns round the pin with two twists at the pointy bit. The example looked better not. Etc etc. Quite hard to find the hidden quotes"
- <span style="margin-left:2em;"></span>
+<span style="margin-left:2em">Please note: traditionally the pagoda-ground uses a weaver which returns round the pin with two twists at the pointy bit. The example looked better not. Etc etc. Quite hard to find the hidden quotes.</span>
  <p>ipse lorem etc</p> 
 <p class="break"></p>
  </figure>
