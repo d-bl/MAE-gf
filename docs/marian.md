@@ -6,7 +6,7 @@
 * [Sunny stitch](#sunny-stitch)
 * [Ants](#ants)
 
-(c) M. Tempels
+&copy; M. Tempels
 
 ### Introduction
 In this article some of my own designs and finds. Most grounds I found before I learned of Groundforge. Of course, some of them might also have been created by others.
