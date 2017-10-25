@@ -27,8 +27,7 @@ next j)
 
 ### To big matrix
 {% include picts-float.html
-  style="float: right;"
-  class="fl-r"
+  style="float: right; margin-left:1em;"
   alt="to big matrix"
   src="https://maetempels.github.io/MAE-gf/images/gf-sn-nott.png"
   description="We wished to find the matrix-scheme for the crossed-snowflake-in-a-square. Just putting the snowflake in the square won't work, since the snowflake requires 11 nodes, whereas the square has 9 nodes inside. So, the square has to be enlarged. The matrix in the picture follows the rules for matrices, but the tiles are too big for Groundforge to handle."
