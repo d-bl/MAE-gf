@@ -2,7 +2,9 @@
 
 <figure>
 <img src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png" style="float: left;">
- <span style="margin-left:2em; border: 2px solid;">maar eens even kijken wat er nu ook gebeurt</span>
+  description="Please note: traditionally the pagoda-ground uses a weaver which returns round the pin with two twists at the pointy bit. The example looked better not. Etc etc. Quite hard to find the hidden quotes"
+ <span style="margin-left:2em;"></span>
+ <p>ipse lorem etc</p> 
 <p class="break"></p>
  </figure>
 
