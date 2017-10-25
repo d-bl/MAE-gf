@@ -1,7 +1,7 @@
 # About us
 
 ### M.A.E. Tempels
-![tulp][tulp]      
+<p class="central"><img alt="tulip" src="https://maetempels.github.io/MAE-gf/photos/IMG_0997c.jpg">
 
 Living in the Netherlands.        
 
@@ -12,6 +12,5 @@ Inspired by "Hollandsche kant" I started to experiment with the rose-ground, usi
 I studied Mathematics at Technical University Eindhoven and work as database-designer.    
 
 ***
-
 
 [tulp]: https://maetempels.github.io/MAE-gf/photos/IMG_0997c.jpg
