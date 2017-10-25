@@ -1,17 +1,10 @@
 <h2>kopregeltjes</h2>
 
-<figure>
-<img src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png" style="float: left; margin-right:2em">
-<p>Please note: traditionally the pagoda-ground uses a weaver which returns round the pin with two twists at the pointy bit. The example looked better not. </p>
-<p class="break"></p>
- </figure>
-
- 
 {% include picts-float.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png"
   alt="doe maar iets"
   style="float: left; margin-right:2em"
-  description="laten we eens test <i>schuine tekst</i> en nog zo wat"
+  description="laten we eens test '"test in quotes"' en nog zo wat"
   %}
 
 {% include picts-float.html
