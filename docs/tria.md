@@ -30,7 +30,6 @@ Please note that some of the examples are mirrored.
 ### Bigger pagoda's
 {% include picts-float.html
   style="float: left; margin-right:1em"
-  class="fl-l"
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-bigg.png"
   alt="bigg pg"
   description="The resulting thread diagram shows a pagoda that is bended over, due to the chosen matrix-scheme."
