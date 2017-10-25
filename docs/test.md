@@ -1,7 +1,7 @@
 <h2>kopregeltjes</h2>
 
 {& capture test1 %}
-laten <span class="elem">we eens</span> test "test in "; en nog zo wat
+laten we dit eens bekijken
 {% endcapture %}
 
 {% include picts-float.html
