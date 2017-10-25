@@ -1,7 +1,7 @@
 # About us
 
 ### M.A.E. Tempels
-<p class="central"><img alt="tulip" src="https://maetempels.github.io/MAE-gf/photos/IMG_0997c.jpg">
+<p class="central"><img alt="tulip" src="https://maetempels.github.io/MAE-gf/photos/IMG_0997c.jpg"></p>
 
 Living in the Netherlands.        
 
