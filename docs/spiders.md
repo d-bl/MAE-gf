@@ -48,7 +48,7 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
   style="float: right; margin-left:2em"
   src="https://maetempels.github.io/MAE-gf/images_wt/gf%20spin%204s%20wt.png"
   alt="spider in square"
-  description="The working-scheme in the picture shows ground <i>I G2</i>.<br> Larger spiders are possible, but it will take Groundforge some time to generate the pictures."
+  description="The working-scheme in the picture shows ground <i>WI G2</i>.<br> Larger spiders are possible, but it will take Groundforge some time to generate the pictures."
 %}
 
 * [4x2 legs][sq2], [4x3 legs][sq3] (WI H2), [4x4 legs][sq4] (WI G2), [4x5 legs][sq5]
