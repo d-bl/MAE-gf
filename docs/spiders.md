@@ -15,8 +15,15 @@ On this page we show examples of matrices for grounds with all spiders.
 Some of the spiders in these examples have only one twist in their legs.
 
 ### Torchon spiders
-![torchon spider][pic-sp-trad]           
-Please note: for a traditional Torchon spider, a stitch like <span class="stch">ctcctc</span> or <span class="stch">ctctctc</span> has to be chosen in the heart of the spider.             
+{% capture spin1 %}
+Please note: for a traditional Torchon spider, a stitch like <span class="stch">ctcctc</span> or <span class="stch">ctctctc</span> has to be chosen in the heart of the spider.
+{% endcapture %}
+{% include picts-float.html
+  style="float: left; margin-right:2em"
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf-sp-trad.png"
+  alt="torchon spider"
+  description=spin1
+%}
 
 * [4x2 legs][st2] (WI F2), [4x3 legs][st3] (WI E4), [4x4 legs][st4], [4x5 legs][st5]
 
@@ -24,16 +31,26 @@ Please note: for a traditional Torchon spider, a stitch like <span class="stch">
 [Another][sa1] ground can be obtained using the corresponding <span class="elem">checkers-matrix</span>, but set the tiling parameter to <span class="elem">brick</span>.
     
 ### Spiders with an eye
-![spider with an eye][pic-sp-gat]         
-Please note: to get a clear eye in the middle, the stitches in the eye of the spider have to be chosen like the example for the 4x3 legged spider: <span class="stch">A5=ctclctc E5=ctcrctc</span>.              
+{% capture spin2 %}
+Please note: to get a clear eye in the middle, the stitches in the eye of the spider have to be chosen like the example for the 4x3 legged spider: <span class="stch">A5=ctclctc E5=ctcrctc</span>.
+{% endcapture %}
+{% include picts-float.html
+  style="float: left; margin-right:2em"
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf-sp-gat.png"
+  alt="spider with an eye"
+  description=spin2
+%}
 
 * [4x2 legs][sh2], [4x3 legs][sh3], [4x4 legs][sh4]
  
 ### Spiders in a square
-<img alt="spider in square" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf%20spin%204s%20wt.png">
+{% include picts-float.html
+  style="float: right; margin-left:2em"
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf%20spin%204s%20wt.png"
+  alt="spider in square"
+  description="The working-scheme in the picture shows ground <i>I G2</i>.<br> Larger spiders are possible, but it will take Groundforge some time to generate the pictures."
+%}
 
-The working-scheme in the picture shows ground _WI G2_.     
-Larger spiders are possible, but it will take Groundforge some time to generate the pictures.
 * [4x2 legs][sq2], [4x3 legs][sq3] (WI H2), [4x4 legs][sq4] (WI G2), [4x5 legs][sq5]
        
 ### Spiders with an eye in a square 
