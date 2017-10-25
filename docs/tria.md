@@ -11,15 +11,16 @@
 * [Building Pagoda's](#building-pagodas)
 
 ### Introduction
-<img alt="pg unit" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-unit.png">
-
-In this article we show several placings of one unit of the _Pagoda_ or _Triangular_ ground. One unit is shown in 
-the picture on the right.          
-Please note that some of the examples are mirrored.         
+{% include picts-float.html
+  style="float: right; margin-left:1em;"
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-unit.png"
+  alt="pg unit"
+  description="In this article we show several placings of one unit of the <i>Pagoda</i> or <i>Triangular</i> ground. One unit is shown in the picture on the right.</p><p>Please note that some of the examples are mirrored."
+%}
 
 ### Traditional pagoda's
 {% include picts-float.html
-  style="float: left; margin-right:1em"
+  style="float: left; margin-right:1em;"
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png"
   alt="torchon pg"
   description="Please note: traditionally the pagoda-ground uses a weaver which returns round the pin with two twists at the pointy bit. The example looked better not turning."
@@ -29,7 +30,7 @@ Please note that some of the examples are mirrored.
 
 ### Bigger pagoda's
 {% include picts-float.html
-  style="float: left; margin-right:1em"
+  style="float: left; margin-right:1em;"
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-bigg.png"
   alt="bigg pg"
   description="The resulting thread diagram shows a pagoda that is bended over, due to the chosen matrix-scheme."
@@ -60,7 +61,7 @@ The coloured dots indicate what goes where when translating the working scheme i
 ![building pagoda's][build pagoda]
 
 {% include picts-float.html
-  style="float: left; margin-right: 1em"
+  style="float: left; margin-right: 1em;"
   src="https://maetempels.github.io/MAE-gf/images/gf-pg-uni2.png"
   alt="alternative unit"
   description="The unit on the left looks more like the working-scheme. It works nice as a building block for the traditional pagoda, however, the matrix-scheme's for the other pagoda examples are harder to achieve."
