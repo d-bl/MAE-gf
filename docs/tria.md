@@ -15,7 +15,7 @@
   style="float: right; margin-left:1em;"
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-unit.png"
   alt="pg unit"
-  description="In this article we show several placings of one unit of the <i>Pagoda</i> or <i>Triangular</i> ground. One unit is shown in the picture on the right.</p><p>Please note that some of the examples are mirrored."
+  description="In this article we show several placings of one unit of the <i>Pagoda</i> or <i>Triangular</i> ground. One unit is shown in the picture on the right.<br>Please note that some of the examples are mirrored."
 %}
 
 ### Traditional pagoda's
