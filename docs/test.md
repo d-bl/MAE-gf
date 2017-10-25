@@ -1,6 +1,6 @@
 <h2>kopregeltjes</h2>
 
-{& capture test1 %}
+{% capture test1 %}
 laten we dit eens bekijken
 {% endcapture %}
 
