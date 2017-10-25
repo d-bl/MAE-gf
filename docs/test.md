@@ -1,6 +1,6 @@
 <h2>kopregeltjes</h2>
 
-<img src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png" style={float: left}>
+<img src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png" style="float: left;">
 <p class="fl-l">maar eens even kijken wat er nu gebeurt</p>
 <p class="break"></p>
 
