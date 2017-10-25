@@ -1,9 +1,8 @@
 <h2>kopregeltjes</h2>
 
 <figure>
-<img src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png" style="float: left;">
-<div style="margin-left:2em">Please note: traditionally the pagoda-ground uses a weaver which returns round the pin with two twists at the pointy bit. The example looked better not. </div>
- <p>ipse lorem etc</p> 
+<img src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png" style="float: left; margin-right:2em">
+<p>Please note: traditionally the pagoda-ground uses a weaver which returns round the pin with two twists at the pointy bit. The example looked better not. </p>
 <p class="break"></p>
  </figure>
 
