@@ -18,8 +18,7 @@ Some of the spiders in these examples have only one twist in their legs.
 {% capture spin1 %}
 Please note: for a traditional Torchon spider, a stitch like <span class="stch">ctcctc</span> or <span class="stch">ctctctc</span> has to be chosen in the heart of the spider.
 {% endcapture %}
-{% include picts-float.html
-  style="float: left; margin-right:2em"
+{% include picts-left.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-sp-trad.png"
   alt="torchon spider"
   description=spin1
@@ -34,8 +33,7 @@ Please note: for a traditional Torchon spider, a stitch like <span class="stch">
 {% capture spin2 %}
 Please note: to get a clear eye in the middle, the stitches in the eye of the spider have to be chosen like the example for the 4x3 legged spider: <span class="stch">A5=ctclctc E5=ctcrctc</span>.
 {% endcapture %}
-{% include picts-float.html
-  style="float: left; margin-right:2em"
+{% include picts-left.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-sp-gat.png"
   alt="spider with an eye"
   description=spin2
@@ -44,8 +42,7 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 * [4x2 legs][sh2], [4x3 legs][sh3], [4x4 legs][sh4]
  
 ### Spiders in a square
-{% include picts-float.html
-  style="float: right; margin-left:2em"
+{% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf%20spin%204s%20wt.png"
   alt="spider in square"
   description="The working-scheme in the picture shows ground <i>WI G2</i>.<br> Larger spiders are possible, but it will take Groundforge some time to generate the pictures."
