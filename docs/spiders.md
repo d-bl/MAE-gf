@@ -15,7 +15,6 @@ On this page we show examples of matrices for grounds with all spiders.
 Some of the spiders in these examples have only one twist in their legs.
 
 ### Torchon spiders
-
 {% capture spin1 %}
 Please note: for a traditional Torchon spider, a stitch like <span class="stch">ctcctc</span> or <span class="stch">ctctctc</span> has to be chosen in the heart of the spider.
 {% endcapture %}
@@ -31,7 +30,6 @@ Please note: for a traditional Torchon spider, a stitch like <span class="stch">
 [Another][sa1] ground can be obtained using the corresponding <span class="elem">checkers-matrix</span>, but set the tiling parameter to <span class="elem">brick</span>.
     
 ### Spiders with an eye
-
 {% capture spin2 %}
 Please note: to get a clear eye in the middle, the stitches in the eye of the spider have to be chosen like the example for the 4x3 legged spider: <span class="stch">A5=ctclctc E5=ctcrctc</span>.
 {% endcapture %}
@@ -44,7 +42,6 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 * [4x2 legs][sh2], [4x3 legs][sh3], [4x4 legs][sh4]
  
 ### Spiders in a square
-
 {% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf%20spin%204s%20wt.png"
   alt="spider in square"
