@@ -8,13 +8,22 @@
 * [Footsides](#footsides)
 
 ### Ground names
-<img alt="rose v.s. cinq" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png"> 
-
-Unfortunately grounds do not have one unique name. Not even in one language. Also, the same name is used for different grounds. To make naming even more difficult, Groundforge does not make a difference in Torchon or Flemish grounds.         
-Example: The picture shows the working-scheme's of one unit of _Slavic rose ground_ and one unit of _Fond au cinq trous_. Groundforge gives the same [result][ex-5G].
+{% capture names1 %}
+Unfortunately grounds do not have one unique name. Not even in one language. Also, the same name is used for different grounds. To make naming even more difficult, Groundforge does not make a difference in Torchon or Flemish grounds.<br>       
+Example: The picture shows the working-scheme's of one unit of <i>Slavic rose ground</i> and one unit of <i>Fond au cinq trous</i>. Groundforge gives the same <a href="https://d-bl.github.io/GroundForge/index.html?m=5831%20-4-7%3Bbricks%3B16%3B16%3B0%3B0&s1=ct%20A1%3Dctct%20C1%3Dctct">result</a>.
+{% endcapture %}
+{% include picts-right.html
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png"
+  alt="rose v.s. cin1"
+  description=names1
+%}
 
 ### Stitches
-<img alt="colours" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf-kleurtjes.png">
+{% include picts-right.html
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf-kleurtjes.png"
+  alt="colours"
+  description="Stitches used in the examples on these pages:"
+%}
 
 Stitches used in the examples on these pages:
 * Cross only. In working scheme's coloured in <span class="b-grey">grey.</span>
@@ -26,10 +35,15 @@ Stitches used in the examples on these pages:
 Sometimes, onorthodox stitches are used, like <span class="stch">cross only</span> or <span class="stch">crcllcrc</span> , as in the [_Sunny Stitch_][ex-sun].    
 We have tried <span class="stch">ctctclllllctctc</span>  as a substitute for picots. Groundforge needs some time to generate this, and the result is not as expected.
 
-<img alt="example" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf-tctct.png">
-
-Groundforge has rules as which stitch-code gets what colour, according to the Belgian colour code. For the examples on these pages, the pair-diagrams will not always show the Belgian colour code, due to the following, illustrated with an example.            
-Suppose, we wish to work on the example on the right. The whole stitch & twist in the middle can be specified several ways. We prefer to use <span class="stch">ctc B1=tctct</span>, see [here][ex-tctct]. However, doing so, Groundforge colours this stitch in black in the pair-diagram. If we wish to see a red stitch, we have to use <span class="stch">ctc A1=ctcr A2=ctcr B1=ctct</span> , see [here][ex-ctct].
+Groundforge has rules as which stitch-code gets what colour, according to the Belgian colour code. For the examples on these pages, the pair-diagrams will not always show the Belgian colour code, due to the following, illustrated with an example.      
+{% capture names2 %}
+Suppose, we wish to work on the example on the right. The whole stitch & twist in the middle can be specified several ways. We prefer to use <span class="stch">ctc B1=tctct</span>, see <a href="https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtctc">here</a>. However, doing so, Groundforge colours this stitch in black in the pair-diagram. If we wish to see a red stitch, we have to use <span class="stch">ctc A1=ctcr A2=ctcr B1=ctct</span> , see <a href="https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dctct%20A2%3Dctcr%20A1%3Dctcr">here</a>.
+{% endcapture %}
+{% include picts-right.html
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf-tctct.png"
+  alt="example"
+  description=names2
+%}
 
 Groundforge accepts only stitch-instructions with at least one cross, so the stitch <span class="stch">do nothing</span> is not supported by Groundforge.          
 The instruction <span class="stch">A1=t</span> will be translated into <span class="stch">A1=ct</span>.               
