@@ -20,6 +20,11 @@ hier wat extra tekst tussen zetten.
 en hier wat tekst om te kijken of ie er onder omt
 
 
+{% include picts-centr.html
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf-kleurtjes.png"
+  alt="ondertiteling"
+%}
+
 lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum 
 
 
