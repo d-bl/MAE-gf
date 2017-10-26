@@ -37,7 +37,7 @@ We have tried <span class="stch">ctctclllllctctc</span>  as a substitute for pic
 
 Groundforge has rules as which stitch-code gets what colour, according to the Belgian colour code. For the examples on these pages, the pair-diagrams will not always show the Belgian colour code, due to the following, illustrated with an example.      
 {% capture names2 %}
-Suppose, we wish to work on the example on the right. The whole stitch & twist in the middle can be specified several ways. We prefer to use <span class="stch">ctc B1=tctct</span>, see <a href="https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtctc">here</a>. However, doing so, Groundforge colours this stitch in black in the pair-diagram. If we wish to see a red stitch, we have to use <span class="stch">ctc A1=ctcr A2=ctcr B1=ctct</span> , see <a href="https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dctct%20A2%3Dctcr%20A1%3Dctcr">here</a>.
+Suppose, we wish to work on the example on the right. The whole stitch & twist in the middle can be specified several ways. We prefer to use <span class="stch">ctc B1=tctct</span>, see <a href="https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtctct">here</a>. However, doing so, Groundforge colours this stitch in black in the pair-diagram. If we wish to see a red stitch, we have to use <span class="stch">ctc A1=ctcr A2=ctcr B1=ctct</span> , see <a href="https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dctct%20A2%3Dctcr%20A1%3Dctcr">here</a>.
 {% endcapture %}
 {% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-tctct.png"
