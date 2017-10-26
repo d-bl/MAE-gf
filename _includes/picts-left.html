@@ -1,5 +1,5 @@
-<figure class="diagram">
-    <img class="f-pict" src="{{ include.src }}" alt="{{ include.alt }}">
-    <figcaption class="{{ include.class }}">{{ include.caption }}</figcaption>
+<figure>
+	<img src="{{ include.src }}" alt="{{ include.alt }}" style=style="float: left; margin-right:1em">
+	<p>{{ include.description }}</p>
+	<p style="clear: both"></p>
 </figure>
-<p class="f-txt">{{ include.content }}</p>
