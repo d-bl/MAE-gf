@@ -35,8 +35,15 @@ See page [_Spiders_][page-spid].
 See page [_Pagoda's_][page-tria]. 
 
 ### Om & Om
+{% capture omenom1 %}
 In the Tesselace index a scheme for <i>Om & Om</i> can be found.        
 However, as the tiling-parameter is set to <span class="elem">brick</span> the stitches can not be chosen to generate the Om & Om. Setting the tiling to <span class="elem">checkers</span> does the trick, as in the following examples. You might try to see what happens if you change the tiling-parameter (works even with an odd number of collumns).
+{% endcapture %}
+{% include picts-right.html
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf-oeno-11.png"
+  alt="pic-oeno"
+  description=omenom1
+%}
 
 ![om & om][pic-oeno]
 * [o&o 11][oo-11], [o&o 12][oo-12], [o&o 12a][oo-12a]
@@ -48,10 +55,13 @@ Take just one unit of the Bias ground and place them all in the same direction, 
 * [example same direction][G-0228-OG], [example alternating directions][G-0228-OGy]
 
 ### Plaits and Roses
-The traditional rose ground units separated with plaits. Please note: the plaits should stay plaits.              
-The Snowflake example uses the same pricking as the rose ground, but is made as a little snowflake.
+{% include picts-right.html
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf-fusion.png"
+  alt="pic-fusion"
+  description="The traditional rose ground units separated with plaits. Please note: the plaits should stay plaits.<br>
+The Snowflake example uses the same pricking as the rose ground, but is made as a little snowflake."
+%}
 
-![fusion][pic-fusion]
 * [Rose][G-rose], [Snowflake][G-0342], [Bias star][G-0278-KF]
 
 ### Big Rose ground
