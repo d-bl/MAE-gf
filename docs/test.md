@@ -17,7 +17,14 @@ hier wat extra tekst tussen zetten.
   description="Please note: traditionally the <span> pagoda-ground </span> uses a weaver which returns round the pin with two twists at the pointy bit. The example looked better "
 %}
 
+en hier wat tekst om te kijken of ie er onder omt
 
+{% include picts-centr.html
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf-kleurtjes.png"
+  alt="ondertiteling"
+%}
+
+lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum 
 
 
 
