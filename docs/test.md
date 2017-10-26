@@ -10,6 +10,8 @@ Example: The picture shows the working-scheme's of one unit of <i>Slavic rose gr
   style="float: left; margin-right:1em"
   description=test1
   %}
+  
+hier wat extra tekst tussen zetten.
 
 {% include picts-float.html
   style="float: right; margin-left:1em"
