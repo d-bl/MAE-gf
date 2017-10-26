@@ -67,7 +67,6 @@ The Snowflake example uses the same pricking as the rose ground, but is made as 
 ![big roses][pic-big-rose]
 * [Traditional][big-rg1], [another example][big-rg2]
 
-
 ***
 
 [page-snow]: https://maetempels.github.io/MAE-gf/docs/snowflakes#snowflake-in-a-square
