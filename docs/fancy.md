@@ -45,7 +45,6 @@ However, as the tiling-parameter is set to <span class="elem">brick</span> the s
   description=omenom1
 %}
 
-![om & om][pic-oeno]
 * [o&o 11][oo-11], [o&o 12][oo-12], [o&o 12a][oo-12a]
 
 ### Short Bias
