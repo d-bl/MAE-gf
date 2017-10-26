@@ -24,8 +24,6 @@ Example: The picture shows the working-scheme's of one unit of <i>Slavic rose gr
   alt="colours"
   description="Stitches used in the examples on these pages:"
 %}
-
-Stitches used in the examples on these pages:
 * Cross only. In working scheme's coloured in <span class="b-grey">grey.</span>
 * Half stitch = (twist if not already done), cross, twist. Coloured <span class="b-gree">green</span>.
 * Cloth stitch = cross, twist, cross. Coloured <span class="b-purp">purple</span>.
@@ -35,7 +33,8 @@ Stitches used in the examples on these pages:
 Sometimes, onorthodox stitches are used, like <span class="stch">cross only</span> or <span class="stch">crcllcrc</span> , as in the [_Sunny Stitch_][ex-sun].    
 We have tried <span class="stch">ctctclllllctctc</span>  as a substitute for picots. Groundforge needs some time to generate this, and the result is not as expected.
 
-Groundforge has rules as which stitch-code gets what colour, according to the Belgian colour code. For the examples on these pages, the pair-diagrams will not always show the Belgian colour code, due to the following, illustrated with an example.      
+Groundforge has rules as which stitch-code gets what colour, according to the Belgian colour code. For the examples on these pages, the pair-diagrams will not always show the Belgian colour code, due to the following, illustrated with an example.
+
 {% capture names2 %}
 Suppose, we wish to work on the example on the right. The whole stitch & twist in the middle can be specified several ways. We prefer to use <span class="stch">ctc B1=tctct</span>, see <a href="https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtctct">here</a>. However, doing so, Groundforge colours this stitch in black in the pair-diagram. If we wish to see a red stitch, we have to use <span class="stch">ctc A1=ctcr A2=ctcr B1=ctct</span> , see <a href="https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dctct%20A2%3Dctcr%20A1%3Dctcr">here</a>.
 {% endcapture %}
