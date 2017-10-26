@@ -36,7 +36,7 @@ See page [_Pagoda's_][page-tria].
 
 ### Om & Om
 {% capture omenom1 %}
-In the Tesselace index a scheme for <i>Om & Om</i> can be found.        
+In the Tesselace index a scheme for <i>Om & Om</i> can be found.<br> 
 However, as the tiling-parameter is set to <span class="elem">brick</span> the stitches can not be chosen to generate the Om & Om. Setting the tiling to <span class="elem">checkers</span> does the trick, as in the following examples. You might try to see what happens if you change the tiling-parameter (works even with an odd number of collumns).
 {% endcapture %}
 {% include picts-right.html
