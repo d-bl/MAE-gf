@@ -17,12 +17,12 @@ For the **traditional spider in a square**, the following code will do the trick
 N>=2. Tiling is set to <span class="elem">brick</span>.       
 
 ```  
-5 & (for i=1 to N: -) & 5 & (for i=1 to N: -)               
--C & (for i=1 to N-2: D) & 632 & (for i=1 to N-2: A) & B              
-(for j=1 to N-2:                                                     
-     5 & (for i=1 to N: 6) & 3 & (for i=1 to N: 2)                    
-next j)                                                          
-5 & (for i=1 to N: 6) & - & (for i=1 to N: 2)                 
+5 & (for i=1 to N: -) & 5 & (for i=1 to N: -)                     
+-C & (for i=1 to N-2: D) & 632 & (for i=1 to N-2: A) & B          
+(for j=1 to N-2:                                                  
+     5 & (for i=1 to N: 6) & 3 & (for i=1 to N: 2)                
+next j)                                                           
+5 & (for i=1 to N: 6) & - & (for i=1 to N: 2)                     
 ``` 
 
 ### To big matrix
