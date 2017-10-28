@@ -9,11 +9,14 @@
 .b-grey {background-color: white; color: grey;} 
 .b-gree {background-color: white; color: lime;} 
 .b-purp {background-color: white; color: purple;} 
-.b-red {background-color: white; color: red;} 
+.b-red  {background-color: white; color: red;} 
 .b-blue {background-color: white; color: blue;} 
 
 /* copied from Jo Pol */
 #sidebar hr { height: 12px; border: 0; box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.2); }
+
+/* pictures */
+figure { display: block; margin:0; }
 
 /* floating pictures */
 .break { clear: both; }
