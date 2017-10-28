@@ -19,7 +19,8 @@ Example: The picture shows the working-scheme's of one unit of <i>Slavic rose gr
 %}
 
 {% capture names2 %}
-We have learned, that the figure on the left is called a <i>snowflake</i> and the figure on the right a <i>spider</i>. Groundforge does not make this difference. It all depends on the stitch in the centre.
+We have learned, that the figure on the left is called a <a href="https://d-bl.github.io/GroundForge/index.html?m=-5--%0AB-C-%0A-5-5%0A5-5-%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20A4%3Dctclll%20D1%3Dctcttt%20%20C4%3Dctcrrr"><i>snowflake</i></a> 
+and the figure on the right a <a href="https://d-bl.github.io/GroundForge/index.html?m=-5--%0AB-C-%0A-5-5%0A5-5-%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B3%3Dctcttctc%20A4%3Dctclll%20D1%3Dctcttt%20%20C4%3Dctcrrr">spider</a><i>spider</i></a>. Groundforge does not make this difference. It only depends on the stitch in the centre: <span class="stch">B3=ctcttctc</span> for the spider or <span class="stch">B3=ctc</span> for the snowflake.
 {% endcapture %}
 {% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-snowspin.png"
