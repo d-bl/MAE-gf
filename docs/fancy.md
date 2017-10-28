@@ -8,12 +8,13 @@
 * [Snowflakes](#snowflakes-in-a-square)
 * [Spiders](#spiders-in-a-square)
 * [Pagoda's](#pagodas-in-a-square)
+* [Paris ground][#paris-ground-in-a-square)
 
 **Others**
 * [Om & Om (alternate stitch)](#om--om)
 * [Short bias](#short-bias)
 * [Plaits and Roses](#plaits-and-roses)
-* [Big Rose ground](#big-rose-ground)
+* [Big Paris ground](#big-paris-ground)
 
 ### Introduction
 Some fancy examples, collected on this page. Names will be looked after later.
@@ -33,6 +34,10 @@ See page [_Spiders_][page-spid].
 
 ### Pagoda's in a square
 See page [_Pagoda's_][page-tria]. 
+
+### Paris ground in a square
+![paris in square][pic-par-sqr]
+* [Example][par-sqr1]
 
 ### Om & Om
 {% capture omenom1 %}
@@ -63,8 +68,8 @@ The Snowflake example uses the same pricking as the rose ground, but is made as 
 
 * [Rose][G-rose], [Snowflake][G-0342], [Bias star][G-0278-KF]
 
-### Big Rose ground
-![big roses][pic-big-rose]
+### Big Paris ground
+![big paris][pic-big-paris]
 * [Traditional][big-rg1], [another example][big-rg2]
 
 ***
@@ -79,7 +84,8 @@ The Snowflake example uses the same pricking as the rose ground, but is made as 
 [pic-0228-OG]: https://maetempels.github.io/MAE-gf/images_wt/gf%200228-OG.png
 [pic-0228-OGy]: https://maetempels.github.io/MAE-gf/images_wt/gf%200228%20OGy.png
 [pic-oeno]: https://maetempels.github.io/MAE-gf/images_wt/gf-oeno-11.png
-[pic-big-rose]:  https://maetempels.github.io/MAE-gf/images_wt/big-rose.png
+[pic-big-paris]:  https://maetempels.github.io/MAE-gf/images_wt/big-rose.png
+[pic-par-sqr]: https://maetempels.github.io/MAE-gf/images_wt/gf-rose-in-sqr.png
 
 [foto-0228-OGy]: https://maetempels.github.io/MAE-gf/photos/gf-0228-foto.jpg
 
@@ -106,4 +112,6 @@ The Snowflake example uses the same pricking as the rose ground, but is made as 
 [big-rg2]: https://d-bl.github.io/GroundForge/index.html?m=-5---5%0A--C-B-%0A-B-5-C%3Bbricks%3B24%3B24%3B0%3B0&s1=ct%20F1%3Dctc%20E3%3Dc%20A3%3Dc
 
 [big-rg1]: https://d-bl.github.io/GroundForge/index.html?m=-5---5%0A--C-B-%0A-B-5-C%3Bbricks%3B24%3B24%3B0%3B0&s1=ctct%20B1%3Dct%20D1%3Dct
+
+[par-sqr1]: https://d-bl.github.io/GroundForge/index.html?m=C-B-5-5-%0A-5-5-5-5%0A5-5-5-5-%0A-5-5---5%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20D4%3Dtctct%20G1%3Dtctct%20F2%3Dtctct%20A1%3Dtctct%20B2%3Dtctct%20A3%3Dctct%20H4%3Dctct%20G3%3Dctct
 
