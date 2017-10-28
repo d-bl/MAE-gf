@@ -7,7 +7,8 @@
 * [Bias Ground crossed differently](#bias-ground-crossed-differently)
 * [Bias Ground with a diagonal in between](#bias-ground-with-a-diagonal-in-between)
 * [Bias Ground crossed and a diagonal in between](#bias-ground-crossed-and-a-diagonal-in-between)
-<br>
+* [Bias Ground crossed and in a square](#bias-ground-crossed-and-in-a-square)
+
 
 ### Introduction
 {% capture bias1 %}
@@ -33,12 +34,16 @@ Better names for the examples will follow.
 * [WI E6][wi-E6]
 
 ### Bias Ground with a diagonal in between
-![row between][P-0221-vg]
-* [example][G-0221-vg]
+![row between][P-0221-vg] ![bias in square][P-bias-sq]
+* [example][G-0221-vg], [in a square][G-bs-sq]
 
 ### Bias Ground crossed and a diagonal in between   
 ![row & crossed][P-0221-av]
 * [example][G-0221-av]
+
+### Bias Ground crossed and in a square
+![bias crossed & square][P-bias-xq]
+* [example][G-bs-xq]
 
 ***
 
@@ -50,6 +55,9 @@ Better names for the examples will follow.
 [P-0221-aa]: https://maetempels.github.io/MAE-gf/images_wt/gf-bias-aa.png
 [P-0221-vg]: https://maetempels.github.io/MAE-gf/images_wt/gf-bias-vg.png
 [P-0221-av]: https://maetempels.github.io/MAE-gf/images_wt/gf-bias-av.png
+[P-bias-sq]: https://maetempels.github.io/MAE-gf/images_wt/gf-bias-in-sqr.png
+[P-bias-xq]: https://maetempels.github.io/MAE-gf/images_wt/gf-bias-x-in-sqr.png
+
 
 [wi-D6]: https://d-bl.github.io/GroundForge/index.html?m=8-48%0A8314%3Bbricks%3B16%3B16%3B0%3B0&s1=ct%20D2%3Dctct%20A1%3Dctct%20C1%3Dctct%20B2%3Dctct
 [wi-F4]: https://d-bl.github.io/GroundForge/index.html?m=1483%208-48%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20A2%3Dctcllctc%20C2%3Dctcrrctc
@@ -64,6 +72,10 @@ Better names for the examples will follow.
 [G-0228OD]: https://d-bl.github.io/GroundForge/index.html?m=6-48%20%0A86-4%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtct%20C2%3Dtct
 
 [G-0278-KG]: https://d-bl.github.io/GroundForge/index.html?m=8-48%0A8314%3Bbricks%3B16%3B16%3B0%3B0&s1=c%20D2%3Dctct%20A1%3Dctc%20B1%3Dc%20C1%3Dctc%20B2%3Dtctc
+
+[G-bs-sq]: https://d-bl.github.io/GroundForge/index.html?m=5-486-%0A-5-486%0A6-5-48%0A%0A%3Bbricks%3B16%3B16%3B0%3B0&s1=ctct%20B1%3Dctc%20C1%3Dctc%20B2%3Dctcl%20C2%3Dctc%20D2%3Dctc%20F3%3Dctcl
+
+[G-bs-xq]: https://d-bl.github.io/GroundForge/index.html?m=-21486%0A317-48%0A88-5-4%3Bbricks%3B24%3B24%3B0%3B0&s1=ctct%20B3%3Dct%20D3%3Dct%20D2%3Dct%20B2%3Dct%20C1%3Dct
 
 
 
