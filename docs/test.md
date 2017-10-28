@@ -1,7 +1,7 @@
 <h2>kopregeltjes</h2>
 
 {% include formule.html
-description="we willen een formule tonen, op een <br> witte achtergrond <br> in lettertype courier"
+formule="we willen een formule tonen, op een <br> witte achtergrond <br> in lettertype courier"
 %}
 
 {% capture test1 %}
