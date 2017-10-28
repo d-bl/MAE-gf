@@ -18,7 +18,7 @@ All links worked when created. Due to work on the Groundforge coding, there may 
 
 English is not my native language, so please forgive me any mistakes.
 
-{% include pict-centr.html
+{% include picts-centr.html
   src="https://maetempels.github.io/MAE-gf/images/pict-double.png"
   alt="some nice ground"
 %}  
