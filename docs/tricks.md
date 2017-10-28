@@ -18,7 +18,7 @@ Example: The picture shows the working-scheme's of one unit of <i>Slavic rose gr
   description=names1
 %}
 
-{% capture names2 %
+{% capture names2 %}
 We have learned, that the figure on the left is called a <i>snowflake</i> and the figure on the right a <i>spider</i>. Groundforge does not make this difference. It all depends on the stitch in the centre.
 {% endcapture %}
 {% include picts-right.html
