@@ -67,8 +67,7 @@ Take just one unit of the Bias ground and place them all in the same direction, 
 {% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-fusion.png"
   alt="pic-fusion"
-  description="The traditional rose ground units separated with plaits. Please note: the plaits should stay plaits.<br>
-The Snowflake example uses the same pricking as the rose ground, but is made as a little snowflake."
+  description="The traditional rose ground units separated with plaits. Please note: the plaits should stay plaits."
 %}
 
 * [Rose][G-rose], [Snowflake][G-0342], [Bias star][G-0278-KF]
