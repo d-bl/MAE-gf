@@ -13,11 +13,15 @@ All examples are links to the Groundforge main page. Follow the link and click <
 The examples use pair-diagrams in the styled version (_matrix-scheme_) that Groundforge understands. If you wish to see this scheme, click <span class="elem">DIAGRAM</span>.
 Most of the patterns also have a scheme in the TesseLace index. Some, as the spiders and the larger fishes, don't.
 
-
 ### Disclaimer
 All links worked when created. Due to work on the Groundforge coding, there may be hiccups. There is a work-around, but I have to study this first.           
 
 English is not my native language, so please forgive me any mistakes.
+
+{% include pict-centr.html
+  src="https://maetempels.github.io/MAE-gf/images/pict-double.png"
+  alt="some nice ground"
+%}  
 
 ***
 
