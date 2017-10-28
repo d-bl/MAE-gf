@@ -21,7 +21,7 @@ formule="
 5 & (for i=1 to N: -) & 5 & (for i=1 to N: -)<br>
 -C & (for i=1 to N-2: D) & 632 & (for i=1 to N-2: A) & B<br>
 (for j=1 to N-2:<br>   
-&nbsp; &nbsp; &nbsp; &nbsp;5 & (for i=1 to N: 6) & 3 & (for i=1 to N: 2)<br>
+&nbsp; &nbsp;5 & (for i=1 to N: 6) & 3 & (for i=1 to N: 2)<br>
 next j)<br>
 5 & (for i=1 to N: 6) & - & (for i=1 to N: 2)
 "
