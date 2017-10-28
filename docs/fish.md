@@ -11,7 +11,10 @@ Fish grounds are usualy used in small braids. Milanese braids typically need 14-
 The grounds consists of a number of rows with two or more cloth stitches followed with some twists in the weaver. Fish starts and closes with a cloth stitch. In between the fish-rows, zero, one ore more rows with e.g. half stitch, pin, half stitch are made. The number of these rows define whether the fish will be in straight vertical lines, or in alternating positions.        
 If the tail is made with pairs not from the same fish, the ground is called [_Lotus_][lotus-page].    
 
-<p class="central"><img alt="fish pair dia" src="https://maetempels.github.io/MAE-gf/images_wt/gf%20vis%20wt.png"></p>
+{% include picts-centr.html
+     alt="fish pair dia"
+     src="https://maetempels.github.io/MAE-gf/images_wt/gf%20vis%20wt.png"
+%}     
 
 Broader fish can be made, e.g. with four cloth stitches. In some Milanese grounds, the heads and tails are made as a cloth stitch with pairs. Groundforge does not support this. Making the head and tail as a half spider is supported. In Groundforge these fish can be obtained using the second or even third level diagram. (example follows)
 
