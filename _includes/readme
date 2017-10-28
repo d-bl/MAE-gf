@@ -1,0 +1,4 @@
+The styles for the floating picture are given in the include-files. We discovered, that putting the style in the css gave all pictures the same width.
+
+According to W3-schools, if the picture is to large, a "clearfix" should be used. We discovered, that <p style="clear:both"> also worked. However, there is slightly more vertical space between the elements.
+<span style="clear:both"> did not move the next text beneath the picture.
