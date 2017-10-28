@@ -12,9 +12,9 @@
 In this article some of my own designs and finds. Most grounds I found before I learned of Groundforge. Of course, some of them might also have been created by others.
 
 ### Lace lintje
-{% include picts-centr
+{% include picts-centr.html
   src="https://maetempels.github.io/MAE-gf/images_wt/lacelintje.png"
-  alt="lees lintje"
+  alt="leeslintje"
 %}  
 
 A few years ago I designed this small bookmark. The name is a pun upon the dutch word for "read" "lees", which is pronounced the same as "lace". "Lintje" means "ribbon".            
