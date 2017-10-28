@@ -24,7 +24,7 @@ We have learned, that the figure on the left is called a <i>snowflake</i> and th
 {% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-snowspin.png"
   alt="snowflake v.s. spider"
-  description=names1
+  description=names2
 %}
 
 ### Stitches
