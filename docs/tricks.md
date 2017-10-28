@@ -18,6 +18,15 @@ Example: The picture shows the working-scheme's of one unit of <i>Slavic rose gr
   description=names1
 %}
 
+{% capture names2 %
+We have learned, that the figure on the left is called a <i>snowflake</i> and the figure on the right a <i>spider</i>. Groundforge does not make this difference. It all depends on the stitch in the centre.
+{% endcapture %}
+{% include picts-right.html
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf-snowspin.png"
+  alt="snowflake v.s. spider"
+  description=names1
+%}
+
 ### Stitches
 {% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-kleurtjes.png"
@@ -30,18 +39,18 @@ Example: The picture shows the working-scheme's of one unit of <i>Slavic rose gr
 * Whole stitch & twist = (twist if not already done), cross, twist, cross, twist. Coloured <span class="b-red">red</span>.
 * Plaits = (twist,) cross, twist, cross, twist, cross, twist, cross (, twist), .... . Coloured <span class="b-blue">blue</span>.
 
-Sometimes, onorthodox stitches are used, like <span class="stch">cross only</span> or <span class="stch">crcllcrc</span> , as in the [_Sunny Stitch_][ex-sun].    
+Sometimes, onorthodox stitches are used, like <span class="stch">cross only</span> or <span class="stch">crcllcrc</span>, as in the [_Sunny Stitch_][ex-sun].    
 We have tried <span class="stch">ctctclllllctctc</span>  as a substitute for picots. Groundforge needs some time to generate this, and the result is not as expected.
 
 Groundforge has rules as which stitch-code gets what colour, according to the Belgian colour code. For the examples on these pages, the pair-diagrams will not always show the Belgian colour code, due to the following, illustrated with an example.
 
-{% capture names2 %}
+{% capture stchs1 %}
 Suppose, we wish to work on the example on the right. The whole stitch & twist in the middle can be specified several ways. We prefer to use <span class="stch">ctc B1=tctct</span>, see <a href="https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dtctct">here</a>. However, doing so, Groundforge colours this stitch in black in the pair-diagram. If we wish to see a red stitch, we have to use <span class="stch">ctc A1=ctcr A2=ctcr B1=ctct</span> , see <a href="https://d-bl.github.io/GroundForge/index.html?m=88%2011%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dctct%20A2%3Dctcr%20A1%3Dctcr">here</a>.
 {% endcapture %}
 {% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-tctct.png"
   alt="example"
-  description=names2
+  description=stchs1
 %}
 
 Groundforge accepts only stitch-instructions with at least one cross, so the stitch <span class="stch">do nothing</span> is not supported by Groundforge.          
