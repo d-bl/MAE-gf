@@ -2,25 +2,15 @@
 
 ### Contents
 * [Introduction](#introduction)
-* [Lace lintje](#lace-lintje)
 * [Sunny stitch](#sunny-stitch)
 * [Ants](#ants)
+* [Another fish](#another-fish)
+* [Bias and Paris ground](#bias-and-paris-ground)
 
 &copy; M. Tempels
 
 ### Introduction
 In this article some of my own designs and finds. Most grounds I found before I learned of Groundforge. Of course, some of them might also have been created by others.
-
-### Lace lintje
-{% include picts-centr.html
-  src="https://maetempels.github.io/MAE-gf/images_wt/lacelintje.png"
-  alt="leeslintje"
-%}  
-
-A few years ago I designed this small bookmark. The name is a pun upon the dutch word for "read" "lees", which is pronounced the same as "lace". "Lintje" means "ribbon".            
-Clearly, this pattern as such can not be made with Groundforge, however, there is a close by. Please note: play only with the stitches of the rose-unit. The plaits, specified with <span class="stch">ctctctct</span> or <span class="stch">ctctctctc</span>, should stay plaits.
-
-* [Lace lintje][LLLL]
 
 ### Sunny stitch
 {% capture maet1 %}
@@ -39,7 +29,22 @@ Ants came to life as a variation of the Slavic ground. The result looks like ant
 
 ![ants-foto][foto-0692] ![ants][pic-0692]            
 
-* [ant 1][ex-0692], [ant 2][ex-0665], [3 paired crossed star][ex-3cc]         
+* [ant 1][ex-0692], [ant 2][ex-0665], [3 paired crossed star][ex-3cc]        
+
+### Another fish
+The following pattern I created one quarter turned, so you had to work "upwards" from one square to another. As Groundforge does not support going upwards, I used the pricking given in the picture and in the examples.
+
+![Another fish][pic-mine2]
+
+* [Another fish][ex-funny-fish], [original ground][ex-mine2]
+
+### Bias and Paris ground
+As the pattern above, this pattern also was created one quarter turned.
+
+![Bias and Paris][pic-mine1]
+
+* [example][ex-mine1]
+
 
 ***
 
@@ -50,6 +55,9 @@ Ants came to life as a variation of the Slavic ground. The result looks like ant
 [pic-0902]: https://maetempels.github.io/MAE-gf/images_wt/gf-0902-wt.png
 [pic-0692]: https://maetempels.github.io/MAE-gf/images_wt/gf-0692.png
 [pic-jp-star]: https://maetempels.github.io/MAE-gf/images_wt/jp-star.jpg
+
+[pic-mine1]: https://maetempels.github.io/MAE-gf/images_wt/gf-mine1.png
+[pic-mine2]: https://maetempels.github.io/MAE-gf/images_wt/gf-mine2.png
 
 [LLLL]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B5%3B0%3B0&s1=ctct%20D1%3Dctctctct%20B1%3Dctctctct
 
@@ -62,3 +70,10 @@ Ants came to life as a variation of the Slavic ground. The result looks like ant
 [ex-0665]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B24%3B0%3B0&s1=c%20A1%3Dtctctc%20C1%3Dctctct
 
 [ex-3cc]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B24%3B0%3B0&s1=c%20A1%3Dctct%20C1%3Dtctc%20D1%3Dcc%20B1%3Dcc
+
+[ex-funny-fish]: https://d-bl.github.io/GroundForge/index.html?m=8325%0A6-76%0A1563%0A224-%3Bchecker%3B24%3B24%3B0%3B0&s1=ctc%20C1%3Dtctc%20C3%3Dtctc%20A1%3Dctct%20A3%3Dctct%20B2%3Drctcl%20D4%3Dlctcr
+
+[ex-mine2]: https://d-bl.github.io/GroundForge/index.html?m=8325%0A6-76%0A1563%0A224-%3Bchecker%3B24%3B24%3B0%3B0&s1=ct%20B3%3Dctct%20A4%3Dctct%20C4%3Dctct%20B1%3Dctct%20D1%3Dctct%20C2%3Dctct%20A2%3Dctct%20D3%3Dctct
+
+[ex-mine1]: https://d-bl.github.io/GroundForge/index.html?m=-7-4--%0AB831C-%0A66-225%3Bbricks%3B24%3B24%3B0%3B0&s1=ct%20E3%3Dctct%20D1%3Dctct%20C2%3Dctct%20F1%3Dctct%20A2%3Dctct%20A3%3Dctct%20C3%3Dctct%20B1%3Dctct
+
