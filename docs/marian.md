@@ -32,11 +32,11 @@ Ants came to life as a variation of the Slavic ground. The result looks like ant
 * [ant 1][ex-0692], [ant 2][ex-0665], [3 paired crossed star][ex-3cc]        
 
 ### Another fish
-The following pattern I created one quarter turned, so you had to work "upwards" from one square to another. As Groundforge does not support going upwards, I used the pricking given in the picture and in the examples.
+The following pattern I created one quarter turned, so you had to work "upwards" from one square to another. As Groundforge does not support going upwards, I used the diagram given in the picture and in the examples.
 
 ![Another fish][pic-mine2]
 
-* [Another fish][ex-funny-fish], [original ground][ex-mine2]
+* [Another fish][ex-funny-fish], [original ground][ex-mine2] (after turning one quarter)
 
 ### Bias and Paris ground
 As the pattern above, this pattern also was created one quarter turned.
