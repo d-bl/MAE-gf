@@ -1,2 +1,2 @@
 # MAE-gf
-Additional pages for Groundforge.
+Many Attractive Examples for Groundforge.
