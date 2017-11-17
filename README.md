@@ -1,2 +1,3 @@
 # MAE-gf
-Many Attractive Examples for Groundforge.
+Additional examples for Groundforge.
+The examples are complete with stitches.
