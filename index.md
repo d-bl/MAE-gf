@@ -22,7 +22,7 @@ English is not my native language, so please forgive me any mistakes.
   src="https://maetempels.github.io/MAE-gf/images/pict-double.png"
   alt="some nice ground"
 %}  
-[Ground][my-ground]
+[This ground][my-ground]
 
 ***
 
