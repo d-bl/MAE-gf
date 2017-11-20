@@ -15,8 +15,7 @@ Inspired by "Hollandsche kant" I started to experiment with the rose-ground, usi
 I studied Mathematics at Technical University Eindhoven and work as database-designer.    
 
 ### Contact
-(under construction)
-<a href="mailto: xxx@yyy">contact</a>
+We can read Dutch, English, German. (under construction)<a href="mailto: xxx@yyy">contact</a>
 
 ***
 
