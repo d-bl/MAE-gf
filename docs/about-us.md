@@ -1,4 +1,7 @@
-# About us
+# About us & Contact
+### Contents
+* [M.A.E. Tempels](#mae-tempels)
+* [Contact](#contact)
 
 ### M.A.E. Tempels
 {% include picts-centr.html alt="fish pair dia" src="https://maetempels.github.io/MAE-gf/photos/IMG_0997c.jpg" %}
@@ -10,6 +13,10 @@ My lace-making got a tremendous boost when I joined lacegroup De Waaier. I start
 Inspired by "Hollandsche kant" I started to experiment with the rose-ground, using onorthodox stitches like "cross only" or "do nothing". Also, I joined the units of the rose ground with plaits. These works were published in the "Kantbrief", the magazine from the dutch lace-society LOKK.   
 
 I studied Mathematics at Technical University Eindhoven and work as database-designer.    
+
+### Contact
+(under construction)
+<a href="mailto: xxx@yyy">contact</a>
 
 ***
 
