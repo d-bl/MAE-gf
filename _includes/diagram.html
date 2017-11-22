@@ -1,0 +1,10 @@
+<figure class="diagram">
+    <div id="DIV-{{ include.id }}"></div>
+    <script>
+        var sheet = new dibl.PatternSheet(2, "height='100mm' width='100mm'", "SVG-{{ include.id }}")
+        sheet.add("{{ include.matrix }}","{{ include.tiling }}")
+        document.getElementById("DIV-{{ include.id }}").innerHTML += sheet.toSvgDoc().trim()
+    </script>
+    <figcaption>{{ include.description }}</figcaption>
+    <span class="break"></span>
+</figure>

@@ -21,4 +21,5 @@ figure { display: block; margin:0; }
 /* floating pictures */
 .break { clear: both; }
 
-
+.diagram, .break { clear: both }
+.diagram div { float: right }
