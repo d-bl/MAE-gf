@@ -10,8 +10,9 @@
     {% if page.contact %}
     <script>
         function sendme(tlDomain,account,provider) {
-            var x = account.split("").reverse().join("").replace(" ","&#46;")+"&#64;"+provider.split("").reverse().join("")+"&#46;"+tlDomain
-            document.write("<a href='&#109;&#97;ilto&#58;"+x+"&#63;&#115;ub&#106;ect&#61;GroundForge'>"+x+"</a>")
+            var part = account.split("").reverse().join("").replace(/ /g,"&#46;")+"&#64;"
+            var whole = part+provider.split("").reverse().join("")+"&#46;"+tlDomain
+            document.write("<a href='&#109;&#97;ilto&#58;"+whole+"&#63;&#115;ub&#106;ect&#61;GroundForge'>"+part+"</a>")
         }
     </script>
     {% endif %}

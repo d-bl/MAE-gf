@@ -19,7 +19,7 @@ Inspired by "Hollandsche kant" I started to experiment with the rose-ground, usi
 I studied Mathematics at Technical University Eindhoven and work as database-designer.    
 
 ### Contact
-We can read Dutch, English, German. (under construction) <script>sendme("com", "eman tsal emos eman tsrif emos","liamg")</script>
+We can read Dutch, English, German. <script>sendme("com", "noitcurtsnoc rednu","liamg")</script>
 
 ***
 
