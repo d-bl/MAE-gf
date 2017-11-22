@@ -1,3 +1,7 @@
+---
+layout: default
+contact: true
+---
 # About us & Contact
 ### Contents
 * [M.A.E. Tempels](#mae-tempels)
@@ -15,7 +19,7 @@ Inspired by "Hollandsche kant" I started to experiment with the rose-ground, usi
 I studied Mathematics at Technical University Eindhoven and work as database-designer.    
 
 ### Contact
-We can read Dutch, English, German. (under construction)<a href="mailto: xxx@yyy">contact</a>
+We can read Dutch, English, German. (under construction) <script>sendme("com", "eman tsal emos eman tsrif emos","liamg")</script>
 
 ***
 
