@@ -9,10 +9,10 @@
     <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
     {% if page.contact %}
     <script>
-        function sendme(tlDomain,account,provider) {
-            var part = account.split("").reverse().join("").replace(/ /g,"&#46;")+"&#64;"
-            var whole = part+provider.split("").reverse().join("")+"&#46;"+tlDomain
-            document.write("<a href='&#109;&#97;ilto&#58;"+whole+"&#63;&#115;ub&#106;ect&#61;GroundForge'>"+part+"</a>")
+        function send(me) {
+            var firstPart =         me.split("").reverse().join("").replace(/ /g,"&#46;")
+            var lastPart = "com liamg".split("").reverse().join("").replace(/ /g,"&#46;")
+            document.write("<a href='&#109;&#97;ilto&#58;"+firstPart+"&#64;"+lastPart+"&#63;&#115;ub&#106;ect&#61;GroundForge'>"+firstPart+"&#64;"+lastPart+"</a>")
         }
     </script>
     {% endif %}
