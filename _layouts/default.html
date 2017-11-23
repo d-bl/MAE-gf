@@ -7,7 +7,15 @@
     <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
     <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
-
+    {% if page.contact %}
+    <script>
+        function send(me) {
+            var firstPart =         me.split("").reverse().join("").replace(/ /g,"&#46;")
+            var lastPart = "moc liamg".split("").reverse().join("").replace(/ /g,"&#46;")
+            document.write("<a href='&#109;&#97;ilto&#58;"+firstPart+"&#64;"+lastPart+"&#63;&#115;ub&#106;ect&#61;GroundForge'>"+firstPart+"&#64;"+lastPart+"</a>")
+        }
+    </script>
+    {% endif %}
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
