@@ -1,6 +1,6 @@
 # Fancy examples
 
-### Contents
+## Contents
 * [Introduction](#introduction)
 
 **Ground-units in squares**
@@ -12,39 +12,39 @@
 * [Unit bias](#unit-bias-in-a-square)
 
 **Others**
-* [Om & Om (alternate stitch)](#om--om)
+* [Alternate stitch ground (om & om)](#alternate-stitch-ground)
 * [Short bias](#short-bias)
 * [Plaits and Roses](#plaits-and-roses)
 * [Big Paris ground](#big-paris-ground)
 
-### Introduction
+## Introduction
 Some fancy examples, collected on this page. Names will be looked after later.
 
-### Rose ground in a square
+## Rose ground in a square
 By putting the traditional rose ground unit in a square, little stars can be made.                 
 Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates.
 
 ![torchon-flemish][pic-tor-flem]
 * [Star][G-0112]
 
-### Snowflakes in a square
+## Snowflakes in a square
 See page [_Snowflakes_][page-snow].
 
-### Spiders in a square
+## Spiders in a square
 See page [_Spiders_][page-spid].
 
-### Pagoda's in a square
+## Pagoda's in a square
 See page [_Pagoda's_][page-tria]. 
 
-### Paris ground in a square
+## Paris ground in a square
 ![paris in square][pic-par-sqr]
 * [Example][g-par-sqr1]
 
-### Unit bias in a square
+## Unit bias in a square
 ![short bias in square][pic-uni-bsq]
 * [Example][g-uni-sbq]
 
-### Om & Om
+## Alternate stitch ground
 {% capture omenom1 %}
 In the Tesselace index a scheme for <i>Om & Om</i> can be found.<br> 
 However, as the tiling-parameter is set to <span class="elem">brick</span> the stitches can not be chosen to generate the Om & Om. Setting the tiling to <span class="elem">checkers</span> does the trick, as in the following examples. You might try to see what happens if you change the tiling-parameter (works even with an odd number of collumns).
@@ -57,13 +57,13 @@ However, as the tiling-parameter is set to <span class="elem">brick</span> the s
 
 * [o&o 11][oo-11], [o&o 12][oo-12], [o&o 12a][oo-12a]
 
-### Short Bias
+## Short Bias
 Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter may give nice results in two colours.
 
 ![same direction][pic-0228-OG] ![alternating][pic-0228-OGy] ![short bias foto][foto-0228-OGy] 
 * [example same direction][G-0228-OG], [example alternating directions][G-0228-OGy]
 
-### Plaits and Roses
+## Plaits and Roses
 {% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-fusion.png"
   alt="pic-fusion"
@@ -72,7 +72,7 @@ Take just one unit of the Bias ground and place them all in the same direction, 
 
 * [Rose][G-rose], [Snowflake][G-0342], [Bias star][G-0278-KF]
 
-### Big Paris ground
+## Big Paris ground
 ![big paris][pic-big-paris]
 * [Traditional][big-rg1], [another example][big-rg2]
 
