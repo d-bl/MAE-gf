@@ -1,6 +1,6 @@
 # Triangular Grounds or Pagoda's
 
-### Contents
+## Contents
 * [Introduction](#introduction)
 * [Traditional Pagoda's](#traditional-pagodas)
 * [Bigger Pagoda's](#bigger-pagodas)
@@ -10,14 +10,14 @@
 * [Pagoda in a square](#pagoda-in-a-square)
 * [Building Pagoda's](#building-pagodas)
 
-### Introduction
+## Introduction
 {% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-unit.png"
   alt="pg unit"
   description="In this article we show several placings of one unit of the <i>Pagoda</i> or <i>Triangular</i> ground. One unit is shown in the picture on the right.<br>Please note that some of the examples are mirrored."
 %}
 
-### Traditional pagoda's
+## Traditional pagoda's
 {% include picts-left.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png"
   alt="torchon pg"
@@ -26,7 +26,7 @@
 
 * [traditional][ex-trad] 
 
-### Bigger pagoda's
+## Bigger pagoda's
 {% include picts-left.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-bigg.png"
   alt="bigg pg"
@@ -35,24 +35,24 @@
 
 * [bigger pagoda][ex-bigg]
  
-### Pagoda's kissing
+## Pagoda's kissing
 ![pg kissing][pg-kiss]
 * [kissing][ex-kiss] 
 
-### Pagoda's facing
+## Pagoda's facing
 ![pg facing][pg-face]
 * [facing][ex-face]
 
-### Stacked pagoda's
+## Stacked pagoda's
 ![pg stacked][pg-stck]
 * [stacked][ex-stck]
          
-### Pagoda in a square
+## Pagoda in a square
 The units can be placed all facing in the same direction, or alternating.    
 ![pg in square][pg-sqre]       
 * [square][ex-sqre]
 
-### Building Pagoda's
+## Building Pagoda's
 Bigger pagoda's can be build much in the same way as building bigger [_fish_][fish-page].            
 The coloured dots indicate what goes where when translating the working scheme into a matrix. The black lines indicate one unit, the grey lines show where the other units connect.         
 ![building pagoda's][build pagoda]
