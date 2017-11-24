@@ -1,6 +1,6 @@
 # Bias Grounds
 
-### Contents
+## Contents
 * [Introduction](#introduction)
 * [Traditional Bias Ground](#traditional-bias-ground)
 * [Bias Ground crossed rose style](#bias-ground-crossed-rose-style)
@@ -10,7 +10,7 @@
 * [Bias Ground crossed and in a square](#bias-ground-crossed-and-in-a-square)
 
 
-### Introduction
+## Introduction
 {% capture bias1 %}
 The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagram on the right. In this article we show different grounds based on this diagonal.</p><p>Other nice grounds can be obtained by using one unit only. See <a href="https://maetempels.github.io/MAE-gf/docs/fancy#short-bias"><i>Fancy examples</i></a>.<br> 
 Better names for the examples will follow.
@@ -21,27 +21,27 @@ Better names for the examples will follow.
   description=bias1
 %}
 
-### Traditional Bias Ground
+## Traditional Bias Ground
 ![traditional][P-0221-tr]
 * [traditional][G-0221-tr], [cloth stitch][G-0228OD]
 
-###  Bias Ground crossed rose style
+##  Bias Ground crossed rose style
 ![crossed][P-0221-at]
 * [WI D6][wi-D6], [WI F4][wi-F4], [Star][G-0278-KG]
 
-### Bias Ground crossed differently
+## Bias Ground crossed differently
 ![alt crossed][P-0221-aa]
 * [WI E6][wi-E6]
 
-### Bias Ground with a diagonal in between
+## Bias Ground with a diagonal in between
 ![row between][P-0221-vg] ![bias in square][P-bias-sq]
 * [example][G-0221-vg], [in a square][G-bs-sq]
 
-### Bias Ground crossed and a diagonal in between   
+## Bias Ground crossed and a diagonal in between   
 ![row & crossed][P-0221-av]
 * [example][G-0221-av]
 
-### Bias Ground crossed and in a square
+## Bias Ground crossed and in a square
 ![bias crossed & square][P-bias-xq]
 * [example][G-bs-xq]
 
