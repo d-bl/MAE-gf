@@ -5,6 +5,7 @@ contact: true
 # About us & Contact
 ## Contents
 * [M.A.E. Tempels](#mae-tempels)
+* [Jo Pol](#jo-pol)
 * [Write us](#write-us)
 
 ## M.A.E. Tempels
