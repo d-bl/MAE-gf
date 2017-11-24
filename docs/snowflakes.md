@@ -9,7 +9,8 @@
 * [Snowflakes diagonal](#snowflakes-diagonal)
 
 ## Introduction
-On this page several snowflake-grounds are collected. 
+On this page several snowflake-grounds are collected.   
+Please see the discussion on the [_Tips, Tricks & Notes_][page-tips] page about the difference between spiders and snowflakes.
 
 ## Binche Snowflake
 Picture to follow. For the Binche spiders see [_Spiders_][page-spiders] page. 
@@ -37,6 +38,7 @@ The little snowflake can also be put into a square. However, we have not been ab
 
 [page-spiders]: https://maetempels.github.io/MAE-gf/docs/spiders#binche-spiders
 [page-maths-tb]: https://maetempels.github.io/MAE-gf/docs/maths#to-big-matrix
+[page-tips]: https://maetempels.github.io/MAE-gf/docs/tricks#ground-names
 
 [pic-fusion]: https:/maetempels.github.io/MAE-gf/images_wt/gf-fusion.png
 [pic-0306-OIv]: https:/maetempels.github.io/MAE-gf/images_wt/gf%200301%20wt.png
