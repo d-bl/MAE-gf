@@ -1,6 +1,6 @@
 # Snowflakes
 
-### Contents
+## Contents
 * [Introduction](#introduction)
 * [Binche snowflake](#binche-snowflake)
 * [Little snowflake](#little-snowflake)
@@ -8,28 +8,28 @@
 * [Snowflake in a square](#snowflake-in-a-square)
 * [Snowflakes diagonal](#snowflakes-diagonal)
 
-### Introduction
+## Introduction
 On this page several snowflake-grounds are collected. 
 
-### Binche Snowflake
+## Binche Snowflake
 Picture to follow. For the Binche spiders see [_Spiders_][page-spiders] page. 
 * [binche snowflake][ex-sn-bin]
 
-### Little Snowflake
+## Little Snowflake
 ![little snowflake][pic-sn-oo]
 * [example][ex-0300]
 
-### Little Snowflake, crossed
+## Little Snowflake, crossed
 ![little snowflake crossed][pic-sn-cr]
 * [example][ex-0342]
 
-### Snowflake in a square
+## Snowflake in a square
 The little snowflake can also be put into a square. However, we have not been able (yet) to discover a working matrix-scheme for the crossed snowflake on the right. There is a matrix-scheme, but this is to big. See the article on the [_Maths_][page-maths-tb] page.     
 
 ![snowflake squared][pic-sn-squ]   
 * [left][ex-0306], right 
 
-### Snowflakes diagonal
+## Snowflakes diagonal
 ![diagonal snowflakes][pic-sn-dia]
 * [example][ex-sn-dia]
 
