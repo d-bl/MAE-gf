@@ -1,6 +1,6 @@
 # Marian's patterns
 
-### Contents
+## Contents
 * [Introduction](#introduction)
 * [Sunny stitch](#sunny-stitch)
 * [Ants](#ants)
@@ -9,10 +9,10 @@
 
 &copy; M. Tempels
 
-### Introduction
+## Introduction
 In this article some of my own designs and finds. Most grounds I found before I learned of Groundforge. Of course, some of them might also have been created by others.
 
-### Sunny stitch
+## Sunny stitch
 {% capture maet1 %}
 This stitch I created because I wished to see a little loop at the sides of the rose ground. To obtain this, I used a very onorthodox stitch. The colour grey indicates <span class="stch">cross only</span>.   
 {% endcapture %}
@@ -24,21 +24,21 @@ This stitch I created because I wished to see a little loop at the sides of the 
    
 * [sunny stitch in plaits][G-0902-f], [sunny stitch in square][G-0902-q]
 
-### Ants
+## Ants
 Ants came to life as a variation of the Slavic ground. The result looks like ants, see example 2. In effect, the threads between the bottom and top position of two units will be <span class="stch">crossed</span> four times. Please note that there are no twists between the <span class="stch">cross only</span> and <span class="stch">whole stitch</span> at the pins.            
 
 ![ants-foto][foto-0692] ![ants][pic-0692]            
 
 * [ant 1][ex-0692], [ant 2][ex-0665], [3 paired crossed star][ex-3cc]        
 
-### Another fish
+## Another fish
 The following pattern I created one quarter turned, so you had to work "upwards" from one square to another. As Groundforge does not support going upwards, I used the diagram given in the picture and in the examples.
 
 ![Another fish][pic-mine2]
 
 * [Another fish][ex-funny-fish], [original ground][ex-mine2] (after turning one quarter)
 
-### Bias and Paris ground
+## Bias and Paris ground
 As the pattern above, this pattern also was created one quarter turned.
 
 ![Bias and Paris][pic-mine1]
