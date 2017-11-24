@@ -1,13 +1,13 @@
 # Tips, Tricks & Other notes
 
-### Contents
+## Contents
 * [Ground names](#ground-names)
 * [Stitches](#stitches)
 * [Diagrams](#diagrams)
 * [Tiling](#tiling)
 * [Footsides](#footsides)
 
-### Ground names
+## Ground names
 {% capture names1 %}
 Unfortunately grounds do not have one unique name. Not even in one language. Also, the same name is used for different grounds. To make naming even more difficult, Groundforge does not make a difference in Torchon or Flemish grounds.<br>       
 Example: The picture shows the working-scheme's of one unit of <i>Slavic rose ground</i> and one unit of <i>Fond au cinq trous</i>. Groundforge gives the same <a href="https://d-bl.github.io/GroundForge/index.html?m=5831%20-4-7%3Bbricks%3B16%3B16%3B0%3B0&s1=ct%20A1%3Dctct%20C1%3Dctct">result</a>.
@@ -28,7 +28,7 @@ and the figure on the right a <a href="https://d-bl.github.io/GroundForge/index.
   description=names2
 %}
 
-### Stitches
+## Stitches
 {% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-kleurtjes.png"
   alt="colours"
@@ -57,7 +57,7 @@ Suppose, we wish to work on the example on the right. The whole stitch & twist i
 Groundforge accepts only stitch-instructions with at least one cross, so the stitch <span class="stch">do nothing</span> is not supported by Groundforge.          
 The instruction <span class="stch">A1=t</span> will be translated into <span class="stch">A1=ct</span>.               
 
-### Diagrams
+## Diagrams
 {% include picts-centr.html
      alt="several types of drawings"
      src="https://maetempels.github.io/MAE-gf/images/gf%20picts.png"
@@ -70,12 +70,12 @@ The example is a variation on a 's Gravenmoers snowflake ground. See [here][ex-0
 
 The pictures in this wiki are mostly made with Knipling (TM).
 
-### Tiling
+## Tiling
 Most examples use the <span class="elem">brick</span> parameter setting, drawn as a blue rectangle when shown, since it's less ID's to specify. Some scheme's do not have a working brick diagram, so, of course, a <span class="elem">checkers</span> parameter is used, drawn as a red rectangle when shown.           
 
 Please note, that the ID's needed for the stitches shift somehow. <span class="elem">A1</span> is not in the upperleft corner of the shown units in the examples.
 
-### Footsides
+## Footsides
 The examples provided focus on just elements of the grounds. No attention is paid to footsides. This may sometimes lead to tilted figures.
 
 ***
