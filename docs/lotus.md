@@ -1,23 +1,23 @@
 # Milanese Lotus
 
-### Contents
+## Contents
 * [Introduction](#introduction)
 * [Lotus notation](#lotus-notation)
 * [Lotus examples](#lotus-examples)
 * [Lotus building](#lotus-building)
 
-### Introduction
+## Introduction
 <img alt="lotus pair dia" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf%20lotus%20wt.png">
 Lotus grounds are usualy used in small braids, 14-18 pairs.
 
-### Lotus notation
+## Lotus notation
 Lotus H,V,X means: the number of Horizontal rows, the number of Verticals and the number of rows in between. See the picture. 
 
-### Lotus examples
+## Lotus examples
 * [Lotus H2,V2,X-][L22-], [Lotus H2,V2,X0][L220]   
 * [Lotus H5,V2,X0][L520]   
 
-### Lotus building
+## Lotus building
 The general Lotus scheme looks like the scheme in the picture. Of course, other scheme's are possible.      
 Building bigger lotus is similair to the building of bigger fish, as illustrated on the [_Fish_][fish-page] page.
 
