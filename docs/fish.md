@@ -1,12 +1,12 @@
 # Milanese Fish
 
-### Contents
+## Contents
 * [Introduction](#introduction)
 * [Fish notation](#fish-notation)
 * [Fish examples](#fish-examples)
 * [Fish building](#fish-building)
 
-### Introduction
+## Introduction
 Fish grounds are usualy used in small braids. Milanese braids typically need 14-18 pairs of bobbins.    
 The grounds consists of a number of rows with two or more cloth stitches followed with some twists in the weaver. Fish starts and closes with a cloth stitch. In between the fish-rows, zero, one ore more rows with e.g. half stitch, pin, half stitch are made. The number of these rows define whether the fish will be in straight vertical lines, or in alternating positions.        
 If the tail is made with pairs not from the same fish, the ground is called [_Lotus_][lotus-page].    
@@ -18,11 +18,11 @@ If the tail is made with pairs not from the same fish, the ground is called [_Lo
 
 Broader fish can be made, e.g. with four cloth stitches. In some Milanese grounds, the heads and tails are made as a cloth stitch with pairs. Groundforge does not support this. Making the head and tail as a half spider is supported. In Groundforge these fish can be obtained using the second or even third level diagram. (example follows)
 
-### Fish notation
+## Fish notation
 Lets call the horizontal rows the _bones_, the vertical lines the _spines_, and the in between rows the _waves_.
 Fish B,S,W means: the number of Bones, the number of Spines and the number of Waves. There are two ways of zero waves, noted with "0" and "-" respectively. See the picture at the top of this article.
 
-### Fish examples
+## Fish examples
 * WI E14   
 * [Fish B1,S2,W-][F12-]   
 * [Fish B2,S2,W-][F22-] , [Fish B2,S2,W0][F220] (WI G14), [Fish B2,S2,W2][F222] (WI G16)     
@@ -30,7 +30,7 @@ Fish B,S,W means: the number of Bones, the number of Spines and the number of Wa
 * [Fish B4,S2,W-][F42-] (WI D16), [Fish B4,S2,W1][F421] (WI E16), [Fish B4,S2,W2][F422] (WI F16)      
 * [Fish B5,S2,W-][F52-]    
 
-### Fish building.
+## Fish building.
 The general fish scheme looks like the schemes in the picture. Of course, other scheme's are possible. Please note that an even or odd number of "waves" dictate if a <span class="elem">brick-matrix</span> is possible.      
 
 ![fish generator][fish-gen]    
