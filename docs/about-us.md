@@ -3,11 +3,11 @@ layout: default
 contact: true
 ---
 # About us & Contact
-### Contents
+## Contents
 * [M.A.E. Tempels](#mae-tempels)
-* [Contact](#contact)
+* [Write us](#write-us)
 
-### M.A.E. Tempels
+## M.A.E. Tempels
 {% include picts-centr.html alt="fish pair dia" src="https://maetempels.github.io/MAE-gf/photos/IMG_0997c.jpg" %}
 
 Living in the Netherlands.        
@@ -18,7 +18,7 @@ Inspired by "Hollandsche kant" I started to experiment with the rose-ground, usi
 
 I studied Mathematics at Technical University Eindhoven and work as database-designer.    
 
-### Contact
+## Write us
 <script>send("egrofdnuorg eamoj")</script> We can read Dutch, English, German.
 
 ***
