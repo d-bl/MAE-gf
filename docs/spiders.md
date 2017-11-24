@@ -1,6 +1,6 @@
 # Spiders
 
-### Contents
+## Contents
 * [Introduction](#introduction)
 * [Torchon spiders](#torchon-spiders)
 * [Stacked spiders](#stacked-spiders)
@@ -10,11 +10,11 @@
 * [Binche spiders](#binche-spiders)
 * [Building Spiders](#building-spiders) 
      
-### Introduction
+## Introduction
 On this page we show examples of matrices for grounds with all spiders.           
 Some of the spiders in these examples have only one twist in their legs.
 
-### Torchon spiders
+## Torchon spiders
 {% capture spin1 %}
 Please note: for a traditional Torchon spider, a stitch like <span class="stch">ctcctc</span> or <span class="stch">ctctctc</span> has to be chosen in the heart of the spider.
 {% endcapture %}
@@ -26,10 +26,10 @@ Please note: for a traditional Torchon spider, a stitch like <span class="stch">
 
 * [4x2 legs][st2] (WI F2), [4x3 legs][st3] (WI E4), [4x4 legs][st4], [4x5 legs][st5]
 
-### Stacked spiders
+## Stacked spiders
 [Another][sa1] ground can be obtained using the corresponding <span class="elem">checkers-matrix</span>, but set the tiling parameter to <span class="elem">brick</span>.
     
-### Spiders with an eye
+## Spiders with an eye
 {% capture spin2 %}
 Please note: to get a clear eye in the middle, the stitches in the eye of the spider have to be chosen like the example for the 4x3 legged spider: <span class="stch">A5=ctclctc E5=ctcrctc</span>.
 {% endcapture %}
@@ -41,7 +41,7 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 
 * [4x2 legs][sh2], [4x3 legs][sh3], [4x4 legs][sh4]
  
-### Spiders in a square
+## Spiders in a square
 {% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf%20spin%204s%20wt.png"
   alt="spider in square"
@@ -50,23 +50,23 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 
 * [4x2 legs][sq2], [4x3 legs][sq3] (WI H2), [4x4 legs][sq4] (WI G2), [4x5 legs][sq5]
        
-### Spiders with an eye in a square 
+## Spiders with an eye in a square 
 * [4x3 legs][shq3], [4x4 legs][shq4]
 
-### Binche spiders 
+## Binche spiders 
 See also page [_Snowflakes_][snow-page].            
 
-**"Bolletje"**     
+### "Bolletje"  
 
 ![binche spider][pic-bi-boll]                
 * [binche spider][wi-g04] (WI G4)
 
-**Traditional spider, on a Binche pricking**        
+### Traditional spider, on a Binche pricking  
 
 ![binche small spider][pic-bi-spin]                     
 * [traditional spider, binche style][wi-e02] (WI E2)
 
-### Building Spiders
+## Building Spiders
 Adding legs to a spider is the equivalent of adding a ring to it. So, after discovering the matrix for a 4x3 legged spider, a 4x4 or bigger spider is easy. In fact, a formula can be made, see the [_Math_][math-page] page.    
 For the complete scheme's we chose to connect the spiders diagonaly. Of course, connecting with a horizontal line will also work. For the spiders in a square, the connection between spider and square has to be horizontal.   
 
