@@ -41,7 +41,8 @@ It works in both directions. Slowly I acquired the skills to grow the exercises 
 I'm happy to share the results with you.
 
 ## Write us
-<script>send("egrofdnuorg eamoj")</script> We can read Dutch, English, German.
+If you have suggestions, questions, want to share your own finds, or other remarks: please let us know. We can read Dutch, English, German.
+<script>send("egrofdnuorg eamoj")</script> 
 
 ***
 
