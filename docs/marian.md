@@ -71,7 +71,7 @@ As the pattern above, this pattern also was created one quarter turned.
 
 [ex-3cc]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B24%3B0%3B0&s1=c%20A1%3Dctct%20C1%3Dtctc%20D1%3Dcc%20B1%3Dcc
 
-[ex-funny-fish]: https://d-bl.github.io/GroundForge/index.html?m=8325%0A6-76%0A1563%0A224-%3Bchecker%3B24%3B24%3B0%3B0&s1=ctc%20C1%3Dtctc%20C3%3Dtctc%20A1%3Dctct%20A3%3Dctct%20B2%3Drctcl%20D4%3Dlctcr
+[ex-funny-fish]: https://d-bl.github.io/GroundForge/index.html?m=8325%0A6-76%0A1563%0A224-%3Bchecker%3B24%3B24%3B0%3B0&s1=ctc%20C1%3Dtctc%20C3%3Dtctc%20A1%3Dctct%20A3%3Dctct%20B2%3Drcl%20D4%3Dlcr
 
 [ex-mine2]: https://d-bl.github.io/GroundForge/index.html?m=8325%0A6-76%0A1563%0A224-%3Bchecker%3B24%3B24%3B0%3B0&s1=ct%20B3%3Dctct%20A4%3Dctct%20C4%3Dctct%20B1%3Dctct%20D1%3Dctct%20C2%3Dctct%20A2%3Dctct%20D3%3Dctct
 
