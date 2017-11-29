@@ -8,13 +8,14 @@
 * [Another fish](#another-fish)
 * [Bias and Paris ground](#bias-and-paris-ground)
 * [Short bias](#short-bias)
+* [Double bias](#double-bias)
 
 &copy; M. Tempels
 
 ## Introduction
 In this article some of my own designs and finds. Most grounds I found before I learned of Groundforge. Of course, some of them might also have been created by others.   
-With most grounds I name the units with an addition to indicate the placing of the units in the ground. Some units are used in more than one example, so also the name will show up more than once.   
-The colour grey indicates <span class="stch">cross only</span>.
+For most grounds I only use names for the units with an addition to indicate the placing of the units in the ground. E.g. in plaits, in a square, traditional, ... Some units are used in more than one example, with different placings, so naturally those names show up more than once.   
+The colour grey in the working diagrams indicates <span class="stch">cross only</span>.
 
 ## Fusion
 {% include picts-right.html
@@ -70,6 +71,14 @@ Take just one unit of the Bias ground and place them all in the same direction (
 ![same direction][pic-0228-OG] ![alternating][pic-0228-OGy] ![short bias foto][foto-0228-OGy] 
 * [mt-0228-s][G-0228-OG], [mt-0228-a][G-0228-OGy]
 
+## Double Bias
+{% include picts-right.html
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf-wt-07.png"
+  alt="pic 07 3x"
+  description="The pictures on the left show three different units. The one on the left is one unit of ground [WI F4]. The matrix for this ground turned out to be equivalent to the bias-ground. Experimenting with stitches, I created the units in the middle and the right. The matrix of the ground in the middle turned out to be equivalent to the little snowflake. The one on the right proved to be a real surprise! See the example. (The units are placed like the white tiles on a checker board.)"
+%}  
+
+* [mt-0775][G-0775]
 
 ***
 
@@ -117,3 +126,4 @@ Take just one unit of the Bias ground and place them all in the same direction (
 
 [G-0228-OGy]: https://d-bl.github.io/GroundForge/index.html?m=15-2%0A7-5-%0A-586%0A5-4-%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20A3%3Dtct%20C1%3Dtct
 
+[G-0775]: https://d-bl.github.io/GroundForge/index.html?m=83A4%0A48--%0A48D-%0A-48-%0A%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20A4%3Dctcl%20A2%3Drctc%20C3%3Dtctct
