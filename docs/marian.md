@@ -23,8 +23,8 @@ In this article some of my own designs and finds. Most grounds I found before I 
 
 * [rose: mt-0116][G-0116-KF], [snowflake: mt-0342][G-0342-KF] (UU 3054), [bias-star: mt-0278][G-0278-KF]
 
-{% include pict-right.html
-  src="https://maetempels.github.io/MAE-gf/images_wt/gf-wt-0342-KF.pn"
+{% include picts-right.html
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf-wt-0342-KF.png"
   alt="pic 0342"
   description="Ground mt-0342 is meant to be made with pins at the sides of the snowflake-unit, as shown in the picture. The unit resembles [UU 3054], without the side pins, en without crossing at the corners."
 %}  
