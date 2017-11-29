@@ -12,26 +12,27 @@
 &copy; M. Tempels
 
 ## Introduction
-In this article some of my own designs and finds. Most grounds I found before I learned of Groundforge. Of course, some of them might also have been created by others.
+In this article some of my own designs and finds. Most grounds I found before I learned of Groundforge. Of course, some of them might also have been created by others.   
+Most grounds I name the units with an addition to the placing of the units in the ground. Some units are used in more than one example, so also the name.
 
 ## Fusion
 {% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-fusion.png"
   alt="pic fusion"
-  description="The traditional units separated with plaits. Please note: the plaits should stay plaits."
+  description="The traditional units separated with plaits. Ground mt-0116 uses the rose-ground unit; mt-0342 uses the snowflake-unit;  mt-0278 the bias-unit. Please note: the plaits should stay plaits."
 %}
 
-* [rose: mt-0116][G-0116-KF], [snowflake: mt-0342][G-0342-KF] (UU 3054), [bias-star: mt-0278][G-0278-KF]
+* [mt-0116][G-0116-KF], [mt-0342][G-0342-KF] (UU 3054), [mt-0278][G-0278-KF]
 
 {% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-wt-0342-KF.png"
   alt="pic 0342"
-  description="Ground mt-0342 is meant to be made with pins at the sides of the snowflake-unit, as shown in the picture. The unit resembles [UU 3054], without the side pins, en without crossing at the corners."
+  description="Ground mt-0342 is meant to be made with pins at the sides of the snowflake-unit, as shown in the picture. The unit resembles [UU 3054], without the side pins, en without crossing at the corners. The ground came into being as a half stitch spider, but forgetting the twitst at te start and end."
 %}  
 
 ## Sunny stitch
 {% capture maet1 %}
-This stitch I created because I wished to see a little loop at the sides of the rose ground. To obtain this, I used a very onorthodox stitch. The colour grey indicates <span class="stch">cross only</span>.   
+This stitch I created because I wished to see a little loop at the sides of the rose ground. To obtain this, I used a very onorthodox stitch. The colour grey indicates <span class="stch">cross only</span>. Ground mt-0902-f connects the sunny's with plaits; ground mt-0902-q is the same unit, in a square.
 {% endcapture %}
 {% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-0902-wt.png"
@@ -39,7 +40,7 @@ This stitch I created because I wished to see a little loop at the sides of the 
   description=maet1
 %}
    
-* [sunny stitch in plaits: mt-0902][G-0902-f], [sunny stitch in square: mt-0902][G-0902-q]
+* [mt-0902-f][G-0902-f], [mt-0902-q][G-0902-q]
 
 ## Ants
 Ants came to life as a variation of the Slavic ground. The result looks like ants, see example 2. In effect, the threads between the bottom and top position of two units will be <span class="stch">crossed</span> four times. Please note that there are no twists between the <span class="stch">cross only</span> and <span class="stch">whole stitch</span> at the pins.            
@@ -63,10 +64,10 @@ As the pattern above, this pattern also was created one quarter turned.
 * [example][ex-mine1]
 
 ## Short Bias
-Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter may give nice results in two colours.
+Take just one unit of the Bias ground and place them all in the same direction (mt-0228-s), or in alternating directions (mt-0228-a). The latter may give nice results in two colours.
 
 ![same direction][pic-0228-OG] ![alternating][pic-0228-OGy] ![short bias foto][foto-0228-OGy] 
-* [same direction: mt-0228][G-0228-OG], [alternating directions: mt-0228][G-0228-OGy]
+* [mt-0228-s][G-0228-OG], [mt-0228-a][G-0228-OGy]
 
 
 ***
