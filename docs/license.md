@@ -1,3 +1,7 @@
+---
+layout: default
+contact: true
+---
 # Copyright, license, references
 
 ## Contents
