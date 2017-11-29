@@ -18,7 +18,7 @@ Groundforge uses scheme's (matrices) as input-parameter. Some of those are disco
 
 Some new grounds use traditional prickings. E.g.: the "ants" are made on the rose-ground pricking.
 
-<script>send mail("egrofdnuorg eamoj")</script>    
+<script>send("egrofdnuorg eamoj")</script>    
 
 &copy; J. Pol
 &copy; M. Tempels
