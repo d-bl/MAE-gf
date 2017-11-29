@@ -1,29 +1,35 @@
-<h2>kopregeltjes</h2>
+# Copyright, license, references
 
-{% include formule.html
-formule="we willen een formule tonen, op een <br> witte achtergrond <br> in lettertype courier"
-%}
+## Contents
+* [Introduction](#introduction)
+* [Copyright](#copyright)
+* [License](#license)
+* [References](#references)
 
-{% capture test1 %}
-Example: The picture shows the working-scheme's of one unit of <i>Slavic rose ground</i> and one unit of <i>Fond au cinq trous</i>. Groundforge gives the same <a href="https://d-bl.github.io/GroundForge/index.html?m=5831%20-4-7%3Bbricks%3B16%3B16%3B0%3B0&s1=ct%20A1%3Dctct%20C1%3Dctct">result.</a>
-{% endcapture %}
+## Introduction
+On these pages you will find many examples of grounds. Some examples are traditional. Others are our own finds. It is of course possible, that someone else has discovered the same ground.    
+If you, or someone you know, has been identified as creator of one or more of the grounds used: please let us know.
 
-{% include picts-right.html
-  src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png"
-  alt="doe maar iets"
-  description=test1
-  %}
-  
-hier wat extra tekst tussen zetten.
+Groundforge uses scheme's (matrices) as input-parameter. Some of those are discovered by V. Irvine, and collected in the "Tesselace", others, like the spiders, are created by ourselves.
 
-{% include picts-left.html
-  src="https://maetempels.github.io/MAE-gf/images_wt/gf-kleurtjes.png"
-  description="Please note: traditionally the <span> pagoda-ground </span> uses a weaver which returns round the pin with two twists at the pointy bit. The example looked better "
-%}
+Some new grounds use traditional prickings. E.g.: the "ants" are made on the rose-ground pricking.
 
-en hier wat tekst om te kijken of ie er onder omt
+<script>send mail("egrofdnuorg eamoj")</script>    
 
-lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum lorem ipse sum 
+&copy; J. Pol
+&copy; M. Tempels
 
+## Copyright
+In the examples our own grounds are named prefixed with our initials. You can use the grounds if you mention where you have found the ground. E.g. "ground by J. Pol, found on Groundforge Example Pages".
 
+## License
+will be covered later this year
 
+## References
+JP = J. Pol     
+MT = M. Tempels    
+UU = U. Ulrich: Gründe mit Systeem      
+WI = Whiting Index. See Groundforge Examples pages.      
+VI = V. Irvine: Tesselace. See Groundforge Examples pages.    
+
+***
