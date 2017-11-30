@@ -12,7 +12,7 @@
 
 ## Introduction
 {% capture bias1 %}
-The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagram on the right. In this article we show different grounds based on this diagonal.</p><p>Other nice grounds can be obtained by using one unit only. See <a href="https://maetempels.github.io/MAE-gf/docs/fancy#short-bias"><i>Fancy examples</i></a>.<br> 
+The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagram on the right. In this article we show different grounds based on this diagonal.</p><p>Other nice grounds can be obtained by using one unit only. See <a href="https://maetempels.github.io/MAE-gf/docs/marian#short-bias"><i>Marian's grounds</i></a>.<br> 
 Better names for the examples will follow.
 {% endcapture %}
 {% include picts-right.html
