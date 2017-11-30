@@ -67,7 +67,7 @@ The instruction <span class="stch">A1=t</span> will be translated into <span cla
 On these pages several types of diagrams are used, as illustrated in the picture. On the left is a drawing of a _pair-diagram_ or _working-scheme_. Pins, pinpositions and colourcode are given as needed for the actual lace. In the middle the ground is drawn schematic, to given an impression. Pins and colourcode may or may not be drawn. The pinpositions are drawn as required for the actual lace. On the right the _matrix-scheme_ that Groundforge understands. In the articles the name _scheme_ or _diagram_ will be used for all types of the drawings.                     
 Several grounds have more than one working matrix-scheme, as is explained in de Groundforge-userguide.    
 
-The example is a variation on a 's Gravenmoers snowflake ground. See [here][ex-0306] how the thread-diagram looks like.      
+The example is a variation on a 's Gravenmoers snowflake ground. See [mt-0306][ex-0306] how the thread-diagram looks like.      
 
 The pictures in this wiki are mostly made with Knipling (TM).
 
