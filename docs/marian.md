@@ -28,7 +28,7 @@ The colour grey in the working diagrams indicates <span class="stch">cross only<
 {% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-wt-0342-KF.png"
   alt="pic 0342"
-  description="Ground mt-0342 is meant to be made with pins at the sides of the snowflake-unit, as shown in the picture. The ground came into being as a half stitch spider, but forgetting the twitst at the corners. The unit resembles [UU 3054], without the side pins, and without crossing at the corners."
+  description="Ground mt-0342 is meant to be made with pins at the sides of the snowflake-unit, as shown in the picture. The ground came into being as a half stitch spider, but forgetting the twitst at the corners. The unit resembles [UU 3054], which has no side pins, and does not cross at the corners."
 %}  
 
 ## Sunny stitch
