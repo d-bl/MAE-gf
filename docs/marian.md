@@ -7,7 +7,6 @@
 * [Ants](#ants)
 * [Another fish](#another-fish)
 * [Bias and Paris ground](#bias-and-paris-ground)
-* [Short bias](#short-bias)
 * [Double bias](#double-bias)
 
 &copy; M. Tempels
@@ -65,12 +64,6 @@ As the pattern above, this pattern also was created one quarter turned.
 
 * [example][ex-mine1]
 
-## Short Bias
-Take just one unit of the Bias ground and place them all in the same direction (mt-0228-s), or in alternating directions (mt-0228-a). The latter may give nice results in two colours.
-
-![same direction][pic-0228-OG] ![alternating][pic-0228-OGy] ![short bias foto][foto-0228-OGy] 
-* [mt-0228-s][G-0228-OG], [mt-0228-a][G-0228-OGy]
-
 ## Double Bias
 {% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-wt-07.png"
@@ -83,7 +76,6 @@ Take just one unit of the Bias ground and place them all in the same direction (
 ***
 
 [foto-0692]: https://maetempels.github.io/MAE-gf/photos/gf-0692-foto.jpg
-[foto-0228-OGy]: https://maetempels.github.io/MAE-gf/photos/gf-0228-foto.jpg
 
 [pic-ll]: https://maetempels.github.io/MAE-gf/images_wt/lacelintje.png
 [pic-0902]: https://maetempels.github.io/MAE-gf/images_wt/gf-0902-wt.png
@@ -94,9 +86,6 @@ Take just one unit of the Bias ground and place them all in the same direction (
 [pic-mine2]: https://maetempels.github.io/MAE-gf/images_wt/gf-mine2.png
 
 [LLLL]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B5%3B0%3B0&s1=ctct%20D1%3Dctctctct%20B1%3Dctctctct
-
-[pic-0228-OG]: https://maetempels.github.io/MAE-gf/images_wt/gf%200228-OG.png
-[pic-0228-OGy]: https://maetempels.github.io/MAE-gf/images_wt/gf%200228%20OGy.png
 
 [pic-0342-KF]: https://maetempels.github.io/MAE-gf/images_wt/gf-wt-0342-KF.png
 
@@ -122,8 +111,5 @@ Take just one unit of the Bias ground and place them all in the same direction (
 
 [G-0342-KF]: https://d-bl.github.io/GroundForge/index.html?m=--B-C---%0A-E-5-O-K%0A5-----5-%0A-------5%3Bbricks%3B24%3B24%3B0%3B0&s1=ct%20H4%3Dctctctctc%20D4%3Dctctctctc%20B2%3Dctct%20A3%3Dcr%20C3%3Dcl%20B4%3Dc
 
-[G-0228-OG]: https://d-bl.github.io/GroundForge/index.html?m=86-5%0A4-5-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20C1%3Dtct
-
-[G-0228-OGy]: https://d-bl.github.io/GroundForge/index.html?m=15-2%0A7-5-%0A-586%0A5-4-%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20A3%3Dtct%20C1%3Dtct
-
 [G-0775]: https://d-bl.github.io/GroundForge/index.html?m=83A4%0A48--%0A48D-%0A-48-%0A%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20A4%3Dctcl%20A2%3Drctc%20C3%3Dtctct
+
