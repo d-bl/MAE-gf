@@ -8,11 +8,12 @@
 * [Bias Ground with a diagonal in between](#bias-ground-with-a-diagonal-in-between)
 * [Bias Ground crossed and a diagonal in between](#bias-ground-crossed-and-a-diagonal-in-between)
 * [Bias Ground crossed and in a square](#bias-ground-crossed-and-in-a-square)
+* [Short bias](#short-bias)
 
 
 ## Introduction
 {% capture bias1 %}
-The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagram on the right. In this article we show different grounds based on this diagonal.</p><p>Other nice grounds can be obtained by using one unit only. See <a href="https://maetempels.github.io/MAE-gf/docs/marian#short-bias"><i>Marian's grounds</i></a>.<br> 
+The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagram on the right. In this article we show different grounds based on this diagonal.</p><p>Other nice grounds can be obtained by using one unit only.<br> 
 Better names for the examples will follow.
 {% endcapture %}
 {% include picts-right.html
@@ -45,9 +46,15 @@ Better names for the examples will follow.
 ![bias crossed & square][P-bias-xq]
 * [example][G-bs-xq]
 
+## Short Bias
+Take just one unit of the Bias ground and place them all in the same direction (mt-0228-s), or in alternating directions (mt-0228-a). The latter may give nice results in two colours.
+
+![same direction][pic-0228-OG] ![alternating][pic-0228-OGy] ![short bias foto][foto-0228-OGy] 
+* [mt-0228-s][G-0228-OG], [mt-0228-a][G-0228-OGy]
+
 ***
 
-[fancy-sb]: https://maetempels.github.io/MAE-gf/docs/fancy#short-bias
+[foto-0228-OGy]: https://maetempels.github.io/MAE-gf/photos/gf-0228-foto.jpg
 
 [p-0221-wt]: https://maetempels.github.io/MAE-gf/images_wt/gf%200221%20wt.png
 [P-0221-tr]: https://maetempels.github.io/MAE-gf/images_wt/gf-bias-tr.png
@@ -58,6 +65,8 @@ Better names for the examples will follow.
 [P-bias-sq]: https://maetempels.github.io/MAE-gf/images_wt/gf-bias-in-sqr.png
 [P-bias-xq]: https://maetempels.github.io/MAE-gf/images_wt/gf-bias-x-in-sqr.png
 
+[pic-0228-OG]: https://maetempels.github.io/MAE-gf/images_wt/gf%200228-OG.png
+[pic-0228-OGy]: https://maetempels.github.io/MAE-gf/images_wt/gf%200228%20OGy.png
 
 [wi-D6]: https://d-bl.github.io/GroundForge/index.html?m=8-48%0A8314%3Bbricks%3B16%3B16%3B0%3B0&s1=ct%20D2%3Dctct%20A1%3Dctct%20C1%3Dctct%20B2%3Dctct
 [wi-F4]: https://d-bl.github.io/GroundForge/index.html?m=1483%208-48%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20A2%3Dctcllctc%20C2%3Dctcrrctc
@@ -77,5 +86,8 @@ Better names for the examples will follow.
 
 [G-bs-xq]: https://d-bl.github.io/GroundForge/index.html?m=-21486%0A317-48%0A88-5-4%3Bbricks%3B24%3B24%3B0%3B0&s1=ctct%20B3%3Dct%20D3%3Dct%20D2%3Dct%20B2%3Dct%20C1%3Dct
 
+[G-0228-OG]: https://d-bl.github.io/GroundForge/index.html?m=86-5%0A4-5-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20C1%3Dtct
+
+[G-0228-OGy]: https://d-bl.github.io/GroundForge/index.html?m=15-2%0A7-5-%0A-586%0A5-4-%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20A3%3Dtct%20C1%3Dtct
 
 
