@@ -7,6 +7,7 @@
 * [Bias Ground crossed differently](#bias-ground-crossed-differently)
 * [Bias Ground with a diagonal in between](#bias-ground-with-a-diagonal-in-between)
 * [Bias Ground crossed and a diagonal in between](#bias-ground-crossed-and-a-diagonal-in-between)
+* [Unit bias in a square](#unit-bias-in-a-square)
 * [Bias Ground crossed and in a square](#bias-ground-crossed-and-in-a-square)
 * [Short bias](#short-bias)
 
@@ -42,6 +43,10 @@ Better names for the examples will follow.
 ![row & crossed][P-0221-av]
 * [example][G-0221-av]
 
+## Unit bias in a square
+![short bias in square][pic-uni-bsq]
+* [Example][g-uni-sbq]
+
 ## Bias Ground crossed and in a square
 ![bias crossed & square][P-bias-xq]
 * [example][G-bs-xq]
@@ -67,6 +72,7 @@ Take just one unit of the Bias ground and place them all in the same direction (
 
 [pic-0228-OG]: https://maetempels.github.io/MAE-gf/images_wt/gf%200228-OG.png
 [pic-0228-OGy]: https://maetempels.github.io/MAE-gf/images_wt/gf%200228%20OGy.png
+[pic-uni-bsq]: https://maetempels.github.io/MAE-gf/images_wt/gf-sh-bias-in-sqr.png
 
 [wi-D6]: https://d-bl.github.io/GroundForge/index.html?m=8-48%0A8314%3Bbricks%3B16%3B16%3B0%3B0&s1=ct%20D2%3Dctct%20A1%3Dctct%20C1%3Dctct%20B2%3Dctct
 [wi-F4]: https://d-bl.github.io/GroundForge/index.html?m=1483%208-48%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20A2%3Dctcllctc%20C2%3Dctcrrctc
@@ -89,5 +95,7 @@ Take just one unit of the Bias ground and place them all in the same direction (
 [G-0228-OG]: https://d-bl.github.io/GroundForge/index.html?m=86-5%0A4-5-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20C1%3Dtct
 
 [G-0228-OGy]: https://d-bl.github.io/GroundForge/index.html?m=15-2%0A7-5-%0A-586%0A5-4-%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20A3%3Dtct%20C1%3Dtct
+
+[g-uni-sbq]: https://d-bl.github.io/GroundForge/index.html?m=-5-4-5%0A5-5-5-%0A86-5-5%3Bbricks%3B24%3B24%3B0%3B0&s1=ctct%20C3%3Dctc%20B1%3Dctcl%20C1%3Dctc%20D1%3Dctcr%20C2%3Dctct
 
 
