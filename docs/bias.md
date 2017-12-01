@@ -52,7 +52,7 @@ Better names for the examples will follow.
 * [example][G-bs-xq]
 
 ## Short Bias
-Take just one unit of the Bias ground and place them all in the same direction (mt-0228-s), or in alternating directions (mt-0228-a). The latter may give nice results in two colours.
+Take just one unit of the Bias ground and place them all in the same direction (mt-0228-s), or in alternating directions (mt-0228-a). The latter may give nice results in two colours. The placing of the units in alternating directions is also shown in mrs Irvine's paper (VI). 
 
 ![same direction][pic-0228-OG] ![alternating][pic-0228-OGy] ![short bias foto][foto-0228-OGy] 
 * [mt-0228-s][G-0228-OG], [mt-0228-a][G-0228-OGy]
