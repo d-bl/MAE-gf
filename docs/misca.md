@@ -8,8 +8,8 @@
 * [Snowflakes](#snowflakes-in-a-square)
 * [Spiders](#spiders-in-a-square)
 * [Pagoda's](#pagodas-in-a-square)
-* [Paris ground](#paris-ground-in-a-square)
 * [Unit bias](#unit-bias-in-a-square)
+* [Paris ground](#paris-ground-in-a-square)
 
 **Others**
 * [Alternate stitch ground (om & om)](#alternate-stitch-ground)
@@ -34,13 +34,11 @@ See page [_Spiders_][page-spid].
 ## Pagoda's in a square
 See page [_Pagoda's_][page-tria]. 
 
+## Unit bias in a square
+See page [_Bias grounds_][page-bias].
 ## Paris ground in a square
 ![paris in square][pic-par-sqr]
 * [Example][g-par-sqr1]
-
-## Unit bias in a square
-![short bias in square][pic-uni-bsq]
-* [Example][g-uni-sbq]
 
 ## Alternate stitch ground
 {% capture omenom1 %}
@@ -64,13 +62,13 @@ However, as the tiling-parameter is set to <span class="elem">brick</span> the s
 [page-snow]: https://maetempels.github.io/MAE-gf/docs/snowflakes#snowflake-in-a-square
 [page-spid]: https://maetempels.github.io/MAE-gf/docs/spiders#spiders-in-a-square
 [page-tria]: https://maetempels.github.io/MAE-gf/docs/tria#pagoda-in-a-square
+[page-bias]: https://maetempels.github.io/MAE-gf/docs/bias#unit-bias-in-a-square
 
 [pic-tor-flem]: https://maetempels.github.io/MAE-gf/images_wt/gf-tor-vl.png
 [pic-0306-OIv]: https://maetempels.github.io/MAE-gf/images_wt/gf%200301%20wt.png
 [pic-oeno]: https://maetempels.github.io/MAE-gf/images_wt/gf-oeno-11.png
 [pic-big-paris]:  https://maetempels.github.io/MAE-gf/images_wt/big-rose.png
 [pic-par-sqr]: https://maetempels.github.io/MAE-gf/images_wt/gf-rose-in-sqr.png
-[pic-uni-bsq]: https://maetempels.github.io/MAE-gf/images_wt/gf-sh-bias-in-sqr.png
 
 
 [G-0112]: https://d-bl.github.io/GroundForge/index.html?m=586-21%0A-48317%0A5-4-7-%0A%3Bbricks%3B16%3B16%3B0%3B0&s1=ctctt%20E3%3Dc%20A3%3Dc%20E2%3Dctt%20A2%3Dctt%20A1%3Dctcl%20E1%3Dctcr%20F2%3Dctct%20F3%3Dctct
@@ -89,5 +87,5 @@ However, as the tiling-parameter is set to <span class="elem">brick</span> the s
 
 [g-par-sqr1]: https://d-bl.github.io/GroundForge/index.html?m=C-B-5-5-%0A-5-5-5-5%0A5-5-5-5-%0A-5-5---5%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20D4%3Dtctc%20G1%3Dtctcr%20F2%3Dtctct%20A1%3Dtctcl%20B2%3Dtctct%20A3%3Dctct%20H4%3Dctct%20G3%3Dctct
 
-[g-uni-sbq]: https://d-bl.github.io/GroundForge/index.html?m=-5-4-5%0A5-5-5-%0A86-5-5%3Bbricks%3B24%3B24%3B0%3B0&s1=ctct%20C3%3Dctc%20B1%3Dctcl%20C1%3Dctc%20D1%3Dctcr%20C2%3Dctct
+
 
