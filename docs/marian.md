@@ -51,18 +51,18 @@ Ants came to life as a variation of the Slavic ground. The result looks like ant
 * [mt-0692][ex-0692], [mt-0665][ex-0665], [3 paired crossed star][ex-3cc]        
 
 ## Another fish
-The following pattern I created one quarter turned, so you had to work "upwards" from one square to another. As Groundforge does not support going upwards, I used the diagram given in the picture and in the examples.
+The following patterns I created one quarter turned, so you had to work "upwards" from one square to another. As Groundforge does not support going upwards, I changed this into the diagram given in the picture and in the examples.
 
 ![Another fish][pic-1111]
 
-* [mt-1114][G-1114], [original ground][G-1111] (after turning one quarter)
+* [mt-1114][G-1114], [mt-1111][G-1111] (after turning one quarter)
 
 ## Bias and Paris ground
 As the pattern above, this pattern also was created one quarter turned.
 
 ![Bias and Paris][pic-2111]
 
-* [example][G-2111]
+* [mt-g2111][G-2111]
 
 ## Double Bias
 {% include picts-right.html
