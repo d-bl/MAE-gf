@@ -26,14 +26,14 @@ English is not my native language, so please forgive me any mistakes.
   src="https://maetempels.github.io/MAE-gf/images/pict-double.png"
   alt="some nice ground"
 %}  
-[This ground][my-ground]
+[mt-1211][G-1211]
 
 ***
 
 [gf-main]: https://d-bl.github.io/GroundForge/
 [gf-jo]: https://github.com/jo-pol
 
-[my-ground]: https://d-bl.github.io/GroundForge/index.html?m=88-14-5%0A4-588-1%0A8-14-58%0A-588-14%0A-14-588%0A588-14-%0A14-588-%3Bchecker%3B24%3B24%3B0%3B0&s1=ct%20D7%3Dctct%20G1%3Dctct%20C2%3Dctct%20F3%3Dctct%20B4%3Dctct%20E5%3Dctct%20A6%3Dctct
+[G-1211]: https://d-bl.github.io/GroundForge/index.html?m=88-14-5%0A4-588-1%0A8-14-58%0A-588-14%0A-14-588%0A588-14-%0A14-588-%3Bchecker%3B24%3B24%3B0%3B0&s1=ct%20D7%3Dctct%20G1%3Dctct%20C2%3Dctct%20F3%3Dctct%20B4%3Dctct%20E5%3Dctct%20A6%3Dctct
 
 [aboutus]: https://maetempels.github.io/MAE-gf/docs/about-us#write-us
 
