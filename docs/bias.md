@@ -24,7 +24,7 @@ Better names for the examples will follow.
 %}
 
 ## Traditional Bias Ground
-![traditional][P-0221-tr]
+![traditional][P-0221-tr]      
 Ground mt-0228 is a variant in cloth stitch.
 * [traditional][G-0221-tr], [mt-0228][G-0228OD]
 
