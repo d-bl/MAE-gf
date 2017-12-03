@@ -22,13 +22,13 @@ Picture to follow. For the Binche spiders see [_Spiders_][page-spiders] page.
 
 ## Little Snowflake, crossed
 ![little snowflake crossed][pic-sn-cr]
-* [example][ex-0342]
+* [mt-0342][ex-0342]
 
 ## Snowflake in a square
 The little snowflake can also be put into a square. However, we have not been able (yet) to discover a working matrix-scheme for the crossed snowflake on the right. There is a matrix-scheme, but this is to big. See the article on the [_Maths_][page-maths-tb] page.     
 
 ![snowflake squared][pic-sn-squ]   
-* [left][ex-0306], right 
+* [mt-0306][ex-0306], right 
 
 ## Snowflakes diagonal
 ![diagonal snowflakes][pic-sn-dia]
