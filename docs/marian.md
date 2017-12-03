@@ -8,6 +8,8 @@
 * [Another fish](#another-fish)
 * [Bias and Paris ground](#bias-and-paris-ground)
 * [Double bias](#double-bias)
+* [Roses with vertical](#roses-with-vertical)
+* [Bias with vertical](#bias-with-vertical)
 
 &copy; M. Tempels
 
@@ -73,6 +75,15 @@ As the pattern above, this pattern also was created one quarter turned.
 
 * [mt-0775][G-0775]
 
+## Roses with vertical
+picture to come
+
+* [mt-3115][G-3115]
+
+## Bias with vertical
+picture to come
+* [mt-3238][G-3238]
+
 ***
 
 [foto-0692]: https://maetempels.github.io/MAE-gf/photos/gf-0692-foto.jpg
@@ -113,3 +124,6 @@ As the pattern above, this pattern also was created one quarter turned.
 
 [G-0775]: https://d-bl.github.io/GroundForge/index.html?m=83A4%0A48--%0A48D-%0A-48-%0A%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20A4%3Dctcl%20A2%3Drctc%20C3%3Dtctct
 
+[G-3115]: https://d-bl.github.io/GroundForge/index.html?m=-5--%20%20B-C3%20%207-4-%20%208-15%3Bchecker%3B24%3B24%3B0%3B0&s1=c%20D4%3Dtctctc%20D2%3Dctctct%20C1%3DA1%3Dctc%20B3%3Dtctct
+
+[G-3238]: https://d-bl.github.io/GroundForge/index.html?m=-C-B%20%20--5-%20%20-B8D%20%20--4-%20%20-B-C%20%205---%3Bchecker%3B24%3B24%3B0%3B0&s1=A4%3Dtctc%20C1%3Dctctc%20B1%3DD1%3DC6%3DC2%3DB3%3DD3%3Dctc%20B5%3DD5%3Dttctc
