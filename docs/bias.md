@@ -25,11 +25,12 @@ Better names for the examples will follow.
 
 ## Traditional Bias Ground
 ![traditional][P-0221-tr]
-* [traditional][G-0221-tr], [cloth stitch][G-0228OD]
+Ground mt-0228 is a variant in cloth stitch.
+* [traditional][G-0221-tr], [mt-0228][G-0228OD]
 
 ##  Bias Ground crossed rose style
 ![crossed][P-0221-at]
-* [WI D6][wi-D6], [WI F4][wi-F4], [Star][G-0278-KG]
+* [WI D6][wi-D6], [WI F4][wi-F4], [mt-0278][G-0278-KG]
 
 ## Bias Ground crossed differently
 ![alt crossed][P-0221-aa]
