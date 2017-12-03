@@ -76,12 +76,11 @@ As the pattern above, this pattern also was created one quarter turned.
 * [mt-0775][G-0775]
 
 ## Roses with vertical
-picture to come
-
+![roses with vertical][pic-g31]
 * [mt-3115][G-3115]
 
 ## Bias with vertical
-picture to come
+![bias with vertical][pic-g32]
 * [mt-3238][G-3238]
 
 ***
@@ -95,6 +94,8 @@ picture to come
 
 [pic-2111]: https://maetempels.github.io/MAE-gf/images_wt/gf-mine1.png
 [pic-1111]: https://maetempels.github.io/MAE-gf/images_wt/gf-mine2.png
+[pic-g31]: https://maetempels.github.io/MAE-gf/images_wt/gf-wt-g31.png
+[pic-g32]: https://maetempels.github.io/MAE-gf/images_wt/gf-wt-g32.png
 
 [LLLL]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B5%3B0%3B0&s1=ctct%20D1%3Dctctctct%20B1%3Dctctctct
 
