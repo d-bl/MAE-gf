@@ -53,16 +53,16 @@ Ants came to life as a variation of the Slavic ground. The result looks like ant
 ## Another fish
 The following pattern I created one quarter turned, so you had to work "upwards" from one square to another. As Groundforge does not support going upwards, I used the diagram given in the picture and in the examples.
 
-![Another fish][pic-mine2]
+![Another fish][pic-1111]
 
-* [Another fish][ex-funny-fish], [original ground][ex-mine2] (after turning one quarter)
+* [mt-1114][G-1114], [original ground][G-1111] (after turning one quarter)
 
 ## Bias and Paris ground
 As the pattern above, this pattern also was created one quarter turned.
 
-![Bias and Paris][pic-mine1]
+![Bias and Paris][pic-2111]
 
-* [example][ex-mine1]
+* [example][G-2111]
 
 ## Double Bias
 {% include picts-right.html
@@ -82,8 +82,8 @@ As the pattern above, this pattern also was created one quarter turned.
 [pic-0692]: https://maetempels.github.io/MAE-gf/images_wt/gf-0692.png
 [pic-jp-star]: https://maetempels.github.io/MAE-gf/images_wt/jp-star.jpg
 
-[pic-mine1]: https://maetempels.github.io/MAE-gf/images_wt/gf-mine1.png
-[pic-mine2]: https://maetempels.github.io/MAE-gf/images_wt/gf-mine2.png
+[pic-2111]: https://maetempels.github.io/MAE-gf/images_wt/gf-mine1.png
+[pic-1111]: https://maetempels.github.io/MAE-gf/images_wt/gf-mine2.png
 
 [LLLL]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B5%3B0%3B0&s1=ctct%20D1%3Dctctctct%20B1%3Dctctctct
 
@@ -99,11 +99,11 @@ As the pattern above, this pattern also was created one quarter turned.
 
 [ex-3cc]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B24%3B0%3B0&s1=c%20A1%3Dctct%20C1%3Dtctc%20D1%3Dcc%20B1%3Dcc
 
-[ex-funny-fish]: https://d-bl.github.io/GroundForge/index.html?m=8325%0A6-76%0A1563%0A224-%3Bchecker%3B24%3B24%3B0%3B0&s1=ctc%20C1%3Dtctc%20C3%3Dtctc%20A1%3Dctct%20A3%3Dctct%20B2%3Drcl%20D4%3Dlcr
+[G-1114]: https://d-bl.github.io/GroundForge/index.html?m=8325%0A6-76%0A1563%0A224-%3Bchecker%3B24%3B24%3B0%3B0&s1=ctc%20C1%3Dtctc%20C3%3Dtctc%20A1%3Dctct%20A3%3Dctct%20B2%3Drcl%20D4%3Dlcr
 
-[ex-mine2]: https://d-bl.github.io/GroundForge/index.html?m=8325%0A6-76%0A1563%0A224-%3Bchecker%3B24%3B24%3B0%3B0&s1=ct%20B3%3Dctct%20A4%3Dctct%20C4%3Dctct%20B1%3Dctct%20D1%3Dctct%20C2%3Dctct%20A2%3Dctct%20D3%3Dctct
+[G-1111]: https://d-bl.github.io/GroundForge/index.html?m=8325%0A6-76%0A1563%0A224-%3Bchecker%3B24%3B24%3B0%3B0&s1=ct%20B3%3Dctct%20A4%3Dctct%20C4%3Dctct%20B1%3Dctct%20D1%3Dctct%20C2%3Dctct%20A2%3Dctct%20D3%3Dctct
 
-[ex-mine1]: https://d-bl.github.io/GroundForge/index.html?m=-7-4--%0AB831C-%0A66-225%3Bbricks%3B24%3B24%3B0%3B0&s1=ct%20E3%3Dctct%20D1%3Dctct%20C2%3Dctct%20F1%3Dctct%20A2%3Dctct%20A3%3Dctct%20C3%3Dctct%20B1%3Dctct
+[G-2111]: https://d-bl.github.io/GroundForge/index.html?m=-7-4--%0AB831C-%0A66-225%3Bbricks%3B24%3B24%3B0%3B0&s1=ct%20E3%3Dctct%20D1%3Dctct%20C2%3Dctct%20F1%3Dctct%20A2%3Dctct%20A3%3Dctct%20C3%3Dctct%20B1%3Dctct
 
 [G-0116-KF]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B24%3B0%3B0&s1=D1%3Dctctctctctc%20B1%3Dctctctctctc%20A1%3Dctctc%20D2%3Dctc%20B2%3Dctc%20C1%3Dctctc
 
