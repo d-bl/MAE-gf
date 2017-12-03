@@ -36,6 +36,7 @@ See page [_Pagoda's_][page-tria].
 
 ## Unit bias in a square
 See page [_Bias grounds_][page-bias].
+
 ## Paris ground in a square
 ![paris in square][pic-par-sqr]
 * [Example][g-par-sqr1]
@@ -55,7 +56,7 @@ However, as the tiling-parameter is set to <span class="elem">brick</span> the s
 
 ## Big Paris ground
 ![big paris][pic-big-paris]
-* [Traditional][big-rg1], [another example][big-rg2]
+* [Traditional][big-rg1], [mt-3412][G-3412]
 
 ***
 
@@ -81,7 +82,7 @@ However, as the tiling-parameter is set to <span class="elem">brick</span> the s
 
 [oo-12]: https://d-bl.github.io/GroundForge/index.html?m=888%0A111%0A888%0A111%0A888%0A111%3Bchecker%3B24%3B24%3B0%3B0&s1=ct%20A1%3Dctct%20B2%3Dctct%20C3%3Dctct%20A4%3Dctct%20B5%3Dctct%20C6%3Dctct
 
-[big-rg2]: https://d-bl.github.io/GroundForge/index.html?m=-5---5%0A--C-B-%0A-B-5-C%3Bbricks%3B24%3B24%3B0%3B0&s1=ct%20F1%3Dctc%20E3%3Dc%20A3%3Dc
+[G-3412]: https://d-bl.github.io/GroundForge/index.html?m=-5---5%0A--C-B-%0A-B-5-C%3Bbricks%3B24%3B24%3B0%3B0&s1=ct%20F1%3Dctc%20E3%3Dc%20A3%3Dc
 
 [big-rg1]: https://d-bl.github.io/GroundForge/index.html?m=-5---5%0A--C-B-%0A-B-5-C%3Bbricks%3B24%3B24%3B0%3B0&s1=ctct%20B1%3Dct%20D1%3Dct
 
