@@ -62,7 +62,7 @@ As the pattern above, this pattern also was created one quarter turned.
 
 ![Bias and Paris][pic-2111]
 
-* [mt-g2111][G-2111]
+* [mt-2111][G-2111]
 
 ## Double Bias
 {% include picts-right.html
