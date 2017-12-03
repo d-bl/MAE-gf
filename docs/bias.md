@@ -55,7 +55,7 @@ Better names for the examples will follow.
 Take just one unit of the Bias ground and place them all in the same direction (mt-0228-s), or in alternating directions (mt-0228-a). The latter may give nice results in two colours. The placing of the units in alternating directions is also shown in mrs Irvine's paper (VI). 
 
 ![same direction][pic-0228-OG] ![alternating][pic-0228-OGy] ![short bias foto][foto-0228-OGy] 
-* [mt-0228-s][G-0228-OG], [mt-0228-a][G-0228-OGy]
+* [mt-0228-s][G-0228-OG], [mt-0228-a][G-0228-OGy], [VI][G-0267-OGy]
 
 ***
 
@@ -97,5 +97,7 @@ Take just one unit of the Bias ground and place them all in the same direction (
 [G-0228-OGy]: https://d-bl.github.io/GroundForge/index.html?m=15-2%0A7-5-%0A-586%0A5-4-%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20A3%3Dtct%20C1%3Dtct
 
 [g-uni-sbq]: https://d-bl.github.io/GroundForge/index.html?m=-5-4-5%0A5-5-5-%0A86-5-5%3Bbricks%3B24%3B24%3B0%3B0&s1=ctct%20C3%3Dctc%20B1%3Dctcl%20C1%3Dctc%20D1%3Dctcr%20C2%3Dctct
+
+[G-0267-OGy]: https://d-bl.github.io/GroundForge/index.html?m=15-2%0A7-5-%0A-586%0A5-4-%3Bchecker%3B24%3B24%3B0%3B0&s1=ctct%20A3%3DC1%3Dctc%20A2%3DB3%3Dctcr%20B1%3DC4%3Dctcl
 
 
