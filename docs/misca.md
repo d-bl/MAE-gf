@@ -61,7 +61,7 @@ However, as the tiling-parameter is set to <span class="elem">brick</span> the s
 ***
 
 [page-snow]: https://maetempels.github.io/MAE-gf/docs/snowflakes#snowflake-in-a-square
-[page-spid]: https://maetempels.github.io/MAE-gf/docs/spiders#spiders-in-a-square
+[page-spid]: https://maetempels.github.io/MAE-gf/docs/spider
 [page-tria]: https://maetempels.github.io/MAE-gf/docs/tria#pagoda-in-a-square
 [page-bias]: https://maetempels.github.io/MAE-gf/docs/bias#unit-bias-in-a-square
 
