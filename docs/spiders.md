@@ -3,11 +3,10 @@
 ## Contents
 * [Introduction](#introduction)
 * [Torchon spiders](#torchon-spiders)
-* [Stacked spiders](#stacked-spiders)
 * [Spiders with an eye](#spiders-with-an-eye)
-* [Spiders in a square](#spiders-in-a-square)
-* [Spiders with an eye, in a square](#spiders-with-an-eye-in-a-square)
+* [Spiders with a narrow eye](#spiders-with-a-narrow-eye)
 * [Binche spiders](#binche-spiders)
+* [Stacked spiders](#stacked-spiders)
 * [Building Spiders](#building-spiders) 
      
 ## Introduction
@@ -26,8 +25,14 @@ Please note: for a traditional Torchon spider, a stitch like <span class="stch">
 
 * [4x2 legs][st2] (WI F2), [4x3 legs][st3] (WI E4), [4x4 legs][st4], [4x5 legs][st5]
 
-## Stacked spiders
-[Another][sa1] ground can be obtained using the corresponding <span class="elem">checkers-matrix</span>, but set the tiling parameter to <span class="elem">brick</span>.
+### in a square
+{% include picts-right.html
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf%20spin%204s%20wt.png"
+  alt="spider in square"
+  description="The working-scheme in the picture shows ground <i>WI G2</i>.<br> Larger spiders are possible, but it will take Groundforge some time to generate the pictures."
+%}
+
+* [4x2 legs][sq2], [4x3 legs][sq3] (WI H2), [4x4 legs][sq4] (WI G2), [4x5 legs][sq5]
     
 ## Spiders with an eye
 {% capture spin2 %}
@@ -40,31 +45,30 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 %}
 
 * [4x2 legs][sh2], [4x3 legs][sh3], [4x4 legs][sh4]
- 
-## Spiders in a square
-{% include picts-right.html
-  src="https://maetempels.github.io/MAE-gf/images_wt/gf%20spin%204s%20wt.png"
-  alt="spider in square"
-  description="The working-scheme in the picture shows ground <i>WI G2</i>.<br> Larger spiders are possible, but it will take Groundforge some time to generate the pictures."
-%}
 
-* [4x2 legs][sq2], [4x3 legs][sq3] (WI H2), [4x4 legs][sq4] (WI G2), [4x5 legs][sq5]
-       
-## Spiders with an eye in a square 
+### in a square
 * [4x3 legs][shq3], [4x4 legs][shq4]
+
+## spider with narrow eye
+![spider with narrow eye][pic-sn3] ![spider with narrow eye, square][pic-snq3]
+* [4x3 legs][sn3]
+ 
+### in a square
+* [4x3 legs][snq3]
 
 ## Binche spiders 
 See also page [_Snowflakes_][snow-page].            
 
 ### "Bolletje"  
-
 ![binche spider][pic-bi-boll]                
 * [binche spider][wi-g04] (WI G4)
 
 ### Traditional spider, on a Binche pricking  
-
 ![binche small spider][pic-bi-spin]                     
 * [traditional spider, binche style][wi-e02] (WI E2)
+
+## Stacked spiders
+[Another][sa1] ground can be obtained using the corresponding <span class="elem">checkers-matrix</span>, but set the tiling parameter to <span class="elem">brick</span>.
 
 ## Building Spiders
 Adding legs to a spider is the equivalent of adding a ring to it. So, after discovering the matrix for a 4x3 legged spider, a 4x4 or bigger spider is easy. In fact, a formula can be made, see the [_Math_][math-page] page.    
@@ -88,7 +92,8 @@ Spiders with an eye look like this:
 [pic-sp-gat]: https://maetempels.github.io/MAE-gf/images_wt/gf-sp-gat.png
 [pic-bi-boll]: https://maetempels.github.io/MAE-gf/images_wt/gf-bi-boll.png
 [pic-bi-spin]: https://maetempels.github.io/MAE-gf/images_wt/gf-bi-spin.png
-
+[pic-sn3]: https://maetempels.github.io/MAE-gf/images_wt/wt-sn3.png
+[pic-snq3]: https://maetempels.github.io/MAE-gf/images_wt/wt-snq3.png
 
 [st2]: https://d-bl.github.io/GroundForge/index.html?m=-5--%0AB-C-%0A-5-5%0A5-5-%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B3%3Dctcttctc%20A4%3Dctcll%20D1%3Dctctt%20%20C4%3Dctcrr
 
@@ -121,4 +126,8 @@ Spiders with an eye look like this:
 [shq3]: https://d-bl.github.io/GroundForge/index.html?m=-5--5--5%0A5-C632B-%0A-566-225%0A566-5-22%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20C3%3Dtctct%20B4%3Dlctct%20E1%3Dlctct%20D2%3Dlctct%20D4%3Drctct%20A1%3Drctct%20B2%3Drctct%20F3%3Dctcrctc%20H3%3Dctclctc
 
 [shq4]: https://d-bl.github.io/GroundForge/index.html?m=-5---5---5%0A5-CD632AB-%0A-566632225%0A56666-2222%0A5666-5-222%3Bbricks%3B24%3B24%3B0%3B0&s1=G4%3Dtctct%20I4%3Dtctct%20C4%3Dctct%20B5%3Dlctct%20A1%3Dlctct%20E2%3Dlctct%20D3%3Dlctct%20D5%3Drctct%20E1%3Drctct%20A2%3Drctct%20B3%3Drctct%20C4%3Dctct
+
+[sn3]: https://d-bl.github.io/GroundForge/index.html?m=86-215%0A4---7-%0A1C-B83%0A7-5-4-%0A-5-5-5%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B3%3Dctcttt%20E2%3Dtttctc%20C2%3Dctcrrr%20A2%3Dctclll
+
+[snq3]: https://d-bl.github.io/GroundForge/index.html?m=86-215%0A4---7-%0A1C-B83%0A7-5-4-%0A-5-5-5%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B3%3Dctcttt%20E2%3Dtttctc%20C2%3Dctcrrr%20A2%3Dctclll
 
