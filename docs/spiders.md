@@ -49,7 +49,7 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 ### in a square
 * [4x3 legs][shq3], [4x4 legs][shq4]
 
-## spiders with a narrow eye
+## Spiders with a narrow eye
 ![spider with narrow eye][pic-sn3] ![spider with narrow eye, square][pic-snq3]
 * [4x3 legs][sn3]
  
