@@ -49,7 +49,7 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 ### in a square
 * [4x3 legs][shq3], [4x4 legs][shq4]
 
-## spider with narrow eye
+## spiders with a narrow eye
 ![spider with narrow eye][pic-sn3] ![spider with narrow eye, square][pic-snq3]
 * [4x3 legs][sn3]
  
@@ -129,5 +129,4 @@ Spiders with an eye look like this:
 
 [sn3]: https://d-bl.github.io/GroundForge/index.html?m=86-215%0A4---7-%0A1C-B83%0A7-5-4-%0A-5-5-5%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B3%3Dctcttt%20E2%3Dtttctc%20C2%3Dctcrrr%20A2%3Dctclll
 
-[snq3]: https://d-bl.github.io/GroundForge/index.html?m=86-215%0A4---7-%0A1C-B83%0A7-5-4-%0A-5-5-5%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B3%3Dctcttt%20E2%3Dtttctc%20C2%3Dctcrrr%20A2%3Dctclll
-
+[snq3]: https://d-bl.github.io/GroundForge/index.html?m=--5--7-4%0AC632B831%0A66-224-7%0A31583256%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20A3%3Dctct%20H4%3DB2%3DC1%3Dlllctctrr%20B4%3DG1%3DH2%3Drrrctctll
