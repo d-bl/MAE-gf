@@ -42,8 +42,8 @@ Building bigger fish is illustrated in the following picture. Please note the ch
 ***
 
 [lotus-page]: https://maetempels.github.io/MAE-gf/docs/lotus
-[fish-gen]: https://maetempels.github.io/MAE-gf/images/gf%20vis%20gen.png
-[fish-build]: https://maetempels.github.io/MAE-gf/images/gf%20vis%20bouw.png
+[fish-gen]: https://maetempels.github.io/MAE-gf/images_wt/mx-fish.png
+[fish-build]: https://maetempels.github.io/MAE-gf/images_wt/mx-fish-bld.png
 
 [F12-]: https://d-bl.github.io/GroundForge/index.html?m=8%0A1%3Bchecker%3B16%3B16%3B0%3B0&s1=A1%3Dctc%20A2%3Dctcr
 
