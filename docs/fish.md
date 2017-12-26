@@ -63,6 +63,6 @@ Building bigger fish is illustrated in the following picture. Please note the ch
 
 [F422]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A-5%0A5-%0A12%0A88%0A11%0A88%0A4-%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B7%3Dtctct%20A8%3Dctct%20B2%3DB4%3Dctcll%20B3%3DA5%3Dllctc
 
-[F52-]: https://d-bl.github.io/GroundForge/index.html?m=4-%0A12%0A88%0A11%0A88%0A11%3Bchecker%3B24%3B24%3B0%3B0&s1=A5%3Dctc%20A6%3DA2%3DA4%3Dctcll%20B1%3DB3%3Dctcrr
+[F52-]: https://d-bl.github.io/GroundForge/index.html?m=4-%0A12%0A88%0A11%0A88%0A11%3Bchecker%3B24%3B24%3B0%3B0&s1=ctc%20A6%3DA2%3DA4%3Dctcll%20B1%3DB3%3Dctcrr
 
 [F520]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A12%0A88%0A11%0A88%0A11%0A4-%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20A6%3Dctctt%20B7%3DB2%3DA4%3Dctcll%20A1%3DA3%3Dctcrr
