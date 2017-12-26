@@ -28,7 +28,7 @@ Fish B,S,W means: the number of Bones, the number of Spines and the number of Wa
 * [Fish B2,S2,W-][F22-] , [Fish B2,S2,W0][F220] (WI G14), [Fish B2,S2,W2][F222] (WI G16)     
 * [Fish B3,S2,W2][F322]               
 * [Fish B4,S2,W-][F42-] (WI D16), [Fish B4,S2,W1][F421] (WI E16), [Fish B4,S2,W2][F422] (WI F16)      
-* [Fish B5,S2,W-][F52-]    
+* [Fish B5,S2,W-][F52-] , [Fish B5,S2,W0][F520]   
 
 ## Fish building.
 The general fish scheme looks like the schemes in the picture. Of course, other scheme's are possible. Please note that an even or odd number of "waves" dictate if a <span class="elem">brick-matrix</span> is possible.      
@@ -55,14 +55,14 @@ Building bigger fish is illustrated in the following picture. Please note the ch
 
 [F222]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A-5%0A5-%0A12%0A88%0A4-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20A6%3Dctctt%20B5%3Dctctt%20B2%3Dctcll%20B3%3Dctcrr%20A4%3Dctctt
 
-[F322]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A-5%0A5-%0A12%0A99%0A22%0A4-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B2%3Dctclll%20B3%3Dctcrrr%20A4%3Dctclll%20A5%3Dctct%20B6%3Dctct%20A7%3Dctct
+[F322]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A-5%0A5-%0A12%0A88%0A11%0A4-%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B2%3DA4%3Dctclll%20B3%3Dlllctc%20A5%3DB6%3DA7%3Dctct
 
-[F42-]: https://d-bl.github.io/GroundForge/index.html?m=4-%0A12%0A99%0A11%0A66%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20A5%3Dctcll%20A1%3Dctcrr%20B2%3Dctcll%20B3%3Dctcrr
+[F42-]: https://d-bl.github.io/GroundForge/index.html?m=4-%0A12%0A88%0A11%0A88%3Bchecker%3B24%3B24%3B0%3B0&s1=ctc%20A5%3DA2%3Dctcll%20A1%3DA3%3Dllctc
 
-[F421]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A-5%0A21%0A99%0A11%0A66%0A-4%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20B1%3Dctcll%20B2%3Dctcrr%20A3%3Dctcll%20A4%3Dctcrr%20A6%3Dtctct
+[F421]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A-5%0A21%0A88%0A11%0A88%0A-4%3Bchecker%3B24%3B24%3B0%3B0&s1=ctc%20B1%3DB3%3Dctcll%20B2%3DB4%3Dllctc%20A6%3Dtctct
 
-[F422]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A-5%0A5-%0A12%0A99%0A11%0A66%0A4-%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20B7%3Dtctct%20A8%3Dctct%20B2%3Dctcll%20B3%3Dctcrr%20A4%3Dctcll%20B5%3Dctcrr
+[F422]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A-5%0A5-%0A12%0A88%0A11%0A88%0A4-%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B7%3Dtctct%20A8%3Dctct%20B2%3DB4%3Dctcll%20B3%3DA5%3Dllctc
 
-[F52-]: https://d-bl.github.io/GroundForge/index.html?m=4-%0A12%0A99%0A11%0A88%0A22%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20A6%3Dctclll%20A1%3Dctcrrr%20B2%3Dctclll%20A3%3Dctcrrr%20A4%3Dctclll
+[F52-]: https://d-bl.github.io/GroundForge/index.html?m=4-%0A12%0A88%0A11%0A88%0A11%3Bchecker%3B24%3B24%3B0%3B0&s1=A5%3Dctc%20A6%3DA2%3DA4%3Dctcll%20B1%3DB3%3Dctcrr
 
-
+[F520]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A12%0A88%0A11%0A88%0A11%0A4-%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20A6%3Dctctt%20B7%3DB2%3DA4%3Dctcll%20A1%3DA3%3Dctcrr
