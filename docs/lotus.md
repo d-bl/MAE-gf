@@ -42,7 +42,7 @@ Building bigger lotus is similair to the building of bigger fish, as illustrated
 
 [L522]: https://d-bl.github.io/GroundForge/index.html?m=7-%0A-5%0A5-%0A-5%0A21%0A88%0A11%0A88%0A11%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B1%3DA9%3DB8%3Dctct%20A3%3Dctcll%20A4%3Dllctc%20A5%3Drctcl%20B6%3Dctcrr%20B7%3Drrctc
 
-[LD-422]: https://d-bl.github.io/GroundForge/index.html?m=7-%0A-5%0A5-%0A-5%0A21%0A88%0A11%0A88%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B7%3Dctct%20B1%3DA8%3Dct
+[LD422]: https://d-bl.github.io/GroundForge/index.html?m=7-%0A-5%0A5-%0A-5%0A21%0A88%0A11%0A88%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B7%3Dctct%20B1%3DA8%3Dct
 
-[LD-222]: https://d-bl.github.io/GroundForge/index.html?m=7-%0A-5%0A5-%0A-5%0A21%0A88%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B5%3Dctct%20B1%3DA6%3Dct%20B3%3Dctcll%20B4%3Dctcrr
+[LD222]: https://d-bl.github.io/GroundForge/index.html?m=7-%0A-5%0A5-%0A-5%0A21%0A88%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B5%3Dctct%20B1%3DA6%3Dct%20B3%3Dctcll%20B4%3Dctcrr
 
