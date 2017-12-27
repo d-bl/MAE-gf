@@ -17,8 +17,8 @@ Lotus H,V,X means: the number of Horizontal rows, the number of Verticals and th
 * [Lotus H2,V2,X-][L22-] , [Lotus H2,V2,X0][L220]   
 * [Lotus H4,V2,X1][L421]      
 * [Lotus H5,V2,X0][L520] , [Lotus H5,V2,X2][L522]
-* [JP-double lotus H2,V2,X2][L222]
-* [JP-double lotus H4,V2,X2][L422]
+* [JP-double lotus H2,V2,X2][LD222]
+* [JP-double lotus H4,V2,X2][LD422]
 
 ## Lotus building
 The general Lotus scheme looks like the scheme in the picture. Of course, other scheme's are possible.      
@@ -42,7 +42,7 @@ Building bigger lotus is similair to the building of bigger fish, as illustrated
 
 [L522]: https://d-bl.github.io/GroundForge/index.html?m=7-%0A-5%0A5-%0A-5%0A21%0A88%0A11%0A88%0A11%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B1%3DA9%3DB8%3Dctct%20A3%3Dctcll%20A4%3Dllctc%20A5%3Drctcl%20B6%3Dctcrr%20B7%3Drrctc
 
-[DL-422]: https://d-bl.github.io/GroundForge/index.html?m=7-%0A-5%0A5-%0A-5%0A21%0A88%0A11%0A88%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B7%3Dctct%20B1%3DA8%3Dct
+[LD-422]: https://d-bl.github.io/GroundForge/index.html?m=7-%0A-5%0A5-%0A-5%0A21%0A88%0A11%0A88%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B7%3Dctct%20B1%3DA8%3Dct
 
-[DL-222]: https://d-bl.github.io/GroundForge/index.html?m=7-%0A-5%0A5-%0A-5%0A21%0A88%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B5%3Dctct%20B1%3DA6%3Dct%20B3%3Dctcll%20B4%3Dctcrr
+[LD-222]: https://d-bl.github.io/GroundForge/index.html?m=7-%0A-5%0A5-%0A-5%0A21%0A88%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B5%3Dctct%20B1%3DA6%3Dct%20B3%3Dctcll%20B4%3Dctcrr
 
