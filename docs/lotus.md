@@ -17,8 +17,8 @@ Lotus H,V,X means: the number of Horizontal rows, the number of Verticals and th
 * [Lotus H2,V2,X-][L22-] , [Lotus H2,V2,X0][L220]   
 * [Lotus H4,V2,X1][L421]      
 * [Lotus H5,V2,X0][L520] , [Lotus H5,V2,X2][L522]
-* [JP-double lotus H2,V2,X2][LD222]
-* [JP-double lotus H4,V2,X2][LD422]
+* [jp-double lotus H2,V2,X2][LD222]
+* [jp-double lotus H4,V2,X2][LD422]
 
 ## Lotus building
 The general Lotus scheme looks like the scheme in the picture. Of course, other scheme's are possible.      
