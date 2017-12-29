@@ -31,7 +31,7 @@ Fish B,S,W means: the number of Bones, the number of Spines and the number of Wa
 * [Fish B5,S2,W-][F52-] , [Fish B5,S2,W0][F520]   
 * [jp-double fish B2,S2,W1][FD221] , [jp-double fish B2,S2,W3][FD223] 
 
-Example double fish B2,S2,W3 also provides stitches for level 2. Pleace replace <span class="elem"<cross b102</span> in the level-2 thread diagram with a <span class="stch">half knot</span> or two to mimic a twisted pair.
+Example double fish B2,S2,W3 also provides stitches for level 2. Pleace replace <span class="elem">cross b102</span> in the level-2 thread diagram with a <span class="stch">half knot</span> or two to mimic a twisted pair.
 
 ## Fish building.
 The general fish scheme looks like the schemes in the picture. Of course, other scheme's are possible. Please note that an even or odd number of "waves" dictate if a <span class="elem">brick-matrix</span> is possible.      
