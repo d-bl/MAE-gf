@@ -32,9 +32,9 @@ Building bigger lotus is similair to the building of bigger fish, as illustrated
 [lotus_wt]: https://maetempels.github.io/MAE-gf/images_wt/gf%20lotus%20wt.png
 [lotus_gen]: https://maetempels.github.io/MAE-gf/images_wt/mx-lotus.png
 
-[L220]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A12%0A88%0A7-%3Bbricks%3B8%3B12%3B0%3B0&s1=ctc%20B4%3Dctcll%20A1%3Dctcrr%20A2%3Dctctt
+[L220]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A12%0A88%0A7-%3Bbricks%3B12%3B12%3B0%3B0&s1=ctc%20B4%3Dctcll%20A1%3Dctcrr%20A2%3Dctctt
 
-[L22-]: https://d-bl.github.io/GroundForge/index.html?m=7-%0A12%0A88%3Bchecker%3B8%3B12%3B0%3B0&s1=ctc%20A3%3Dctclll%20A1%3Dctcrrr
+[L22-]: https://d-bl.github.io/GroundForge/index.html?m=7-%0A12%0A88%3Bchecker%3B12%3B12%3B0%3B0&s1=ctc%20A3%3Dctclll%20A1%3Dctcrrr
 
 [L520]: https://d-bl.github.io/GroundForge/index.html?m=7-%0A12%0A88%0A11%0A88%0A11%3Bchecker%3B20%3B12%3B0%3B0&s1=ctc%20A6%3Dctcllll%20A1%3Dlllctcr%20A2%3Drrctcll%20A3%3Dlctcrrr%20A4%3Drrrrctc
 
@@ -44,5 +44,5 @@ Building bigger lotus is similair to the building of bigger fish, as illustrated
 
 [LD422]: https://d-bl.github.io/GroundForge/index.html?m=7-%0A-5%0A5-%0A-5%0A21%0A88%0A11%0A88%3Bbricks%3B24%3B16%3B0%3B0&s1=ctc%20B7%3Dctct%20B1%3DA8%3Dct
 
-[LD222]: https://d-bl.github.io/GroundForge/index.html?m=7-%0A-5%0A5-%0A-5%0A21%0A88%3Bbricks%3B12%3B12%3B0%3B0&s1=ctc%20B5%3Dctct%20B1%3DA6%3Dct%20B3%3Dctcll%20B4%3Dctcrr
+[LD222]: https://d-bl.github.io/GroundForge/index.html?m=7-%0A-5%0A5-%0A-5%0A21%0A88%3Bbricks%3B16%3B12%3B0%3B0&s1=ctc%20B5%3Dctct%20B1%3DA6%3Dct%20B3%3Dctcll%20B4%3Dctcrr
 
