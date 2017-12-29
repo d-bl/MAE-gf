@@ -29,7 +29,7 @@ Fish B,S,W means: the number of Bones, the number of Spines and the number of Wa
 * [Fish B3,S2,W2][F322]               
 * [Fish B4,S2,W-][F42-] (WI D16), [Fish B4,S2,W1][F421] (WI E16), [Fish B4,S2,W2][F422] (WI F16)      
 * [Fish B5,S2,W-][F52-] , [Fish B5,S2,W0][F520]   
-* [JP-double fish B2,S2,W1][FD221] , [JP-double fish B2,S2,W3][FD223]
+* [JP-double fish B2,S2,W1][FD221] , [JP-double fish B2,S2,W3][FD223] replace cross b102 in the level-2 thread diagram with a half knot or two to mimic a twisted pair
 
 ## Fish building.
 The general fish scheme looks like the schemes in the picture. Of course, other scheme's are possible. Please note that an even or odd number of "waves" dictate if a <span class="elem">brick-matrix</span> is possible.      
@@ -70,4 +70,4 @@ Building bigger fish is illustrated in the following picture. Please note the ch
 
 [FD221]: https://d-bl.github.io/GroundForge/index.html?m=4-%0A-5%0A5-%0A12%0A88%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20A4%3Dctct%20B5%3Dct%20A2%3Dctcl%20A3%3Dlctc
 
-[FD223]: https://d-bl.github.io/GroundForge/index.html?m=-4%20%205-%20%20-5%20%205-%20%20-5%20%2021%20%2088%3Bchecker%3B24%3B24%3B0%3B0&s1=ctc%20B1%3Dct%20B6%3Dctct%20B4%3Dctcl%20B5%3Dlctc%20A7%3DA2%3Dctct
+[FD223]: https://d-bl.github.io/GroundForge/index.html?m=-4%20%205-%20%20-5%20%205-%20%20-5%20%2021%20%2088%3Bchecker%3B15%3B8%3B0%3B0&s1=ctc%20B1%3Dct%20B6%3Dctct%20B4%3Dctcl%20B5%3Dlctc%20A7%3DA2%3Dctct&s2=ctc%20b10%3Dtct%20b65%3Dtt%20b64%3Dtt%20a24%3Dtt%20a25%3Dtt%20b44%3Dttctctt%20b50%3Dttctctt&s3=&
