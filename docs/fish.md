@@ -31,8 +31,8 @@ Fish B,S,W means: the number of Bones, the number of Spines and the number of Wa
 * [Fish B5,S2,W-][F52-] , [Fish B5,S2,W0][F520]   
 * [jp-double fish B2,S2,W1][FD221] , [jp-double fish B2,S2,W3][FD223] 
 
-Example double fish B2,S2,W3 also provides stitches for level 2 which uses te thread diagram of the first level as pair diagram for the second level. Pleace replace <span class="elem">cross b102</span> in the level-2 thread diagram with a <span class="stch">half knot</span> or two to mimic a twisted pair.
-The first level can be split in two levels, with the same result at the [third level](https://d-bl.github.io/GroundForge/index.html?m=8%0A1%0A8%0A1%0A%3Bchecker%3B11%3B7%3B0%3B0&s1=%20a1%3Dctc%20a2%3Dcr%20a3%3Dc%20a4%3Dlc&s2=ctc%20a10%3Dctcr%20a13%3Dlctc%20a20%3Da21%3Da40%3Dctct%20a30%3Dct&s3=ctc%20a104%3Da130%3Dttctctt%20a204%3Da205%3Da404%3Da405%3Dtt%20a300%3Dtct) except for an ugly footside. Note that in both cases it can take a while for the last levels to appear.
+Example _double fish B2,S2,W3_ also provides stitches for level 2 which uses te thread diagram of the first level as pair diagram for the second level. Pleace replace <span class="elem">cross b102</span> in the level-2 thread diagram with a <span class="stch">half knot</span> or two to mimic a twisted pair.
+The first level can be split in two levels, with the same result at the [third level][F3-223] except for an ugly footside. Note that in both cases it can take a while for the last levels to appear.
 
 ## Fish building.
 The general fish scheme looks like the schemes in the picture. Of course, other scheme's are possible. Please note that an even or odd number of "waves" dictate if a <span class="elem">brick-matrix</span> is possible.      
@@ -74,3 +74,5 @@ Building bigger fish is illustrated in the following picture. Please note the ch
 [FD221]: https://d-bl.github.io/GroundForge/index.html?m=4-%0A-5%0A5-%0A12%0A88%3Bchecker%3B16%3B12%3B0%3B0&s1=ctc%20A4%3Dctct%20B5%3Dct%20A2%3Dctcl%20A3%3Dlctc
 
 [FD223]: https://d-bl.github.io/GroundForge/index.html?m=-4%20%205-%20%20-5%20%205-%20%20-5%20%2021%20%2088%3Bchecker%3B20%3B12%3B0%3B0&s1=ctc%20B1%3Dct%20B6%3Dctct%20B4%3Dctcl%20B5%3Dlctc%20A7%3DA2%3Dctct&s2=ctc%20b10%3Dtct%20b65%3Dtt%20b64%3Dtt%20a24%3Dtt%20a25%3Dtt%20b44%3Dttctctt%20b50%3Dttctctt&s3=&
+
+[F3-223]: https://d-bl.github.io/GroundForge/index.html?m=8%0A1%0A8%0A1%0A%3Bchecker%3B11%3B7%3B0%3B0&s1=%20a1%3Dctc%20a2%3Dcr%20a3%3Dc%20a4%3Dlc&s2=ctc%20a10%3Dctcr%20a13%3Dlctc%20a20%3Da21%3Da40%3Dctct%20a30%3Dct&s3=ctc%20a104%3Da130%3Dttctctt%20a204%3Da205%3Da404%3Da405%3Dtt%20a300%3Dtct
