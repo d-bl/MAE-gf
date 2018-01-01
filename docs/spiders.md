@@ -50,6 +50,8 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 * [4x3 legs][shq3], [4x4 legs][shq4]
 
 ## Spiders with a narrow eye
+Spiders with a narrow eye also can be achieved using <span class="elem">level 2</span> or <span class="elem">level 3</span> on a [fish][fish-page] in <span class="stch">half stitch</span>.   
+
 ![spider with narrow eye][pic-sn3] ![spider with narrow eye, square][pic-snq3]
 * [4x3 legs][sn3]
  
@@ -82,6 +84,7 @@ Spiders with an eye look like this:
 ***
 [math-page]: https://maetempels.github.io/MAE-gf/docs/maths#spider-formulas
 [snow-page]: https://maetempels.github.io/MAE-gf/docs/snowflakes
+[fish-page]: https://maetempels.github.io/MAE-gf/docs/fish#fish-examples-with-multiple-levels
 
 [pic-ts]: https://maetempels.github.io/MAE-gf/images/gf%20spin%204t.png
 [pic-gen]: https://maetempels.github.io/MAE-gf/images/gf%20spin%20gen.png
