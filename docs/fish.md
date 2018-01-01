@@ -4,6 +4,7 @@
 * [Introduction](#introduction)
 * [Fish notation](#fish-notation)
 * [Fish examples](#fish-examples)
+* [Multiple level examples](#fish-examples-with-multiple-levels)
 * [Fish building](#fish-building)
 
 ## Introduction
@@ -31,8 +32,10 @@ Fish B,S,W means: the number of Bones, the number of Spines and the number of Wa
 * [Fish B5,S2,W-][F52-] , [Fish B5,S2,W0][F520]   
 * [jp-double fish B2,S2,W1][FD221] , [jp-double fish B2,S2,W3][FD223] 
 
-Example _double fish B2,S2,W3_ also provides stitches for level 2 which uses te thread diagram of the first level as pair diagram for the second level. Pleace replace <span class="elem">cross b102</span> in the level-2 thread diagram with a <span class="stch">half knot</span> or two to mimic a twisted pair.
-The first level can be split in two levels, with the same result at the [third level][F3-223] except for an ugly footside. Note that in both cases it can take a while for the last levels to appear.
+## Fish examples with multiple levels     
+Example _double fish B2,S2,W3_ also provides stitches for level 2 which uses te thread diagram of the first level as pair diagram for the second level. Pleace replace <span class="elem">cross b102</span> in the level-2 thread diagram with a <span class="stch">half knot</span> or two to mimic a twisted pair.       
+The first level can be split in two levels, with the same result at the [third level][F3-223] except for an ugly footside. Note that in both cases it can take a while for the last levels to appear. 
+Please note the resemblance of the level-3 fish with the [narrow eyed spider][ne-spiders-page].
 
 ## Fish building.
 The general fish scheme looks like the schemes in the picture. Of course, other scheme's are possible. Please note that an even or odd number of "waves" dictate if a <span class="elem">brick-matrix</span> is possible.      
@@ -46,6 +49,7 @@ Building bigger fish is illustrated in the following picture. Please note the ch
 ***
 
 [lotus-page]: https://maetempels.github.io/MAE-gf/docs/lotus
+[ne-spiders-page]: https://maetempels.github.io/MAE-gf/docs/spiders#spiders-with-a-narrow-eye
 [fish-gen]: https://maetempels.github.io/MAE-gf/images_wt/mx-fish.png
 [fish-build]: https://maetempels.github.io/MAE-gf/images_wt/mx-fish-bld.png
 
