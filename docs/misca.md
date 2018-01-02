@@ -39,7 +39,7 @@ See page [_Bias grounds_][page-bias].
 
 ## Paris ground in a square
 ![paris in square][pic-par-sqr]
-* [Example][g-par-sqr1]
+* [example][g-par-sqr1]
 
 ## Alternate stitch ground
 {% capture omenom1 %}
@@ -56,7 +56,7 @@ However, as the tiling-parameter is set to <span class="elem">brick</span> the s
 
 ## Big Paris ground
 ![big paris][pic-big-paris]
-* [Traditional][big-rg1], [mt-3412][G-3412]
+* [traditional][big-rg1], [mt-3412][G-3412]
 
 ***
 
