@@ -7,6 +7,7 @@ contact: true
 ## Contents
 * [Introduction](#introduction)
 * [Creators](#creators)
+* [License](#license)
 * [References](#references)
 
 ## Introduction
