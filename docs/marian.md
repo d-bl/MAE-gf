@@ -85,7 +85,8 @@ As the pattern above, this pattern also was created one quarter turned.
 * [mt-3238][G-3238]
 
 ## Windmills
-I tried to make a ground inspired by the "pajarita". However, I have not yet found out how to connect them. Then I tried the windmills. The scheme for just windmills proved to be identiacal to the torchonground-scheme. A windmill in a square looked promissing. To be continued ....
+Grounds inspired by origami.
+I tried to make a ground inspired by the "pajarita". However, I have not yet found out how to connect them. Then I tried the windmills. The scheme for just windmills proved to be identical to the torchonground-scheme. A windmill in a square looked promissing. To be continued ....
 * [mt-windmill][wm-1]
 
 
