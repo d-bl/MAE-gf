@@ -10,6 +10,7 @@
 * [Double bias](#double-bias)
 * [Roses with vertical](#roses-with-vertical)
 * [Bias with vertical](#bias-with-vertical)
+* [Windmills](#windmills)
 
 &copy; M. Tempels
 
@@ -83,6 +84,11 @@ As the pattern above, this pattern also was created one quarter turned.
 ![bias with vertical][pic-g32]
 * [mt-3238][G-3238]
 
+## Windmills
+I tried to make a ground inspired by the "pajarita". However, I have not yet found out how to connect them. Then I tried the windmills. The scheme for just windmills proved to be identiacal to the torchonground-scheme. A windmill in a square looked promissing. To be continued ....
+* [mt-windmill][wm-1]
+
+
 ***
 
 [foto-0692]: https://maetempels.github.io/MAE-gf/photos/gf-0692-foto.jpg
@@ -128,3 +134,5 @@ As the pattern above, this pattern also was created one quarter turned.
 [G-3115]: https://d-bl.github.io/GroundForge/index.html?m=-5--%20%20B-C3%20%207-4-%20%208-15%3Bchecker%3B24%3B24%3B0%3B0&s1=c%20D4%3Dtctctc%20D2%3Dctctct%20C1%3DA1%3Dctc%20B3%3Dtctct
 
 [G-3238]: https://d-bl.github.io/GroundForge/index.html?m=-C-B%20%20--5-%20%20-B8D%20%20--4-%20%20-B-C%20%205---%3Bchecker%3B24%3B24%3B0%3B0&s1=A4%3Dtctc%20C1%3Dctctc%20B1%3DD1%3DC6%3DC2%3DB3%3DD3%3Dctc%20B5%3DD5%3Dttctc
+
+[wm-1]: https://d-bl.github.io/GroundForge/index.html?m=5-5-5-7-%20%20-215-5-5%20%2058886-5-%20%20-114-5-5%3Bbricks%3B16%3B16%3B0%3B0&s1=ctct%20A3%3DC1%3DH4%3DA4%3DB4%3DD1%3DE1%3DF1%3DG1%3DD2%3DE2%3DF2%3DE3%3Dctc
