@@ -106,8 +106,8 @@ I tried to make a ground inspired by the "pajarita". However, I have not yet fou
 [pic-g32]: https://maetempels.github.io/MAE-gf/images_wt/gf-wt-g32.png
 
 [pic-0342-KF]: https://maetempels.github.io/MAE-gf/images_wt/gf-wt-0342-KF.png
-[pic-g42]:https://maetempels.github.io/MAE-gf/images_wt/g42.png
-[pic-g43]: https://maetempels.github.io/MAE-gf/images_wt/g43.png
+[pic-g42]:https://maetempels.github.io/MAE-gf/images_wt/G42.png
+[pic-g43]: https://maetempels.github.io/MAE-gf/images_wt/G43.png
 
 
 [LLLL]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B5%3B0%3B0&s1=ctct%20D1%3Dctctctct%20B1%3Dctctctct
