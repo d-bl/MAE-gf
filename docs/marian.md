@@ -86,10 +86,10 @@ As the pattern above, this pattern also was created one quarter turned.
 
 ## Windmills
 Inspired by origami.      
-I tried to make a ground inspired by the "pajarita". However, I have not yet found out how to connect them. Then I tried the windmills. 
+I tried to make a ground inspired by the "pajarita". However, I have not yet found out how to connect them. Then I tried the windmills.            
 ![windmill g42][pic-g42] ![windmill g43][pic-g43]
 
-* [mt4201][wm-4201], [mt-4301][wm-4301]
+* [mt-4201][wm-4201], [mt-4301][wm-4301]
 
 ***
 
