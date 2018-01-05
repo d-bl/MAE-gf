@@ -85,10 +85,11 @@ As the pattern above, this pattern also was created one quarter turned.
 * [mt-3238][G-3238]
 
 ## Windmills
-Grounds inspired by origami.
-I tried to make a ground inspired by the "pajarita". However, I have not yet found out how to connect them. Then I tried the windmills. The scheme for just windmills proved to be identical to the torchonground-scheme. A windmill in a square looked promissing. To be continued ....
-* [mt-windmill][wm-1]
+Inspired by origami.      
+I tried to make a ground inspired by the "pajarita". However, I have not yet found out how to connect them. Then I tried the windmills. 
+![windmill g42][pic-g42] ![windmill g43][pic-g43]
 
+* [mt4201][wm-4201], [mt-4301][wm-4301]
 
 ***
 
@@ -104,9 +105,12 @@ I tried to make a ground inspired by the "pajarita". However, I have not yet fou
 [pic-g31]: https://maetempels.github.io/MAE-gf/images_wt/gf-wt-g31.png
 [pic-g32]: https://maetempels.github.io/MAE-gf/images_wt/gf-wt-g32.png
 
-[LLLL]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B5%3B0%3B0&s1=ctct%20D1%3Dctctctct%20B1%3Dctctctct
-
 [pic-0342-KF]: https://maetempels.github.io/MAE-gf/images_wt/gf-wt-0342-KF.png
+[pic-g42]:https://maetempels.github.io/MAE-gf/images_wt/g42.png
+[pic-g43]: https://maetempels.github.io/MAE-gf/images_wt/g43.png
+
+
+[LLLL]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B5%3B0%3B0&s1=ctct%20D1%3Dctctctct%20B1%3Dctctctct
 
 [G-0902-f]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B16%3B16%3B0%3B0&s1=A1%3Dctctc%20C1%3Dctctc%20D2%3Dcrcllcrc%20B2%3Dclcrrclc%20D1%3Dctctctctc%20B1%3Dctctctctc
 
@@ -136,4 +140,6 @@ I tried to make a ground inspired by the "pajarita". However, I have not yet fou
 
 [G-3238]: https://d-bl.github.io/GroundForge/index.html?m=-C-B%20%20--5-%20%20-B8D%20%20--4-%20%20-B-C%20%205---%3Bchecker%3B24%3B24%3B0%3B0&s1=A4%3Dtctc%20C1%3Dctctc%20B1%3DD1%3DC6%3DC2%3DB3%3DD3%3Dctc%20B5%3DD5%3Dttctc
 
-[wm-1]: https://d-bl.github.io/GroundForge/index.html?m=5-5-5-7-%20%20-215-5-5%20%2058886-5-%20%20-114-5-5%3Bbricks%3B16%3B16%3B0%3B0&s1=ctct%20A3%3DC1%3DH4%3DA4%3DB4%3DD1%3DE1%3DF1%3DG1%3DD2%3DE2%3DF2%3DE3%3Dctc
+[wm-4301]: https://d-bl.github.io/GroundForge/index.html?m=5-5-5-7-%20%20-215-5-5%20%2058886-5-%20%20-114-5-5%3Bbricks%3B16%3B16%3B0%3B0&s1=ctct%20A3%3DC1%3DH4%3DA4%3DB4%3DD1%3DE1%3DF1%3DG1%3DD2%3DE2%3DF2%3DE3%3Dctc
+
+[wm-4201]: https://d-bl.github.io/GroundForge/index.html?m=15-7-2%20%20886-58%20%2014-5-1%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20F1%3Dtctc%20A3%3Dlctcl%20E3%3Drctcr%20C2%3Dctct%20E2%3Dlctc%20A2%3Drctc%20B1%3Dctcl%20D1%3Dctcr
