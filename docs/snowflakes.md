@@ -30,6 +30,9 @@ The little snowflake can also be put into a square. However, we have not been ab
 ![snowflake squared][pic-sn-squ]   
 * [mt-0306][ex-0306], right 
 
+There is a work-around for the crossed snowflake in a square. This involves [span class="elem"]level 2[/span] and the square is a double row of stitches. The second example shows what happens if the ring in [span class="elem"]level 1[/span] is made in [span class="stch"]half-stitch[/span].
+* [mt-0310][mt-0310], [mt-a310][mt-a310]
+
 ## Snowflakes diagonal
 ![diagonal snowflakes][pic-sn-dia]
 * [example][ex-sn-dia]
@@ -56,3 +59,7 @@ The little snowflake can also be put into a square. However, we have not been ab
 [ex-sn-dia]: https://d-bl.github.io/GroundForge/index.html?m=6888%0A14-1%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B1%3Dtctct
 
 [ex-sn-bin]: https://d-bl.github.io/GroundForge/index.html?m=5-25-56-%0A-5--5--5%0A5-C6-2B-%0A%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20G3%3Dctctctc%20A1%3Dctcll%20B2%3Dctcll%20E1%3Dctcrr%20D2%3Dctcrr
+
+[mt-0310]: https://d-bl.github.io/GroundForge/index.html?m=5-5-%20%20-5-5%3Bbricks%3B12%3B12%3B0%3B0&s1=ctc%20A1%3Dtctctct&s2=ctct%20a10%3Da11%3Da16%3Da17%3Dc%20a19%3Da1a%3Dct%20a15%3Dtct%20a12%3Da18%3Dctc%20a13%3Dcl%20a14%3Dcr
+
+[mt-a310]: https://d-bl.github.io/GroundForge/index.html?m=5-5-%20%20-5-5%3Bbricks%3B12%3B12%3B0%3B0&s1=ctc%20A1%3Dtctctct&s2=ctct%20a10%3Da11%3Da16%3Da17%3Dc%20a19%3Da1a%3Dct%20a15%3Dtct%20a12%3Da18%3Dctc%20a13%3Dcl%20a14%3Dcr
