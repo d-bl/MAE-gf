@@ -30,7 +30,7 @@ The little snowflake can also be put into a square. However, we have not been ab
 ![snowflake squared][pic-sn-squ]   
 * [mt-0306][ex-0306], right 
 
-There is a work-around for the crossed snowflake in a square. This involves <span class="elem">level 2</span> and the square is a double row of stitches. The second example shows what happens if the ring in <span class="elem">level 1</span> is made in [span class="stch"]half-stitch[/span].
+There is a work-around for the crossed snowflake in a square. This involves <span class="elem">level 2</span> and the square is a double row of stitches. The second example shows what happens if the ring in <span class="elem">level 1</span> is made in <span class="stch">half-stitch</span>.
 * [mt-0310][mt-0310], [mt-a310][mt-a310]
 
 ## Snowflakes diagonal
