@@ -5,7 +5,9 @@ created these patches of Flanders grounds, each with another variation of stitch
 
 {% include flanders.html src="b" stitches="ctc,d2=cr,b2=lc"%}
 
-# Stitches for the diagrams under construction:
+# Under construction:
+
+[stitches](#stitches-for-the-diagrams)
 
 {% include flanders.html src="10-1" %}
 {% include flanders.html src="101-1" %}
