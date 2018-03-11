@@ -1,7 +1,7 @@
 When celebrating the 20th year of the lace guild "'t Groene Hart" in 2005 the members
 created these patches of Flanders grounds, each with a variation of stitches.
 
-{% include picts-centr.html alt="patches of flanders grounds" src="/MAE-gf/images-flanders/spiral.JPG" %}
+{% include picts-centr.html alt="patches of flanders grounds" src="/MAE-gf/images_flanders/spiral.JPG" %}
 
 {% include flanders.html src="b" stitches="ctc,d2=cr,b2=lc"%}
 
