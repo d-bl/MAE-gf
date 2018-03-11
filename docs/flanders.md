@@ -3,6 +3,8 @@ created these patches of Flanders grounds, each with another variation of stitch
 
 {% include picts-centr.html alt="patches of flanders grounds" src="/MAE-gf/images_flanders/spiral.JPG" %}
 
+See also [Whiting](https://d-bl.github.io/GroundForge/help/Whiting-Index) A2, B2, B6, C6, C9 and [Droste](https://d-bl.github.io/GroundForge/help/Droste-effect#stitches) ctct
+
 {% include flanders.html src="b" stitches="ctc,d2=cr,b2=lc"%}
 
 # Under construction:
