@@ -9,7 +9,7 @@ See also [Whiting](https://d-bl.github.io/GroundForge/help/Whiting-Index) A2, B2
 
 # Under construction:
 
-[stitches](#stitches-for-the-diagrams)
+[stitches](#stitches-for-the-diagrams), hint: search the page for the corresponding patch number.
 
 {% include flanders.html src="10-1" %}
 {% include flanders.html src="101-1" %}
@@ -68,6 +68,9 @@ See also [Whiting](https://d-bl.github.io/GroundForge/help/Whiting-Index) A2, B2
 
 # Stitches for the diagrams
 
+<table><td>ctc</td><td></td><td>lc</td><td></td><td>tctc</td></tr><tr><td></td><td>ctc</td><td>pin</td><td>ctc</td><td></td></tr><tr><td>tctc</td><td></td><td>cr</td><td></td><td>ctc</td></tr></table>c
+<table><td>tctc</td><td></td><td>tctc</td><td></td><td>tctc</td></tr><tr><td></td><td>tc</td><td>pin</td><td>tctc</td><td></td></tr><tr><td>tctc</td><td></td><td>tctc</td><td></td><td>tctc</td></tr></table>d
+
 <table><td>ct</td><td></td><td>tc</td><td></td><td>tctc</td></tr><tr><td></td><td>tc</td><td>pin</td><td>tc</td><td></td></tr><tr><td>tctc</td><td></td><td>tctc</td><td></td><td>ct</td></tr></table>106-1
 <table><td>ctct</td><td></td><td>tctc</td><td></td><td>tc</td></tr><tr><td></td><td>tc</td><td>pin</td><td>tctc</td><td></td></tr><tr><td>tc</td><td></td><td>ctc</td><td></td><td>ctct</td></tr></table>105-1
 <table><td>ctc</td><td></td><td>tc</td><td></td><td>ctc</td></tr><tr><td></td><td>tctc</td><td>pin</td><td>tctc</td><td></td></tr><tr><td>ctc</td><td></td><td>tc</td><td></td><td>ctc</td></tr></table>20-1
@@ -98,7 +101,6 @@ See also [Whiting](https://d-bl.github.io/GroundForge/help/Whiting-Index) A2, B2
 <table><td>ctc</td><td></td><td>tctc</td><td></td><td>ctc</td></tr><tr><td></td><td>tc</td><td>pin</td><td>tc</td><td></td></tr><tr><td>ctc</td><td></td><td>tctc</td><td></td><td>ctc</td></tr></table>11-1
 <table><td>tc</td><td></td><td>tc</td><td></td><td>ctc</td></tr><tr><td></td><td>tc</td><td>pin</td><td>tc</td><td></td></tr><tr><td>ctc</td><td></td><td>tc</td><td></td><td>tc</td></tr></table>83-1
 <table><td>ct</td><td></td><td>tctc</td><td></td><td>tc</td></tr><tr><td></td><td>ctc</td><td>pin</td><td>ctc</td><td></td></tr><tr><td>tc</td><td></td><td>tctc</td><td></td><td>ct</td></tr></table>17-1
-<table><td>tctc</td><td></td><td>tctc</td><td></td><td>tctc</td></tr><tr><td></td><td>tc</td><td>pin</td><td>tctc</td><td></td></tr><tr><td>tctc</td><td></td><td>tctc</td><td></td><td>tctc</td></tr></table>d
 <table><td>tc</td><td></td><td>ctc</td><td></td><td>tc</td></tr><tr><td></td><td>tctc</td><td>pin</td><td>tctc</td><td></td></tr><tr><td>tc</td><td></td><td>tc</td><td></td><td>tc</td></tr></table>18-1
 <table><td>ctc</td><td></td><td>tctc</td><td></td><td>ctc</td></tr><tr><td></td><td>ct</td><td>pin</td><td>ct</td><td></td></tr><tr><td>ctc</td><td></td><td>tctc</td><td></td><td>ctc</td></tr></table>19-1
 <table><td>ctc</td><td></td><td>tctc</td><td></td><td>ctc</td></tr><tr><td></td><td>ct</td><td>pin</td><td>ct</td><td></td></tr><tr><td>ctc</td><td></td><td>tctc</td><td></td><td>ctc</td></tr></table>19-1
@@ -119,8 +121,6 @@ See also [Whiting](https://d-bl.github.io/GroundForge/help/Whiting-Index) A2, B2
 <table><td>tctc</td><td></td><td>tctc</td><td></td><td>tctc</td></tr><tr><td></td><td>tc</td><td>pin</td><td>ctc</td><td></td></tr><tr><td>tctc</td><td></td><td>tctc</td><td></td><td>tctc</td></tr></table>75-1
 <table><td>tctc</td><td></td><td>tctc</td><td></td><td>tc</td></tr><tr><td></td><td>tc</td><td>pin</td><td>tc</td><td></td></tr><tr><td>tc</td><td></td><td>tc</td><td></td><td>tctc</td></tr></table>76-1
 <table><td>ctc</td><td></td><td>tctc</td><td></td><td>tctc</td></tr><tr><td></td><td>tc</td><td>pin</td><td>tc</td><td></td></tr><tr><td>tctc</td><td></td><td>tctc</td><td></td><td>ctc</td></tr></table>11-1
-<table><td>ctc</td><td></td><td>ctc</td><td></td><td>ctc</td></tr><tr><td></td><td>cr</td><td>pin</td><td>lc</td><td></td></tr><tr><td>ctc</td><td></td><td>ctc</td><td></td><td>ctc</td></tr></table>b
-<table><td>ctc</td><td></td><td>lc</td><td></td><td>tctc</td></tr><tr><td></td><td>ctc</td><td>pin</td><td>ctc</td><td></td></tr><tr><td>tctc</td><td></td><td>cr</td><td></td><td>ctc</td></tr></table>c
 <table><td>ct</td><td></td><td>ct</td><td></td><td>ct</td></tr><tr><td></td><td>ct</td><td>pin</td><td>ctc</td><td></td></tr><tr><td>ct</td><td></td><td>ctct</td><td></td><td>ct</td></tr></table>26-1
 <table><td>ctc</td><td></td><td>ctc</td><td></td><td>ctc</td></tr><tr><td></td><td>ct</td><td>pin</td><td>ct</td><td></td></tr><tr><td>ctc</td><td></td><td>ct</td><td></td><td>ctc</td></tr></table>25-3
 <table><td>ct</td><td></td><td>ctc</td><td></td><td>ct</td></tr><tr><td></td><td>ctc</td><td>pin</td><td>ct</td><td></td></tr><tr><td>ct</td><td></td><td>ctct</td><td></td><td>ct</td></tr></table>28-1
