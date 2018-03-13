@@ -1,3 +1,7 @@
+# Flanders grounds
+
+## Introduction
+
 For the 20th anniversary of the LOKK chapter "'t Groene Hart" in 2005, the members
 created these patches of Flanders grounds, each with another variation of stitches.
 
@@ -7,7 +11,7 @@ See also [Whiting](https://d-bl.github.io/GroundForge/help/Whiting-Index) A2, B2
 
 {% include flanders.html src="b" stitches="ctc,d2=cr,b2=lc"%}
 
-# Under construction:
+## Under construction:
 
 [stitches](#stitches-for-the-diagrams), hint: search the page for the corresponding patch number.
 
@@ -66,7 +70,7 @@ See also [Whiting](https://d-bl.github.io/GroundForge/help/Whiting-Index) A2, B2
 {% include flanders.html src="c" %}
 {% include flanders.html src="d" %}
 
-# Stitches for the diagrams
+## Stitches for the diagrams
 
 <table><td>ctc</td><td></td><td>lc</td><td></td><td>tctc</td></tr><tr><td></td><td>ctc</td><td>pin</td><td>ctc</td><td></td></tr><tr><td>tctc</td><td></td><td>cr</td><td></td><td>ctc</td></tr></table>c
 <table><td>tctc</td><td></td><td>tctc</td><td></td><td>tctc</td></tr><tr><td></td><td>tc</td><td>pin</td><td>tctc</td><td></td></tr><tr><td>tctc</td><td></td><td>tctc</td><td></td><td>tctc</td></tr></table>d
@@ -125,3 +129,4 @@ See also [Whiting](https://d-bl.github.io/GroundForge/help/Whiting-Index) A2, B2
 <table><td>ctc</td><td></td><td>ctc</td><td></td><td>ctc</td></tr><tr><td></td><td>ct</td><td>pin</td><td>ct</td><td></td></tr><tr><td>ctc</td><td></td><td>ct</td><td></td><td>ctc</td></tr></table>25-3
 <table><td>ct</td><td></td><td>ctc</td><td></td><td>ct</td></tr><tr><td></td><td>ctc</td><td>pin</td><td>ct</td><td></td></tr><tr><td>ct</td><td></td><td>ctct</td><td></td><td>ct</td></tr></table>28-1
 
+***
