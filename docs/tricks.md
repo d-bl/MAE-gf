@@ -42,7 +42,7 @@ and the figure on the right a <a href="https://d-bl.github.io/GroundForge/index.
 * Plaits = (twist,) cross, twist, cross, twist, cross, twist, cross (, twist), .... . Coloured <span class="b-blue">blue</span>.
 
 Sometimes, onorthodox stitches are used, like <span class="stch">cross only</span> or <span class="stch">crcllcrc</span>, as in the [_Sunny Stitch_][ex-sun].    
-We have tried <span class="stch">ctctclllllctctc</span>  as a substitute for picots. Groundforge needs some time to generate this, and the result is not as expected.
+We have tried <span class="stch">ctctclllllctctc</span> as a substitute for picots. Groundforge needs some time to generate this, and the result is not as expected.
 
 Groundforge accepts only stitch-instructions with at least one cross, so the stitch <span class="stch">do nothing</span> is not supported by Groundforge.          
 The instruction <span class="stch">A1=t</span> will be translated into <span class="stch">A1=ct</span>.               
@@ -53,12 +53,12 @@ The instruction <span class="stch">A1=t</span> will be translated into <span cla
      src="https://maetempels.github.io/MAE-gf/images/gf%20picts.png"
 %}   
 
-On these pages several types of diagrams are used, as illustrated in the picture. On the left is a drawing of a _pair-diagram_ or _working-scheme_. Pins, pinpositions and colourcode are given as needed for the actual lace. In the middle the ground is drawn schematic, to given an impression. Pins and colourcode may or may not be drawn. The pinpositions are drawn as required for the actual lace. On the right the _matrix-scheme_ that Groundforge understands. In the articles the name _scheme_ or _diagram_ will be used for all types of the drawings.                     
-Several grounds have more than one working matrix-scheme, as is explained in de Groundforge-userguide.    
+On these pages several types of diagrams are used, as illustrated in the picture. On the left is a drawing of a _pair-diagram_ or _working-scheme_. Pins, pinpositions and colourcode are given as needed for the actual lace. In the middle the ground is drawn schematic, to given an impression. Pins and colourcode may or may not be drawn. The pinpositions are drawn as required for the actual lace. On the right the _prototype_ or _matrix-scheme_ that Groundforge understands. In the articles the name _scheme_ or _diagram_ will be used for all types of the drawings.                     
+Several grounds have more than one working prototype, as is explained in de Groundforge-userguide.    
 
 The example is a variation on a 's Gravenmoers snowflake ground. See [mt-0306][ex-0306] how the thread-diagram looks like.      
 
-The pictures in this wiki are mostly made with Knipling (TM).
+The pictures on these pages are mostly made with Knipling (TM).
 
 ## Tiling
 Most examples use the <span class="elem">brick</span> parameter setting, drawn as a blue rectangle when shown, since it's less ID's to specify. Some scheme's do not have a working brick diagram, so, of course, a <span class="elem">checkers</span> parameter is used, drawn as a red rectangle when shown.           
