@@ -32,9 +32,9 @@ See also [Whiting](https://d-bl.github.io/GroundForge/help/Whiting-Index) A2, B2
 {% include flanders.html src="98-1" name="Ine" stitches="d1=tc,a1=tctc,b1=tc,d2=tctc,b2=tctc,c1=tc" d1="tc" a1="tctc" b1="tc" d2="tctc" b2="tctc" c1="tc" %}
 {% include flanders.html src="94-1" name="Els" stitches="d1=tctc,a1=tc,b1=ctc,d2=ctc,b2=ctc,c1=ctc" d1="tctc" a1="tc" b1="ctc" d2="ctc" b2="ctc" c1="ctc" %}
 {% include flanders.html src="96-1" name="Els" stitches="d1=tc,a1=tc,b1=ctc,d2=ctc,b2=ctc,c1=ctc" d1="tc" a1="tc" b1="ctc" d2="ctc" b2="ctc" c1="ctc" %}
-{% include flanders.html src="10-1" name="" stitches="d1=tc,a1=tc,b1=tc,d2=tctc,b2=tctc,c1=tc" d1="tc" a1="tc" b1="tc" d2="tctc" b2="tctc" c1="tc" %}
-{% include flanders.html src="11-1A" name="" stitches="d1=ctc,a1=tctc,b1=ctc,d2=tc,b2=tc,c1=ctc" d1="ctc" a1="tctc" b1="ctc" d2="tc" b2="tc" c1="ctc" %}
-{% include flanders.html src="12-1" name="" stitches="d1=tctc,a1=tc,b1=tctc,d2=ctc,b2=tctc,c1=tctc" d1="tctc" a1="tc" b1="tctc" d2="ctc" b2="tctc" c1="tctc" %}
+{% include flanders.html src="10-1" stitches="d1=tc,a1=tc,b1=tc,d2=tctc,b2=tctc,c1=tc" d1="tc" a1="tc" b1="tc" d2="tctc" b2="tctc" c1="tc" %}
+{% include flanders.html src="11-1A" stitches="d1=ctc,a1=tctc,b1=ctc,d2=tc,b2=tc,c1=ctc" d1="ctc" a1="tctc" b1="ctc" d2="tc" b2="tc" c1="ctc" %}
+{% include flanders.html src="12-1" stitches="d1=tctc,a1=tc,b1=tctc,d2=ctc,b2=tctc,c1=tctc" d1="tctc" a1="tc" b1="tctc" d2="ctc" b2="tctc" c1="tctc" %}
 {% include flanders.html src="81-1" name="Lenie" stitches="d1=tctc,a1=tctc,b1=ctc,d2=ctc,b2=tc,c1=ctc" d1="tctc" a1="tctc" b1="ctc" d2="ctc" b2="tc" c1="ctc" %}
 {% include flanders.html src="82-1" name="Lenie" stitches="d1=ctc,a1=ctc,b1=tc,d2=ctc,b2=ctc,c1=tc" d1="ctc" a1="ctc" b1="tc" d2="ctc" b2="ctc" c1="tc" %}
 {% include flanders.html src="84-1" name="Lenie" stitches="d1=tctc,a1=tc,b1=tctc,d2=tctc,b2=tctc,c1=tctc" d1="tctc" a1="tc" b1="tctc" d2="tctc" b2="tctc" c1="tctc" %}
@@ -65,8 +65,8 @@ See also [Whiting](https://d-bl.github.io/GroundForge/help/Whiting-Index) A2, B2
 {% include flanders.html src="11-1" name="Jo" stitches="d1=ctc,a1=tctc,b1=tctc,d2=tc,b2=tc,c1=tctc" d1="ctc" a1="tctc" b1="tctc" d2="tc" b2="tc" c1="tctc" %}
 {% include flanders.html src="b" name="Jo" stitches="d1=ctc,a1=ctc,b1=ctc,d2=cr,b2=lc,c1=ctc" d1="ctc" a1="ctc" b1="ctc" d2="cr" b2="lc" c1="ctc" %}
 {% include flanders.html src="c" name="Jo" stitches="d1=ctc,a1=lc,b1=tctc,d2=ctc,b2=ctc,c1=tctc" d1="ctc" a1="lc" b1="tctc" d2="ctc" b2="ctc" c1="tctc" %}
-{% include flanders.html src="26-1" name="" stitches="d1=ct,a1=ct,b1=ct,d2=ct,b2=ctc,c1=ct" d1="ct" a1="ct" b1="ct" d2="ct" b2="ctc" c1="ct" %}
-{% include flanders.html src="25-3" name="" stitches="d1=ctc,a1=ctc,b1=ctc,d2=ct,b2=ct,c1=ctc" d1="ctc" a1="ctc" b1="ctc" d2="ct" b2="ct" c1="ctc" %}
-{% include flanders.html src="28-1" name="" stitches="d1=ct,a1=ctc,b1=ct,d2=ctc,b2=ct,c1=ct" d1="ct" a1="ctc" b1="ct" d2="ctc" b2="ct" c1="ct" %}
+{% include flanders.html src="26-1" stitches="d1=ct,a1=ct,b1=ct,d2=ct,b2=ctc,c1=ct" d1="ct" a1="ct" b1="ct" d2="ct" b2="ctc" c1="ct" %}
+{% include flanders.html src="25-3" stitches="d1=ctc,a1=ctc,b1=ctc,d2=ct,b2=ct,c1=ctc" d1="ctc" a1="ctc" b1="ctc" d2="ct" b2="ct" c1="ctc" %}
+{% include flanders.html src="28-1" stitches="d1=ct,a1=ctc,b1=ct,d2=ctc,b2=ct,c1=ct" d1="ct" a1="ctc" b1="ct" d2="ctc" b2="ct" c1="ct" %}
 
 ***
