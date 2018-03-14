@@ -12,8 +12,6 @@ sadly these patterns are also more error prone.
 
 See also [Whiting](https://d-bl.github.io/GroundForge/help/Whiting-Index) A2, B2, B6, C6, C9 and [Droste](https://d-bl.github.io/GroundForge/help/Droste-effect#stitches) ctct
 
-{% include flanders.html src="b" stitches="ctc,d2=cr,b2=lc"%}
-
 {% include flanders.html src="106-1" name="Ans" stitches="d1=ct,a1=tc,b1=tctc,d2=tc,b2=tc,c1=tctc" %}
 {% include flanders.html src="105-1" name="Ans" stitches="d1=ctct,a1=tctc,b1=tc,d2=tc,b2=tctc,c1=tc" %}
 {% include flanders.html src="20-1" name="Ans" stitches="d1=ctc,a1=tc,b1=ctc,d2=tctc,b2=tctc,c1=ctc" %}
@@ -21,7 +19,7 @@ See also [Whiting](https://d-bl.github.io/GroundForge/help/Whiting-Index) A2, B2
 {% include flanders.html src="44-1" name="Sebastiana" stitches="d1=ctc,a1=ct,b1=ctc,d2=ctc,b2=ctct,c1=ctc" %}
 {% include flanders.html src="42-1" name="Sebastiana" stitches="d1=ctct,a1=ctc,b1=ctc,d2=ctc,b2=ct,c1=ctc" %}
 {% include flanders.html src="75-1" name="Sophia" stitches="d1=ctct,a1=ctct,b1=ctct,d2=ct,b2=ctc,c1=ctct" %}
-{% include flanders.html src="98-1b" name="Sophia" stitches="d1=tc,a1=tctc,b1=tc,d2=tctc,b2=tctc,c1=tc" %}
+{% include flanders.html src="98-1B" name="Sophia" stitches="d1=tc,a1=tctc,b1=tc,d2=tctc,b2=tctc,c1=tc" %}
 {% include flanders.html src="58-1" name="Sophia" stitches="d1=ctct,a1=ctct,b1=ct,d2=ctct,b2=ctct,c1=ct" %}
 {% include flanders.html src="75-2" name="Ciska" stitches="d1=ctct,a1=ctc,b1=ctc,d2=ct,b2=ctct,c1=ctc" %}
 {% include flanders.html src="74-1" name="Cisca" stitches="d1=ctc,a1=ct,b1=ct,d2=ct,b2=ct,c1=ct" %}
@@ -35,7 +33,7 @@ See also [Whiting](https://d-bl.github.io/GroundForge/help/Whiting-Index) A2, B2
 {% include flanders.html src="94-1" name="Els" stitches="d1=tctc,a1=tc,b1=ctc,d2=ctc,b2=ctc,c1=ctc" %}
 {% include flanders.html src="96-1" name="Els" stitches="d1=tc,a1=tc,b1=ctc,d2=ctc,b2=ctc,c1=ctc" %}
 {% include flanders.html src="10-1" name="" stitches="d1=tc,a1=tc,b1=tc,d2=tctc,b2=tctc,c1=tc" %}
-{% include flanders.html src="11-1a" name="" stitches="d1=ctc,a1=tctc,b1=ctc,d2=tc,b2=tc,c1=ctc" %}
+{% include flanders.html src="11-1A" name="" stitches="d1=ctc,a1=tctc,b1=ctc,d2=tc,b2=tc,c1=ctc" %}
 {% include flanders.html src="12-1" name="" stitches="d1=tctc,a1=tc,b1=tctc,d2=ctc,b2=tctc,c1=tctc" %}
 {% include flanders.html src="81-1" name="Lenie" stitches="d1=tctc,a1=tctc,b1=ctc,d2=ctc,b2=tc,c1=ctc" %}
 {% include flanders.html src="82-1" name="Lenie" stitches="d1=ctc,a1=ctc,b1=tc,d2=ctc,b2=ctc,c1=tc" %}
