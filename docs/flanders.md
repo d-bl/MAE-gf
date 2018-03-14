@@ -13,14 +13,14 @@ sadly these patterns are also more error prone.
 See also [Whiting](https://d-bl.github.io/GroundForge/help/Whiting-Index) A2, B2, B6, C6, C9 and [Droste](https://d-bl.github.io/GroundForge/help/Droste-effect#stitches) ctct
 
 {% include flanders.html src="106-1" name="Ans" stitches="d1=ct,a1=tc,b1=tctc,d2=tc,b2=tc,c1=tctc" d1="ct" a1="tc" b1="tctc" d2="tc" b2="tc" c1="tctc" %}
-{% include flanders.html src="105-1" name="Ans" stitches="d1=ctct,a1=tctc,b1=tc,d2=tc,b2=tctc,c1=tc" d1="ctct" a1="tctc" b1="tc" d2="tc" b2="tctc" c1="tc" %}
-{% include flanders.html src="43-1" name="Sebastiana" stitches="d1=ctc,a1=ct,b1=ctc,d2=ctct,b2=ctc,c1=ctc" d1="ctc" a1="ct" b1="ctc" d2="ctct" b2="ctc" c1="ctc" %}
-{% include flanders.html src="20-1" name="Ans" stitches="d1=ctc,a1=tc,b1=ctc,d2=tctc,b2=tctc,c1=ctc" d1="ctc" a1="tc" b1="ctc" d2="tctc" b2="tctc" c1="ctc" %}
-{% include flanders.html src="44-1" name="Sebastiana" stitches="d1=ctc,a1=ct,b1=ctc,d2=ctc,b2=ctct,c1=ctc" d1="ctc" a1="ct" b1="ctc" d2="ctc" b2="ctct" c1="ctc" %}
-{% include flanders.html src="42-1" name="Sebastiana" stitches="d1=ctct,a1=ctc,b1=ctc,d2=ctc,b2=ct,c1=ctc" d1="ctct" a1="ctc" b1="ctc" d2="ctc" b2="ct" c1="ctc" %}
 {% include flanders.html src="75-1" name="Sophia" stitches="d1=ctct,a1=ctct,b1=ctct,d2=ct,b2=ctc,c1=ctct" d1="ctct" a1="ctct" b1="ctct" d2="ct" b2="ctc" c1="ctct" %}
+{% include flanders.html src="43-1" name="Sebastiana" stitches="d1=ctc,a1=ct,b1=ctc,d2=ctct,b2=ctc,c1=ctc" d1="ctc" a1="ct" b1="ctc" d2="ctct" b2="ctc" c1="ctc" %}
+{% include flanders.html src="105-1" name="Ans" stitches="d1=ctct,a1=tctc,b1=tc,d2=tc,b2=tctc,c1=tc" d1="ctct" a1="tctc" b1="tc" d2="tc" b2="tctc" c1="tc" %}
 {% include flanders.html src="98-1B" name="Sophia" stitches="d1=tc,a1=tctc,b1=tc,d2=tctc,b2=tctc,c1=tc" d1="tc" a1="tctc" b1="tc" d2="tctc" b2="tctc" c1="tc" %}
+{% include flanders.html src="44-1" name="Sebastiana" stitches="d1=ctc,a1=ct,b1=ctc,d2=ctc,b2=ctct,c1=ctc" d1="ctc" a1="ct" b1="ctc" d2="ctc" b2="ctct" c1="ctc" %}
+{% include flanders.html src="20-1" name="Ans" stitches="d1=ctc,a1=tc,b1=ctc,d2=tctc,b2=tctc,c1=ctc" d1="ctc" a1="tc" b1="ctc" d2="tctc" b2="tctc" c1="ctc" %}
 {% include flanders.html src="58-1" name="Sophia" stitches="d1=ctct,a1=ctct,b1=ct,d2=ctct,b2=ctct,c1=ct" d1="ctct" a1="ctct" b1="ct" d2="ctct" b2="ctct" c1="ct" %}
+{% include flanders.html src="42-1" name="Sebastiana" stitches="d1=ctct,a1=ctc,b1=ctc,d2=ctc,b2=ct,c1=ctc" d1="ctct" a1="ctc" b1="ctc" d2="ctc" b2="ct" c1="ctc" %}
 {% include flanders.html src="75-2" name="Ciska" stitches="d1=ctct,a1=ctc,b1=ctc,d2=ct,b2=ctct,c1=ctc" d1="ctct" a1="ctc" b1="ctc" d2="ct" b2="ctct" c1="ctc" %}
 {% include flanders.html src="74-1" name="Cisca" stitches="d1=ctc,a1=ct,b1=ct,d2=ct,b2=ct,c1=ct" d1="ctc" a1="ct" b1="ct" d2="ct" b2="ct" c1="ct" %}
 {% include flanders.html src="108-1" name="Cisca" stitches="d1=ctc,a1=ctct,b1=ct,d2=ctct,b2=ctc,c1=ct" d1="ctc" a1="ctct" b1="ct" d2="ctct" b2="ctc" c1="ct" %}
