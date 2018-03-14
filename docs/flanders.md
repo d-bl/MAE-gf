@@ -8,7 +8,7 @@ created these patches of Flanders grounds, each with another variation of stitch
 {% include picts-centr.html alt="patches of flanders grounds" src="/MAE-gf/images_flanders/spiral.JPG" %}
 
 Lesson learnt: Many types of stitch combinations keep the pairs together or let them follow a straight path.
-You get the most exotic variants, even when working monochrome, with stitches that twist just one of the pairs
+You get the most exotic variants, even when working monochrome, with stitches that twist just one of the pairs,
 sadly these patterns are also more error prone. So do keep the generated thread diagram at hand. 
 
 See also [Whiting](https://d-bl.github.io/GroundForge/help/Whiting-Index) A2, B2, B6, C6, C9 and [Droste](https://d-bl.github.io/GroundForge/help/Droste-effect#stitches) ctct
