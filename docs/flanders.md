@@ -13,6 +13,11 @@ sadly these patterns are also more error prone. So do keep the generated thread 
 
 See also [Whiting](https://d-bl.github.io/GroundForge/help/Whiting-Index) A2, B2, B6, C6, C9 and [Droste](https://d-bl.github.io/GroundForge/help/Droste-effect#stitches) ctct
 
+For the actual lace the pins can be placed like a Flanders ground, or as a Torchon Rose ground, as shown in the following picture. See also the discussion on page [_Miscellaneous grounds_][page-misc].
+![flanders or rose][pic-flan-rose]
+
+Please note: some patches may not exactly be executed as on the handed out print of the variation that had to be worked. This means, that the work in the photograph may not exactly correspond with the diagram. The diagrams matches the stitches given.
+
 {% include flanders.html src="106-1" name="Ans" stitches="d1=ct,a1=tc,b1=tctc,d2=tc,b2=tc,c1=tctc" d1="ct" a1="tc" b1="tctc" d2="tc" b2="tc" c1="tctc" %}
 {% include flanders.html src="105-1" name="Ans" stitches="d1=ctct,a1=tctc,b1=tc,d2=tc,b2=tctc,c1=tc" d1="ctct" a1="tctc" b1="tc" d2="tc" b2="tctc" c1="tc" %}
 {% include flanders.html src="20-1" name="Ans" stitches="d1=ctc,a1=tc,b1=ctc,d2=tctc,b2=tctc,c1=ctc" d1="ctc" a1="tc" b1="ctc" d2="tctc" b2="tctc" c1="ctc" %}
@@ -71,3 +76,7 @@ See also [Whiting](https://d-bl.github.io/GroundForge/help/Whiting-Index) A2, B2
 {% include flanders.html src="28-1" stitches="d1=ct,a1=ctc,b1=ct,d2=ctc,b2=ct,c1=ct" d1="ct" a1="ctc" b1="ct" d2="ctc" b2="ct" c1="ct" %}
 
 ***
+
+[pic-flan-rose]: https://maetempels.github.io/MAE-gf/images_wt/flanders.png
+[page-misc]: https://maetempels.github.io/MAE-gf/docs/misca#rose-ground-in-a-square
+
