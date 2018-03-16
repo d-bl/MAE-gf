@@ -14,7 +14,7 @@ Please see the discussion on the [_Tips, Tricks & Notes_][page-tips] page about 
 
 ## Binche Snowflake
 {% capture bisnow %}
-For the Binche spiders see [_Spiders_][page-spiders] page.
+For the Binche spiders see <a href="https://maetempels.github.io/MAE-gf/docs/spiders#binche-spiders"><em>Spiders</em></a> page.
 {% endcapture %}
 {% include picts-left.html
   alt="big snowflake"
