@@ -18,7 +18,7 @@ For the Binche spiders see <a href="https://maetempels.github.io/MAE-gf/docs/spi
 {% endcapture %}
 {% include picts-left.html
   alt="big snowflake"
-  src="https://maetempels.github.io/MAE-gf/images/gf_bi_snow_wt"
+  src="https://maetempels.github.io/MAE-gf/images/gf-bi-snow-wt"
   description=bisnow
 %}
 * [binche snowflake][ex-sn-bin]
