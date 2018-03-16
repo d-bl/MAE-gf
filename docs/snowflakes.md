@@ -13,7 +13,14 @@ On this page several snowflake-grounds are collected.
 Please see the discussion on the [_Tips, Tricks & Notes_][page-tips] page about the difference between spiders and snowflakes.
 
 ## Binche Snowflake
-Picture to follow. For the Binche spiders see [_Spiders_][page-spiders] page. 
+{% capture bisnow %}
+For the Binche spiders see [_Spiders_][page-spiders] page.
+{% endcapture %}
+{% include picts-left.html
+  alt="big snowflake"
+  src="https://maetempels.github.io/MAE-gf/images/gf_bi_snow_wt"
+  description="bisnow"
+%}
 * [binche snowflake][ex-sn-bin]
 
 ## Little Snowflake
