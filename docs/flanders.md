@@ -11,16 +11,20 @@ Lesson learnt: Many types of stitch combinations keep the pairs together or let 
 You get the most exotic variants, even when working monochrome, with stitches that twist just one of the pairs,
 sadly these patterns are also more error prone. So do keep the generated thread diagram at hand. 
 
-See also [Whiting](https://d-bl.github.io/GroundForge/help/Whiting-Index) A2, B2, B6, C6, C9 and [Droste](https://d-bl.github.io/GroundForge/help/Droste-effect#stitches) ctct
+See also [Whiting] A2, B2, B6, C6, C9, [Droste] ctct and [squared rose] grounds.
 
-For the actual lace the pins can be placed like a Flanders ground, or as a Torchon Rose ground, as shown in the following picture. See also the discussion on page [_Miscellaneous grounds_][page-misc].
+[Whiting]: https://d-bl.github.io/GroundForge/help/Whiting-Index
+[Droste]: https://d-bl.github.io/GroundForge/help/Droste-effect#stitches
+[squared rose]: https://maetempels.github.io/MAE-gf/docs/misca#rose-ground-in-a-square
+
+For the actual lace the pins can be placed like a Flanders ground, or as a Torchon Rose ground, as shown in the following picture.
 
 {% include picts-centr.html
      alt="flanders or rose"
      src="https://maetempels.github.io/MAE-gf/images_wt/flanders.png"
 %}   
 
-Please note: some patches may not exactly be executed as on the handed out print of the variation that had to be worked. This means, that the work in the photograph may not exactly correspond with the diagram. The diagrams matches the stitches given.
+Should you notice a photograph that doesn't match the generated thread diagram, please [contact](about-us#write-us) us.
 
 {% include flanders.html src="106-1" name="Ans" stitches="d1=ct,a1=tc,b1=tctc,d2=tc,b2=tc,c1=tctc" d1="ct" a1="tc" b1="tctc" d2="tc" b2="tc" c1="tctc" %}
 {% include flanders.html src="105-1" name="Ans" stitches="d1=ctct,a1=tctc,b1=tc,d2=tc,b2=tctc,c1=tc" d1="ctct" a1="tctc" b1="tc" d2="tc" b2="tctc" c1="tc" %}
@@ -82,5 +86,4 @@ Please note: some patches may not exactly be executed as on the handed out print
 ***
 
 [pic-flan-rose]: https://maetempels.github.io/MAE-gf/images_wt/flanders.png
-[page-misc]: https://maetempels.github.io/MAE-gf/docs/misca#rose-ground-in-a-square
 
