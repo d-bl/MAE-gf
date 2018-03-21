@@ -1,4 +1,4 @@
-# Tips, Tricks & Other notes
+# Tips, Tricks &amp; Other notes
 
 ## Contents
 * [Ground names](#ground-names)
@@ -38,7 +38,7 @@ and the figure on the right a <a href="https://d-bl.github.io/GroundForge/index.
 * Cross only. In working scheme's coloured in <span class="b-grey">grey.</span>
 * Half stitch = (twist if not already done), cross, twist. Coloured <span class="b-gree">green</span>.
 * Cloth stitch = cross, twist, cross. Coloured <span class="b-purp">purple</span>.
-* Whole stitch & twist = (twist if not already done), cross, twist, cross, twist. Coloured <span class="b-red">red</span>.
+* Whole stitch &amp; twist = (twist if not already done), cross, twist, cross, twist. Coloured <span class="b-red">red</span>.
 * Plaits = (twist,) cross, twist, cross, twist, cross, twist, cross (, twist), .... . Coloured <span class="b-blue">blue</span>.
 
 Sometimes, onorthodox stitches are used, like <span class="stch">cross only</span> or <span class="stch">crcllcrc</span>, as in the [_Sunny Stitch_][ex-sun].    
