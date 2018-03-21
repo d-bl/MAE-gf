@@ -40,7 +40,7 @@ Ground mt-0228 is a variant in cloth stitch.
 * [example][G-0221-vg], [in a square][G-bs-sq]
 
 ## Bias Ground crossed and a diagonal in between   
-![row & crossed][P-0221-av]
+![row &amp; crossed][P-0221-av]
 * [example][G-0221-av]
 
 ## Unit bias in a square
@@ -48,7 +48,7 @@ Ground mt-0228 is a variant in cloth stitch.
 * [example][g-uni-sbq]
 
 ## Bias Ground crossed and in a square
-![bias crossed & square][P-bias-xq]
+![bias crossed &amp; square][P-bias-xq]
 * [example][G-bs-xq]
 
 ## Short Bias
