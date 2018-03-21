@@ -10,7 +10,7 @@
 
 ## Introduction
 On this page several snowflake-grounds are collected.   
-Please see the discussion on the [_Tips, Tricks & Notes_][page-tips] page about the difference between spiders and snowflakes.
+Please see the discussion on the [_Tips, Tricks &amp; Notes_][page-tips] page about the difference between spiders and snowflakes.
 
 ## Binche Snowflake
 {% capture bisnow %}
