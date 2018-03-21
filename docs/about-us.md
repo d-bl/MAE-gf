@@ -2,7 +2,7 @@
 layout: default
 contact: true
 ---
-# About us & Contact
+# About us &amp; Contact
 ## Contents
 * [M.A.E. Tempels](#mae-tempels)
 * [Jo Pol](#jo-pol)
