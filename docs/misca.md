@@ -12,7 +12,7 @@
 * [Paris ground](#paris-ground-in-a-square)
 
 **Others**
-* [Alternate stitch ground (om & om)](#alternate-stitch-ground)
+* [Alternate stitch ground (om &amp; om)](#alternate-stitch-ground)
 * [Big Paris ground](#big-paris-ground)
 
 ## Introduction
@@ -52,7 +52,7 @@ However, as the tiling-parameter is set to <span class="elem">brick</span> the s
   description=omenom1
 %}
 
-* [o&o 11][oo-11], [o&o 12][oo-12], [o&o 12a][oo-12a]
+* [o&amp;o 11][oo-11], [o&amp;o 12][oo-12], [o&amp;o 12a][oo-12a]
 
 ## Big Paris ground
 ![big paris][pic-big-paris]
