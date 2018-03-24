@@ -22,7 +22,7 @@ Miscellaneous examples, collected on this page.
 By putting the traditional rose ground unit in a square, little stars can be made.                 
 Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates. Ground mt-0112 looks like a star.
 
-![torchon-flemish][pic-tor-flem]
+![torchon-flemish][pic-tor-flem]      
 ![photo-0112-torchon][ph-0112-t] ![photo-0112-flemish][ph-0112-f]
 * [mt-0112][G-0112]
 
