@@ -72,8 +72,8 @@ However, as the tiling-parameter is set to <span class="elem">brick</span> the s
 [pic-big-paris]:  https://maetempels.github.io/MAE-gf/images_wt/big-rose.png
 [pic-par-sqr]: https://maetempels.github.io/MAE-gf/images_wt/gf-rose-in-sqr.png
 
-[ph-0112-t]: https://maetempels.github.io/MAE-gf/photo/ph-0112-t
-[ph-0112-f]: https://maetempels.github.io/MAE-gf/photo/ph-0112-f
+[ph-0112-t]: https://maetempels.github.io/MAE-gf/photos/ph-0112-t
+[ph-0112-f]: https://maetempels.github.io/MAE-gf/photos/ph-0112-f
 
 [G-0112]: https://d-bl.github.io/GroundForge/index.html?m=586-21%0A-48317%0A5-4-7-%0A%3Bbricks%3B16%3B16%3B0%3B0&s1=ctctt%20E3%3Dc%20A3%3Dc%20E2%3Dctt%20A2%3Dctt%20A1%3Dctcl%20E1%3Dctcr%20F2%3Dctc%20F3%3Dctct&s2=cross%3Dctc%20twist%3Dctc&s3=
 
