@@ -60,7 +60,6 @@ Should you notice a photograph that doesn't match the generated thread diagram, 
 {% include flanders.html src="d" name="Anita" stitches="d1=tctc,a1=tctc,b1=tctc,d2=tc,b2=tctc,c1=tctc" d1="tctc" a1="tctc" b1="tctc" d2="tc" b2="tctc" c1="tctc" %}
 {% include flanders.html src="18-1" name="Ans" stitches="d1=tc,a1=ctc,b1=tc,d2=tctc,b2=tctc,c1=tc" d1="tc" a1="ctc" b1="tc" d2="tctc" b2="tctc" c1="tc" %}
 {% include flanders.html src="19-1" name="Ans" stitches="d1=ctc,a1=tctc,b1=ctc,d2=ct,b2=ct,c1=ctc" d1="ctc" a1="tctc" b1="ctc" d2="ct" b2="ct" c1="ctc" %}
-{% include flanders.html src="19-1" name="Ans" stitches="d1=ctc,a1=tctc,b1=ctc,d2=ct,b2=ct,c1=ctc" d1="ctc" a1="tctc" b1="ctc" d2="ct" b2="ct" c1="ctc" %}
 {% include flanders.html src="65-1" name="Riet" stitches="d1=tctc,a1=tc,b1=tc,d2=tc,b2=tctc,c1=tc" d1="tctc" a1="tc" b1="tc" d2="tc" b2="tctc" c1="tc" %}
 {% include flanders.html src="66-2" name="Riet" stitches="d1=ctc,a1=ctc,b1=tctc,d2=ctc,b2=tc,c1=tctc" d1="ctc" a1="ctc" b1="tctc" d2="ctc" b2="tc" c1="tctc" %}
 {% include flanders.html src="67-1" name="Riet" stitches="d1=tc,a1=tctc,b1=tc,d2=tctc,b2=ctc,c1=tc" d1="tc" a1="tctc" b1="tc" d2="tctc" b2="ctc" c1="tc" %}
