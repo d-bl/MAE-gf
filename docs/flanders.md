@@ -24,7 +24,7 @@ For the actual lace the pins can be placed like a Flanders ground, or as a Torch
      src="https://maetempels.github.io/MAE-gf/images_wt/flanders.png"
 %}   
 
-Should you notice a photograph that doesn't match the generated thread diagram, please [contact](about-us#write-us) us.
+Should you notice a photograph that doesn't match the generated thread diagram, please [contact](about-us#write-us) us. Note that some patterns happily mix the open and closed method. Both `tctc` and `ctct` will become red in the color-coded diagrams and `tc` and `ct` will both become green.
 
 ## Grounds
 {% include flanders.html src="106-1" name="Ans" stitches="d1=ct,a1=tc,b1=tctc,d2=tc,b2=tc,c1=tctc" d1="ct" a1="tc" b1="tctc" d2="tc" b2="tc" c1="tctc" %}
