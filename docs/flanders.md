@@ -24,7 +24,7 @@ For the actual lace the pins can be placed like a Flanders ground, or as a Torch
      src="https://maetempels.github.io/MAE-gf/images_wt/flanders.png"
 %}   
 
-Should you notice a photograph that doesn't match the generated thread diagram, please [contact](about-us#write-us) us.
+Should you notice a photograph that doesn't match the generated thread diagram, please [contact](about-us#write-us) us. Note that some patterns happily mix the open and closed method. Both `tctc` and `ctct` will become red in the color-coded diagrams and `tc` and `ct` will both become green.
 
 ## Grounds
 {% include flanders.html src="106-1" name="Ans" stitches="d1=ct,a1=tc,b1=tctc,d2=tc,b2=tc,c1=tctc" d1="ct" a1="tc" b1="tctc" d2="tc" b2="tc" c1="tctc" %}
@@ -60,7 +60,6 @@ Should you notice a photograph that doesn't match the generated thread diagram, 
 {% include flanders.html src="d" name="Anita" stitches="d1=tctc,a1=tctc,b1=tctc,d2=tc,b2=tctc,c1=tctc" d1="tctc" a1="tctc" b1="tctc" d2="tc" b2="tctc" c1="tctc" %}
 {% include flanders.html src="18-1" name="Ans" stitches="d1=tc,a1=ctc,b1=tc,d2=tctc,b2=tctc,c1=tc" d1="tc" a1="ctc" b1="tc" d2="tctc" b2="tctc" c1="tc" %}
 {% include flanders.html src="19-1" name="Ans" stitches="d1=ctc,a1=tctc,b1=ctc,d2=ct,b2=ct,c1=ctc" d1="ctc" a1="tctc" b1="ctc" d2="ct" b2="ct" c1="ctc" %}
-{% include flanders.html src="19-1" name="Ans" stitches="d1=ctc,a1=tctc,b1=ctc,d2=ct,b2=ct,c1=ctc" d1="ctc" a1="tctc" b1="ctc" d2="ct" b2="ct" c1="ctc" %}
 {% include flanders.html src="65-1" name="Riet" stitches="d1=tctc,a1=tc,b1=tc,d2=tc,b2=tctc,c1=tc" d1="tctc" a1="tc" b1="tc" d2="tc" b2="tctc" c1="tc" %}
 {% include flanders.html src="66-2" name="Riet" stitches="d1=ctc,a1=ctc,b1=tctc,d2=ctc,b2=tc,c1=tctc" d1="ctc" a1="ctc" b1="tctc" d2="ctc" b2="tc" c1="tctc" %}
 {% include flanders.html src="67-1" name="Riet" stitches="d1=tc,a1=tctc,b1=tc,d2=tctc,b2=ctc,c1=tc" d1="tc" a1="tctc" b1="tc" d2="tctc" b2="ctc" c1="tc" %}
@@ -77,7 +76,7 @@ Should you notice a photograph that doesn't match the generated thread diagram, 
 {% include flanders.html src="74-2" name="Cisca" stitches="d1=ctc,a1=tc,b1=tc,d2=tc,b2=tc,c1=tc" d1="ctc" a1="tc" b1="tc" d2="tc" b2="tc" c1="tc" %}
 {% include flanders.html src="75-1" name="Cisca" stitches="d1=tctc,a1=tctc,b1=tctc,d2=tc,b2=ctc,c1=tctc" d1="tctc" a1="tctc" b1="tctc" d2="tc" b2="ctc" c1="tctc" %}
 {% include flanders.html src="76-1" name="Cisca" stitches="d1=tctc,a1=tctc,b1=tc,d2=tc,b2=tc,c1=tc" d1="tctc" a1="tctc" b1="tc" d2="tc" b2="tc" c1="tc" %}
-{% include flanders.html src="11-1" name="Jo" stitches="d1=ctc,a1=tctc,b1=tctc,d2=tc,b2=tc,c1=tctc" d1="ctc" a1="tctc" b1="tctc" d2="tc" b2="tc" c1="tctc" %}
+{% include flanders.html src="57-1" name="Sophia" stitches="d1=?,a1=?,b1=?,d2=?,b2=?,c1=?" d1="?" a1="?" b1="?" d2="?" b2="?" c1="?" %}
 {% include flanders.html src="b" name="Jo" stitches="d1=ctc,a1=ctc,b1=ctc,d2=cr,b2=lc,c1=ctc" d1="ctc" a1="ctc" b1="ctc" d2="cr" b2="lc" c1="ctc" %}
 {% include flanders.html src="c" name="Jo" stitches="d1=ctc,a1=lc,b1=tctc,d2=ctc,b2=ctc,c1=tctc" d1="ctc" a1="lc" b1="tctc" d2="ctc" b2="ctc" c1="tctc" %}
 {% include flanders.html src="26-1" stitches="d1=ct,a1=ct,b1=ct,d2=ct,b2=ctc,c1=ct" d1="ct" a1="ct" b1="ct" d2="ct" b2="ctc" c1="ct" %}
