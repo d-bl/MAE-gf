@@ -33,7 +33,7 @@ Fish B,S,W means: the number of Bones, the number of Spines and the number of Wa
 * [jp-double fish B2,S2,W1][FD221] , [jp-double fish B2,S2,W3][FD223] 
 
 ## Fish examples with multiple levels     
-Example _double fish B2,S2,W3_ also provides stitches for level 2 which uses te thread diagram of the first level as pair diagram for the second level. Pleace replace <span class="elem">cross b102</span> in the level-2 thread diagram with a <span class="stch">half knot</span> or two to mimic a twisted pair.       
+Example _double fish B2,S2,W3_ also provides stitches for level 2 which uses the thread diagram of the first level as pair diagram for the second level. Pleace replace <span class="elem">cross b102</span> in the level-2 thread diagram with a <span class="stch">half knot</span> or two to mimic a twisted pair.       
 The first level can be split in two levels, with the same result at the [third level][F3-223] except for an ugly footside. Note that in both cases it can take a while for the last levels to appear. 
 Please note the resemblance of the level-3 fish with the [narrow eyed spider][ne-spiders-page].
 
