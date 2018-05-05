@@ -71,7 +71,7 @@ As the pattern above, this pattern also was created one quarter turned.
 {% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-wt-07.png"
   alt="pic 07 3x"
-  description="The pictures on the left show three different units. The one on the left is one unit of ground [WI F4]. The matrix for this ground turned out to be equivalent to the bias-ground. Experimenting with stitches, I created the units in the middle and the right. The matrix of the ground in the middle turned out to be equivalent to the little snowflake. The one on the right proved to be a real surprise! See the example. (The units are placed like the white tiles on a checker board.)"
+  description="The pictures on the right show three different units. The one on the left is one unit of ground [WI F4]. The matrix for this ground turned out to be equivalent to the bias-ground. Experimenting with stitches, I created the units in the middle and the right. The matrix of the ground in the middle turned out to be equivalent to the little snowflake. The one on the right proved to be a real surprise! See the example. (The units are placed like the white tiles on a checker board.)"
 %}  
 
 * [mt-0775][G-0775]
