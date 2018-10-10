@@ -40,7 +40,7 @@ In short: you are free to share the examples as long as you give appropiate cred
 ## References
 JP = J. Pol     
 MT = M. Tempels    
-UU = U. Ulrich: Gründe mit Systeem      
+UU = U. Ulrich: Gründe mit System      
 WI = Whiting Index. See Groundforge Examples pages.      
 VI = V. Irvine: Developing a Mathematical Model for Bobbin Lace (paper)       
 VI = V. Irvine: Tesselace. See Groundforge Examples pages.    
