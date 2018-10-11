@@ -3,7 +3,6 @@
 ## Contents
 * [Introduction](#introduction)
 * [Spider formula's](#spider-formulas)
-* [To big matrix](#to-big-matrix)
 
 ## Introduction
 On this page some mathematics for those who like such. Including formula in pseudo-code.
@@ -25,13 +24,6 @@ formule="
 next j)<br>
 5 &amp; (for i=1 to N: 6) &amp; - &amp; (for i=1 to N: 2)
 "
-%}
-
-## To big matrix
-{% include picts-right.html
-  alt="to big matrix"
-  src="https://maetempels.github.io/MAE-gf/images/gf-sn-nott.png"
-  description="We wished to find the matrix-scheme for the crossed-snowflake-in-a-square. Just putting the snowflake in the square won't work, since the snowflake requires 11 &quot;nodes&quot;, whereas the square has 9 nodes inside. So, the square has to be enlarged. The matrix in the picture follows the rules for matrices, but the tiles are too big to handle."
 %}
 
 ***
