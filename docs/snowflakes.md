@@ -22,7 +22,8 @@ For the Binche spiders see <a href="https://maetempels.github.io/MAE-gf/docs/spi
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-bi-snow-wt.png"
   description=bisnow
 %}
-* [binche snowflake][ex-sn-bin]
+* [g-binche snowflake][G-ex-sn-bin]
+* [binche snowflake][T-ex-sn-bin]
 
 ## Little Snowflake
 ![little snowflake][pic-sn-oo]
