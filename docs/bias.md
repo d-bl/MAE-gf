@@ -29,7 +29,7 @@ Ground mt-0228 is a variant in cloth stitch.
 
 ##  Bias Ground crossed rose style
 ![crossed][P-0221-at]
-* [WI D6][T-wi-D6], [Wi F4][T-wi-F4], [mt-0278][T-0278-KG]
+* [WI D6][T-wi-D6], [WI F4][T-wi-F4], [mt-0278][T-0278-KG]
 
 ## Bias Ground crossed differently
 ![alt crossed][P-0221-aa]
