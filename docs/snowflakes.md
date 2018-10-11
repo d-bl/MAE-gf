@@ -22,22 +22,18 @@ For the Binche spiders see <a href="https://maetempels.github.io/MAE-gf/docs/spi
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-bi-snow-wt.png"
   description=bisnow
 %}
-* [g-binche snowflake][G-ex-sn-bin]
 * [binche snowflake][T-ex-sn-bin]
 
 ## Little Snowflake
 ![little snowflake][pic-sn-oo]
-* [g-example][G-ex-0300]
 * [example][T-ex-0300]
 
 ## Little Snowflake, crossed
 ![little snowflake crossed][pic-sn-cr]
-* [g-mt-0342][G-ex-0342]
 * [mt-0342][T-ex-0342]
 
 ## Snowflake in a square
 ![snowflake squared][pic-sn-squ]   
-* [g-mt-0306][G-ex-0306], right 
 * [mt-0306][T-ex-0306]
 
 ## Snowflake in a square, crossed
@@ -45,7 +41,6 @@ For the Binche spiders see <a href="https://maetempels.github.io/MAE-gf/docs/spi
 
 ## Snowflakes diagonal
 ![diagonal snowflakes][pic-sn-dia]
-* [g-example][G-ex-sn-dia]
 * [example][T-ex-sn-dia]
 
 ***
