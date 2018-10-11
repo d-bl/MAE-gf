@@ -106,7 +106,7 @@ Take just one unit of the Bias ground and place them all in the same direction (
 [T-0278-KG]: https://d-bl.github.io/GroundForge/tiles?repeatWidth=12&repeatHeight=12&a1=ctc&c1=ctc&d1=c&a2=c&b2=ctct&c2=c&d2=tctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=8-48,8314
 
 [G-bs-sq]: https://d-bl.github.io/GroundForge/index.html?m=5-486-%0A-5-486%0A6-5-48%0A%0A%3Bbricks%3B16%3B16%3B0%3B0&s1=ctct%20B1%3Dctc%20C1%3Dctc%20B2%3Dctcl%20C2%3Dctc%20D2%3Dctc%20F3%3Dctcl
-[T-bs-sq]: https://d-bl.github.io/GroundForge/tiles?repeatWidth=12&repeatHeight=12&a1=ctct&c1=ctct&d1=ctc&e1=ctc&b2=ctct&d2=ctc&e2=ctc&f2=ctc&a3=ctct&c3=ctct&e3=ctc&f3=ctc&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5-486-,-5-486,6-5-48
+[T-bs-sq]: https://d-bl.github.io/GroundForge/tiles?repeatWidth=12&repeatHeight=12&a1=ctct&c1=ctct&d1=ctc&e1=ctc&b2=ctct&d2=ctcl&e2=ctc&f2=ctc&a3=ctct&c3=ctct&e3=ctcl&f3=ctct&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5-486-,-5-486,6-5-48
 
 [G-bs-xq]: https://d-bl.github.io/GroundForge/index.html?m=-21486%0A317-48%0A88-5-4%3Bbricks%3B24%3B24%3B0%3B0&s1=ctct%20B3%3Dct%20D3%3Dct%20D2%3Dct%20B2%3Dct%20C1%3Dct
 [T-bs-xq]: https://d-bl.github.io/GroundForge/tiles?repeatWidth=12&repeatHeight=12&b1=ctct&c1=ct&d1=ctct&e1=ct&f1=ctct&a2=ctct&b2=ct&c2=ctct&e2=ctct&f2=ct&a3=ct&b3=ctct&d3=ctct&f3=ctct&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=-21486,317-48,88-5-4,
@@ -117,8 +117,8 @@ Take just one unit of the Bias ground and place them all in the same direction (
 [G-0228-OGy]: https://d-bl.github.io/GroundForge/index.html?m=15-2%0A7-5-%0A-586%0A5-4-%3Bchecker%3B16%3B16%3B0%3B0&s1=ctc%20A3%3Dtct%20C1%3Dtct
 [T-0228-OGy]: https://d-bl.github.io/GroundForge/tiles?repeatWidth=12&repeatHeight=12&a1=tct&b1=ctc&d1=ctc&a2=ctc&c2=ctc&b3=ctc&c3=tct&d3=ctc&a4=ctc&c4=ctc&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=0&shiftRowsSW=4&tile=15-2,7-5-,-586,5-4-,
 
-[G-g-uni-sbq]: https://d-bl.github.io/GroundForge/index.html?m=-5-4-5%0A5-5-5-%0A86-5-5%3Bbricks%3B24%3B24%3B0%3B0&s1=ctct%20C3%3Dctc%20B1%3Dctcl%20C1%3Dctc%20D1%3Dctcr%20C2%3Dctct
-[T-g-uni-sbq]: https://d-bl.github.io/GroundForge/tiles?repeatWidth=12&repeatHeight=12&b1=ctct&d1=ctct&f1=ctct&a2=ctc&c2=ctct&e2=ctct&a3=ctc&b3=ctcr&d3=ctct&f3=ctcl&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=-5-4-5,5-5-5-,86-5-5
+[G-uni-sbq]: https://d-bl.github.io/GroundForge/index.html?m=-5-4-5%0A5-5-5-%0A86-5-5%3Bbricks%3B24%3B24%3B0%3B0&s1=ctct%20C3%3Dctc%20B1%3Dctcl%20C1%3Dctc%20D1%3Dctcr%20C2%3Dctct
+[T-uni-sbq]: https://d-bl.github.io/GroundForge/tiles?repeatWidth=12&repeatHeight=12&b1=ctct&d1=ctct&f1=ctct&a2=ctc&c2=ctct&e2=ctct&a3=ctc&b3=ctcr&d3=ctct&f3=ctcl&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=-5-4-5,5-5-5-,86-5-5
 
 [G-0267-OGy]: https://d-bl.github.io/GroundForge/index.html?m=15-2%0A7-5-%0A-586%0A5-4-%3Bchecker%3B24%3B24%3B0%3B0&s1=ctct%20A3%3DC1%3Dctc%20A2%3DB3%3Dctcr%20B1%3DC4%3Dctcl
 [T-0267-OGy]: https://d-bl.github.io/GroundForge/tiles?repeatWidth=12&repeatHeight=12&a1=ctc&b1=ctcr&d1=ctct&a2=ctct&c2=ctcl&b3=ctcl&c3=ctc&d3=ctct&a4=ctcr&c4=ctct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=0&shiftRowsSW=4&tile=15-2,7-5-,-586,5-4-,
