@@ -11,7 +11,7 @@
 Unfortunately grounds do not have one unique name. Not even in one language. Also, the same name is used for different grounds. To make naming even more difficult, Groundforge does not make a difference in Torchon or Flemish grounds.
 
 {% capture names1 %}
-Example: The picture shows the working-scheme's of one unit of <i>Slavic rose ground</i> and one unit of <i>Fond au cinq trous</i>. Groundforge gives the same <a href="https://d-bl.github.io/GroundForge/index.html?m=5831%20-4-7%3Bbricks%3B16%3B16%3B0%3B0&s1=ct%20A1%3Dctct%20C1%3Dctct">G-result</a><a href="https://d-bl.github.io/GroundForge/tiles?repeatWidth=12&repeatHeight=12&a1=ctct&b1=ct&c1=ctct&d1=ct&b2=ct&d2=ct&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=5831,-4-7">result</a>.
+Example: The picture shows the working-scheme's of one unit of <i>Slavic rose ground</i> and one unit of <i>Fond au cinq trous</i>. Groundforge gives the same <a href="https://d-bl.github.io/GroundForge/tiles?repeatWidth=12&repeatHeight=12&a1=ctct&b1=ct&c1=ctct&d1=ct&b2=ct&d2=ct&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=5831,-4-7">result</a>.
 {% endcapture %}
 {% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-slaaf-vierge.png"
@@ -20,9 +20,7 @@ Example: The picture shows the working-scheme's of one unit of <i>Slavic rose gr
 %}
 
 {% capture names2 %}
-We have learned, that the figure on the left is called a <a href="https://d-bl.github.io/GroundForge/index.html?m=-5--%0AB-C-%0A-5-5%0A5-5-%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20A4%3Dctclll%20D1%3Dctcttt%20%20C4%3Dctcrrr"><i>G-snowflake</i></a> <a href="https://d-bl.github.io/GroundForge/tiles?repeatWidth=16&repeatHeight=16&b1=ctc&a2=ctc&c2=ctc&b3=ctcttt&d3=tttctc&a4=ctc&c4=ctc&shiftColsSE=2&shiftRowsSE=4&shiftColsSW=-2&shiftRowsSW=4&tile=-5--,B-C-,-5-5,5-5-"><i>snowflake></i></a>
-and the figure on the right a <a href="https://d-bl.github.io/GroundForge/index.html?m=-5--%0AB-C-%0A-5-5%0A5-5-%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B3%3Dctcctc%20A4%3Dctclll%20D1%3Dctcttt%20%20C4%3Dctcrrr"><i>G-spider</i></a>
-<a href="https://d-bl.github.io/GroundForge/tiles?repeatWidth=16&repeatHeight=16&b1=ctcctc&a2=ctc&c2=ctc&b3=ctcttt&d3=tttctc&a4=ctc&c4=ctc&shiftColsSE=2&shiftRowsSE=4&shiftColsSW=-2&shiftRowsSW=4&tile=-5--,B-C-,-5-5,5-5-,"><i>spider></i></a>. Groundforge does not make this difference. It only depends on the stitch in the centre: <span class="stch">ctcctc</span> for the spider or <span class="stch">ctc</span> for the snowflake.
+We have learned, that the figure on the left is called a <a href="https://d-bl.github.io/GroundForge/tiles?repeatWidth=16&repeatHeight=16&b1=ctc&a2=ctc&c2=ctc&b3=ctcttt&d3=tttctc&a4=ctc&c4=ctc&shiftColsSE=2&shiftRowsSE=4&shiftColsSW=-2&shiftRowsSW=4&tile=-5--,B-C-,-5-5,5-5-"><i>snowflake</i></a> and the figure on the right a <a href="https://d-bl.github.io/GroundForge/tiles?repeatWidth=16&repeatHeight=16&b1=ctcctc&a2=ctc&c2=ctc&b3=ctcttt&d3=tttctc&a4=ctc&c4=ctc&shiftColsSE=2&shiftRowsSE=4&shiftColsSW=-2&shiftRowsSW=4&tile=-5--,B-C-,-5-5,5-5-,"><i>spider</i></a>. Groundforge does not make this difference. It only depends on the stitch in the centre: <span class="stch">ctcctc</span> for the spider or <span class="stch">ctc</span> for the snowflake.
 {% endcapture %}
 {% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-snowspin.png"
@@ -79,7 +77,7 @@ The examples provided focus on just elements of the grounds. No attention is pai
 
 [G-ex-5G]: https://d-bl.github.io/GroundForge/index.html?m=5831%20-4-7%3Bbricks%3B16%3B16%3B0%3B0&s1=ct%20A1%3Dctct%20C1%3Dctct
 
-[G- ex-0306]: https://d-bl.github.io/GroundForge/index.html?m=--B-C---%0A-E-5-O-K%0A5-----5-%0A-------5%3Bbricks%3B24%3B24%3B0%3B0&s1=c%20F4%3Dctct%20B2%3Dtct%20B4%3Dtctc%20A1%3Dcl%20C1%3Dcr
+[G-ex-0306]: https://d-bl.github.io/GroundForge/index.html?m=--B-C---%0A-E-5-O-K%0A5-----5-%0A-------5%3Bbricks%3B24%3B24%3B0%3B0&s1=c%20F4%3Dctct%20B2%3Dtct%20B4%3Dtctc%20A1%3Dcl%20C1%3Dcr
 
 [T-ex-0306]: https://d-bl.github.io/GroundForge/tiles?repeatWidth=24&repeatHeight=24&c1=c&e1=c&b2=c&d2=tctc&f2=c&h2=ctct&a3=cr&g3=cl&h4=tct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=--B-C---,-E-5-O-K,5-----5-,-------5
 
