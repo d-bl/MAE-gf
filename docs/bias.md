@@ -25,44 +25,36 @@ The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagra
 ## Traditional Bias Ground
 ![traditional][P-0221-tr]      
 Ground mt-0228 is a variant in cloth stitch.
-* [g-traditional][G-0221-tr], [g-mt-0228][G-0228-OD]
 * [traditional][T-0221-tr], [mt-0228][T-0228-OD]
 
 ##  Bias Ground crossed rose style
 ![crossed][P-0221-at]
-* [g-WI D6][G-wi-D6], [g-WI F4][G-wi-F4], [g-mt-0278][G-0278-KG]
 * [WI D6][T-wi-D6], [Wi F4][T-wi-F4], [mt-0278][T-0278-KG]
 
 ## Bias Ground crossed differently
 ![alt crossed][P-0221-aa]
-* [g-WI E6][G-wi-E6]
 * [WI E6][T-wi-E6]
 
 ## Bias Ground with a diagonal in between
 ![row between][P-0221-vg] ![bias in square][P-bias-sq]
-* [g-example][G-0221-vg], [g-in a square][G-bs-sq]
 * [example][T-0221-vg], [in a square][T-bs-sq]
 
 ## Bias Ground crossed and a diagonal in between   
 ![row and crossed][P-0221-av]
-* [g-example][G-0221-av]
 * [example][T-0221-av]
 
 ## Unit bias in a square
 ![short bias in square][pic-uni-bsq]
-* [g-example][G-uni-sbq]
 * [example][T-uni-sbq]
 
 ## Bias Ground crossed and in a square
 ![bias crossed and square][P-bias-xq]
-* [g-example][G-bs-xq]
 * [example][T-bs-xq]
 
 ## Short Bias
 Take just one unit of the Bias ground and place them all in the same direction (mt-0228-s), or in alternating directions (mt-0228-a). The latter may give nice results in two colours. The placing of the units in alternating directions is also shown in mrs Irvine's paper (VI). 
 
 ![same direction][pic-0228-OG] ![alternating][pic-0228-OGy] ![short bias foto][foto-0228-OGy] 
-* [g-mt-0228-s][G-0228-OG], [g-mt-0228-a][G-0228-OGy], [g-VI][G-0267-OGy]
 * [mt-0228-s][T-0228-OG], [mt-0228-a][T-0228-OGy], [VI][T-0267-OGy]
 
 ***
