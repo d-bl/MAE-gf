@@ -29,7 +29,6 @@ English is not my native language, so please forgive me any mistakes.
   src="https://maetempels.github.io/MAE-gf/images/pict-double.png"
   alt="some nice ground"
 %}  
-[G-mt-1211][G-1211]
 [mt-1211][T-1211]
 
 ***
