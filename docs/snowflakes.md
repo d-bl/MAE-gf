@@ -33,10 +33,11 @@ For the Binche spiders see <a href="https://maetempels.github.io/MAE-gf/docs/spi
 * [mt-0342][T-ex-0342]
 
 ## Snowflake in a square
-![snowflake squared][pic-sn-squ]   
+![snowflake squared][pic-sn-uni-sq]   
 * [mt-0306][T-ex-0306]
 
 ## Snowflake in a square, crossed
+![snowflake square crossed][pic-sn-uni-sc]
 * [mt-0342][T-0342-sq]
 
 ## Snowflakes diagonal
@@ -55,6 +56,8 @@ For the Binche spiders see <a href="https://maetempels.github.io/MAE-gf/docs/spi
 [pic-sn-cr]: https://maetempels.github.io/MAE-gf/images_wt/gf-sn-cr-wt.png
 [pic-sn-dia]: https://maetempels.github.io/MAE-gf/images_wt/gf-sn-dia-wt.png
 [pic-sn-squ]: https://maetempels.github.io/MAE-gf/images_wt/gf%200301%20wt.png
+[pic-sn-uni-sc]: https://maetempels.github.io/MAE-gf/images_wt/sn-uni-sc.png
+[pic-sn-uni-sq]: https://maetempels.github.io/MAE-gf/images_wt/sn-uni-sq.png
 
 [G-ex-0306]: https://d-bl.github.io/GroundForge/index.html?m=5--5--%0A-C632B%0A566-22%3Bbricks%3B16%3B16%3B0%3B0&s1=ctctt%20E1%3Dct%20A1%3Dct%20F2%3Dct%20B3%3Dctl%20D3%3Dctr%20F3%3Dctct
 [T-ex-0306]: https://d-bl.github.io/GroundForge/tiles?repeatWidth=12&repeatHeight=12&a1=ct&d1=ctctt&b2=ctr&c2=ctctt&d2=ctct&e2=ctctt&f2=ctl&a3=ctctt&b3=ctctt&c3=ct&e3=ct&f3=ctctt&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5--5--,-C632B,566-22,
