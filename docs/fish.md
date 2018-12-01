@@ -91,14 +91,13 @@ Building bigger fish is illustrated in the following picture. Please note the ch
 
 [T-222]: https://d-bl.github.io/GroundForge/tiles?patchWidth=8&patchHeight=13&a1=ctctt&b2=ctctt&a3=ctc&a4=ctcll&b4=ctc&a5=ctc&b5=ctcrr&a6=ctctt&tile=5-,-5,5-,12,88,4-,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=6&shiftColsSE=1&shiftRowsSE=6
 
-[TD-223]: https://d-bl.github.io/GroundForge/tiles?patchWidth=8&patchHeight=17&b1=ctct&a2=ctct&b3=ct&a4=ctct&b5=ctc&a6=ctcl&b6=ctcl&a7=ctcr&b7=ctc&tile=-4,5-,-5,5-,-5,21,88,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=7&shiftColsSE=2&shiftRowsSE=7
+[TD-223]: https://d-bl.github.io/GroundForge/tiles?patchWidth=8&patchHeight=17&b1=ctct&a2=ctct&b3=ct&a4=ctct&b5=ctc&a6=rctc&b6=ctc&a7=ctcr&b7=ctc&tile=-4,5-,-5,5-,-5,21,88,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=7&shiftColsSE=2&shiftRowsSE=7
 
 [T-322]: https://d-bl.github.io/GroundForge/tiles?patchWidth=8&patchHeight=17&a1=ctct&b2=ctct&a3=ctc&a4=ctclll&b4=ctc&a5=ctc&b5=ctcrrr&a6=ctclll&b6=ctc&a7=ctct&tile=5-,-5,5-,12,88,11,4-,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=7&shiftColsSE=1&shiftRowsSE=7
 
 [T-42-]: https://d-bl.github.io/GroundForge/tiles?patchWidth=10&patchHeight=12&a1=ctc&a2=ctcll&b2=ctc&a3=ctc&b3=ctcrr&a4=ctcll&b4=ctc&a5=ctc&b5=ctcrr&tile=4-,12,88,11,88,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=5&shiftColsSE=2&shiftRowsSE=5
 
-[T-421
-WI-E16]: https://d-bl.github.io/GroundForge/tiles?patchWidth=10&patchHeight=16&a1=ctct&b2=ctc&a3=ctc&b3=ctcll&a4=ctcrr&b4=ctc&a5=ctc&b5=ctcll&a6=ctcrr&b6=ctc&b7=ctct&tile=5-,-5,21,88,11,88,-4,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=7&shiftColsSE=2&shiftRowsSE=7
+[T-421]: https://d-bl.github.io/GroundForge/tiles?patchWidth=10&patchHeight=16&a1=ctct&b2=ctc&a3=ctc&b3=ctcll&a4=ctcrr&b4=ctc&a5=ctc&b5=ctcll&a6=ctcrr&b6=ctc&b7=ctct&tile=5-,-5,21,88,11,88,-4,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=7&shiftColsSE=2&shiftRowsSE=7
 
 [T-422]: https://d-bl.github.io/GroundForge/tiles?patchWidth=10&patchHeight=16&a1=ctct&b2=ctct&a3=ctc&a4=ctcll&b4=ctc&a5=ctc&b5=ctcrr&a6=ctcll&b6=ctc&a7=ctc&b7=ctcrr&a8=ctct&tile=5-,-5,5-,12,88,11,88,4-,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=8&shiftColsSE=1&shiftRowsSE=8
 
