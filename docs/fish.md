@@ -25,12 +25,12 @@ Fish B,S,W means: the number of Bones, the number of Spines and the number of Wa
 
 ## Fish examples
 * WI E14   
-* [Fish B1,S2,W-][F12-]   
-* [Fish B2,S2,W-][F22-] , [Fish B2,S2,W0][F220] (WI G14), [Fish B2,S2,W2][F222] (WI G16)     
-* [Fish B3,S2,W2][F322]               
-* [Fish B4,S2,W-][F42-] (WI D16), [Fish B4,S2,W1][F421] (WI E16), [Fish B4,S2,W2][F422] (WI F16)      
-* [Fish B5,S2,W-][F52-] , [Fish B5,S2,W0][F520]   
-* [jp-double fish B2,S2,W1][FD221] , [jp-double fish B2,S2,W3][FD223] 
+* [Fish B1,S2,W-][T-12-]   
+* [Fish B2,S2,W-][T-22-] , [Fish B2,S2,W0][T-220] (WI G14), [Fish B2,S2,W2][T-222] (WI G16)     
+* [Fish B3,S2,W2][T-322]               
+* [Fish B4,S2,W-][T-42-] (WI D16), [Fish B4,S2,W1][T-421] (WI E16), [Fish B4,S2,W2][T-422] (WI F16)      
+* [Fish B5,S2,W-][T-52-] , [Fish B5,S2,W0][T-520]   
+* [jp-double fish B2,S2,W1][TD-221] , [jp-double fish B2,S2,W3][TD-223] 
 
 ## Fish examples with multiple levels     
 Example _double fish B2,S2,W3_ also provides stitches for level 2 which uses the thread diagram of the first level as pair diagram for the second level. Please replace <span class="elem">cross b102</span> in the level-2 thread diagram with a <span class="stch">half knot</span> or two to mimic a twisted pair.       
@@ -80,3 +80,30 @@ Building bigger fish is illustrated in the following picture. Please note the ch
 [FD223]: https://d-bl.github.io/GroundForge/index.html?m=-4%20%205-%20%20-5%20%205-%20%20-5%20%2021%20%2088%3Bchecker%3B20%3B12%3B0%3B0&s1=ctc%20B1%3Dct%20B6%3Dctct%20B4%3Dctcl%20B5%3Dlctc%20A7%3DA2%3Dctct&s2=ctc%20b10%3Dtct%20b65%3Dtt%20b64%3Dtt%20a24%3Dtt%20a25%3Dtt%20b44%3Dttctctt%20b50%3Dttctctt&s3=&
 
 [F3-223]: https://d-bl.github.io/GroundForge/index.html?m=8%0A1%0A8%0A1%0A%3Bchecker%3B11%3B7%3B0%3B0&s1=%20a1%3Dctc%20a2%3Dcr%20a3%3Dc%20a4%3Dlc&s2=ctc%20a10%3Dctcr%20a13%3Dlctc%20a20%3Da21%3Da40%3Dctct%20a30%3Dct&s3=ctc%20a104%3Da130%3Dttctctt%20a204%3Da205%3Da404%3Da405%3Dtt%20a300%3Dtct
+
+[T-12-]: https://d-bl.github.io/GroundForge/tiles?patchWidth=8&patchHeight=8&a1=ctc&a2=ctcr&tile=8,1&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
+
+[T-22-]: https://d-bl.github.io/GroundForge/tiles?patchWidth=8&patchHeight=8&a1=ctc&a2=ctclll&b2=ctc&a3=ctc&b3=ctcrrr&tile=4-,12,88&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=2&shiftRowsSE=3
+
+[T-220]: https://d-bl.github.io/GroundForge/tiles?patchWidth=8&patchHeight=8&a1=ctc&a2=ctcll&b2=ctc&a3=ctc&b3=ctcrr&a4=ctctt&tile=5-,12,88,4-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=4&shiftColsSE=1&shiftRowsSE=4
+
+[TD-221]: https://d-bl.github.io/GroundForge/tiles?patchWidth=8&patchHeight=13&a1=ctct&b2=ct&a3=ctc&a4=ctcl&b4=ctc&a5=ctc&b5=ctcr&tile=4-,-5,5-,12,88,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=5&shiftColsSE=2&shiftRowsSE=5
+
+[T-222]: https://d-bl.github.io/GroundForge/tiles?patchWidth=8&patchHeight=13&a1=ctctt&b2=ctctt&a3=ctc&a4=ctcll&b4=ctc&a5=ctc&b5=ctcrr&a6=ctctt&tile=5-,-5,5-,12,88,4-,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=6&shiftColsSE=1&shiftRowsSE=6
+
+[TD-223]: https://d-bl.github.io/GroundForge/tiles?patchWidth=8&patchHeight=17&b1=ctct&a2=ctct&b3=ct&a4=ctct&b5=ctc&a6=ctcl&b6=ctcl&a7=ctcr&b7=ctc&tile=-4,5-,-5,5-,-5,21,88,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=7&shiftColsSE=2&shiftRowsSE=7
+
+[T-322]: https://d-bl.github.io/GroundForge/tiles?patchWidth=8&patchHeight=17&a1=ctct&b2=ctct&a3=ctc&a4=ctclll&b4=ctc&a5=ctc&b5=ctcrrr&a6=ctclll&b6=ctc&a7=ctct&tile=5-,-5,5-,12,88,11,4-,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=7&shiftColsSE=1&shiftRowsSE=7
+
+[T-42-]: https://d-bl.github.io/GroundForge/tiles?patchWidth=10&patchHeight=12&a1=ctc&a2=ctcll&b2=ctc&a3=ctc&b3=ctcrr&a4=ctcll&b4=ctc&a5=ctc&b5=ctcrr&tile=4-,12,88,11,88,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=5&shiftColsSE=2&shiftRowsSE=5
+
+[T-421
+WI-E16]: https://d-bl.github.io/GroundForge/tiles?patchWidth=10&patchHeight=16&a1=ctct&b2=ctc&a3=ctc&b3=ctcll&a4=ctcrr&b4=ctc&a5=ctc&b5=ctcll&a6=ctcrr&b6=ctc&b7=ctct&tile=5-,-5,21,88,11,88,-4,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=7&shiftColsSE=2&shiftRowsSE=7
+
+[T-422]: https://d-bl.github.io/GroundForge/tiles?patchWidth=10&patchHeight=16&a1=ctct&b2=ctct&a3=ctc&a4=ctcll&b4=ctc&a5=ctc&b5=ctcrr&a6=ctcll&b6=ctc&a7=ctc&b7=ctcrr&a8=ctct&tile=5-,-5,5-,12,88,11,88,4-,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=8&shiftColsSE=1&shiftRowsSE=8
+
+[T-52-]: https://d-bl.github.io/GroundForge/tiles?patchWidth=10&patchHeight=14&a1=ctc&a2=ctcll&b2=ctc&a3=ctc&b3=ctcrr&a4=ctcll&b4=ctc&a5=ctc&b5=ctcrr&a6=ctcll&b6=ctc&tile=4-,12,88,11,88,11,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6
+
+[T-520]: https://d-bl.github.io/GroundForge/tiles?patchWidth=10&patchHeight=14&a1=ctc&a2=ctcll&b2=ctc&a3=ctc&b3=ctcrr&a4=ctcll&b4=ctc&a5=ctc&b5=ctcrr&a6=ctcll&b6=ctc&a7=ctct&tile=5-,12,88,11,88,11,4-,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=7&shiftColsSE=1&shiftRowsSE=7
+
+
