@@ -103,4 +103,4 @@ However, as the tiling-parameter is set to <span class="elem">brick</span> the s
 
 [T-OO-12A]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&b1=ct&c1=ct&a2=ctct&b2=ctct&c2=ctct&tile=888,111&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=3&shiftRowsSE=2
 
-[T-PAR-SQR1]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctct&c1=ctct&e1=ctc&g1=ctc&b2=ctct&d2=ctc&f2=tctc&h2=ctc&a3=ctc&c3=ctc&e3=tctcr&g3=tctct&b4=ctc&d4=tctct&h4=tctct&tile=C-B-5-5-,-5-5-5-5,5-5-5-5-,-5-5---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[T-PAR-SQR1]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctct&c1=ctct&e1=ctc&g1=ctc&b2=ctct&d2=ctc&f2=tctc&h2=ctc&a3=ctc&c3=ctc&e3=tctcr&g3=tctcl&b4=ctc&d4=tctct&h4=tctct&tile=C-B-5-5-,-5-5-5-5,5-5-5-5-,-5-5---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
