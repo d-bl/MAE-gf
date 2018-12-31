@@ -24,7 +24,7 @@ Please note: when making the actual lace, it will make a big difference if the u
 
 ![torchon-flemish][pic-tor-flem]      
 ![photo-0112-torchon][ph-0112-t] ![photo-0112-flemish][ph-0112-f]
-* [mt-0112][G-0112]
+* [mt-0112][T-0112]
 
 ## Snowflakes in a square
 See page [_Snowflakes_][page-snow].
@@ -40,7 +40,7 @@ See page [_Bias grounds_][page-bias].
 
 ## Paris ground in a square
 ![paris in square][pic-par-sqr]
-* [example][g-par-sqr1]
+* [example][T-PAR-SQR1]
 
 ## Alternate stitch ground
 {% capture omenom1 %}
@@ -53,11 +53,11 @@ However, as the tiling-parameter is set to <span class="elem">brick</span> the s
   description=omenom1
 %}
 
-* [o&amp;o 11][oo-11], [o&amp;o 12][oo-12], [o&amp;o 12a][oo-12a]
+* [o&amp;o 11][T-OO-11], [o&amp;o 12][T-OO-12], [o&amp;o 12a][T-OO-12a]
 
 ## Big Paris ground
 ![big paris][pic-big-paris]
-* [traditional][big-rg1], [mt-3412][G-3412]
+* [traditional][T-BIG-RG1], [mt-3412][T-3412]
 
 ***
 
@@ -79,17 +79,28 @@ However, as the tiling-parameter is set to <span class="elem">brick</span> the s
 
 [G-0306]: https://d-bl.github.io/GroundForge/index.html?m=5--5--%0A-C632B%0A566-22%3Bbricks%3B16%3B16%3B0%3B0&s1=ctctt%20E1%3Dct%20A1%3Dct%20F2%3Dct%20B3%3Dctl%20D3%3Dctr%20F3%3Dctct
 
-[oo-11]: https://d-bl.github.io/GroundForge/index.html?m=88%0A11%3Bchecker%3B24%3B24%3B0%3B0&s1=ct%20A1%3Dctct%20B2%3Dctct
+[G-OO-11]: https://d-bl.github.io/GroundForge/index.html?m=88%0A11%3Bchecker%3B24%3B24%3B0%3B0&s1=ct%20A1%3Dctct%20B2%3Dctct
 
-[oo-12a]: https://d-bl.github.io/GroundForge/index.html?m=888%0A111%3Bchecker%3B24%3B24%3B0%3B0&s1=ctct%20A1%3Dct%20C1%3Dct
+[G-OO-12a]: https://d-bl.github.io/GroundForge/index.html?m=888%0A111%3Bchecker%3B24%3B24%3B0%3B0&s1=ctct%20A1%3Dct%20C1%3Dct
 
-[oo-12]: https://d-bl.github.io/GroundForge/index.html?m=888%0A111%0A888%0A111%0A888%0A111%3Bchecker%3B24%3B24%3B0%3B0&s1=ct%20A1%3Dctct%20B2%3Dctct%20C3%3Dctct%20A4%3Dctct%20B5%3Dctct%20C6%3Dctct
+[G=OO-12]: https://d-bl.github.io/GroundForge/index.html?m=888%0A111%0A888%0A111%0A888%0A111%3Bchecker%3B24%3B24%3B0%3B0&s1=ct%20A1%3Dctct%20B2%3Dctct%20C3%3Dctct%20A4%3Dctct%20B5%3Dctct%20C6%3Dctct
 
 [G-3412]: https://d-bl.github.io/GroundForge/index.html?m=-5---5%0A--C-B-%0A-B-5-C%3Bbricks%3B24%3B24%3B0%3B0&s1=ct%20F1%3Dctc%20E3%3Dc%20A3%3Dc
 
-[big-rg1]: https://d-bl.github.io/GroundForge/index.html?m=-5---5%0A--C-B-%0A-B-5-C%3Bbricks%3B24%3B24%3B0%3B0&s1=ctct%20B1%3Dct%20D1%3Dct
+[G-BIG-RG1]: https://d-bl.github.io/GroundForge/index.html?m=-5---5%0A--C-B-%0A-B-5-C%3Bbricks%3B24%3B24%3B0%3B0&s1=ctct%20B1%3Dct%20D1%3Dct
 
-[g-par-sqr1]: https://d-bl.github.io/GroundForge/index.html?m=C-B-5-5-%0A-5-5-5-5%0A5-5-5-5-%0A-5-5---5%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20D4%3Dtctc%20G1%3Dtctcr%20F2%3Dtctct%20A1%3Dtctcl%20B2%3Dtctct%20A3%3Dctct%20H4%3Dctct%20G3%3Dctct
+[G-PAR-SQR1]: https://d-bl.github.io/GroundForge/index.html?m=C-B-5-5-%0A-5-5-5-5%0A5-5-5-5-%0A-5-5---5%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20D4%3Dtctc%20G1%3Dtctcr%20F2%3Dtctct%20A1%3Dtctcl%20B2%3Dtctct%20A3%3Dctct%20H4%3Dctct%20G3%3Dctct
 
+[T-0112]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctt&c1=ctctt&e1=ctctt&f1=ctt&b2=ctctt&c2=c&d2=ctct&e2=c&f2=ctctt&a3=ctctt&c3=ctcr&e3=ctcl&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
+[T-3412]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=24&b1=ct&f1=ct&c2=c&e2=c&b3=ct&d3=ctc&f3=ct&tile=-5---5,--C-B-,-B-5-C&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
+[T-BIG-RG1]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&b1=ctct&f1=ctct&c2=ctct&e2=ctct&b3=ct&d3=ctct&f3=ct&tile=-5---5,--C-B-,-B-5-C&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
+
+[T-OO-11]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ct&b1=ctct&a2=ctct&b2=ct&tile=88,11&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+
+[T-OO-12]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&b1=ct&c1=ct&a2=ct&b2=ctct&c2=ct&a3=ct&b3=ct&c3=ctct&a4=ctct&b4=ct&c4=ct&a5=ct&b5=ctct&c5=ct&a6=ct&b6=ct&c6=ctct&tile=888,111,888,111,888,111&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=3&shiftRowsSE=6
+
+[T-OO-12A]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&b1=ct&c1=ct&a2=ctct&b2=ctct&c2=ctct&tile=888,111&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=3&shiftRowsSE=2
+
+[T-PAR-SQR1]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctct&c1=ctct&e1=ctc&g1=ctc&b2=ctct&d2=ctc&f2=tctc&h2=ctc&a3=ctc&c3=ctc&e3=tctcr&g3=tctct&b4=ctc&d4=tctct&h4=tctct&tile=C-B-5-5-,-5-5-5-5,5-5-5-5-,-5-5---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
