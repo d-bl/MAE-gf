@@ -71,7 +71,7 @@ See also page [_Snowflakes_][snow-page].
 * [traditional spider, binche style][G-WI-E02] (WI E2)
 
 ## Stacked spiders
-[Another][sa1] ground can be obtained using the corresponding <span class="elem">checkers-matrix</span>, but set the tiling parameter to <span class="elem">brick</span>.
+[Another][T-SA1] ground can be obtained using the corresponding <span class="elem">checkers-matrix</span>, but set the tiling parameter to <span class="elem">brick</span>.
 
 ## Building Spiders
 Adding legs to a spider is the equivalent of adding a ring to it. So, after discovering the matrix for a 4x3 legged spider, a 4x4 or bigger spider is easy. In fact, a formula can be made, see the [_Math_][math-page] page.    
