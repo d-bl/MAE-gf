@@ -84,7 +84,7 @@ Spiders with an eye look like this:
 ***
 [math-page]: https://maetempels.github.io/MAE-gf/docs/maths#spider-formulas
 [snow-page]: https://maetempels.github.io/MAE-gf/docs/snowflakes
-[fish-page]: https://maetempels.github.io/MAE-gf/docs/fish#fish-examples-with-multiple-levels
+[fish-page]: https://maetempels.github.io/MAE-gf/docs/fish#building-fish-with-droste
 
 [pic-ts]: https://maetempels.github.io/MAE-gf/images/gf%20spin%204t.png
 [pic-gen]: https://maetempels.github.io/MAE-gf/images/gf%20spin%20gen.png
