@@ -11,8 +11,8 @@ On this website you find pages with additional patterns for use in Groundforge, 
 
 ## How to use these pages
 All examples are links to the Groundforge main page. Just follow the link. Please feel free to play with the stitches. E.g. try what happens if you change the default <span class="stch">ctc</span> of the spiders or fish in <span class="stch">ct</span>.     
+
 Some examples lead to the Groundforge page with Droste-effect. After clicking <span class="elem">SHOW</span>, click <span class="elem">SHOW</span> in the <span class="elem">LEVEL 2</span> section of the form.
-Some examples are links to the Groundforge "tiles" page. Follow the link. In time, alle examples will lead to these page.
 
 The examples use pair-diagrams in the styled version (_matrix-scheme_) that Groundforge understands.
 Most of the patterns also have a scheme in the TesseLace index. Some, as the spiders and the larger fishes, don't.
