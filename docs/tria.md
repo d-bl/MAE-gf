@@ -33,24 +33,24 @@
   description="The resulting thread diagram shows a pagoda that is bended over, due to the chosen matrix-scheme."
 %}
 
-* [bigger pagoda][ex-bigg]
+* [bigger pagoda][T-bigg]
  
 ## Pagoda's kissing
 ![pg kissing][pg-kiss]
-* [kissing][ex-kiss] 
+* [kissing][T-kiss] 
 
 ## Pagoda's facing
 ![pg facing][pg-face]
-* [facing][ex-face]
+* [facing][T-face]
 
 ## Stacked pagoda's
 ![pg stacked][pg-stck]
-* [stacked][ex-stck]
+* [stacked][T-stck]
          
 ## Pagoda in a square
 The units can be placed all facing in the same direction, or alternating.    
 ![pg in square][pg-sqre]       
-* [square][ex-sqre]
+* [square][T-sqre]
 
 ## Building Pagoda's
 Bigger pagoda's can be build much in the same way as building bigger [_fish_][fish-page].            
@@ -77,14 +77,27 @@ The coloured dots indicate what goes where when translating the working scheme i
 
 [fish-page]: https://maetempels.github.io/MAE-gf/docs/fish#fish-building
 
-[ex-sqre]: https://d-bl.github.io/GroundForge/index.html?m=215-5-%0A-786-5%0A246-5-%3Bbricks%3B24%3B24%3B0%3B0&s1=ctct%20A1%3Dtctc%20B2%3Drctc%20A2%3Dctc%20F2%3Dlctclctcll%20D3%3Dctc%20E3%3Dctcrr%20D1%3Dctctt
+[G-sqre]: https://d-bl.github.io/GroundForge/index.html?m=215-5-%0A-786-5%0A246-5-%3Bbricks%3B24%3B24%3B0%3B0&s1=ctct%20A1%3Dtctc%20B2%3Drctc%20A2%3Dctc%20F2%3Dlctclctcll%20D3%3Dctc%20E3%3Dctcrr%20D1%3Dctctt
 
-[ex-trad]: https://d-bl.github.io/GroundForge/index.html?m=4-12%0A-5--%0A6-CD%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20C1%3Dtttctc%20A2%3Dctcttt
+[G-trad]: https://d-bl.github.io/GroundForge/index.html?m=4-12%0A-5--%0A6-CD%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20C1%3Dtttctc%20A2%3Dctcttt
 
-[ex-bigg]: https://d-bl.github.io/GroundForge/index.html?m=5-----%0A-CDDD6%0A246631%0A224-12%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20A1%3Dlllctc%20E4%3Dtttctc%20D1%3Dctclll%20E2%3Dctcttt
+[G-bigg]: https://d-bl.github.io/GroundForge/index.html?m=5-----%0A-CDDD6%0A246631%0A224-12%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20A1%3Dlllctc%20E4%3Dtttctc%20D1%3Dctclll%20E2%3Dctcttt
 
-[ex-kiss]: https://d-bl.github.io/GroundForge/index.html?m=5---5---%0A-CD6-2AB%0A-468-127%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20F3%3Dttctc%20H3%3Dttctc%20B1%3Dctctt%20D1%3Dctctt
+[G-kiss]: https://d-bl.github.io/GroundForge/index.html?m=5---5---%0A-CD6-2AB%0A-468-127%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20F3%3Dttctc%20H3%3Dttctc%20B1%3Dctctt%20D1%3Dctctt
 
-[ex-face]: https://d-bl.github.io/GroundForge/index.html?m=5-----5-%0A-CD3AB-5%0A2468-7-1%0A----5-5-%0AD3AB-5-C%0A68-7-124%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20D3%3Dttctc%20F4%3Dctctt%20F6%3Dttctc%20B4%3Dctctt%20H3%3Dttctc%20H1%3Dctctt%20D1%3Dctctt%20B6%3Dttctc
+[G-face]: https://d-bl.github.io/GroundForge/index.html?m=5-----5-%0A-CD3AB-5%0A2468-7-1%0A----5-5-%0AD3AB-5-C%0A68-7-124%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20D3%3Dttctc%20F4%3Dctctt%20F6%3Dttctc%20B4%3Dctctt%20H3%3Dttctc%20H1%3Dctctt%20D1%3Dctctt%20B6%3Dttctc
 
-[ex-stck]: https://d-bl.github.io/GroundForge/index.html?m=5-4-5-%0A-215-5%0A5-78-1%0A8-4-58%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20D3%3Dtttctcttt%20F3%3Dtttctcttt%20A2%3Dlllctc%20A4%3Dctclll
+[G-stck]: https://d-bl.github.io/GroundForge/index.html?m=5-4-5-%0A-215-5%0A5-78-1%0A8-4-58%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20D3%3Dtttctcttt%20F3%3Dtttctcttt%20A2%3Dlllctc%20A4%3Dctclll
+
+[T-bigg]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctclll&b2=ctc&c2=ctc&d2=ctc&e2=ctcrrr&f2=ctc&a3=ctc&b3=ctclll&c3=ctc&d3=ctcrrr&e3=ctc&f3=ctc&a4=ctc&b4=ctc&c4=ctcttt&e4=ctc&f4=ctc&tile=5-----,,-CDDD6,246631,224-12&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=4
+
+[T-face]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctcll&g1=ctcrr&b2=ctc&c2=ctc&d2=ttctc&e2=ctc&f2=ctc&h2=ctc&a3=ctc&b3=ctctt&c3=ctc&d3=ctc&f3=ctctt&h3=ctc&e4=ctcrr&g4=ctcll&a5=ctc&b5=ttctc&c5=ctc&d5=ctc&f5=ctc&h5=ctc&a6=ctc&b6=ctc&d6=ctctt&f6=ctc&g6=ctc&h6=ctctt&tile=5-----5-,-CD3AB-5,2468-7-1,----5-5-,D3AB-5-C,68-7-124&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6
+
+[T-kiss]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctc&e1=ctc&b2=ctc&c2=ctc&d2=ttctc&f2=ttctc&g2=ctc&h2=ctc&b3=ctctt&c3=ctc&d3=ctc&f3=ctc&g3=ctc&h3=ctctt&tile=5---5---,-CD6-2AB,-468-127&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
+
+[T-sqre]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=lctcllctcll&b1=ctc&c1=ctc&e1=ctct&b2=ctc&c2=ctcrr&d2=ctctr&f2=ctctl&a3=ctct&b3=ctctt&c3=ctctr&e3=ctc&tile=215-5-,-786-5,246-5-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
+
+[T-stck]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctcttt&c1=ctc&e1=ctcttt&b2=ctclll&c2=ctc&d2=ctc&f2=ctc&a3=ctc&c3=ctc&d3=ctcrrr&f3=ctc&a4=ctcrrr&c4=ctcttt&e4=ctclll&f4=ctc&tile=5-4-5-,-215-5,5-78-1,8-4-58&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=4
+
+[T-trad]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctcttt&c1=ctc&d1=ctc&b2=ctc&a3=tttctc&c3=ctc&d3=ctc&tile=4-12,-5--,6-CD&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=3&shiftColsSE=2&shiftRowsSE=3
+
