@@ -27,12 +27,7 @@
 * [traditional][T-trad] 
 
 ## Bigger pagoda's
-{% include picts-left.html
-  src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-bigg.png"
-  alt="bigg pg"
-  description="The resulting thread diagram shows a pagoda that is bended over, due to the chosen matrix-scheme."
-%}
-
+![pg-bigg][pg-bigg]
 * [bigger pagoda][T-bigg]
  
 ## Pagoda's kissing
