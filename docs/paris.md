@@ -9,7 +9,8 @@
 
 ## Introduction
 {% capture paris1 %}
-The examples on this page came to life as variations on a rose-ground with "do nothing (much)" on the left and right. My first studies of Groundforge learned me, that the scheme needed was actually a paris ground!
+The examples on this page came to life as variations on a rose-ground with "do nothing (much)" on the left and right. My first studies of Groundforge learned me, that the scheme needed was actually a paris ground!<b>
+The photo shows the example on the bottom of this page, but slighty adapted to get the colours right.
 {% endcapture %}
 {% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/photos/0434.png"
@@ -18,7 +19,7 @@ The examples on this page came to life as variations on a rose-ground with "do n
 %}
 ![paris ground][pic-par-grnd]
 
-## examples
+## Examples
 * [mt-0402][T-0402-LG], [mt-0403][T-0403-KG], [mt-0424][T-0424-KG]      
 * The last example as a unit, [connected with plaits][T-0424-KF].
 
@@ -32,7 +33,7 @@ The examples on this page came to life as variations on a rose-ground with "do n
 
 ## Way of making
 The following example uses three different matrix-scheme's to obtain the same ground.
-* [as rose ground][T-0404-r], [as paris ground][T-0404-p], [as torchon ground][T-0404-t]
+* [as paris ground][T-0404-p], [as rose ground][T-0404-r], [as torchon ground][T-0404-t]
 
 ***
 [pic-par-grnd]: https://maetempels.github.io/MAE-gf/images_wt/G-04.png
