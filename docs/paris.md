@@ -14,7 +14,7 @@ The examples on this page came to life as variations on a rose-ground with "do n
 {% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/photos/0434.png"
   alt="photo mt-0434"
-  description=mt-0434
+  description=paris1
 %}
 ![paris ground][pic-par-grnd]
 
@@ -33,7 +33,6 @@ The examples on this page came to life as variations on a rose-ground with "do n
 ## Way of making
 The following example uses three different matrix-scheme's to obtain the same ground.
 * [as rose ground][T-0404-r], [as paris ground][T-0404-p], [as torchon ground][T-0404-t]
-
 
 ***
 [pic-par-grnd]: https://maetempels.github.io/MAE-gf/images_wt/G-04.png
