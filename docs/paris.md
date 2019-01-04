@@ -2,19 +2,25 @@
 
 ## Contents
 * [Introduction](#introduction)
-* Examples
+* [Examples](#examples)
 * [Paris ground](#paris-ground-in-a-square)
 * [Big Paris ground](#big-paris-ground)
 * [Way of making](#way-of-making)
 
 ## Introduction
-![mt0434][ph-0434]
+{% capture paris1 %}
 The examples on this page came to life as variations on a rose-ground with "do nothing (much)" on the left and right. My first studies of Groundforge learned me, that the scheme needed was actually a paris ground!
+{% endcapture %}
+{% include picts-right.html
+  src="https://maetempels.github.io/MAE-gf/photos/0434.png"
+  alt="photo mt-0434"
+  description=mt-0434
+%}
 ![paris ground][pic-par-grnd]
 
 ## examples
-* [mt-0402][T-0402-LG], [mt-0403][T-0403-KG], [mt-0424][T-0424-KG]
-The last example as a unit, [connected with plaits][T-0424-KF].
+* [mt-0402][T-0402-LG], [mt-0403][T-0403-KG], [mt-0424][T-0424-KG]      
+* The last example as a unit, [connected with plaits][T-0424-KF].
 
 ## Paris ground in a square
 ![paris in square][pic-par-sqr]
@@ -26,7 +32,7 @@ The last example as a unit, [connected with plaits][T-0424-KF].
 
 ## Way of making
 The following example uses three different matrix-scheme's to obtain the same ground.
-[as rose ground][T-0404-r], [as paris ground][T-0404-p], [as torchon ground][T-0404-t]
+* [as rose ground][T-0404-r], [as paris ground][T-0404-p], [as torchon ground][T-0404-t]
 
 
 ***
