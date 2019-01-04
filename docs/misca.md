@@ -13,7 +13,6 @@
 
 **Others**
 * [Alternate stitch ground (om &amp; om)](#alternate-stitch-ground)
-* [Big Paris ground](#big-paris-ground)
 
 ## Introduction
 Miscellaneous examples, collected on this page. 
@@ -39,8 +38,7 @@ See page [_Pagoda's_][page-tria].
 See page [_Bias grounds_][page-bias].
 
 ## Paris ground in a square
-![paris in square][pic-par-sqr]
-* [example][T-PAR-SQR1]
+See page [_Paris grounds_][page-paris].
 
 ## Alternate stitch ground
 {% capture omenom1 %}
@@ -55,9 +53,6 @@ However, as the tiling-parameter is set to <span class="elem">brick</span> the s
 
 * [o&amp;o 11][T-OO-11], [o&amp;o 12][T-OO-12], [o&amp;o 12a][T-OO-12a]
 
-## Big Paris ground
-![big paris][pic-big-paris]
-* [traditional][T-BIG-RG1], [mt-3412][T-3412]
 
 ***
 
@@ -65,12 +60,11 @@ However, as the tiling-parameter is set to <span class="elem">brick</span> the s
 [page-spid]: https://maetempels.github.io/MAE-gf/docs/spiders
 [page-tria]: https://maetempels.github.io/MAE-gf/docs/tria#pagoda-in-a-square
 [page-bias]: https://maetempels.github.io/MAE-gf/docs/bias#unit-bias-in-a-square
+[page-paris]: https://maetempels.github.io/MAE-gf/docs/paris#paris-ground-in-a-square
 
 [pic-tor-flem]: https://maetempels.github.io/MAE-gf/images_wt/gf-tor-vl.png
 [pic-0306-OIv]: https://maetempels.github.io/MAE-gf/images_wt/gf%200301%20wt.png
 [pic-oeno]: https://maetempels.github.io/MAE-gf/images_wt/gf-oeno-11.png
-[pic-big-paris]:  https://maetempels.github.io/MAE-gf/images_wt/big-rose.png
-[pic-par-sqr]: https://maetempels.github.io/MAE-gf/images_wt/gf-rose-in-sqr.png
 
 [ph-0112-t]: https://maetempels.github.io/MAE-gf/photos/ph-0112-t.jpg
 [ph-0112-f]: https://maetempels.github.io/MAE-gf/photos/ph-0112-f.jpg
@@ -83,7 +77,7 @@ However, as the tiling-parameter is set to <span class="elem">brick</span> the s
 
 [G-OO-12a]: https://d-bl.github.io/GroundForge/index.html?m=888%0A111%3Bchecker%3B24%3B24%3B0%3B0&s1=ctct%20A1%3Dct%20C1%3Dct
 
-[G=OO-12]: https://d-bl.github.io/GroundForge/index.html?m=888%0A111%0A888%0A111%0A888%0A111%3Bchecker%3B24%3B24%3B0%3B0&s1=ct%20A1%3Dctct%20B2%3Dctct%20C3%3Dctct%20A4%3Dctct%20B5%3Dctct%20C6%3Dctct
+[G-OO-12]: https://d-bl.github.io/GroundForge/index.html?m=888%0A111%0A888%0A111%0A888%0A111%3Bchecker%3B24%3B24%3B0%3B0&s1=ct%20A1%3Dctct%20B2%3Dctct%20C3%3Dctct%20A4%3Dctct%20B5%3Dctct%20C6%3Dctct
 
 [G-3412]: https://d-bl.github.io/GroundForge/index.html?m=-5---5%0A--C-B-%0A-B-5-C%3Bbricks%3B24%3B24%3B0%3B0&s1=ct%20F1%3Dctc%20E3%3Dc%20A3%3Dc
 
