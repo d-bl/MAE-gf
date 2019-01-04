@@ -8,6 +8,7 @@
 * [Way of making](#way-of-making)
 
 ## Introduction
+![mt0434][ph-0434]
 The examples on this page came to life as variations on a rose-ground with "do nothing (much)" on the left and right. My first studies of Groundforge learned me, that the scheme needed was actually a paris ground!
 ![paris ground][pic-par-grnd]
 
@@ -29,12 +30,11 @@ The following example uses three different matrix-scheme's to obtain the same gr
 
 
 ***
-[pic-par-grnd]: https://maetempels.github.io/MAE-gf/images_wt/g-04.png
+[pic-par-grnd]: https://maetempels.github.io/MAE-gf/images_wt/G-04.png
 [pic-big-paris]:  https://maetempels.github.io/MAE-gf/images_wt/big-rose.png
 [pic-par-sqr]: https://maetempels.github.io/MAE-gf/images_wt/gf-rose-in-sqr.png
 
-[ph-0112-t]: https://maetempels.github.io/MAE-gf/photos/ph-0112-t.jpg
-[ph-0112-f]: https://maetempels.github.io/MAE-gf/photos/ph-0112-f.jpg
+[ph-0434]: https://maetempels.github.io/MAE-gf/photos/043411.jpg
 
 [G-3412]: https://d-bl.github.io/GroundForge/index.html?m=-5---5%0A--C-B-%0A-B-5-C%3Bbricks%3B24%3B24%3B0%3B0&s1=ct%20F1%3Dctc%20E3%3Dc%20A3%3Dc
 
