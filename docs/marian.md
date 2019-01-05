@@ -7,7 +7,7 @@
 * [Ants](#ants)
 * [Another fish](#another-fish)
 * [Bias and Paris ground](#bias-and-paris-ground)
-* [Double bias](#double-bias)
+* [Stretched](#stretched)
 * [Roses with vertical](#roses-with-vertical)
 * [Bias with vertical](#bias-with-vertical)
 * [Windmills](#windmills)
@@ -67,14 +67,14 @@ As the pattern above, this pattern also was created one quarter turned.
 
 * [mt-2111][T-2111]
 
-## Double Bias
+## Stretched
 {% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-wt-07.png"
   alt="pic 07 3x"
-  description="The pictures on the right show three different units. The one on the left is one unit of ground [WI F4]. The matrix for this ground turned out to be equivalent to the bias-ground. Experimenting with stitches, I created the units in the middle and the right. The matrix of the ground in the middle turned out to be equivalent to the little snowflake. The one on the right proved to be a real surprise! See the example. (The units are placed like the white tiles on a checker board.)"
+  description="The pictures on the right show three different units. The one on the left is one unit of ground [WI F4]. The matrix for this ground turned out to be equivalent to the bias-ground. Experimenting with stitches, I created the units in the middle and the right. The matrix of the ground in the middle turned out to be equivalent to the little snowflake. The one on the right proved to be a real surprise! See the example. (The units are placed like the white tiles on a checker board.) These grounds also look nice when made on a hexagonal raster."
 %}  
 
-* [mt-0775][T-0775]
+* [left][T-0714], [middle][T-0759], [right][T-0775]
 
 ## Roses with vertical
 ![roses with vertical][pic-g31]
@@ -168,10 +168,15 @@ I tried to make a ground inspired by the "pajarita". However, I have not yet fou
 
 [T-3115]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&b1=tctct&a2=c&c2=c&d2=tctctc&a3=ctc&c3=ctc&a4=c&c4=c&d4=ctctct&tile=-5--,B-C3,7-4-,8-15&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
-[T-3238]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&b1=ctc&d1=ctc&c2=ctc&b3=ctc&c3=ctctc&d3=ctc&c4=ctc&b5=ctctt&d5=ctctt&a6=ctctt&tile=-C-B,--5-,-B8D,--4-,-B-C,5---&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6
+[T-3238]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&b1=ctc&c1=ctc&d1=ctc&b2=ctc&c2=ctctc&d2=ctc&b3=ctcr&c3=ctc&d3=ctcl&a4=ttctctt&tile=-C3B,-488,-148,5---&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 [T-3cc]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&a1=tctc&b1=cc&c1=ctct&d1=cc&b2=c&d2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 [T-4201]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctc&d1=ctctt&f1=ctc&a2=ctc&b2=ctc&c2=ctcrr&e2=ctcll&f2=ctc&a3=ctc&b3=ctcrr&d3=ctc&f3=ctcll&tile=15-7-2,886-58,14-5-1&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
 [T-4301]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&c1=ctc&e1=ctct&g1=ctct&b2=ctc&c2=ctc&d2=ctc&f2=ctct&h2=ctct&a3=ctcl&b3=ctc&c3=ctc&d3=ctc&e3=ctcr&g3=ctct&b4=ctc&c4=ctc&d4=ctc&f4=ctct&h4=ctct&tile=5-5-5-7-,-215-5-5,58886-5-,-114-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+
+[T-0714}: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&a1=ctctctc&b1=tct&c1=ctctctc&b2=ctc&a3=ctc&c3=ctc&d4=ctc&tile=B8D-,-4--,B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
+
+[T-0759}: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&a1=ctctctc&c1=tct&a2=ctc&b2=ctc&c2=ctc&d2=ctc&a3=ctctctc&c3=tct&b4=ctc&tile=C-B-,8315,4-7-,-5--&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
+
