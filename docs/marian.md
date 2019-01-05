@@ -176,7 +176,7 @@ I tried to make a ground inspired by the "pajarita". However, I have not yet fou
 
 [T-4301]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&c1=ctc&e1=ctct&g1=ctct&b2=ctc&c2=ctc&d2=ctc&f2=ctct&h2=ctct&a3=ctcl&b3=ctc&c3=ctc&d3=ctc&e3=ctcr&g3=ctct&b4=ctc&c4=ctc&d4=ctc&f4=ctct&h4=ctct&tile=5-5-5-7-,-215-5-5,58886-5-,-114-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
-[T-0714}: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&a1=ctctctc&b1=tct&c1=ctctctc&b2=ctc&a3=ctc&c3=ctc&d4=ctc&tile=B8D-,-4--,B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
+[T-0714]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&a1=ctctctc&b1=tct&c1=ctctctc&b2=ctc&a3=ctc&c3=ctc&d4=ctc&tile=B8D-,-4--,B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 
-[T-0759}: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&a1=ctctctc&c1=tct&a2=ctc&b2=ctc&c2=ctc&d2=ctc&a3=ctctctc&c3=tct&b4=ctc&tile=C-B-,8315,4-7-,-5--&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
+[T-0759]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&a1=ctctctc&c1=tct&a2=ctc&b2=ctc&c2=ctc&d2=ctc&a3=ctctctc&c3=tct&b4=ctc&tile=C-B-,8315,4-7-,-5--&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 
