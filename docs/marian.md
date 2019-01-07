@@ -71,7 +71,7 @@ As the pattern above, this pattern also was created one quarter turned.
 {% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-wt-07.png"
   alt="pic 07 3x"
-  description="The pictures on the right show three different units. The units are placed like the white tiles on a checker board. The one on the left is one unit of the ground used in [WI F4]. The matrix for this ground is equivalent to the bias-ground. Experimenting with stitches, I created the units in the middle and the right. The matrix of the ground in the middle is equivalent to the little snowflake. The one on the right needs a matrix that is a real surprise! See the example. These grounds also look nice when made on a hexagonal raster."
+  description="The pictures on the right show three different units. The units are placed like the white tiles on a checker board. <br> The one on the left is one unit of the ground used in [WI F4]. The matrix for this ground is equivalent to the bias-ground. Experimenting with stitches, I created the units in the middle and the right. The matrix of the ground in the middle is equivalent to the little snowflake. The one on the right needs a matrix that is a real surprise! See the example. These grounds also look nice when made on a hexagonal raster."
 %}  
 
 * [left][T-0714], [middle][T-0759], [right][T-0775]
