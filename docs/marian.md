@@ -71,7 +71,7 @@ As the pattern above, this pattern also was created one quarter turned.
 {% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-wt-07.png"
   alt="pic 07 3x"
-  description="The pictures on the right show three different units. The one on the left is one unit of ground [WI F4]. The matrix for this ground turned out to be equivalent to the bias-ground. Experimenting with stitches, I created the units in the middle and the right. The matrix of the ground in the middle turned out to be equivalent to the little snowflake. The one on the right proved to be a real surprise! See the example. (The units are placed like the white tiles on a checker board.) These grounds also look nice when made on a hexagonal raster."
+  description="The pictures on the right show three different units. The units are placed like the white tiles on a checker board. The one on the left is one unit of the ground used in [WI F4]. The matrix for this ground is equivalent to the bias-ground. Experimenting with stitches, I created the units in the middle and the right. The matrix of the ground in the middle is equivalent to the little snowflake. The one on the right needs a matrix that is a real surprise! See the example. These grounds also look nice when made on a hexagonal raster."
 %}  
 
 * [left][T-0714], [middle][T-0759], [right][T-0775]
@@ -178,5 +178,6 @@ I tried to make a ground inspired by the "pajarita". However, I have not yet fou
 
 [T-0714]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&a1=ctctctc&b1=tct&c1=ctctctc&b2=ctc&a3=ctc&c3=ctc&d4=ctc&tile=B8D-,-4--,B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 
-[T-0759]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&a1=ctctctc&c1=tct&a2=ctc&b2=ctc&c2=ctc&d2=ctc&a3=ctctctc&c3=tct&b4=ctc&tile=C-B-,8315,4-7-,-5--&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
+[T-0759]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&b1=ctc&a2=ctctctc&c2=tct&b3=ctc&a4=tct&c4=ctctctc&b5=ctc&a6=ctc&c6=ctc&tile=-5--,B-C-,-5--,B-C-,-5--,B-C-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6
+
 
