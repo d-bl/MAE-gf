@@ -8,14 +8,10 @@ contact: true
 ## Roses with vertical
 <a href="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&b1=tctct&a2=c&c2=c&d2=tctctc&a3=ctc&c3=ctc&a4=c&c4=c&d4=ctctct&tile=-5--,B-C3,7-4-,8-15&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4"><img src="https://maetempels.github.io/MAE-gf/images_wt/gf-wt-g31.png" alt="roses"></a>
 
-[![roses with vertical][pic-g31]][T-3115]
-
 ## Bias with vertical
 [![bias with vertical][pic-g32]][T-3238]
 
 ## Windmills
-Inspired by origami.      
-I tried to make a ground inspired by the "pajarita". However, I have not yet found out how to connect them. Then I tried the windmills.            
 [![windmill g42][pic-g42]][T-4201] [![windmill g43][pic-g43]][T-4301]
 
 
