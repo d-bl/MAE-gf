@@ -10,7 +10,7 @@
 On this website you find pages with additional patterns for use in Groundforge, a webapplication made by [Jo Pol][gf-jo]. Given are the parameter-section and, in most cases, stitches, although not always traditional.
 
 ## How to use these pages
-All examples are links to the Groundforge main page. Just follow the link. In some cases you can click on the picture. Please feel free to play with the stitches. E.g. try what happens if you change the default <span class="stch">ctc</span> of the spiders or fish in <span class="stch">ct</span>.     
+All examples are links to the Groundforge main page. Just follow the link. For some examples you can click on the picture. Please feel free to play with the stitches. E.g. try what happens if you change the default <span class="stch">ctc</span> of the spiders or fish in <span class="stch">ct</span>.     
 
 Some examples lead to the Groundforge page with Droste-effect. After clicking <span class="elem">SHOW</span>, click <span class="elem">SHOW</span> in the <span class="elem">LEVEL 2</span> section of the form.
 
