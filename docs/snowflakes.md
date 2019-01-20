@@ -30,7 +30,7 @@ For the Binche spiders see <a href="https://maetempels.github.io/MAE-gf/docs/spi
 
 ## Little Snowflake, crossed
 ![little snowflake crossed][pic-sn-cr]
-* [mt-0342][T-ex-0342] [mt-0306][T-mt-0306]
+* [mt-0342][T-ex-0342], [mt-0306][T-mt-0306]
 
 ## Snowflake in a square
 ![snowflake squared][pic-sn-uni-sq]   
