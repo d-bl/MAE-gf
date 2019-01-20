@@ -17,9 +17,9 @@ The photo shows the example on the bottom of this page, but slighty adapted to g
   alt="photo mt-0434"
   description=paris1
 %}
-![paris ground][pic-par-grnd]
 
 ## Examples
+![paris ground][pic-par-grnd]
 * [mt-0402][T-0402-LG], [mt-0403][T-0403-KG], [mt-0424][T-0424-KG]      
 * The last example as a unit, [connected with plaits][T-0424-KF].
 
