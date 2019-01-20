@@ -47,15 +47,16 @@ Groundforge accepts only stitch-instructions with at least one cross, so the sti
 The instruction <span class="stch">A1=t</span> will be translated into <span class="stch">A1=ct</span>.               
 
 ## Diagrams
-{% include picts-centr.html
-     alt="several types of drawings"
+{% include p-l-c.html
+     alt="mt-0306"
      src="https://maetempels.github.io/MAE-gf/images/gf%20picts.png"
+     lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=24&patchHeight=24&c1=c&e1=c&b2=c&d2=tctc&f2=c&h2=ctct&a3=cr&g3=cl&h4=tct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=--B-C---,-E-5-O-K,5-----5-,-------5"
 %}   
 
 On these pages several types of diagrams are used, as illustrated in the picture. On the left is a drawing of a _pair-diagram_ or _working-scheme_. Pins, pinpositions and colourcode are given as needed for the actual lace. In the middle the ground is drawn schematic, to given an impression. Pins and colourcode may or may not be drawn. The pinpositions are drawn as required for the actual lace. On the right the _prototype_ or _matrix-scheme_ that Groundforge understands. In the articles the name _scheme_ or _diagram_ will be used for all types of the drawings.                     
 Several grounds have more than one working prototype, as is explained in de Groundforge-userguide.    
 
-The example is a variation on a 's Gravenmoers snowflake ground. See [mt-0306][T-ex-0306] how the thread-diagram looks like.      
+The example is a variation on a 's Gravenmoers snowflake ground. Click on the picture to see how the thread-diagram looks like.      
 
 The pictures on these pages are mostly made with Knipling (TM).
 
@@ -77,8 +78,8 @@ The examples provided focus on just elements of the grounds. No attention is pai
 
 [G-ex-5G]: https://d-bl.github.io/GroundForge/index.html?m=5831%20-4-7%3Bbricks%3B16%3B16%3B0%3B0&s1=ct%20A1%3Dctct%20C1%3Dctct
 
-[G-ex-0306]: https://d-bl.github.io/GroundForge/index.html?m=--B-C---%0A-E-5-O-K%0A5-----5-%0A-------5%3Bbricks%3B24%3B24%3B0%3B0&s1=c%20F4%3Dctct%20B2%3Dtct%20B4%3Dtctc%20A1%3Dcl%20C1%3Dcr
+[G-0306]: https://d-bl.github.io/GroundForge/index.html?m=--B-C---%0A-E-5-O-K%0A5-----5-%0A-------5%3Bbricks%3B24%3B24%3B0%3B0&s1=c%20F4%3Dctct%20B2%3Dtct%20B4%3Dtctc%20A1%3Dcl%20C1%3Dcr
 
-[T-ex-0306]: https://d-bl.github.io/GroundForge/tiles?patchWidth=24&patchHeight=24&c1=c&e1=c&b2=c&d2=tctc&f2=c&h2=ctct&a3=cr&g3=cl&h4=tct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=--B-C---,-E-5-O-K,5-----5-,-------5
+[T-0306]: https://d-bl.github.io/GroundForge/tiles?patchWidth=24&patchHeight=24&c1=c&e1=c&b2=c&d2=tctc&f2=c&h2=ctct&a3=cr&g3=cl&h4=tct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=--B-C---,-E-5-O-K,5-----5-,-------5
 
 
