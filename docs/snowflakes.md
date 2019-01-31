@@ -37,8 +37,12 @@ For the Binche spiders see <a href="https://maetempels.github.io/MAE-gf/docs/spi
 * [mt-0306][T-ex-0306]
 
 ## Snowflake in a square, crossed
-![snowflake square crossed][pic-sn-uni-sc]
-* [mt-0342][T-0342-sq]
+{% inclde picts-left.html
+  alt="snowflake square crossed"
+  src="https://maetempels.github.io/MAE-gf/images_wt/sn-uni-sq.png"
+  description="The matrix for the right example is made with a little trick. The left example does not have this trick, but it is harder to see where the stitches end in the actual lace."
+%}
+* [mt-0342][T-0342-sq], [mt-0356][T-mt-0356]
 
 ## Snowflakes diagonal
 ![diagonal snowflakes][pic-sn-dia]
@@ -81,3 +85,5 @@ For the Binche spiders see <a href="https://maetempels.github.io/MAE-gf/docs/spi
 [G-mt-a310]: https://d-bl.github.io/GroundForge/index.html?m=5-5-%20%20-5-5%3Bbricks%3B12%3B12%3B0%3B0&s1=ct%20A1%3Dctctct%0Act%20A1%3Dctctct%0Act%20A1%3Dctctct%0Act%20A1%3Dctctct&s2=ctct%20b22%3Dd21%3Da14%3Da15%3Dc%20a10%3Da16%3Dctc%20a13%3Da11%3Da12%3Da17%3Da18%3Dct%20c10%3Dctctct
 
 [T-mt-0306]: https://d-bl.github.io/GroundForge/tiles?patchWidth=24&patchHeight=24&c1=c&e1=c&b2=c&d2=tctc&f2=c&h2=ctct&a3=cr&g3=cl&h4=tct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=--B-C---,-E-5-O-K,5-----5-,-------5
+
+[T-mt-0356]: https://d-bl.github.io/GroundForge/tiles?patchWidth=17&patchHeight=16&j1=ctcl&f1=ctcr&d1=c&c1=ctct&b1=c&i2=-&g2=-&d2=cr&b2=cl&h3=ctct&c3=ctc&i4=-&g4=-&d4=c&b4=c&j5=ctcr&f5=ctcl&d5=c&c5=tctc&b5=c&tile=-O3E-5---5,-4-7--9-0-,--5----5--,-B-C--0-9-,-158-L---H&footsideStitch=tctct&tileStitch=ctc&headsideStitch=tctct&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5
