@@ -37,7 +37,7 @@ For the Binche spiders see <a href="https://maetempels.github.io/MAE-gf/docs/spi
 * [mt-0306][T-ex-0306]
 
 ## Snowflake in a square, crossed
-{% inclde picts-left.html
+{% include picts-left.html
   alt="snowflake square crossed"
   src="https://maetempels.github.io/MAE-gf/images_wt/sn-uni-sq.png"
   description="The matrix for the right example is made with a little trick. The left example does not have this trick, but it is harder to see where the stitches end in the actual lace."
