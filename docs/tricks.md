@@ -4,8 +4,6 @@
 * [Ground names](#ground-names)
 * [Stitches](#stitches)
 * [Diagrams](#diagrams)
-* [Tiling](#tiling)
-* [Footsides](#footsides)
 
 ## Ground names
 Unfortunately grounds do not have one unique name. Not even in one language. Also, the same name is used for different grounds. To make naming even more difficult, Groundforge does not make a difference in Torchon or Flemish grounds.
@@ -59,14 +57,6 @@ Several grounds have more than one working prototype, as is explained in de Grou
 The example is a variation on a 's Gravenmoers snowflake ground. Click on the picture to see how the thread-diagram looks like.      
 
 The pictures on these pages are mostly made with Knipling (TM).
-
-## Tiling
-Most examples use the <span class="elem">brick</span> parameter setting, drawn as a blue rectangle when shown, since it's less ID's to specify. Some scheme's do not have a working brick diagram, so, of course, a <span class="elem">checkers</span> parameter is used, drawn as a red rectangle when shown.           
-
-Please note, that the ID's needed for the stitches shift somehow. <span class="elem">A1</span> is not in the upperleft corner of the shown units in the examples.
-
-## Footsides
-The examples provided focus on just elements of the grounds. No attention is paid to footsides. This may sometimes lead to tilted figures.
 
 ***
 
