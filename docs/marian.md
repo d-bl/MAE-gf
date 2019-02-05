@@ -15,9 +15,10 @@
 &copy; M. Tempels
 
 ## Introduction
-In this article some of my own designs and finds. Most grounds I found before I learned of Groundforge. Of course, some of them might also have been created by others.   
+On this page some of my own designs and finds. Most grounds I found before I learned of Groundforge. Of course, some of them might also have been created by others.   
 For most grounds I only use names for the units with an addition to indicate the placing of the units in the ground. E.g. in plaits, in a square, traditional, ... Some units are used in more than one example, with different placings, so naturally those names show up more than once.   
-The colour grey in the working diagrams indicates <span class="stch">cross only</span>.
+The colour grey in the working diagrams indicates <span class="stch">cross only</span>.    
+You can also find some of my finds on other pages, all prefixed with "mt_".
 
 ## Fusion
 {% include picts-right.html
@@ -25,7 +26,6 @@ The colour grey in the working diagrams indicates <span class="stch">cross only<
   alt="pic fusion"
   description="The traditional units separated with plaits. Ground mt-0116 uses the rose-ground unit; mt-0342 the snowflake-unit;  mt-0278 the bias-unit. Please note: the plaits should stay plaits."
 %}
-
 * [mt-0116][T-0116], [mt-0342][T-0342], [mt-0278][T-0278]
 
 {% include picts-right.html
