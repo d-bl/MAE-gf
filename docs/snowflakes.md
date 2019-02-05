@@ -40,7 +40,7 @@ For the Binche spiders see <a href="https://maetempels.github.io/MAE-gf/docs/spi
 {% include picts-left.html
   alt="snowflake square crossed"
   src="https://maetempels.github.io/MAE-gf/images_wt/sn-uni-sc.png"
-  description="The matrix for the right example uses &quote.extened arrows&quote.. The example on the right does not have this trick, but it is harder to see where the stitches are in the tread diagram."
+  description="The matrix for the right example uses &quote;extened arrows&quote;. The example on the right does not have this trick, but it is harder to see where the stitches are in the tread diagram."
 %}
 * [mt-0342][T-0342-sq], [mt-0356][T-mt-0356]
 
