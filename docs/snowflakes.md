@@ -38,7 +38,7 @@ For the Binche spiders see <a href="https://maetempels.github.io/MAE-gf/docs/spi
 
 ## Snowflake in a square, crossed
 % capture sxsnow %}
-The matrix for the right example uses &quot;extened arrows&quot;. The example on the left does not have this feature, but it is harder to see where the stitches are in the tread diagram.<br>The thread diagram for ground mt-0356 can also be obtained as a rose ground in a square, see <a href="https://maetempels.github.io/MAE-gf/docs/misca#rose-ground-in-a-square>"mt-0116</a>.
+The matrix for the right example uses &quot;extened arrows&quot;. The example on the left does not have this feature, but it is harder to see where the stitches are in the tread diagram.<br>The thread diagram for ground mt-0356 can also be obtained as a rose ground in a square, see <a href="https://maetempels.github.io/MAE-gf/docs/misca#rose-ground-in-a-square">mt-0116</a>.
 {% endcapture %}
 {% include picts-left.html
   alt="snowflake square crossed"
