@@ -63,17 +63,17 @@ See also page [_Snowflakes_][snow-page].
 
 ### "Bolletje"  
 ![binche spider][pic-bi-boll]                
-* [binche spider][T-WI-G04] (WI G4)
+* [binche spider][T-SP-BB]
 
 ### Traditional spider, on a Binche pricking  
 ![binche small spider][pic-bi-spin]                     
-* [traditional spider, binche style][T-WI-E02] (WI E2)
+* [traditional spider, binche style][T-SP-BS] (WI E2)
 
 ## Stacked spiders
 [Another][T-SA1] ground can be obtained using the corresponding <span class="elem">checkers-matrix</span>, but set the tiling parameter to <span class="elem">brick</span>.
 
 ## Building Spiders
-Adding legs to a spider is the equivalent of adding a ring to it. So, after discovering the matrix for a 4x3 legged spider, a 4x4 or bigger spider is easy. In fact, a formula can be made, see the [_Math_][math-page] page.    
+Adding legs to a spider is the equivalent of adding a ring to it. So, after discovering the matrix for a 4x3 legged spider, a 4x4 or bigger spider is easy.            
 For the complete scheme's we chose to connect the spiders diagonaly. Of course, connecting with a horizontal line will also work. For the spiders in a square, the connection between spider and square has to be horizontal.   
 
 Torchon spiders looks like this:        
@@ -98,7 +98,7 @@ Spiders with an eye look like this:
 [pic-sn3]: https://maetempels.github.io/MAE-gf/images_wt/wt-sn3.png
 [pic-snq3]: https://maetempels.github.io/MAE-gf/images_wt/wt-snq3.png
 
-[G-STt2]: https://d-bl.github.io/GroundForge/index.html?m=-5--%0AB-C-%0A-5-5%0A5-5-%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B3%3Dctcttctc%20A4%3Dctcll%20D1%3Dctctt%20%20C4%3Dctcrr
+[G-ST2]: https://d-bl.github.io/GroundForge/index.html?m=-5--%0AB-C-%0A-5-5%0A5-5-%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20B3%3Dctcttctc%20A4%3Dctcll%20D1%3Dctctt%20%20C4%3Dctcrr
 
 [G-ST3]: https://d-bl.github.io/GroundForge/index.html?m=-5----%0AB-CD-A%0A256-5-%0A-5-535%0A5-56-2%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20A4%3Dctctctc%20C5%3Dctcr%20B1%3Dctcr%20E5%3Dctcl%20F1%3Dctcl%20D2%3Dctct
 
@@ -136,9 +136,9 @@ Spiders with an eye look like this:
 
 [T-SA1]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&b1=ctc&a2=ctcll&c2=ctcrr&b3=ctctt&d3=ctc&a4=ctc&c4=ctc&d5=ctc&a6=ctcrr&c6=ctcll&b7=ctctt&d7=ctc&a8=ctc&c8=ctc&tile=-5--,B-C-,-5-5,5-5-,---5,C-B-,-5-5,5-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=8&shiftColsSE=2&shiftRowsSE=8
 
-[T-WI-E02]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctcctctc&e1=ctctttctc&b2=ctc&c2=ctcrrr&d2=ctc&e2=ctc&f2=ctc&g2=ctclll&h2=ctc&a3=ctc&b3=ctcrrr&c3=ctc&d3=ctc&f3=ctc&g3=ctc&h3=ctclll&tile=5---5---,-CD632AB,5666-222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
+[T-SP-BS]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctcctc&e1=ctctttctc&b2=ctc&c2=ctcrrr&d2=ctc&e2=ctc&f2=ctc&g2=ctclll&h2=ctc&a3=ctc&b3=ctcrrr&c3=ctc&d3=ctc&f3=ctc&g3=ctc&h3=ctclll&tile=5---5---,-CD632AB,5666-222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
 
-[T-WI-G04]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctc&c1=ctc&d1=ctct&f1=rctct&g1=ctc&h1=lctct&j1=ctct&k1=ctc&b2=ctc&g2=ctct&l2=ctc&a3=ctc&c3=ctc&d3=lctct&f3=ctct&g3=ctc&h3=ctct&j3=rctct&k3=ctc&b4=ctc&c4=lctct&d4=ctct&e4=ctct&f4=ctc&h4=ctc&i4=ctct&j4=ctct&k4=rctct&l4=ctc&tile=5-27-256-46-,-5----5----5,5-CD-B3C-AB-,-56866-22125&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-6&shiftRowsSW=4&shiftColsSE=6&shiftRowsSE=4
+[T-SP-BB]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctc&c1=ctc&d1=ctct&f1=rctct&g1=ctc&h1=lctct&j1=ctct&k1=ctc&b2=ctc&g2=ctct&l2=ctc&a3=ctc&c3=ctc&d3=lctct&f3=ctct&g3=ctc&h3=ctct&j3=rctct&k3=ctc&b4=ctc&c4=lctct&d4=ctct&e4=ctct&f4=ctc&h4=ctc&i4=ctct&j4=ctct&k4=rctct&l4=ctc&tile=5-27-256-46-,-5----5----5,5-CD-B3C-AB-,-56866-22125&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-6&shiftRowsSW=4&shiftColsSE=6&shiftRowsSE=4
 
 [T-SH2]: https://d-bl.github.io/GroundForge/tiles?patchWidth=8&patchHeight=8&a1=rctclctcrr&c1=lctcrctcll&b2=ctc&d2=ctct&tile=5-5-,-5-5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
@@ -156,15 +156,15 @@ Spiders with an eye look like this:
 
 [T-SQ2]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctctctc&d1=ctct&b2=ctcr&c2=ctct&d2=ctc&e2=ctct&f2=ctcl&a3=ctct&b3=ctct&c3=ctc&e3=ctc&f3=ctct&tile=5--5--,-C632B,566-22&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
-[T-SQ3]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctctctc&e1=ctct&b2=ctc&c2=ctc&d2=lctct&e2=ctc&f2=rctct&g2=ctc&h2=ctc&a3=ctc&b3=ctc&c3=lctct&d3=ctc&e3=ctc&f3=ctc&g3=rctct&h3=ctc&a4=ctc&b4=lctct&c4=ctc&d4=ctc&f4=ctc&g4=ctc&h4=rctct&tile=5---5---,-CD632AB,56663222,5666-222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[T-SQ3]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctcctc&e1=ctct&b2=ctc&c2=ctc&d2=lctct&e2=ctc&f2=rctct&g2=ctc&h2=ctc&a3=ctc&b3=ctc&c3=lctct&d3=ctc&e3=ctc&f3=ctc&g3=rctct&h3=ctc&a4=ctc&b4=lctct&c4=ctc&d4=ctc&f4=ctc&g4=ctc&h4=rctct&tile=5---5---,-CD632AB,56663222,5666-222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
-[T-SQ4]: https://d-bl.github.io/GroundForge/tiles?patchWidth=20&patchHeight=20&a1=ctcttctc&f1=ctct&b2=ctc&c2=ctc&d2=ctct&e2=ctct&f2=ctct&g2=ctct&h2=ctct&i2=ctc&j2=ctc&a3=ctc&b3=ctc&c3=ctct&d3=ctct&e3=ctct&f3=ctc&g3=ctct&h3=ctct&i3=ctct&j3=ctc&a4=ctc&b4=ctct&c4=ctct&d4=ctct&e4=ctc&f4=ctc&g4=ctc&h4=ctct&i4=ctct&j4=ctct&a5=ctct&b5=ctct&c5=ctct&d5=ctc&e5=ctc&g5=ctc&h5=ctc&i5=ctct&j5=ctct&tile=5----5----,-CDD632AAB,5666632222,5666632222,56666-2222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5
+[T-SQ4]: https://d-bl.github.io/GroundForge/tiles?patchWidth=20&patchHeight=20&a1=ctcctc&f1=ctct&b2=ctc&c2=ctc&d2=ctct&e2=ctct&f2=ctct&g2=ctct&h2=ctct&i2=ctc&j2=ctc&a3=ctc&b3=ctc&c3=ctct&d3=ctct&e3=ctct&f3=ctc&g3=ctct&h3=ctct&i3=ctct&j3=ctc&a4=ctc&b4=ctct&c4=ctct&d4=ctct&e4=ctc&f4=ctc&g4=ctc&h4=ctct&i4=ctct&j4=ctct&a5=ctct&b5=ctct&c5=ctct&d5=ctc&e5=ctc&g5=ctc&h5=ctc&i5=ctct&j5=ctct&tile=5----5----,-CDD632AAB,5666632222,5666632222,56666-2222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5
 
 [T-SQ5]: https://d-bl.github.io/GroundForge/tiles?patchWidth=20&patchHeight=20&a1=ctctctc&g1=ctct&b2=ctc&c2=ctc&d2=ctc&e2=ctc&f2=lctct&g2=ctc&h2=rctct&i2=ctc&j2=ctc&k2=ctc&l2=ctc&a3=ctc&b3=ctc&c3=ctc&d3=ctc&e3=lctct&f3=ctc&g3=ctc&h3=ctc&i3=rctct&j3=ctc&k3=ctc&l3=ctc&a4=ctc&b4=ctc&c4=ctc&d4=lctct&e4=ctc&f4=ctc&g4=ctc&h4=ctc&i4=ctc&j4=rctct&k4=ctc&l4=ctc&a5=ctc&b5=ctc&c5=lctct&d5=ctc&e5=ctc&f5=ctc&g5=ctc&h5=ctc&i5=ctc&j5=ctc&k5=rctct&l5=ctc&a6=ctc&b6=lctct&c6=ctc&d6=ctc&e6=ctc&f6=ctc&h6=ctc&i6=ctc&j6=ctc&k6=ctc&l6=rctct&tile=5-----5-----,-CDDD632AAAB,566666322222,566666322222,566666322222,566666-22222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-6&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
 
-[T-ST2]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=15&b1=ctcttctc&a2=ctcll&c2=ctcrr&b3=ctctt&d3=ctc&a4=ctc&c4=ctc&tile=-5--,B-C-,-5-5,5-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
+[T-ST2]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=15&b1=ctcctc&a2=ctcll&c2=ctcrr&b3=ctctt&d3=ctc&a4=ctc&c4=ctc&tile=-5--,B-C-,-5-5,5-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 
-[T-ST3]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=15&b1=ctcttctc&a2=ctc&c2=ctc&d2=ctcrr&f2=ctcll&a3=ctcll&b3=ctc&c3=ctcrr&e3=ctc&b4=ctctt&d4=ctc&e4=ctc&f4=ctc&a5=ctc&c5=ctc&d5=ctc&f5=ctc&tile=-5----,B-CD-A,256-5-,-5-535,5-56-2&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=5
+[T-ST3]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=15&b1=ctcctc&a2=ctc&c2=ctc&d2=ctcrr&f2=ctcll&a3=ctcll&b3=ctc&c3=ctcrr&e3=ctc&b4=ctctt&d4=ctc&e4=ctc&f4=ctc&a5=ctc&c5=ctc&d5=ctc&f5=ctc&tile=-5----,B-CD-A,256-5-,-5-535,5-56-2&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=5
 
 [T-ST4]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&b1=ctcttcc&a2=ctc&c2=ctc&d2=ctc&e2=ctcrr&g2=ctcll&h2=ctc&a3=ctc&b3=ctc&c3=ctc&d3=ctcrr&f3=ctc&h3=ctcll&a4=ctcll&b4=ctc&c4=ctcrr&e4=ctc&f4=ctc&g4=ctc&b5=ctctt&d5=ctc&e5=ctc&f5=ctc&g5=ctc&h5=ctc&a6=ctc&c6=ctc&d6=ctc&e6=ctc&g6=ctc&h6=ctc&tile=-5------,B-CDD-AA,2566-5-2,256-535-,-5-56325,5-566-22&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6
 
