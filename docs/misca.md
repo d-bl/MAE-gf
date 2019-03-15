@@ -19,11 +19,13 @@ Miscellaneous examples, collected on this page.
 
 ## Rose ground in a square
 By putting the traditional rose ground unit in a square, little stars can be made.                 
-Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates. Ground mt-0112 looks like a star.
+Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates. Ground mt-0112 looks like a star.    
+Ground mt-0405 is used as illustration of different ways to join the unit in the square.
 
 ![torchon-flemish][pic-tor-flem]      
 ![photo-0112-torchon][ph-0112-t] ![photo-0112-flemish][ph-0112-f]
 * [mt-0112][T-0112], [mt-0116][T-0116]
+* [mt-0405 a][T-0405-a], [mt-0405 b][T-0405-b], [mt-0405 c][T-0405-c]
 
 ## Snowflakes in a square
 See page [_Snowflakes_][page-snow].
@@ -100,3 +102,12 @@ However, as the tiling-parameter is set to <span class="elem">brick</span> the s
 [T-PAR-SQR1]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctct&c1=ctct&e1=ctc&g1=ctc&b2=ctct&d2=ctc&f2=tctc&h2=ctc&a3=ctc&c3=ctc&e3=tctcr&g3=tctcl&b4=ctc&d4=tctct&h4=tctct&tile=C-B-5-5-,-5-5-5-5,5-5-5-5-,-5-5---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 [T-0116]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&f1=c&e1=ctcr&c1=ctcl&b1=c&a1=ctctc&f2=ctcr&e2=c&d2=ctctc&c2=c&b2=ctcl&e3=ctc&c3=ctc&a3=ctct&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
+
+[T-0405-a]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&f1=c&e1=ctcr&c1=ctcl&b1=c&a1=tctctc&f2=ctcr&e2=c&d2=ctctct&c2=c&b2=ctcl&e3=crc&c3=clc&a3=ctct&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
+
+[T-0405-b]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&f1=ct&e1=ctct&c1=ctct&b1=ct&a1=tctctc&f2=ctct&e2=c&d2=ctctct&c2=c&b2=ctct&e3=crc&c3=clc&a3=ctct&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
+
+[T-0405-c]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&f1=tct&e1=ctct&c1=ctct&b1=tct&a1=tctctc&f2=ctct&e2=ct&d2=ctctct&c2=ct&b2=ctct&e3=crc&c3=clc&a3=ctct&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
+
+
+
