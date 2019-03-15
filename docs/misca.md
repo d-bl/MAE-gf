@@ -45,7 +45,7 @@ See page [_Paris grounds_][page-paris].
 ## Alternate stitch ground
 {% capture omenom1 %}
 In the Tesselace index a scheme for the <i>Alternate stitch</i> can be found.<br> 
-However, as the repeat-parameter is set small the stitches can not be chosen to generate the Alternate stitch. Adjusting the repeat-parameter does the trick, as in the following examples. You might try to see what happens if you change the repeat-parameter (works even with an odd number of collumns).
+However, the values for the repeat-parameter are set such that the stitches can not be chosen to generate the Alternate stitch. Adjusting the repeat-parameter does the trick, as in the following examples. You might try to see what happens if you change the repeat-parameter (works even with an odd number of collumns).
 {% endcapture %}
 {% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-oeno-11.png"
