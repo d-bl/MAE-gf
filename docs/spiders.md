@@ -62,8 +62,15 @@ Spiders with a narrow eye also can be achieved using <span class="elem">level 2<
 See also page [_Snowflakes_][snow-page].            
 
 ### "Bolletje"  
-![binche spider][pic-bi-boll]                
-* [binche spider][T-SP-BB], [WI-G04][T-WI-G04]
+{% capture bolletje %}
+There are many ways of making a binche spider. Below are given some examples.
+{% endcapture %}
+{% include picts-left.html
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf-bi-boll.png"
+  alt="binche spider"
+  description=bolletje
+%}        
+* [binche spider 1][T-SP-BB1], [binche spider 2][T-SP-BB2] (WI G04), [binche spider 3][T-SP-BB3]
 
 ### Traditional spider, on a Binche pricking  
 ![binche small spider][pic-bi-spin]                     
@@ -138,7 +145,7 @@ Spiders with an eye look like this:
 
 [T-SP-BS]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctcctc&e1=ctctttctc&b2=ctc&c2=ctcrrr&d2=ctc&e2=ctc&f2=ctc&g2=ctclll&h2=ctc&a3=ctc&b3=ctcrrr&c3=ctc&d3=ctc&f3=ctc&g3=ctc&h3=ctclll&tile=5---5---,-CD632AB,5666-222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
 
-[T-SP-BB]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctc&c1=ctc&d1=ctct&f1=rctct&g1=ctc&h1=lctct&j1=ctct&k1=ctc&b2=ctc&g2=ctct&l2=ctc&a3=ctc&c3=ctc&d3=lctct&f3=ctct&g3=ctc&h3=ctct&j3=rctct&k3=ctc&b4=ctc&c4=lctct&d4=ctct&e4=ctct&f4=ctc&h4=ctc&i4=ctct&j4=ctct&k4=rctct&l4=ctc&tile=5-27-256-46-,-5----5----5,5-CD-B3C-AB-,-56866-22125&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-6&shiftRowsSW=4&shiftColsSE=6&shiftRowsSE=4
+[T-SP-BB1]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctc&c1=ctc&d1=ctct&f1=rctct&g1=ctc&h1=lctct&j1=ctct&k1=ctc&b2=ctc&g2=ctct&l2=ctc&a3=ctc&c3=ctc&d3=lctct&f3=ctct&g3=ctc&h3=ctct&j3=rctct&k3=ctc&b4=ctc&c4=lctct&d4=ctct&e4=ctct&f4=ctc&h4=ctc&i4=ctct&j4=ctct&k4=rctct&l4=ctc&tile=5-27-256-46-,-5----5----5,5-CD-B3C-AB-,-56866-22125&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-6&shiftRowsSW=4&shiftColsSE=6&shiftRowsSE=4
 
 [T-SH2]: https://d-bl.github.io/GroundForge/tiles?patchWidth=8&patchHeight=8&a1=rctclctcrr&c1=lctcrctcll&b2=ctc&d2=ctct&tile=5-5-,-5-5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
@@ -170,4 +177,6 @@ Spiders with an eye look like this:
 
 [T-ST5]: https://d-bl.github.io/GroundForge/tiles?patchWidth=18&patchHeight=15&b1=ctcttctc&a2=ctc&c2=ctc&d2=ctc&e2=ctc&f2=ctcrr&h2=ctcll&i2=ctc&j2=ctc&a3=ctc&b3=ctc&c3=ctc&d3=ctc&e3=ctcrr&g3=ctc&i3=ctcll&j3=ctc&a4=ctc&b4=ctc&c4=ctc&d4=ctcrr&f4=ctc&g4=ctc&h4=ctc&j4=ctcll&a5=ctcll&b5=ctc&c5=ctcrr&e5=ctc&f5=ctc&g5=ctc&h5=ctc&i5=ctc&b6=ctctt&d6=ctc&e6=ctc&f6=ctc&g6=ctc&h6=ctc&i6=ctc&j6=ctc&a7=ctc&c7=ctc&d7=ctc&e7=ctc&f7=ctc&h7=ctc&i7=ctc&j7=ctc&tile=-5--------,B-CDDD-AAA,25666-5-22,2566-535-2,256-56325-,-5-5663225,5-5666-222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-5&shiftRowsSW=7&shiftColsSE=5&shiftRowsSE=7
 
-[T-WI-G04]: https://d-bl.github.io/GroundForge/tiles?patchWidth=21&patchHeight=14&i1=ctctt&h1=ctcrr&f1=ctc&e1=ctc&d1=ctc&c1=ctc&a1=ctctt&h2=ctctt&f3=ctc&e3=ctc&d3=ctc&c3=ctcll&a3=ctctt&n4=ctctt&l4=ctctt&j4=ctctt&h4=ctctt&f4=ctt&d4=ctcll&c4=ctcll&b4=ctctt&g5=ctctt&c5=ctctt&n6=ctctt&j6=ctctt&m7=c&k7=ctc&j7=ctc&i7=ctctt&g7=ctctt&e7=ctctt&c7=ctctt&a7=ctctt&tile=5-m998-j5-----,------y4------,g-aaab--w-----,-246-m-n-o-k-e,--5---5---y-w-,---w-y---b---c,h-g-5-n-l3h-e-,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-7&shiftRowsSW=7&shiftColsSE=7&shiftRowsSE=7
+[T-SP-BB2]: https://d-bl.github.io/GroundForge/tiles?patchWidth=21&patchHeight=14&i1=ctctt&h1=ctcrr&f1=ctc&e1=ctc&d1=ctc&c1=ctc&a1=ctctt&h2=ctctt&f3=ctc&e3=ctc&d3=ctc&c3=ctcll&a3=ctctt&n4=ctctt&l4=ctctt&j4=ctctt&h4=ctctt&f4=ctt&d4=ctcll&c4=ctcll&b4=ctctt&g5=ctctt&c5=ctctt&n6=ctctt&j6=ctctt&m7=c&k7=ctc&j7=ctc&i7=ctctt&g7=ctctt&e7=ctctt&c7=ctctt&a7=ctctt&tile=5-m998-j5-----,------y4------,g-aaab--w-----,-246-m-n-o-k-e,--5---5---y-w-,---w-y---b---c,h-g-5-n-l3h-e-,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-7&shiftRowsSW=7&shiftColsSE=7&shiftRowsSE=7
+
+[T-SP-BB3]: https://d-bl.github.io/GroundForge/tiles?patchWidth=21&patchHeight=14&i1=ctctt&h1=ctc&f1=ctc&e1=ctc&d1=ctc&b1=ctc&a1=ctctt&g2=ctc&i3=ctctt&h3=ctcrr&f3=ctc&e3=ctc&d3=ctc&b3=ctcll&a3=ctctt&n4=ctctt&l4=ctctt&j4=ctctt&h4=ctctt&f4=ctt&d4=ctcll&c4=ctcll&b4=ctctt&g5=ctctt&c5=ctctt&n6=ctctt&j6=ctctt&m7=c&k7=ctc&j7=ctc&i7=ctctt&g7=ctctt&e7=ctctt&c7=ctctt&a7=ctctt&tile=56-o98-j5-----,------5-------,ag-aae-cd-----,-256-m-l-o-k-e,--5---5---y-w-,---w-y---b---c,h-g-5-n-l3h-e-,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-7&shiftRowsSW=7&shiftColsSE=7&shiftRowsSE=7
