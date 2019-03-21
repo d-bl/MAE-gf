@@ -34,3 +34,9 @@ The coloured dots indicate what goes where when translating the working scheme i
   alt="alternative unit"
   description="The unit on the left looks more like the working-scheme. It works nice as a building block for the traditional pagoda, however, the matrix-scheme's for the other pagoda examples are harder to achieve."
 %}
+
+[fish-gen]: https://maetempels.github.io/MAE-gf/images_wt/mx-fish.png
+[fish-build]: https://maetempels.github.io/MAE-gf/images_wt/mx-fish-bld.png
+[lotus_gen]: https://maetempels.github.io/MAE-gf/images_wt/mx-lotus.png
+[pic-gen]: https://maetempels.github.io/MAE-gf/images/gf%20spin%20gen.png
+[pic-gon]: https://maetempels.github.io/MAE-gf/images/gf%20spon%20gn.png
