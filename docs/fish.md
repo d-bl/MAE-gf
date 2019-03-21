@@ -20,7 +20,7 @@ Broader fish can be made, e.g. with four cloth stitches. In some Milanese ground
 
 ## Fish notation
 Lets call the horizontal rows the _bones_, the vertical lines the _spines_, and the in between rows the _waves_.
-Fish B,S,W means: the number of Bones, the number of Spines and the number of Waves. There are two ways of zero waves, noted with "0" and "-" respectively. See the picture at the top of this article.
+Fish B,S,W means: the number of Bones, the number of Spines and the number of Waves. There are two ways of zero waves, noted with "0" and "-" respectively. See the picture at the top of this page.
 
 ## Fish examples
 * WI E14   
