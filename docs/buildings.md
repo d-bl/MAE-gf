@@ -11,7 +11,7 @@ Building bigger fish is illustrated in the following picture. Please note the ch
 
 ## Lotus building
 The general Lotus scheme looks like the scheme in the picture. Of course, other scheme's are possible.      
-Building bigger lotus is similair to the building of bigger fish, as illustrated on the [_Fish_][fish-page] page.
+Building bigger lotus is similair to the building of bigger fish.
 
 ![lotus generator][lotus_gen]
 
@@ -25,7 +25,7 @@ Spiders with an eye look like this:
 ![spider generator eye][pic-gon]
 
 ## Building Pagoda's
-Bigger pagoda's can be build much in the same way as building bigger [_fish_][fish-page].            
+Bigger pagoda's can be build much in the same way as building bigger fish.            
 The coloured dots indicate what goes where when translating the working scheme into a matrix. The black lines indicate one unit, the grey lines show where the other units connect.         
 ![building pagoda's][build pagoda]
 
@@ -40,3 +40,4 @@ The coloured dots indicate what goes where when translating the working scheme i
 [lotus_gen]: https://maetempels.github.io/MAE-gf/images_wt/mx-lotus.png
 [pic-gen]: https://maetempels.github.io/MAE-gf/images/gf%20spin%20gen.png
 [pic-gon]: https://maetempels.github.io/MAE-gf/images/gf%20spon%20gn.png
+[build pagoda]: https://maetempels.github.io/MAE-gf/images/gf%20build%20pagoda.png
