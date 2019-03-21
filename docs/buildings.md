@@ -1,0 +1,36 @@
+Op deze pagina de "building" stukken.
+
+## Fish building.
+The general fish scheme looks like the schemes in the picture. Of course, other scheme's are possible. Please note that an even or odd number of "waves" dictate if a <span class="elem">brick-matrix</span> is possible.      
+
+![fish generator][fish-gen]    
+     
+Building bigger fish is illustrated in the following picture. Please note the change of direction of the weavers.       
+
+![fish build][fish-build]    
+
+## Lotus building
+The general Lotus scheme looks like the scheme in the picture. Of course, other scheme's are possible.      
+Building bigger lotus is similair to the building of bigger fish, as illustrated on the [_Fish_][fish-page] page.
+
+![lotus generator][lotus_gen]
+
+## Building Spiders
+Adding legs to a spider is the equivalent of adding a ring to it. So, after discovering the matrix for a 4x3 legged spider, a 4x4 or bigger spider is easy.            
+For the complete scheme's we chose to connect the spiders diagonaly. Of course, connecting with a horizontal line will also work. For the spiders in a square, the connection between spider and square has to be horizontal.   
+
+Torchon spiders looks like this:        
+![spider generator trad][pic-gen]    
+Spiders with an eye look like this:          
+![spider generator eye][pic-gon]
+
+## Building Pagoda's
+Bigger pagoda's can be build much in the same way as building bigger [_fish_][fish-page].            
+The coloured dots indicate what goes where when translating the working scheme into a matrix. The black lines indicate one unit, the grey lines show where the other units connect.         
+![building pagoda's][build pagoda]
+
+{% include picts-left.html
+  src="https://maetempels.github.io/MAE-gf/images/gf-pg-uni2.png"
+  alt="alternative unit"
+  description="The unit on the left looks more like the working-scheme. It works nice as a building block for the traditional pagoda, however, the matrix-scheme's for the other pagoda examples are harder to achieve."
+%}
