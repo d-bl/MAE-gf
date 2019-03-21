@@ -4,7 +4,6 @@
 * [Introduction](#introduction)
 * [Lotus notation](#lotus-notation)
 * [Lotus examples](#lotus-examples)
-* [Lotus building](#lotus-building)
 
 ## Introduction
 <img alt="lotus pair dia" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf%20lotus%20wt.png">
@@ -20,11 +19,6 @@ Lotus H,V,X means: the number of Horizontal rows, the number of Verticals and th
 * [jp-double lotus H2,V2,X2][TD-222]
 * [jp-double lotus H4,V2,X2][TD-422]
 
-## Lotus building
-The general Lotus scheme looks like the scheme in the picture. Of course, other scheme's are possible.      
-Building bigger lotus is similair to the building of bigger fish, as illustrated on the [_Fish_][fish-page] page.
-
-![lotus generator][lotus_gen]
 
 ***
 
