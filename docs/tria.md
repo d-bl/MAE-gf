@@ -8,7 +8,6 @@
 * [Pagoda's facing](#pagodas-facing)
 * [Stacked pagoda's](#stacked-pagodas)
 * [Pagoda in a square](#pagoda-in-a-square)
-* [Building Pagoda's](#building-pagodas)
 
 ## Introduction
 {% include picts-right.html
@@ -47,16 +46,6 @@ The units can be placed all facing in the same direction, or alternating.
 ![pg in square][pg-sqre]       
 * [square][T-sqre]
 
-## Building Pagoda's
-Bigger pagoda's can be build much in the same way as building bigger [_fish_][fish-page].            
-The coloured dots indicate what goes where when translating the working scheme into a matrix. The black lines indicate one unit, the grey lines show where the other units connect.         
-![building pagoda's][build pagoda]
-
-{% include picts-left.html
-  src="https://maetempels.github.io/MAE-gf/images/gf-pg-uni2.png"
-  alt="alternative unit"
-  description="The unit on the left looks more like the working-scheme. It works nice as a building block for the traditional pagoda, however, the matrix-scheme's for the other pagoda examples are harder to achieve."
-%}
 
 ***
 
