@@ -5,7 +5,6 @@
 * [Fish notation](#fish-notation)
 * [Fish examples](#fish-examples)
 * [Fish made by Droste-effect](#building-fish-with-droste)
-* [Fish building](#fish-building)
 
 ## Introduction
 Fish grounds are usualy used in small braids. Milanese braids typically need 14-18 pairs of bobbins.    
@@ -37,14 +36,6 @@ _Double fish B2,S2,W3_ also can be made using Droste [second level][F2-223] whic
 The first level can be split in two levels, with the same result at the [third level][F3-223] except for an ugly footside. Note that in both cases it can take a while for the last levels to appear. 
 Please note the resemblance of the level-3 fish with the [narrow eyed spider][ne-spiders-page].
 
-## Fish building.
-The general fish scheme looks like the schemes in the picture. Of course, other scheme's are possible. Please note that an even or odd number of "waves" dictate if a <span class="elem">brick-matrix</span> is possible.      
-
-![fish generator][fish-gen]    
-     
-Building bigger fish is illustrated in the following picture. Please note the change of direction of the weavers.       
-
-![fish build][fish-build]    
 
 ***
 
