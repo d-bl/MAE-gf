@@ -7,7 +7,6 @@
 * [Spiders with a narrow eye](#spiders-with-a-narrow-eye)
 * [Binche spiders](#binche-spiders)
 * [Stacked spiders](#stacked-spiders)
-* [Building Spiders](#building-spiders) 
      
 ## Introduction
 On this page we show examples of matrices for grounds with all spiders.           
@@ -79,14 +78,6 @@ There are many ways of making a binche spider. Below are given some examples.
 ## Stacked spiders
 [Another][T-SA1] ground can be obtained using the corresponding <span class="elem">checkers-matrix</span>, but set the tiling parameter to <span class="elem">brick</span>.
 
-## Building Spiders
-Adding legs to a spider is the equivalent of adding a ring to it. So, after discovering the matrix for a 4x3 legged spider, a 4x4 or bigger spider is easy.            
-For the complete scheme's we chose to connect the spiders diagonaly. Of course, connecting with a horizontal line will also work. For the spiders in a square, the connection between spider and square has to be horizontal.   
-
-Torchon spiders looks like this:        
-![spider generator trad][pic-gen]    
-Spiders with an eye look like this:          
-![spider generator eye][pic-gon]
 
 ***
 [math-page]: https://maetempels.github.io/MAE-gf/docs/maths#spider-formulas
