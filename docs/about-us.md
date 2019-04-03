@@ -43,7 +43,7 @@ I'm happy to share the results with you.
 ## Write us
 If you have suggestions, questions, want to share your own finds, or other remarks: please let us know. We can read Dutch, English, German.
 <script>send("egrofdnuorg eamoj")</script> 
-<script>send("slempmet ae.nairam")</script>
+<script>send("slepmet ae.nairam")</script>
 
 ***
 
