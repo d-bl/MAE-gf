@@ -17,8 +17,8 @@ If you, or someone you know, has been identified as creator of one or more of th
 Groundforge uses scheme's (matrices) as input-parameter. Some of those are discovered by V. Irvine, and collected in the "Tesselace", others, like the spiders, are created by ourselves. Of course, coïncidences happen.
 
 Some new grounds use traditional prickings. E.g.: the "ants" are made on the rose-ground pricking.
-
-<script>send("egrofdnuorg eamoj")</script>    
+    
+You will find our email-adres on the [_About us_][aboutus] page.   
 
 ## Creators
 Our own grounds are prefixed with our initials (jp-, mt-).   
