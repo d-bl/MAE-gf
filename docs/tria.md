@@ -7,7 +7,7 @@
 * [Pagoda's kissing](#pagodas-kissing)
 * [Pagoda's facing](#pagodas-facing)
 * [Stacked pagoda's](#stacked-pagodas)
-* [Pagoda in a square](#pagoda-in-a-square)
+* [Pagoda in a diamond](#pagoda-in-a-diamond)
 
 ## Introduction
 {% include picts-right.html
@@ -41,9 +41,9 @@
 ![pg stacked][pg-stck]
 * [stacked][T-stck]
          
-## Pagoda in a square
+## Pagoda in a diamond
 The units can be placed all facing in the same direction, or alternating.    
-![pg in square][pg-sqre]       
+![pg in diamond][pg-sqre]       
 * [square][T-sqre]
 
 
