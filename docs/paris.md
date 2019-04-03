@@ -2,8 +2,8 @@
 
 ## Contents
 * [Introduction](#introduction)
-* [Examples](#examples)
-* [Paris ground](#paris-ground-in-a-square)
+* [Traditional paris ground](#traditional-paris-ground)
+* [Paris ground in a diamond](#paris-ground-in-a-diamond)
 * [Big Paris ground](#big-paris-ground)
 * [Way of making](#way-of-making)
 
@@ -18,12 +18,12 @@ The photo shows the example on the bottom of this page, but slighty adapted to g
   description=paris1
 %}
 
-## Examples
+## Traditional paris ground
 ![paris ground][pic-par-grnd]
 * [mt-0402][T-0402-LG], [mt-0403][T-0403-KG], [mt-0424][T-0424-KG]      
 * The last example as a unit, [connected with plaits][T-0424-KF].
 
-## Paris ground in a square
+## Paris ground in a diamond
 ![paris in square][pic-par-sqr]
 * [example][T-PAR-SQR1]
 
