@@ -5,8 +5,8 @@
 * [Binche snowflake](#binche-snowflake)
 * [Little snowflake](#little-snowflake)
 * [Little snowflake, crossed](#little-snowflake-crossed)
-* [Snowflake in a square](#snowflake-in-a-square)
-* [Snowflake in a square, crossed](#snowflake-in-a-square-crossed)
+* [Snowflake in a diamond](#snowflake-in-a-diamond)
+* [Snowflake in a diamond, crossed](#snowflake-in-a-square-crossed)
 * [Snowflakes diagonal](#snowflakes-diagonal)
 
 ## Introduction
@@ -32,16 +32,16 @@ For the Binche spiders see <a href="https://maetempels.github.io/MAE-gf/docs/spi
 ![little snowflake crossed][pic-sn-cr]
 * [mt-0342][T-ex-0342], [mt-0306][T-mt-0306]
 
-## Snowflake in a square
+## Snowflake in a diamond
 ![snowflake squared][pic-sn-uni-sq]   
 * [mt-0306][T-ex-0306]
 
-## Snowflake in a square, crossed
+## Snowflake in a diamond, crossed
 {% capture sxsnow %}
-The matrix for the right example uses &quot;extened arrows&quot;. The example on the left does not have this feature, but it is harder to see where the stitches are in the tread diagram.<br>The thread diagram for ground mt-0356 can also be obtained as a rose ground in a square, see mt-0116 on page <a href="https://maetempels.github.io/MAE-gf/docs/misca#rose-ground-in-a-square"><em>Miscellaneous</em></a>.
+The matrix for the right example uses &quot;extened arrows&quot;. The example on the left does not have this feature, but it is harder to see where the stitches are in the tread diagram.<br>The thread diagram for ground mt-0356 can also be obtained as a rose ground in a diamond, see mt-0116 on page <a href="https://maetempels.github.io/MAE-gf/docs/misca#rose-ground-in-a-diamond"><em>Miscellaneous</em></a>.
 {% endcapture %}
 {% include picts-left.html
-  alt="snowflake square crossed"
+  alt="snowflake diamond crossed"
   src="https://maetempels.github.io/MAE-gf/images_wt/sn-uni-sc.png"
   description=sxsnow
 %}
