@@ -46,3 +46,5 @@ VI = V. Irvine: Developing a Mathematical Model for Bobbin Lace (paper)
 VI = V. Irvine: Tesselace. See Groundforge Examples pages.    
 
 ***
+
+[aboutus]: https://maetempels.github.io/MAE-gf/docs/about-us#write-us
