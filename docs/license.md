@@ -12,14 +12,13 @@ contact: true
 
 ## Introduction
 On the pages of this website you will find many examples of grounds. Some examples are traditional. Others are our own finds. It is of course possible, that someone else has discovered the same ground.    
-If you, or someone you know, has been identified as creator of one or more of the grounds used, without being named as such: please let us know so we can add the reference.
+If you, or someone you know, has been identified as creator of one or more of the grounds used, without being named as such: please let us know so we can add the reference.   
+You will find our email-adres on the [_About us_][aboutus] page.   
 
 Groundforge uses scheme's (matrices) as input-parameter. Some of those are discovered by V. Irvine, and collected in the "Tesselace", others, like the spiders, are created by ourselves. Of course, coïncidences happen.
 
 Some new grounds use traditional prickings. E.g.: the "ants" are made on the rose-ground pricking.
     
-You will find our email-adres on the [_About us_][aboutus] page.   
-
 ## Creators
 Our own grounds are prefixed with our initials (jp-, mt-).   
 Grounds found in the Whiting index (prefixed WI) are free of copyrights.     
