@@ -44,7 +44,7 @@
 ## Pagoda in a diamond
 The units can be placed all facing in the same direction, or alternating.    
 ![pg in diamond][pg-sqre]       
-* [square][T-sqre]
+* [diamond][T-sqre]
 
 
 ***
