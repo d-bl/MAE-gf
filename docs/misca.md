@@ -20,7 +20,7 @@ Miscellaneous examples, collected on this page.
 ## Rose ground in a diamond
 By putting the traditional rose ground unit in a diamond, little stars can be made.                 
 Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates. Ground mt-0112 looks like a star.    
-Ground mt-0504 is used as illustration of different ways to join the unit in the square.
+Ground mt-0504 is used as illustration of different ways to join the unit in the diamond.
 
 ![torchon-flemish][pic-tor-flem]      
 ![photo-0112-torchon][ph-0112-t] ![photo-0112-flemish][ph-0112-f]
@@ -58,11 +58,11 @@ However, the values for the repeat-parameter are set such that the stitches can 
 
 ***
 
-[page-snow]: https://maetempels.github.io/MAE-gf/docs/snowflakes#snowflake-in-a-square
+[page-snow]: https://maetempels.github.io/MAE-gf/docs/snowflakes#snowflake-in-a-diamond
 [page-spid]: https://maetempels.github.io/MAE-gf/docs/spiders
-[page-tria]: https://maetempels.github.io/MAE-gf/docs/tria#pagoda-in-a-square
-[page-bias]: https://maetempels.github.io/MAE-gf/docs/bias#unit-bias-in-a-square
-[page-paris]: https://maetempels.github.io/MAE-gf/docs/paris#paris-ground-in-a-square
+[page-tria]: https://maetempels.github.io/MAE-gf/docs/tria#pagoda-in-a-diamond
+[page-bias]: https://maetempels.github.io/MAE-gf/docs/bias#unit-bias-in-a-diamond
+[page-paris]: https://maetempels.github.io/MAE-gf/docs/paris#paris-ground-in-a-diamond
 
 [pic-tor-flem]: https://maetempels.github.io/MAE-gf/images_wt/gf-tor-vl.png
 [pic-0306-OIv]: https://maetempels.github.io/MAE-gf/images_wt/gf%200301%20wt.png
