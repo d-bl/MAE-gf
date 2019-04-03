@@ -1,4 +1,4 @@
-# Miscellaneous grounds
+# Miscellaneous examples
 
 ## Contents
 * [Introduction](#introduction)
