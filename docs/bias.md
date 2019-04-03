@@ -7,8 +7,8 @@
 * [Bias Ground crossed differently](#bias-ground-crossed-differently)
 * [Bias Ground with a diagonal in between](#bias-ground-with-a-diagonal-in-between)
 * [Bias Ground crossed and a diagonal in between](#bias-ground-crossed-and-a-diagonal-in-between)
-* [Unit bias in a square](#unit-bias-in-a-square)
-* [Bias Ground crossed and in a square](#bias-ground-crossed-and-in-a-square)
+* [Unit bias in a diamond](#unit-bias-in-a-diamond)
+* [Bias Ground crossed and in a diamond](#bias-ground-crossed-and-in-a-diamond)
 * [Short bias](#short-bias)
 
 
@@ -43,11 +43,11 @@ Ground mt-0228 is a variant in cloth stitch.
 ![row and crossed][P-0221-av]
 * [example][T-0221-av]
 
-## Unit bias in a square
+## Unit bias in a diamond
 ![short bias in square][pic-uni-bsq]
 * [example][T-uni-sbq]
 
-## Bias Ground crossed and in a square
+## Bias Ground crossed and in a diamond
 ![bias crossed and square][P-bias-xq]
 * [example][T-bs-xq]
 
