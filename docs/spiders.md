@@ -54,7 +54,7 @@ Spiders with a narrow eye also can be achieved using <span class="elem">level 2<
 ![spider with narrow eye][pic-sn3] ![spider with narrow eye, square][pic-snq3]
 * [4x3 legs][T-SN3]
  
-### in a square
+### in a diamond
 * [4x3 legs][T-SNQ3]
 
 ## Binche spiders 
