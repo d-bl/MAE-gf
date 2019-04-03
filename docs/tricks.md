@@ -41,8 +41,8 @@ We have learned, that the figure on the left is called a <a href="https://d-bl.g
 Sometimes, onorthodox stitches are used, like <span class="stch">cross only</span> or <span class="stch">crcllcrc</span>, as in the [_Sunny Stitch_][ex-sun].    
 We have tried <span class="stch">ctctclllllctctc</span> as a substitute for picots. Groundforge needs some time to generate this, and the result is not as expected.
 
-Groundforge accepts only stitch-instructions with at least one cross, so the stitch <span class="stch">do nothing</span> is not supported by Groundforge.          
-The instruction <span class="stch">A1=t</span> will be translated into <span class="stch">A1=ct</span>.               
+The specified twitst in some stitch definitions may not be according to the expected working order. Example : <span class="stch">B1 = ctctt, A2 = ct, C2 = ct</span> instead of <span class="stch">B1 = ctc, A2 = rrct, C2 = llct</span>. The result is the same.
+
 
 ## Diagrams
 {% include p-l-c.html
