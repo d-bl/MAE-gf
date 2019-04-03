@@ -3,11 +3,11 @@
 ## Contents
 * [Introduction](#introduction)
 
-**Ground-units in diamomd**
+**Ground-unit in diamomd**
 * [Rose ground](#rose-ground-in-a-diamond)
-* [Snowflakes](#snowflakes-in-a-diamond)
-* [Spiders](#spiders-in-a-diamond)
-* [Pagoda's](#pagodas-in-a-diamond)
+* [Snowflake](#snowflake-in-a-diamond)
+* [Spider](#spider-in-a-diamond)
+* [Pagoda](#pagoda-in-a-diamond)
 * [Unit bias](#unit-bias-in-a-diamond)
 * [Paris ground](#paris-ground-in-a-diamond)
 
@@ -27,13 +27,13 @@ Ground mt-0504 is used as illustration of different ways to join the unit in the
 * [mt-0112][T-0112], [mt-0116][T-0116]
 * [mt-0504 a][T-0504-a], [mt-0504 b][T-0504-b], [mt-0504 c][T-0504-c]
 
-## Snowflakes in a diamond
+## Snowflake in a diamond
 See page [_Snowflakes_][page-snow].
 
-## Spiders in a diamond
+## Spider in a diamond
 See page [_Spiders_][page-spid].
 
-## Pagoda's in a diamond
+## Pagoda in a diamond
 See page [_Pagoda's_][page-tria]. 
 
 ## Unit bias in a diamond
