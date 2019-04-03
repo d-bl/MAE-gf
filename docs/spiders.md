@@ -45,7 +45,7 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 
 * [4x2 legs][T-SH2], [4x3 legs][T-SH3], [4x4 legs][T-SH4]
 
-### in a square
+### in a diamond
 * [4x3 legs][T-SHQ3], [4x4 legs][T-SHQ4]
 
 ## Spiders with a narrow eye
