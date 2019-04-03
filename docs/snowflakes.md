@@ -6,7 +6,7 @@
 * [Little snowflake](#little-snowflake)
 * [Little snowflake, crossed](#little-snowflake-crossed)
 * [Snowflake in a diamond](#snowflake-in-a-diamond)
-* [Snowflake in a diamond, crossed](#snowflake-in-a-square-crossed)
+* [Snowflake in a diamond, crossed](#snowflake-in-a-diamond-crossed)
 * [Snowflakes diagonal](#snowflakes-diagonal)
 
 ## Introduction
