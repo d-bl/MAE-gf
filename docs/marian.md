@@ -36,7 +36,7 @@ You can also find some of my finds on other pages, all prefixed with "mt_".
 
 ## Sunny stitch
 {% capture maet1 %}
-This stitch I created because I wished to see a little loop at the sides of the rose ground. To obtain this, I used a very onorthodox stitch at the sides of the unit. Ground mt-0902-f connects the sunny's with plaits; ground mt-0902-q is the same unit, in a square.
+This stitch I created because I wished to see a little loop at the sides of the rose ground. To obtain this, I used a very onorthodox stitch at the sides of the unit. Ground mt-0902-f connects the sunny's with plaits; ground mt-0902-q is the same unit, in a diamond.
 {% endcapture %}
 {% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-0902-wt.png"
