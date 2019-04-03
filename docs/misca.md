@@ -3,13 +3,13 @@
 ## Contents
 * [Introduction](#introduction)
 
-**Ground-units in squares**
-* [Rose ground](#rose-ground-in-a-square)
-* [Snowflakes](#snowflakes-in-a-square)
-* [Spiders](#spiders-in-a-square)
-* [Pagoda's](#pagodas-in-a-square)
-* [Unit bias](#unit-bias-in-a-square)
-* [Paris ground](#paris-ground-in-a-square)
+**Ground-units in diamomd**
+* [Rose ground](#rose-ground-in-a-diamond)
+* [Snowflakes](#snowflakes-in-a-diamond)
+* [Spiders](#spiders-in-a-diamond)
+* [Pagoda's](#pagodas-in-a-diamond)
+* [Unit bias](#unit-bias-in-a-diamond)
+* [Paris ground](#paris-ground-in-a-diamond)
 
 **Others**
 * [Alternate stitch ground (om &amp; om)](#alternate-stitch-ground)
@@ -17,8 +17,8 @@
 ## Introduction
 Miscellaneous examples, collected on this page. 
 
-## Rose ground in a square
-By putting the traditional rose ground unit in a square, little stars can be made.                 
+## Rose ground in a diamond
+By putting the traditional rose ground unit in a diamond, little stars can be made.                 
 Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates. Ground mt-0112 looks like a star.    
 Ground mt-0504 is used as illustration of different ways to join the unit in the square.
 
@@ -27,19 +27,19 @@ Ground mt-0504 is used as illustration of different ways to join the unit in the
 * [mt-0112][T-0112], [mt-0116][T-0116]
 * [mt-0504 a][T-0504-a], [mt-0504 b][T-0504-b], [mt-0504 c][T-0504-c]
 
-## Snowflakes in a square
+## Snowflakes in a diamond
 See page [_Snowflakes_][page-snow].
 
-## Spiders in a square
+## Spiders in a diamond
 See page [_Spiders_][page-spid].
 
-## Pagoda's in a square
+## Pagoda's in a diamond
 See page [_Pagoda's_][page-tria]. 
 
-## Unit bias in a square
+## Unit bias in a diamond
 See page [_Bias grounds_][page-bias].
 
-## Paris ground in a square
+## Paris ground in a diamond
 See page [_Paris grounds_][page-paris].
 
 ## Alternate stitch ground
