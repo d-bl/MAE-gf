@@ -24,10 +24,10 @@ Please note: for a traditional Torchon spider, a stitch like <span class="stch">
 
 * [4x2 legs][T-ST2] (WI F2), [4x3 legs][T-ST3] (WI E4), [4x4 legs][T-ST4], [4x5 legs][T-ST5]
 
-### in a square
+### in a diamond
 {% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf%20spin%204s%20wt.png"
-  alt="spider in square"
+  alt="spider in diamond"
   description="The working-scheme in the picture shows ground <i>WI G2</i>.<br> Larger spiders are possible, but it will take Groundforge some time to generate the pictures."
 %}
 
