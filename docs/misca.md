@@ -3,7 +3,7 @@
 ## Contents
 * [Introduction](#introduction)
 
-**Ground-unit in diamomd**
+**Ground-unit in diamond**
 * [Rose ground](#rose-ground-in-a-diamond)
 * [Snowflake](#snowflake-in-a-diamond)
 * [Spider](#spider-in-a-diamond)
