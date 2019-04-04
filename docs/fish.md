@@ -16,7 +16,7 @@ If the tail is made with pairs not from the same fish, the ground is called [_Lo
      src="https://maetempels.github.io/MAE-gf/images_wt/gf%20vis%20wt.png"
 %}     
 
-Broader fish can be made, e.g. with four cloth stitches. In some Milanese grounds, the heads and tails are made as a cloth stitch with pairs. Groundforge does not support this. Making the head and tail as a half spider is supported. In Groundforge these fish can be obtained using the second or even third level diagram. (example follows)
+Broader fish can be made, e.g. with four cloth stitches. In some Milanese grounds, the heads and tails are made as a cloth stitch with pairs. Groundforge does not support this. Making the head and tail as a half spider is supported. 
 
 ## Fish notation
 Lets call the horizontal rows the _bones_, the vertical lines the _spines_, and the in between rows the _waves_.
