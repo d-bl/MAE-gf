@@ -76,7 +76,7 @@ There are many ways of making a binche spider. Below are given some examples.
 * [traditional spider, binche style][T-SP-BS] (WI E2)
 
 ## Stacked spiders
-[Another][T-SA1] ground can be obtained playing with the <span class="elem">arrange the repeat</span> paramters.
+[Another][T-SA1] ground can be obtained playing with the <span class="elem">arrange the repeat</span> parameters.
 
 
 ***
