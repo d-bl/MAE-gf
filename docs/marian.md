@@ -11,6 +11,7 @@
 * [Roses with vertical](#roses-with-vertical)
 * [Bias with vertical](#bias-with-vertical)
 * [Windmills](#windmills)
+* [Pajarita](#pajarita)
 
 &copy; M. Tempels
 
@@ -85,11 +86,14 @@ As the pattern above, this pattern also was created one quarter turned.
 * [mt-3238][T-3238]
 
 ## Windmills
-Inspired by origami.      
-I tried to make a ground inspired by the "pajarita". However, I have not yet found out how to connect them. Then I tried the windmills.            
+Inspired by origami.            
 ![windmill g42][pic-g42] ![windmill g43][pic-g43]
 
 * [mt-4201][T-4201], [mt-4301][T-4301]
+
+## Pajarita
+Inspired by origami.
+(Soon to follow.)
 
 ***
 
