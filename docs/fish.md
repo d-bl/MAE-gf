@@ -70,7 +70,7 @@ Please note the resemblance of the level-3 fish with the [narrow eyed spider][ne
 
 [FD223]: https://d-bl.github.io/GroundForge/index.html?m=-4%20%205-%20%20-5%20%205-%20%20-5%20%2021%20%2088%3Bchecker%3B20%3B12%3B0%3B0&s1=ctc%20B1%3Dct%20B6%3Dctct%20B4%3Dctcl%20B5%3Dlctc%20A7%3DA2%3Dctct
 
-[F2-223]: https://d-bl.github.io/GroundForge/index.html?m=-4%20%205-%20%20-5%20%205-%20%20-5%20%2021%20%2088%3Bchecker%3B20%3B12%3B0%3B0&s1=ctc%20B1%3Dct%20B6%3Dctct%20B4%3Dctcl%20B5%3Dlctc%20A7%3DA2%3Dctct&s2=ctc%20b10%3Dtct%20b65%3Dtt%20b64%3Dtt%20a24%3Dtt%20a25%3Dtt%20b44%3Dttctctt%20b50%3Dttctctt&s3=&
+[F2-223]: https://d-bl.github.io/GroundForge/tiles.html?patchWidth=6&patchHeight=14&b1=ctct&a2=ctct&b3=ct&a4=ctct&b5=ctc&b6=ctcl&a6=ctc&b7=ctc&a7=ctcr&droste2=ctc,b30=tct,b44=a45=b15=b14=tt,b64=a74=ttctctt&tile=-4,5-,-5,5-,-5,21,88&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=7&shiftColsSE=2&shiftRowsSE=7
 
 [F3-223]: https://d-bl.github.io/GroundForge/index.html?m=8%0A1%0A8%0A1%0A%3Bchecker%3B11%3B7%3B0%3B0&s1=%20a1%3Dctc%20a2%3Dcr%20a3%3Dc%20a4%3Dlc&s2=ctc%20a10%3Dctcr%20a13%3Dlctc%20a20%3Da21%3Da40%3Dctct%20a30%3Dct&s3=ctc%20a104%3Da130%3Dttctctt%20a204%3Da205%3Da404%3Da405%3Dtt%20a300%3Dtct
 
