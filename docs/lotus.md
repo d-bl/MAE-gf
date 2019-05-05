@@ -13,9 +13,9 @@ Lotus grounds are usualy used in small braids, 14-18 pairs.
 Lotus H,V,X means: the number of Horizontal rows, the number of Verticals and the number of rows in between. See the picture. 
 
 ## Lotus examples
-* [Lotus H2,V2,X-][T-22-] , [Lotus H2,V2,X0][T-220]   
+* [Lotus H2,V2,X-][T-22-]; [Lotus H2,V2,X0][T-220]   
 * [Lotus H4,V2,X1][T-421]      
-* [Lotus H5,V2,X0][T-520] , [Lotus H5,V2,X2][T-522]
+* [Lotus H5,V2,X0][T-520]; [Lotus H5,V2,X2][T-522]
 * [jp-double lotus H2,V2,X2][TD-222]
 * [jp-double lotus H4,V2,X2][TD-422]
 
