@@ -61,18 +61,6 @@ The units can be placed all facing in the same direction, or alternating.
 
 [fish-page]: https://maetempels.github.io/MAE-gf/docs/fish#fish-building
 
-[G-sqre]: https://d-bl.github.io/GroundForge/index.html?m=215-5-%0A-786-5%0A246-5-%3Bbricks%3B24%3B24%3B0%3B0&s1=ctct%20A1%3Dtctc%20B2%3Drctc%20A2%3Dctc%20F2%3Dlctclctcll%20D3%3Dctc%20E3%3Dctcrr%20D1%3Dctctt
-
-[G-trad]: https://d-bl.github.io/GroundForge/index.html?m=4-12%0A-5--%0A6-CD%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20C1%3Dtttctc%20A2%3Dctcttt
-
-[G-bigg]: https://d-bl.github.io/GroundForge/index.html?m=5-----%0A-CDDD6%0A246631%0A224-12%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20A1%3Dlllctc%20E4%3Dtttctc%20D1%3Dctclll%20E2%3Dctcttt
-
-[G-kiss]: https://d-bl.github.io/GroundForge/index.html?m=5---5---%0A-CD6-2AB%0A-468-127%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20F3%3Dttctc%20H3%3Dttctc%20B1%3Dctctt%20D1%3Dctctt
-
-[G-face]: https://d-bl.github.io/GroundForge/index.html?m=5-----5-%0A-CD3AB-5%0A2468-7-1%0A----5-5-%0AD3AB-5-C%0A68-7-124%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20D3%3Dttctc%20F4%3Dctctt%20F6%3Dttctc%20B4%3Dctctt%20H3%3Dttctc%20H1%3Dctctt%20D1%3Dctctt%20B6%3Dttctc
-
-[G-stck]: https://d-bl.github.io/GroundForge/index.html?m=5-4-5-%0A-215-5%0A5-78-1%0A8-4-58%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20D3%3Dtttctcttt%20F3%3Dtttctcttt%20A2%3Dlllctc%20A4%3Dctclll
-
 [T-bigg]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctclll&b2=ctc&c2=ctc&d2=ctc&e2=ctcrrr&f2=ctc&a3=ctc&b3=ctclll&c3=ctc&d3=ctcrrr&e3=ctc&f3=ctc&a4=ctc&b4=ctc&c4=ctcttt&e4=ctc&f4=ctc&tile=5-----,,-CDDD6,246631,224-12&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=4
 
 [T-face]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctcll&g1=ctcrr&b2=ctc&c2=ctc&d2=ttctc&e2=ctc&f2=ctc&h2=ctc&a3=ctc&b3=ctctt&c3=ctc&d3=ctc&f3=ctctt&h3=ctc&e4=ctcrr&g4=ctcll&a5=ctc&b5=ttctc&c5=ctc&d5=ctc&f5=ctc&h5=ctc&a6=ctc&b6=ctc&d6=ctctt&f6=ctc&g6=ctc&h6=ctctt&tile=5-----5-,-CD3AB-5,2468-7-1,----5-5-,D3AB-5-C,68-7-124&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6
