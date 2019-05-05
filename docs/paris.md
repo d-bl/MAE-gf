@@ -42,12 +42,6 @@ The following example uses three different matrix-scheme's to obtain the same gr
 
 [ph-0434]: https://maetempels.github.io/MAE-gf/photos/0434.png
 
-[G-3412]: https://d-bl.github.io/GroundForge/index.html?m=-5---5%0A--C-B-%0A-B-5-C%3Bbricks%3B24%3B24%3B0%3B0&s1=ct%20F1%3Dctc%20E3%3Dc%20A3%3Dc
-
-[G-BIG-RG1]: https://d-bl.github.io/GroundForge/index.html?m=-5---5%0A--C-B-%0A-B-5-C%3Bbricks%3B24%3B24%3B0%3B0&s1=ctct%20B1%3Dct%20D1%3Dct
-
-[G-PAR-SQR1]: https://d-bl.github.io/GroundForge/index.html?m=C-B-5-5-%0A-5-5-5-5%0A5-5-5-5-%0A-5-5---5%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20D4%3Dtctc%20G1%3Dtctcr%20F2%3Dtctct%20A1%3Dtctcl%20B2%3Dtctct%20A3%3Dctct%20H4%3Dctct%20G3%3Dctct
-
 [T-0112]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctt&c1=ctctt&e1=ctctt&f1=ctt&b2=ctctt&c2=c&d2=ctct&e2=c&f2=ctctt&a3=ctctt&c3=ctcr&e3=ctcl&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
 [T-3412]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=24&b1=ct&f1=ct&c2=c&e2=c&b3=ct&d3=ctc&f3=ct&tile=-5---5,--C-B-,-B-5-C&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
