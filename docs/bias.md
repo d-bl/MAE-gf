@@ -37,7 +37,7 @@ Ground mt-0228 is a variant in cloth stitch.
 
 ## Bias Ground with a diagonal in between
 ![row between][P-0221-vg] ![bias in square][P-bias-sq]
-* [example][T-0221-vg], [in a square][T-bs-sq]
+* [example][T-0221-vg], [in a diamond][T-bs-sq]
 
 ## Bias Ground crossed and a diagonal in between   
 ![row and crossed][P-0221-av]
