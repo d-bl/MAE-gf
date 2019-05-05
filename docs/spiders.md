@@ -73,7 +73,7 @@ There are many ways of making a binche spider. Below are given some examples.
 
 ### Traditional spider, on a Binche pricking  
 ![binche small spider][pic-bi-spin]                     
-* [traditional spider, binche style][T-SP-BS] (WI E2)
+* [traditional spider binche style][T-SP-BS] (WI E2)
 
 ## Stacked spiders
 [Another][T-SA1] ground can be obtained playing with the <span class="elem">arrange the repeat</span> parameters.
