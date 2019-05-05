@@ -113,41 +113,6 @@ Inspired by origami.
 [pic-g42]:https://maetempels.github.io/MAE-gf/images_wt/G42.png
 [pic-g43]: https://maetempels.github.io/MAE-gf/images_wt/G43.png
 
-
-[LLLL]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B5%3B0%3B0&s1=ctct%20D1%3Dctctctct%20B1%3Dctctctct
-
-[G-0902-f]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B16%3B16%3B0%3B0&s1=A1%3Dctctc%20C1%3Dctctc%20D2%3Dcrcllcrc%20B2%3Dclcrrclc%20D1%3Dctctctctc%20B1%3Dctctctctc
-
-[G-0902-q]: https://d-bl.github.io/GroundForge/index.html?m=586-21%0A-48317%0A5-4-7-%0A%3Bbricks%3B16%3B16%3B0%3B0&s1=ctcttt%20F3%3Dctctc%20F2%3Dctctc%20E1%3Dcrcllcrc%20A1%3Dclcrrclc%20E3%3Dc%20A3%3Dc%20E2%3Dcttt%20A2%3Dcttt
-
-[G-0692]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B24%3B0%3B0&s1=c%20A1%3Dcctct%20C1%3Dtctcc
-
-[G-0665]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B24%3B0%3B0&s1=c%20A1%3Dtctctc%20C1%3Dctctct
-
-[G-3cc]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B24%3B0%3B0&s1=c%20A1%3Dctct%20C1%3Dtctc%20D1%3Dcc%20B1%3Dcc
-
-[G-1114]: https://d-bl.github.io/GroundForge/index.html?m=8325%0A6-76%0A1563%0A224-%3Bchecker%3B24%3B24%3B0%3B0&s1=ctc%20C1%3Dtctc%20C3%3Dtctc%20A1%3Dctct%20A3%3Dctct%20B2%3Drcl%20D4%3Dlcr
-
-[G-1111]: https://d-bl.github.io/GroundForge/index.html?m=8325%0A6-76%0A1563%0A224-%3Bchecker%3B24%3B24%3B0%3B0&s1=ct%20B3%3Dctct%20A4%3Dctct%20C4%3Dctct%20B1%3Dctct%20D1%3Dctct%20C2%3Dctct%20A2%3Dctct%20D3%3Dctct
-
-[G-2111]: https://d-bl.github.io/GroundForge/index.html?m=-7-4--%0AB831C-%0A66-225%3Bbricks%3B24%3B24%3B0%3B0&s1=ct%20E3%3Dctct%20D1%3Dctct%20C2%3Dctct%20F1%3Dctct%20A2%3Dctct%20A3%3Dctct%20C3%3Dctct%20B1%3Dctct
-
-[G-0116]: https://d-bl.github.io/GroundForge/index.html?m=5831%0A-4-7%3Bbricks%3B24%3B24%3B0%3B0&s1=D1%3Dctctctctctc%20B1%3Dctctctctctc%20A1%3Dctctc%20D2%3Dctc%20B2%3Dctc%20C1%3Dctctc
-
-[G-0278]: https://d-bl.github.io/GroundForge/index.html?m=8-48%0A8314%3Bbricks%3B16%3B16%3B0%3B0&s1=ctctctctc%20D2%3Dctct%20A1%3Dctc%20B1%3Dc%20C1%3Dctc%20B2%3Dtctc
-
-[G-0342]: https://d-bl.github.io/GroundForge/index.html?m=--B-C---%0A-E-5-O-K%0A5-----5-%0A-------5%3Bbricks%3B24%3B24%3B0%3B0&s1=ct%20H4%3Dctctctctc%20D4%3Dctctctctc%20B2%3Dctct%20A3%3Dcr%20C3%3Dcl%20B4%3Dc
-
-[G-0775]: https://d-bl.github.io/GroundForge/index.html?m=83A4%0A48--%0A48D-%0A-48-%0A%3Bbricks%3B24%3B24%3B0%3B0&s1=ctc%20A4%3Dctcl%20A2%3Drctc%20C3%3Dtctct
-
-[G-3115]: https://d-bl.github.io/GroundForge/index.html?m=-5--%20%20B-C3%20%207-4-%20%208-15%3Bchecker%3B24%3B24%3B0%3B0&s1=c%20D4%3Dtctctc%20D2%3Dctctct%20C1%3DA1%3Dctc%20B3%3Dtctct
-
-[G-3238]: https://d-bl.github.io/GroundForge/index.html?m=-C-B%20%20--5-%20%20-B8D%20%20--4-%20%20-B-C%20%205---%3Bchecker%3B24%3B24%3B0%3B0&s1=A4%3Dtctc%20C1%3Dctctc%20B1%3DD1%3DC6%3DC2%3DB3%3DD3%3Dctc%20B5%3DD5%3Dttctc
-
-[G-4301]: https://d-bl.github.io/GroundForge/index.html?m=5-5-5-7-%20%20-215-5-5%20%2058886-5-%20%20-114-5-5%3Bbricks%3B16%3B16%3B0%3B0&s1=ctct%20A3%3DC1%3DH4%3DA4%3DB4%3DD1%3DE1%3DF1%3DG1%3DD2%3DE2%3DF2%3DE3%3Dctc
-
-[G-4201]: https://d-bl.github.io/GroundForge/index.html?m=15-7-2%20%20886-58%20%2014-5-1%3Bbricks%3B16%3B16%3B0%3B0&s1=ctc%20F1%3Dtctc%20A3%3Dlctcl%20E3%3Drctcr%20C2%3Dctct%20E2%3Dlctc%20A2%3Drctc%20B1%3Dctcl%20D1%3Dctcr
-
 [T-0116]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctctc&b1=ctctctctc&c1=ctctc&d1=ctctctctc&b2=ctc&d2=ctc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 [T-0278]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctc&c1=ctc&d1=c&a2=ctctctctc&b2=ctct&c2=ctctctctc&d2=tctc&tile=8-48,8314&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
