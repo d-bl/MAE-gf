@@ -44,32 +44,6 @@ Please note the resemblance of the level-3 fish with the [narrow eyed spider][ne
 [fish-gen]: https://maetempels.github.io/MAE-gf/images_wt/mx-fish.png
 [fish-build]: https://maetempels.github.io/MAE-gf/images_wt/mx-fish-bld.png
 
-[F12-]: https://d-bl.github.io/GroundForge/index.html?m=8%0A1%3Bchecker%3B8%3B12%3B0%3B0&s1=A1%3Dctc%20A2%3Dctcr
-
-[F120]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A12%0A4-%3Bbricks%3B8%3B12%3B0%3B0&s1=ctc%20A3%3Dctclll%20A1%3Dctct
-
-[F220]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A12%0A88%0A4-%3Bbricks%3B12%3B12%3B0%3B0&s1=ctc%20A2%3Dctctt%20B4%3Dctcll%20B1%3Dctcrr
-
-[F22-]: https://d-bl.github.io/GroundForge/index.html?m=4-%0A12%0A88%3Bchecker%3B8%3B12%3B0%3B0&s1=ctc%20A3%3Dctclll%20B1%3Dctcrrr
-
-[F222]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A-5%0A5-%0A12%0A88%0A4-%3Bbricks%3B16%3B12%3B0%3B0&s1=ctc%20A6%3Dctctt%20B5%3Dctctt%20B2%3Dctcll%20B3%3Dctcrr%20A4%3Dctctt
-
-[F322]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A-5%0A5-%0A12%0A88%0A11%0A4-%3Bbricks%3B20%3B12%3B0%3B0&s1=ctc%20B2%3DA4%3Dctclll%20B3%3Dlllctc%20A5%3DB6%3DA7%3Dctct
-
-[F42-]: https://d-bl.github.io/GroundForge/index.html?m=4-%0A12%0A88%0A11%0A88%3Bchecker%3B16%3B12%3B0%3B0&s1=ctc%20A5%3DA2%3Dctcll%20A1%3DA3%3Dllctc
-
-[F421]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A-5%0A21%0A88%0A11%0A88%0A-4%3Bchecker%3B20%3B12%3B0%3B0&s1=ctc%20B1%3DB3%3Dctcll%20B2%3DB4%3Dllctc%20A6%3Dtctct
-
-[F422]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A-5%0A5-%0A12%0A88%0A11%0A88%0A4-%3Bbricks%3B24%3B12%3B0%3B0&s1=ctc%20B7%3Dtctct%20A8%3Dctct%20B2%3DB4%3Dctcll%20B3%3DA5%3Dllctc
-
-[F52-]: https://d-bl.github.io/GroundForge/index.html?m=4-%0A12%0A88%0A11%0A88%0A11%3Bchecker%3B20%3B12%3B0%3B0&s1=ctc%20A6%3DA2%3DA4%3Dctcll%20B1%3DB3%3Dctcrr
-
-[F520]: https://d-bl.github.io/GroundForge/index.html?m=5-%0A12%0A88%0A11%0A88%0A11%0A4-%3Bbricks%3B20%3B12%3B0%3B0&s1=ctc%20A6%3Dctctt%20B7%3DB2%3DA4%3Dctcll%20A1%3DA3%3Dctcrr
-
-[FD221]: https://d-bl.github.io/GroundForge/index.html?m=4-%0A-5%0A5-%0A12%0A88%3Bchecker%3B16%3B12%3B0%3B0&s1=ctc%20A4%3Dctct%20B5%3Dct%20A2%3Dctcl%20A3%3Dlctc
-
-[FD223]: https://d-bl.github.io/GroundForge/index.html?m=-4%20%205-%20%20-5%20%205-%20%20-5%20%2021%20%2088%3Bchecker%3B20%3B12%3B0%3B0&s1=ctc%20B1%3Dct%20B6%3Dctct%20B4%3Dctcl%20B5%3Dlctc%20A7%3DA2%3Dctct
-
 [F2-223]: https://d-bl.github.io/GroundForge/tiles.html?patchWidth=6&patchHeight=14&b1=ctct&a2=ctct&b3=ct&a4=ctct&b5=ctc&b6=ctcl&a6=ctc&b7=ctc&a7=ctcr&droste2=ctc,b30=tct,b44=a45=b15=b14=tt,b64=a74=ttctctt&tile=-4,5-,-5,5-,-5,21,88&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=7&shiftColsSE=2&shiftRowsSE=7
 
 [F3-223]: https://d-bl.github.io/GroundForge/tiles.html?patchWidth=6&patchHeight=6&a1=ctc&a2=cr&a3=c&a4=lc&droste2=ctc,a10=a11=ctcrr,a20=a21=a40=ctct,a30=ct,,,,&droste3=ctc,a300=tct,a104=a114=ttctctt,a204=a205=a404=a405=tt,&tile=8,1,8,1,&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=1&shiftRowsSE=4
