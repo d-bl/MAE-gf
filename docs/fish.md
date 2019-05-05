@@ -25,11 +25,11 @@ Fish B,S,W means: the number of Bones, the number of Spines and the number of Wa
 ## Fish examples
 * WI E14   
 * [Fish B1,S2,W-][T-12-]   
-* [Fish B2,S2,W-][T-22-] , [Fish B2,S2,W0][T-220] (WI G14), [Fish B2,S2,W2][T-222] (WI G16)     
+* [Fish B2,S2,W-][T-22-]; [Fish B2,S2,W0][T-220] (WI G14 ; [Fish B2,S2,W2][T-222] (WI G16)     
 * [Fish B3,S2,W2][T-322]               
-* [Fish B4,S2,W-][T-42-] (WI D16), [Fish B4,S2,W1][T-421] (WI E16), [Fish B4,S2,W2][T-422] (WI F16)      
-* [Fish B5,S2,W-][T-52-] , [Fish B5,S2,W0][T-520]   
-* [jp-double fish B2,S2,W1][TD-221] , [jp-double fish B2,S2,W3][TD-223] 
+* [Fish B4,S2,W-][T-42-] (WI D16); [Fish B4,S2,W1][T-421] (WI E16); [Fish B4,S2,W2][T-422] (WI F16)      
+* [Fish B5,S2,W-][T-52-]; [Fish B5,S2,W0][T-520]   
+* [jp-double fish B2,S2,W1][TD-221]; [jp-double fish B2,S2,W3][TD-223] 
 
 ## Building fish with Droste     
 _Double fish B2,S2,W3_ also can be made using Droste [second level][F2-223] which uses the thread diagram of the first level as pair diagram for the second level. Please replace <span class="elem">cross b102</span> in the level-2 thread diagram with a <span class="stch">half knot</span> or two to mimic a twisted pair.       
