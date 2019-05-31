@@ -37,7 +37,7 @@ You can also find some of my finds on other pages, all prefixed with "mt_".
 
 ## Sunny stitch
 {% capture maet1 %}
-This stitch I created because I wished to see a little loop at the sides of the rose ground. To obtain this, I used a very onorthodox stitch at the sides of the unit. Ground mt-0902-f connects the sunny's with plaits; ground mt-0902-q is the same unit, in a diamond.
+This stitch I created because I wished to see a little loop at the sides of the rose ground. To obtain this, I used a very onorthodox stitch at the sides of the unit. Ground mt-0902-l connects the sunny's with clothstiches; mt-0902-f connects the same unit with plaits as in "fusion"; mt-0902-q is the same unit, in a diamond.
 {% endcapture %}
 {% include picts-right.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-0902-wt.png"
@@ -45,7 +45,7 @@ This stitch I created because I wished to see a little loop at the sides of the 
   description=maet1
 %}
    
-* [mt-0902-f][T-0902-f], [mt-0902-q][T-0902-q]
+* [mt-0902-l][T-0902-l], [mt-0902-f][T-0902-f], [mt-0902-q][T-0902-q]
 
 ## Ants
 Ants came to life as a variation of the Slavic ground. The result looks like ants, see mt-0665. In effect, the threads between the bottom and top position of two units will be <span class="stch">crossed</span> four times. Please note that there are no twists between the <span class="stch">cross only</span> and <span class="stch">whole stitch</span> at the pins.            
@@ -124,6 +124,8 @@ Inspired by origami.
 [T-0692]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&a1=tctcc&b1=c&c1=cctct&d1=c&b2=c&d2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 [T-0775]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctc&c1=tctct&d1=ctc&a2=ctcl&b2=ctc&a3=ctc&b3=ctc&c3=ctc&b4=ctc&c4=rctc&tile=83A4,48--,48D-,-48-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
+
+[T-0902-l]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&c1=ctctc&b1=ctc&a1=ctctc&d2=clcrrclc&b2=crcllcrc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 [T-0902-f]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctctc&b1=ctctctctc&c1=ctctc&d1=ctctctctc&b2=crcllcrc&d2=clcrrclc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
