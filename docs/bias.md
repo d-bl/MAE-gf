@@ -24,8 +24,8 @@ The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagra
 
 ## Traditional Bias Ground
 ![traditional][P-0221-tr]      
-Ground mt-0228 is a variant in cloth stitch.
-* [traditional][T-0221-tr], [mt-0228][T-0228-OD]
+Ground mt-0228 is a variant in cloth stitch. Ground mt-0225 shows alternate stiches in the middle.
+* [traditional][T-0221-tr], [mt-0228][T-0228-OD], [mt-0225][T-0225-L]
 
 ##  Bias Ground crossed rose style
 ![crossed][P-0221-at]
@@ -74,9 +74,11 @@ Take just one unit of the Bias ground and place them all in the same direction (
 [pic-0228-OGy]: https://maetempels.github.io/MAE-gf/images_wt/gf%200228%20OGy.png
 [pic-uni-bsq]: https://maetempels.github.io/MAE-gf/images_wt/gf-sh-bias-in-sqr.png
 
-[T-wi-D6]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&d1=ct&a2=ct&b2=ctct&c2=ct&d2=ctct&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=8-48,8314,
-[T-wi-F4]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctcrrctc&c1=ctcllctc&d1=ctc&a2=ctc&b2=ctc&c2=ctc&d2=ctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=8-48,8314,
-[T-wi-E6]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ct&b1=ctct&c1=ct&d1=ctct&f1=ctct&g1=ct&h1=ctct&a2=ctct&c2=ctct&d2=ct&e2=ctct&f2=ct&g2=ctct&h2=ct&a3=ct&b3=ctct&c3=ct&d3=ctct&e3=ct&f3=ctct&h3=ctct&a4=ctct&b4=ct&c4=ctct&e4=ctct&f4=ct&g4=ctct&h4=ct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=1488-483,8-483148,831488-4,488-4831,
+[T-wi-D6]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&d1=ct&a2=ct&b2=ctct&c2=ct&d2=ctct&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=8-48,8314
+
+[T-wi-F4]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctcrrctc&c1=ctcllctc&d1=ctc&a2=ctc&b2=ctc&c2=ctc&d2=ctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=8-48,8314
+
+[T-wi-E6]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ct&b1=ctct&c1=ct&d1=ctct&f1=ctct&g1=ct&h1=ctct&a2=ctct&c2=ctct&d2=ct&e2=ctct&f2=ct&g2=ctct&h2=ct&a3=ct&b3=ctct&c3=ct&d3=ctct&e3=ct&f3=ctct&h3=ctct&a4=ctct&b4=ct&c4=ctct&e4=ctct&f4=ct&g4=ctct&h4=ct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=1488-483,8-483148,831488-4,488-4831
 
 [T-0221-tr]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&d1=ct&a2=ct&b2=ctct&d2=ctct&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=6-48,86-4
 
@@ -90,14 +92,16 @@ Take just one unit of the Bias ground and place them all in the same direction (
 
 [T-bs-sq]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&d1=ctc&e1=ctc&b2=ctct&d2=ctcl&e2=ctc&f2=ctc&a3=ctct&c3=ctct&e3=ctcl&f3=ctct&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5-486-,-5-486,6-5-48
 
-[T-bs-xq]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&b1=ctct&c1=ct&d1=ctct&e1=ct&f1=ctct&a2=ctct&b2=ct&c2=ctct&e2=ctct&f2=ct&a3=ct&b3=ctct&d3=ctct&f3=ctct&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=-21486,317-48,88-5-4,
+[T-bs-xq]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&b1=ctct&c1=ct&d1=ctct&e1=ct&f1=ctct&a2=ctct&b2=ct&c2=ctct&e2=ctct&f2=ct&a3=ct&b3=ctct&d3=ctct&f3=ctct&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=-21486,317-48,88-5-4
 
-[T-0228-OG]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=tct&b1=ctc&d1=ctc&a2=ctc&c2=ctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=86-5,4-5-,
+[T-0228-OG]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=tct&b1=ctc&d1=ctc&a2=ctc&c2=ctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=86-5,4-5-
 
-[T-0228-OGy]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=tct&b1=ctc&d1=ctc&a2=ctc&c2=ctc&b3=ctc&c3=tct&d3=ctc&a4=ctc&c4=ctc&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=0&shiftRowsSW=4&tile=15-2,7-5-,-586,5-4-,
+[T-0228-OGy]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=tct&b1=ctc&d1=ctc&a2=ctc&c2=ctc&b3=ctc&c3=tct&d3=ctc&a4=ctc&c4=ctc&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=0&shiftRowsSW=4&tile=15-2,7-5-,-586,5-4-
 
 [T-uni-sbq]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&b1=ctct&d1=ctct&f1=ctct&a2=ctc&c2=ctct&e2=ctct&a3=ctc&b3=ctcr&d3=ctct&f3=ctcl&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=-5-4-5,5-5-5-,86-5-5
 
-[T-0267-OGy]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctcr&d1=ctct&a2=ctct&c2=ctcl&b3=ctcl&c3=ctc&d3=ctct&a4=ctcr&c4=ctct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=0&shiftRowsSW=4&tile=15-2,7-5-,-586,5-4-,
+[T-0267-OGy]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctcr&d1=ctct&a2=ctct&c2=ctcl&b3=ctcl&c3=ctc&d3=ctct&a4=ctcr&c4=ctct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=0&shiftRowsSW=4&tile=15-2,7-5-,-586,5-4-
+
+[T-0225-L]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&d1=tctct&c1=ctc&a1=rrctc&d2=ctc&b2=rrctc&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 
