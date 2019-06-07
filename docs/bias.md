@@ -8,8 +8,11 @@
 * [Bias Ground with a diagonal in between](#bias-ground-with-a-diagonal-in-between)
 * [Bias Ground crossed and a diagonal in between](#bias-ground-crossed-and-a-diagonal-in-between)
 * [Unit bias in a diamond](#unit-bias-in-a-diamond)
-* [Bias Ground crossed and in a diamond](#bias-ground-crossed-and-in-a-diamond)
-* [Short bias](#short-bias)
+* [Bias Ground crossed and in a diamond](#bias-ground-crossed-and-in-a-diamond)          
+ 
+**Short bias**    
+* [Solo][#solo]      
+* [Crossed][#crossed]
 
 
 ## Introduction
@@ -52,11 +55,15 @@ Ground mt-0228 is a variant in cloth stitch. Ground mt-0225 shows alternate stic
 * [example][T-bs-xq]
 
 ## Short Bias
+### Solo
 Take just one unit of the Bias ground and place them all in the same direction (mt-0228-s), or in alternating directions (mt-0228-a). The latter may give nice results in two colours. The placing of the units in alternating directions is also shown in mrs Irvine's paper (VI). 
 
 ![same direction][pic-0228-OG] ![alternating][pic-0228-OGy] ![short bias foto][foto-0228-OGy] 
 * [mt-0228-s][T-0228-OG], [mt-0228-a][T-0228-OGy], [VI][T-0267-OGy]
 
+### Crossed
+Take one unit of the Bias ground, place them in alternating directions, and cross at the corners. Click on picture.    
+[![alternating and cross][pic-uni-yq2]][T-0248-yq2]
 ***
 
 [foto-0228-OGy]: https://maetempels.github.io/MAE-gf/photos/gf-0228-foto.jpg
@@ -73,6 +80,7 @@ Take just one unit of the Bias ground and place them all in the same direction (
 [pic-0228-OG]: https://maetempels.github.io/MAE-gf/images_wt/gf%200228-OG.png
 [pic-0228-OGy]: https://maetempels.github.io/MAE-gf/images_wt/gf%200228%20OGy.png
 [pic-uni-bsq]: https://maetempels.github.io/MAE-gf/images_wt/gf-sh-bias-in-sqr.png
+[pic-uni-yq2]: https://maetempels.github.io/MAE-gf/images_wt/02YQ2.png
 
 [T-wi-D6]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&d1=ct&a2=ct&b2=ctct&c2=ct&d2=ctct&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=8-48,8314
 
@@ -103,5 +111,7 @@ Take just one unit of the Bias ground and place them all in the same direction (
 [T-0267-OGy]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctcr&d1=ctct&a2=ctct&c2=ctcl&b3=ctcl&c3=ctc&d3=ctct&a4=ctcr&c4=ctct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=0&shiftRowsSW=4&tile=15-2,7-5-,-586,5-4-
 
 [T-0225-L]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&d1=tctct&c1=ctc&a1=rrctc&d2=ctc&b2=rrctc&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+
+[T-0248-yq2]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&b1=ctc&a1=tct&d2=c&c2=ctc&b2=c&a2=ctc&d3=ctc&c3=tct&b3=ctc&d4=c&c4=ctc&b4=c&a4=ctc&tile=88-4,4831,-117,3178,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 
