@@ -8,11 +8,10 @@
 * [Bias Ground with a diagonal in between](#bias-ground-with-a-diagonal-in-between)
 * [Bias Ground crossed and a diagonal in between](#bias-ground-crossed-and-a-diagonal-in-between)
 * [Unit bias in a diamond](#unit-bias-in-a-diamond)
-* [Bias Ground crossed and in a diamond](#bias-ground-crossed-and-in-a-diamond)          
- 
-**Short bias**    
-* [Solo][#solo]      
-* [Crossed][#crossed]
+* [Bias Ground crossed and in a diamond](#bias-ground-crossed-and-in-a-diamond)      
+* [Short bias](#short_bias)         
+** [Solo](#solo)     
+** [Crossed](#crossed)
 
 
 ## Introduction
@@ -63,7 +62,7 @@ Take just one unit of the Bias ground and place them all in the same direction (
 
 ### Crossed
 Take one unit of the Bias ground, place them in alternating directions, and cross at the corners. Click on picture.    
-[![alternating and cross][pic-uni-yq2]][T-0248-yq2]
+[![alternating and cross][pic-uni-yq2]][T-0248-yq2]           
 ***
 
 [foto-0228-OGy]: https://maetempels.github.io/MAE-gf/photos/gf-0228-foto.jpg
