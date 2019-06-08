@@ -11,11 +11,11 @@ Lesson learnt: Many types of stitch combinations keep the pairs together or let 
 You get the most exotic variants, even when working monochrome, with stitches that twist just one of the pairs,
 sadly these patterns are also more error prone. So do keep the generated thread diagram at hand. 
 
-See also [Whiting] A2, B2, B6, C6, C9, [Droste] ctct and [squared rose] grounds.
+See also [Whiting] A2, B2, B6, C6, C9, [Droste] ctct and [rose ground in a diamond][squared rose] grounds.
 
 [Whiting]: https://d-bl.github.io/GroundForge/help/Whiting-Index
 [Droste]: https://d-bl.github.io/GroundForge/help/Droste-effect#stitches
-[squared rose]: https://maetempels.github.io/MAE-gf/docs/misca#rose-ground-in-a-square
+[squared rose]: https://maetempels.github.io/MAE-gf/docs/misca#rose-ground-in-a-diamond
 
 For the actual lace the pins can be placed like a Flanders ground, or as a Torchon Rose ground, as shown in the following picture.
 
