@@ -9,7 +9,7 @@
 * [Stacked spiders](#stacked-spiders)
      
 ## Introduction
-On this page we show examples of matrices for grounds with all spiders.           
+On this page we show examples of grounds with all spiders.           
 Some of the spiders in these examples have only one twist in their legs.
 
 ## Torchon spiders
