@@ -7,12 +7,12 @@
 * [Disclaimer](#disclaimer)
 
 ## Introduction
-On this website you find pages with additional patterns for use in Groundforge, a webapplication made by [Jo Pol][gf-jo]. Given are the parameter-section and stitches, although not always traditional.
+On this website you will find pages with additional patterns for use in Groundforge, a webapplication made by [Jo Pol][gf-jo]. Given are the parameter-section and stitches, although not always traditional.
 
 ## How to use these pages
 All examples are links to the Groundforge main page. Just follow the link. For some examples you can click on the picture. Please feel free to play with the stitches. E.g. try what happens if you change the default <span class="stch">ctc</span> of the spiders or fish in <span class="stch">ct</span>.     
 
-Some examples lead to the Groundforge page with Droste-effect. After clicking <span class="elem">the wand button</span>, click <span class="elem">the wand button</span> in the <span class="elem">LEVEL 2</span> section of the form.
+Some examples use the "Droste-effect". Click <span class="elem">the wand button</span> in the <span class="elem">Reuse thread diagram as pair diagram</span> section of the form.
 
 The examples use pair-diagrams in the styled version (_matrix-scheme_) that Groundforge understands.
 Most of the patterns also have a scheme in the TesseLace index. Some, as the spiders and the larger fishes, don't.
