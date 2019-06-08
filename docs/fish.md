@@ -16,7 +16,8 @@ If the tail is made with pairs not from the same fish, the ground is called [_Lo
      src="https://maetempels.github.io/MAE-gf/images_wt/gf%20vis%20wt.png"
 %}     
 
-Broader fish can be made, e.g. with four cloth stitches. In some Milanese grounds, the heads and tails are made as a cloth stitch with pairs. Groundforge does not support this. Making the head and tail as a half spider is supported. 
+Broader fish can be made, e.g. with four cloth stitches.       
+In some Milanese grounds, the heads and tails are made as a cloth stitch with pairs. Groundforge does not support this. Making the head and tail as a half spider is supported. 
 
 ## Fish notation
 Lets call the horizontal rows the _bones_, the vertical lines the _spines_, and the in between rows the _waves_.
@@ -33,7 +34,7 @@ Fish B,S,W means: the number of Bones, the number of Spines and the number of Wa
 
 ## Building fish with Droste     
 _Double fish B2,S2,W3_ also can be made using Droste [second level][F2-223] which uses the thread diagram of the first level as pair diagram for the second level. Please replace <span class="elem">cross b102</span> in the level-2 thread diagram with a <span class="stch">half knot</span> or two to mimic a twisted pair.       
-The first level can be split in two levels, with the same result at the [third level][F3-223]. Defining a footside however will become problematic, as we have four workers going into the same direction before returning. In practice you can bend this rule and change direction every other row, provided that plain twists separate the fish. Note that in both cases it can take a while for the last levels to appear. 
+The first level can be split in two levels, with the same result at the [third level][F3-223]. Defining a footside however will become problematic, as we have four workers going into the same direction before returning. In practice you can bend this rule and change direction every other row, provided that plain twists separate the fish. Note that in both cases it can take a while for the last levels to appear.    
 Please note the resemblance of the level-3 fish with the [narrow eyed spider][ne-spiders-page].
 
 
