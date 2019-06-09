@@ -26,25 +26,20 @@
 * [traditional][T-trad] 
 
 ## Bigger pagoda's
-![pg-bigg][pg-bigg]
-* [bigger pagoda][T-bigg]
+[![pg-bigg][pg-bigg]][T-bigg]
  
 ## Pagoda's kissing
-![pg kissing][pg-kiss]
-* [kissing][T-kiss] 
+[![pg kissing][pg-kiss]][T-kiss] 
 
 ## Pagoda's facing
-![pg facing][pg-face]
-* [facing][T-face]
+[![pg facing][pg-face]][T-face]
 
 ## Stacked pagoda's
-![pg stacked][pg-stck]
-* [stacked][T-stck]
+[![pg stacked][pg-stck][T-stck]
          
 ## Pagoda in a diamond
 The units can be placed all facing in the same direction, or alternating.    
-![pg in diamond][pg-sqre]       
-* [diamond][T-sqre]
+[![pg in diamond][pg-sqre]][T-sqre]
 
 
 ***
