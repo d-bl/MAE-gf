@@ -32,8 +32,7 @@ For the Binche spiders see <a href="https://maetempels.github.io/MAE-gf/docs/spi
 * [mt-0342][T-ex-0342], [mt-0306][T-mt-0306]
 
 ## Snowflake in a diamond
-![snowflake squared][pic-sn-uni-sq]   
-* [mt-0306][T-ex-0306]
+[![snowflake squared][pic-sn-uni-sq]][T-ex-0306] (mt-0306)    
 
 ## Snowflake in a diamond, crossed
 {% capture sxsnow %}
