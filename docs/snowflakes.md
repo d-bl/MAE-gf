@@ -23,7 +23,6 @@ For the Binche spiders see <a href="https://maetempels.github.io/MAE-gf/docs/spi
   description=bisnow
   lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=ctcll&f1=ctcrr&g1=ctc&b2=ctc&e2=ctctctc&h2=ctc&a3=ctc&c3=ctcrr&d3=ctc&f3=ctc&g3=ctcll&shiftColsSE=4&shiftRowsSE=3&shiftColsSW=-4&shiftRowsSW=3&tile=5-25-56-,-5--5--5,5-C6-2B-"
 %}
-* [binche snowflakesss][T-ex-sn-bin]
 
 ## Little Snowflake
 [![little snowflake][pic-sn-oo]][T-ex-0300]
