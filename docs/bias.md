@@ -27,7 +27,7 @@ The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagra
 ## Traditional Bias Ground
 ![traditional][P-0221-tr]      
 Ground mt-0228 is a variant in cloth stitch. Ground mt-0225 shows alternate stiches in the middle.
-* [traditional][T-0221-tr], [mt-0228][T-0228-OD], [mt-0225][T-0225-L]
+* [mt-0228][T-0228-OD], [mt-0225][T-0225-L]
 
 ##  Bias Ground crossed rose style
 ![crossed][P-0221-at]
@@ -38,8 +38,7 @@ Ground mt-0228 is a variant in cloth stitch. Ground mt-0225 shows alternate stic
 * [WI E6][T-wi-E6]
 
 ## Bias Ground with a diagonal in between
-![row between][P-0221-vg] ![bias in square][P-bias-sq]
-* [example][T-0221-vg], [in a diamond][T-bs-sq]
+[![row between][P-0221-vg]][T-0221-vg] [![bias in square][P-bias-sq]][T-bs-sq]
 
 ## Bias Ground crossed and a diagonal in between   
 [![row and crossed][P-0221-av]][T-0221-av]
