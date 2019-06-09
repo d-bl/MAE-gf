@@ -42,16 +42,13 @@ Ground mt-0228 is a variant in cloth stitch. Ground mt-0225 shows alternate stic
 * [example][T-0221-vg], [in a diamond][T-bs-sq]
 
 ## Bias Ground crossed and a diagonal in between   
-![row and crossed][P-0221-av]
-* [example][T-0221-av]
+[![row and crossed][P-0221-av]][T-0221-av]
 
 ## Unit bias in a diamond
-![short bias in square][pic-uni-bsq]
-* [example][T-uni-sbq]
+[![short bias in square][pic-uni-bsq]][T-uni-sbq]
 
 ## Bias Ground crossed and in a diamond
-![bias crossed and square][P-bias-xq]
-* [example][T-bs-xq]
+[![bias crossed and square][P-bias-xq]][T-bs-xq]
 
 ## Short Bias
 ### Solo
@@ -61,7 +58,7 @@ Take just one unit of the Bias ground and place them all in the same direction (
 * [mt-0228-s][T-0228-OG], [mt-0228-a][T-0228-OGy], [VI][T-0267-OGy]
 
 ### Crossed
-Take one unit of the Bias ground, place them in alternating directions, and cross at the corners. Click on picture.    
+Take one unit of the Bias ground, place them in alternating directions, and cross at the corners.    
 [![alternating and cross][pic-uni-yq2]][T-0248-yq2]           
 
 ***
