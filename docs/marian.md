@@ -64,9 +64,7 @@ The following patterns I created one quarter turned, so you had to work "upwards
 ## Bias and Paris ground
 As the pattern above, this pattern also was created one quarter turned.
 
-![Bias and Paris][pic-2111]
-
-* [mt-2111][T-2111]
+[![Bias and Paris][pic-2111]][T-2111] (mt-2111)
 
 ## Stretched
 {% include picts-right.html
@@ -78,18 +76,14 @@ As the pattern above, this pattern also was created one quarter turned.
 * [left][T-0714], [middle][T-0759], [right][T-0775]
 
 ## Roses with vertical
-![roses with vertical][pic-g31]
-* [mt-3115][T-3115]
+[![roses with vertical][pic-g31]][T-3115] (mt-3115)
 
 ## Bias with vertical
-![bias with vertical][pic-g32]
-* [mt-3238][T-3238]
+[![bias with vertical][pic-g32]][T-3238] (mt-3228)
 
 ## Windmills
 Inspired by origami.            
-![windmill g42][pic-g42] ![windmill g43][pic-g43]
-
-* [mt-4201][T-4201], [mt-4301][T-4301]
+[![windmill g42][pic-g42]][T-4201] (mt-4201) [![windmill g43][pic-g43]][T-4301] (mt-4301)
 
 ## Pajarita
 Inspired by origami.
