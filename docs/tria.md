@@ -24,8 +24,6 @@
   lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctcttt&c1=ctc&d1=ctc&b2=ctc&a3=tttctc&c3=ctc&d3=ctc&tile=4-12,-5--,6-CD&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=3&shiftColsSE=2&shiftRowsSE=3"
 %}
 
-* [traditionaaaal][T-trad] 
-
 ## Bigger pagoda's
 [![pg-bigg][pg-bigg]][T-bigg]
  
