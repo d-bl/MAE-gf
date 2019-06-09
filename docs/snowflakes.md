@@ -47,7 +47,7 @@ The matrix for the right example uses &quot;extened arrows&quot;. The example on
 * [mt-0342][T-0342-sq], [mt-0356][T-mt-0356]
 
 ## Snowflakes diagonal
-[![diagonal snowflakes][pic-sn-dia]][[T-ex-sn-dia]
+[![diagonal snowflakes][pic-sn-dia]][T-ex-sn-dia]
 
 ***
 
