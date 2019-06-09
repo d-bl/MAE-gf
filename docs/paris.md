@@ -27,8 +27,7 @@ The photo shows the example on the bottom of this page, but slighty adapted to g
 [![paris in square][pic-par-sqr]][T-PAR-SQR1]
 
 ## Big Paris ground
-![big paris][pic-big-paris]
-* [traditional][T-BIG-RG1], [mt-3412][T-3412]
+[![big paris][pic-big-paris]][T-3412] (mt-3412)
 
 ## Way of making
 The following example (mt-0404) uses three different matrix-scheme's to obtain the same ground.
