@@ -51,11 +51,10 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 ## Spiders with a narrow eye
 Spiders with a narrow eye also can be achieved using <span class="elem">level 2</span> or <span class="elem">level 3</span> on a [fish][fish-page] in <span class="stch">half stitch</span>.   
 
-![spider with narrow eye][pic-sn3] ![spider with narrow eye, square][pic-snq3]
-* [4x3 legs][T-SN3]
+[![spider with narrow eye][pic-sn3]][T-SN3]
  
 ### in a diamond
-* [4x3 legs][T-SNQ3]
+[![spider with narrow eye, square][pic-snq3]][T-SNQ3]
 
 ## Binche spiders 
 See also page [_Snowflakes_][snow-page].            
@@ -72,8 +71,7 @@ There are many ways of making a binche spider. Below are given some examples.
 * [binche spider 1][T-SP-BB1], [binche spider 2][T-SP-BB2] (WI G04), [binche spider 3][T-SP-BB3]
 
 ### Traditional spider, on a Binche pricking  
-![binche small spider][pic-bi-spin]                     
-* [traditional spider binche style][T-SP-BS] (WI E2)
+[![binche small spider][pic-bi-spin]][T-SP-BS] (WI E2)
 
 ## Stacked spiders
 [Another][T-SA1] ground can be obtained playing with the <span class="elem">arrange the repeat</span> parameters.
