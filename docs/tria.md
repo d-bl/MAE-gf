@@ -35,7 +35,7 @@
 [![pg facing][pg-face]][T-face]
 
 ## Stacked pagoda's
-[![pg stacked][pg-stck][T-stck]
+[![pg stacked][pg-stck]][T-stck]
          
 ## Pagoda in a diamond
 The units can be placed all facing in the same direction, or alternating.    
