@@ -17,13 +17,14 @@
 %}
 
 ## Traditional pagoda's
-{% include picts-left.html
+{% include p-l-l.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png"
   alt="torchon pg"
   description="Please note: traditionally the pagoda-ground uses a weaver which returns round the pin with two twists at the pointy bit. The example looked better not turning."
+  lnk=https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctcttt&c1=ctc&d1=ctc&b2=ctc&a3=tttctc&c3=ctc&d3=ctc&tile=4-12,-5--,6-CD&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=3&shiftColsSE=2&shiftRowsSE=3
 %}
 
-* [traditional][T-trad] 
+* [traditionaaaal][T-trad] 
 
 ## Bigger pagoda's
 [![pg-bigg][pg-bigg]][T-bigg]
