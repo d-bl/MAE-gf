@@ -24,15 +24,14 @@ The photo shows the example on the bottom of this page, but slighty adapted to g
 * The last example as a unit, [connected with plaits][T-0424-KF].
 
 ## Paris ground in a diamond
-![paris in square][pic-par-sqr]
-* [example][T-PAR-SQR1]
+[![paris in square][pic-par-sqr]][T-PAR-SQR1]
 
 ## Big Paris ground
 ![big paris][pic-big-paris]
 * [traditional][T-BIG-RG1], [mt-3412][T-3412]
 
 ## Way of making
-The following example uses three different matrix-scheme's to obtain the same ground.
+The following example (mt-0404) uses three different matrix-scheme's to obtain the same ground.
 * [as paris ground][T-0404-p], [as rose ground][T-0404-r], [as torchon ground][T-0404-t]
 
 ***
