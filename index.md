@@ -12,7 +12,7 @@ On this website you will find pages with additional patterns for use in Groundfo
 Translation: Een Nederlandse vertaling download u <a href="https://maetempels.github.io/MAE-gf/documents/MAE-GF%20NL.pdf" download>hier</a>.
 
 ## How to use these pages
-All examples are links to the Groundforge main page. Just follow the link. For some examples you can click on the picture. Please feel free to play with the stitches. E.g. try what happens if you change the default <span class="stch">ctc</span> of the spiders or fish in <span class="stch">ct</span>.     
+All examples are links to the Groundforge main page. Just follow the link. If only a picture is shown: click on the picture. Please feel free to play with the stitches. E.g. try what happens if you change the default <span class="stch">ctc</span> of the spiders or fish in <span class="stch">ct</span>.     
 
 Some examples use the "Droste-effect". Click <span class="elem">the wand button</span> in the <span class="elem">Reuse thread diagram as pair diagram</span> section of the form.
 
