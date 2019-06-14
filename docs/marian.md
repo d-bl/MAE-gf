@@ -111,22 +111,24 @@ As the pattern above, this pattern also was created one quarter turned.
 %}
 
 ## Bias with vertical
-[![bias with vertical][pic-g32]][T-3238] (mt-3228)
-
-[pic-g32]: https://maetempels.github.io/MAE-gf/images_wt/gf-wt-g32.png
-[T-3238]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&b1=ctc&c1=ctc&d1=ctc&b2=ctc&c2=ctctc&d2=ctc&b3=ctcr&c3=ctc&d3=ctcl&a4=ttctctt&tile=-C3B,-488,-148,5---&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+{% include p-l-l.html
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf-wt-g32.png"
+  alt="bias with vertical"
+  description="(mt-3228)"
+  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&b1=ctc&c1=ctc&d1=ctc&b2=ctc&c2=ctctc&d2=ctc&b3=ctcr&c3=ctc&d3=ctcl&a4=ttctctt&tile=-C3B,-488,-148,5---&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4"
+%}
 
 ## Windmills
 Inspired by origami.    
 {% include p-l-x.html
   src="https://maetempels.github.io/MAE-gf/images_wt/G42.png"
   alt="windmill"
-  description="(mt-4201, mt-4301)"
   lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctc&d1=ctctt&f1=ctc&a2=ctc&b2=ctc&c2=ctcrr&e2=ctcll&f2=ctc&a3=ctc&b3=ctcrr&d3=ctc&f3=ctcll&tile=15-7-2,886-58,14-5-1&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3"
 %}
 {% include p-l-r.html
   src="https://maetempels.github.io/MAE-gf/images_wt/G43.png"
   alt="windmill"
+  description="(mt-4201, mt-4301)"
   lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&g1=ctct&e1=ctct&c1=ctc&a1=ctct&h2=ctct&f2=ctct&d2=ctc&c2=ctc&b2=ctc&g3=ctct&e3=ctcr&d3=ctc&c3=ctc&b3=ctc&a3=ctcl&h4=ctct&f4=ctct&d4=ctcr&c4=ctc&b4=ctc&tile=5-5-5-7-,-215-5-5,58886-5-,-114-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4"
 %}
 
