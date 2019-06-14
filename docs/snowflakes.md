@@ -40,7 +40,12 @@ For the Binche spiders see <a href="https://maetempels.github.io/MAE-gf/docs/spi
 [T-mt-0306]: https://d-bl.github.io/GroundForge/tiles?patchWidth=24&patchHeight=24&c1=c&e1=c&b2=c&d2=tctc&f2=c&h2=ctct&a3=cr&g3=cl&h4=tct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=--B-C---,-E-5-O-K,5-----5-,-------5
 
 ## Snowflake in a diamond
-
+{% include p-l-l.html
+  src="https://maetempels.github.io/MAE-gf/images_wt/sn-uni-sq.png"
+  alt="snowflake in diamond"
+  description="(mt-0306)"
+  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ct&d1=ctctt&b2=ctr&c2=ctctt&d2=ctct&e2=ctctt&f2=ctl&a3=ctctt&b3=ctctt&c3=ct&e3=ct&f3=ctctt&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5--5--,-C632B,566-22"
+%}  
 
 ## Snowflake in a diamond, crossed
 {% capture sxsnow %}
