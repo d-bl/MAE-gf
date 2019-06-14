@@ -6,9 +6,8 @@ contact: true
 # test file
 
 {% include p-l-l.html
-  src="https://maetempels.github.io/MAE-gf/images_wt/gf-sn-oo-wt.png"
-  alt="little snowflake"
-  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&a1=ct&c1=ct&b2=ct&a3=ct&c3=ct&b4=ctct&d4=ctct&shiftColsSE=2&shiftRowsSE=4&shiftColsSW=-2&shiftRowsSW=4&tile=5-5-,-5--,B-C-,-5-5"
-%}
-
-
+  src="https://maetempels.github.io/MAE-gf/images_wt/sn-uni-sq.png"
+  alt="snowflake squared"
+  description="(mt-0306)"
+  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ct&d1=ctctt&b2=ctr&c2=ctctt&d2=ctct&e2=ctctt&f2=ctl&a3=ctctt&b3=ctctt&c3=ct&e3=ct&f3=ctctt&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5--5--,-C632B,566-22"
+%}  
