@@ -67,7 +67,7 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 
 ## Spiders with a narrow eye
 {% capture spin9 %}
-Spiders with a narrow eye also can be achieved using <span class="elem">level 2</span> or <span class="elem">level 3</span> on a [fish][fish-page] in <span class="stch">half stitch</span>.
+Spiders with a narrow eye also can be achieved using <span class="elem">level 2</span> or <span class="elem">level 3</span> on a <a href="https://maetempels.github.io/MAE-gf/docs/fish#building-fish-with-droste"</a> in <span class="stch">half stitch</span>.
 {% endcapture %}
 {% include p-l-l.html
   src="https://maetempels.github.io/MAE-gf/images_wt/wt-sn3.png"
@@ -77,13 +77,16 @@ Spiders with a narrow eye also can be achieved using <span class="elem">level 2<
 %} 
 
 ### in a diamond
-[![spider with narrow eye, square][pic-snq3]][T-SNQ3]
-
-[pic-snq3]: https://maetempels.github.io/MAE-gf/images_wt/wt-snq3.png
-[T-SNQ3]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&c1=ctct&f1=ctc&h1=ctc&a2=ctc&b2=lctct&c2=ctc&d2=rctct&e2=ctc&f2=ctc&g2=ctc&h2=ctc&a3=lctct&b3=ctc&d3=ctc&e3=rctct&f3=ctc&h3=ctc&a4=ctc&b4=ctc&c4=ctc&d4=ctc&e4=ctc&f4=rctct&g4=ctc&h4=lctct&tile=--5--7-4,C632B831,66-224-7,31583256&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+{% include p-l-l.html
+  src="https://maetempels.github.io/MAE-gf/images_wt/wt-snq3.png"
+  alt="spider with narrow eye, diamond"
+  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&c1=ctct&f1=ctc&h1=ctc&a2=ctc&b2=lctct&c2=ctc&d2=rctct&e2=ctc&f2=ctc&g2=ctc&h2=ctc&a3=lctct&b3=ctc&d3=ctc&e3=rctct&f3=ctc&h3=ctc&a4=ctc&b4=ctc&c4=ctc&d4=ctc&e4=ctc&f4=rctct&g4=ctc&h4=lctct&tile=--5--7-4,C632B831,66-224-7,31583256&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4"
+%}
 
 ## Binche spiders 
-See also page [_Snowflakes_][snow-page].            
+See also page [_Snowflakes_][snow-page].      
+
+[snow-page]: https://maetempels.github.io/MAE-gf/docs/snowflakes
 
 ### "Bolletje"  
 {% capture bolletje %}
@@ -112,9 +115,8 @@ There are many ways of making a binche spider. Below are given some examples.
 [T-SA1]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&b1=ctc&a2=ctcll&c2=ctcrr&b3=ctctt&d3=ctc&a4=ctc&c4=ctc&d5=ctc&a6=ctcrr&c6=ctcll&b7=ctctt&d7=ctc&a8=ctc&c8=ctc&tile=-5--,B-C-,-5-5,5-5-,---5,C-B-,-5-5,5-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=8&shiftColsSE=2&shiftRowsSE=8
 
 ***
-[math-page]: https://maetempels.github.io/MAE-gf/docs/maths#spider-formulas
-[snow-page]: https://maetempels.github.io/MAE-gf/docs/snowflakes
-[fish-page]: https://maetempels.github.io/MAE-gf/docs/fish#building-fish-with-droste
+
+
 
 
 
