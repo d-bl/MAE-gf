@@ -30,7 +30,11 @@ The photo shows the example on the bottom of this page, but slighty adapted to g
 [T-0424-KF]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=20&a1=ctctctcr&c1=ctctctcl&d2=ctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ## Paris ground in a diamond
-
+{% include p-l-l.html
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf-rose-in-sqr.png"
+  alt="paris in diamond"
+  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctct&c1=ctct&e1=ctc&g1=ctc&b2=ctct&d2=ctc&f2=tctc&h2=ctc&a3=ctc&c3=ctc&e3=tctcr&g3=tctcl&b4=ctc&d4=tctct&h4=tctct&tile=C-B-5-5-,-5-5-5-5,5-5-5-5-,-5-5---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4"
+%}  
 
 ## Big Paris ground
 
