@@ -25,45 +25,37 @@
 %}
 
 ## Bigger pagoda's
-[![pg-bigg][pg-bigg]][T-bigg]
- 
+{% include p-l-l.html
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-bigg.png"
+  alt="big pagoda"
+  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctclll&b2=ctc&c2=ctc&d2=ctc&e2=ctcrrr&f2=ctc&a3=ctc&b3=ctclll&c3=ctc&d3=ctcrrr&e3=ctc&f3=ctc&a4=ctc&b4=ctc&c4=ctcttt&e4=ctc&f4=ctc&tile=5-----,,-CDDD6,246631,224-12&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=4"
+%}  
+
 ## Pagoda's kissing
 [![pg kissing][pg-kiss]][T-kiss] 
+
+[pg-kiss]: https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png
+[T-kiss]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctc&e1=ctc&b2=ctc&c2=ctc&d2=ttctc&f2=ttctc&g2=ctc&h2=ctc&b3=ctctt&c3=ctc&d3=ctc&f3=ctc&g3=ctc&h3=ctctt&tile=5---5---,-CD6-2AB,-468-127&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
 
 ## Pagoda's facing
 [![pg facing][pg-face]][T-face]
 
+[pg-face]: https://maetempels.github.io/MAE-gf/images_wt/gf-pg-face.png
+[T-face]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctcll&g1=ctcrr&b2=ctc&c2=ctc&d2=ttctc&e2=ctc&f2=ctc&h2=ctc&a3=ctc&b3=ctctt&c3=ctc&d3=ctc&f3=ctctt&h3=ctc&e4=ctcrr&g4=ctcll&a5=ctc&b5=ttctc&c5=ctc&d5=ctc&f5=ctc&h5=ctc&a6=ctc&b6=ctc&d6=ctctt&f6=ctc&g6=ctc&h6=ctctt&tile=5-----5-,-CD3AB-5,2468-7-1,----5-5-,D3AB-5-C,68-7-124&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6
+
 ## Stacked pagoda's
 [![pg stacked][pg-stck]][T-stck]
+
+[pg-stck]: https://maetempels.github.io/MAE-gf/images_wt/gf-pg-stck.png
+[T-stck]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctcttt&c1=ctc&e1=ctcttt&b2=ctclll&c2=ctc&d2=ctc&f2=ctc&a3=ctc&c3=ctc&d3=ctcrrr&f3=ctc&a4=ctcrrr&c4=ctcttt&e4=ctclll&f4=ctc&tile=5-4-5-,-215-5,5-78-1,8-4-58&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=4
          
 ## Pagoda in a diamond
 The units can be placed all facing in the same direction, or alternating.    
 [![pg in diamond][pg-sqre]][T-sqre]
 
-
-***
-
-[build pagoda]: https://maetempels.github.io/MAE-gf/images/gf%20build%20pagoda.png
-[pg-uni2]: https://maetempels.github.io/MAE-gf/images/gf-pg-uni2.png
-[pg-unit]: https://maetempels.github.io/MAE-gf/images_wt/gf-pg-unit.png
-[pg-trad]: https://maetempels.github.io/MAE-gf/images_wt/gf-pg-trad.png
-[pg-kiss]: https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png
-[pg-stck]: https://maetempels.github.io/MAE-gf/images_wt/gf-pg-stck.png
-[pg-bigg]: https://maetempels.github.io/MAE-gf/images_wt/gf-pg-bigg.png
-[pg-face]: https://maetempels.github.io/MAE-gf/images_wt/gf-pg-face.png
 [pg-sqre]: https://maetempels.github.io/MAE-gf/images_wt/gf-pg-sqre.png
-
-[fish-page]: https://maetempels.github.io/MAE-gf/docs/fish#fish-building
-
-[T-bigg]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctclll&b2=ctc&c2=ctc&d2=ctc&e2=ctcrrr&f2=ctc&a3=ctc&b3=ctclll&c3=ctc&d3=ctcrrr&e3=ctc&f3=ctc&a4=ctc&b4=ctc&c4=ctcttt&e4=ctc&f4=ctc&tile=5-----,,-CDDD6,246631,224-12&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=4
-
-[T-face]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctcll&g1=ctcrr&b2=ctc&c2=ctc&d2=ttctc&e2=ctc&f2=ctc&h2=ctc&a3=ctc&b3=ctctt&c3=ctc&d3=ctc&f3=ctctt&h3=ctc&e4=ctcrr&g4=ctcll&a5=ctc&b5=ttctc&c5=ctc&d5=ctc&f5=ctc&h5=ctc&a6=ctc&b6=ctc&d6=ctctt&f6=ctc&g6=ctc&h6=ctctt&tile=5-----5-,-CD3AB-5,2468-7-1,----5-5-,D3AB-5-C,68-7-124&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6
-
-[T-kiss]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctc&e1=ctc&b2=ctc&c2=ctc&d2=ttctc&f2=ttctc&g2=ctc&h2=ctc&b3=ctctt&c3=ctc&d3=ctc&f3=ctc&g3=ctc&h3=ctctt&tile=5---5---,-CD6-2AB,-468-127&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
-
 [T-sqre]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=lctcllctcll&b1=ctc&c1=ctc&e1=ctct&b2=ctc&c2=ctcrr&d2=ctctr&f2=ctctl&a3=ctct&b3=ctctt&c3=ctctr&e3=ctc&tile=215-5-,-786-5,246-5-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
-[T-stck]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctcttt&c1=ctc&e1=ctcttt&b2=ctclll&c2=ctc&d2=ctc&f2=ctc&a3=ctc&c3=ctc&d3=ctcrrr&f3=ctc&a4=ctcrrr&c4=ctcttt&e4=ctclll&f4=ctc&tile=5-4-5-,-215-5,5-78-1,8-4-58&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=4
 
-[T-trad]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctcttt&c1=ctc&d1=ctc&b2=ctc&a3=tttctc&c3=ctc&d3=ctc&tile=4-12,-5--,6-CD&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=3&shiftColsSE=2&shiftRowsSE=3
+***
 
