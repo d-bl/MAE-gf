@@ -54,8 +54,6 @@ Ground mt-0228 is a variant in cloth stitch. Ground mt-0225 shows alternate stic
   lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&d1=ctc&e1=ctc&b2=ctct&d2=ctcl&e2=ctc&f2=ctc&a3=ctct&c3=ctct&e3=ctcl&f3=ctct&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5-486-,-5-486,6-5-48"
 %}  
    
-[![row between][P-0221-vg]][T-0221-vg] [![bias in square][P-bias-sq]][T-bs-sq]
-
 ## Bias Ground crossed and a diagonal in between   
 [![row and crossed][P-0221-av]][T-0221-av]
 
