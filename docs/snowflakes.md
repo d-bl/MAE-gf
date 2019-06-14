@@ -43,8 +43,8 @@ For the Binche spiders see <a href="https://maetempels.github.io/MAE-gf/docs/spi
 {% include p-l-l.html
   src="https://maetempels.github.io/MAE-gf/images_wt/sn-uni-sq.png"
   alt="snowflake squared"
-  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ct&d1=ctctt&b2=ctr&c2=ctctt&d2=ctct&e2=ctctt&f2=ctl&a3=ctctt&b3=ctctt&c3=ct&e3=ct&f3=ctctt&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5--5--,-C632B,566-22"
   description="(mt-0306)"
+  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ct&d1=ctctt&b2=ctr&c2=ctctt&d2=ctct&e2=ctctt&f2=ctl&a3=ctctt&b3=ctctt&c3=ct&e3=ct&f3=ctctt&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5--5--,-C632B,566-22"
 %}  
 
 ## Snowflake in a diamond, crossed
@@ -52,8 +52,8 @@ For the Binche spiders see <a href="https://maetempels.github.io/MAE-gf/docs/spi
 The matrix for the right example uses &quot;extened arrows&quot;. The example on the left does not have this feature, but it is harder to see where the stitches are in the tread diagram.<br>The thread diagram for ground mt-0356 can also be obtained as a rose ground in a diamond, see mt-0116 on page <a href="https://maetempels.github.io/MAE-gf/docs/misca#rose-ground-in-a-diamond"><em>Miscellaneous</em></a>.
 {% endcapture %}
 {% include picts-left.html
-  alt="snowflake diamond crossed"
   src="https://maetempels.github.io/MAE-gf/images_wt/sn-uni-sc.png"
+  alt="snowflake diamond crossed"
   description=sxsnow
 %}
 * [mt-0342][T-0342-sq], [mt-0356][T-mt-0356]
