@@ -35,8 +35,8 @@ Ground mt-0228 is a variant in cloth stitch. Ground mt-0225 shows alternate stic
 
 ## Bias Ground crossed differently
 <img class="clpic">
-[![alt crossed][P-0221-aa]][T-wi-E6] (WI E6 ty)
-</span>
+[![alt crossed][P-0221-aa]][T-wi-E6] (WI E6 tw)
+</img>
 
 ## Bias Ground with a diagonal in between
 [![row between][P-0221-vg]][T-0221-vg] [![bias in square][P-bias-sq]][T-bs-sq]
