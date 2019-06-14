@@ -25,11 +25,7 @@ For the Binche spiders see <a href="https://maetempels.github.io/MAE-gf/docs/spi
 %}
 
 ## Little Snowflake
-{% include p-l-l.html
-  src="https://maetempels.github.io/MAE-gf/images_wt/gf-sn-oo-wt.png"
-  alt="little snowflake"
-  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&a1=ct&c1=ct&b2=ct&a3=ct&c3=ct&b4=ctct&d4=ctct&shiftColsSE=2&shiftRowsSE=4&shiftColsSW=-2&shiftRowsSW=4&tile=5-5-,-5--,B-C-,-5-5"
-%}
+
 
 ## Little Snowflake, crossed
 ![little snowflake crossed][pic-sn-cr]
@@ -40,12 +36,7 @@ For the Binche spiders see <a href="https://maetempels.github.io/MAE-gf/docs/spi
 [T-mt-0306]: https://d-bl.github.io/GroundForge/tiles?patchWidth=24&patchHeight=24&c1=c&e1=c&b2=c&d2=tctc&f2=c&h2=ctct&a3=cr&g3=cl&h4=tct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=--B-C---,-E-5-O-K,5-----5-,-------5
 
 ## Snowflake in a diamond
-{% include p-l-l.html
-  src="https://maetempels.github.io/MAE-gf/images_wt/sn-uni-sq.png"
-  alt="snowflake squared"
-  description="(mt-0306)"
-  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ct&d1=ctctt&b2=ctr&c2=ctctt&d2=ctct&e2=ctctt&f2=ctl&a3=ctctt&b3=ctctt&c3=ct&e3=ct&f3=ctctt&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5--5--,-C632B,566-22"
-%}  
+
 
 ## Snowflake in a diamond, crossed
 {% capture sxsnow %}
@@ -62,11 +53,7 @@ The matrix for the right example uses &quot;extened arrows&quot;. The example on
 [T-mt-0356]: https://d-bl.github.io/GroundForge/tiles?patchWidth=17&patchHeight=16&j1=ctcl&f1=ctcr&d1=c&c1=ctct&b1=c&d2=cr&b2=cl&h3=ctct&c3=ctc&d4=c&b4=c&j5=ctcr&f5=ctcl&d5=c&c5=tctc&b5=c&tile=-O3E-5---5,-4-7--W-Y-,--5----5--,-B-C--Y-W-,-158-L---H&footsideStitch=tctct&tileStitch=ctc&headsideStitch=tctct&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5
 
 ## Snowflakes diagonal
-{% include p-l-l.html
-  src="https://maetempels.github.io/MAE-gf/images_wt/gf-sn-dia-wt.png"
-  alt="diagonal snowflakes"
-  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&c1=ctc&b1=ctc&a1=tctct&c2=ctc&b2=ctc&a2=ctc&tile=1011,114-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2"
-%}  
+
 
 ***
 
