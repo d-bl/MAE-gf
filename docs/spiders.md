@@ -108,6 +108,7 @@ There are many ways of making a binche spider. Below are given some examples.
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-bi-spin.png"
   alt="binche small spider"
   lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctcctc&e1=ctctttctc&b2=ctc&c2=ctcrrr&d2=ctc&e2=ctc&f2=ctc&g2=ctclll&h2=ctc&a3=ctc&b3=ctcrrr&c3=ctc&d3=ctc&f3=ctc&g3=ctc&h3=ctclll&tile=5---5---,-CD632AB,5666-222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3"
+%} 
 
 ## Stacked spiders
 [Another][T-SA1] ground can be obtained playing with the <span class="elem">arrange the repeat</span> parameters.
