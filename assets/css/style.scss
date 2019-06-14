@@ -18,6 +18,9 @@
 /* pictures */
 figure { display: block; margin:0; }
 
+/* clickable picture with border */
+.clpic {border-style: solid; border-width: 1px; border-color: blue }
+
 /* floating pictures */
 .break { clear: both; }
 
