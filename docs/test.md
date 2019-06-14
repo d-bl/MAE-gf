@@ -6,11 +6,9 @@ contact: true
 # test file
 
 {% include p-l-l.html
-  src="https://maetempels.github.io/MAE-gf/images_wt/big-rose.png"
-  alt=""big paris"
-  description="(mt-3412)"
-  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=24&b1=ct&f1=ct&c2=c&e2=c&b3=ct&d3=ctc&f3=ct&tile=-5---5,--C-B-,-B-5-C&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3"
- %}
-
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf-sn-oo-wt.png"
+  alt="little snowflake"
+  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&a1=ct&c1=ct&b2=ct&a3=ct&c3=ct&b4=ctct&d4=ctct&shiftColsSE=2&shiftRowsSE=4&shiftColsSW=-2&shiftRowsSW=4&tile=5-5-,-5--,B-C-,-5-5"
+%}
 
 
