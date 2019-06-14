@@ -42,7 +42,7 @@ Ground mt-0228 is a variant in cloth stitch. Ground mt-0225 shows alternate stic
 %}  
 
 ## Bias Ground with a diagonal in between
-{% include p-l-l.html
+{% include p-l-x.html
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-vg.png"
   alt="row between"
   description=""
