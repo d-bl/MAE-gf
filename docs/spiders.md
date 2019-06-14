@@ -67,7 +67,7 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 
 ## Spiders with a narrow eye
 {% capture spin9 %}
-Spiders with a narrow eye also can be achieved using <span class="elem">level 2</span> or <span class="elem">level 3</span> on a <a href="https://maetempels.github.io/MAE-gf/docs/fish#building-fish-with-droste"</a> in <span class="stch">half stitch</span>.
+Spiders with a narrow eye also can be achieved using <span class="elem">level 2</span> or <span class="elem">level 3</span> on a <a href="https://maetempels.github.io/MAE-gf/docs/fish#building-fish-with-droste">fish</a> in <span class="stch">half stitch</span>.
 {% endcapture %}
 {% include p-l-l.html
   src="https://maetempels.github.io/MAE-gf/images_wt/wt-sn3.png"
@@ -104,10 +104,10 @@ There are many ways of making a binche spider. Below are given some examples.
 [T-SP-BB3]: https://d-bl.github.io/GroundForge/tiles?patchWidth=21&patchHeight=14&i1=ctctt&h1=ctc&f1=ctc&e1=ctc&d1=ctc&b1=ctc&a1=ctctt&g2=ctc&i3=ctctt&h3=ctcrr&f3=ctc&e3=ctc&d3=ctc&b3=ctcll&a3=ctctt&n4=ctctt&l4=ctctt&j4=ctctt&h4=ctctt&f4=ctt&d4=ctcll&c4=ctcll&b4=ctctt&g5=ctctt&c5=ctctt&n6=ctctt&j6=ctctt&m7=c&k7=ctc&j7=ctc&i7=ctctt&g7=ctctt&e7=ctctt&c7=ctctt&a7=ctctt&tile=56-o98-j5-----,------5-------,ag-aae-cd-----,-256-m-l-o-k-e,--5---5---y-w-,---w-y---b---c,h-g-5-n-l3h-e-,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-7&shiftRowsSW=7&shiftColsSE=7&shiftRowsSE=7
 
 ### Traditional spider, on a Binche pricking  
-[![binche small spider][pic-bi-spin]][T-SP-BS] (WI E2)
-
-[pic-bi-spin]: https://maetempels.github.io/MAE-gf/images_wt/gf-bi-spin.png
-[T-SP-BS]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctcctc&e1=ctctttctc&b2=ctc&c2=ctcrrr&d2=ctc&e2=ctc&f2=ctc&g2=ctclll&h2=ctc&a3=ctc&b3=ctcrrr&c3=ctc&d3=ctc&f3=ctc&g3=ctc&h3=ctclll&tile=5---5---,-CD632AB,5666-222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
+{% include p-l-l.html
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf-bi-spin.png"
+  alt="binche small spider"
+  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctcctc&e1=ctctttctc&b2=ctc&c2=ctcrrr&d2=ctc&e2=ctc&f2=ctc&g2=ctclll&h2=ctc&a3=ctc&b3=ctcrrr&c3=ctc&d3=ctc&f3=ctc&g3=ctc&h3=ctclll&tile=5---5---,-CD632AB,5666-222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3"
 
 ## Stacked spiders
 [Another][T-SA1] ground can be obtained playing with the <span class="elem">arrange the repeat</span> parameters.
