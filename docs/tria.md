@@ -32,10 +32,11 @@
 %}  
 
 ## Pagoda's kissing
-[![pg kissing][pg-kiss]][T-kiss] 
-
-[pg-kiss]: https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png
-[T-kiss]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctc&e1=ctc&b2=ctc&c2=ctc&d2=ttctc&f2=ttctc&g2=ctc&h2=ctc&b3=ctctt&c3=ctc&d3=ctc&f3=ctc&g3=ctc&h3=ctctt&tile=5---5---,-CD6-2AB,-468-127&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
+{% include p-l-l.html
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-kiss.png"
+  alt="kissing"
+  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctc&e1=ctc&b2=ctc&c2=ctc&d2=ttctc&f2=ttctc&g2=ctc&h2=ctc&b3=ctctt&c3=ctc&d3=ctc&f3=ctc&g3=ctc&h3=ctctt&tile=5---5---,-CD6-2AB,-468-127&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3"
+%}
 
 ## Pagoda's facing
 [![pg facing][pg-face]][T-face]
