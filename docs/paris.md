@@ -23,43 +23,36 @@ The photo shows the example on the bottom of this page, but slighty adapted to g
 * [mt-0402][T-0402-LG], [mt-0403][T-0403-KG], [mt-0424][T-0424-KG]      
 * The last example as a unit, [connected with plaits][T-0424-KF].
 
+[pic-par-grnd]: https://maetempels.github.io/MAE-gf/images_wt/G-04.png
+[T-0402-LG]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&a1=ctc&c1=ctc&d2=ctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0403-KG]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=20&a1=c&c1=c&d2=tctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0424-KG]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=20&a1=cr&c1=cl&d2=ctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+
 ## Paris ground in a diamond
-[![paris in square][pic-par-sqr]][T-PAR-SQR1]
+{% include p-l-l.html
+  srs="https://maetempels.github.io/MAE-gf/images_wt/gf-rose-in-sqr.png"
+  alt="paris in diamond"
+  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctct&c1=ctct&e1=ctc&g1=ctc&b2=ctct&d2=ctc&f2=tctc&h2=ctc&a3=ctc&c3=ctc&e3=tctcr&g3=tctcl&b4=ctc&d4=tctct&h4=tctct&tile=C-B-5-5-,-5-5-5-5,5-5-5-5-,-5-5---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+%}  
 
 ## Big Paris ground
-[![big paris][pic-big-paris]][T-3412] (mt-3412)
+{% inlude p-l-l.html
+  srs="https://maetempels.github.io/MAE-gf/images_wt/big-rose.png"
+  alt=""big paris"
+  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=24&b1=ct&f1=ct&c2=c&e2=c&b3=ct&d3=ctc&f3=ct&tile=-5---5,--C-B-,-B-5-C&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3"
+  description="(mt-3412)
+  %}
 
 ## Way of making
 The following example (mt-0404) uses three different matrix-scheme's to obtain the same ground.
 * [as paris ground][T-0404-p], [as rose ground][T-0404-r], [as torchon ground][T-0404-t]
 
-***
-[pic-par-grnd]: https://maetempels.github.io/MAE-gf/images_wt/G-04.png
-[pic-big-paris]:  https://maetempels.github.io/MAE-gf/images_wt/big-rose.png
-[pic-par-sqr]: https://maetempels.github.io/MAE-gf/images_wt/gf-rose-in-sqr.png
-
-[ph-0434]: https://maetempels.github.io/MAE-gf/photos/0434.png
-
-[T-0112]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctt&c1=ctctt&e1=ctctt&f1=ctt&b2=ctctt&c2=c&d2=ctct&e2=c&f2=ctctt&a3=ctctt&c3=ctcr&e3=ctcl&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
-
-[T-3412]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=24&b1=ct&f1=ct&c2=c&e2=c&b3=ct&d3=ctc&f3=ct&tile=-5---5,--C-B-,-B-5-C&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
-
-[T-BIG-RG1]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&b1=ctct&f1=ctct&c2=ctct&e2=ctct&b3=ct&d3=ctct&f3=ct&tile=-5---5,--C-B-,-B-5-C&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
-
-[T-PAR-SQR1]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctct&c1=ctct&e1=ctc&g1=ctc&b2=ctct&d2=ctc&f2=tctc&h2=ctc&a3=ctc&c3=ctc&e3=tctcr&g3=tctcl&b4=ctc&d4=tctct&h4=tctct&tile=C-B-5-5-,-5-5-5-5,5-5-5-5-,-5-5---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
-
 [T-0404-r]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=c&c1=ctct&d1=c&b2=l&d2=r&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-
 [T-0404-p]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&a1=cr&c1=cl&d2=ctctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-
 [T-0404-t]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&b1=ctc&d1=ctct&a2=cr&c2=cl&tile=-5-5,5-5-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[T-0402-LG]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&a1=ctc&c1=ctc&d2=ctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+***
 
-[T-0403-KG]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=20&a1=c&c1=c&d2=tctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[T-0424-KG]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=20&a1=cr&c1=cl&d2=ctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-
-[T-0424-KF]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=20&a1=ctctctcr&c1=ctctctcl&d2=ctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 
