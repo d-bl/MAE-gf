@@ -46,11 +46,12 @@
 %}
 
 ## Stacked pagoda's
-[![pg stacked][pg-stck]][T-stck]
-
-[pg-stck]: https://maetempels.github.io/MAE-gf/images_wt/gf-pg-stck.png
-[T-stck]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctcttt&c1=ctc&e1=ctcttt&b2=ctclll&c2=ctc&d2=ctc&f2=ctc&a3=ctc&c3=ctc&d3=ctcrrr&f3=ctc&a4=ctcrrr&c4=ctcttt&e4=ctclll&f4=ctc&tile=5-4-5-,-215-5,5-78-1,8-4-58&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=4
-         
+{% include p-l-l.html
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-stck.png"
+  alt="stacked"
+  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctcttt&c1=ctc&e1=ctcttt&b2=ctclll&c2=ctc&d2=ctc&f2=ctc&a3=ctc&c3=ctc&d3=ctcrrr&f3=ctc&a4=ctcrrr&c4=ctcttt&e4=ctclll&f4=ctc&tile=5-4-5-,-215-5,5-78-1,8-4-58&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=4"
+%}
+      
 ## Pagoda in a diamond
 The units can be placed all facing in the same direction, or alternating.    
 [![pg in diamond][pg-sqre]][T-sqre]
