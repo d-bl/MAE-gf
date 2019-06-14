@@ -39,10 +39,11 @@
 %}
 
 ## Pagoda's facing
-[![pg facing][pg-face]][T-face]
-
-[pg-face]: https://maetempels.github.io/MAE-gf/images_wt/gf-pg-face.png
-[T-face]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctcll&g1=ctcrr&b2=ctc&c2=ctc&d2=ttctc&e2=ctc&f2=ctc&h2=ctc&a3=ctc&b3=ctctt&c3=ctc&d3=ctc&f3=ctctt&h3=ctc&e4=ctcrr&g4=ctcll&a5=ctc&b5=ttctc&c5=ctc&d5=ctc&f5=ctc&h5=ctc&a6=ctc&b6=ctc&d6=ctctt&f6=ctc&g6=ctc&h6=ctctt&tile=5-----5-,-CD3AB-5,2468-7-1,----5-5-,D3AB-5-C,68-7-124&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6
+{% include p-l-l.html
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf-pg-face.png"
+  alt="facing"
+  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctcll&g1=ctcrr&b2=ctc&c2=ctc&d2=ttctc&e2=ctc&f2=ctc&h2=ctc&a3=ctc&b3=ctctt&c3=ctc&d3=ctc&f3=ctctt&h3=ctc&e4=ctcrr&g4=ctcll&a5=ctc&b5=ttctc&c5=ctc&d5=ctc&f5=ctc&h5=ctc&a6=ctc&b6=ctc&d6=ctctt&f6=ctc&g6=ctc&h6=ctctt&tile=5-----5-,-CD3AB-5,2468-7-1,----5-5-,D3AB-5-C,68-7-124&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6"
+%}
 
 ## Stacked pagoda's
 [![pg stacked][pg-stck]][T-stck]
