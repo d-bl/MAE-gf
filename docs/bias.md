@@ -34,9 +34,26 @@ Ground mt-0228 is a variant in cloth stitch. Ground mt-0225 shows alternate stic
 * [WI D6][T-wi-D6], [WI F4][T-wi-F4], [mt-0278][T-0278-KG]
 
 ## Bias Ground crossed differently
-[![alt crossed][P-0221-aa]][T-wi-E6] (WI E6 tw)
+{% include p-l-l.html
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-aa.png"
+  alt="bias aa"
+  description="(WI E6)"
+  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ct&b1=ctct&c1=ct&d1=ctct&f1=ctct&g1=ct&h1=ctct&a2=ctct&c2=ctct&d2=ct&e2=ctct&f2=ct&g2=ctct&h2=ct&a3=ct&b3=ctct&c3=ct&d3=ctct&e3=ct&f3=ctct&h3=ctct&a4=ctct&b4=ct&c4=ctct&e4=ctct&f4=ct&g4=ctct&h4=ct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=1488-483,8-483148,831488-4,488-4831"
+%}  
 
 ## Bias Ground with a diagonal in between
+{% include p-l-l.html
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-vg.png"
+  alt="row between"
+  description=""
+  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&d1=ct&e1=ctct&b2=ctct&d2=ctct&e2=ct&f2=ctct&a3=ctct&c3=ctct&e3=ctct&f3=ct&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5-486-,-5-486,6-5-48"
+%} 
+{% include p-l-c.html
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-in-sqr.png"
+  alt="bias in square"
+  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&d1=ctc&e1=ctc&b2=ctct&d2=ctcl&e2=ctc&f2=ctc&a3=ctct&c3=ctct&e3=ctcl&f3=ctct&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5-486-,-5-486,6-5-48"
+%}  
+   
 [![row between][P-0221-vg]][T-0221-vg] [![bias in square][P-bias-sq]][T-bs-sq]
 
 ## Bias Ground crossed and a diagonal in between   
