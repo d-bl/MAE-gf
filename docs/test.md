@@ -15,7 +15,7 @@ contact: true
 %}  
 
 
-<span class="clpic"
+<span class="clpic">
 [![t1][t2]][t3]
 </span> 
 met tekst
