@@ -15,10 +15,8 @@ contact: true
 %}  
 
 
-<p><span class="clpic">
 [![t1][t2]][t3]
-  </span>met tekste</p>
-
+met tekste
 
 
 [t2]: https://maetempels.github.io/MAE-gf/images_wt/G43.png
