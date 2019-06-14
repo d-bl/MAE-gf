@@ -18,8 +18,8 @@ Please see the discussion on the [_Tips, Tricks &amp; Notes_][page-tips] page ab
 For the Binche spiders see <a href="https://maetempels.github.io/MAE-gf/docs/spiders#binche-spiders"><em>Spiders</em></a> page.
 {% endcapture %}
 {% include p-l-l.html
-  alt="big snowflake"
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-bi-snow-wt.png"
+  alt="big snowflake"
   description=bisnow
   lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=ctcll&f1=ctcrr&g1=ctc&b2=ctc&e2=ctctctc&h2=ctc&a3=ctc&c3=ctcrr&d3=ctc&f3=ctc&g3=ctcll&shiftColsSE=4&shiftRowsSE=3&shiftColsSW=-4&shiftRowsSW=3&tile=5-25-56-,-5--5--5,5-C6-2B-"
 %}
