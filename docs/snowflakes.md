@@ -62,7 +62,11 @@ The matrix for the right example uses &quot;extened arrows&quot;. The example on
 [T-mt-0356]: https://d-bl.github.io/GroundForge/tiles?patchWidth=17&patchHeight=16&j1=ctcl&f1=ctcr&d1=c&c1=ctct&b1=c&d2=cr&b2=cl&h3=ctct&c3=ctc&d4=c&b4=c&j5=ctcr&f5=ctcl&d5=c&c5=tctc&b5=c&tile=-O3E-5---5,-4-7--W-Y-,--5----5--,-B-C--Y-W-,-158-L---H&footsideStitch=tctct&tileStitch=ctc&headsideStitch=tctct&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5
 
 ## Snowflakes diagonal
-
+{% include p-l-l.html
+  src="https://maetempels.github.io/MAE-gf/images_wt/gf-sn-dia-wt.png"
+  alt="diagonal snowflakes"
+  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&c1=ctc&b1=ctc&a1=tctct&c2=ctc&b2=ctc&a2=ctc&tile=1011,114-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2"
+%} 
 
 ***
 
