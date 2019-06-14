@@ -27,6 +27,7 @@ The photo shows the example on the bottom of this page, but slighty adapted to g
 [T-0402-LG]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&a1=ctc&c1=ctc&d2=ctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0403-KG]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=20&a1=c&c1=c&d2=tctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0424-KG]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=20&a1=cr&c1=cl&d2=ctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0424-KF]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=20&a1=ctctctcr&c1=ctctctcl&d2=ctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ## Paris ground in a diamond
 {% include p-l-l.html
