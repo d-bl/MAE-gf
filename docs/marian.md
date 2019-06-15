@@ -48,7 +48,6 @@ This stitch I created because I wished to see a little loop at the sides of the 
   alt="Sunny stitch"
   description=maet1
 %}
-   
 * [mt-0902-l][T-0902-l], [mt-0902-f][T-0902-f], [mt-0902-q][T-0902-q]
 
 [T-0902-l]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&c1=ctctc&b1=ctc&a1=ctctc&d2=clcrrclc&b2=crcllcrc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
