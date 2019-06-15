@@ -4,7 +4,7 @@ contact: true
 ---
 
 # test file
-en nu? deze? eerst clas
+en nu? deze? eerst class, en dinges
 
 
 {% include p-l-l.html
