@@ -25,8 +25,8 @@ Fish B,S,W means: the number of Bones, the number of Spines and the number of Wa
 
 ## Fish examples
 * WI E14   
-* [Fish B1,S2,W-][T-12-]   
-* [Fish B2,S2,W-][T-22-]; [Fish B2,S2,W0][T-220] (WI G14 ; [Fish B2,S2,W2][T-222] (WI G16)     
+* [Fish B1,S2,W-][T-12-]; [Fish B2,S1,W-][T-21-]   
+* [Fish B2,S2,W-][T-22-]; [Fish B2,S2,W0][T-220] (WI G14) ; [Fish B2,S2,W2][T-222] (WI G16)     
 * [Fish B3,S2,W2][T-322]               
 * [Fish B4,S2,W-][T-42-] (WI D16); [Fish B4,S2,W1][T-421] (WI E16); [Fish B4,S2,W2][T-422] (WI F16)      
 * [Fish B5,S2,W-][T-52-]; [Fish B5,S2,W0][T-520]   
@@ -49,7 +49,9 @@ Please note the resemblance of the level-3 fish with the [narrow eyed spider][ne
 
 [F3-223]: https://d-bl.github.io/GroundForge/tiles.html?patchWidth=6&patchHeight=6&a1=ctc&a2=cr&a3=c&a4=lc&droste2=ctc,a10=a11=ctcrr,a20=a21=a40=ctct,a30=ct,,,,&droste3=ctc,a300=tct,a104=a114=ttctctt,a204=a205=a404=a405=tt,&tile=8,1,8,1,&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=1&shiftRowsSE=4
 
-[T-12-]: https://d-bl.github.io/GroundForge/tiles?patchWidth=8&patchHeight=8&a1=ctc&a2=ctcr&tile=8,1&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
+[T-12-]: https://d-bl.github.io/GroundForge/tiles?patchWidth=9&patchHeight=11&m1=ttctctt&d1=ctc&e2=ctc&c2=ctc&d3=ctc&a3=ttctctt&e4=ctc&c4=ctc&footside=x-,xz,4-,xw&tile=-5-,0z2,-5-,6v9&headside=-7,YX,-X,VX&footsideStitch=ctc&tileStitch=ctc&headsideStitch=ctc&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=4
+
+[T-21-]: https://d-bl.github.io/GroundForge/tiles?patchWidth=8&patchHeight=8&a1=ctc&a2=ctcr&tile=8,1&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
 
 [T-22-]: https://d-bl.github.io/GroundForge/tiles?patchWidth=8&patchHeight=8&a1=ctc&a2=ctclll&b2=ctc&a3=ctc&b3=ctcrrr&tile=4-,12,88&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=2&shiftRowsSE=3
 
