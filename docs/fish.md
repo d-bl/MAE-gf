@@ -51,7 +51,7 @@ Please note the resemblance of the level-3 fish with the [narrow eyed spider][ne
 
 [F3-223]: https://d-bl.github.io/GroundForge/tiles.html?patchWidth=6&patchHeight=6&a1=ctc&a2=cr&a3=c&a4=lc&droste2=ctc,a10=a11=ctcrr,a20=a21=a40=ctct,a30=ct,,,,&droste3=ctc,a300=tct,a104=a114=ttctctt,a204=a205=a404=a405=tt,&tile=8,1,8,1,&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=1&shiftRowsSE=4
 
-[T-12-]: https://d-bl.github.io/GroundForge/tiles?patchWidth=9&patchHeight=11&m1=ttctctt&d1=ctc&e2=ctc&c2=ctc&d3=ctc&a3=ttctctt&e4=ctc&c4=ctc&footside=x-,xz,4-,xw&tile=-5-,0z2,-5-,6v9&headside=-7,YX,-X,VX&footsideStitch=ctc&tileStitch=ctc&headsideStitch=ctc&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=4
+[T-12-]: https://d-bl.github.io/GroundForge/tiles?patchWidth=9&patchHeight=11&m1=rrctctt&d1=ctc&e2=ctc&c2=ctcll&d3=ctc&a3=llctctt&e4=ctcrr&c4=ctc&footside=x-,xz,4-,xw&tile=-5-,0z2,-5-,6v9&headside=-7,YX,-X,VX&footsideStitch=ctc&tileStitch=ctc&headsideStitch=ctc&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=4
 
 [T-21-]: https://d-bl.github.io/GroundForge/tiles?patchWidth=8&patchHeight=8&a1=ctc&a2=ctcr&tile=8,1&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
 
