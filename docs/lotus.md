@@ -8,7 +8,7 @@
 ## Introduction
 <img alt="lotus pair dia" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf%20lotus%20wt.png">
 Lotus grounds are usualy used in small braids, 14-18 pairs.     
-Please note: if a lotus has an odd number of horizontal, like H3, the weavers changes direction at the next set of lotus. This is not shown in the matrices used for the examples.
+Please note: if a lotus has an odd number of horizontal, like H3, the weavers change direction at the next set of lotus. This is not shown in the matrices used for the examples.
 
 ## Lotus notation
 Lotus H,V,X means: the number of Horizontal rows, the number of Verticals and the number of rows in between. See the picture. 
