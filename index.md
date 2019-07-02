@@ -9,7 +9,7 @@
 ## Introduction
 On this website you will find pages with additional patterns for use in Groundforge, a webapplication made by [Jo Pol][gf-jo]. Given are the parameter-section and stitches, although not always traditional.    
 
-Translation: Een Nederlandse vertaling download u <a href="https://maetempels.github.io/MAE-gf/documents/MAE-GF%20NL.pdf" download>hier</a>.
+Translation: Een Nederlandse vertaling download u <a href="https://maetempels.github.io/MAE-gf/documents/MAE-GF-NL.pdf" download>hier</a>.
 
 ## How to use these pages
 All examples are links to the Groundforge main page. Just follow the link. If only a picture with a light-blue coloured border is shown: click on the picture. Please feel free to play with the stitches. E.g. try what happens if you change the default <span class="stch">ctc</span> of the spiders or fish in <span class="stch">ct</span>.     
