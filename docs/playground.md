@@ -5,7 +5,9 @@
 * [Woble](#woble)
 
 ## Introduction
-Some grounds could not be made in GroundForge, only as "Droste". To make it easier to play with, this page consists of several forms to make playing easier.
+Some grounds could not be made in GroundForge, only as "Droste-effect". To make it easier to play with, this page consists of several forms to make playing easier. See page [_Droste-effect_][pg-droste] on the Groundforge help-pages for more information.
+
+[pg-droste]: https://d-bl.github.io/GroundForge/help/Droste-effect
 
 
 ## Woble
