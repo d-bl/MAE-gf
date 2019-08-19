@@ -15,7 +15,12 @@
             <td><input name="bottom" id="bottom" type="text" onchange="update()" value="ctc"></td>
             <td>&nbsp;</td>
         </tr>
-    </table>
+           <tr>
+            <td>&nbsp;</td>
+            <td><input name="connection" id="conn" type="text" onchange="update()" value="ctct"></td>
+            <td>&nbsp;</td>
+        </tr>
+ </table>
     <a id="wobleLink" href="#val">
         <button type="button">Go</button>
     </a>
@@ -29,8 +34,9 @@
         var left = document.getElementById("left").value
         var right = document.getElementById("right").value
         var bottom = document.getElementById("bottom").value
+        var conn = document.getElementById("conn").value
 
-        var droste2 = `cross=ctct,twist=ct,a11=rrrtcttt,g22=lllctcttt,c10=b20=${top},b11=b12=c15=b25=${topLeft},c21=c22=c14=b24=${topRight},c11=b21=${left},c12=b22=${right},c13=b23=${bottom}`
+        var droste2 = `cross=ctct,twist=ct,c10=b20=${top},b11=b12=c15=b25=${topLeft},c21=c22=c14=b24=${topRight},c11=b21=${left},c12=b22=${right},c13=b23=${bottom},b10=c20=${conn},a11=rrrtcttt,g22=lllctcttt`
         var droste1 = "c1=ctct&b1=ct&a1=ctll&g2=cttt&c2=ct&b2=ctct"
         var shifts = "shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2"
         var patch = "patchWidth=5&patchHeight=10"
