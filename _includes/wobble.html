@@ -55,6 +55,7 @@
         var url = "https://d-bl.github.io/GroundForge/tiles"
         var shared = `${url}?${matrices}&${defaultStitches}&${patch}&${shifts}&`
         console.log(`${shared}&${droste1("ctct")}&droste2=${droste2}&`)
+        console.log("<<<" + document.getElementById("wobble").href)
         document.getElementById("wobble").href = `${shared}&${droste1("ctct")}&droste2=${droste2}&`
         console.log(">>>" + document.getElementById("wobble").href)
         document.getElementById("ltr").href = `${shared}&${droste1("clcrct")}&droste2=ctct&`
