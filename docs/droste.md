@@ -12,18 +12,15 @@ Some grounds could not be made in GroundForge, only as "Droste-effect". To make 
 
 
 ## Woble
-This ground was discoverd by J. Pol, as a level 2 ground, starting with the "alternate stitch" ground. The units are placed in different directions. The following examples use the same units, but of course combinations can be made. Please note: work in horizontal rows of units.
+This ground was discoverd by J. Pol, as a level 2 ground, starting with the "alternate stitch" ground. The units are placed in different directions. The following examples use the same units, but of course combinations can be made. Please note: work in horizontal rows of units.  
+After completing the stitches in the form, press <span class="elem">go</span> and then the <span class="elem">wand</span> in the advanced section. 
 
 ### With rose ground unit
-
-{% capture descr1 %}
-With a rose ground unit. After completing the stitches, press <span class="elem">go</span> and then the <span class="elem">wand</span> in the advanced section. (This needs some more text, and a picture that shows what goes where.)
-{% endcapture %}
 
 {% include picts-left.html 
   src="https://maetempels.github.io/MAE-gf/images/woble.png" 
   alt="woble" 
-  description=descr1
+  description="This needs some more text, and a picture that shows what goes where."
 %}      
 {% include woble.html
 %}
@@ -32,14 +29,9 @@ With a rose ground unit. After completing the stitches, press <span class="elem"
 {% include picts-left.html 
   src="https://maetempels.github.io/MAE-gf/images/woble_bias_1.png" 
   alt="woble b1" 
-  description="With a bias ground unit. The top of the unit is indicated with a yellow dot. One row of the units works from top to the left, the next row from top to the right. Of course, all rows could work from top to the left."
+  description="The top of the unit is indicated with a yellow dot. There two ways of working one bias-ground unit: after finising the top-stitch, proceed to the left, or proceed to the right. The picture only shows one example."
 %}   
-
-{% include picts-left.html 
-  src="https://maetempels.github.io/MAE-gf/images/woble_bias_2.png" 
-  alt="woble b2" 
-  description="With a bias ground unit, . The top of the unit is indicated with a yellow dot. One row of the units works top-right, the next row top-left."
-%}  
+_under construction_ 
 
 ### With snowflake unit
 _under construction_
