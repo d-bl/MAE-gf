@@ -1,4 +1,4 @@
-# Playground
+# Droste
 
 ## Contents
 * [Introduction](#introduction)
