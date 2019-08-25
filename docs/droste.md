@@ -25,7 +25,7 @@ These units can be replaced with units of a bias ground.
 
 After completing the stitches in the form below,
 press <span class="elem">go</span> for the desired type of units.
-and then the ![](../images/wand.png) in the advanced section.
+In the page that will appear next, click the ![](../images/wand.png) in the advanced section.
 (more explanation?)
 
 {% include wobble.html %}
