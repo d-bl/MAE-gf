@@ -29,7 +29,7 @@ After completing the stitches in the form, press <span class="elem">go</span> an
 {% include picts-left.html 
   src="https://maetempels.github.io/MAE-gf/images/woble_bias_1.png" 
   alt="woble b1" 
-  description="The top of the unit is indicated with a yellow dot. There two ways of working one bias-ground unit: after finising the top-stitch, proceed to the left, or proceed to the right. The picture only shows one example."
+  description="There two ways of working one bias-ground unit: after finising the top-stitch, proceed to the left, or proceed to the right. The picture only shows one example. The top of one unit is indicated with a yellow dot."
 %}   
 _under construction_ 
 
