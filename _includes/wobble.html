@@ -24,13 +24,13 @@
  </table>
     <p>
         <img src="../images_stitches/rose.png">
-        <a id="wobble" href="#val" target="_blank"><button type="button">go</button></a>
+        <a id="wobbleButton" href="#val" target="_blank"><button type="button">go</button></a>
 
-<!--        <img src="../images_stitches/bias-ltr.png">-->
-<!--        <a id="ltr" href="#val" target="_blank"><button type="button">go</button></a>-->
+        <img src="../images_stitches/bias-ltr.png">
+        <a id="ltrButton" href="#val" target="_blank"><button type="button">go</button></a>
 
-<!--        <img src="../images_stitches/bias-rtl.png">-->
-<!--        <a id="rtl" href="#val" target="_blank"><button type="button">go</button></a>-->
+        <img src="../images_stitches/bias-rtl.png">
+        <a id="rtlButton" href="#val" target="_blank"><button type="button">go</button></a>
     </p>
 </form>
 
@@ -54,12 +54,9 @@
         var matrices = "footside=b,-&tile=88,11&headside=-,c"
         var url = "https://d-bl.github.io/GroundForge/tiles"
         var shared = `${url}?${matrices}&${defaultStitches}&${patch}&${shifts}&`
-        console.log(`${shared}&${droste1("ctct")}&droste2=${droste2}&`)
-        console.log("<<<" + document.getElementById("wobble").href)
-        document.getElementById("wobble").href = `${shared}&${droste1("ctct")}&droste2=${droste2}&`
-        console.log(">>>" + document.getElementById("wobble").href)
-        document.getElementById("ltr").href = `${shared}&${droste1("clcrct")}&droste2=ctct&`
-        document.getElementById("rtl").href = `${shared}&${droste1("crclct")}&droste2=ctct&`
+        document.getElementById("wobbleButton").href = `${shared}&${droste1("ctct")}&droste2=${droste2}&`
+        document.getElementById("ltrButton").href = `${shared}&${droste1("clcrct")}&droste2=ctct&`
+        document.getElementById("rtlButton").href = `${shared}&${droste1("crclct")}&droste2=ctct&`
     }
     update()
 </script>
