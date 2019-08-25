@@ -29,8 +29,8 @@ and then the ![](../images/wand.png) in the advanced section.
 
 (This needs some more text, and a picture that shows what goes where.)
 
-{% include stitches.html %}
 {% include wobble.html %}
+{% include stitches.html %}
 
 The left pricking is generated with one of the 
 "ground from template" [tools](https://d-bl.github.io/inkscape-bobbinlace/Ground-from-Template)
