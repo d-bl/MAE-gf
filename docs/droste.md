@@ -18,14 +18,14 @@ Some grounds could not be made in GroundForge, only as "Droste-effect". To make 
 
 This ground was discovered by J. Pol. 
 The name was inspired by the pricking on the left.
-This pricking is based on the generated thread diagram.
 On the right a distorted version that matches a Torchon grid. 
 The units of the rose-ground are placed in different directions.
 These units can be replaced with units of a bias ground.
 
 After completing the stitches in the form below,
 press <span class="elem">go</span> for the desired type of units.
-In the page that will appear next, click the ![](../images/wand.png) in the advanced section.
+In the page that will appear next, click the ![](../images/wand.png)
+in the advanced section for the thread diagram.
 (more explanation?)
 
 {% include wobble.html %}
