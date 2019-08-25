@@ -24,7 +24,7 @@
  </table>
     <p>
         <img src="../images_stitches/rose.png">
-        <a id="woble" href="#val" target="_blank"><button type="button">go</button></a>
+        <a id="wobble" href="#val" target="_blank"><button type="button">go</button></a>
 
         <img src="../images_stitches/bias-ltr.png">
         <a id="ltr" href="#val" target="_blank"><button type="button">go</button></a>
@@ -54,9 +54,9 @@
         var matrices = "footside=b,-&tile=88,11&headside=-,c"
         var url = "https://d-bl.github.io/GroundForge/tiles"
         var shared = `${url}?${matrices}&${defaultStitches}&${patch}&${shifts}&`
-        document.getElementById("woble").href = `${shared}&${droste1("ctct")}&droste2=${droste2}&`
-        document.getElementById("ltr").href = `${shared}&${droste1("clcrct")}&droste2=${droste2}&` // TODO other droste2
-        document.getElementById("rtl").href = `${shared}&${droste1("crclct")}&droste2=${droste2}&` // TODO other droste2
+        document.getElementById("wobble").href = `${shared}&${droste1("ctct")}&droste2=${droste2}&`
+        document.getElementById("ltr").href = `${shared}&${droste1("clcrct")}&droste2=ctct&`
+        document.getElementById("rtl").href = `${shared}&${droste1("crclct")}&droste2=ctct&`
     }
     update()
 </script>

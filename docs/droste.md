@@ -2,7 +2,7 @@
 
 ## Contents
 * [Introduction](#introduction)
-* [Woble](#woble)
+* [Wobble](#wobble)
 
 ## Introduction
 Some grounds could not be made in GroundForge, only as "Droste-effect". To make it easier to play with, this page consists of several forms to make playing easier. See page [_Droste-effect_][pg-droste] on the Groundforge help-pages for more information.
@@ -10,11 +10,11 @@ Some grounds could not be made in GroundForge, only as "Droste-effect". To make 
 [pg-droste]: https://d-bl.github.io/GroundForge/help/Droste-effect
 
 
-## Woble
+## Wobble
 
-<img src="../images/woble.png" style="float: right; margin-left:1em"/>
+<img src="../images/wobble.png" style="float: right; margin-left:1em"/>
 
-![](../images/woble2.png)
+![](../images/wobble2.png)
 
 This ground was invented by J. Pol. 
 The name was inspired by the pricking on the left.
@@ -41,4 +41,4 @@ and then the ![](../images/wand.png) in the advanced section.
 (This needs some more text, and a picture that shows what goes where.)
 
 {% include stitches.html %}
-{% include woble.html %}
+{% include wobble.html %}

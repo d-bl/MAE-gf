@@ -4,7 +4,7 @@ contact: true
 ---
 
 # test file
-{% include woble.html
+{% include wobble.html
 
 %}
 
