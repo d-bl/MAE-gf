@@ -54,6 +54,8 @@
         var matrices = "footside=b,-&tile=88,11&headside=-,c"
         var url = "https://d-bl.github.io/GroundForge/tiles"
         var shared = `${url}?${matrices}&${defaultStitches}&${patch}&${shifts}&`
+        console.log(shared)
+        console.log(`${shared}&${droste1("ctct")}&droste2=${droste2}&`)
         document.getElementById("wobble").href = `${shared}&${droste1("ctct")}&droste2=${droste2}&`
         document.getElementById("ltr").href = `${shared}&${droste1("clcrct")}&droste2=ctct&`
         document.getElementById("rtl").href = `${shared}&${droste1("crclct")}&droste2=ctct&`
