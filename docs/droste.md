@@ -3,7 +3,7 @@
 ## Contents
 * [Introduction](#introduction)
 * [Woble](#woble)
-* [Zeccantello] (#zeccantello)
+* [Zeccantello](#zeccantello)
 
 ## Introduction
 Some grounds could not be made in GroundForge, only as "Droste-effect". To make it easier to play with, this page consists of several forms to make playing easier. See page [_Droste-effect_][pg-droste] on the Groundforge help-pages for more information.
