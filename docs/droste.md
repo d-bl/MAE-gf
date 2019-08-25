@@ -16,7 +16,7 @@ Some grounds could not be made in GroundForge, only as "Droste-effect". To make 
 
 ![](../images/wobble2.png)
 
-This ground was invented by J. Pol. 
+This ground was discovered by J. Pol. 
 The name was inspired by the pricking on the left.
 This pricking is based on the generated thread diagram.
 On the right a distorted version that matches a Torchon grid. 
