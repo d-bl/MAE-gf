@@ -11,20 +11,17 @@
             <td><input name="right" id="right" type="text" onchange="update()" value="ct"></td>
         </tr>
         <tr>
-            <td>&nbsp;</td>
+            <td><input name="bottomLeft" id="bottomLeft" type="text" onchange="update()" value="ctct"></td>
             <td><input name="bottom" id="bottom" type="text" onchange="update()" value="ctct"></td>
-            <td>&nbsp;</td>
-        </tr>
-           <tr>
-            <td>&nbsp;</td>
-            <td align="right">connection:</td>
-            <td><input name="connection" id="conn" type="text" onchange="update()" value="ctct"></td>
-            <td>&nbsp;</td>
-        </tr>
+            <td><input name="bottomRight" id="bottomRight" type="text" onchange="update()" value="ctct"></td>
  </table>
     <p>
+        connection:
+        <input name="connection" id="conn" type="text" onchange="update()" value="ctct">
+    </p>
+    <p>
         <img src="../images_stitches/rose.png">
-        <a id="wobbleButton" href="#val" target="_blank"><button type="button">go</button></a>
+        <a id="roseButton" href="#val" target="_blank"><button type="button">go</button></a>
 
         <img src="../images_stitches/bias-ltr.png">
         <a id="ltrButton" href="#val" target="_blank"><button type="button">go</button></a>
@@ -33,6 +30,7 @@
         <a id="rtlButton" href="#val" target="_blank"><button type="button">go</button></a>
     </p>
 </form>
+
 
 <script>
     function droste1(stitch){
@@ -44,19 +42,23 @@
         var topRight = document.getElementById("topRight").value
         var left = document.getElementById("left").value
         var right = document.getElementById("right").value
+        var bottomLeft = document.getElementById("bottomLeft").value
         var bottom = document.getElementById("bottom").value
+        var bottomRight = document.getElementById("bottomRight").value
         var conn = document.getElementById("conn").value
 
-        var droste2 = `cross=ctct,twist=ct,c10=b20=${top},b11=b12=c15=b25=${topLeft},c21=c22=c14=b24=${topRight},c11=b21=${left},c12=b22=${right},c13=b23=${bottom},b10=c20=${conn},a11=rrrtcttt,g22=lllctcttt`
         var shifts = "shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2"
         var patch = "patchWidth=5&patchHeight=10"
         var defaultStitches = "footsideStitch=cttt&tileStitch=ctct&headsideStitch=cttt"
         var matrices = "footside=b,-&tile=88,11&headside=-,c"
         var url = "https://d-bl.github.io/GroundForge/tiles"
         var shared = `${url}?${matrices}&${defaultStitches}&${patch}&${shifts}&`
-        document.getElementById("wobbleButton").href = `${shared}&${droste1("ctct")}&droste2=${droste2}&`
-        document.getElementById("ltrButton").href = `${shared}&${droste1("clcrct")}&droste2=ctct&`
-        document.getElementById("rtlButton").href = `${shared}&${droste1("crclct")}&droste2=ctct&`
+        var rose = `c10=b20=${top},b11=b12=${topLeft}&=c15=b25=${bottomRight},c21=c22=${topRight}&c14=b24=${bottomLeft},c11=b21=${left},c12=b22=${right},c13=b23=${bottom},b10=c20=${conn},a11=rrrtcttt,g22=lllctcttt`
+        var ltr = `cross=ctct,twist=ct`
+        var rtl = `cross=ctct,twist=ct`
+        document.getElementById("roseButton").href = `${shared}&${droste1("ctct")}&droste2=${rose}&`
+        document.getElementById("ltrButton").href = `${shared}&${droste1("clcrct")}&droste2=${ltr}&`
+        document.getElementById("rtlButton").href = `${shared}&${droste1("crclct")}&droste2=${rtl}&`
     }
     update()
 </script>
