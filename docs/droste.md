@@ -12,15 +12,23 @@ Some grounds could not be made in GroundForge, only as "Droste-effect". To make 
 
 ## Wobble
 
+This family of grounds was discovered by J. Pol. 
+The name was inspired by the left pricking.
+
+### Pricking
 <img src="../images/wobble.png" style="float: right; margin-left:1em"/>
 
 ![](../images/wobble2.png)
 
-This ground was discovered by J. Pol. 
-The name was inspired by the pricking on the left.
+The left pricking is generated with one of the "ground from template" 
+[tools](https://d-bl.github.io/inkscape-bobbinlace/Ground-from-Template)
+and a plain text file (<a href="../data/wobble.txt" download>download</a>).
+
 On the right a distorted version that matches a Torchon grid. 
 The units of the rose-ground are placed in different directions.
 These units can be replaced with units of a bias ground.
+
+### Generate diagrams (color coded and threads)
 
 After completing the stitches in the form below,
 press <span class="elem">go</span> for the desired type of units.
@@ -30,10 +38,6 @@ in the advanced section for the thread diagram.
 
 {% include wobble.html %}
 {% include stitches.html %}
-
-The left pricking is generated with one of the 
-"ground from template" [tools](https://d-bl.github.io/inkscape-bobbinlace/Ground-from-Template)
-and a plain text file with the content shown below.
 
 ```
 CHECKER	18	18
