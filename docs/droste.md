@@ -3,6 +3,7 @@
 ## Contents
 * [Introduction](#introduction)
 * [Wobble](#wobble)
+* [Zeccantello](#zeccantello)
 
 ## Introduction
 Some grounds could not be made in GroundForge, only as "Droste-effect". To make it easier to play with, this page consists of several forms to make playing easier. See page [_Droste-effect_][pg-droste] on the Groundforge help-pages for more information.
@@ -39,3 +40,19 @@ in the advanced section for the thread diagram.
 
 {% include wobble.html %}
 {% include stitches.html %}
+
+### With bias ground unit
+{% include picts-left.html 
+  src="https://maetempels.github.io/MAE-gf/images/woble_bias_1.png" 
+  alt="woble b1" 
+  description="There two ways of working one bias-ground unit: after finising the top-stitch, proceed to the left, or proceed to the right. The picture only shows one example. The top of one unit is indicated with a yellow dot."
+%}   
+_under construction_ 
+
+### With snowflake unit
+_under construction_
+
+
+## Zeccantello
+The Whiting-index shows several "Zeccantello" grounds. We found, that these can be made as a level 2 ground, starting with the Paris ground. _under construction_
+
