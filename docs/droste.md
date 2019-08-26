@@ -27,6 +27,7 @@ and a plain text file (<a href="../data/wobble.txt" download>download</a>).
 On the right a distorted version that matches a Torchon grid. 
 The units of the rose-ground are placed in different directions.
 These units can be replaced with units of a bias ground.
+The green line indicates the working order inherited frm the first pair diagram.
 
 ### Generate diagrams (color coded and threads)
 
@@ -38,8 +39,3 @@ in the advanced section for the thread diagram.
 
 {% include wobble.html %}
 {% include stitches.html %}
-
-```
-CHECKER	18	18
-[6,0,3,2,8,3]	[15,1,14,5,18,4]	[3,2,2,7,8,3]	[8,3,7,8,10,6]	[0,4,3,2,2,7]	[14,5,18,4,13,9]	[10,6,14,5,13,9]	[2,7,7,8,4,10]	[7,8,10,6,4,10]	[13,9,11,12,16,11]	[4,10,1,13,5,14]	[16,11,11,12,17,16]	[11,12,9,15,12,17]	[1,13,-1,16,-2,11]	[5,14,1,13,6,18]	[9,15,5,14,6,18]	[17,16,12,17,15,19]	[12,17,9,15,15,19]
-```
