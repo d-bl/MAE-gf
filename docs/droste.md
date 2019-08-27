@@ -26,9 +26,9 @@ The left pricking is generated with one of the "ground from template"
 and a plain text file (<a href="../data/wobble.txt" download>download</a>).
 
 On the right a distorted version that matches a Torchon grid. 
-The units of the rose-ground are placed in different directions.
+The units of the rose-ground are placed in different directions, indicated with blue arrows.
 These units can be replaced with units of a bias ground.
-The green line indicates the working order inherited frm the first pair diagram.
+The green numbers and arrows indicate the working order inherited frm the first pair diagram.
 
 ### Generate diagrams (color coded and threads)
 
