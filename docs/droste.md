@@ -5,7 +5,7 @@
 * [Fish](#fish)
 * [Wobble](#wobble)
 * [Zeccatello](#zeccatello)
-* [Paris by Drose](#paris_by_droste)
+* [Paris by Droste](#paris-by-droste)
 
 ## Introduction
 On this page, several grounds made with the "Droste-effect". Some of these, like "Wobble" can not be made as a GroundForge first level ground. See page [_Droste-effect_][pg-droste] on the Groundforge help-pages for more information.  
