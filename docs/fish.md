@@ -4,7 +4,6 @@
 * [Introduction](#introduction)
 * [Fish notation](#fish-notation)
 * [Fish examples](#fish-examples)
-* [Fish made by Droste-effect](#building-fish-with-droste)
 * [Braids](#braids)
 
 ## Introduction
@@ -35,11 +34,6 @@ Fish B,S,W means: the number of Bones, the number of Spines and the number of Wa
 * [Fish B5,S2,W-][T-52-]; [Fish B5,S2,W0][T-520]   
 * [jp-double fish B2,S2,W1][TD-221]; [jp-double fish B2,S2,W3][TD-223] 
 
-## Building fish with Droste     
-_Double fish B2,S2,W3_ also can be made using Droste [second level][F2-223] which uses the thread diagram of the first level as pair diagram for the second level. Please replace <span class="elem">cross b102</span> in the level-2 thread diagram with a <span class="stch">half knot</span> or two to mimic a twisted pair.       
-The first level can be split in two levels, with the same result at the [third level][F3-223]. Defining a footside however will become problematic, as we have four workers going into the same direction before returning. In practice you can bend this rule and change direction every other row, provided that plain twists separate the fish. Note that in both cases it can take a while for the last levels to appear.    
-Please note the resemblance of the level-3 fish with the [narrow eyed spider][ne-spiders-page].
-
 ## Braids
 * [Fish B3,S2,W2][Z322]; [Fish B3,S2,W3][Z323]
 * [Fish B4,S2,W2][Z422]; [Fish B4,S2,W3][Z423]
@@ -50,10 +44,6 @@ Please note the resemblance of the level-3 fish with the [narrow eyed spider][ne
 [ne-spiders-page]: https://maetempels.github.io/MAE-gf/docs/spiders#spiders-with-a-narrow-eye
 [fish-gen]: https://maetempels.github.io/MAE-gf/images_wt/mx-fish.png
 [fish-build]: https://maetempels.github.io/MAE-gf/images_wt/mx-fish-bld.png
-
-[F2-223]: https://d-bl.github.io/GroundForge/tiles.html?patchWidth=6&patchHeight=14&b1=ctct&a2=ctct&b3=ct&a4=ctct&b5=ctc&b6=ctcl&a6=ctc&b7=ctc&a7=ctcr&droste2=ctc,b30=tct,b44=a45=b15=b14=tt,b64=a74=ttctctt&tile=-4,5-,-5,5-,-5,21,88&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=7&shiftColsSE=2&shiftRowsSE=7
-
-[F3-223]: https://d-bl.github.io/GroundForge/tiles.html?patchWidth=6&patchHeight=6&a1=ctc&a2=cr&a3=c&a4=lc&droste2=ctc,a10=a11=ctcrr,a20=a21=a40=ctct,a30=ct,,,,&droste3=ctc,a300=tct,a104=a114=ttctctt,a204=a205=a404=a405=tt,&tile=8,1,8,1,&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=1&shiftRowsSE=4
 
 [T-12-]: https://d-bl.github.io/GroundForge/tiles?patchWidth=9&patchHeight=11&m1=rrctctt&d1=ctc&e2=ctc&c2=ctcll&d3=ctc&a3=llctctt&e4=ctcrr&c4=ctc&footside=x-,xz,4-,xw&tile=-5-,0z2,-5-,6v9&headside=-7,YX,-X,VX&footsideStitch=ctc&tileStitch=ctc&headsideStitch=ctc&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=4
 
