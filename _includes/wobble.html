@@ -56,7 +56,7 @@
         var shared = `${url}?${matrices}&${defaultStitches}&${patch}&${shifts}&`
         var rose = `c10=b20=${top},b11=b12=${topLeft}&=c15=b25=${bottomRight},c21=c22=${topRight}&c14=b24=${bottomLeft},c11=b21=${left},c12=b22=${right},c13=b23=${bottom},b10=c20=${conn},a11=rrrtcttt,g22=lllctcttt`
         var ltr = `cross=ctct,twist=ct`
-        var rtl = `cross=ctct,twist=ct`
+        var rtl = `b12=b11=${topLeft},c10=b20=${top},c22=c21=${topRight},c13=b13=${left},c12=b22=${center},c11=b21=${right},c16=b26=${bottomLeft},c14=b24=${bottom},c15=b25=${bottomRight},b10=c20=${conn}`
         document.getElementById("roseButton").href = `${shared}&${droste1("ctct")}&droste2=${rose}&`
         document.getElementById("ltrButton").href = `${shared}&${droste1("clcrct")}&droste2=${ltr}&`
         document.getElementById("rtlButton").href = `${shared}&${droste1("crclct")}&droste2=${rtl}&`
