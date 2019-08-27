@@ -6,9 +6,15 @@
 * [Zeccatello](#zeccatello)
 
 ## Introduction
-Some grounds could not be made in GroundForge, only as "Droste-effect". To make it easier to play with, this page consists of several forms to make playing easier. See page [_Droste-effect_][pg-droste] on the Groundforge help-pages for more information.
+On this page, several grounds made with the "Droste-effect". Some of these, like "Wobble" can not be made as a GroundForge first level ground. See page [_Droste-effect_][pg-droste] on the Groundforge help-pages for more information.  
+Some of the examples show a forms to make playing easier. 
 
 [pg-droste]: https://d-bl.github.io/GroundForge/help/Droste-effect
+
+### Generate diagrams 
+After clicking the link or the <span class="elem">go-button</span> on the form, the GroundForge main page appears.
+Click the ![](../images/wand.png) in the advanced section for the thread diagram.
+(more explanation?)
 
 
 ## Wobble
