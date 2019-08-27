@@ -2,8 +2,8 @@
 
 ## Contents
 * [Introduction](#introduction)
-* [Woble](#woble)
-* [Zeccantello](#zeccantello)
+* [Wobble](#wobble)
+* [Zeccatello](#zeccatello)
 
 ## Introduction
 Some grounds could not be made in GroundForge, only as "Droste-effect". To make it easier to play with, this page consists of several forms to make playing easier. See page [_Droste-effect_][pg-droste] on the Groundforge help-pages for more information.
@@ -11,32 +11,42 @@ Some grounds could not be made in GroundForge, only as "Droste-effect". To make 
 [pg-droste]: https://d-bl.github.io/GroundForge/help/Droste-effect
 
 
-## Woble
-This ground was discoverd by J. Pol, as a level 2 ground, starting with the "alternate stitch" ground. The units are placed in different directions. The following examples use the same units, but of course combinations can be made. Please note: work in horizontal rows of units.  
-After completing the stitches in the form, press <span class="elem">go</span> and then the <span class="elem">wand</span> in the advanced section. 
+## Wobble
 
-### With rose ground unit
+This family of grounds was discovered by J. Pol. 
+The name was inspired by the left pricking.
 
-{% include picts-left.html 
-  src="https://maetempels.github.io/MAE-gf/images/woble.png" 
-  alt="woble" 
-  description="This needs some more text, and a picture that shows what goes where."
-%}      
-{% include woble.html
-%}
+### Pricking
+<img src="../images/wobble.png" style="float: right; margin-left:1em"/>
 
-### With bias ground unit
-{% include picts-left.html 
-  src="https://maetempels.github.io/MAE-gf/images/woble_bias_1.png" 
-  alt="woble b1" 
-  description="There two ways of working one bias-ground unit: after finising the top-stitch, proceed to the left, or proceed to the right. The picture only shows one example. The top of one unit is indicated with a yellow dot."
-%}   
-_under construction_ 
+![](../images/wobble2.png)
 
-### With snowflake unit
-_under construction_
+The left pricking is generated with one of the "ground from template" 
+[tools](https://d-bl.github.io/inkscape-bobbinlace/Ground-from-Template)
+and a plain text file (<a href="../data/wobble.txt" download>download</a>).
+
+On the right a distorted version that matches a Torchon grid. 
+The units of the rose-ground are placed in different directions.
+These units can be replaced with units of a bias ground.
+The green line indicates the working order inherited frm the first pair diagram.
+
+### Generate diagrams (color coded and threads)
+
+After completing the stitches in the form below,
+press <span class="elem">go</span> for the desired type of units.
+In the page that will appear next, click the ![](../images/wand.png)
+in the advanced section for the thread diagram.
+(more explanation?)
+
+{% include wobble.html %}
+{% include stitches.html %}
 
 
-## Zeccantello
-The Whiting-index shows several "Zeccantello" grounds. We found, that these can be made as a level 2 ground, starting with the Paris ground. _under construction_
+## Zeccatello
+The Whiting sampler has a "Fancy Zeccatello" ground:
+[F12](https://d-bl.github.io/GroundForge/tiles?whiting=F12_P190&patchWidth=16&patchHeight=16&f1=ctc&d1=tctct&b1=ctc&g2=ctctctc&e2=tctct&c2=tctct&a2=ctctctc&f3=ctc&d3=tctct&b3=ctc&g4=ctcrrctc&f4=ctc&e4=ctcllctc&c4=ctcrrctc&b4=ctc&a4=ctcllctc&tile=-4-5-7--,b-5-5-c-,-5-5-5--,a15-58d-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4).
+M. Tempels discovered it can also be made as a level 2 
+[ground](https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&c1=clcrct&a1=crclct&d2=ctct&droste2=ctct,c11=a13=ctcllctc,a11=c13=ctcrrctc,d25=c10=c12=c14=ctc,d24=a10=a12=a14,a16=c15=ctctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2), 
+starting with the Paris ground.
 
+***

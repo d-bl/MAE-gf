@@ -1,0 +1,65 @@
+<form>
+    <table>
+        <tr>
+            <td><input name="topLeft" id="topLeft" type="text" onchange="update()" value="ct"></td>
+            <td><input name="top" id="top" type="text" onchange="update()" value="ctct"></td>
+            <td><input name="topRight" id="topRight" type="text" onchange="update()" value="ct"></td>
+        </tr>
+        <tr>
+            <td><input name="left" id="left" type="text" onchange="update()" value="ct"></td>
+            <td><input name="center" id="center" type="text" onchange="update()" value="ct"></td>
+            <td><input name="right" id="right" type="text" onchange="update()" value="ct"></td>
+        </tr>
+        <tr>
+            <td><input name="bottomLeft" id="bottomLeft" type="text" onchange="update()" value="ctct"></td>
+            <td><input name="bottom" id="bottom" type="text" onchange="update()" value="ctct"></td>
+            <td><input name="bottomRight" id="bottomRight" type="text" onchange="update()" value="ctct"></td>
+        </tr>
+    </table>
+    <p>
+        connection:
+        <input name="connection" id="conn" type="text" onchange="update()" value="ctct">
+    </p>
+    <p>
+        <img src="../images_stitches/rose.png">
+        <a id="roseButton" href="#val" target="_blank"><button type="button">go</button></a>
+
+        <img src="../images_stitches/bias-ltr.png">
+        <a id="ltrButton" href="#val" target="_blank"><button type="button">w.i.p.</button></a>
+
+        <img src="../images_stitches/bias-rtl.png">
+        <a id="rtlButton" href="#val" target="_blank"><button type="button">w.i.p.</button></a>
+    </p>
+</form>
+
+
+<script>
+    function droste1(stitch){
+        return `c1=${stitch}&b2=${stitch}&b1=ct&a1=ctll&g2=cttt&c2=ct`
+    }
+    function update(){
+        var topLeft = document.getElementById("topLeft").value
+        var top = document.getElementById("top").value
+        var topRight = document.getElementById("topRight").value
+        var left = document.getElementById("left").value
+        var right = document.getElementById("right").value
+        var bottomLeft = document.getElementById("bottomLeft").value
+        var bottom = document.getElementById("bottom").value
+        var bottomRight = document.getElementById("bottomRight").value
+        var conn = document.getElementById("conn").value
+
+        var shifts = "shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2"
+        var patch = "patchWidth=5&patchHeight=10"
+        var defaultStitches = "footsideStitch=cttt&tileStitch=ctct&headsideStitch=cttt"
+        var matrices = "footside=b,-&tile=88,11&headside=-,c"
+        var url = "https://d-bl.github.io/GroundForge/tiles"
+        var shared = `${url}?${matrices}&${defaultStitches}&${patch}&${shifts}&`
+        var rose = `c10=b20=${top},b11=b12=${topLeft}&=c15=b25=${bottomRight},c21=c22=${topRight}&c14=b24=${bottomLeft},c11=b21=${left},c12=b22=${right},c13=b23=${bottom},b10=c20=${conn},a11=rrrtcttt,g22=lllctcttt`
+        var ltr = `cross=ctct,twist=ct`
+        var rtl = `cross=ctct,twist=ct`
+        document.getElementById("roseButton").href = `${shared}&${droste1("ctct")}&droste2=${rose}&`
+        document.getElementById("ltrButton").href = `${shared}&${droste1("clcrct")}&droste2=${ltr}&`
+        document.getElementById("rtlButton").href = `${shared}&${droste1("crclct")}&droste2=${rtl}&`
+    }
+    update()
+</script>
