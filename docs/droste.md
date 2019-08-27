@@ -5,6 +5,7 @@
 * [Fish](#fish)
 * [Wobble](#wobble)
 * [Zeccatello](#zeccatello)
+* [Paris by Drose](#paris_by_droste)
 
 ## Introduction
 On this page, several grounds made with the "Droste-effect". Some of these, like "Wobble" can not be made as a GroundForge first level ground. See page [_Droste-effect_][pg-droste] on the Groundforge help-pages for more information.  
@@ -23,7 +24,7 @@ The first level can be split in two levels, with the same result at the [third l
 Please note the resemblance of the level-3 fish with the [narrow eyed spider][ne-spiders-page]. See page [_fish_][fish-page] for the fish names.
 
 [ne-spiders-page]: https://maetempels.github.io/MAE-gf/docs/spiders#spiders-with-a-narrow-eye
-[fish-page]: https://maetempels.github.io/MAE-gf/docs/fish
+[fish-page]: https://maetempels.github.io/MAE-gf/docs/fish#fish-notation
 
 [F2-223]: https://d-bl.github.io/GroundForge/tiles.html?patchWidth=6&patchHeight=14&b1=ctct&a2=ctct&b3=ct&a4=ctct&b5=ctc&b6=ctcl&a6=ctc&b7=ctc&a7=ctcr&droste2=ctc,b30=tct,b44=a45=b15=b14=tt,b64=a74=ttctctt&tile=-4,5-,-5,5-,-5,21,88&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=7&shiftColsSE=2&shiftRowsSE=7
 
@@ -47,7 +48,7 @@ and a plain text file (<a href="../data/wobble.txt" download>download</a>).
 On the right a distorted version that matches a Torchon grid. 
 The units of the rose-ground are placed in different directions, indicated with blue arrows.
 These units can be replaced with units of a bias ground.
-The green numbers and arrows indicate the working order inherited frm the first pair diagram.
+The green numbers and arrows indicate the working order inherited from the first pair diagram.
 
 ### Generate diagrams (color coded and threads)
 
@@ -67,5 +68,13 @@ The Whiting sampler has a "Fancy Zeccatello" ground:
 M. Tempels discovered it can also be made as a level 2 
 [ground](https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&c1=clcrct&a1=crclct&d2=ctct&droste2=ctct,c11=a13=ctcllctc,a11=c13=ctcrrctc,d25=c10=c12=c14=ctc,d24=a10=a12=a14,a16=c15=ctctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2), 
 starting with the Paris ground.
+
+## Paris by Droste
+Two versions of the same example. The difference is the direction of the Bias-units.       
+[example 1][ex-paris-droste1], [example 2][ex-paris-droste2]
+
+[ex-paris-droste1]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&c1=crclct&a1=clcrct&d2=ctct&droste2=c15=a16=tctctct,a15=c16=tctct,d24=d25=tctct,c12=a12=tct,d20=d21=d22=d23=ctc,c10=c11=c13=c14=ctc,a10=a11=a13=a14=ctc,,&tile=B-C-,---5&tileStitch=ctc&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[ex-paris-droste2]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&c1=clcrct&a1=crclct&d2=ctct&droste2=c15=a16=tctctct,a15=c16=tctct,d24=d25=tctct,c12=a12=tct,d20=d21=d22=d23=ctc,c10=c11=c13=c14=ctc,a10=a11=a13=a14=ctc&tile=B-C-,---5&tileStitch=ctc&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+
 
 ***
