@@ -11,7 +11,7 @@ On this page, several grounds are made with the "Droste-effect":
 reuse thread diagrams as pair diagrams. 
 Some of these, like "Wobble" can only be made by GroundForge using this technique. 
 
-See the Groundforge help-page [_Droste-effect_][pg-droste] on for more information.  
+See the Groundforge help-page [_Droste-effect_][pg-droste] for more information.  
 
 Some of the examples have forms to make playing easier. 
 Other examples only have plain links for multi-step patterns, you need to click the ![](../images/wand.png) in the advanced section for the diagrams of the second (or even third) step.
@@ -20,8 +20,10 @@ Other examples only have plain links for multi-step patterns, you need to click 
 
 ## Fish     
 _Double fish B2,S2,W3_ (see page [_fish_][fish-page])
-also can be defined in [two steps][F2-223] using the thread diagram of the first step as pair diagram for the second step. Please replace <span class="elem">cross b102</span> in the thread diagram of step-2 with a <span class="stch">half knot</span> or two to mimic a twisted pair.       
-The first step can be split in two steps, with the same result at the [third step][F3-223]. Defining a footside however will become problematic, as we have four workers going into the same direction before returning. In practice you can bend this rule and change direction every other row, provided that plain twists separate the fish. Note that in both cases it can take a while for the last steps to appear.    
+also can be defined in [two steps][F3-223] using the thread diagram of the first step as pair diagram for the second step. Please replace <span class="elem">cross b102</span> in the thread diagram of step-2 with a <span class="stch">half knot</span> or two to mimic a twisted pair.              
+The thread diagram of the second step can reused again: click the ![](../images/wand.png) below the second step fish.       
+The same result as this 3-step fish can be achieved in [two steps][F2-223].          
+Defining a footside will become problematic, as we have four workers going into the same direction before returning. In practice you can bend this rule and change direction every other row, provided that plain twists separate the fish. Note that in both cases it can take a while for the last steps to appear.    
 Please note the resemblance of the 3-step fish with the [narrow eyed spider][ne-spiders-page]. 
 
 [ne-spiders-page]: https://maetempels.github.io/MAE-gf/docs/spiders#spiders-with-a-narrow-eye
@@ -63,7 +65,7 @@ in the advanced section for the thread diagram.
 ## Paris
 
 The [Paris] ground uses the thread diagram of the half twist as pair diagram.
-See also variations (defined without this Droste technique) in the Whiting index A5, A6, B5, C6, A7-H7, G11. 
+See also variations (defined without this Droste technique) in the Whiting index A5, A6, B5, A7-H7, G11. 
 In turn [F12] is based on [Paris][F12-droste].
 
 Two versions to choose your own stitches. The difference is the direction of the Bias-units.       
