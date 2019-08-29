@@ -53,7 +53,8 @@ The green numbers and arrows indicate the working order inherited from the first
 
 ### Generate diagrams (color coded / threads)
 
-After completing the stitches in the form below,
+The first step is the Alternate stich ground. 
+After completing the stitches for the second step in the form below,
 press <span class="elem">go</span> for the desired type of units.
 In the page that will appear next, click the ![](../images/wand.png)
 in the advanced section for the thread diagram.
@@ -69,7 +70,7 @@ See also variations (defined without this Droste technique) in the Whiting index
 In turn [F12] is based on [Paris][F12-droste].
 
 Two versions to choose your own stitches. The difference is the direction of the Bias-units.       
-[example 1][ex-paris-droste1], [example 2][ex-paris-droste2]
+* [example 1][ex-paris-droste1], [example 2][ex-paris-droste2]
 
 [Paris]: https://d-bl.github.io/GroundForge/tiles?tile=-5&tileStitch=ct&droste2=ctct&patchWidth=5&patchHeight=6&shiftColsSW=-2&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=1
 [F12]: https://d-bl.github.io/GroundForge/tiles?whiting=F12_P190&patchWidth=10&patchHeight=10&f1=ctc&d1=tctct&b1=ctc&g2=ctctctc&e2=tctct&c2=tctct&a2=ctctctc&f3=ctc&d3=tctct&b3=ctc&g4=ctcrrctc&f4=ctc&e4=ctcllctc&c4=ctcrrctc&b4=ctc&a4=ctcllctc&tile=-4-5-7--,b-5-5-c-,-5-5-5--,a15-58d-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
