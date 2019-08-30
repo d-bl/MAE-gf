@@ -72,7 +72,7 @@ In turn thread diagrams of (fancy) Paris grounds can be used as pair diagrams.
 Some examples to play with your own choice of stitches.
 
 ![](../images_stitches/paris-droste-1.png) [`go`][ex-paris-droste1]
-![](../images_stitches/paris-droste-1.png) [`go`][ex-paris-droste2]
+![](../images_stitches/paris-droste-2.png) [`go`][ex-paris-droste2]
 ![](../images_stitches/paris-droste-3.png) `...`
 ![](../images_stitches/paris-droste-F12.png) [`go`][F12-droste] ([WI F12][F12])
 
