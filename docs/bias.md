@@ -35,11 +35,11 @@ Ground mt-0228 is a variant in cloth stitch. Ground mt-0225 shows alternate stic
 
 ##  Bias Ground crossed rose style
 ![crossed][P-0221-at]
-* [WI D6][T-wi-D6], [WI F4][T-wi-F4], [mt-0278][T-0278-KG]
+* [example 1 WI D6][T-wi-D6], [example 2 WI F4][T-wi-F4], [mt-0278][T-0278-KG]
 
 [P-0221-at]: https://maetempels.github.io/MAE-gf/images_wt/gf-bias-at.png
-[T-wi-D6]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&d1=ct&a2=ct&b2=ctct&c2=ct&d2=ctct&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=8-48,8314
-[T-wi-F4]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctcrrctc&c1=ctcllctc&d1=ctc&a2=ctc&b2=ctc&c2=ctc&d2=ctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=8-48,8314
+[T-wi-D6]: https://d-bl.github.io/GroundForge/tiles?Whiting=D6_P138&patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&d1=ct&a2=ct&b2=ctct&c2=ct&d2=ctct&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=8-48,8314
+[T-wi-F4]: https://d-bl.github.io/GroundForge/tiles?Whiting=F4_P180&patchWidth=12&patchHeight=12&a1=ctcrrctc&c1=ctcllctc&d1=ctc&a2=ctc&b2=ctc&c2=ctc&d2=ctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=8-48,8314
 [T-0278-KG]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=c&a2=c&b2=ctct&c2=c&d2=tctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=8-48,8314
 
 ## Bias Ground crossed differently
@@ -47,7 +47,7 @@ Ground mt-0228 is a variant in cloth stitch. Ground mt-0225 shows alternate stic
   src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-aa.png"
   alt="crossed diff"
   description="(WI E6)"
-  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ct&b1=ctct&c1=ct&d1=ctct&f1=ctct&g1=ct&h1=ctct&a2=ctct&c2=ctct&d2=ct&e2=ctct&f2=ct&g2=ctct&h2=ct&a3=ct&b3=ctct&c3=ct&d3=ctct&e3=ct&f3=ctct&h3=ctct&a4=ctct&b4=ct&c4=ctct&e4=ctct&f4=ct&g4=ctct&h4=ct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=1488-483,8-483148,831488-4,488-4831"
+  lnk="https://d-bl.github.io/GroundForge/tiles?Whiting=E6_P160&patchWidth=12&patchHeight=12&a1=ct&b1=ctct&c1=ct&d1=ctct&f1=ctct&g1=ct&h1=ctct&a2=ctct&c2=ctct&d2=ct&e2=ctct&f2=ct&g2=ctct&h2=ct&a3=ct&b3=ctct&c3=ct&d3=ctct&e3=ct&f3=ctct&h3=ctct&a4=ctct&b4=ct&c4=ctct&e4=ctct&f4=ct&g4=ctct&h4=ct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=1488-483,8-483148,831488-4,488-4831"
 %}  
 
 ## Bias Ground with a diagonal in between
