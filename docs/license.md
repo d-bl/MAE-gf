@@ -21,7 +21,7 @@ Some new grounds use traditional prickings. E.g.: the "ants" are made on the ros
     
 ## Creators
 Our own grounds are prefixed with our initials (jp-, mt-).   
-Grounds found in the Whiting index (prefixed WI) are free of copyrights.     
+Grounds found in the Whiting index are free of copyrights.     
 Grounds otherwise prefixed have been published elsewhere. See the _reference_ section below.
 Grounds not prefixed are traditional grounds.     
 
@@ -39,8 +39,7 @@ In short: you are free to share the examples as long as you give appropiate cred
 ## References
 JP = J. Pol     
 MT = M. Tempels    
-UU = U. Ulrich: Gründe mit System      
-WI = Whiting Index. See Groundforge Examples pages.      
+UU = U. Ulrich: Gründe mit System        
 VI = V. Irvine: Developing a Mathematical Model for Bobbin Lace (paper)       
 VI = V. Irvine: Tesselace. See Groundforge Examples pages.    
 
