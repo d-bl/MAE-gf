@@ -67,7 +67,7 @@ in the advanced section for the thread diagram.
 
 The [Paris] ground uses the thread diagram of the half twist as pair diagram.
 See also variations (defined without this Droste technique) in the Whiting index A5, A6, B5, A7-H7, G11. 
-In turn [WI F12][F12] is based on [Paris][F12-droste].
+In turn the [_fancy Zeccattelo_][F12] is based on [Paris][F12-droste].
 
 Two versions to choose your own stitches. The difference is the direction of the Bias-units. Click on the picture of the desired type of units.         
 
