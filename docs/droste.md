@@ -55,7 +55,7 @@ The green numbers and arrows indicate the working order inherited from the first
 
 The first step is the Alternate stich ground. 
 After completing the stitches for the second step in the form below,
-press <span class="elem">go</span> for the desired type of units.
+click on the picture of the desired type of units.
 In the page that will appear next, click the ![](../images/wand.png)
 in the advanced section for the thread diagram.
 
@@ -69,11 +69,11 @@ The [Paris] ground uses the thread diagram of the half twist as pair diagram.
 See also variations (defined without this Droste technique) in the Whiting index A5, A6, B5, A7-H7, G11. 
 In turn [WI F12][F12] is based on [Paris][F12-droste].
 
-Two versions to choose your own stitches. The difference is the direction of the Bias-units. Click on the picture.         
+Two versions to choose your own stitches. The difference is the direction of the Bias-units. Click on the picture of the desired type of units.         
 
 <a href="https://d-bl.github.io/GroundForge/tiles?patchWidth=10&patchHeight=10&c1=crclct&a1=clcrct&d2=ctct&droste2=c15=a16=tctctct,a15=c16=tctct,d24=d25=tctct,c12=a12=tct,d20=d21=d22=d23=ctc,c10=c11=c13=c14=ctc,a10=a11=a13=a14=ctc,,&tile=B-C-,---5&tileStitch=ctc&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2">
-<img src="https://maetempels.github.io/MAE-gf/images_wt/droste_paris_1_rcl" class="clpic"></a>
-<a href="https://d-bl.github.io/GroundForge/tiles?patchWidth=10&patchHeight=10&c1=clcrct&a1=crclct&d2=ctct&droste2=c15=a16=tctctct,a15=c16=tctct,d24=d25=tctct,c12=a12=tct,d20=d21=d22=d23=ctc,c10=c11=c13=c14=ctc,a10=a11=a13=a14=ctc&tile=B-C-,---5&tileStitch=ctc&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2"><img src="https://maetempels.github.io/MAE-gf/images_wt/droste_paris_2_lcr" class="clpic"></a>
+<img src="https://maetempels.github.io/MAE-gf/images_wt/droste_paris_1_rcl.png" class="clpic"></a>
+<a href="https://d-bl.github.io/GroundForge/tiles?patchWidth=10&patchHeight=10&c1=clcrct&a1=crclct&d2=ctct&droste2=c15=a16=tctctct,a15=c16=tctct,d24=d25=tctct,c12=a12=tct,d20=d21=d22=d23=ctc,c10=c11=c13=c14=ctc,a10=a11=a13=a14=ctc&tile=B-C-,---5&tileStitch=ctc&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2"><img src="https://maetempels.github.io/MAE-gf/images_wt/droste_paris_2_lcr.png" class="clpic"></a>
 
 
 [Paris]: https://d-bl.github.io/GroundForge/tiles?tile=-5&tileStitch=ct&droste2=ctct&patchWidth=5&patchHeight=6&shiftColsSW=-2&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=1
