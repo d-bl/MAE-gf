@@ -27,12 +27,12 @@ Lets call the horizontal rows the _bones_, the vertical lines the _spines_, and 
 Fish B,S,W means: the number of Bones, the number of Spines and the number of Waves. There are two ways of zero waves, noted with "0" and "-" respectively. See the picture at the top of this page.
 
 ## Fish examples
-* [Fish B1,S2,W-][T-12-]; [Fish B2,S1,W-][T-21-]   
-* [Fish B2,S2,W-][T-22-]; [Fish B2,S2,W0][T-220] (WI G14) ; [Fish B2,S2,W2][T-222] (WI G16)     
+* [Fish B1,S2,W-][T-12-], [Fish B2,S1,W-][T-21-]   
+* [Fish B2,S2,W-][T-22-], [Fish B2,S2,W0][T-220], [Fish B2,S2,W2][T-222]      
 * [Fish B3,S2,W2][T-322]               
-* [Fish B4,S2,W-][T-42-] (WI D16); [Fish B4,S2,W1][T-421] (WI E16); [Fish B4,S2,W2][T-422] (WI F16)      
-* [Fish B5,S2,W-][T-52-]; [Fish B5,S2,W0][T-520]   
-* [jp-double fish B2,S2,W1][TD-221]; [jp-double fish B2,S2,W3][TD-223] 
+* [Fish B4,S2,W-][T-42-], [Fish B4,S2,W1][T-421], [Fish B4,S2,W2][T-422]      
+* [Fish B5,S2,W-][T-52-], [Fish B5,S2,W0][T-520]   
+* [jp-double fish B2,S2,W1][TD-221], [jp-double fish B2,S2,W3][TD-223] 
 
 ## Braids
 * [Fish B3,S2,W2][Z322]; [Fish B3,S2,W3][Z323]
