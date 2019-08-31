@@ -25,11 +25,13 @@ The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagra
 %}
 
 ## Traditional Bias Ground
-![traditional][P-0221-tr]      
-Ground mt-0228 is a variant in cloth stitch. Ground mt-0225 shows alternate stiches in the middle.
+{% include picts-left.html
+   src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-tr.png"
+   alt="traditional"
+   description="Ground mt-0228 is a variant in cloth stitch. Ground mt-0225 shows alternate stiches in the middle."
+ %}
 * [mt-0228][T-0228-OD], [mt-0225][T-0225-L]
 
-[P-0221-tr]: https://maetempels.github.io/MAE-gf/images_wt/gf-bias-tr.png
 [T-0228-OD]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=tct&a2=tct&b2=ctc&d2=ctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=6-48,86-4
 [T-0225-L]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&d1=tctct&c1=ctc&a1=rrctc&d2=ctc&b2=rrctc&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
