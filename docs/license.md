@@ -41,7 +41,8 @@ JP = J. Pol
 MT = M. Tempels    
 UU = U. Ulrich: Gründe mit System        
 VI = V. Irvine: Developing a Mathematical Model for Bobbin Lace (paper)       
-VI = V. Irvine: Tesselace. See Groundforge Examples pages.    
+VI = V. Irvine: Tesselace. See Groundforge Examples pages   
+Whiting index: G. Whiting: A lace guide for makers and collectors
 
 ***
 
