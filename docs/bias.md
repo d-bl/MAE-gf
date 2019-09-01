@@ -78,7 +78,7 @@ The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagra
 ## Bias Ground crossed and in a diamond
 [![][p-bias-unx]][t-bias-unx]
 
-[p-bias-unx]: ./images_wt/gf-bias-x-in-sqr.png
+[p-bias-unx]: ../images_wt/gf-bias-x-in-sqr.png
 [t-bias-unx]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&b1=ctct&c1=ct&d1=ctct&e1=ct&f1=ctct&a2=ctct&b2=ct&c2=ctct&e2=ctct&f2=ct&a3=ct&b3=ctct&d3=ctct&f3=ctct&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=-21486,317-48,88-5-4
 
 ## Short Bias
