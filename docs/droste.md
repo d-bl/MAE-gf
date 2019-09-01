@@ -76,10 +76,6 @@ In turn the [_fancy Zeccattelo_][F12] is based on [Paris][F12-droste].
 
 Two versions to choose your own stitches. The difference is the direction of the Bias-units. Click on the picture of the desired type of units.         
 
-<a href="https://d-bl.github.io/GroundForge/tiles?patchWidth=10&patchHeight=10&c1=crclct&a1=clcrct&d2=ctct&droste2=c15=a16=tctctct,a15=c16=tctct,d24=d25=tctct,c12=a12=tct,d20=d21=d22=d23=ctc,c10=c11=c13=c14=ctc,a10=a11=a13=a14=ctc,,&tile=B-C-,---5&tileStitch=ctc&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2">
-<img src="https://maetempels.github.io/MAE-gf/images_wt/droste_paris_2_lcr.png" class="clpic"></a>
-<a href="https://d-bl.github.io/GroundForge/tiles?patchWidth=10&patchHeight=10&c1=clcrct&a1=crclct&d2=ctct&droste2=c15=a16=tctctct,a15=c16=tctct,d24=d25=tctct,c12=a12=tct,d20=d21=d22=d23=ctc,c10=c11=c13=c14=ctc,a10=a11=a13=a14=ctc&tile=B-C-,---5&tileStitch=ctc&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2"><img src="https://maetempels.github.io/MAE-gf/images_wt/droste_paris_1_rcl.png" class="clpic"></a>
-
 [![lcr][p-paris-lcr]][T-paris-lcr]
 [![rcl][p-paris-rcl]][T-paris-rcl]
 
