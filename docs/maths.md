@@ -1,3 +1,9 @@
+---
+layout: default
+title: mathematics
+style: not used at the moment
+---
+
 # Mathematics
 
 ## Contents
@@ -28,6 +34,5 @@ next j)<br>
 
 ***
 
-[spiders-page]: https://maetempels.github.io/MAE-gf/docs/spiders#building-spiders
-
-[to-big-sn]: https://maetempels.github.io/MAE-gf/images/gf-sn-nott.png
+[spiders-page]: ../docs/spiders#building-spiders
+[to-big-sn]: ../images/gf-sn-nott.png

@@ -1,3 +1,8 @@
+---
+layout: default
+title: miscellaneous
+---
+
 # Miscellaneous examples
 
 ## Contents
@@ -48,7 +53,7 @@ In the Tesselace index a scheme for the <i>Alternate stitch</i> can be found.<br
 However, the values for the repeat-parameter are set such that the stitches can not be chosen to generate the Alternate stitch. Adjusting the repeat-parameter does the trick, as in the following examples. You might try to see what happens if you change the repeat-parameter (works even with an odd number of collumns).
 {% endcapture %}
 {% include picts-right.html
-  src="https://maetempels.github.io/MAE-gf/images_wt/gf-oeno-11.png"
+  src="../images_wt/gf-oeno-11.png"
   alt="pic-oeno"
   description=omenom1
 %}
@@ -58,18 +63,18 @@ However, the values for the repeat-parameter are set such that the stitches can 
 
 ***
 
-[page-snow]: https://maetempels.github.io/MAE-gf/docs/snowflakes#snowflake-in-a-diamond
-[page-spid]: https://maetempels.github.io/MAE-gf/docs/spiders
-[page-tria]: https://maetempels.github.io/MAE-gf/docs/tria#pagoda-in-a-diamond
-[page-bias]: https://maetempels.github.io/MAE-gf/docs/bias#unit-bias-in-a-diamond
-[page-paris]: https://maetempels.github.io/MAE-gf/docs/paris#paris-ground-in-a-diamond
+[page-snow]: ../docs/snowflakes#snowflake-in-a-diamond
+[page-spid]: ../docs/spiders
+[page-tria]: ../docs/tria#pagoda-in-a-diamond
+[page-bias]: ../docs/bias#unit-bias-in-a-diamond
+[page-paris]: ../docs/paris#paris-ground-in-a-diamond
 
-[pic-tor-flem]: https://maetempels.github.io/MAE-gf/images_wt/gf-tor-vl.png
-[pic-0306-OIv]: https://maetempels.github.io/MAE-gf/images_wt/gf%200301%20wt.png
-[pic-oeno]: https://maetempels.github.io/MAE-gf/images_wt/gf-oeno-11.png
+[pic-tor-flem]: ../images_wt/gf-tor-vl.png
+[pic-0306-OIv]: ../images_wt/gf%200301%20wt.png
+[pic-oeno]: ../images_wt/gf-oeno-11.png
 
-[ph-0112-t]: https://maetempels.github.io/MAE-gf/photos/ph-0112-t.jpg
-[ph-0112-f]: https://maetempels.github.io/MAE-gf/photos/ph-0112-f.jpg
+[ph-0112-t]: ../photos/ph-0112-t.jpg
+[ph-0112-f]: ../photos/ph-0112-f.jpg
 
 [T-0112]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctt&c1=ctctt&e1=ctctt&f1=ctt&b2=ctctt&c2=c&d2=ctct&e2=c&f2=ctctt&a3=ctctt&c3=ctcr&e3=ctcl&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 

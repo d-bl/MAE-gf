@@ -1,3 +1,8 @@
+---
+layout: default
+title: spiders
+---
+
 # Spiders
 
 ## Contents
@@ -9,15 +14,14 @@
 * [Stacked spiders](#stacked-spiders)
      
 ## Introduction
-On this page we show examples of grounds with all spiders.           
-Some of the spiders in these examples have only one twist in their legs.
+On this page we show examples of grounds with all spiders.   
 
 ## Torchon spiders
 {% capture spin1 %}
 Please note: for a traditional Torchon spider, a stitch like <span class="stch">ctcctc</span> or <span class="stch">ctctctc</span> has to be chosen in the heart of the spider.
 {% endcapture %}
 {% include picts-left.html
-  src="https://maetempels.github.io/MAE-gf/images_wt/gf-sp-trad.png"
+  src="../images_wt/gf-sp-trad.png"
   alt="torchon spider"
   description=spin1
 %}
@@ -31,9 +35,9 @@ Please note: for a traditional Torchon spider, a stitch like <span class="stch">
 
 ### in a diamond
 {% include picts-right.html
-  src="https://maetempels.github.io/MAE-gf/images_wt/gf%20spin%204s%20wt.png"
+  src="../images_wt/gf%20spin%204s%20wt.png"
   alt="spider in diamond"
-  description="On the right, the working scheme. Larger spiders are possible, but it will take Groundforge some time to generate the pictures."
+  description="On the right, the general working scheme. Larger spiders are possible, but it will take Groundforge some time to generate the diagrams."
 %}
 
 * [4x2 legs][T-SQ2], [4x3 legs][T-SQ3], [4x4 legs][T-SQ4], [4x5 legs][T-SQ5]
@@ -48,7 +52,7 @@ Please note: for a traditional Torchon spider, a stitch like <span class="stch">
 Please note: to get a clear eye in the middle, the stitches in the eye of the spider have to be chosen like the example for the 4x3 legged spider: <span class="stch">B2=ctclctc F2=ctcrctc </span>.
 {% endcapture %}
 {% include picts-left.html
-  src="https://maetempels.github.io/MAE-gf/images_wt/gf-sp-gat.png"
+  src="../images_wt/gf-sp-gat.png"
   alt="spider with an eye"
   description=spin2
 %}
@@ -70,30 +74,29 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 Spiders with a narrow eye also can be achieved using <span class="elem">level 2</span> or <span class="elem">level 3</span> on a <a href="https://maetempels.github.io/MAE-gf/docs/fish#building-fish-with-droste">fish</a> in <span class="stch">half stitch</span>.
 {% endcapture %}
 {% include p-l-l.html
-  src="https://maetempels.github.io/MAE-gf/images_wt/wt-sn3.png"
+  src="../images_wt/wt-sn3.png"
   alt="spider with narrow eye"
   description=spin9
   lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctc&b1=ctc&d1=ctc&e1=ctc&f1=ctc&a2=ctc&e2=ctc&a3=ctc&b3=ctc&d3=ctc&e3=ctc&f3=ctc&a4=ctcrr&c4=ttctc&e4=ctcll&b5=ctc&d5=ctc&f5=ctctt&tile=86-215,4---7-,1C-B83,7-5-4-,-5-5-5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=5"
 %} 
 
 ### in a diamond
-{% include p-l-l.html
-  src="https://maetempels.github.io/MAE-gf/images_wt/wt-snq3.png"
-  alt="spider with narrow eye, diamond"
-  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&c1=ctct&f1=ctc&h1=ctc&a2=ctc&b2=lctct&c2=ctc&d2=rctct&e2=ctc&f2=ctc&g2=ctc&h2=ctc&a3=lctct&b3=ctc&d3=ctc&e3=rctct&f3=ctc&h3=ctc&a4=ctc&b4=ctc&c4=ctc&d4=ctc&e4=ctc&f4=rctct&g4=ctc&h4=lctct&tile=--5--7-4,C632B831,66-224-7,31583256&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4"
-%}
+[![spider with narrow eye, diamond][p-snq3]][t-snq3]
+
+[p-snq3]: ../images_wt/wt-snq3.png
+[t-snq3]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&c1=ctct&f1=ctc&h1=ctc&a2=ctc&b2=lctct&c2=ctc&d2=rctct&e2=ctc&f2=ctc&g2=ctc&h2=ctc&a3=lctct&b3=ctc&d3=ctc&e3=rctct&f3=ctc&h3=ctc&a4=ctc&b4=ctc&c4=ctc&d4=ctc&e4=ctc&f4=rctct&g4=ctc&h4=lctct&tile=--5--7-4,C632B831,66-224-7,31583256&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Binche spiders 
 See also page [_Snowflakes_][snow-page].      
 
-[snow-page]: https://maetempels.github.io/MAE-gf/docs/snowflakes
+[snow-page]: ../docs/snowflakes
 
 ### "Bolletje"  
 {% capture bolletje %}
 There are many ways of making a binche spider. Below are given some examples.
 {% endcapture %}
 {% include picts-left.html
-  src="https://maetempels.github.io/MAE-gf/images_wt/gf-bi-boll.png"
+  src="../images_wt/gf-bi-boll.png"
   alt="binche spider"
   description=bolletje
 %}        
@@ -104,11 +107,10 @@ There are many ways of making a binche spider. Below are given some examples.
 [T-SP-BB3]: https://d-bl.github.io/GroundForge/tiles?patchWidth=21&patchHeight=14&i1=ctctt&h1=ctc&f1=ctc&e1=ctc&d1=ctc&b1=ctc&a1=ctctt&g2=ctc&i3=ctctt&h3=ctcrr&f3=ctc&e3=ctc&d3=ctc&b3=ctcll&a3=ctctt&n4=ctctt&l4=ctctt&j4=ctctt&h4=ctctt&f4=ctt&d4=ctcll&c4=ctcll&b4=ctctt&g5=ctctt&c5=ctctt&n6=ctctt&j6=ctctt&m7=c&k7=ctc&j7=ctc&i7=ctctt&g7=ctctt&e7=ctctt&c7=ctctt&a7=ctctt&tile=56-o98-j5-----,------5-------,ag-aae-cd-----,-256-m-l-o-k-e,--5---5---y-w-,---w-y---b---c,h-g-5-n-l3h-e-,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-7&shiftRowsSW=7&shiftColsSE=7&shiftRowsSE=7
 
 ### Traditional spider, on a Binche pricking  
-{% include p-l-l.html
-  src="https://maetempels.github.io/MAE-gf/images_wt/gf-bi-spin.png"
-  alt="binche small spider"
-  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctcctc&e1=ctctttctc&b2=ctc&c2=ctcrrr&d2=ctc&e2=ctc&f2=ctc&g2=ctclll&h2=ctc&a3=ctc&b3=ctcrrr&c3=ctc&d3=ctc&f3=ctc&g3=ctc&h3=ctclll&tile=5---5---,-CD632AB,5666-222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3"
-%} 
+[![binche small spider][p-bi-spin]][t-bi-spin]
+
+[p-bi-spin]: ../images_wt/gf-bi-spin.png
+[t-bi-spin]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctcctc&e1=ctctttctc&b2=ctc&c2=ctcrrr&d2=ctc&e2=ctc&f2=ctc&g2=ctclll&h2=ctc&a3=ctc&b3=ctcrrr&c3=ctc&d3=ctc&f3=ctc&g3=ctc&h3=ctclll&tile=5---5---,-CD632AB,5666-222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
 
 ## Stacked spiders
 [Another][T-SA1] ground can be obtained playing with the <span class="elem">arrange the repeat</span> parameters.

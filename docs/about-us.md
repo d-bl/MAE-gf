@@ -1,6 +1,7 @@
 ---
 layout: default
 contact: true
+title: about us
 ---
 # About us &amp; Contact
 ## Contents
@@ -9,7 +10,7 @@ contact: true
 * [Write us](#write-us)
 
 ## M.A.E. Tempels
-{% include picts-centr.html alt="tulip Mondrian style" src="https://maetempels.github.io/MAE-gf/photos/IMG_0997c.jpg" %}
+{% include picts-centr.html alt="tulip Mondrian style" src="../photos/IMG_0997c.jpg" %}
 
 Living in the Netherlands.        
 
@@ -46,4 +47,3 @@ If you have suggestions, questions, want to share your own finds, or other remar
 
 ***
 
-[tulp]: https://maetempels.github.io/MAE-gf/photos/IMG_0997c.jpg
