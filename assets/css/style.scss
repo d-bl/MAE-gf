@@ -19,7 +19,7 @@
 figure { display: block; margin:0; }
 
 /* border */
-.clpic {border-style: solid; border-width: 1px; border-color: LightBlue;} 
+.clpic, a img {border-style: solid; border-width: 1px; border-color: LightBlue;}
 
 /* floating pictures */
 .break { clear: both; }

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Bias Grounds
+style: /MAE-gf/docs/bias.css
+---
+
 # Bias Grounds
 
 ## Contents
@@ -15,14 +21,9 @@
 
 
 ## Introduction
-{% capture bias1 %}
+![biasground](../images_wt/gf-0221-wt.png)
 The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagram on the right. On this page we show different grounds based on this diagonal.</p><p>Other nice grounds can be obtained by using one unit only.
-{% endcapture %}
-{% include picts-right.html
-  src="https://maetempels.github.io/MAE-gf/images_wt/gf%200221%20wt.png"
-  alt="biasground"
-  description=bias1
-%}
+<p style="clear: both"></p>
 
 ## Traditional Bias Ground
 {% include picts-left.html
@@ -45,11 +46,7 @@ The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagra
 [T-0278-KG]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=c&a2=c&b2=ctct&c2=c&d2=tctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=8-48,8314
 
 ## Bias Ground crossed differently
-{% include p-l-l.html
-  src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-aa.png"
-  alt="crossed diff"
-  lnk="https://d-bl.github.io/GroundForge/tiles?whiting=E6_P160&patchWidth=12&patchHeight=12&a1=ct&b1=ctct&c1=ct&d1=ctct&f1=ctct&g1=ct&h1=ctct&a2=ctct&c2=ctct&d2=ct&e2=ctct&f2=ct&g2=ctct&h2=ct&a3=ct&b3=ctct&c3=ct&d3=ctct&e3=ct&f3=ctct&h3=ctct&a4=ctct&b4=ct&c4=ctct&e4=ctct&f4=ct&g4=ctct&h4=ct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=1488-483,8-483148,831488-4,488-4831"
-%}  
+[![crossed diff](../images_wt/gf-bias-aa.png)](https://d-bl.github.io/GroundForge/tiles?whiting=E6_P160&patchWidth=12&patchHeight=12&a1=ct&b1=ctct&c1=ct&d1=ctct&f1=ctct&g1=ct&h1=ctct&a2=ctct&c2=ctct&d2=ct&e2=ctct&f2=ct&g2=ctct&h2=ct&a3=ct&b3=ctct&c3=ct&d3=ctct&e3=ct&f3=ctct&h3=ctct&a4=ctct&b4=ct&c4=ctct&e4=ctct&f4=ct&g4=ctct&h4=ct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=1488-483,8-483148,831488-4,488-4831)
 
 ## Bias Ground with a diagonal in between
 {% include p-l-x.html
@@ -64,25 +61,13 @@ The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagra
 %}  
    
 ## Bias Ground crossed and a diagonal in between   
-{% include p-l-l.html
-  src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-av.png"
-  alt="row and crossed"
-  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&e1=ctct&f1=ct&a2=ctct&b2=ctct&c2=ctct&d2=ctct&e2=ctct&f2=ctct&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-4&shiftRowsSW=2&tile=8-7-48,831214"
-%}
+[![row and crossed](../images_wt/gf-bias-av.png)](https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&e1=ctct&f1=ct&a2=ctct&b2=ctct&c2=ctct&d2=ctct&e2=ctct&f2=ctct&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-4&shiftRowsSW=2&tile=8-7-48,831214)
 
 ## Unit bias in a diamond
-{% include p-l-l.html
-  src="https://maetempels.github.io/MAE-gf/images_wt/gf-sh-bias-in-sqr.png"
-  alt="short bias in diamond"
-  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&b1=ctct&d1=ctct&f1=ctct&a2=ctc&c2=ctct&e2=ctct&a3=ctc&b3=ctcr&d3=ctct&f3=ctcl&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=-5-4-5,5-5-5-,86-5-5"
-%}
+[![short bias in diamond](../images_wt/gf-sh-bias-in-sqr.png)](https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&b1=ctct&d1=ctct&f1=ctct&a2=ctc&c2=ctct&e2=ctct&a3=ctc&b3=ctcr&d3=ctct&f3=ctcl&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=-5-4-5,5-5-5-,86-5-5)
 
 ## Bias Ground crossed and in a diamond
-{% include p-l-l.html
-  src="https://maetempels.github.io/MAE-gf/images_wt/gf-bias-x-in-sqr.png"
-  alt="bias crossed and diamond"
-  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&b1=ctct&c1=ct&d1=ctct&e1=ct&f1=ctct&a2=ctct&b2=ct&c2=ctct&e2=ctct&f2=ct&a3=ct&b3=ctct&d3=ctct&f3=ctct&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=-21486,317-48,88-5-4"
-%}
+[![bias crossed and diamond](../images_wt/gf-bias-x-in-sqr.png)](https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&b1=ctct&c1=ct&d1=ctct&e1=ct&f1=ctct&a2=ctct&b2=ct&c2=ctct&e2=ctct&f2=ct&a3=ct&b3=ctct&d3=ctct&f3=ctct&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=-21486,317-48,88-5-4)
 
 ## Short Bias
 ### Solo
@@ -100,12 +85,8 @@ Take just one unit of the Bias ground and place them all in the same direction (
 
 ### Crossed
 Take one unit of the Bias ground, place them in alternating directions, and cross at the corners.   
-{% include p-l-l.html
-  src="https://maetempels.github.io/MAE-gf/images_wt/02YQ2.png"
-  alt="alternating and cross"
-  description="(mt-0248)"
-  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&b1=ctc&a1=tct&d2=c&c2=ctc&b2=c&a2=ctc&d3=ctc&c3=tct&b3=ctc&d4=c&c4=ctc&b4=c&a4=ctc&tile=88-4,4831,-117,3178,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4"
-%}
+[![alternating and cross](../images_wt/02YQ2.png)](https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&b1=ctc&a1=tct&d2=c&c2=ctc&b2=c&a2=ctc&d3=ctc&c3=tct&b3=ctc&d4=c&c4=ctc&b4=c&a4=ctc&tile=88-4,4831,-117,3178,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4)
+
 
 ***
 
