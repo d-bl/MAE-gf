@@ -6,7 +6,7 @@
 * [Lotus examples](#lotus-examples)
 
 ## Introduction
-<img alt="lotus pair dia" align="right" src="https://maetempels.github.io/MAE-gf/images_wt/gf%20lotus%20wt.png">
+<img alt="lotus pair dia" align="right" src="../images_wt/gf%20lotus%20wt.png">
 Lotus grounds are usualy used in small braids, 14-18 pairs.     
 Please note: if a lotus has an odd number of horizontal, like H3, the weavers change direction at the next set of lotus. This is not shown in the matrices used for the examples.
 
@@ -23,9 +23,9 @@ Lotus H,V,X means: the number of Horizontal rows, the number of Verticals and th
 
 ***
 
-[fish-page]: https://maetempels.github.io/MAE-gf/docs/fish#fish-building
-[lotus_wt]: https://maetempels.github.io/MAE-gf/images_wt/gf%20lotus%20wt.png
-[lotus_gen]: https://maetempels.github.io/MAE-gf/images_wt/mx-lotus.png
+[fish-page]: ../docs/fish#fish-building
+[lotus_wt]: ../images_wt/gf%20lotus%20wt.png
+[lotus_gen]: ../images_wt/mx-lotus.png
 
 [T-22-]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&a2=ctcll&b2=ctc&a3=ctcrr&b3=ctc&tile=7-,12,88&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=2&shiftRowsSE=3
 
