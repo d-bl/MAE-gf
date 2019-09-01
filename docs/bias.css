@@ -1,4 +1,4 @@
-img[src="/MAE-gf/images_wt/gf-0221-wt.png"] {
+img[src$="align=right"] {
   float: right;
   margin-left:1em
 }
