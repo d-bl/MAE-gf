@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
     <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
     {% if page.style %}
-    <script src="{{ page.style }}"></script>
+       <link rel="stylesheet" href="{{ page.style }}">
     {% endif %}
     {% if page.contact %}
     <script>
