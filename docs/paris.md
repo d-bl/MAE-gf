@@ -18,7 +18,7 @@ The examples on this page came to life as variations on a rose-ground with "do n
 The photo shows the example on the bottom of this page, but slighty adapted to get the colours right.
 {% endcapture %}
 {% include picts-right.html
-  src="../MAE-gf/photos/0434.png"
+  src="../photos/0434.png"
   alt="photo mt-0434"
   description=paris1
 %}
