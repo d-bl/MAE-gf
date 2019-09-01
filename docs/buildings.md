@@ -1,4 +1,8 @@
-Op deze pagina de "building" stukken.
+---
+layout: default
+title: buildings
+status: not used 
+---
 
 ## Fish building.
 The general fish scheme looks like the schemes in the picture. Of course, other scheme's are possible. Please note that an even or odd number of "waves" dictate if a <span class="elem">brick-matrix</span> is possible.      
@@ -30,14 +34,14 @@ The coloured dots indicate what goes where when translating the working scheme i
 ![building pagoda's][build pagoda]
 
 {% include picts-left.html
-  src="https://maetempels.github.io/MAE-gf/images/gf-pg-uni2.png"
+  src="../images/gf-pg-uni2.png"
   alt="alternative unit"
   description="The unit on the left looks more like the working-scheme. It works nice as a building block for the traditional pagoda, however, the matrix-scheme's for the other pagoda examples are harder to achieve."
 %}
 
-[fish-gen]: https://maetempels.github.io/MAE-gf/images_wt/mx-fish.png
-[fish-build]: https://maetempels.github.io/MAE-gf/images_wt/mx-fish-bld.png
-[lotus_gen]: https://maetempels.github.io/MAE-gf/images_wt/mx-lotus.png
-[pic-gen]: https://maetempels.github.io/MAE-gf/images/gf%20spin%20gen.png
-[pic-gon]: https://maetempels.github.io/MAE-gf/images/gf%20spon%20gn.png
-[build pagoda]: https://maetempels.github.io/MAE-gf/images/gf%20build%20pagoda.png
+[fish-gen]: ../images_wt/mx-fish.png
+[fish-build]: ../images_wt/mx-fish-bld.png
+[lotus_gen]: ../images_wt/mx-lotus.png
+[pic-gen]: ../images/gf%20spin%20gen.png
+[pic-gon]: ../images/gf%20spon%20gn.png
+[build pagoda]: ../images/gf%20build%20pagoda.png
