@@ -51,10 +51,11 @@ The specified twitst in some stitch definitions may not be according to the expe
 [ex-sun]: ../docs/marian#sunny-stitch
 
 ## Diagrams
-[![mt-0306][p-0306]][t-0306]
-
-[p-0306]: ../images/gf%20picts.png
-[t-0306]: https://d-bl.github.io/GroundForge/tiles?patchWidth=24&patchHeight=24&c1=c&e1=c&b2=c&d2=tctc&f2=c&h2=ctct&a3=cr&g3=cl&h4=tct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=--B-C---,-E-5-O-K,5-----5-,-------5
+{% include p-l-c.html
+     alt="mt-0306"
+     src="https://maetempels.github.io/MAE-gf/images/gf%20picts.png"
+     lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=24&patchHeight=24&c1=c&e1=c&b2=c&d2=tctc&f2=c&h2=ctct&a3=cr&g3=cl&h4=tct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=--B-C---,-E-5-O-K,5-----5-,-------5"
+%}   
 
 On these pages several types of diagrams are used, as illustrated in the picture. On the left is a drawing of a _pair-diagram_ or _working-scheme_. Pins, pinpositions and colourcode are given as needed for the actual lace. In the middle the ground is drawn schematic, to given an impression. Pins and colourcode may or may not be drawn. The pinpositions are drawn as required for the actual lace. On the right the _prototype_ or _matrix-scheme_ that Groundforge understands. On these pages the name _scheme_ or _diagram_ will be used for all types of the drawings.                     
 Several grounds have more than one working prototype, as is explained in de Groundforge-userguide.    
