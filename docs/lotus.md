@@ -23,7 +23,6 @@ Lotus H,V,X means: the number of Horizontal rows, the number of Verticals and th
 
 ***
 
-[fish-page]: ../docs/fish#fish-building
 [lotus_wt]: ../images_wt/gf%20lotus%20wt.png
 [lotus_gen]: ../images_wt/mx-lotus.png
 
