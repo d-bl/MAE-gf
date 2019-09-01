@@ -21,7 +21,9 @@ style: /MAE-gf/docs/bias.css
 
 ## Introduction
 ![biasground](../images_wt/gf-0221-wt.png)
-The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagram on the right. On this page we show different grounds based on this diagonal.</p><p>Other nice grounds can be obtained by using one unit only.
+The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagram on the right. On this page we show different grounds based on this diagonal.
+
+Other nice grounds can be obtained by using one unit only.
 <p style="clear: both"></p>
 
 ## Traditional Bias Ground
