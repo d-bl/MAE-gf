@@ -1,3 +1,8 @@
+---
+layout: default
+title: lotus
+---
+
 # Milanese Lotus
 
 ## Contents
