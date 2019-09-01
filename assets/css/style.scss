@@ -21,6 +21,11 @@ figure { display: block; margin:0; }
 /* border */
 .clpic, a img {border-style: solid; border-width: 1px; border-color: LightBlue;}
 
+img[src$="align=right"] {
+  float: right;
+  margin-left:1em
+}
+
 /* floating pictures */
 .break { clear: both; }
 

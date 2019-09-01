@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Bias Grounds
-style: /MAE-gf/docs/bias.css
 ---
 
 # Bias Grounds
