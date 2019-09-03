@@ -54,6 +54,8 @@ The units of the rose-ground are placed in different directions, indicated with 
 These units can be replaced with units of a bias ground.
 The green numbers and arrows indicate the working order inherited from the first pair diagram.
 
+<p style="clear: both"></p>
+
 [p-wobble-0]: ../images/wobble.png?align=right
 [p-wobble-2]: ../images/wobble2.png?align=left
 
