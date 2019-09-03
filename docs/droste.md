@@ -42,19 +42,20 @@ Please note the resemblance of the 3-step fish with the [narrow eyed spider][ne-
 ## Wobble
 
 ### Pricking
-<img src="../images/wobble.png" style="float: right; margin-left:1em"/>
-
-![](../images/wobble2.png)
-
+![][p-wobble-2]
 The left pricking is generated with one of the "ground from template" 
 [tools](https://d-bl.github.io/inkscape-bobbinlace/Ground-from-Template)
 and a plain text file (<a href="../data/wobble.txt" download>download</a>).
 The changing angle of the rose ground units inspired the name.
 
+![][p-wobble-0]
 On the right a distorted version that matches a Torchon grid. 
 The units of the rose-ground are placed in different directions, indicated with blue arrows.
 These units can be replaced with units of a bias ground.
 The green numbers and arrows indicate the working order inherited from the first pair diagram.
+
+[p-wobble-0]: ../images/wobble.png?align=right
+[p-wobble-2]: ../images/wobble2.png?align=left
 
 ### Generate diagrams (color coded / threads)
 
