@@ -5,11 +5,11 @@ title: test
 purpose: test only
 ---
 
-![biasground](../images_wt/gf-0221-wt.png?align=right)
+![biasground][p-0221]
 The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagram on the right. On this page we show different grounds based on this diagonal.
 <p style="clear: both"></p>
 
-Je moet dus die Clear neerzetten als je het volgende plaatje op een nieuwe regel wilt. Als je dat niet wilt, dan kun je ze laten overlopen.
+Je moet dus die Clear neerzetten als je het volgende plaatje op een nieuwe regel wilt. Als je dat niet wilt, dan kun je ze laten overlopen. Dus.
 
 ![alt][b]
 En nu hier wat tekst omheen zetten met een align =left. The quick brown fox jumps over the lazy dog.
