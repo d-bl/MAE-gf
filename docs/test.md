@@ -12,7 +12,7 @@ Other nice grounds can be obtained by using one unit only.
 
 Bla bla bla
 
-![biasground][p-0221?align=right]
+![biasground][p-0221](?align=right)
 The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagram on the right. On this page we show different grounds based on this diagonal.
 
 Other nice grounds can be obtained by using one unit only.
