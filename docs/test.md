@@ -8,22 +8,14 @@ purpose: test only
 ![biasground](../images_wt/gf-0221-wt.png?align=right)
 The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagram on the right. On this page we show different grounds based on this diagonal.
 
-Other nice grounds can be obtained by using one unit only.
-
-Bla bla bla. dfkwpmef pmvwpvk wepwqpv ,erpkfwepvmdvwp wel;,vwelv pwwlv,;,w oewmfpw m
-
-
 ![alt][b]
 En nu hier wat tekst omheen zetten met een align =left. The quick brown fox jumps over the lazy dog.
 <p style="clear: both"></p>
 
 [![biasground][p-0221]][c]
 The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagram on the right. On this page we show different grounds based on this diagonal.
-
 Other nice grounds can be obtained by using one unit only.
-
 die bla bla
-
 <p style="clear: both"></p>
 
 [![bigger][b]][c]
