@@ -19,14 +19,11 @@ title: Bias Grounds
 ** [Crossed](#crossed)
 
 ## Introduction
-{% capture bias1 %}
-The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagram on the right. On this page we show different grounds based on this diagonal.</p><p>Other nice grounds can be obtained by using one unit only.
-{% endcapture %}
-{% include picts-right.html
-  src="../images_wt/gf%200221%20wt.png"
-  alt="biasground"
-  description=bias1
-%}
+![biasground](../images_wt/gf-0221-wt.png?align=right)
+The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagram on the right. On this page we show different grounds based on this diagonal.
+
+Other nice grounds can be obtained by using one unit only.
+<p style="clear: both"></p>
 
 ## Traditional Bias Ground
 {% include picts-left.html

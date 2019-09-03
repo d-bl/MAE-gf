@@ -21,6 +21,13 @@ figure { display: block; margin:0; }
 /* border */
 .clpic, a img {border-style: solid; border-width: 1px; border-color: LightBlue;}
 
+/* Abusing extended URLs:
+ * query arguments can play the role of classes in HTML that are not available in MarkDown.
+ * Be careful with the this "ends with" condition:
+ * "?abc=right-hand" would also match: [src~="c=right"]
+ */
+img[src$="align=right"] { float: right; margin-left:1em }
+
 /* floating pictures */
 .break { clear: both; }
 
