@@ -17,9 +17,9 @@ The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagra
 
 Other nice grounds can be obtained by using one unit only.
 
-Bla bla bla
+die bla bla
 
-[p-0221]: ../images_wt/gf-0221-wt.png
+[p-0221]: ../images_wt/gf-0221-wt.png?align=right
 
 
 
