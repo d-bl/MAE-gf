@@ -19,10 +19,12 @@ En nu hier wat tekst omheen zetten met een align =left. The quick brown fox jump
 The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagram on the right. On this page we show different grounds based on this diagonal.
 Other nice grounds can be obtained by using one unit only.
 die bla bla
-<p style="clear: both"></p>
 
 [![bigger][b]][c]
 En dan kan je hier dus ook nog tekst naast zetten.
+<p style="clear: both"></p>
+
+** en dan hier weer verder
 
 [p-0221]: ../images_wt/gf-0221-wt.png?align=right
 [b]: ../images_wt/big-rose.png?align=left
