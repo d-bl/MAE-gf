@@ -27,6 +27,7 @@ figure { display: block; margin:0; }
  * "?abc=right-hand" would also match: [src~="c=right"]
  */
 img[src$="align=right"] { float: right; margin-left:1em }
+img[src$="align=left"] { float: left; margin-right:1em }
 
 /* floating pictures */
 .break { clear: both; }
