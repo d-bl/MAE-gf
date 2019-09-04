@@ -80,8 +80,8 @@ In turn the [_fancy Zeccattelo_][F12] is based on [Paris][F12-droste].
 The picture on the right shows the general scheme. The stitches of the Paris ground are replaced with "blocks". In the picture, one block is indicated with a blue cirkel. The pictures below replace this block with the block shown on the picture.
 <p style="clear: both"></p>
 
-[![ctc][p-paris-ctc]][T-paris-ctc]  
-[![lcr][p-paris-lcr]][T-paris-lcr]  
+[![ctc][p-paris-ctc]][T-paris-ctc]  a 
+[![lcr][p-paris-lcr]][T-paris-lcr]  b 
 [![rcl][p-paris-rcl]][T-paris-rcl]  
 <p style="clear: both"></p>
 
