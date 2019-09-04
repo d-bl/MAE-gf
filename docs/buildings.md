@@ -33,11 +33,9 @@ Bigger pagoda's can be build much in the same way as building bigger fish.
 The coloured dots indicate what goes where when translating the working scheme into a matrix. The black lines indicate one unit, the grey lines show where the other units connect.         
 ![building pagoda's][build pagoda]
 
-{% include picts-left.html
-  src="../images/gf-pg-uni2.png"
-  alt="alternative unit"
-  description="The unit on the left looks more like the working-scheme. It works nice as a building block for the traditional pagoda, however, the matrix-scheme's for the other pagoda examples are harder to achieve."
-%}
+![alternative unit][pic-uni2]
+The unit on the left looks more like the working-scheme. It works nice as a building block for the traditional pagoda, however, the matrix-scheme's for the other pagoda examples are harder to achieve.
+<p style="clear: both"></p>
 
 [fish-gen]: ../images_wt/mx-fish.png
 [fish-build]: ../images_wt/mx-fish-bld.png
@@ -45,3 +43,4 @@ The coloured dots indicate what goes where when translating the working scheme i
 [pic-gen]: ../images/gf%20spin%20gen.png
 [pic-gon]: ../images/gf%20spon%20gn.png
 [build pagoda]: ../images/gf%20build%20pagoda.png
+[pic-uni2]: ../images/gf-pg-uni2.png?align=left
