@@ -80,14 +80,15 @@ In turn the [_fancy Zeccattelo_][F12] is based on [Paris][F12-droste].
 The picture on the right shows the general scheme. The stitches of the Paris ground are replaced with "blocks". In the picture, one block is indicated with a blue cirkel. The pictures below replace this block with the block shown on the picture.
 <p style="clear: both"></p>
 
-[![ctc][p-paris-ctc]][T-paris-ctc]   
-[![lcr][p-paris-lcr]][T-paris-lcr]   
-[![rcl][p-paris-rcl]][T-paris-rcl]   
+[![ctc][p-paris-ctc]][T-paris-ctc]  
+[![lcr][p-paris-lcr]][T-paris-lcr]  
+[![rcl][p-paris-rcl]][T-paris-rcl]  
+<p style="clear: both"></p>
 
 [p-paris-droste]: ../images_wt/paris_droste_0.png?align=right
-[p-paris-lcr]: ../images_stitches/bias-ltr.png
-[p-paris-rcl]: ../images_stitches/bias-rtl.png
-[p-paris-ctc]: ../images_stitches/rose.png
+[p-paris-lcr]: ../images_stitches/bias-ltr.png?align=left
+[p-paris-rcl]: ../images_stitches/bias-rtl.png?align=left
+[p-paris-ctc]: ../images_stitches/rose.pn?align=left
 
 [Paris]: https://d-bl.github.io/GroundForge/tiles?tile=-5&tileStitch=ct&droste2=ctct&patchWidth=5&patchHeight=6&shiftColsSW=-2&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=1
 [F12]: https://d-bl.github.io/GroundForge/tiles?whiting=F12_P190&patchWidth=10&patchHeight=10&f1=ctc&d1=tctct&b1=ctc&g2=ctctctc&e2=tctct&c2=tctct&a2=ctctctc&f3=ctc&d3=tctct&b3=ctc&g4=ctcrrctc&f4=ctc&e4=ctcllctc&c4=ctcrrctc&b4=ctc&a4=ctcllctc&tile=-4-5-7--,b-5-5-c-,-5-5-5--,a15-58d-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
