@@ -48,18 +48,12 @@ See page [_Bias grounds_][page-bias].
 See page [_Paris grounds_][page-paris].
 
 ## Alternate stitch ground
-{% capture omenom1 %}
+![pic-oeno][pic-oeno]
 In the Tesselace index a scheme for the <i>Alternate stitch</i> can be found.<br> 
-However, the values for the repeat-parameter are set such that the stitches can not be chosen to generate the Alternate stitch. Adjusting the repeat-parameter does the trick, as in the following examples. You might try to see what happens if you change the repeat-parameter (works even with an odd number of collumns).
-{% endcapture %}
-{% include picts-right.html
-  src="../images_wt/gf-oeno-11.png"
-  alt="pic-oeno"
-  description=omenom1
-%}
-
+However, the values for the repeat-parameter are set such that the stitches can not be chosen to generate the Alternate stitch. Adjusting the repeat-parameter does the trick, as in the following examples. You might try to see what happens if you change the repeat-parameter (works even with an odd number of collumns).    
+         
 * [o&amp;o 11][T-OO-11], [o&amp;o 12][T-OO-12], [o&amp;o 12a][T-OO-12a]
-
+<p style="clear: both"></p>
 
 ***
 
@@ -71,7 +65,7 @@ However, the values for the repeat-parameter are set such that the stitches can 
 
 [pic-tor-flem]: ../images_wt/gf-tor-vl.png
 [pic-0306-OIv]: ../images_wt/gf%200301%20wt.png
-[pic-oeno]: ../images_wt/gf-oeno-11.png
+[pic-oeno]: ../images_wt/gf-oeno-11.png?align=right
 
 [ph-0112-t]: ../photos/ph-0112-t.jpg
 [ph-0112-f]: ../photos/ph-0112-f.jpg
