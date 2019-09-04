@@ -26,13 +26,13 @@ Other nice grounds can be obtained by using one unit only.
 <p style="clear: both"></p>
 
 ## Traditional Bias Ground
-{% include picts-left.html
-   src="../images_wt/gf-bias-tr.png"
-   alt="traditional"
-   description="Ground mt-0228 is a variant in cloth stitch. Ground mt-0225 shows alternate stiches in the middle."
- %}
+![traditional][p-0221]
+Ground mt-0228 is a variant in cloth stitch. Ground mt-0225 shows alternate stitches in the middle.
+<p style="clear: both"></p>
+
 * [mt-0228][T-0228-OD], [mt-0225][T-0225-L]
 
+[p-0221-tr]: ../images_wt/gf-bias-tr.png?align=left
 [T-0228-OD]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=tct&a2=tct&b2=ctc&d2=ctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=6-48,86-4
 [T-0225-L]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&d1=tctct&c1=ctc&a1=rrctc&d2=ctc&b2=rrctc&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
@@ -93,13 +93,15 @@ Take just one unit of the Bias ground and place them all in the same direction (
 [T-0267-OGy]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctcr&d1=ctct&a2=ctct&c2=ctcl&b3=ctcl&c3=ctc&d3=ctct&a4=ctcr&c4=ctct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=0&shiftRowsSW=4&tile=15-2,7-5-,-586,5-4-
 
 ### Crossed
-Take one unit of the Bias ground, place them in alternating directions, and cross at the corners.   
-{% include p-l-l.html
-  src="../images_wt/02YQ2.png"
-  alt="alternating and cross"
-  description="(mt-0248)"
-  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&b1=ctc&a1=tct&d2=c&c2=ctc&b2=c&a2=ctc&d3=ctc&c3=tct&b3=ctc&d4=c&c4=ctc&b4=c&a4=ctc&tile=88-4,4831,-117,3178,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4"
-%}
+Take one unit of the Bias ground, place them in alternating directions, and cross at the corners.    
+
+[![alternating and cross][p-0248]][t-0248]
+
+(mt-0248)
+<p style="clear: both"></p>
+
+[p-0248]: ../images_wt/02YQ2.png?align=left
+[t-0248]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&b1=ctc&a1=tct&d2=c&c2=ctc&b2=c&a2=ctc&d3=ctc&c3=tct&b3=ctc&d4=c&c4=ctc&b4=c&a4=ctc&tile=88-4,4831,-117,3178,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ***
 
