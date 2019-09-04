@@ -26,33 +26,31 @@ The colour grey in the working diagrams indicates <span class="stch">cross only<
 You can also find some of my finds on other pages, all prefixed with "mt-" or "mt_".
 
 ## Fusion
-{% include picts-right.html
-  src="https://maetempels.github.io/MAE-gf/images_wt/gf-fusion.png"
-  alt="pic fusion"
-  description="The traditional units separated with plaits. Ground mt-0116 uses the rose-ground unit; mt-0342 the snowflake-unit;  mt-0278 the bias-unit. Please note: the plaits should stay plaits."
-%}
+![fusion][p-fusion]
+The traditional units separated with plaits. Ground mt-0116 uses the rose-ground unit; mt-0342 the snowflake-unit;  mt-0278 the bias-unit. Please note: the plaits should stay plaits.       
+                 
 * [mt-0116][T-0116], [mt-0342][T-0342], [mt-0278][T-0278]
+<p style="clear: both"></p>
 
-{% include picts-right.html
-  src="../images_wt/gf-wt-0342-KF.png"
-  alt="pic 0342"
-  description="Ground mt-0342 is meant to be made with pins at the sides of the snowflake-unit, as shown in the picture. The ground came into being as a half stitch spider, but forgetting the twists at the corners. The unit resembles [UU 3054], which has no side pins, and does not cross at the corners."
-%}  
+![0342][p-0342]
+Ground mt-0342 is meant to be made with pins at the sides of the snowflake-unit, as shown in the picture. The ground came into being as a half stitch spider, but forgetting the twists at the corners. The unit resembles [UU 3054], which has no side pins, and does not cross at the corners.
+<p style="clear: both"></p>
+
+[p-fusion]: ../images_wt/gf-fusion.png?align=right
+[p-0342]: ../images_wt/gf-wt-0342-KF.png?align=right
 
 [T-0116]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctctc&b1=ctctctctc&c1=ctctc&d1=ctctctctc&b2=ctc&d2=ctc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0342]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&c1=cr&e1=cl&b2=ctctctctc&d2=c&f2=ctctctctc&h2=ct&a3=ct&g3=ct&h4=ctct&tile=--B-C---,-E-5-O-K,5-----5-,-------5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [T-0278]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctc&c1=ctc&d1=c&a2=ctctctctc&b2=ctct&c2=ctctctctc&d2=tctc&tile=8-48,8314&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ## Sunny stitch
-{% capture maet1 %}
-This stitch I created because I wished to see a little loop at the sides of the rose ground. To obtain this, I used a very onorthodox stitch at the sides of the unit. Ground mt-0902-l connects the sunny's with clothstiches; mt-0902-f connects the same unit with plaits as in "fusion"; mt-0902-q is the same unit, in a diamond.
-{% endcapture %}
-{% include picts-right.html
-  src="../images_wt/gf-0902-wt.png"
-  alt="Sunny stitch"
-  description=maet1
-%}
+![sunny stitch][p-sunny]
+This stitch I created because I wished to see a little loop at the sides of the rose ground. To obtain this, I used a very onorthodox stitch at the sides of the unit. Ground mt-0902-l connects the sunny's with clothstiches; mt-0902-f connects the same unit with plaits as in "fusion"; mt-0902-q is the same unit, in a diamond.         
+             
 * [mt-0902-l][T-0902-l], [mt-0902-f][T-0902-f], [mt-0902-q][T-0902-q]
+<p style="clear: both"></p>
+
+[p-sunny]: ../images_wt/gf-0902-wt.png?align=right
 
 [T-0902-l]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&c1=ctctc&b1=ctc&a1=ctctc&d2=clcrrclc&b2=crcllcrc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0902-f]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctctc&b1=ctctctctc&c1=ctctc&d1=ctctctctc&b2=crcllcrc&d2=clcrrclc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -84,13 +82,12 @@ The following patterns I created one quarter turned, so you had to work "upwards
 
 ## Bias and Paris ground
 As the pattern above, this pattern also was created one quarter turned.
+[![bias and paris][p-2111]][t-2111]
+(mt-2111)
+<p style="clear: both"></p>
 
-{% include p-l-l.html
-  src="https://maetempels.github.io/MAE-gf/images_wt/gf-mine1.png"
-  alt="bias and paris"
-  description="(mt-2111)"
-  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&b1=ctct&d1=ctct&a2=ctct&b2=ct&c2=ctct&d2=ct&e2=ctct&a3=ct&b3=ctct&d3=ctct&e3=ct&f3=ctct&tile=-7-4--,B831C-,66-225&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3"
-  %}
+[p-2111]: ../images_wt/gf-mine1.png?align=left
+[t-2111]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&b1=ctct&d1=ctct&a2=ctct&b2=ct&c2=ctct&d2=ct&e2=ctct&a3=ct&b3=ctct&d3=ctct&e3=ct&f3=ctct&tile=-7-4--,B831C-,66-225&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
 ## Stretched
 The pictures below show three different units. The units are placed like the white tiles on a checker board.          
@@ -110,20 +107,20 @@ The one on the left is a bias ground, stretched vertically, as found in the Whti
 
 
 ## Roses with vertical
-{% include p-l-l.html
-  src="../images_wt/gf-wt-g31.png"
-  alt="roses with vertical"
-  description="(mt-3115)"
-  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&b1=tctct&a2=c&c2=c&d2=tctctc&a3=ctc&c3=ctc&a4=c&c4=c&d4=ctctct&tile=-5--,B-C3,7-4-,8-15&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4"
-%}
+[![roses with vertical][p-3115]][t-3115]
+(mt-3115)
+<p style="clear: both"></p>
+
+[p-2115]: ../images_wt/gf-wt-g31.png?align=left
+[t-3115]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&b1=tctct&a2=c&c2=c&d2=tctctc&a3=ctc&c3=ctc&a4=c&c4=c&d4=ctctct&tile=-5--,B-C3,7-4-,8-15&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Bias with vertical
-{% include p-l-l.html
-  src="../images_wt/gf-wt-g32.png"
-  alt="bias with vertical"
-  description="(mt-3228)"
-  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&b1=ctc&c1=ctc&d1=ctc&b2=ctc&c2=ctctc&d2=ctc&b3=ctcr&c3=ctc&d3=ctcl&a4=ttctctt&tile=-C3B,-488,-148,5---&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4"
-%}
+[![bias with vertical][[-3228]][t-3228]
+(mt-3228)
+<p style="clear: both"></p>
+
+[p-3228]: ./images_wt/gf-wt-g32.png?aligh=left
+[t-3228]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&b1=ctc&c1=ctc&d1=ctc&b2=ctc&c2=ctctc&d2=ctc&b3=ctcr&c3=ctc&d3=ctcl&a4=ttctctt&tile=-C3B,-488,-148,5---&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Windmills
 Inspired by origami.    
