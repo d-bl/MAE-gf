@@ -27,7 +27,11 @@ All links worked when created. Due to work on the Groundforge coding, there may 
 
 English is not my native language, so please forgive me any mistakes.
 
-[![some nice ground][p-1211]][t-1211]
+{% include p-l-c.html
+  src="https://maetempels.github.io/MAE-gf/images/pict-double.png"
+  alt="some nice ground"
+  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctct&b1=ct&d1=ct&a2=ct&c2=ct&shiftColsSE=3&shiftRowsSE=1&shiftColsSW=-4&shiftRowsSW=1&tile=88-1,4-58"
+%}  
 
 [p-1211]: ./images/pict-double.png?align=center
 [t-1211]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctct&b1=ct&d1=ct&a2=ct&c2=ct&shiftColsSE=3&shiftRowsSE=1&shiftColsSW=-4&shiftRowsSW=1&tile=88-1,4-58
