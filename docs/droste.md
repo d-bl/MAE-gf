@@ -19,7 +19,9 @@ Some of these, like "Wobble" can only be made by GroundForge using this techniqu
 See the Groundforge help-page [_Droste-effect_][pg-droste] for more information.  
 
 Some of the examples have forms to make playing easier. 
-Other examples only have plain links for multi-step patterns, you need to click the ![](../images/wand.png) in the advanced section for the diagrams of the second (or even third) step.
+Other examples only have plain links for multi-step patterns, you need to click the ![](../images/wand.png) in the advanced section for the diagrams of the second (or even third) step.                  
+
+{% include stitches.html %}
 
 [pg-droste]: https://d-bl.github.io/GroundForge/help/Droste-effect
 
@@ -67,22 +69,23 @@ In the page that will appear next, click the ![](../images/wand.png)
 in the advanced section for the thread diagram.
 
 {% include wobble.html %}
-{% include stitches.html %}
-
 
 ## Paris
 
+![][p-paris-droste]
 The [Paris] ground uses the thread diagram of the half twist as pair diagram.
 See also variations (defined without this Droste technique) in the Whiting index A5, A6, B5, A7-H7, G11. 
 In turn the [_fancy Zeccattelo_][F12] is based on [Paris][F12-droste].
-
-Two versions to choose your own stitches. The difference is the direction of the Bias-units. Click on the picture of the desired type of units.         
+                
+The picture on the right shows the general scheme. The stitches of the paris ground are replaced with "blocks". In the picture, one block is indicated with a blue cirkel. The pictures below replace this block with the block shown on the picture.
+<p style="clear: both"></p>
 
 [![lcr][p-paris-lcr]][T-paris-lcr]
 [![rcl][p-paris-rcl]][T-paris-rcl]
 
-[p-paris-lcr]: ../images_wt/droste_paris_lcr.png
-[p-paris-rcl]: ../images_wt/droste_paris_rcl.png
+[p-paris-droste]: ../images_wt/paris_droste_0.png?align=right
+[p-paris-lcr]: ../images_stitches/bias-ltr.png
+[p-paris-rcl]: ../images_stitches/bias-rtl.png
 
 [Paris]: https://d-bl.github.io/GroundForge/tiles?tile=-5&tileStitch=ct&droste2=ctct&patchWidth=5&patchHeight=6&shiftColsSW=-2&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=1
 [F12]: https://d-bl.github.io/GroundForge/tiles?whiting=F12_P190&patchWidth=10&patchHeight=10&f1=ctc&d1=tctct&b1=ctc&g2=ctctctc&e2=tctct&c2=tctct&a2=ctctctc&f3=ctc&d3=tctct&b3=ctc&g4=ctcrrctc&f4=ctc&e4=ctcllctc&c4=ctcrrctc&b4=ctc&a4=ctcllctc&tile=-4-5-7--,b-5-5-c-,-5-5-5--,a15-58d-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
