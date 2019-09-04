@@ -81,8 +81,8 @@ The picture on the right shows the general scheme. The stitches of the Paris gro
 <p style="clear: both"></p>
 
 [![ctc][p-paris-ctc]][T-paris-ctc] 
-[![lcr][p-paris-lcr]][T-paris-lcr]  
-[![rcl][p-paris-rcl]][T-paris-rcl]  
+[![lcr][p-paris-lcr]][T-paris-lcr] 
+[![rcl][p-paris-rcl]][T-paris-rcl] 
 
 [p-paris-droste]: ../images_wt/paris_droste_0.png?align=right
 [p-paris-lcr]: ../images_stitches/bias-ltr.png
