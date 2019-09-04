@@ -59,7 +59,7 @@ This stitch I created because I wished to see a little loop at the sides of the 
 ## Ants
 Ants came to life as a variation of the Slavic ground. The result looks like ants, see mt-0665. In effect, the threads between the bottom and top position of two units will be <span class="stch">crossed</span> four times. Please note that there are no twists between the <span class="stch">cross only</span> and <span class="stch">whole stitch</span> at the pins.            
 
-![ants-foto][foto-0692] ![ants][pic-0692]            
+![ants-foto][foto-0692] ![ants][pic-0692]           
 
 * [mt-0692][T-0692], [mt-0665][T-0665], [3 paired crossed star][T-3cc]        
 
@@ -81,8 +81,9 @@ The following patterns I created one quarter turned, so you had to work "upwards
 [T-1114]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&b1=ctc&c1=tctc&d1=ctc&a2=lctc&c2=ctcr&d2=c&a3=ctct&b3=ctc&c3=tctc&d3=ctc&a4=ctc&b4=c&c4=ctcl&tile=8325,6-76,1563,224-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Bias and Paris ground
-As the pattern above, this pattern also was created one quarter turned.
 [![bias and paris][p-2111]][t-2111]
+As the pattern above, this pattern also was created one quarter turned.              
+         
 (mt-2111)
 <p style="clear: both"></p>
 
@@ -111,31 +112,28 @@ The one on the left is a bias ground, stretched vertically, as found in the Whti
 (mt-3115)
 <p style="clear: both"></p>
 
-[p-2115]: ../images_wt/gf-wt-g31.png?align=left
+[p-3115]: ../images_wt/gf-wt-g31.png?align=left
 [t-3115]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&b1=tctct&a2=c&c2=c&d2=tctctc&a3=ctc&c3=ctc&a4=c&c4=c&d4=ctctct&tile=-5--,B-C3,7-4-,8-15&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Bias with vertical
-[![bias with vertical][[-3228]][t-3228]
+[![bias with vertical][p-3228]][t-3228]
 (mt-3228)
 <p style="clear: both"></p>
 
-[p-3228]: ./images_wt/gf-wt-g32.png?aligh=left
+[p-3228]: ../images_wt/gf-wt-g32.png?align=left
 [t-3228]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&b1=ctc&c1=ctc&d1=ctc&b2=ctc&c2=ctctc&d2=ctc&b3=ctcr&c3=ctc&d3=ctcl&a4=ttctctt&tile=-C3B,-488,-148,5---&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Windmills
-Inspired by origami.    
-{% include p-l-x.html
-  src="../images_wt/G42.png"
-  alt="windmill"
-  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctc&d1=ctctt&f1=ctc&a2=ctc&b2=ctc&c2=ctcrr&e2=ctcll&f2=ctc&a3=ctc&b3=ctcrr&d3=ctc&f3=ctcll&tile=15-7-2,886-58,14-5-1&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3"
-%}
-{% include p-l-r.html
-  src="../images_wt/G43.png"
-  alt="windmill"
-  description="(mt-4201, mt-4301)"
-  lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&g1=ctct&e1=ctct&c1=ctc&a1=ctct&h2=ctct&f2=ctct&d2=ctc&c2=ctc&b2=ctc&g3=ctct&e3=ctcr&d3=ctc&c3=ctc&b3=ctc&a3=ctcl&h4=ctct&f4=ctct&d4=ctcr&c4=ctc&b4=ctc&tile=5-5-5-7-,-215-5-5,58886-5-,-114-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4"
-%}
+Inspired by origami.   
+[![windmill][p-4201]][t-4201]
+[![windmill][p-4301]][t-4301]
+(mt-4201, mt-4301)
+<p style="clear: both"></p>
 
+[p-4201]: ../images_wt/G42.png?align=left
+[p-4301]: ../images_wt/G43.png?align=right
+[t-4201]: lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctc&d1=ctctt&f1=ctc&a2=ctc&b2=ctc&c2=ctcrr&e2=ctcll&f2=ctc&a3=ctc&b3=ctcrr&d3=ctc&f3=ctcll&tile=15-7-2,886-58,14-5-1&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
+[t-4301]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&g1=ctct&e1=ctct&c1=ctc&a1=ctct&h2=ctct&f2=ctct&d2=ctc&c2=ctc&b2=ctc&g3=ctct&e3=ctcr&d3=ctc&c3=ctc&b3=ctc&a3=ctcl&h4=ctct&f4=ctct&d4=ctcr&c4=ctc&b4=ctc&tile=5-5-5-7-,-215-5-5,58886-5-,-114-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ***
 
