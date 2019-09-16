@@ -42,6 +42,7 @@ Please note the resemblance of the 3-step fish with the [narrow eyed spider][ne-
 
 
 ## Wobble
+This ground uses the thread diagram of alternating `ct/ctct` as thread diagram.
 
 ### Pricking
 ![][p-wobble-2]
@@ -62,9 +63,8 @@ The green numbers and arrows indicate the working order inherited from the first
 
 ### Generate diagrams (color coded / threads)
 
-The first step is the Alternate stich ground. 
 After completing the stitches for the second step in the form below,
-click on the picture of the desired type of units.
+click on the picture of the desired type of rose-ground units.
 In the page that will appear next, click the ![](../images/wand.png)
 in the advanced section for the thread diagram.
 
