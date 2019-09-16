@@ -73,7 +73,7 @@ in the advanced section for the thread diagram.
 ## Paris
 
 ![][p-paris-droste]
-The [Paris] ground uses the thread diagram of the half twist as pair diagram.
+The [Paris] ground uses the thread diagram of the half stich as pair diagram.
 See also variations (defined without this Droste technique) in the Whiting index A5, A6, B5, A7-H7, G11. 
 In turn the [_fancy Zeccattelo_][F12] is based on [Paris][F12-droste].
                 
