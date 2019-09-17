@@ -82,7 +82,7 @@ Ground mt-0228 is a variant in cloth stitch. Ground mt-0225 shows alternate stit
 
 ## Short Bias
 ### Solo
-Take just one unit of the Bias ground and place them all in the same direction (mt-0228-s), or in alternating directions (mt-0228-a). The latter may give nice results in two colours. The placing of the units in alternating directions is also shown in mrs Irvine's paper (VI). 
+Take just one unit of the Bias ground and place them all in the same direction (mt-0228-s), or in alternating directions (mt-0228-a). The latter may give nice results in two colours. The placing of the units in alternating directions is also shown in mrs Irvine's paper _Developing a Mathematical Model for Bobbin Lace_. 
 
 ![same direction][pic-0228-OG] ![alternating][pic-0228-OGy] ![short bias foto][foto-0228-OGy] 
 * [mt-0228-s][T-0228-OG], [mt-0228-a][T-0228-OGy], [VI][T-0267-OGy]
