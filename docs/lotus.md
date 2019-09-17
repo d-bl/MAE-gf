@@ -12,10 +12,16 @@ title: lotus
 
 ## Introduction
 ![lotus][p-lotus]
-Lotus grounds are usualy used in small braids, 14-18 pairs.     
+Lotus grounds are usualy used in small braids. Milanese braids typically need 14-18 pairs of bobbins.      
+The grounds consists of a number of rows with two or more cloth stitches followed with a changing number of twists in the weaver. Lotus starts with a cloth stitch, and ends with a cloth stitch with the neighbouring leaf. In between the lotus-rows, zero, one ore more rows with e.g. half stitch, pin, half stitch are made.        
+If the end is made with the same pairs as the start, the ground is called [_Fish_][fish-page].     
+
+Please note: some of the examples below are known als _Lattice_.          
+
 Please note: if a lotus has an odd number of horizontal, like H3, the weavers change direction at the next set of lotus. This is not shown in the matrices used for the examples.
 
 [p-lotus]: ../images_wt/gf%20lotus%20wt.png?align=right
+[fish-page]: ../docs/fish
 
 ## Lotus notation
 Lotus H,V,X means: the number of Horizontal rows, the number of Verticals and the number of rows in between. See the picture. 
