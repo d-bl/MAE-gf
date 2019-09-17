@@ -30,13 +30,13 @@ We have learned, that the figure on the left is called a [_snowflake_][t-snowfla
 ## Stitches
 ![colours][p-colors]
 Stitches used in the examples on these pages:
-<p style="clear: both"></p>
 
 * Cross only. In working scheme's coloured in <span class="b-grey">grey.</span>
 * Half stitch = (twist if not already done), cross, twist. Coloured <span class="b-gree">green</span>.
 * Cloth stitch = cross, twist, cross. Coloured <span class="b-purp">purple</span>.
 * Whole stitch &amp; twist = (twist if not already done), cross, twist, cross, twist. Coloured <span class="b-red">red</span>.
 * Plaits = (twist,) cross, twist, cross, twist, cross, twist, cross (, twist), .... . Coloured <span class="b-blue">blue</span>.
+<p style="clear: both"></p>
 
 Sometimes, onorthodox stitches are used, like <span class="stch">cross only</span> or <span class="stch">crcllcrc</span>, as in the [_Sunny Stitch_][ex-sun].    
 We have tried <span class="stch">ctctclllllctctc</span> as a substitute for picots. Groundforge needs some time to generate this, and the result is not as expected.
