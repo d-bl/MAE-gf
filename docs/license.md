@@ -37,11 +37,9 @@ In short: you are free to share the examples as long as you give appropiate cred
 
 
 ## References
-JP = J. Pol     
-MT = M. Tempels    
-UU = U. Ulrich: Gründe mit System        
-VI = V. Irvine: Developing a Mathematical Model for Bobbin Lace (paper)       
-VI = V. Irvine: Tesselace. See Groundforge Examples pages   
+U. Ulrich: Gründe mit System        
+V. Irvine: Developing a Mathematical Model for Bobbin Lace (paper)       
+V. Irvine: Tesselace. See Groundforge Examples pages   
 Whiting index: G. Whiting: A lace guide for makers and collectors
 
 ***
