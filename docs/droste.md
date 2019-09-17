@@ -42,6 +42,7 @@ Please note the resemblance of the 3-step fish with the [narrow eyed spider][ne-
 
 
 ## Wobble
+This ground uses the thread diagram of alternating `ct/ctct` as pair diagram.
 
 ### Pricking
 ![][p-wobble-2]
@@ -62,9 +63,8 @@ The green numbers and arrows indicate the working order inherited from the first
 
 ### Generate diagrams (color coded / threads)
 
-The first step is the Alternate stich ground. 
 After completing the stitches for the second step in the form below,
-click on the picture of the desired type of units.
+click on the picture of the desired type of rose-ground units.
 In the page that will appear next, click the ![](../images/wand.png)
 in the advanced section for the thread diagram.
 
@@ -73,9 +73,9 @@ in the advanced section for the thread diagram.
 ## Paris
 
 ![][p-paris-droste]
-The [Paris] ground uses the thread diagram of the half twist as pair diagram.
+The [Paris] ground uses the thread diagram of the half stich as pair diagram.
 See also variations (defined without this Droste technique) in the Whiting index A5, A6, B5, A7-H7, G11. 
-In turn the [_fancy Zeccattelo_][F12] is based on [Paris][F12-droste].
+In turn the [_fancy Zeccatello_][F12] is based on [Paris][F12-droste].
                 
 The picture on the right shows the general scheme. The stitches of the Paris ground are replaced with "blocks". In the picture, one block is indicated with a blue cirkel. The pictures below replace this block with the block shown on the picture.
 <p style="clear: both"></p>
