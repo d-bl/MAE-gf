@@ -33,7 +33,7 @@ The traditional units separated with plaits. Ground mt-0116 uses the rose-ground
 <p style="clear: both"></p>
 
 ![0342][p-0342]
-Ground mt-0342 is meant to be made with pins at the sides of the snowflake-unit, as shown in the picture. The ground came into being as a half stitch spider, but forgetting the twists at the corners. The unit resembles [UU 3054], which has no side pins, and does not cross at the corners.
+Ground mt-0342 is meant to be made with pins at the sides of the snowflake-unit, as shown in the picture. The ground came into being as a half stitch spider, but forgetting the twists at the corners. The unit resembles ground 3054 from _U. Ulrich: Gründe mit System_, which has no side pins, and does not cross at the corners.
 <p style="clear: both"></p>
 
 [p-fusion]: ../images_wt/gf-fusion.png?align=right
