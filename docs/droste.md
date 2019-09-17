@@ -64,7 +64,7 @@ The green numbers and arrows indicate the working order inherited from the first
 ### Generate diagrams (color coded / threads)
 
 After completing the stitches for the second step in the form below,
-click on the picture of the desired type of rose-ground units.
+click on the button of the desired type of rose-ground units.
 In the page that will appear next, click the ![](../images/wand.png)
 in the advanced section for the thread diagram.
 
