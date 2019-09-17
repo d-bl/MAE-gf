@@ -70,9 +70,9 @@ Ants came to life as a variation of the Slavic ground. The result looks like ant
 [T-3cc]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&a1=tctc&b1=cc&c1=ctct&d1=cc&b2=c&d2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ## Another fish
-The following patterns I created one quarter turned, so you had to work "upwards" from one square to another. As Groundforge does not support going upwards, I changed this into the diagram given in the picture and in the examples.
-
 ![Another fish][pic-1111]
+The following patterns I created one quarter turned, so you had to work "upwards" from one square to another. As Groundforge does not support going upwards, I changed this into the diagram given in the picture and in the examples.
+<p style="clear: both"></p>
 
 * [mt-1114][T-1114], [mt-1111][T-1111] (after turning one quarter)
 
@@ -124,9 +124,9 @@ The one on the left is a bias ground, stretched vertically, as found in the Whti
 [t-3228]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&b1=ctc&c1=ctc&d1=ctc&b2=ctc&c2=ctctc&d2=ctc&b3=ctcr&c3=ctc&d3=ctcl&a4=ttctctt&tile=-C3B,-488,-148,5---&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Windmills
-Inspired by origami.   
 [![windmill][p-4201]][t-4201]
 [![windmill][p-4301]][t-4301]
+Inspired by origami.                 
 (mt-4201, mt-4301)
 <p style="clear: both"></p>
 
