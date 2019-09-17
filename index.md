@@ -14,8 +14,6 @@ Translation: Een Nederlandse vertaling download u <a href="./documents/MAE-GF-NL
 ## How to use these pages
 All examples are links to the Groundforge main page. Just follow the link. If a picture with a light-blue coloured border is shown: click on the picture. Please feel free to play with the stitches. E.g. try what happens if you change the default <span class="stch">ctc</span> of the spiders or fish in <span class="stch">ct</span>.     
 
-Some examples use the "Droste-effect". Click <span class="elem">the wand button</span> in the <span class="elem">Reuse thread diagram as pair diagram</span> section of the form.
-
 The examples use pair-diagrams in the styled version (_matrix-scheme_) that Groundforge understands.
 Most of the patterns also have a scheme in the TesseLace index. Some, as the spiders and the larger fishes, don't.
 
