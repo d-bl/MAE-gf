@@ -11,7 +11,7 @@ title: tricks and notes
 * [Diagrams](#diagrams)
 
 ## Ground names
-Unfortunately grounds do not have one unique name. Not even in one language. Also, the same name is used for different grounds. To make naming even more difficult, Groundforge does not make a difference in Torchon or Flemish grounds.            
+Unfortunately, grounds do not have one unique name. Not even in one language. Also, the same name is used for different grounds. To make naming even more difficult, Groundforge does not make a difference in Torchon or Flemish grounds.            
 
 ![rose v.s. slavic][p-rs-sl]
 Example: The picture shows the working-scheme's of one unit of <i>Slavic rose ground</i> and one unit of <i>Fond au cinq trous</i>. Groundforge gives the same [result][t-rs-sl].
