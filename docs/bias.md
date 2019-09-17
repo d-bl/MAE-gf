@@ -95,10 +95,8 @@ Take just one unit of the Bias ground and place them all in the same direction (
 [T-0267-OGy]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctcr&d1=ctct&a2=ctct&c2=ctcl&b3=ctcl&c3=ctc&d3=ctct&a4=ctcr&c4=ctct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=0&shiftRowsSW=4&tile=15-2,7-5-,-586,5-4-
 
 ### Crossed
-Take one unit of the Bias ground, place them in alternating directions, and cross at the corners.    
-
 [![alternating and cross][p-0248]][t-0248]
-
+Take one unit of the Bias ground, place them in alternating directions, and cross at the corners.            
 (mt-0248)
 <p style="clear: both"></p>
 
