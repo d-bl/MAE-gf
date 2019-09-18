@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+Header { background: #2e7bcf url(../images/header-bg-left.png) top right repeat; padding: 0; }
+.outer { background: url(../images/header-bg-right.png) top right repeat-y; padding-top: 40px; padding-bottom: 40px; }
+header a.button { background-color: #2e7bcf; }
+
 /* stitches & elements */
 .stch {border: 1px solid #DBE7F3; background-color: #F2F8FC;}
 .elem {border: 1px solid #DBE7F3;}
