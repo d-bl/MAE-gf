@@ -39,6 +39,7 @@
 
 <body>
 <header>
+  <div class="outer">
     <div class="inner">
         <a href="{{ '/' | absolute_url }}">
             <h1>{{ site.title | default: site.github.repository_name }}</h1>
@@ -51,6 +52,7 @@
         <a href="{{ site.github.repository_url }}" class="button"><small>Follow me on</small> GitHub</a>
         {% endif %}
     </div>
+  </div>
 </header>
 
 <div id="content-wrapper">
