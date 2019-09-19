@@ -86,9 +86,9 @@ The picture on the right shows a general scheme also based on the Paris ground. 
 [![rcl][p-paris-rcl]][T-paris-rcl] 
 
 [p-paris-droste]: ../images_wt/paris_droste_0.png?align=right
-[p-paris-lcr]: ../images_stitches/bias-ltr.png
-[p-paris-rcl]: ../images_stitches/bias-rtl.png
-[p-paris-ctc]: ../images_stitches/rose.png
+[p-paris-lcr]: ../images_stitches/paris-lcr.png
+[p-paris-rcl]: ../images_stitches/paris-rcl.png
+[p-paris-ctc]: ../images_stitches/paris-ctc.png
 
 [Paris]: https://d-bl.github.io/GroundForge/tiles?patchWidth=10&patchHeight=10&c1=clcrcl&a1=crclcr&d2=ctc&droste2=d20=tctct,d21=lctct,d22=rctct,d23=ctct,c11=a13=ctcllctc,a11=c13=ctcrrctc,d25=c10=c12=c14=ctc,a15=c15=ctctctc&tile=B-C-,---5&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [F12]: https://d-bl.github.io/GroundForge/tiles?whiting=F12_P190&patchWidth=10&patchHeight=10&f1=ctc&d1=tctct&b1=ctc&g2=ctctctc&e2=tctct&c2=tctct&a2=ctctctc&f3=ctc&d3=tctct&b3=ctc&g4=ctcrrctc&f4=ctc&e4=ctcllctc&c4=ctcrrctc&b4=ctc&a4=ctcllctc&tile=-4-5-7--,b-5-5-c-,-5-5-5--,a15-58d-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
