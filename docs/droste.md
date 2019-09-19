@@ -88,7 +88,7 @@ The picture on the right shows another general scheme also based on the Paris gr
 [![rcl][p-paris-rcl]][T-paris-rcl] 
 
 [p-paris-droste]: ../images_wt/paris_droste_0.png?align=right
-[p-fancy-z]: ../images_wt/paris-droste-f12?align=right
+[p-fancy-z]: ../images_wt/paris-droste-f12.png?align=right
 [p-paris-lcr]: ../images_stitches/paris-lcr.png
 [p-paris-rcl]: ../images_stitches/paris-rcl.png
 [p-paris-ctc]: ../images_stitches/paris-ctc.png
