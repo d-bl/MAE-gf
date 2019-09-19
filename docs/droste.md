@@ -80,7 +80,7 @@ The picture on the right shows a general scheme.
 <p style="clear: both"></p>
 
 ![][p-paris-droste]
-The picture on the right shows a general scheme also based on the Paris ground. The stitches of the Paris ground are replaced with "blocks". In the picture, one block is indicated with a blue ellipse. The buttons below replace this block with the block shown on the button. Please note that the block to the right is the mirrored version of the first block.
+The picture on the right shows another general scheme also based on the Paris ground. The stitches of the Paris ground are replaced with units. In the picture, one unit is indicated with a blue ellipse. The buttons below replace this unit with the unit shown on the button. Please note that the unit to the right is the mirrored version of the first unit.
 <p style="clear: both"></p>
 
 [![ctc][p-paris-ctc]][T-paris-ctc] 
