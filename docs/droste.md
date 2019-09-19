@@ -74,10 +74,11 @@ in the advanced section for the thread diagram.
 
 ![][p-paris-droste]
 The [Paris] ground uses the thread diagram of the half stich as pair diagram.
-See also variations (defined without this Droste technique) in the Whiting index A5, A6, B5, A7-H7, G11. 
-In turn the [_fancy Zeccatello_][F12] is based on [Paris][F12-droste].
+Some variations on the Paris ground are in the Whiting index (defined without this Droste technique) A5, A6, B5, A7-H7, G11. 
+In turn the [_fancy Zeccatello_][F12] is based on [Paris][F12-droste]. 
+Note that the cloth stitch units are in fact a unit of a bias ground.
                 
-The picture on the right shows the general scheme. The stitches of the Paris ground are replaced with "blocks". In the picture, one block is indicated with a blue ellipse. The buttons below replace this block with the block shown on the button. Please note that the block to the right is the mirrored version of the first block.
+The picture on the right shows a general scheme also based on the Paris ground. The stitches of the Paris ground are replaced with "blocks". In the picture, one block is indicated with a blue ellipse. The buttons below replace this block with the block shown on the button. Please note that the block to the right is the mirrored version of the first block.
 <p style="clear: both"></p>
 
 [![ctc][p-paris-ctc]][T-paris-ctc] 
@@ -89,7 +90,7 @@ The picture on the right shows the general scheme. The stitches of the Paris gro
 [p-paris-rcl]: ../images_stitches/bias-rtl.png
 [p-paris-ctc]: ../images_stitches/rose.png
 
-[Paris]: https://d-bl.github.io/GroundForge/tiles?tile=-5&tileStitch=ct&droste2=ctct&patchWidth=5&patchHeight=6&shiftColsSW=-2&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=1
+[Paris]: https://d-bl.github.io/GroundForge/tiles?patchWidth=10&patchHeight=10&c1=clcrcl&a1=crclcr&d2=ctc&droste2=d20=tctct,d21=lctct,d22=rctct,d23=ctct,c11=a13=ctcllctc,a11=c13=ctcrrctc,d25=c10=c12=c14=ctc,a15=c15=ctctctc&tile=B-C-,---5&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [F12]: https://d-bl.github.io/GroundForge/tiles?whiting=F12_P190&patchWidth=10&patchHeight=10&f1=ctc&d1=tctct&b1=ctc&g2=ctctctc&e2=tctct&c2=tctct&a2=ctctctc&f3=ctc&d3=tctct&b3=ctc&g4=ctcrrctc&f4=ctc&e4=ctcllctc&c4=ctcrrctc&b4=ctc&a4=ctcllctc&tile=-4-5-7--,b-5-5-c-,-5-5-5--,a15-58d-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [F12-droste]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&c1=clcrct&a1=crclct&d2=ctct&droste2=ctct,c11=a13=ctcllctc,a11=c13=ctcrrctc,d25=c10=c12=c14=ctc,d24=a10=a12=a14,a16=c15=ctctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-paris-rcl]: https://d-bl.github.io/GroundForge/tiles?patchWidth=10&patchHeight=10&c1=crclct&a1=clcrct&d2=ctct&droste2=c15=a16=tctctct,a15=c16=tctct,d24=d25=tctct,c12=a12=tct,d20=d21=d22=d23=ctc,c10=c11=c13=c14=ctc,a10=a11=a13=a14=ctc,,&tile=B-C-,---5&tileStitch=ctc&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
