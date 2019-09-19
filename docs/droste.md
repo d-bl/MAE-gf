@@ -75,7 +75,8 @@ in the advanced section for the thread diagram.
 ![][p-paris-droste]
 The [Paris] ground uses the thread diagram of the half stich as pair diagram.
 Some variations on the Paris ground are in the Whiting index (defined without this Droste technique) A5, A6, B5, A7-H7, G11. 
-In turn the [_fancy Zeccatello_][F12] is based on [Paris][F12-droste].
+In turn the [_fancy Zeccatello_][F12] is based on [Paris][F12-droste]. 
+Note that the cloth stitch units are in fact a unit of a bias ground.
                 
 The picture on the right shows a general scheme also based on the Paris ground. The stitches of the Paris ground are replaced with "blocks". In the picture, one block is indicated with a blue ellipse. The buttons below replace this block with the block shown on the button. Please note that the block to the right is the mirrored version of the first block.
 <p style="clear: both"></p>
