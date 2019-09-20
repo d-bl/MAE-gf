@@ -81,11 +81,11 @@ The picture on the right shows a general scheme.
 
 ![][p-paris-droste]
 The picture on the right shows another general scheme also based on the Paris ground. The stitches of the Paris ground are replaced with units. In the picture, one unit is indicated with a blue ellipse. The buttons below replace this unit with the unit shown on the button. Please note that the unit to the right is the mirrored version of the first unit.
-<p style="clear: both"></p>
-
+              
 [![ctc][p-paris-ctc]][T-paris-ctc] 
 [![lcr][p-paris-lcr]][T-paris-lcr] 
 [![rcl][p-paris-rcl]][T-paris-rcl] 
+<p style="clear: both"></p>
 
 [p-paris-droste]: ../images_wt/paris_droste_0.png?align=right
 [p-fancy-z]: ../images_wt/paris-droste-f12.png?align=right
