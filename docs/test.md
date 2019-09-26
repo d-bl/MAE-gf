@@ -14,7 +14,7 @@ purpose: test only
 
 </style>
 
-<class id="shade"
+<class id="shade">
 ![biasground][p-0221]
 </class>
 The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagram on the right. On this page we show different grounds based on this diagonal.
