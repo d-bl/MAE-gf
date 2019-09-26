@@ -77,11 +77,15 @@ Some variations on the Paris ground are in the Whiting index (defined without th
 
 In turn the _fancy Zeccatello_ uses the thread diagram of a Paris variation as pair diagram: [single-step][F12], [two-step][F12-droste] definitions. 
 Note that the cloth stitch units are in fact a unit of a bias ground.    
-The picture on the right shows a general scheme.
+The picture on the right shows a general scheme. The stitches of the Paris ground are replaced with units. In the picture, one unit is indicated with a blue ellipse. The buttons below replace this unit with the unit shown on the button, and the unit to the right with its mirrored version.          
+              
+[![ctc][p-paris-ctc]][Z-paris-ctc] 
+[![lcr][p-paris-lcr]][Z-paris-lcr] 
+[![rcl][p-paris-rcl]][Z-paris-rcl] 
 <p style="clear: both"></p>
 
 ![][p-paris-droste]
-The picture on the right shows another general scheme also based on the Paris ground. The stitches of the Paris ground are replaced with units. In the picture, one unit is indicated with a blue ellipse. The buttons below replace this unit with the unit shown on the button. Please note that the unit to the right is the mirrored version of the first unit.
+The picture on the right shows another general scheme also based on the Paris ground. The stitches of the Paris ground are replaced with units. In the picture, one unit is indicated with a blue ellipse. The buttons below replace this unit with the unit shown on the button,  and the unit to the right with its mirrored version.           
               
 [![ctc][p-paris-ctc]][T-paris-ctc] 
 [![lcr][p-paris-lcr]][T-paris-lcr] 
@@ -102,5 +106,10 @@ The picture on the right shows another general scheme also based on the Paris gr
 [T-paris-rcl]: https://d-bl.github.io/GroundForge/tiles?patchWidth=10&patchHeight=10&c1=crclct&a1=clcrct&d2=ctct&droste2=c15=a16=tctctct,a15=c16=tctct,d24=d25=tctct,c12=a12=tct,d20=d21=d22=d23=ctc,c10=c11=c13=c14=ctc,a10=a11=a13=a14=ctc,,&tile=B-C-,---5&tileStitch=ctc&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-paris-lcr]: https://d-bl.github.io/GroundForge/tiles?patchWidth=10&patchHeight=10&c1=clcrct&a1=crclct&d2=ctct&droste2=c15=a16=tctctct,a15=c16=tctct,d24=d25=tctct,c12=a12=tct,d20=d21=d22=d23=ctc,c10=c11=c13=c14=ctc,a10=a11=a13=a14=ctc&tile=B-C-,---5&tileStitch=ctc&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-paris-ctc]: https://d-bl.github.io/GroundForge/tiles?patchWidth=10&patchHeight=10&c1=ctct&a1=ctct&d2=ctct&droste2=a15=c14=tctctctct,d25=c15=c,d24=a14=c,c10=c11=c12=c13=ctctc,d20=d21=d22=d23=ctc,a10=a11=a12=a13=ctctc,,&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+
+[Z-paris-ctc]: https://d-bl.github.io/GroundForge/tiles?patchWidth=10&patchHeight=10&c1=ctcl&a1=ctcr&d2=ctc&droste2=a14=c14=ctctct,d20=tctctc,d21=d22=c,d23=tctct,c10=a10=ctctc,c11=c12=a11=a12=c,c13=a13=tctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[Z-paris-lcr]: https://d-bl.github.io/GroundForge/tiles?patchWidth=10&patchHeight=10&c1=clcrcl&a1=crclcr&d2=ctc&droste2=a15=c15=tctctct,d20=tctct,d21=lcllcl,d22=rcrrcr,d23=tctct,c10=a10=ctct,c11=c13=a11=a13=ctc,c12=a12=c,c14=a14=tctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[Z-paris-rcl]: https://d-bl.github.io/GroundForge/tiles?patchWidth=10&patchHeight=10&c1=crclcl&a1=clcrcr&d2=ctc&droste2=a15=c15=tctctct,d20=tctct,d21=lcllcl,d22=rcrrcr,d23=tctct,c10=a10=ctct,c11=c13=a11=a13=ctc,c12=a12=c,c14=a14=tctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+
 
 ***
