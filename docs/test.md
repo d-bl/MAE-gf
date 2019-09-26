@@ -20,9 +20,10 @@ purpose: test only
 </p>
 
 
-
+<span class="shade">
 [![biasground][p-0221]][c]
-The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagram on the right. On this page we show different grounds based on this diagonal.
+</span>
+The traditional Bias Ground, or <span class="shade">Shaduw</span>, is made as in the pair-diagram on the right. On this page we show different grounds based on this diagonal.
 Other nice grounds can be obtained by using one unit only.
 die bla bla
 
