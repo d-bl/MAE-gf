@@ -10,8 +10,8 @@ purpose: test only
    box-shadow: 3px 3px #ebebeb;
 }
  
-.shadow2 a img .shade, img {
-   box-shadow: 3px 3px #ff00ff;
+.shadow2 a img {
+   box-shadow: 3px 3px #ffff00;
 }
    
 </style>
@@ -19,9 +19,9 @@ purpose: test only
 
 <img src="../images_wt/gf-0221-wt.png?align=right" class="shadow1">
 <img src="../images_wt/gf-0221-wt.png?align=left" class="shadow1">
-p style="clear: both"></p>
+<p style="clear: both"></p>
 
-vanaf hier
+vanaf hier de echte test
 
 ![xx][p-0221]
 <p style="clear: both"></p>
