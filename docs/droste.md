@@ -3,6 +3,11 @@ layout: default
 title: Droste
 ---
 
+<style>
+.shadow1, img {   box-shadow: 3px 3px #ebebeb; }
+</style>
+
+
 # Droste
 
 ## Contents
