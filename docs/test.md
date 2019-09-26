@@ -7,15 +7,13 @@ purpose: test only
 
 <style>
 #shade {
-  border: 1px solid;
-  padding: 10px;
-  box-shadow: 5px 10px #ebebeb;
+   box-shadow: 5px 10px #ebebeb;
 }
 
 </style>
 
 <class id="shade">
-![biasground][p-0221]
+  <a src="../images_wt/gf-0221-wt.png?align=right ></a>
 </class>
 The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagram on the right. On this page we show different grounds based on this diagonal.
 <p style="clear: both"></p>
