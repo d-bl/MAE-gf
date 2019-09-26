@@ -31,7 +31,7 @@ The traditional Bias Ground, or <span class="shade">Shaduw</span>, is made as in
 Other nice grounds can be obtained by using one unit only.
 die bla bla
 
-!![yy][p-0221]][c]
+[![yy][p-0221]][c]
 <p style="clear: both"></p>
 
 
