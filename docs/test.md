@@ -13,7 +13,7 @@ purpose: test only
 </style>
 
 <class id="shade">
-  <a src="../images_wt/gf-0221-wt.png?align=right ></a>
+  <a src="../images_wt/gf-0221-wt.png?align=right"></a>
 </class>
 The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagram on the right. On this page we show different grounds based on this diagonal.
 <p style="clear: both"></p>
