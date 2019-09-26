@@ -6,36 +6,33 @@ purpose: test only
 ---
 
 <style>
-.shade, img {
+.shadow1, img {
    box-shadow: 3px 3px #ebebeb;
 }
  
-.shh, a img .shade, img {
+.shadow2 a img .shade, img {
    box-shadow: 3px 3px #ff00ff;
 }
    
-#shadow {
-   box-shadow: 3px 3px #00ff00;
-}
-
 </style>
 
 
-<img src="../images_wt/gf-0221-wt.png?align=right" class="shade">
-<img src="../images_wt/gf-0221-wt.png?align=left" class="shade">
+<img src="../images_wt/gf-0221-wt.png?align=right" class="shadow1">
+<img src="../images_wt/gf-0221-wt.png?align=left" class="shadow1">
+p style="clear: both"></p>
 
+vanaf hier
 
 ![xx][p-0221]
 <p style="clear: both"></p>
 
-<span class="shade">
 [![biasground][p-0221]][c]
-</span>
 The traditional Bias Ground, or <span class="shade">Shaduw</span>, is made as in the pair-diagram on the right. On this page we show different grounds based on this diagonal.
 Other nice grounds can be obtained by using one unit only.
 die bla bla
 
-<a href="https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=24&b1=ct&f1=ct&c2=c&e2=c&b3=ct&d3=ctc&f3=ct&tile=-5---5,--C-B-,-B-5-C&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3"><img src="../images_wt/gf-0221-wt.png?align=right" class="shade"></a>
+!![yy][p-0221]][c]
+<p style="clear: both"></p>
 
 
 [![bigger][b]][c]
