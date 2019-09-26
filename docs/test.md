@@ -40,6 +40,8 @@ En dan kan je hier dus ook nog tekst naast zetten.
 <p style="clear: both"></p>
 
 ** en dan hier weer verder
+Die truc van Joke werkt hier wel, maar niet bij de include van de droste. Dan moet daar weer een extra class voor bij ....
+
 
 [p-0221]: ../images_wt/gf-0221-wt.png?x=button
 [b]: ../images_wt/big-rose.png?align=left
