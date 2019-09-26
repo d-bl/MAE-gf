@@ -16,7 +16,7 @@ purpose: test only
 
 
 <p class="shade"> 
-![][p-0221]
+![xx][p-0221]
 </p>
 
 
