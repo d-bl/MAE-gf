@@ -6,8 +6,12 @@ purpose: test only
 ---
 
 <style>
-.shade {
+.shade, img {
    box-shadow: 3px 3px #ebebeb;
+}
+ 
+.shh, a img .shade, img {
+   box-shadow: 3px 3px #ff00ff;
 }
    
 #shadow {
@@ -18,11 +22,10 @@ purpose: test only
 
 
 <img src="../images_wt/gf-0221-wt.png?align=right" class="shade">
+<img src="../images_wt/gf-0221-wt.png?align=left" class="shade">
 
 
-<class id="shadow"> 
 ![xx][p-0221]
-</class>
 <p style="clear: both"></p>
 
 <span class="shade">
