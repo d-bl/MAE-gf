@@ -5,17 +5,8 @@ title: test
 purpose: test only
 ---
 
-<style>
-.shadow1, img {   box-shadow: 3px 3px #f0f0f0; }
-</style>
 
-
-
-<img src="../images_wt/gf-0221-wt.png?align=right" class="shadow1">
-<img src="../images_wt/gf-0221-wt.png?align=left" class="shadow1">
-<p style="clear: both"></p>
-
-vanaf hier de echte test 2
+test test test
 
 <img style="box-shadow: 5px 5px #f0f0f0">
 ![xx][p-0221]
