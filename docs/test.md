@@ -6,7 +6,7 @@ purpose: test only
 ---
 
 <style>
-.shadow img {
+.shadow, img {
    box-shadow: 3px 3px #088808;
 }
   
