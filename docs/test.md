@@ -38,7 +38,7 @@ En dan kan je hier dus ook nog tekst naast zetten.
 Die truc van Joke werkt hier wel, maar niet bij de include van de droste. Dan moet daar weer een extra class voor bij ....
 
 
-[p-0221]: ../images_wt/gf-0221-wt.png?x=button
+[p-0221]: ../images_wt/gf-0221-wt.png
 [b]: ../images_wt/big-rose.png?align=left
 [c]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=24&b1=ct&f1=ct&c2=c&e2=c&b3=ct&d3=ctc&f3=ct&tile=-5---5,--C-B-,-B-5-C&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
