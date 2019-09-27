@@ -5,10 +5,16 @@ title: test
 purpose: test only
 ---
 
+<style>
+.shadow {
+   box-shadow: 3px 3px #088808;
+}
+  
+</style>
 
 test test test
 
-<style="box-shadow: 5px 5px #088008">
+<img class="shadow">
 ![xx][p-0221]
 <p style="clear: both"></p>
 
