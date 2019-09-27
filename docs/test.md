@@ -8,9 +8,9 @@ purpose: test only
 
 test test test
 
-<img style="box-shadow: 5px 5px #f0f0f0">
+<style="box-shadow: 5px 5px #088008">
 ![xx][p-0221]
-<p style="clear: both"></p><img style="clear">
+<p style="clear: both"></p>
 
 [![biasground][p-0221]][c]
 The traditional Bias Ground, or <span class="shade">Shaduw</span>, is made as in the pair-diagram on the right. On this page we show different grounds based on this diagonal.
