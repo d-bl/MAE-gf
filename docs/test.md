@@ -5,6 +5,10 @@ title: test
 purpose: test only
 ---
 
+<style>
+.shadow1, img {   box-shadow: 3px 3px #f0f0f0; }
+</style>
+
 
 
 <img src="../images_wt/gf-0221-wt.png?align=right" class="shadow1">
@@ -13,9 +17,9 @@ purpose: test only
 
 vanaf hier de echte test 2
 
-<a img style="box-shadow: 5px 5px #f0f0f0">
+<style="box-shadow: 5px 5px #f0f0f0">
 ![xx][p-0221]
-<p style="clear: both"></p><a style="clear">
+<p style="clear: both"></p><style="clear">
 
 [![biasground][p-0221]][c]
 The traditional Bias Ground, or <span class="shade">Shaduw</span>, is made as in the pair-diagram on the right. On this page we show different grounds based on this diagonal.
