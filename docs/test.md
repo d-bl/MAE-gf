@@ -7,7 +7,7 @@ purpose: test only
 
 <style>
 .shadow, img {
-   box-shadow: 3px 3px #088808;
+   inset: 3px 3px #088808;
 }
   
 </style>
@@ -18,7 +18,7 @@ test test test test
 <p style="clear: both"></p>
 
 [![biasground][p-0221]][c]
-The traditional Bias Ground, or <span class="shade">Shaduw</span>, is made as in the pair-diagram on the right. On this page we show different grounds based on this diagonal.
+The traditional Bias Ground, or <span class="shadow">Shaduw</span>, is made as in the pair-diagram on the right. On this page we show different grounds based on this diagonal.
 Other nice grounds can be obtained by using one unit only.
 die bla bla
 
@@ -26,8 +26,10 @@ die bla bla
 <p style="clear: both"></p>
 
 
+<span class="shadow">
 [![bigger][b]][c]
 En dan kan je hier dus ook nog tekst naast zetten.
+  </span>
 <p style="clear: both"></p>
 
 ** en dan hier weer verder
