@@ -17,9 +17,9 @@ purpose: test only
 
 vanaf hier de echte test 2
 
-<style="box-shadow: 5px 5px #f0f0f0">
+<img style="box-shadow: 5px 5px #f0f0f0">
 ![xx][p-0221]
-<p style="clear: both"></p><style="clear">
+<p style="clear: both"></p><img style="clear">
 
 [![biasground][p-0221]][c]
 The traditional Bias Ground, or <span class="shade">Shaduw</span>, is made as in the pair-diagram on the right. On this page we show different grounds based on this diagonal.
