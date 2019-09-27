@@ -6,15 +6,14 @@ purpose: test only
 ---
 
 <style>
-.shadow {
+.shadow img {
    box-shadow: 3px 3px #088808;
 }
   
 </style>
 
-test test test
+test test test test
 
-<img class="shadow">
 ![xx][p-0221]
 <p style="clear: both"></p>
 
