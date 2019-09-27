@@ -7,7 +7,7 @@ purpose: test only
 
 <style>
 .shadow, img {
-   inset: 3px 3px #088808;
+   box-shadow: 3px 3px 5px #088808 inset;
 }
   
 </style>
