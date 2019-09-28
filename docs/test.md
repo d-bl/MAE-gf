@@ -11,7 +11,7 @@ purpose: test only
   border: 2px;
   border-color: yellow;
   color: white;
-  padding: 15px 25px;
+  padding: 0px;
   text-align: center;
   font-size: 16px;
   cursor: pointer;
@@ -27,7 +27,9 @@ purpose: test only
 buttons test
 
 <a href="../images_stitches/paris-lcr.png">
-<button type="button" <img src="../images_stitches/paris-lcr.png"></button>
+<button type="button"><img src="../images_stitches/paris-lcr.png"></button>
 </a>
+
+
 
 [p-paris-lcr]: ../images_stitches/paris-lcr.png
