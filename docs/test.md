@@ -7,13 +7,11 @@ purpose: test only
 
 <style>
 .button
-  background-color: #4CAF50;
-  border: 2px;
-  border-color: yellow;
-  color: white;
+  background-color: blue;
+  border: 6px;
+  border-color: red;
+  color: green;
   padding: 0px;
-  text-align: center;
-  font-size: 16px;
   cursor: pointer;
 }
 
