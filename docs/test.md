@@ -14,6 +14,8 @@ purpose: test only
 
 buttons test
 
+<a href="../images_stitches/paris-lcr.png">
 <button type="button" onclick="alert('Hello world!')"><img src="../images_stitches/paris-lcr.png"></button>
+</a>
 
 [p-paris-lcr]: ../images_stitches/paris-lcr.png
