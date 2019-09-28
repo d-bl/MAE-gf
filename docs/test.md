@@ -6,8 +6,20 @@ purpose: test only
 ---
 
 <style>
-.shadow, img {
-   box-shadow: 3px 3px 5px #088808 inset;
+.button
+  background-color: #4CAF50;
+  border: 2px;
+  border-color: yellow;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: green;
+   
 }
   
 </style>
@@ -15,7 +27,7 @@ purpose: test only
 buttons test
 
 <a href="../images_stitches/paris-lcr.png">
-<button type="button" onclick="alert('Hello world!')"><img src="../images_stitches/paris-lcr.png"></button>
+<button type="button" <img src="../images_stitches/paris-lcr.png"></button>
 </a>
 
 [p-paris-lcr]: ../images_stitches/paris-lcr.png
