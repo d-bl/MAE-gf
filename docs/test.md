@@ -12,8 +12,8 @@ purpose: test only
   
 </style>
 
-test test test test
+buttons test
 
-<button type="button" onclick="alert('Hello world!')">Click Me!</button>
+<button type="button" onclick="alert('Hello world!')"><img href="../images_stitches/paris-lcr.png"</button>
 
 [p-paris-lcr]: ../images_stitches/paris-lcr.png
