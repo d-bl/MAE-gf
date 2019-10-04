@@ -62,7 +62,7 @@ The pictures on these pages are mostly made with Knipling (TM).
 
 ***
 [pagetop][to top of page]
-[pagetop]: ../docs/tricks      
+[pagetop]: ../docs/fish     
 
 
 
