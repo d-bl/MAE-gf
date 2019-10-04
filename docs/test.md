@@ -24,6 +24,7 @@ purpose: test only
 </style>
 
 <span id="top"></span>
+#boven aan de pagina
 
 buttons test
 
@@ -38,4 +39,4 @@ Het regent hier en verder is het erg nat. Het regent hier en verder is het erg n
 [p-paris-lcr]: ../images_stitches/paris-lcr.png
 
 
-<a href="#top">naar boven</a>
+<a href="#boven-aan-de-pagina">naar boven</a>
