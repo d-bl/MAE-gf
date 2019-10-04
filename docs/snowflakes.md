@@ -66,6 +66,7 @@ The thread diagram for ground mt-0356 can also be obtained as a rose ground in a
 [p-snow-diag]: ../images_wt/gf-sn-dia-wt.png
 [t-snow-diag]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&c1=ctc&b1=ctc&a1=tctct&c2=ctc&b2=ctc&a2=ctc&tile=1011,114-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
+<a href="#snowflakes">to top of page</a>         
 ***
 
 [page-spiders]: ../docs/spiders#binche-spiders
