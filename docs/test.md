@@ -23,7 +23,7 @@ purpose: test only
   
 </style>
 
-# boven aan de pagina
+# test
 
 buttons test
 
