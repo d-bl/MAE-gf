@@ -61,8 +61,11 @@ The example is a variation on a 's Gravenmoers snowflake ground. Click on the pi
 The pictures on these pages are mostly made with Knipling (TM).
 
 ***
-[toptop][to top of page]
+[toptop][to top of page]          
 [toptop]: ../docs/tricks
+
+[_Sunny Stitch_][ex-sun]
+[ex-sun]: ../docs/marian#sunny-stitch
 
 
 
