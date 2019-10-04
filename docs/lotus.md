@@ -36,8 +36,8 @@ Lotus H,V,X means: the number of Horizontal rows, the number of Verticals and th
 * [jp-double lotus H4,V2,X2][TD-422]
 
 
-<a href="#milanese-lotus-and-lattice">to top of page</a>
 ***
+<a href="#milanese-lotus-and-lattice">to top of page</a>
 
 [lotus_wt]: ../images_wt/gf%20lotus%20wt.png
 [lotus_gen]: ../images_wt/mx-lotus.png
