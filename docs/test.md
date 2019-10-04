@@ -41,4 +41,4 @@ Het regent hier en verder is het erg nat. Het regent hier en verder is het erg n
 
 [toppop][toppop]
 <a href="#boven-aan-de-pagina">naar boven</a>
-[toppop]: "#boven-aan-de-pagina"
+[toppop]: #boven-aan-de-pagina
