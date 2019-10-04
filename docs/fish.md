@@ -43,8 +43,9 @@ Fish B,S,W means: the number of Bones, the number of Spines and the number of Wa
 * [Fish B3,S2,W2][Z322]; [Fish B3,S2,W3][Z323]
 * [Fish B4,S2,W2][Z422]; [Fish B4,S2,W3][Z423]
 
-<a href="#milanese-fish">to top of page</a>
+
 ***
+<a href="#milanese-fish">to top of page</a>
 
 [lotus-page]: ../docs/lotus
 [droste-page]: ../docs/droste
