@@ -23,7 +23,6 @@ purpose: test only
   
 </style>
 
-<span id="top"></span>
 # boven aan de pagina
 
 buttons test
@@ -40,6 +39,6 @@ Het regent hier en verder is het erg nat. Het regent hier en verder is het erg n
 
 [toppop][toppop]
 
-[toppop]: ..docs/test
+[toppop]: ../docs/test
 
 ***
