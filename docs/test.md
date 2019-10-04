@@ -34,10 +34,10 @@ buttons test
 Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is 
 
 
-[p-paris-lcr]: ../images_stitches/paris-lcr.png
+[p-paris-lcr]: ../images_stitches/paris-lcr.png            
 
 
-[hiero][tottot]
+[hiero][toppop]
 
 [toppop]: ../docs/test
 
