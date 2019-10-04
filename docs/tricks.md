@@ -69,6 +69,7 @@ The pictures on these pages are mostly made with Knipling (TM).
 
 [Sunny Stitch][xx-sun]               
 [xx-sun]: ../docs/marian#sunny-stitch
+***
 
 
 
