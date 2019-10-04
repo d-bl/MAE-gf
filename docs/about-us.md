@@ -45,6 +45,6 @@ I'm happy to share the results with you.
 If you have suggestions, questions, want to share your own finds, or other remarks: please let us know. We can read Dutch, English, German.      
 <script>send("slepmet ea.nairam")</script>
 
-<a href="#about-us-&-contact">naar boven</a>
+<a href="#about-us-&amp;-contact">naar boven</a>
 ***
 
