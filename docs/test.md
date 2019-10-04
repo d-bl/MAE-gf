@@ -23,12 +23,27 @@ purpose: test only
   
 </style>
 
+<span id="top"></span>
+
 buttons test
 
 <a href="../images_stitches/paris-lcr.png">
 <button type="button"><img src="../images_stitches/paris-lcr.png"></button>
 </a>
 
+1
+2
+3
+4
+5
+6
+7
+8
+
+
 
 
 [p-paris-lcr]: ../images_stitches/paris-lcr.png
+
+
+<a href="#top">naar boven</a>
