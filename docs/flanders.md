@@ -83,6 +83,7 @@ Should you notice a photograph that doesn't match the generated thread diagram, 
 {% include flanders.html src="25-3" d1="ctc" a1="ctc" b1="ctc" d2="ct" b2="ct" c1="ctc" %}
 {% include flanders.html src="28-1" d1="ct" a1="ctc" b1="ct" d2="ctc" b2="ct" c1="ct" %}
 
+<a href="#flanders-grounds">to top of page</a>
 ***
 
 [pic-flan-rose]: https://maetempels.github.io/MAE-gf/images_wt/flanders.png
