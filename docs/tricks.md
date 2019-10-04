@@ -67,8 +67,9 @@ The pictures on these pages are mostly made with Knipling (TM).
 [topss][to top of page]               
 [topssn]: ../docs/tricks
 
-[Sunny Stitch][ex-sun]               
-[ex-sun]: ../docs/marian#sunny-stitch
+[Sunny Stitch][xx-sun]               
+[xx-sun]: ../docs/marian#sunny-stitch
+
 
 
 
