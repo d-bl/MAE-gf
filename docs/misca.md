@@ -55,8 +55,8 @@ However, the values for the repeat-parameter are set such that the stitches can 
 * [o&amp;o 11][T-OO-11], [o&amp;o 12][T-OO-12], [o&amp;o 12a][T-OO-12a]
 <p style="clear: both"></p>
 
-<a href="#miscellaneous-examples">to top of page</a>
 ***
+<a href="#miscellaneous-examples">to top of page</a>
 
 [page-snow]: ../docs/snowflakes#snowflake-in-a-diamond
 [page-spid]: ../docs/spiders
