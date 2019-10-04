@@ -39,6 +39,6 @@ Het regent hier en verder is het erg nat. Het regent hier en verder is het erg n
 
 [toppop][toppop]
 
-[toppop]: ../docs/test
+[toppop]: ../test
 
 ***
