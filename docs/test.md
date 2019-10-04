@@ -31,15 +31,7 @@ buttons test
 <button type="button"><img src="../images_stitches/paris-lcr.png"></button>
 </a>
 
-1
-2
-3
-4
-5
-6
-7
-8
-
+Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. 
 
 
 
