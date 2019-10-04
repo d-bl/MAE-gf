@@ -40,8 +40,9 @@ In short: you are free to share the examples as long as you give appropiate cred
 U. Ulrich: Gründe mit System        
 V. Irvine: Developing a Mathematical Model for Bobbin Lace (paper)       
 V. Irvine: Tesselace. See Groundforge Examples pages   
-Whiting index: G. Whiting: A lace guide for makers and collectors
+Whiting index: G. Whiting: A lace guide for makers and collectors           
 
+<a href="#copyright,-license,-references">to top of page</a>
 ***
 
 [aboutus]: https://maetempels.github.io/MAE-gf/docs/about-us#write-us
