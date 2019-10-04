@@ -37,7 +37,7 @@ Het regent hier en verder is het erg nat. Het regent hier en verder is het erg n
 [p-paris-lcr]: ../images_stitches/paris-lcr.png
 
 
-[toppop][to tot]
+[hiero][tottot]
 
 [toppop]: ../docs/test
 
