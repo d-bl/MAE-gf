@@ -111,5 +111,6 @@ The picture on the right shows another general scheme also based on the Paris gr
 [Z-paris-lcr]: https://d-bl.github.io/GroundForge/tiles?patchWidth=10&patchHeight=10&c1=clcrcl&a1=crclcr&d2=ctc&droste2=a15=c15=tctctct,d20=tctct,d21=lcllcl,d22=rcrrcr,d23=tctct,c10=a10=ctct,c11=c13=a11=a13=ctc,c12=a12=c,c14=a14=tctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [Z-paris-rcl]: https://d-bl.github.io/GroundForge/tiles?patchWidth=10&patchHeight=10&c1=crclcl&a1=clcrcr&d2=ctc&droste2=a15=c15=tctctct,d20=tctct,d21=lcllcl,d22=rcrrcr,d23=tctct,c10=a10=ctct,c11=c13=a11=a13=ctc,c12=a12=c,c14=a14=tctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-<a href="#droste">to top of page</a>
+
 ***
+<a href="#droste">to top of page</a>
