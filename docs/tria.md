@@ -63,5 +63,5 @@ The units can be placed all facing in the same direction, or alternating.
 [t-pg-diamond]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=lctcllctcll&b1=ctc&c1=ctc&e1=ctct&b2=ctc&c2=ctcrr&d2=ctctr&f2=ctctl&a3=ctct&b3=ctctt&c3=ctctr&e3=ctc&tile=215-5-,-786-5,246-5-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
 ***
-<a href="#triangular-grounds-or-pagodas">>&uArr;</a>         
+<a href="#triangular-grounds-or-pagodas">&uArr;</a>         
 
