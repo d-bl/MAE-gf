@@ -3,7 +3,7 @@ layout: default
 contact: true
 title: about us
 ---
-# About us &amp; Contact
+# About us and Contact
 ## Contents
 * [M.A.E. Tempels](#mae-tempels)
 * [Jo Pol](#jo-pol)
@@ -46,4 +46,4 @@ If you have suggestions, questions, want to share your own finds, or other remar
 <script>send("slepmet ea.nairam")</script>
 
 ***
-<a href="https://maetempels.github.io/MAE-gf/docs/about-us">to top of page</a>
+<a href="#about-us-and-contact">&uArr;</a>
