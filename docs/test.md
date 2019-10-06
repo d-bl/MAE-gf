@@ -31,15 +31,7 @@ buttons test
 <button type="button"><img src="../images_stitches/paris-lcr.png"></button>
 </a>
 
-Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is 
-Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is hetHet regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is hetHet regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is hetHet regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is hetHet regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het erg nat. Het regent hier en verder is het
-
-
 [p-paris-lcr]: ../images_stitches/paris-lcr.png            
 
-
-[hiero][toppop]
-
-[toppop]: ../docs/test
-
-***
+*** 
+<p>hr<p>
