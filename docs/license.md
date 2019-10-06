@@ -41,6 +41,7 @@ U. Ulrich: Gründe mit System
 V. Irvine: Developing a Mathematical Model for Bobbin Lace (paper)       
 V. Irvine: Tesselace. See Groundforge Examples pages   
 Whiting index: G. Whiting: A lace guide for makers and collectors           
+B. Cook and G. Stott: The book of bobbin lace stitches          
 
 ***
 <a href="#copyright-license-references">&uArr;</a>
