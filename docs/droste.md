@@ -113,4 +113,4 @@ The picture on the right shows another general scheme also based on the Paris gr
 
 
 ***
-<a href="#droste">to top of page</a>
+<a href="#droste">>&uArr;</a>
