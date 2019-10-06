@@ -33,6 +33,6 @@ buttons test
 
 [p-paris-lcr]: ../images_stitches/paris-lcr.png            
 
-<p>hr</p>
+<p><hr></p>
 lijn
 
