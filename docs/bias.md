@@ -104,7 +104,7 @@ Take one unit of the Bias ground, place them in alternating directions, and cros
 [t-0248]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&b1=ctc&a1=tct&d2=c&c2=ctc&b2=c&a2=ctc&d3=ctc&c3=tct&b3=ctc&d4=c&c4=ctc&b4=c&a4=ctc&tile=88-4,4831,-117,3178,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ***
-<a href="#bias-grounds">>&uArr;</a>
+<a href="#bias-grounds">&uArr;</a>
 
 
 
