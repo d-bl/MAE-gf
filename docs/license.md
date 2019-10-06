@@ -43,6 +43,6 @@ V. Irvine: Tesselace. See Groundforge Examples pages
 Whiting index: G. Whiting: A lace guide for makers and collectors           
 
 ***
-<a href="#copyright-license-references">>&uArr;</a>
+<a href="#copyright-license-references">&uArr;</a>
 
 [aboutus]: https://maetempels.github.io/MAE-gf/docs/about-us#write-us
