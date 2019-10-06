@@ -35,7 +35,7 @@ English is not my native language, so please forgive me any mistakes.
 [t-1211]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctct&b1=ct&d1=ct&a2=ct&c2=ct&shiftColsSE=3&shiftRowsSE=1&shiftColsSW=-4&shiftRowsSW=1&tile=88-1,4-58
 
 ***
-<a href="#start-page">to top of page</a>
+<a href="#start-page">&uArr;</a>
 
 [gf-main]: https://d-bl.github.io/GroundForge/
 [gf-jo]: https://github.com/jo-pol
