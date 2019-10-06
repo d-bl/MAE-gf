@@ -113,4 +113,4 @@ The picture on the right shows another general scheme also based on the Paris gr
 
 
 ***
-<a href="#droste">>&uArr;</a>
+<a href="#droste">&uArr;</a>
