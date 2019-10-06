@@ -85,7 +85,7 @@ Should you notice a photograph that doesn't match the generated thread diagram, 
 
 
 ***
-<a href="#flanders-grounds">to top of page</a>
+<a href="#flanders-grounds">>&uArr;</a>
 
 [pic-flan-rose]: https://maetempels.github.io/MAE-gf/images_wt/flanders.png
 
