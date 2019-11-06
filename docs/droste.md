@@ -79,9 +79,9 @@ In turn the _fancy Zeccatello_ uses the thread diagram of a Paris variation as p
 Note that the cloth stitch units are in fact a unit of a bias ground.    
 The picture on the right shows a general scheme. The stitches of the Paris ground are replaced with units. In the picture, one unit is indicated with a blue ellipse. The buttons below replace this unit with the unit shown on the button, and the unit to the right with its mirrored version.          
               
-[![ctc][p-paris-ctc]][Z-paris-ctc] 
-[![lcr][p-paris-lcr]][Z-paris-lcr] 
-[![rcl][p-paris-rcl]][Z-paris-rcl] 
+[![ctc][i-paris-ctc]][Z-paris-ctc] 
+[![lcr][i-paris-lcr]][Z-paris-lcr] 
+[![rcl][i-paris-rcl]][Z-paris-rcl] 
 <p style="clear: both"></p>
 
 ![][p-paris-droste]
@@ -97,6 +97,9 @@ The picture on the right shows another general scheme also based on the Paris gr
 [p-paris-lcr]: ../images_stitches/paris-lcr.png
 [p-paris-rcl]: ../images_stitches/paris-rcl.png
 [p-paris-ctc]: ../images_stitches/paris-ctc.png
+[i-paris-lcr]: ../images_stitches/i-paris-lcr.png
+[i-paris-rcl]: ../images_stitches/i-paris-rcl.png
+[i-paris-ctc]: ../images_stitches/i-paris-ctc.png
 
 [Paris]: https://d-bl.github.io/GroundForge/tiles?tile=-5&tileStitch=ct&droste2=ctct&patchWidth=5&patchHeight=6&shiftColsSW=-2&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=1
 [F12]: https://d-bl.github.io/GroundForge/tiles?whiting=F12_P190&patchWidth=10&patchHeight=10&f1=ctc&d1=tctct&b1=ctc&g2=ctctctc&e2=tctct&c2=tctct&a2=ctctctc&f3=ctc&d3=tctct&b3=ctc&g4=ctcrrctc&f4=ctc&e4=ctcllctc&c4=ctcrrctc&b4=ctc&a4=ctcllctc&tile=-4-5-7--,b-5-5-c-,-5-5-5--,a15-58d-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
