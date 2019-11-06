@@ -2,13 +2,13 @@
 layout: default
 contact: true
 ---
-# Copyright, license, references
+# Copyright, license, literature
 
 ## Contents
 * [Introduction](#introduction)
 * [Creators](#creators)
 * [License](#license)
-* [References](#references)
+* [Literature](#literature)
 
 ## Introduction
 On the pages of this website you will find many examples of grounds. Some examples are traditional. Others are our own finds. It is of course possible, that someone else has discovered the same ground.    
@@ -36,14 +36,21 @@ Most of the images are created using Knipling &reg; (&copy; Petra Pönisch Verla
 In short: you are free to share the examples as long as you give appropiate credit. You may not use the examples and images for commercial purposes. Please contact us if you wish to do so.
 
 
-## References
+## Literature
+Some of the publications listed here are mentioned on this website. Others are for more inspiration. Of course, this list is incomplete.             
 U. Ulrich: Gründe mit System        
 V. Irvine: Developing a Mathematical Model for Bobbin Lace (paper)       
 V. Irvine: Tesselace. See Groundforge Examples pages   
-Whiting index: G. Whiting: A lace guide for makers and collectors           
-B. Cook and G. Stott: The book of bobbin lace stitches          
+G. Whiting: A lace guide for makers and collectors ("Whiting index")           
+B. Cook and G. Stott: The book of bobbin lace stitches        
+H. Thumann and C. Aengeneyndt: Grund für Grund - Fast alles Torchon
+H. Thumann and C. Aengeneyndt: Grund für Grund - Moderne Torchonspitze
+H. Thumann and C. Aengeneyndt: Grund für Grund - Nicht ohne Grund
+U. Löhr: Viele gute Gründe    
+N. Andries, H. de Kok, G Landuyt and others: Van speldengrond tot Turnhoutse kant
+N. Andries: Naar de bron (Binche)
 
 ***
-<a href="#copyright-license-references">&uArr;</a>
+<a href="#copyright-license-literature">&uArr;</a>
 
 [aboutus]: https://maetempels.github.io/MAE-gf/docs/about-us#write-us
