@@ -37,7 +37,7 @@ In short: you are free to share the examples as long as you give appropiate cred
 Some of the publications listed here are mentioned on this website. Others are for more inspiration. Of course, this list is incomplete.             
 * U. Ulrich: Gründe mit System        
 * V. Irvine: Developing a Mathematical Model for Bobbin Lace (paper)       
-* V. Irvine: Tesselace. See Groundforge Examples pages   
+* V. Irvine: Tesselace. See [Tools / Tessalations from templates](https://tesselace.com/tools/inkscape-extension/)   
 * G. Whiting: A lace guide for makers and collectors ("Whiting index")           
 * B. Cook and G. Stott: The book of bobbin lace stitches                  
 * H. Thumann and C. Aengeneyndt: Grund für Grund - Fast alles Torchon           
@@ -46,7 +46,7 @@ Some of the publications listed here are mentioned on this website. Others are f
 * U. Löhr: Viele gute Gründe                   
 * N. Andries, H. de Kok, G Landuyt and others: Van speldengrond tot Turnhoutse kant              
 * N. Andries: Naar de bron (Binche)             
-* E. Kortelahti: Nyplättyä pitsiä (Bobbin lace)         
+* E. Kortelahti: Nyplättyä pitsiä (bobbin lace, 8 typical Kortelahti grounds)         
 
 ***
 <a href="#copyright-license-literature">&uArr;</a>
