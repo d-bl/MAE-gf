@@ -38,7 +38,7 @@ Some of the publications listed here are mentioned on this website. Others are f
 * U. Ulrich: Gründe mit System        
 * V. Irvine: Developing a Mathematical Model for Bobbin Lace (paper)       
 * V. Irvine: Tesselace. See [Tools / Tessalations from templates](https://tesselace.com/tools/inkscape-extension/)   
-* G. Whiting: A lace guide for makers and collectors [(Whiting index)](https://d-bl.github.io/GroundForge/help/Whiting-Index)          
+* G. Whiting: A lace guide for makers and collectors ([an index](https://d-bl.github.io/GroundForge/help/Whiting-Index))          
 * B. Cook and G. Stott: The book of bobbin lace stitches                  
 * H. Thumann and C. Aengeneyndt: Grund für Grund - Fast alles Torchon           
 * H. Thumann and C. Aengeneyndt: Grund für Grund - Moderne Torchonspitze              
@@ -47,6 +47,9 @@ Some of the publications listed here are mentioned on this website. Others are f
 * N. Andries, H. de Kok, G Landuyt and others: Van speldengrond tot Turnhoutse kant              
 * N. Andries: Naar de bron (Binche)             
 * E. Kortelahti: Nyplättyä pitsiä - Bobbin lace (8 typical Kortelahti grounds)         
+* Deutscher Klöppelverband e.V.: Moderne Gründe
+* K. Egger: Neue Raster, neue Gründe: Klöppeln für Fortgeschrittene
+
 
 ***
 <a href="#copyright-license-literature">&uArr;</a>
