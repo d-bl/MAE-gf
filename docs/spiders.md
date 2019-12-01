@@ -37,7 +37,7 @@ On the right, the general working scheme. Larger spiders are possible, but it wi
 * [4x2 legs][T-SQ2], [4x3 legs][T-SQ3], [4x4 legs][T-SQ4], [4x5 legs][T-SQ5]
 <p style="clear: both"></p>
 
-[p-sp-diamond]: ../images_wt/gf%20spin%204s%20wt.png?align=right
+[p-sp-diamond]: ../images_wt/gf-sp-sq.png?align=right
 
 [T-SQ2]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctctctc&d1=ctct&b2=ctcr&c2=ctct&d2=ctc&e2=ctct&f2=ctcl&a3=ctct&b3=ctct&c3=ctc&e3=ctc&f3=ctct&tile=5--5--,-C632B,566-22&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 [T-SQ3]: https://d-bl.github.io/GroundForge/tiles?whiting=H2_P220&patchWidth=15&patchHeight=15&a1=ctcctc&e1=ctct&b2=ctc&c2=ctc&d2=lctct&e2=ctc&f2=rctct&g2=ctc&h2=ctc&a3=ctc&b3=ctc&c3=lctct&d3=ctc&e3=ctc&f3=ctc&g3=rctct&h3=ctc&a4=ctc&b4=lctct&c4=ctc&d4=ctc&f4=ctc&g4=ctc&h4=rctct&tile=5---5---,-CD632AB,56663222,5666-222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
