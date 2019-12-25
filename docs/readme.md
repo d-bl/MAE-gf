@@ -1,1 +1,1 @@
-Please choose a page in the menu on the right.
+In this folder the pages of the site.
