@@ -117,7 +117,7 @@ The picture on the right shows another general scheme also based on the Paris gr
 
 ## More examples
 ### &quot;&amp;&quot; ground
-The following examples use a stitch like <span class="stch">crctclcr</span> in the first step. The first level of example 1 is interesting: every single tread takes the same path!           
+The following examples use a stitch like <span class="stch">crctclcr</span> in the first step. The first step of example 1 is interesting: every single tread takes the same path!           
 * [example 1][D-LL-1], [example 2][D-LL-2], [example 3][D-LL-3]
 
 
