@@ -116,7 +116,7 @@ The picture on the right shows another general scheme also based on the Paris gr
 [Z-paris-rcl]: https://d-bl.github.io/GroundForge/tiles?patchWidth=10&patchHeight=10&c1=crclcl&a1=clcrcr&d2=ctc&droste2=a15=c15=tctctct,d20=tctct,d21=lcllcl,d22=rcrrcr,d23=tctct,c10=a10=ctct,c11=c13=a11=a13=ctc,c12=a12=c,c14=a14=tctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ## More examples
-### Dovetail ground
+### &quot;&amp;&quot; ground
 The following examples use a stitch like <span class="stch">crctclcr</span> in the first step. The first level of example 1 is interesting: every single tread takes the same path!           
 * [example 1][D-LL-1], [example 2][D-LL-2], [example 3][D-LL-3]
 
