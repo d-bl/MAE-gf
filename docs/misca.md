@@ -18,7 +18,7 @@ title: miscellaneous
 
 **Others**
 * [Alternate stitch ground (om &amp; om)](#alternate-stitch-ground)
-* [3 paired star](3-paired-star)
+* [3 paired star](#3-paired-star)
 
 ## Introduction
 Miscellaneous examples, collected on this page. 
