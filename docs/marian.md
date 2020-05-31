@@ -58,6 +58,7 @@ This stitch I created because I wished to see a little loop at the sides of the 
 
 ## Ants
 Ants came to life as a variation of the Slavic ground. The result looks like ants, see mt-0665. In effect, the threads between the bottom and top position of two units will be <span class="stch">crossed</span> four times. Please note that there are no twists between the <span class="stch">cross only</span> and <span class="stch">whole stitch</span> at the pins.            
+The _3 paired crossed star_  looks like one. For the real star see page _[Miscellaneous][p-3-star]_.    
 
 ![ants-foto][foto-0692] ![ants][pic-0692]           
 
@@ -68,6 +69,7 @@ Ants came to life as a variation of the Slavic ground. The result looks like ant
 [T-0692]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&a1=tctcc&b1=c&c1=cctct&d1=c&b2=c&d2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0665]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&a1=ctctct&b1=c&c1=tctctc&d1=c&b2=c&d2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-3cc]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&a1=tctc&b1=cc&c1=ctct&d1=cc&b2=c&d2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[p-3-star]: ../docs/misca#3-paired-star
 
 ## Another fish
 ![Another fish][pic-1111]
