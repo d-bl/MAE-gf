@@ -43,7 +43,8 @@ Some of the publications listed here are mentioned on this website. Others are f
 * V. Irvine: Developing a Mathematical Model for Bobbin Lace (paper)       
 * V. Irvine: Tesselace. See [Tools / Tessalations from templates](https://tesselace.com/tools/inkscape-extension/)   
 * E. Kortelahti: Nyplättyä pitsiä - Bobbin lace (8 typical Kortelahti grounds)         
-* U. Löhr: Viele gute Gründe                
+* U. Löhr: Viele gute Gründe      
+* A. Rühle: Fillings from Hunnia Lace     
 * H. Thumann and C. Aengeneyndt: Grund für Grund - Fast alles Torchon           
 * H. Thumann and C. Aengeneyndt: Grund für Grund - Moderne Torchonspitze              
 * H. Thumann and C. Aengeneyndt: Grund für Grund - Nicht ohne Grund              
