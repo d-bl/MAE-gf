@@ -97,7 +97,7 @@ However, the values for the repeat-parameter are set such that the stitches can 
 
 [T-0504-c]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&f1=tct&e1=ctct&c1=ctct&b1=tct&a1=tctctc&f2=ctct&e2=ct&d2=ctctct&c2=ct&b2=ctct&e3=crc&c3=clc&a3=ctct&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
-[T-3-star]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=24&c1=c&a1=tttc&b2=rrrclcrc&a3=clc&b4=lc&tile=7-b-,-5x-,b-x-,-cx-&tileStitch=ctct&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
+[T-3-star]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=24&c1=c&b1=rrrclcrc&a1=tttc&b2=lc&a2=clc&tile=734-,48x-&tileStitch=ctct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 
 
