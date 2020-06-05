@@ -57,14 +57,13 @@ However, the values for the repeat-parameter are set such that the stitches can 
 <p style="clear: both"></p>
 
 ## 3 paired star
-
+There are several ways of making three-paired joins. As Groundforge does not do real three-paired joins, we decomposed the join in several 2-paired joins, and show approximately how the stitch looks like. We would like to thank Gibritte for inspiring us. She noticed, that you can make a star-join on the fish-scheme!    
 * Star   
 [![p-3pr-st-h]][t-3pr-st-h] [![p-3pr-st-v]][t-3pr-st-v]     
 * Triangle       
 [![p-3pr-tr-h]][t-3pr-tr-h] [![p-3pr-tr-v]][t-3pr-tr-v]    
 * Fish       
 [![p-3pr-fh-h]][t-3pr-fh-h]  
-
 
 ***
 <a href="#miscellaneous-examples">&uArr;</a>
@@ -90,7 +89,7 @@ However, the values for the repeat-parameter are set such that the stitches can 
 
 [t-3pr-st-h]: https://d-bl.github.io/GroundForge/tiles?patchWidth=8&patchHeight=12&d1=c&b1=ctct&l2=ctctrrr&d2=crclcrrr&c2=crclc&b2=ctcttt&a2=ctctl&d3=cttt&k4=ctct&c4=c&l5=ctctrr&k5=ctctrr&d5=clcrc&c5=clcrclll&a5=ctctll&c6=cttt&footside=x4,48,xx,x-,1z,xw&tile=-5,68,-7,5-,12,4-&headside=-x,V8,YX,7X,17,XX&footsideStitch=ctct&tileStitch=ctc&headsideStitch=ctct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6
 
-[t-3pr-st-v]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&b1=clcrc&a1=c&d3=clcrclll&a3=cttt&c4=c&b4=crclc&d6=crclcrrr&c6=cttt&tile=76x-,yxxy,6-x4,x24-,xxww,x-27&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6
+[t-3pr-st-v]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&b1=clcrc&a1=c&d3=clcrclll&a3=cttt&c4=c&b4=crclc&d6=crclcrrr&c6=cttt&tile=76x-,yxxy,6-x4,x24-,xxww,x-27&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6
 
 [t-3pr-tr-h]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&b1=ctcttt&b2=lllctc&a2=ctc&a3=ctcttt&b4=ctclll&a4=ctc&tile=-4,68,7-,12&tileStitch=ctc&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 
