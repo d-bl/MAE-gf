@@ -57,7 +57,7 @@ However, the values for the repeat-parameter are set such that the stitches can 
 <p style="clear: both"></p>
 
 ## 3 paired star
-There are several ways of making three-paired joins. As Groundforge does not do real three-paired joins, we decomposed the join in several 2-paired joins, and show approximately how the stitch looks like. We would like to thank Gibritte for inspiring us. She noticed, that you can make a star-join on the fish-scheme! Please click on the picture of the join you wish to see.        
+There are several ways of making three-paired joins. As Groundforge does not do real three-paired joins, we decomposed the join in several 2-paired joins, and show approximately how the stitch looks like. We would like to thank Gibritte for inspiring us. She discovered, that you can make a star-join on the fish-scheme! Please click on the picture of the join you wish to see.        
 * Star   
 [![p-3pr-st-h]][t-3pr-st-h] [![p-3pr-st-v]][t-3pr-st-v]     
 * Triangle       
