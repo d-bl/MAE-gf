@@ -18,7 +18,7 @@ title: miscellaneous
 
 **Others**
 * [Alternate stitch ground (om &amp; om)](#alternate-stitch-ground)
-* [3 paired star](#3-paired-star)
+* [3 paired join](#3-paired-join)
 
 ## Introduction
 Miscellaneous examples, collected on this page. 
@@ -56,7 +56,7 @@ However, the values for the repeat-parameter are set such that the stitches can 
 * [o&amp;o 11][T-OO-11], [o&amp;o 12][T-OO-12], [o&amp;o 12a][T-OO-12a]
 <p style="clear: both"></p>
 
-## 3 paired star
+## 3 paired join
 There are several ways of making three-paired joins. As Groundforge does not do real three-paired joins, we decomposed the join in several 2-paired joins, and show approximately how the stitch looks like. We would like to thank Gibritte for inspiring us. She discovered, that you can make a star-join on the fish-scheme! Please click on the picture of the join you wish to see.        
 * Star   
 [![p-3pr-st-h]][t-3pr-st-h] [![p-3pr-st-v]][t-3pr-st-v]     
