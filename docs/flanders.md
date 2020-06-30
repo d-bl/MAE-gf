@@ -13,7 +13,7 @@ sadly these patterns are also more error prone. So do keep the generated thread 
 
 See also [Whiting] A2, B2, B6, C6, C9, [Droste] ctct and [rose ground in a diamond][squared rose] grounds.
 
-[Whiting]: https://d-bl.github.io/GroundForge/help/Whiting-Index
+[Whiting]: https://d-bl.github.io/gw-lace-to-gf
 [Droste]: https://d-bl.github.io/GroundForge/help/Droste-effect#stitches
 [squared rose]: https://maetempels.github.io/MAE-gf/docs/misca#rose-ground-in-a-diamond
 
