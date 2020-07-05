@@ -27,7 +27,7 @@ purpose: test only
 # test
 
 Test include
-{% include incltest.md}
+{% include incltest.md %}
 [gf][T-024-KF]
 ![plaatje][p-big-paris]
 ![geen incl][p-paris-lcr]
