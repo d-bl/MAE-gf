@@ -26,8 +26,8 @@ purpose: test only
 
 # test
 
-Test include
-{% include incltest.md var-x=T-024-KF%}
+Test include met var          
+{% include incltest.md var-x="T-024-KF"%}
 [gf][T-024-KF]
 ![plaatje][p-big-paris]
 ![geen incl][p-paris-lcr]
