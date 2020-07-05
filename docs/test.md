@@ -26,9 +26,10 @@ purpose: test only
 
 # test
 
+Test include
 {% include incltest.md}
-[T-024-KF]
-[p-big-paris]
+[gf][T-024-KF]
+[plaatje][p-big-paris]
 
 
 
