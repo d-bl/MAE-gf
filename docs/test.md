@@ -29,7 +29,8 @@ purpose: test only
 Test include
 {% include incltest.md}
 [gf][T-024-KF]
-[plaatje][p-big-paris]
+![plaatje][p-big-paris]
+![geen incl][p-paris-lcr]
 
 
 
