@@ -32,6 +32,9 @@ Test include
 ![plaatje][p-big-paris]
 ![geen incl][p-paris-lcr]
 
+xls:
+<xsl:value-of select="bg-paris"/>
+
 
 
 buttons test
