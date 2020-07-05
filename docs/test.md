@@ -23,7 +23,14 @@ purpose: test only
   
 </style>
 
+
 # test
+
+{% include incltest.md}
+[T-024-KF]
+[p-big-paris]
+
+
 
 buttons test
 
