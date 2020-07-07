@@ -24,7 +24,7 @@ purpose: test only
   
 </style>
 
-verhaaltje verhaaltje [Abc](#Abc), rest van verhaaltje
+verhaaltje verhaaltje [A1](#A1), rest van verhaaltje [A2](A2)
 
 
 
@@ -56,5 +56,6 @@ lijn
 <button type="button"><img src="../images_stitches/paris-lcr.png"></button>
 </a><br>
 
-### Abc
+### A1
+### A2
 
