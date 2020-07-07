@@ -24,7 +24,7 @@ purpose: test only
   
 </style>
 
-verhaaltje verhaaltje [A1](#A1), rest van verhaaltje [A2](#A2)    [A4](###A4)      
+verhaaltje verhaaltje [A1](#A1), rest van verhaaltje [A2](#A2)    [A4](###A4)      [#A1]
 
 [A1](#A1),         
 [A2](#A2)            
