@@ -24,11 +24,7 @@ purpose: test only
   
 </style>
 
-[abc]()  
-[abc](#abc)     
-[abc]   
-[](#abc)    
-(#abc)
+[abc](), [abc](#abc), [abc], [](#abc), (#abc)
 
 
 
