@@ -28,12 +28,8 @@ purpose: test only
 </style>
 
 
+
 # test
-
-### abc
-
-
-
 
 buttons test
 
@@ -45,4 +41,21 @@ buttons test
 
 <p><hr></p>
 lijn
+<a href="../images_stitches/paris-lcr.png">
+<button type="button"><img src="../images_stitches/paris-lcr.png"></button>
+</a></br>
+<a href="../images_stitches/paris-lcr.png">
+<button type="button"><img src="../images_stitches/paris-lcr.png"></button>
+</a></br>
+<a href="../images_stitches/paris-lcr.png">
+<button type="button"><img src="../images_stitches/paris-lcr.png"></button>
+</a></br>
+<a href="../images_stitches/paris-lcr.png">
+<button type="button"><img src="../images_stitches/paris-lcr.png"></button>
+</a></br>
+<a href="../images_stitches/paris-lcr.png">
+<button type="button"><img src="../images_stitches/paris-lcr.png"></button>
+</a></br>
+
+### abc
 
