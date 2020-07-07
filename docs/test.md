@@ -41,6 +41,13 @@ buttons test
 
 <p><hr></p>
 lijn
+<br>
+<a href="../images_stitches/paris-lcr.png">
+<button type="button"><img src="../images_stitches/paris-lcr.png"></button>
+</a><br>
+<a href="../images_stitches/paris-lcr.png">
+<button type="button"><img src="../images_stitches/paris-lcr.png"></button>
+</a><br>
 <a href="../images_stitches/paris-lcr.png">
 <button type="button"><img src="../images_stitches/paris-lcr.png"></button>
 </a><br>
