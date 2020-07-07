@@ -27,6 +27,7 @@ purpose: test only
 [abc]()  
 [abc](#abc)     
 [abc]   
+[](#abc)    
 
 
 
