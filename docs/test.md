@@ -24,7 +24,7 @@ purpose: test only
   
 </style>
 
-[abc](), [abc](#abc), [abc], [](#abc), (#abc)
+[abc](), [Abc](#Abc), [abc], [](#abc), (#abc)
 
 
 
@@ -56,5 +56,5 @@ lijn
 <button type="button"><img src="../images_stitches/paris-lcr.png"></button>
 </a><br>
 
-### abc
+### Abc
 
