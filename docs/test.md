@@ -24,10 +24,12 @@ purpose: test only
   
 </style>
 
-verhaaltje verhaaltje [A1](#A1), rest van verhaaltje [A2](#A2)           
+verhaaltje verhaaltje [A1](#A1), rest van verhaaltje [A2](#A2)    [A4](###A4)      
 
 [A1](#A1),         
-[A2](#A2)
+[A2](#A2)            
+[A3](#A3)   
+[A4](###A4)
 
 
 
@@ -68,4 +70,6 @@ lijn
 
 ### A1           
 ### A2
+# A3
+### A4
 
