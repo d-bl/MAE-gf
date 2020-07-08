@@ -3,7 +3,7 @@ layout: default
 title: lotus
 ---
 
-# Milanese Lotus & Lattice
+# Milanese Lotus &amp; Lattice
 
 ## Contents
 * [Introduction](#introduction)
