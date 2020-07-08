@@ -29,7 +29,7 @@ Please note: when making the actual lace, it will make a big difference if the u
 Ground mt-0504 is used as illustration of different ways to join the unit in the diamond.
 
 ![torchon-flemish][pic-tor-flem]      
-![photo-0112-torchon][ph-0112-t] ![photo-0112-flemish][ph-0112-f] "mt-0112"
+![photo-0112-torchon][ph-0112-t] ![photo-0112-flemish][ph-0112-f]   
 * [mt-0112][T-0112], [mt-0116][T-0116]
 * [mt-0504 a][T-0504-a], [mt-0504 b][T-0504-b], [mt-0504 c][T-0504-c]
 
@@ -79,8 +79,8 @@ There are several ways of making three-paired joins. As Groundforge does not do 
 [pic-0306-OIv]: ../images_wt/gf%200301%20wt.png
 [pic-oeno]: ../images_wt/gf-oeno-11.png?align=right
 
-[ph-0112-t]: ../photos/ph-0112-t.jpg
-[ph-0112-f]: ../photos/ph-0112-f.jpg
+[ph-0112-t]: ../photos/ph-0112-t.jpg "mt-0112"
+[ph-0112-f]: ../photos/ph-0112-f.jpg "mt-0112"
 
 [p-3pr-st-h]: ../images/3pr-st-h.png
 [p-3pr-st-v]: ../images/3pr-st-v.png
