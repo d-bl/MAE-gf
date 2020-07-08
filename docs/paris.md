@@ -53,7 +53,7 @@ The following example (mt-0404) shows three different matrix-scheme's to obtain 
 [T-0404-t]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&b1=ctc&d1=ctct&a2=cr&c2=cl&tile=-5-5,5-5-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
         
 ***
-<a href="#paris-grounds">&uArr;</a> 
+[&uArr;]()
 
 
 
