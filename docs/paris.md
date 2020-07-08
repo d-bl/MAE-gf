@@ -18,7 +18,7 @@ The examples on this page came to life as variations on a rose-ground with "do n
 The photo shows the example on the bottom of this page, but slighty adapted to get the colours right.
 <p style="clear: both"></p>
 
-[p-0434]: ../photos/0434.png?align=right "mt-434"
+[p-0434]: ../photos/0434.png?align=right "mt-0434"
 
 ## Traditional Paris ground
 ![paris ground][pic-par-grnd]
