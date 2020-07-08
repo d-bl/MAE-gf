@@ -97,7 +97,6 @@ Take just one unit of the Bias ground and place them all in the same direction (
 ### Crossed
 [![alternating and cross][p-0248]][t-0248]
 Take one unit of the Bias ground, place them in alternating directions, and cross at the corners.            
-(mt-0248)
 <p style="clear: both"></p>
 
 [p-0248]: ../images_wt/02YQ2.png?align=left "mt-0248"
