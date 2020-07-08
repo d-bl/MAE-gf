@@ -13,12 +13,12 @@ title: Paris Grounds
 * [Way of making](#way-of-making)
 
 ## Introduction
-![photo mt-0434][p-0434] "mt-434"
+![photo mt-0434][p-0434] 
 The examples on this page came to life as variations on a rose-ground with "do nothing (much)" on the left and right. My first studies of Groundforge learned me, that the scheme needed was actually a paris ground!<br>
 The photo shows the example on the bottom of this page, but slighty adapted to get the colours right.
 <p style="clear: both"></p>
 
-[p-0434]: ../photos/0434.png?align=right 
+[p-0434]: ../photos/0434.png?align=right "mt-434"
 
 ## Traditional Paris ground
 ![paris ground][pic-par-grnd]
