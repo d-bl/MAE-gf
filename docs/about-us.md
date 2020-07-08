@@ -45,7 +45,8 @@ I'm happy to share the results with you.
 If you have suggestions, questions, want to share your own finds, or other remarks: please let us know. We can read Dutch, English, German. You can <script>send("slepmet ea.nairam")</script>, or join us on our [forum].   
 
 ***
-<a href="#about-us-and-contact">&uArr;</a>
+<a href="#about-us-and-contact">&uArr;</a>     
+[&uArr]()
 
 [forum]: https://groups.io/g/GroundForge/topics
 
