@@ -3,7 +3,7 @@ layout: default
 title: lotus
 ---
 
-# Milanese Lotus and Lattice
+# Milanese Lotus & Lattice
 
 ## Contents
 * [Introduction](#introduction)
@@ -37,7 +37,7 @@ Lotus H,V,X means: the number of Horizontal rows, the number of Verticals and th
 
 
 ***
-<a href="#milanese-lotus-and-lattice">&uArr;</a>
+[&uArr;]()
 
 [lotus_wt]: ../images_wt/gf%20lotus%20wt.png
 [lotus_gen]: ../images_wt/mx-lotus.png
