@@ -67,7 +67,7 @@ There are several ways of making three-paired joins. As Groundforge does not do 
 <p style="clear: both"></p>
 
 ***
-<a href="#miscellaneous-examples">&uArr;</a>
+[&uArr;]()
 
 [page-snow]: ../docs/snowflakes#snowflake-in-a-diamond
 [page-spid]: ../docs/spiders
