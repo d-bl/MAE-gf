@@ -10,7 +10,7 @@ title: about us
 * [Write us](#write-us)
 
 ## M.A.E. Tempels
-{% include picts-centr.html alt="tulip Mondrian style" src="../photos/IMG_0997c.jpg" %}
+{% include picts-centr.html alt="tulip Mondrian style" src="../photos/IMG_0997c.jpg" title="Tulip in Mondriaan style, 2017" %}
 
 Living in the Netherlands.        
 
