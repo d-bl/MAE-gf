@@ -52,6 +52,6 @@ Some of the publications listed here are mentioned on this website. Others are f
 * G. Whiting: A lace guide for makers and collectors ([an index](https://d-bl.github.io/gw-lace-to-gf))          
         
 ***
-<a href="#copyright-license-literature">&uArr;</a>
+[&uArr;]()
 
 [aboutus]: https://maetempels.github.io/MAE-gf/docs/about-us#write-us
