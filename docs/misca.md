@@ -29,7 +29,7 @@ Please note: when making the actual lace, it will make a big difference if the u
 Ground mt-0504 is used as illustration of different ways to join the unit in the diamond.
 
 ![torchon-flemish][pic-tor-flem]      
-![photo-0112-torchon][ph-0112-t] ![photo-0112-flemish][ph-0112-f]
+![photo-0112-torchon][ph-0112-t] ![photo-0112-flemish][ph-0112-f] "mt-0112"
 * [mt-0112][T-0112], [mt-0116][T-0116]
 * [mt-0504 a][T-0504-a], [mt-0504 b][T-0504-b], [mt-0504 c][T-0504-c]
 
