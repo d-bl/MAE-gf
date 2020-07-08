@@ -24,52 +24,16 @@ purpose: test only
   
 </style>
 
-verhaaltje verhaaltje [A1](#A1), rest van verhaaltje [A2](#A2)    [A4](###A4)      [#A1]
-
-[A1](#A1),         
-[A2](#A2)            
-[A3](#A3)   
-[A4](###A4)
-
-
 
 # test
 
 buttons test
 
 <a href="../images_stitches/paris-lcr.png">
-<button type="button"><img src="../images_stitches/paris-lcr.png"></button>
+<button type="button"><img title="paris fashion" src="../images_stitches/paris-lcr.png"></button>
 </a>
 
 [p-paris-lcr]: ../images_stitches/paris-lcr.png            
 
-<p><hr></p>
-lijn
-<br>
-<a href="../images_stitches/paris-lcr.png">
-<button type="button"><img src="../images_stitches/paris-lcr.png"></button>
-</a><br>
-<a href="../images_stitches/paris-lcr.png">
-<button type="button"><img src="../images_stitches/paris-lcr.png"></button>
-</a><br>
-<a href="../images_stitches/paris-lcr.png">
-<button type="button"><img src="../images_stitches/paris-lcr.png"></button>
-</a><br>
-<a href="../images_stitches/paris-lcr.png">
-<button type="button"><img src="../images_stitches/paris-lcr.png"></button>
-</a><br>
-<a href="../images_stitches/paris-lcr.png">
-<button type="button"><img src="../images_stitches/paris-lcr.png"></button>
-</a><br>
-<a href="../images_stitches/paris-lcr.png">
-<button type="button"><img src="../images_stitches/paris-lcr.png"></button>
-</a><br>
-<a href="../images_stitches/paris-lcr.png">
-<button type="button"><img src="../images_stitches/paris-lcr.png"></button>
-</a><br>
 
-### A1           
-### A2
-# A3
-### A4
 
