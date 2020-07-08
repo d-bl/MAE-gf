@@ -3,7 +3,7 @@ layout: default
 contact: true
 title: about us
 ---
-# About us and Contact
+# About us & Contact
 ## Contents
 * [M.A.E. Tempels](#mae-tempels)
 * [Jo Pol](#jo-pol)
@@ -45,8 +45,7 @@ I'm happy to share the results with you.
 If you have suggestions, questions, want to share your own finds, or other remarks: please let us know. We can read Dutch, English, German. You can <script>send("slepmet ea.nairam")</script>, or join us on our [forum].   
 
 ***
-<a href="#about-us-and-contact">&uArr;</a>     
-[&uArr]()
+[&uArr;]()
 
 [forum]: https://groups.io/g/GroundForge/topics
 
