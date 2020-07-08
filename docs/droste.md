@@ -128,4 +128,4 @@ The following examples use a stitch like <span class="stch">crctclcr</span> in t
 
 
 ***
-<a href="#droste">&uArr;</a>
+[&uArr;]()
