@@ -13,19 +13,19 @@ title: Paris Grounds
 * [Way of making](#way-of-making)
 
 ## Introduction
-![photo mt-0434][p-0434]
+![photo mt-0434][p-0434] "mt-434"
 The examples on this page came to life as variations on a rose-ground with "do nothing (much)" on the left and right. My first studies of Groundforge learned me, that the scheme needed was actually a paris ground!<br>
 The photo shows the example on the bottom of this page, but slighty adapted to get the colours right.
 <p style="clear: both"></p>
 
-[p-0434]: ../photos/0434.png?align=right
+[p-0434]: ../photos/0434.png?align=right 
 
 ## Traditional Paris ground
 ![paris ground][pic-par-grnd]
 * [mt-0402][T-0402-LG], [mt-0403][T-0403-KG], [mt-0424][T-0424-KG]      
 * The last example as a unit, [connected with plaits][T-0424-KF]
 
-[pic-par-grnd]: ../images_wt/G-04.png "mt-0404"
+[pic-par-grnd]: ../images_wt/G-04.png    
 [T-0402-LG]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&a1=ctc&c1=ctc&d2=ctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0403-KG]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=20&a1=c&c1=c&d2=tctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0424-KG]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=20&a1=cr&c1=cl&d2=ctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
