@@ -42,10 +42,9 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 
 ## Snowflake in a diamond
 [![snowflake in diamond][p-snow-diamond]][t-snow-diamond]
-(mt-0306)
 <p style="clear: both"></p>
 
-[p-snow-diamond]: ../images_wt/sn-uni-sq.png?align=left
+[p-snow-diamond]: ../images_wt/sn-uni-sq.png?align=left "mt-0306"
 [t-snow-diamond]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ct&d1=ctctt&b2=ctr&c2=ctctt&d2=ctct&e2=ctctt&f2=ctl&a3=ctctt&b3=ctctt&c3=ct&e3=ct&f3=ctctt&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5--5--,-C632B,566-22
 
 ## Snowflake in a diamond, crossed
