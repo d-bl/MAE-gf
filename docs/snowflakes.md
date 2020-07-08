@@ -68,7 +68,7 @@ The thread diagram for ground mt-0356 can also be obtained as a rose ground in a
 
    
 ***
-<a href="#snowflakes">&uArr;</a>     
+[&uArr;]()
 
 [page-spiders]: ../docs/spiders#binche-spiders
 [page-tips]: ../docs/tricks#ground-names
