@@ -60,12 +60,12 @@ This stitch I created because I wished to see a little loop at the sides of the 
 Ants came to life as a variation of the Slavic ground. The result looks like ants, see mt-0665. In effect, the threads between the bottom and top position of two units will be <span class="stch">crossed</span> four times. Please note that there are no twists between the <span class="stch">cross only</span> and <span class="stch">whole stitch</span> at the pins.            
 The _Star_ looks like a three paired join, but has crossings instead of twists. For the real star see page [_Miscellaneous_][p-3-join].      
 
-![ants-foto][foto-0692] ![ants][pic-0692] (mt-0692)          
+![ants-foto][foto-0692] ![ants][pic-0692]              
 
 * [mt-0692][T-0692], [mt-0665][T-0665], [Star][T-3cc]        
 
-[foto-0692]: ../photos/gf-0692-foto.jpg
-[pic-0692]: ../images_wt/gf-0692.png
+[foto-0692]: ../photos/gf-0692-foto.jpg "mt-0692"
+[pic-0692]: ../images_wt/gf-0692.png "mt-0692"
 [T-0692]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&a1=tctcc&b1=c&c1=cctct&d1=c&b2=c&d2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0665]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&a1=ctctct&b1=c&c1=tctctc&d1=c&b2=c&d2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-3cc]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&a1=tctc&b1=cc&c1=ctct&d1=cc&b2=c&d2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -86,10 +86,9 @@ The following patterns I created one quarter turned, so you had to work "upwards
 [![bias and paris][p-2111]][t-2111]
 As the pattern above, this pattern also was created one quarter turned.              
          
-(mt-2111)
 <p style="clear: both"></p>
 
-[p-2111]: ../images_wt/gf-mine1.png?align=left
+[p-2111]: ../images_wt/gf-mine1.png?align=left "mt-2111"
 [t-2111]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&b1=ctct&d1=ctct&a2=ctct&b2=ct&c2=ctct&d2=ct&e2=ctct&a3=ct&b3=ctct&d3=ctct&e3=ct&f3=ctct&tile=-7-4--,B831C-,66-225&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
 ## Stretched
@@ -111,29 +110,26 @@ The one on the left is a bias ground, stretched vertically, as found in the Whti
 
 ## Roses with vertical
 [![roses with vertical][p-3115]][t-3115]
-(mt-3115)
 <p style="clear: both"></p>
 
-[p-3115]: ../images_wt/gf-wt-g31.png?align=left
+[p-3115]: ../images_wt/gf-wt-g31.png?align=left "mt-3115"
 [t-3115]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&b1=tctct&a2=c&c2=c&d2=tctctc&a3=ctc&c3=ctc&a4=c&c4=c&d4=ctctct&tile=-5--,B-C3,7-4-,8-15&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Bias with vertical
 [![bias with vertical][p-3228]][t-3228]
-(mt-3228)
 <p style="clear: both"></p>
 
-[p-3228]: ../images_wt/gf-wt-g32.png?align=left
+[p-3228]: ../images_wt/gf-wt-g32.png?align=left "mt-3228"
 [t-3228]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&b1=ctc&c1=ctc&d1=ctc&b2=ctc&c2=ctctc&d2=ctc&b3=ctcr&c3=ctc&d3=ctcl&a4=ttctctt&tile=-C3B,-488,-148,5---&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Windmills
 [![windmill][p-4201]][t-4201]
 [![windmill][p-4301]][t-4301]
 Inspired by origami.                 
-(mt-4201, mt-4301)
 <p style="clear: both"></p>
 
-[p-4201]: ../images_wt/G42.png?align=left
-[p-4301]: ../images_wt/G43.png?align=left
+[p-4201]: ../images_wt/G42.png?align=left "mt-4201"
+[p-4301]: ../images_wt/G43.png?align=left "mt-4301"
 [t-4201]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctc&d1=ctctt&f1=ctc&a2=ctc&b2=ctc&c2=ctcrr&e2=ctcll&f2=ctc&a3=ctc&b3=ctcrr&d3=ctc&f3=ctcll&tile=15-7-2,886-58,14-5-1&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 [t-4301]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&g1=ctct&e1=ctct&c1=ctc&a1=ctct&h2=ctct&f2=ctct&d2=ctc&c2=ctc&b2=ctc&g3=ctct&e3=ctcr&d3=ctc&c3=ctc&b3=ctc&a3=ctcl&h4=ctct&f4=ctct&d4=ctcr&c4=ctc&b4=ctc&tile=5-5-5-7-,-215-5-5,58886-5-,-114-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
