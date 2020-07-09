@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bias Grounds
+title: Bias grounds
 ---
 
 # Bias Grounds
@@ -25,7 +25,7 @@ The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagra
 Other nice grounds can be obtained by using one unit only.
 <p style="clear: both"></p>
 
-[p-bias-wt]: ../images_wt/gf-0221-wt.png?align=right
+[p-bias-wt]: ../images_wt/gf-0221-wt.png?align=right "traditional bias ground"
 
 ## Traditional Bias Ground
 ![traditional][p-0221-tr]
@@ -89,7 +89,7 @@ Take just one unit of the Bias ground and place them all in the same direction (
 
 [pic-0228-OG]: ../images_wt/gf%200228-OG.png
 [pic-0228-OGy]: ../images_wt/gf%200228%20OGy.png
-[foto-0228-OGy]: ../photos/gf-0228-foto.jpg
+[foto-0228-OGy]: ../photos/gf-0228-foto.jpg "mt-0228, as solo units placed in alternating directions"
 [T-0228-OG]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=tct&b1=ctc&d1=ctc&a2=ctc&c2=ctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=86-5,4-5-
 [T-0228-OGy]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=tct&b1=ctc&d1=ctc&a2=ctc&c2=ctc&b3=ctc&c3=tct&d3=ctc&a4=ctc&c4=ctc&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=0&shiftRowsSW=4&tile=15-2,7-5-,-586,5-4-
 [T-0267-OGy]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctcr&d1=ctct&a2=ctct&c2=ctcl&b3=ctcl&c3=ctc&d3=ctct&a4=ctcr&c4=ctct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=0&shiftRowsSW=4&tile=15-2,7-5-,-586,5-4-
