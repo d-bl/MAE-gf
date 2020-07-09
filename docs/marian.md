@@ -36,8 +36,8 @@ The traditional units separated with plaits. Ground mt-0116 uses the rose-ground
 Ground mt-0342 is meant to be made with pins at the sides of the snowflake-unit, as shown in the picture. The ground came into being as a half stitch spider, but forgetting the twists at the corners. The unit resembles ground 3054 from _U. Ulrich: Gründe mit System_, which has no side pins, and does not cross at the corners.
 <p style="clear: both"></p>
 
-[p-fusion]: ../images_wt/gf-fusion.png?align=right
-[p-0342]: ../images_wt/gf-wt-0342-KF.png?align=right
+[p-fusion]: ../images_wt/gf-fusion.png?align=right "fusion"
+[p-0342]: ../images_wt/gf-wt-0342-KF.png?align=right "mt-0342"
 
 [T-0116]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctctc&b1=ctctctctc&c1=ctctc&d1=ctctctctc&b2=ctc&d2=ctc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0342]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&c1=cr&e1=cl&b2=ctctctctc&d2=c&f2=ctctctctc&h2=ct&a3=ct&g3=ct&h4=ctct&tile=--B-C---,-E-5-O-K,5-----5-,-------5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
@@ -50,7 +50,7 @@ This stitch I created because I wished to see a little loop at the sides of the 
 * [mt-0902-l][T-0902-l], [mt-0902-f][T-0902-f], [mt-0902-q][T-0902-q]
 <p style="clear: both"></p>
 
-[p-sunny]: ../images_wt/gf-0902-wt.png?align=right
+[p-sunny]: ../images_wt/gf-0902-wt.png?align=right "sunny stitch"
 
 [T-0902-l]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&c1=ctctc&b1=ctc&a1=ctctc&d2=clcrrclc&b2=crcllcrc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0902-f]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctctc&b1=ctctctctc&c1=ctctc&d1=ctctctctc&b2=crcllcrc&d2=clcrrclc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -78,7 +78,7 @@ The following patterns I created one quarter turned, so you had to work "upwards
 
 * [mt-1114][T-1114], [mt-1111][T-1111] (after turning one quarter)
 
-[pic-1111]: ../images_wt/gf-mine2.png?align=left
+[pic-1111]: ../images_wt/gf-mine2.png?align=left "mt-1111, turned one quarter"
 [T-1111]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctct&c1=ct&b1=ctct&a1=ct&d2=ct&c2=ctct&a2=ctct&d3=ctct&c3=ct&b3=ctct&a3=ct&c4=ctct&b4=ct&a4=ctct&tile=8325,6-76,1563,224-&tileStitch=ct&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [T-1114]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&b1=ctc&c1=tctc&d1=ctc&a2=lctc&c2=ctcr&d2=c&a3=ctct&b3=ctc&c3=tctc&d3=ctc&a4=ctc&b4=c&c4=ctcl&tile=8325,6-76,1563,224-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
@@ -93,15 +93,15 @@ As the pattern above, this pattern also was created one quarter turned.
 
 ## Stretched
 The pictures below show three different units. The units are placed like the white tiles on a checker board.          
-The one on the left is a bias ground, stretched vertically, as found in the Whting index F4. Experimenting with stitches, I created the units in the middle and the right. The ground in the middle is equivalent to the little snowflake. The one on the right proved to be a real surprise! See the example. These grounds also look nice when made on a hexagonal raster, connecting the units with a short plait.
+The one on the left is a bias ground, stretched vertically, as found in the Whiting index F4. Experimenting with stitches, I created the units in the middle and the right. The ground in the middle is equivalent to the little snowflake. The one on the right proved to be a real surprise! See the example. These grounds also look nice when made on a hexagonal raster, connecting the units with a short plait.
 
 [![0714][p-stretched-71]][T-0714]
 [![0759][p-stretched-73]][T-0759]
 [![0775][p-stretched-74]][T-0775]
 
-[p-stretched-71]: ../images_wt/stretched_71.png
-[p-stretched-73]: ../images_wt/stretched_73.png
-[p-stretched-74]: ../images_wt/stretched_74.png
+[p-stretched-71]: ../images_wt/stretched_71.png "mt-0714"
+[p-stretched-73]: ../images_wt/stretched_73.png "mt-0759"
+[p-stretched-74]: ../images_wt/stretched_74.png "mt-0775"
 
 [T-0714]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&a1=ctctctc&b1=tct&c1=ctctctc&b2=ctc&a3=ctc&c3=ctc&d4=ctc&tile=B8D-,-4--,B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 [T-0759]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&b1=ctc&a2=ctctctc&c2=tct&b3=ctc&a4=tct&c4=ctctctc&b5=ctc&a6=ctc&c6=ctc&tile=-5--,B-C-,-5--,B-C-,-5--,B-C-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6
