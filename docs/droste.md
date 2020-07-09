@@ -59,7 +59,7 @@ These units can be replaced with units of a bias ground.
 The green numbers and arrows indicate the working order inherited from the first pair diagram.
 <p style="clear: both"></p>
 
-[p-wobble-0]: ../images/wobble.png?align=right
+[p-wobble-0]: ../images/wobble.png?align=right "jp-wobble"
 [p-wobble-2]: ../images/wobble2.png?align=left
 
 ### Generate diagrams (color coded / threads)
@@ -93,8 +93,8 @@ The picture on the right shows another general scheme also based on the Paris gr
 [![rcl][p-paris-rcl]][T-paris-rcl] 
 <p style="clear: both"></p>
 
-[p-paris-droste]: ../images_wt/paris_droste_0.png?align=right
-[p-fancy-z]: ../images_wt/paris-droste-f12.png?align=right
+[p-paris-droste]: ../images_wt/paris_droste_0.png?align=right "variation on fancy Zeccatello"
+[p-fancy-z]: ../images_wt/paris-droste-f12.png?align=right "fancy Zeccatello"
 [p-paris-lcr]: ../images_stitches/paris-lcr.png
 [p-paris-rcl]: ../images_stitches/paris-rcl.png
 [p-paris-ctc]: ../images_stitches/paris-ctc.png
