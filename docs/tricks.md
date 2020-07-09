@@ -21,8 +21,8 @@ Example: The picture shows the working-scheme's of one unit of <i>Slavic rose gr
 We have learned, that the figure on the left is called a [_snowflake_][t-snowflake] and the figure on the right a [_spider_][t-spider]. Groundforge does not make this difference. It only depends on the stitch in the centre: <span class="stch">ctcctc</span> for the spider or <span class="stch">ctc</span> for the snowflake.
 <p style="clear: both"></p>
 
-[p-rs-sl]: ../images_wt/gf-slaaf-vierge.png?align=right
-[p-sn-sp]: ../images_wt/gf-snowspin.png?align=right
+[p-rs-sl]: ../images_wt/gf-slaaf-vierge.png?align=right "slavic rose ground"
+[p-sn-sp]: ../images_wt/gf-snowspin.png?align=right "snowflake &amp; spider"
 [t-rs-sl]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&b1=ct&c1=ctct&d1=ct&b2=ct&d2=ct&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=5831,-4-7
 [t-snowflake]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&b1=ctc&a2=ctc&c2=ctc&b3=ctcttt&d3=tttctc&a4=ctc&c4=ctc&shiftColsSE=2&shiftRowsSE=4&shiftColsSW=-2&shiftRowsSW=4&tile=-5--,B-C-,-5-5,5-5-
 [t-spider]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&b1=ctcctc&a2=ctc&c2=ctc&b3=ctcttt&d3=tttctc&a4=ctc&c4=ctc&shiftColsSE=2&shiftRowsSE=4&shiftColsSW=-2&shiftRowsSW=4&tile=-5--,B-C-,-5-5,5-5-
