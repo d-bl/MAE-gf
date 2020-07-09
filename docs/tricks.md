@@ -1,6 +1,6 @@
 ---
 layout: default
-title: tricks and notes
+title: notes
 ---
 
 # Notes
