@@ -57,7 +57,8 @@ This stitch I created because I wished to see a little loop at the sides of the 
 [T-0902-q]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctctc&b1=cttt&c1=ctcttt&e1=ctcttt&f1=cttt&b2=ctcttt&c2=c&d2=ctctc&e2=c&f2=ctcttt&a3=ctcttt&c3=crcllcrc&e3=clcrrclc&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
 ## Ants
-Ants came to life as a variation of the Slavic ground. The result looks like ants, see mt-0665. In effect, the threads between the bottom and top position of two units will be <span class="stch">crossed</span> four times. Please note that there are no twists between the <span class="stch">cross only</span> and <span class="stch">whole stitch</span> at the pins.            
+Ants came to life as a variation of the Slavic ground. The result looks like ants, see mt-0665.     
+In ant mt-0692 the threads between the bottom and top position of two units will be <span class="stch">crossed</span> four times. Please note that there are no twists between the <span class="stch">cross only</span> and <span class="stch">whole stitch</span> at the pins.            
 The _Star_ looks like a three paired join, but has crossings instead of twists. For the real star see page [_Miscellaneous_][p-3-join].      
 
 ![ants-foto][foto-0692] ![ants][pic-0692]              
