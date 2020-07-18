@@ -24,6 +24,8 @@ purpose: test only
   
 </style>
 
+this is a&dash;test for &dash;
+
 
 # test
 
