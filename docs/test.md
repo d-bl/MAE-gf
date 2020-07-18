@@ -26,6 +26,8 @@ purpose: test only
 
 this is a&dash;test for &dash;
 
+[lijntje&dash;lijntje][lijntje]
+
 
 # test
 
@@ -48,6 +50,6 @@ buttons test
 %}  
 
 [p-paris-lcr]: ../images_stitches/paris-lcr.png            
-
+[lijntje]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctct&b1=ct&d1=ct&a2=ct&c2=ct&shiftColsSE=3&shiftRowsSE=1&shiftColsSW=-4&shiftRowsSW=1&tile=88-1,4-58
 
 
