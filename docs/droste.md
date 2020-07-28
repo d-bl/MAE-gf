@@ -93,7 +93,7 @@ The picture on the right shows another general scheme also based on the Paris gr
 [![rcl][p-paris-rcl]][T-paris-rcl] 
 <p style="clear: both"></p>
 
-Mrs. V. Irvine has worked an example using the left pricking. See at [_Favourite Flaveolate_][p-VI-001] for a photo, and [here][t-VI-001] for how she made it (one step definition). Pins where used to get the triangle shape at the "joints" of the hexagons.      
+Mrs. V. Irvine has worked an example using the left pricking. See [_Favourite Flaveolate_][p-VI-001] for a photo, and [here][t-VI-001] for how she made it (one step definition). Pins where used to get the triangle shape at the "joints" of the hexagons.      
 
 [p-paris-droste]: ../images_wt/paris_droste_0.png?align=right "variation on fancy Zeccatello"
 [p-fancy-z]: ../images_wt/paris-droste-f12.png?align=right "fancy Zeccatello"
