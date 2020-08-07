@@ -81,10 +81,13 @@ Spiders with a narrow eye also can be achieved using <span class="elem">step 2</
 [page-dr-fish]: ../docs/droste#fish
 
 ### in a diamond
-[![spider with narrow eye, diamond][p-snq3]][t-snq3]
+![spider with narrow eye, diamond][p-snq3]
+
+* [example][t-snq3], [with stars][t-snq3st]
 
 [p-snq3]: ../images_wt/wt-snq3.png
 [t-snq3]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&c1=ctct&f1=ctc&h1=ctc&a2=ctc&b2=lctct&c2=ctc&d2=rctct&e2=ctc&f2=ctc&g2=ctc&h2=ctc&a3=lctct&b3=ctc&d3=ctc&e3=rctct&f3=ctc&h3=ctc&a4=ctc&b4=ctc&c4=ctc&d4=ctc&e4=ctc&f4=rctct&g4=ctc&h4=lctct&tile=--5--7-4,C632B831,66-224-7,31583256&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[t-snq3st]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&h1=clc&f1=crc&c1=ctct&h2=ctt&g2=ctc&f2=ctt&e2=rcl&d2=rctct&c2=ctc&b2=lctct&a2=lcr&h3=ctc&f3=ctc&e3=rctct&d3=ctc&b3=ctc&a3=lctct&h4=lctct&g4=ctc&f4=rctct&e4=rrclcrc&d4=ttc&c4=ctc&b4=ttc&a4=llcrclc&tile=--5--7-4,C632B831,66-224-7,31583256&tileStitch=ctc&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Binche spiders 
 See also page [_Snowflakes_][snow-page].      
@@ -95,6 +98,7 @@ See also page [_Snowflakes_][snow-page].
 ![binche spider][p-bolletje]
 There are many ways of making a binche spider. Below are given some examples.
 <p style="clear: both"></p>
+
 * [binche spider 1][T-SP-BB1], [binche spider 2][T-SP-BB2], [binche spider 3][T-SP-BB3]
 
 [p-bolletje]: ../images_wt/gf-bi-boll.png?align=left
