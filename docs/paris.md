@@ -40,9 +40,12 @@ The photo shows the example on the bottom of this page, but slighty adapted to g
 
 ## Big Paris ground
 [![big-paris][p-big-paris]][t-big-paris]
+This ground is inspired by lace from 's Gravenmoer.
+<p style="clear: both"></p>
 
 [p-big-paris]: ../images_wt/big-rose.png
 [t-big-paris]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=24&b1=ct&f1=ct&c2=c&e2=c&b3=ct&d3=ctc&f3=ct&tile=-5---5,--C-B-,-B-5-C&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
+
 
 ## Way of making
 The following example (mt-0404) shows three different matrix-scheme's to obtain the same ground.
