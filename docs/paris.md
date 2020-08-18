@@ -40,7 +40,7 @@ The photo shows the example on the bottom of this page, but slighty adapted to g
 
 ## Big Paris ground
 [![big-paris][p-big-paris]][t-big-paris]
-This ground is inspired by lace from 's Gravenmoer.
+This ground is inspired by lace from 's Gravenmoer.         
 <p style="clear: both"></p>
 
 [p-big-paris]: ../images_wt/big-rose.png
