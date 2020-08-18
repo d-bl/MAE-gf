@@ -34,7 +34,7 @@ Stitches used in the examples on these pages:
 * Cross only. In working scheme's coloured in <span class="b-grey">grey</span>.
 * Half stitch = (twist if not already done), cross, twist. Coloured <span class="b-gree">green</span>.
 * Cloth stitch = cross, twist, cross. Coloured <span class="b-purp">purple</span>.
-* Whole stitch &amp; twist = (twist if not already done), cross, twist, cross, twist. Coloured <span class="b-red">red</span>.
+* Whole stitch &amp; twist (double stitch) = (twist if not already done), cross, twist, cross, twist. Coloured <span class="b-red">red</span>.
 * Plaits = (twist,) cross, twist, cross, twist, cross, twist, cross (, twist), .... . Coloured <span class="b-blue">blue</span>.
 <p style="clear: both"></p>
 
