@@ -33,7 +33,7 @@ Please note: the picture on the left is equivalent to the second.
 
 Or, not alternating:      
 [![p-net1d]][t-net1d]     
-[example 2-1][t-OO-12], [another exampel][t-OO-12a]
+* [example 2-1][t-OO-12], [another example][t-OO-12a]
 
 [p-net1a]: ../images/net1a.png
 [p-net1b]: ../images/net1b.png
