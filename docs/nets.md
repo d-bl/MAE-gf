@@ -18,8 +18,9 @@ Net grounds are grounds with repeats of usualy one stitch. There are several way
 
 Now, it gets more interesting, if we would use two of more different stitches. These grounds are known as "chaotic ground", "alternating ground", ...
 
-Please note: the following is equivalent to the second.          
 ![net2x][p-net2x]
+Please note: the following is equivalent to the second.          
+<p style="clear: both"></p>
 
 [p-net1]: ../images/net1.png
 [p-net2]: ../images/net2.png
@@ -51,7 +52,7 @@ Please note: the following is equivalent to the second.
 ## Honeycomb net 2
 ![example 1][p-net4]
 
-[p-net4]: ../images/net41.png
+[p-net4]: ../images/net4.png
 
 
 
