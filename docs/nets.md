@@ -33,6 +33,7 @@ Please note: the picture on the left is equivalent to the second.
 
 Or, not alternating:      
 [![p-net1d]][t-net1d]     
+[example 2-1][t-OO-12], [another exampel][t-OO-12a]
 
 [p-net1a]: ../images/net1a.png
 [p-net1b]: ../images/net1b.png
@@ -42,7 +43,11 @@ Or, not alternating:
 [t-net1a]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&f1=ct&e1=ctct&d1=ct&c1=ctct&b1=ct&a1=ctct&f2=ct&e2=ctct&d2=ct&c2=ctct&b2=ct&a2=ctct&f3=ct&e3=ctct&d3=ct&c3=ctct&b3=ct&a3=ctct&f4=ct&e4=ctct&d4=ct&c4=ctct&b4=ct&a4=ctct&f5=ct&e5=ctct&d5=ct&c5=ctct&b5=ct&a5=ctct&f6=ct&e6=ctct&d6=ct&c6=ctct&b6=ct&a6=ctct&tile=888888,111111,888888,111111,888888,111111&tileStitch=ct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
 [t-net1b]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&f1=ctct&e1=ctct&d1=ctct&c1=ctct&b1=ctct&a1=ctct&f2=ct&e2=ct&d2=ct&c2=ct&b2=ct&a2=ct&f3=ctct&e3=ctct&d3=ctct&c3=ctct&b3=ctct&a3=ctct&f4=ct&e4=ct&d4=ct&c4=ct&b4=ct&a4=ct&f5=ctct&e5=ctct&d5=ctct&c5=ctct&b5=ctct&a5=ctct&f6=ct&e6=ct&d6=ct&c6=ct&b6=ct&a6=ct&tile=888888,111111,888888,111111,888888,111111&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
 [t-net1c]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&f1=ct&e1=ctct&d1=ct&c1=ctct&b1=ct&a1=ctct&f2=ctct&e2=ct&d2=ctct&c2=ct&b2=ctct&a2=ct&f3=ct&e3=ctct&d3=ct&c3=ctct&b3=ct&a3=ctct&f4=ctct&e4=ct&d4=ctct&c4=ct&b4=ctct&a4=ct&f5=ct&e5=ctct&d5=ct&c5=ctct&b5=ctct&a5=ctct&f6=ctct&e6=ct&d6=ctct&c6=ct&b6=ctct&a6=ct&tile=888888,111111,888888,111111,888888,111111&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
-[t-net1d]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&f1=ct&e1=ctct&d1=ct&c1=ctct&b1=ct&a1=ctct&f2=ctct&e2=ct&d2=ctct&c2=ct&b2=ctct&a2=ct&f3=ct&e3=ctct&d3=ct&c3=ctct&b3=ct&a3=ctct&f4=ctct&e4=ct&d4=ctct&c4=ct&b4=ctct&a4=ct&f5=ct&e5=ctct&d5=ct&c5=ctct&b5=ctct&a5=ctct&f6=ctct&e6=ct&d6=ctct&c6=ct&b6=ctct&a6=ct&tile=888888,111111,888888,111111,888888,111111&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
+[t-net1d]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&f1=ct&e1=ct&d1=ct&c1=ct&b1=ct&a1=ct&f2=ct&e2=ct&d2=ct&c2=ct&b2=ctcl&a2=ct&f3=ct&e3=ct&d3=ctcr&c3=ct&b3=ctcr&a3=ct&f4=ctcl&e4=ct&d4=ctcl&c4=ct&b4=ctct&a4=ct&f5=ctcr&e5=ct&d5=ctct&c5=ct&b5=ct&a5=ct&f6=ctct&e6=ct&d6=ct&c6=ct&b6=ct&a6=ct&tile=888888,111111,888888,111111,888888,111111&tileStitch=ct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
+
+[t-OO-12]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&b1=ct&c1=ct&a2=ct&b2=ctct&c2=ct&a3=ct&b3=ct&c3=ctct&a4=ctct&b4=ct&c4=ct&a5=ct&b5=ctct&c5=ct&a6=ct&b6=ct&c6=ctct&tile=888,111,888,111,888,111&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=3&shiftRowsSE=6
+[t-OO-12A]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&b1=ct&c1=ct&a2=ctct&b2=ctct&c2=ctct&tile=888,111&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=3&shiftRowsSE=2
+
 
 ## Diagonal net
 [![p-net2a]][t-net2a]  [![p-net2c]][t-net2c]    
