@@ -32,7 +32,7 @@ Please note: the picture on the left is equivalent to the second.
 [![p-net1a]][t-net1a]  [![p-net1b]][t-net1b]  [![p-net1c]][t-net1c]    
 
 Or, not alternating:      
-![example 4][p-net1d]  
+![[p-net1d][t-net1d]     
 
 [p-net1a]: ../images/net1a.png
 [p-net1b]: ../images/net1b.png
@@ -54,17 +54,27 @@ Or, not alternating:
 [t-net2c]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ct&a1=ctct&d2=ct&b2=ctct&tile=5-5-,-5-5&tileStitch=ct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ## Honeycomb net 1
-![example 1][p-net3]
+See also [_Paris grounds_][page-paris]
+[![p-net3]][t-net3]
 
 [p-net3]: ../images/net3.png
+[page-paris]: ../docs/paris
+
+[t-net3]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&c1=ctc&a1=ctc&d2=tctct&tile=B-C-,---5&tileStitch=ctc&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ## Honeycomb net 2
-![example 1][p-net4]
+See also [_Lattice_][page_lotus]
+[![p-net4]][t-net4]
 
 [p-net4]: ../images/net4.png
+[page-lotus]: ../docs/lotus
+
+[t-net4]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=14&b1=ctc&c2=crr&a2=crr&d3=ctc&c4=cll&a4=cll&tile=-5--,6v9v,---5,2z0z&tileStitch=ctc&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 
 
+***
+[&uArr;]()
 
 
 
