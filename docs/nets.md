@@ -14,13 +14,17 @@ title: Net grounds
   
 ## Introduction
 Net grounds are grounds with repeats of usualy one stitch. There are several ways of placing the stitches:                 
-![net1][p-net1] ![net2][p-net2] ![net3][p-net3] ![net4][p-net4]    
+![net1][p-net1] ![net2][p-net2] ![net2x][p-net2x] ![net3][p-net3] ![net4][p-net4] 
 
-Now, it gets more interesting, if we would use two of more different stitches. These grounds are known as "chaotic ground", "alternating ground", ...
+Please note: the second and third diagrams are equivalent in GroundForge terms.
+It is possible to define a strechted honeycomb for the prototype diagram.
+The pair diagram however will initially show kite shapes, when activating the animation 
+these kites will reshape into squares with a 45 degree angle.
+Only when defining plaits as stitches you will see the [honeycomb] again in the pair diagram.
 
-![net2x][p-net2x]
-Please note: the picture on the left is equivalent to the second.          
-<p style="clear: both"></p>
+[honeycomb]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&tile=5-5-,r-r-,-5-5&tileStitch=ctctctctt&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
+
+Now, it gets more interesting, if we would use two (or more) different stitches. These grounds are known as "chaotic ground", "alternating ground", ...
 
 [p-net1]: ../images/net1.png
 [p-net2]: ../images/net2.png
