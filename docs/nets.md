@@ -32,7 +32,7 @@ Please note: the picture on the left is equivalent to the second.
 [![p-net1a]][t-net1a]  [![p-net1b]][t-net1b]  [![p-net1c]][t-net1c]    
 
 Or, not alternating:      
-[![p-net1d][t-net1d]     
+[![p-net1d]][t-net1d]     
 
 [p-net1a]: ../images/net1a.png
 [p-net1b]: ../images/net1b.png
