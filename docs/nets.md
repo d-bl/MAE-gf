@@ -40,11 +40,11 @@ Or, not alternating:
 [![p-net1d]][t-net1d]     
 
 More examples:     
-* [example 2-1][t-OO-12], [another example][t-OO-12a]    
+* [example 2-1][t-OO-12], [another example][t-OO-12a]
 
 ### Knitting
 The following examples by Marian look like a knitwork.   
-[example 1][brei1],  [example 2][brei2]
+[example 1][t-brei1],  [example 2][t-brei2],  [mt-&amp;-ground][t-amp]    
 
 
 [p-net1a]: ../images/net1a.png
@@ -60,8 +60,9 @@ The following examples by Marian look like a knitwork.
 [t-OO-12]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&b1=ct&c1=ct&a2=ct&b2=ctct&c2=ct&a3=ct&b3=ct&c3=ctct&a4=ctct&b4=ct&c4=ct&a5=ct&b5=ctct&c5=ct&a6=ct&b6=ct&c6=ctct&tile=888,111,888,111,888,111&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=3&shiftRowsSE=6
 [t-OO-12A]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&b1=ct&c1=ct&a2=ctct&b2=ctct&c2=ctct&tile=888,111&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=3&shiftRowsSE=2
 
-[brei1]: https://d-bl.github.io/GroundForge/tiles?patchWidth=7&patchHeight=9&i1=ctct&b1=rcl&b2=lcr&a2=ctct&footside=x,4&tile=1,8&headside=7,x&footsideStitch=ctct&tileStitch=ctc&headsideStitch=ctct&shiftColsSW=1&shiftRowsSW=0&shiftColsSE=0&shiftRowsSE=2
-[brei2]: https://d-bl.github.io/GroundForge/tiles?patchWidth=7&patchHeight=9&i1=ctct&b1=rccl&b2=lccr&a2=ctct&footside=x,4&tile=1,8&headside=7,x&footsideStitch=ctct&tileStitch=ctc&headsideStitch=ctct&shiftColsSW=1&shiftRowsSW=0&shiftColsSE=0&shiftRowsSE=2
+[t-brei1]: https://d-bl.github.io/GroundForge/tiles?patchWidth=7&patchHeight=9&i1=ctct&b1=rcl&b2=lcr&a2=ctct&footside=x,4&tile=1,8&headside=7,x&footsideStitch=ctct&tileStitch=ctc&headsideStitch=ctct&shiftColsSW=1&shiftRowsSW=0&shiftColsSE=0&shiftRowsSE=2
+[t-brei2]: https://d-bl.github.io/GroundForge/tiles?patchWidth=7&patchHeight=9&i1=ctct&b1=rccl&b2=lccr&a2=ctct&footside=x,4&tile=1,8&headside=7,x&footsideStitch=ctct&tileStitch=ctc&headsideStitch=ctct&shiftColsSW=1&shiftRowsSW=0&shiftColsSE=0&shiftRowsSE=2
+[t-amp]: https://d-bl.github.io/GroundForge/tiles?patchWidth=8&patchHeight=8&a1=crctclcr&a2=clctcrcl&tile=1,8&tileStitch=ctc&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
 
 
 ## Diagonal net
