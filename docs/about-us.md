@@ -9,7 +9,7 @@ title: about us
 * [Jo Pol](#jo-pol)
 * [Write us](#write-us)
 
-## M.A.E. Tempels
+## Marian Tempels
 {% include picts-centr.html alt="tulip Mondrian style" src="../photos/IMG_0997c.jpg" title="Tulip in Mondriaan style, 2017" %}
 
 Living in the Netherlands.        
