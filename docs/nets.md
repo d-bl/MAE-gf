@@ -38,6 +38,8 @@ Several of these can be found in the book by mrs A. Rühle: _Fillings from Hunni
 
 Or, not alternating:      
 [![p-net1d]][t-net1d]     
+
+More examples:     
 * [example 2-1][t-OO-12], [another example][t-OO-12a]
 
 [p-net1a]: ../images/net1a.png
@@ -65,12 +67,12 @@ Or, not alternating:
 
 ## Honeycomb net 1
 See also [_Paris grounds_][page-paris].           
-[![p-net3]][t-net3]
+[![p-net3]][t-net3b]
 
 [p-net3]: ../images/net3.png
 [page-paris]: ../docs/paris
 
-[t-net3]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&c1=ctc&a1=ctc&d2=tctct&tile=B-C-,---5&tileStitch=ctc&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-net3b]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&c1=ctc&a1=ctc&d2=tcct&tile=B-C-,---5&tileStitch=ctc&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ## Honeycomb net 2
 See also [_Lattice_][page-lotus].            
