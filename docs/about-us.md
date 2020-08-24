@@ -5,7 +5,7 @@ title: about us
 ---
 # About us &amp; Contact
 ## Contents
-* [M.A.E. Tempels](#mae-tempels)
+* [Marian Tempels](#marian-tempels)
 * [Jo Pol](#jo-pol)
 * [Write us](#write-us)
 
