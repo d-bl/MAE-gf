@@ -3,7 +3,7 @@ layout: default
 title: fish
 ---
 
-# Milanese Fish
+# Fish
 
 ## Contents
 * [Introduction](#introduction)
@@ -12,7 +12,7 @@ title: fish
 * [Braids](#braids)
 
 ## Introduction
-Fish grounds are usualy used in small braids. Milanese braids typically need 14-18 pairs of bobbins.    
+Fish grounds are usualy used in small braids, typically 14-18 pairs of bobbins.     
 The grounds consists of a number of rows with two or more cloth stitches followed with some twists in the weaver. Fish starts and closes with a cloth stitch. In between the fish-rows, zero, one ore more rows with e.g. half stitch, pin, half stitch are made. The number of these rows define whether the fish will be in straight vertical lines, or in alternating positions.        
 If the tail is made with pairs not from the same fish, the ground is called [_Lotus_][lotus-page].    
 Fish can also be made using the <span class="elem">Droste function</span> of GroundForge. See page [_Droste_][droste-page].
@@ -32,7 +32,7 @@ Lets call the horizontal rows the _bones_, the vertical lines the _spines_, and 
 Fish B,S,W means: the number of Bones, the number of Spines and the number of Waves. There are two ways of zero waves, noted with "0" and "-" respectively. See the picture at the top of this page.
 
 ## Fish examples
-* [Fish B1,S2,W-][T-12-], [Fish B2,S1,W-][T-21-]   
+* [Fish B1,S2,W-][T-12-], [Fish B2,S1,W-][T-21-], [Fish B1,S2,W2][T-122]
 * [Fish B2,S2,W-][T-22-], [Fish B2,S2,W0][T-220], [Fish B2,S2,W2][T-222]      
 * [Fish B3,S2,W2][T-322]               
 * [Fish B4,S2,W-][T-42-], [Fish B4,S2,W1][T-421], [Fish B4,S2,W2][T-422]      
@@ -85,6 +85,9 @@ Fish B,S,W means: the number of Bones, the number of Spines and the number of Wa
 [Z322]: https://d-bl.github.io/GroundForge/tiles?patchWidth=5&patchHeight=22&h1=ctctt&d1=ctctctt&a1=ctctt&i2=ctctt&c2=ctctc&h3=ctc&d3=ctc&c3=ctcll&h4=ctcrr&d4=ctcrr&c4=ctc&a4=ctcttt&i5=ctctt&h5=ctc&d5=ctc&c5=ctcll&c6=ctctctt&a6=ctctt&i7=ctctt&d7=ctctctt&b7=ctctctt&c8=ctctctt&a8=ctctt&d9=ctctc&b9=ctctctt&h10=ctcrr&d10=ctc&c10=ctcrr&a10=ctctt&i11=ctctt&h11=ctcll&d11=ctcll&c11=ctc&d12=ctc&c12=ctcrr&a12=rrctctt&h13=ctctt&d13=ctctctt&i14=ctctt&c14=ctctctt&footside=4v,x-,xz,4v,xz,4-,x5,4-,x5,4v,xz,4v,xy,xz,&tile=-5,5-,12,88,11,4-,-5,5-,-5,98,11,88,-4,5-&headside=5x,-7,5x,8x,17,vx,z7,-x,wx,8x,17,xx,7x,-7,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=14&shiftColsSE=2&shiftRowsSE=14
 
 [Z323]: https://d-bl.github.io/GroundForge/tiles?patchWidth=5&patchHeight=22&h1=ct&d1=ct&a1=ctctl&i2=ctctr&c2=ct&h3=ct&d3=ct&a3=ctctl&i4=ctctt&c4=ctc&h5=ctc&d5=ctc&c5=ctcll&h6=ctcrr&d6=ctcrr&c6=ctc&a6=ctctt&i7=ctctt&h7=ctc&d7=ctc&c7=ctcll&c8=ctct&a8=ctctl&i9=ctctr&d9=ct&b9=ct&c10=ct&a10=ctctl&i11=ctctr&d11=ct&b11=ct&c12=ctc&a12=ctctt&h13=ctcrr&d13=ctcrr&c13=ctc&i14=ctctt&h14=ctc&d14=ctc&c14=ctcll&h15=ctcrr&d15=ctcrr&c15=ctc&a15=ctctt&i16=ctctr&c16=ctct&footside=4v,xz,4v,x-,xz,4v,xz,4-,x5,4-,x5,4-,xw,xz,4v,xz&tile=-5,5-,-5,5-,12,88,11,4-,-5,5-,-5,5-,89,11,88,4-&headside=5x,-7,5x,-7,5x,8x,17,vx,z7,vx,z7,-x,9x,17,8x,-7&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=16&shiftColsSE=2&shiftRowsSE=16
+
+[T122]: https://d-bl.github.io/GroundForge/tiles?patchWidth=8&patchHeight=17&a1=ct&b2=ct&b3=ct&a3=ct&b4=ct&a5=ct&b6=ct&a6=ct&tile=4-,-5,21,-4,5-,89&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6
+
 
 
 
