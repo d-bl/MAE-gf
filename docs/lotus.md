@@ -3,7 +3,7 @@ layout: default
 title: lotus
 ---
 
-# Milanese Lotus &amp; Lattice
+#Lotus &amp; Lattice
 
 ## Contents
 * [Introduction](#introduction)
@@ -12,7 +12,7 @@ title: lotus
 
 ## Introduction
 ![lotus][p-lotus]
-Lotus grounds are usualy used in small braids. Milanese braids typically need 14-18 pairs of bobbins.      
+Lotus grounds are usualy used in small braids, typically 14-18 pairs of bobbins.      
 The grounds consists of a number of rows with two or more cloth stitches followed with a changing number of twists in the weaver. Lotus starts with a cloth stitch, and ends with a cloth stitch with the neighbouring petal. In between the lotus-rows, zero, one ore more rows with e.g. half stitch, pin, half stitch are made.        
 If the end is made with the same pairs as the start, the ground is called [_Fish_][fish-page].     
 
@@ -29,6 +29,7 @@ Lotus H,V,X means: the number of Horizontal rows, the number of Verticals and th
 <p style="clear: both"></p>
 
 ## Lotus examples
+* [Lotus H1,V2,X2][T-122]         
 * [Lotus H2,V2,X-][T-22-]; [Lotus H2,V2,X0][T-220]   
 * [Lotus H4,V2,X1][T-421]      
 * [Lotus H5,V2,X0][T-520]; [Lotus H5,V2,X2][T-522]
@@ -55,6 +56,8 @@ Lotus H,V,X means: the number of Horizontal rows, the number of Verticals and th
 [T-520]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&a1=ctc&a2=ctcllll&b2=ctc&a3=lllctcr&b3=ctc&a4=rrctcll&b4=ctc&a5=lctcrrr&b5=ctc&a6=rrrrctc&b6=ctc&tile=7-,12,88,11,88,11&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6
 
 [T-522]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&a1=ctct&b2=ctct&a3=ctct&b4=ctc&a5=ctcllll&b5=ctc&a6=lllctcr&b6=ctc&a7=rrctcll&b7=ctc&a8=lctcrrr&b8=ctc&a9=rrrrctc&b9=ctc&tile=7-,-5,5-,-5,21,88,11,88,11&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=9&shiftColsSE=1&shiftRowsSE=9
+
+[T-122]: https://d-bl.github.io/GroundForge/tiles?patchWidth=8&patchHeight=17&b1=ct&a2=ct&b3=ct&a3=ct&a4=ct&b5=ct&b6=ct&a6=ct&tile=-7,5-,12,7-,-5,98&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6
 
 
 
