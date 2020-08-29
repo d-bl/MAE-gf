@@ -3,7 +3,7 @@ layout: default
 title: lotus
 ---
 
-#Lotus &amp; Lattice
+# Lotus &amp; Lattice
 
 ## Contents
 * [Introduction](#introduction)
