@@ -57,7 +57,7 @@ Lotus H,V,X means: the number of Horizontal rows, the number of Verticals and th
 
 [T-522]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&a1=ctct&b2=ctct&a3=ctct&b4=ctc&a5=ctcllll&b5=ctc&a6=lllctcr&b6=ctc&a7=rrctcll&b7=ctc&a8=lctcrrr&b8=ctc&a9=rrrrctc&b9=ctc&tile=7-,-5,5-,-5,21,88,11,88,11&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=9&shiftColsSE=1&shiftRowsSE=9
 
-[T-122]: https://d-bl.github.io/GroundForge/tiles?patchWidth=8&patchHeight=17&b1=ct&a2=ct&b3=ct&a3=ct&a4=ct&b5=ct&b6=ct&a6=ct&tile=-7,5-,12,7-,-5,98&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6
+[T-122]: https://d-bl.github.io/GroundForge/tiles?patchWidth=8&patchHeight=17&b1=ct&a2=ct&b3=ct&a3=ct&b4=ct&a5=ct&b6=ct&a6=ct&tile=-7,5-,12,-4,5-,86&tileStitch=ct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6
 
 
 
