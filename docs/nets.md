@@ -78,7 +78,7 @@ More examples:
 [t-net2c]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ct&a1=ctct&d2=ct&b2=ctct&tile=5-5-,-5-5&tileStitch=ct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 [PF-dct]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&e1=cct&c1=cct&a1=cct&f2=cct&d2=cct&b2=cct&e3=cct&c3=cct&a3=cct&f4=cct&d4=cct&b4=cct&e5=cct&c5=cct&a5=cct&f6=cct&d6=cct&b6=cct&tile=5-5-5-,-5-5-5,5-5-5-,-5-5-5,5-5-5-,-5-5-5&footsideStitch=ctctt&tileStitch=cct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
-[PF-cat]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&e1=cct&c1=cct&a1=cct&f2=cct&d2=cct&b2=cct&e3=cct&c3=cct&a3=cct&f4=cct&d4=cct&b4=cct&e5=cct&c5=cct&a5=cct&f6=cct&d6=cct&b6=cct&tile=5-5-5-,-5-5-5,5-5-5-,-5-5-5,5-5-5-,-5-5-5&footsideStitch=ctctt&tileStitch=cct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
+[PF-cat]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ctct&a1=ctct&d2=ctct&b2=cct&c3=ctct&a3=ctct&d4=cct&b4=ctct&tile=5-5-,-5-5,5-5-,-5-5&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 
 ## Honeycomb net 1
