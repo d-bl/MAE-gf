@@ -49,12 +49,7 @@ See page [_Bias grounds_][page-bias].
 See page [_Paris grounds_][page-paris].
 
 ## Alternate stitch ground
-![pic-oeno][pic-oeno]
-In the Tesselace index a scheme for the <i>Alternate stitch</i> can be found.<br> 
-However, the values for the repeat-parameter are set such that the stitches can not be chosen to generate the Alternate stitch. Adjusting the repeat-parameter does the trick, as in the following examples. You might try to see what happens if you change the repeat-parameter (works even with an odd number of collumns).    
-         
-* [o&amp;o 11][T-OO-11], [o&amp;o 12][T-OO-12], [o&amp;o 12a][T-OO-12a]
-<p style="clear: both"></p>
+This part is moved [_here_][page-nets]
 
 ## 3 paired join
 There are several ways of making three-paired joins. As Groundforge does not do real three-paired joins, we decomposed the join in several 2-paired joins, and show approximately how the stitch looks like. We would like to thank Gibritte for inspiring us. She discovered, that you can make a star-join on the fish-scheme! Please click on the picture of the join you wish to see.        
@@ -74,6 +69,7 @@ There are several ways of making three-paired joins. As Groundforge does not do 
 [page-tria]: ../docs/tria#pagoda-in-a-diamond
 [page-bias]: ../docs/bias#unit-bias-in-a-diamond
 [page-paris]: ../docs/paris#paris-ground-in-a-diamond
+[page-nets]: ../docs/nets#horizontal-net
 
 [pic-tor-flem]: ../images_wt/gf-tor-vl.png
 [pic-0306-OIv]: ../images_wt/gf%200301%20wt.png
