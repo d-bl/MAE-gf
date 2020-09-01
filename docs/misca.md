@@ -49,7 +49,7 @@ See page [_Bias grounds_][page-bias].
 See page [_Paris grounds_][page-paris].
 
 ## Alternate stitch ground
-This part is moved [_here_][page-nets]
+This part is moved [_here_][page-nets].      
 
 ## 3 paired join
 There are several ways of making three-paired joins. As Groundforge does not do real three-paired joins, we decomposed the join in several 2-paired joins, and show approximately how the stitch looks like. We would like to thank Gibritte for inspiring us. She discovered, that you can make a star-join on the fish-scheme! Please click on the picture of the join you wish to see.        
