@@ -43,7 +43,7 @@ More examples:
 * [example 2-1][t-OO-12], [another example][t-OO-12a]
 
 ### Knitting
-The following examples by Marian look like a knitwork.   
+The following examples look like a knitwork.   
 [example 1][t-brei1],  [example 2][t-brei2],  [mt-&amp;-ground][t-amp]    
 
 
@@ -71,8 +71,15 @@ The following examples by Marian look like a knitwork.
 [p-net2a]: ../images/net2a.png
 [p-net2c]: ../images/net2c.png
 
+More examples:   
+* [doubled crossed tule][PF-dct], [cats eyes][PF-cat]    
+
 [t-net2a]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&e1=ctct&c1=ctct&a1=ctct&f2=ct&d2=ct&b2=ct&e3=ctct&c3=ctct&a3=ctct&f4=ct&d4=ct&b4=ct&e5=ctct&c5=ctct&a5=ctct&f6=ct&d6=ct&b6=ct&tile=5-5-5-,-5-5-5,5-5-5-,-5-5-5,5-5-5-,-5-5-5&tileStitch=ct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
 [t-net2c]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ct&a1=ctct&d2=ct&b2=ctct&tile=5-5-,-5-5&tileStitch=ct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+
+[PF-dct]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&e1=cct&c1=cct&a1=cct&f2=cct&d2=cct&b2=cct&e3=cct&c3=cct&a3=cct&f4=cct&d4=cct&b4=cct&e5=cct&c5=cct&a5=cct&f6=cct&d6=cct&b6=cct&tile=5-5-5-,-5-5-5,5-5-5-,-5-5-5,5-5-5-,-5-5-5&footsideStitch=ctctt&tileStitch=cct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
+[PF-cat]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&e1=cct&c1=cct&a1=cct&f2=cct&d2=cct&b2=cct&e3=cct&c3=cct&a3=cct&f4=cct&d4=cct&b4=cct&e5=cct&c5=cct&a5=cct&f6=cct&d6=cct&b6=cct&tile=5-5-5-,-5-5-5,5-5-5-,-5-5-5,5-5-5-,-5-5-5&footsideStitch=ctctt&tileStitch=cct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
+
 
 ## Honeycomb net 1
 See also [_Paris grounds_][page-paris].           
@@ -91,8 +98,6 @@ See also [_Lattice_][page-lotus].
 [page-lotus]: ../docs/lotus
 
 [t-net4]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=14&b1=ctc&c2=crr&a2=crr&d3=ctc&c4=cll&a4=cll&tile=-5--,6v9v,---5,2z0z&tileStitch=ctc&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
-
-
 
 ***
 [&uArr;]()
