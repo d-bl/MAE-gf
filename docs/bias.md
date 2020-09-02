@@ -17,6 +17,8 @@ title: Bias grounds
 * [Short bias](#short-bias)         
 ** [Solo](#solo)     
 ** [Crossed](#crossed)
+* [Bias with vertical](#bias-with-vertical)
+* [Stretched](#stretched)
 
 ## Introduction
 ![biasground][p-bias-wt]
@@ -101,6 +103,30 @@ Take one unit of the Bias ground, place them in alternating directions, and cros
 
 [p-0248]: ../images_wt/02YQ2.png?align=left "mt-0248"
 [t-0248]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&b1=ctc&a1=tct&d2=c&c2=ctc&b2=c&a2=ctc&d3=ctc&c3=tct&b3=ctc&d4=c&c4=ctc&b4=c&a4=ctc&tile=88-4,4831,-117,3178,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+
+## Bias with vertical
+[![bias with vertical][p-3228]][t-3228]
+<p style="clear: both"></p>
+
+[p-3228]: ../images_wt/gf-wt-g32.png?align=left "mt-3228"
+[t-3228]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&b1=ctc&c1=ctc&d1=ctc&b2=ctc&c2=ctctc&d2=ctc&b3=ctcr&c3=ctc&d3=ctcl&a4=ttctctt&tile=-C3B,-488,-148,5---&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+
+## Stretched
+The pictures below show three different units. The units are placed like the white tiles on a checker board.          
+The one on the left is a bias ground, stretched vertically, as found in the Whiting index F4. Experimenting with stitches, I created the units in the middle and the right. The ground in the middle is equivalent to the little snowflake. The one on the right proved to be a real surprise! See the example. These grounds also look nice when made on a hexagonal raster, connecting the units with a short plait.
+
+[![0714][p-stretched-71]][T-0714]
+[![0759][p-stretched-73]][T-0759]
+[![0775][p-stretched-74]][T-0775]
+
+[p-stretched-71]: ../images_wt/stretched_71.png "mt-0714"
+[p-stretched-73]: ../images_wt/stretched_73.png "mt-0759"
+[p-stretched-74]: ../images_wt/stretched_74.png "mt-0775"
+
+[T-0714]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&a1=ctctctc&b1=tct&c1=ctctctc&b2=ctc&a3=ctc&c3=ctc&d4=ctc&tile=B8D-,-4--,B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
+[T-0759]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&b1=ctc&a2=ctctctc&c2=tct&b3=ctc&a4=tct&c4=ctctctc&b5=ctc&a6=ctc&c6=ctc&tile=-5--,B-C-,-5--,B-C-,-5--,B-C-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6
+[T-0775]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctc&c1=tctct&d1=ctc&a2=ctcl&b2=ctc&a3=ctc&b3=ctc&c3=ctc&b4=ctc&c4=rctc&tile=83A4,48--,48D-,-48-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
+
 
 ***
 [&uArr;]()
