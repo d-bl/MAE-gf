@@ -23,7 +23,7 @@ The colour grey in the working diagrams indicates <span class="stch">cross only<
 
 ## Fusion
 ![fusion][p-fusion]
-The traditional units separated with plaits. Ground mt-0116 uses the rose-ground unit; mt-0342 the snowflake-unit;  mt-0278 the bias-unit. Please note: the plaits should stay plaits.       
+The traditional units separated with plaits. Ground 0116 uses the rose-ground unit; ground 0342 the snowflake-unit;  ground 0278 the bias-unit. Please note: the plaits should stay plaits.       
                  
 * [ground 0116][T-0116], [ground 0342][T-0342], [ground 0278][T-0278]
 <p style="clear: both"></p>
