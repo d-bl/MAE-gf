@@ -59,8 +59,8 @@ These units can be replaced with units of a bias ground.
 The green numbers and arrows indicate the working order inherited from the first pair diagram.
 <p style="clear: both"></p>
 
-[p-wobble-0]: ../images/wobble.png?align=right "jp-wobble, distorted" 
-[p-wobble-2]: ../images/wobble2.png?align=left "jp-wobble"
+[p-wobble-0]: ../images/wobble.png?align=right "wobble, distorted" 
+[p-wobble-2]: ../images/wobble2.png?align=left "wobble"
 
 ### Generate diagrams (color coded / threads)
 
