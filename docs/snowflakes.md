@@ -49,7 +49,7 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 
 ## Snowflake in a diamond, crossed
 ![snowflake diamond crossed][p-snow-diax]
-The thread diagram for ground 0356 can also be obtained as a rose ground in a diamond, see ground 0116 on page [_Rose grounds_][page-roses].
+The thread diagram for ground 0356 can also be obtained as a rose ground in a diamond, see ground 0116 on page [_Rose grounds_][page-rose].
 <p style="clear: both"></p>
 
 * [ground 0342][T-0342-sq], [ground 0356][T-mt-0356]
