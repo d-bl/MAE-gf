@@ -32,8 +32,8 @@ All spiders 4x4 legs.
 * [4x2 legs][T-SQ2], [4x3 legs][T-SQ31], [4x4 legs][T-SQ4], [4x5 legs][T-SQ5]
 <p style="clear: both"></p>
 
-[p-sp-trad]: ../images_wt/gf-sp-trad.png?align=left
-[p-sp-diamond]: ../images_wt/gf-sp-sq.png?align=right
+[p-sp-trad]: ../images_wt/gf-sp-trad.png?align=left "traditonal spider"
+[p-sp-diamond]: ../images_wt/gf-sp-sq.png?align=right "spider in a diamond"
 
 [T-ST2]: https://d-bl.github.io/GroundForge/tiles?whiting=F2_P178&patchWidth=12&patchHeight=15&b1=ctcctc&a2=ctcll&c2=ctcrr&b3=ctctt&d3=ctc&a4=ctc&c4=ctc&tile=-5--,B-C-,-5-5,5-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 [T-ST3]: https://d-bl.github.io/GroundForge/tiles?whiting=E4_P158&patchWidth=12&patchHeight=15&b1=ctcctc&a2=ctc&c2=ctc&d2=ctcrr&f2=ctcll&a3=ctcll&b3=ctc&c3=ctcrr&e3=ctc&b4=ctctt&d4=ctc&e4=ctc&f4=ctc&a5=ctc&c5=ctc&d5=ctc&f5=ctc&tile=-5----,B-CD-A,256-5-,-5-535,5-56-2&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=5
@@ -59,7 +59,7 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 
 * [4x2 legs][T-SH2], [4x3 legs][T-SH3], [4x4 legs][T-SH4]
 
-[p-sp-eye]: ../images_wt/gf-sp-gat.png?align=left
+[p-sp-eye]: ../images_wt/gf-sp-gat.png?align=left "spider with an eye"
 
 [T-SH2]: https://d-bl.github.io/GroundForge/tiles?patchWidth=8&patchHeight=8&a1=rctclctcrr&c1=lctcrctcll&b2=ctc&d2=ctct&tile=5-5-,-5-5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-SH3]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctc&c1=ctc&e1=ctc&b2=ctclctc&f2=ctcrctc&a3=ctc&c3=ctcrr&e3=ctcll&b4=ctcrr&d4=ctc&f4=ctcll&a5=ctctt&c5=ctc&e5=ctc&tile=5-5-5-,-5---5,5-C-B-,-5-5-5,5-5-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=5
@@ -76,16 +76,16 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 Spiders with a narrow eye also can be achieved using <span class="elem">step 2</span> or <span class="elem">step 3</span> on a [_fish_][page-dr-fish] in <span class="stch">half stitch</span>.
 <p style="clear: both"></p>
 
-[p-sp-narrow-eye]: ../images_wt/wt-sn3.png?align=left
+[p-sp-narrow-eye]: ../images_wt/wt-sn3.png?align=left "spider with a narrow eye" 
 [t-sp-narrow-eye]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctc&b1=ctc&d1=ctc&e1=ctc&f1=ctc&a2=ctc&e2=ctc&a3=ctc&b3=ctc&d3=ctc&e3=ctc&f3=ctc&a4=ctcrr&c4=ttctc&e4=ctcll&b5=ctc&d5=ctc&f5=ctctt&tile=86-215,4---7-,1C-B83,7-5-4-,-5-5-5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=5
 [page-dr-fish]: ../docs/droste#fish
 
 ### in a diamond
 ![spider with narrow eye, diamond][p-snq3]
 
-* [example][t-snq3], [with stars][t-snq3st]
+* [example][t-snq3]; [example with stars][t-snq3st]
 
-[p-snq3]: ../images_wt/wt-snq3.png
+[p-snq3]: ../images_wt/wt-snq3.png "spider with a narrow eye in a diamond"
 [t-snq3]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&c1=ctct&f1=ctc&h1=ctc&a2=ctc&b2=lctct&c2=ctc&d2=rctct&e2=ctc&f2=ctc&g2=ctc&h2=ctc&a3=lctct&b3=ctc&d3=ctc&e3=rctct&f3=ctc&h3=ctc&a4=ctc&b4=ctc&c4=ctc&d4=ctc&e4=ctc&f4=rctct&g4=ctc&h4=lctct&tile=--5--7-4,C632B831,66-224-7,31583256&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [t-snq3st]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&h1=clc&f1=crc&c1=ctct&h2=ctt&g2=ctc&f2=ctt&e2=rcl&d2=rctct&c2=ctc&b2=lctct&a2=lcr&h3=ctc&f3=ctc&e3=rctct&d3=ctc&b3=ctc&a3=lctct&h4=lctct&g4=ctc&f4=rctct&e4=rrclcrc&d4=ttc&c4=ctc&b4=ttc&a4=llcrclc&tile=--5--7-4,C632B831,66-224-7,31583256&tileStitch=ctc&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
@@ -101,7 +101,7 @@ There are many ways of making a binche spider. Below are given some examples.
 
 * [binche spider 1][T-SP-BB1], [binche spider 2][T-SP-BB2], [binche spider 3][T-SP-BB3]
 
-[p-bolletje]: ../images_wt/gf-bi-boll.png?align=left
+[p-bolletje]: ../images_wt/gf-bi-boll.png?align=left "bolletje"
 
 [T-SP-BB1]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctc&c1=ctc&d1=ctct&f1=rctct&g1=ctc&h1=lctct&j1=ctct&k1=ctc&b2=ctc&g2=ctct&l2=ctc&a3=ctc&c3=ctc&d3=lctct&f3=ctct&g3=ctc&h3=ctct&j3=rctct&k3=ctc&b4=ctc&c4=lctct&d4=ctct&e4=ctct&f4=ctc&h4=ctc&i4=ctct&j4=ctct&k4=rctct&l4=ctc&tile=5-27-256-46-,-5----5----5,5-CD-B3C-AB-,-56866-22125&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-6&shiftRowsSW=4&shiftColsSE=6&shiftRowsSE=4
 [T-SP-BB2]: https://d-bl.github.io/GroundForge/tiles?whiting=G4_P201&patchWidth=21&patchHeight=14&i1=ctctt&f1=ctc&e1=ctc&d1=ctc&b1=ctc&a1=ctctt&g2=ctcrr&i3=ctctt&f3=ctc&e3=ctc&d3=ctc&b3=ctcll&a3=ctctt&n4=ctctt&l4=ctctt&j4=ctctt&h4=ctctt&f4=ctt&d4=ctcll&c4=ctcll&b4=ctctt&g5=ctctt&c5=ctctt&n6=ctctt&j6=ctctt&m7=c&k7=ctc&j7=ctc&i7=ctctt&g7=ctctt&e7=ctctt&c7=ctctt&a7=ctctt&tile=56-o98-z5-----,------5-------,ag-aab-wd-----,-256-m-l-o-k-e,--5---5---y-w-,---w-y---b---c,h-g-5-n-l3h-e-,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-7&shiftRowsSW=7&shiftColsSE=7&shiftRowsSE=7
@@ -110,7 +110,7 @@ There are many ways of making a binche spider. Below are given some examples.
 ### traditional spider, on a Binche pricking  
 [![binche small spider][p-bi-spin]][t-bi-spin]
 
-[p-bi-spin]: ../images_wt/gf-bi-spin.png
+[p-bi-spin]: ../images_wt/gf-bi-spin.png "spider on binche pricking"
 [t-bi-spin]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctcctc&e1=ctctttctc&b2=ctc&c2=ctcrrr&d2=ctc&e2=ctc&f2=ctc&g2=ctclll&h2=ctc&a3=ctc&b3=ctcrrr&c3=ctc&d3=ctc&f3=ctc&g3=ctc&h3=ctclll&tile=5---5---,-CD632AB,5666-222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
 
 ## Stacked spiders
