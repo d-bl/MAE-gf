@@ -46,7 +46,7 @@ More examples:
 
 ### Knitting
 The following examples look like a knitwork.   
-[example 1][t-brei1],  [example 2][t-brei2],  [mt-&amp;-ground][t-amp]    
+[example 1][t-brei1],  [example 2][t-brei2],  [&amp;-ground][t-amp]    
 
 
 [p-net1a]: ../images/net1a.png "vertical alternating ground"
