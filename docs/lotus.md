@@ -1,6 +1,6 @@
 ---
 layout: default
-title: lotus
+title: lotus and lattice
 ---
 
 # Lotus &amp; Lattice
@@ -20,13 +20,13 @@ Please note: some of the examples below are known als _Lattice_.
 
 Please note: if a lotus has an odd number of horizontal, like H3, the weavers change direction at the next set of lotus. This is not shown in the matrices used for the examples.
 
-[p-lotus]: ../images_wt/gf%20lotus%20wt.png?align=right
+<p style="clear: both"></p>
+
+[p-lotus]: ../images_wt/gf%20lotus%20wt.png?align=right "lotus"
 [fish-page]: ../docs/fish
 
 ## Lotus notation
 Lotus H,V,X means: the number of Horizontal rows, the number of Verticals and the number of rows in between. See the picture. 
-
-<p style="clear: both"></p>
 
 ## Lotus examples
 * [Lotus H1,V2,X2][T-122]         
