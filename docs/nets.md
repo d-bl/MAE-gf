@@ -11,10 +11,11 @@ title: Net grounds
 * [Diagonal net](#diagonal-net)
 * [Honeycomb net 1](#honeycomb-net-1)
 * [Honeycomb net 2](#honeycomb-net-2)
+* [Honeycomb net 3](#honeycomb-net-3)
   
 ## Introduction
 Net grounds are grounds with repeats of usualy one stitch. There are several ways of placing the stitches:                 
-![net1][p-net1] ![net2][p-net2] ![net2x][p-net2x] ![net3][p-net3] ![net4][p-net4] 
+![net1][p-net1] ![net2][p-net2] ![net2x][p-net2x] ![net3][p-net3] ![net4][p-net4] ![net5][p-net5]
 
 Please note: the second and third diagrams are equivalent in GroundForge terms.
 It is possible to define a strechted honeycomb for the prototype diagram.
@@ -32,6 +33,7 @@ Several of these can be found in the book by mrs A. Rühle: _Fillings from Hunni
 [p-net3]: ../images/net3.png
 [p-net4]: ../images/net4.png
 [p-net2x]: ../images/net2x.png
+[p-net5]: ../images/net5.png
 
 ## Horizontal net
 [![p-net1a]][t-net1a]  [![p-net1b]][t-net1b]  [![p-net1c]][t-net1c]    
@@ -97,6 +99,14 @@ See also [_Lattice_][page-lotus].
 [page-lotus]: ../docs/lotus
 
 [t-net4]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=14&b1=ctc&c2=crr&a2=crr&d3=ctc&c4=cll&a4=cll&tile=-5--,6v9v,---5,2z0z&tileStitch=ctc&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+
+## Honeycomb net 3
+This scheme is equal to the [_bias ground_][p-bias]
+
+* [ground 0204][t-0204]
+
+[page-lotus]: ../docs/bias
+[t-0204]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&d1=lct&c1=ctctc&a1=ctctct&tile=6-48&tileStitch=ctct&shiftColsSW=-3&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
 
 ***
 [&uArr;]()
