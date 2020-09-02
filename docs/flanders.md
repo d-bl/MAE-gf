@@ -19,7 +19,7 @@ See also [Whiting] A2, B2, B6, C6, C9, [Droste] ctct and [rose ground in a diamo
 
 [Whiting]: https://d-bl.github.io/gw-lace-to-gf
 [Droste]: https://d-bl.github.io/GroundForge/help/Droste-effect#stitches
-[squared rose]: ../docs/rosesa#rose-ground-in-a-diamond
+[squared rose]: ../docs/roses#rose-ground-in-a-diamond
 
 For the actual lace the pins can be placed like a Flanders ground, or as a Torchon Rose ground, as shown in the following picture.
 
