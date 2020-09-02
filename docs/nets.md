@@ -105,7 +105,7 @@ This scheme is equal to the [_bias ground_][p-bias]
 
 * [ground 0204][t-0204]
 
-[page-bias]: ../docs/bias
+[p-bias]: ../docs/bias
 [t-0204]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&d1=lct&c1=ctctc&a1=ctctct&tile=6-48&tileStitch=ctct&shiftColsSW=-3&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
 
 ***
