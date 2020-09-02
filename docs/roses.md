@@ -7,7 +7,7 @@ title: rose grounds
 
 ## Contents
 * [Introduction](#introduction)
-* [Rose ground](#rose-ground0
+* [Rose ground](#rose-ground)
 * [Rose ground in a diamond](#rose-ground-in-a-diamond)
 * [Roses with vertical](#roses-with-vertical)
 
