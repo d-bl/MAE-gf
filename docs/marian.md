@@ -13,7 +13,7 @@ title: Marian's grounds
 * [Another fish](#another-fish)
 * [Bias and Paris ground](#bias-and-paris-ground)
 * [Stretched](#stretched)
-* [Roses with vertical](#roses-with-vertical)
+
 * [Bias with vertical](#bias-with-vertical)
 * [Windmills](#windmills)
 
@@ -108,13 +108,6 @@ The one on the left is a bias ground, stretched vertically, as found in the Whit
 [T-0759]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&b1=ctc&a2=ctctctc&c2=tct&b3=ctc&a4=tct&c4=ctctctc&b5=ctc&a6=ctc&c6=ctc&tile=-5--,B-C-,-5--,B-C-,-5--,B-C-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6
 [T-0775]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctc&c1=tctct&d1=ctc&a2=ctcl&b2=ctc&a3=ctc&b3=ctc&c3=ctc&b4=ctc&c4=rctc&tile=83A4,48--,48D-,-48-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 
-
-## Roses with vertical
-[![roses with vertical][p-3115]][t-3115]
-<p style="clear: both"></p>
-
-[p-3115]: ../images_wt/gf-wt-g31.png?align=left "mt-3115"
-[t-3115]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&b1=tctct&a2=c&c2=c&d2=tctctc&a3=ctc&c3=ctc&a4=c&c4=c&d4=ctctct&tile=-5--,B-C3,7-4-,8-15&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Bias with vertical
 [![bias with vertical][p-3228]][t-3228]
