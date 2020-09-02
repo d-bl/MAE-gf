@@ -24,12 +24,12 @@ Ground mt-0504 is used as illustration of different ways to join the unit in the
 
 ![torchon-flemish][pic-tor-flem]      
 ![photo-0112-torchon][ph-0112-t] ![photo-0112-flemish][ph-0112-f]   
-* [mt-0112][T-0112], [mt-0116][T-0116]
-* [mt-0504 a][T-0504-a], [mt-0504 b][T-0504-b], [mt-0504 c][T-0504-c]
+* [ground 0112][T-0112], [ground 0116][T-0116]
+* [ground 0504 a][T-0504-a], [ground 0504 b][T-0504-b], [ground 0504 c][T-0504-c]
 
 [pic-tor-flem]: ../images_wt/gf-tor-vl.png
-[ph-0112-t]: ../photos/ph-0112-t.jpg "mt-0112"
-[ph-0112-f]: ../photos/ph-0112-f.jpg "mt-0112"
+[ph-0112-t]: ../photos/ph-0112-t.jpg "ground 0112"
+[ph-0112-f]: ../photos/ph-0112-f.jpg "ground 0112"
 
 [T-0112]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctt&c1=ctctt&e1=ctctt&f1=ctt&b2=ctctt&c2=c&d2=ctct&e2=c&f2=ctctt&a3=ctctt&c3=ctcr&e3=ctcl&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 [T-0116]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&f1=c&e1=ctcr&c1=ctcl&b1=c&a1=ctctc&f2=ctcr&e2=c&d2=ctctc&c2=c&b2=ctcl&e3=ctc&c3=ctc&a3=ctct&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
@@ -42,7 +42,7 @@ Ground mt-0504 is used as illustration of different ways to join the unit in the
 [![roses with vertical][p-3115]][t-3115]
 <p style="clear: both"></p>
 
-[p-3115]: ../images_wt/gf-wt-g31.png?align=left "mt-3115"
+[p-3115]: ../images_wt/gf-wt-g31.png?align=left "ground 3115"
 [t-3115]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&b1=tctct&a2=c&c2=c&d2=tctctc&a3=ctc&c3=ctc&a4=c&c4=c&d4=ctctct&tile=-5--,B-C3,7-4-,8-15&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 
