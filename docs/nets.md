@@ -25,7 +25,7 @@ Only when defining plaits as stitches you will see the [honeycomb] again in the 
 
 [honeycomb]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&tile=5-5-,r-r-,-5-5&tileStitch=ctctctctt&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
 
-Now, it gets more interesting, if we would use two (or more) different stitches. These grounds are known as "chaotic ground", "alternating ground", ...    
+It gets interesting, if we would use two (or more) different stitches. These grounds are known as "chaotic ground", "alternating ground", ...    
 Several of these can be found in the book by mrs A. Rühle: _Fillings from Hunnia Lace_.        
 
 [p-net1]: ../images/net1.png "horizontal net"
