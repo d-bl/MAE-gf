@@ -30,9 +30,9 @@ Several of these can be found in the book by mrs A. Rühle: _Fillings from Hunni
 
 [p-net1]: ../images/net1.png "horizontal net"
 [p-net2]: ../images/net2.png "diagonal net"
-[p-net3]: ../images/net3.png "honeycomb 1"
-[p-net4]: ../images/net4.png "honeycomb 2"
 [p-net2x]: ../images/net2x.png "diagonal net"
+[p-net3]: ../images/net5.png "honeycomb 1"
+[p-net4]: ../images/net5.png "honeycomb 2"
 [p-net5]: ../images/net5.png "honeycomb 3"
 
 ## Horizontal net
