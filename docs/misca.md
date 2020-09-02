@@ -36,12 +36,9 @@ There are several ways of making three-paired joins. As Groundforge does not do 
 [page-paris]: ../docs/paris#paris-ground-in-a-diamond
 [page-nets]: ../docs/nets#horizontal-net
 
-[pic-tor-flem]: ../images_wt/gf-tor-vl.png
+
 [pic-0306-OIv]: ../images_wt/gf%200301%20wt.png
 [pic-oeno]: ../images_wt/gf-oeno-11.png?align=right
-
-[ph-0112-t]: ../photos/ph-0112-t.jpg "mt-0112"
-[ph-0112-f]: ../photos/ph-0112-f.jpg "mt-0112"
 
 [p-3pr-st-h]: ../images/3pr-st-h.png
 [p-3pr-st-v]: ../images/3pr-st-v.png
@@ -68,8 +65,6 @@ There are several ways of making three-paired joins. As Groundforge does not do 
 
 [t-3pr-sn-d]: https://d-bl.github.io/GroundForge/tiles?patchWidth=17&patchHeight=20&e1=cl&a1=cr&e2=ctctrr&d2=ctc&b2=ctcrrr&a2=ctcl&d3=cttt&b3=cttt&c4=ctcttt&d5=cr&b5=cl&e6=ctc&d6=ctctll&b6=ctcr&a6=ctclll&e7=cttt&a7=cttt&f8=ctcttt&tile=c---b-,m9-l8-,-7-4--,--5---,-b-c--,0f-1h-,4---7-,-----5&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=6&shiftRowsSE=8
 
-[T-0112]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctt&c1=ctctt&e1=ctctt&f1=ctt&b2=ctctt&c2=c&d2=ctct&e2=c&f2=ctctt&a3=ctctt&c3=ctcr&e3=ctcl&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
-
 [T-3412]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=24&b1=ct&f1=ct&c2=c&e2=c&b3=ct&d3=ctc&f3=ct&tile=-5---5,--C-B-,-B-5-C&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
 [T-BIG-RG1]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&b1=ctct&f1=ctct&c2=ctct&e2=ctct&b3=ct&d3=ctct&f3=ct&tile=-5---5,--C-B-,-B-5-C&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
@@ -82,13 +77,6 @@ There are several ways of making three-paired joins. As Groundforge does not do 
 
 [T-PAR-SQR1]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctct&c1=ctct&e1=ctc&g1=ctc&b2=ctct&d2=ctc&f2=tctc&h2=ctc&a3=ctc&c3=ctc&e3=tctcr&g3=tctcl&b4=ctc&d4=tctct&h4=tctct&tile=C-B-5-5-,-5-5-5-5,5-5-5-5-,-5-5---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
-[T-0116]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&f1=c&e1=ctcr&c1=ctcl&b1=c&a1=ctctc&f2=ctcr&e2=c&d2=ctctc&c2=c&b2=ctcl&e3=ctc&c3=ctc&a3=ctct&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
-
-[T-0504-a]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&f1=c&e1=ctcr&c1=ctcl&b1=c&a1=tctctc&f2=ctcr&e2=c&d2=ctctct&c2=c&b2=ctcl&e3=crc&c3=clc&a3=ctct&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
-
-[T-0504-b]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&f1=ct&e1=ctct&c1=ctct&b1=ct&a1=tctctc&f2=ctct&e2=c&d2=ctctct&c2=c&b2=ctct&e3=crc&c3=clc&a3=ctct&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
-
-[T-0504-c]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&f1=tct&e1=ctct&c1=ctct&b1=tct&a1=tctctc&f2=ctct&e2=ct&d2=ctctct&c2=ct&b2=ctct&e3=crc&c3=clc&a3=ctct&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
 
 
