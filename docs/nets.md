@@ -101,7 +101,7 @@ See also [_Lattice_][page-lotus].
 [t-net4]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=14&b1=ctc&c2=crr&a2=crr&d3=ctc&c4=cll&a4=cll&tile=-5--,6v9v,---5,2z0z&tileStitch=ctc&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Honeycomb net 3
-This scheme is equal to the [_bias ground_][p-bias]
+This scheme is equal to the [_bias ground_][p-bias].
 
 * [ground 0204][t-0204]
 
