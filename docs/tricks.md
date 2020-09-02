@@ -28,7 +28,7 @@ We have learned, that the figure on the left is called a [_snowflake_][t-snowfla
 [t-spider]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&b1=ctcctc&a2=ctc&c2=ctc&b3=ctcttt&d3=tttctc&a4=ctc&c4=ctc&shiftColsSE=2&shiftRowsSE=4&shiftColsSW=-2&shiftRowsSW=4&tile=-5--,B-C-,-5-5,5-5-
 
 ### Ground numbers on this site
-Most examples are show a fout-digit number. These numbers do not have a specific meaning. E.g. number 0604 does not say, that there are 604 ground in our collection.    
+Most examples are show a fout-digit number. These numbers do not have a specific meaning. E.g. number 0604 does not say, that there are 604 grounds in our collection.    
 
 ## Stitches
 ![colours][p-colors]
