@@ -7,46 +7,11 @@ title: miscellaneous
 
 ## Contents
 * [Introduction](#introduction)
-
-**Ground-unit in diamond**
-* [Rose ground](#rose-ground-in-a-diamond)
-* [Snowflake](#snowflake-in-a-diamond)
-* [Spider](#spider-in-a-diamond)
-* [Pagoda](#pagoda-in-a-diamond)
-* [Unit bias](#unit-bias-in-a-diamond)
-* [Paris ground](#paris-ground-in-a-diamond)
-
-**Others**
 * [Alternate stitch ground (om &amp; om)](#alternate-stitch-ground)
 * [3 paired join](#3-paired-join)
 
 ## Introduction
 Miscellaneous examples, collected on this page. 
-
-## Rose ground in a diamond
-By putting the traditional rose ground unit in a diamond, little stars can be made.                 
-Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates. Ground mt-0112 looks like a star.    
-Ground mt-0504 is used as illustration of different ways to join the unit in the diamond.
-
-![torchon-flemish][pic-tor-flem]      
-![photo-0112-torchon][ph-0112-t] ![photo-0112-flemish][ph-0112-f]   
-* [mt-0112][T-0112], [mt-0116][T-0116]
-* [mt-0504 a][T-0504-a], [mt-0504 b][T-0504-b], [mt-0504 c][T-0504-c]
-
-## Snowflake in a diamond
-See page [_Snowflakes_][page-snow].
-
-## Spider in a diamond
-See page [_Spiders_][page-spid].
-
-## Pagoda in a diamond
-See page [_Pagoda's_][page-tria]. 
-
-## Unit bias in a diamond
-See page [_Bias grounds_][page-bias].
-
-## Paris ground in a diamond
-See page [_Paris grounds_][page-paris].
 
 ## Alternate stitch ground
 This part is moved [_here_][page-nets].      
