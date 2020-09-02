@@ -72,14 +72,13 @@ The following examples look like a knitwork.
 [p-net2c]: ../images/net2c.png
 
 More examples:   
-* [doubled crossed tule][PF-dct], [cats eyes][PF-cat]    
+* [double crossed tule][PF-dct], [cats eyes][PF-cat]    
 
 [t-net2a]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&e1=ctct&c1=ctct&a1=ctct&f2=ct&d2=ct&b2=ct&e3=ctct&c3=ctct&a3=ctct&f4=ct&d4=ct&b4=ct&e5=ctct&c5=ctct&a5=ctct&f6=ct&d6=ct&b6=ct&tile=5-5-5-,-5-5-5,5-5-5-,-5-5-5,5-5-5-,-5-5-5&tileStitch=ct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
 [t-net2c]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ct&a1=ctct&d2=ct&b2=ctct&tile=5-5-,-5-5&tileStitch=ct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 [PF-dct]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&e1=cct&c1=cct&a1=cct&f2=cct&d2=cct&b2=cct&e3=cct&c3=cct&a3=cct&f4=cct&d4=cct&b4=cct&e5=cct&c5=cct&a5=cct&f6=cct&d6=cct&b6=cct&tile=5-5-5-,-5-5-5,5-5-5-,-5-5-5,5-5-5-,-5-5-5&footsideStitch=ctctt&tileStitch=cct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
-[PF-cat]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ctct&a1=ctct&d2=ctct&b2=cct&c3=ctct&a3=ctct&d4=cct&b4=ctct&tile=5-5-,-5-5,5-5-,-5-5&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
-
+[PF-cat]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&e1=clcrct&c1=clcrct&a1=clcrct&f2=clcrct&d2=clcrct&b2=clcrct&e3=clcrct&c3=clcrct&a3=clcrct&f4=clcrct&d4=clcrct&b4=clcrct&e5=clcrct&c5=clcrct&a5=clcrct&f6=clcrct&d6=clcrct&b6=clcrct&tile=5-5-5-,-5-5-5,5-5-5-,-5-5-5,5-5-5-,-5-5-5&tileStitch=clcrct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
 
 ## Honeycomb net 1
 See also [_Paris grounds_][page-paris].           
