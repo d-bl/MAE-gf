@@ -20,13 +20,15 @@ Groundforge uses scheme's (matrices) as input-parameter. Some of those are disco
 Some new grounds use traditional prickings. E.g.: the "ants" are made on the rose-ground pricking.
     
 ## Creators
-Our own grounds are prefixed with our initials (jp-, mt-). Grounds (also) created by others are indicated as such. Grounds found in the Whiting index are free of copyrights.    
+&copy; J. Pol
+&copy; M. Tempels
+&copy; V. Irvine
+&copy; P. Fouché                
+      
+Some examples shows the traditional grounds. New grounds (also) created by others are indicated as such. Grounds found in the Whiting index are free of copyrights. All other grounds are our own finds.   
 
 All images are created by J. Pol, M. Tempels, or Groundforge, except where otherwise noted.
 Most of the images are created using Knipling &reg; (&copy; Petra Pönisch Verlag).   
-
-&copy; J. Pol
-&copy; M. Tempels
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />The examples and images are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>, except where otherwise noted.       
