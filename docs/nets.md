@@ -28,12 +28,12 @@ Only when defining plaits as stitches you will see the [honeycomb] again in the 
 Now, it gets more interesting, if we would use two (or more) different stitches. These grounds are known as "chaotic ground", "alternating ground", ...    
 Several of these can be found in the book by mrs A. Rühle: _Fillings from Hunnia Lace_.        
 
-[p-net1]: ../images/net1.png
-[p-net2]: ../images/net2.png
-[p-net3]: ../images/net3.png
-[p-net4]: ../images/net4.png
-[p-net2x]: ../images/net2x.png
-[p-net5]: ../images/net5.png
+[p-net1]: ../images/net1.png "horizontal net"
+[p-net2]: ../images/net2.png "diagonal net"
+[p-net3]: ../images/net3.png "honeycomb 1"
+[p-net4]: ../images/net4.png "honeycomb 2"
+[p-net2x]: ../images/net2x.png "diagonal net"
+[p-net5]: ../images/net5.png "honeycomb 3"
 
 ## Horizontal net
 [![p-net1a]][t-net1a]  [![p-net1b]][t-net1b]  [![p-net1c]][t-net1c]    
@@ -105,7 +105,7 @@ This scheme is equal to the [_bias ground_][p-bias]
 
 * [ground 0204][t-0204]
 
-[page-lotus]: ../docs/bias
+[page-bias]: ../docs/bias
 [t-0204]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&d1=lct&c1=ctctc&a1=ctctct&tile=6-48&tileStitch=ctct&shiftColsSW=-3&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
 
 ***
