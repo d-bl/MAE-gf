@@ -5,7 +5,11 @@
 For the 20th anniversary of the LOKK chapter "'t Groene Hart" in 2005, the members
 created these patches of Flanders grounds, each with another variation of stitches.
 
-{% include picts-centr.html alt="patches of flanders grounds" src="/MAE-gf/images_flanders/spiral.JPG" %}
+{% include picts-centr.html 
+   alt="patches of flanders grounds" 
+   src="/MAE-gf/images_flanders/spiral.JPG"
+   title="spiral"
+ %}
 
 Lesson learnt: Many types of stitch combinations keep the pairs together or let them follow a straight path.
 You get the most exotic variants, even when working monochrome, with stitches that twist just one of the pairs,
@@ -15,13 +19,14 @@ See also [Whiting] A2, B2, B6, C6, C9, [Droste] ctct and [rose ground in a diamo
 
 [Whiting]: https://d-bl.github.io/gw-lace-to-gf
 [Droste]: https://d-bl.github.io/GroundForge/help/Droste-effect#stitches
-[squared rose]: https://maetempels.github.io/MAE-gf/docs/misca#rose-ground-in-a-diamond
+[squared rose]: ../docs/rosesa#rose-ground-in-a-diamond
 
 For the actual lace the pins can be placed like a Flanders ground, or as a Torchon Rose ground, as shown in the following picture.
 
 {% include picts-centr.html
      alt="flanders or rose"
      src="https://maetempels.github.io/MAE-gf/images_wt/flanders.png"
+     title="rose ground"
 %}   
 
 Should you notice a photograph that doesn't match the generated thread diagram, please [contact](about-us#write-us) us. Note that some patterns happily mix the open and closed method. Both `tctc` and `ctct` will become red in the color-coded diagrams and `tc` and `ct` will both become green.
@@ -87,5 +92,5 @@ Should you notice a photograph that doesn't match the generated thread diagram, 
 ***
 [&uArr;]()
 
-[pic-flan-rose]: https://maetempels.github.io/MAE-gf/images_wt/flanders.png
+[pic-flan-rose]: ../images_wt/flanders.png
 
