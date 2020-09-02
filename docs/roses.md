@@ -20,14 +20,14 @@ title: rose grounds
 ## Rose ground in a diamond
 By putting the traditional rose ground unit in a diamond, little stars can be made.                 
 Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates. Ground mt-0112 looks like a star.    
-Ground mt-0504 is used as illustration of different ways to join the unit in the diamond.
+Ground 0504 is used as illustration of different ways to join the unit in the diamond.
 
 ![torchon-flemish][pic-tor-flem]      
 ![photo-0112-torchon][ph-0112-t] ![photo-0112-flemish][ph-0112-f]   
 * [ground 0112][T-0112], [ground 0116][T-0116]
 * [ground 0504 a][T-0504-a], [ground 0504 b][T-0504-b], [ground 0504 c][T-0504-c]
 
-[pic-tor-flem]: ../images_wt/gf-tor-vl.png
+[pic-tor-flem]: ../images_wt/gf-tor-vl.png "torchon - flemish"
 [ph-0112-t]: ../photos/ph-0112-t.jpg "ground 0112"
 [ph-0112-f]: ../photos/ph-0112-f.jpg "ground 0112"
 
