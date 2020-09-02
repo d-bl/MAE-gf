@@ -20,6 +20,7 @@ Fish can also be made using the <span class="elem">Droste function</span> of Gro
 {% include picts-centr.html
      alt="fish pair dia"
      src="../images_wt/gf%20vis%20wt.png"
+     title="all fish"
 %}     
 
 Broader fish can be made, e.g. with four cloth stitches.       
