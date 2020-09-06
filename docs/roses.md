@@ -8,14 +8,41 @@ title: rose grounds
 ## Contents
 * [Introduction](#introduction)
 * [Rose ground](#rose-ground)
+* [Slavic ground](#slavic-ground)
+* [Ants](#ants)
 * [Rose ground in a diamond](#rose-ground-in-a-diamond)
 * [Roses with vertical](#roses-with-vertical)
 
 
 ## Introduction
-.. follows ...
+![roseground][p-rose-wt]
+The traditional Rose Ground is made as in the pair-diagram on the right.     
+<p style="clear: both"></p>
+
+[p-rose-wt]: ../images_wt/tradrose.png?align=right "traditional rose ground"
 
 ## Rose ground
+* [traditiona][0111ng]
+
+[0001ng]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ct&c1=ctct&b1=ct&a1=ctct&d2=ctct&b2=ctct&tile=5831,-4-7&tileStitch=ctct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+
+## Slavic ground
+![slavicground][p-slav-wt]
+The traditional Slavic Ground is made as in the pair-diagram on the right. It uses the same pricking as the Rose Ground.
+<p style="clear: both"></p>
+
+* [traditonal][0671ng]
+
+[0671ng]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ct&c1=ctct&b1=ct&a1=ctct&d2=ct&b2=ct&tile=5831,-4-7&tileStitch=ctct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+
+[p-slav-wt]: ../images_wt/tradslav.png?align=right "traditional slavic ground"
+
+## Ants
+A variant on the Slavic Ground.
+
+* [ground 0684][0684lg]
+
+[0684lg]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ctc&c1=ctctc&b1=ctc&a1=tctc&d2=c&b2=c&tile=5831,-4-7&tileStitch=ctct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ## Rose ground in a diamond
 By putting the traditional rose ground unit in a diamond, little stars can be made.                 
