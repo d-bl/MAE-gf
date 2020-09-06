@@ -22,16 +22,17 @@ The traditional Rose Ground is made as in the pair-diagram on the right.
 [p-rose-wt]: ../images_wt/tradrose.png?align=right "traditional rose ground"
 
 ## Rose ground
-* [traditiona][0111ng]
+* [traditional][0111ng]
 
-[0001ng]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ct&c1=ctct&b1=ct&a1=ctct&d2=ctct&b2=ctct&tile=5831,-4-7&tileStitch=ctct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[0111ng]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ct&c1=ctct&b1=ct&a1=ctct&d2=ctct&b2=ctct&tile=5831,-4-7&tileStitch=ctct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ## Slavic ground
 ![slavicground][p-slav-wt]
 The traditional Slavic Ground is made as in the pair-diagram on the right. It uses the same pricking as the Rose Ground.
-<p style="clear: both"></p>
 
-* [traditonal][0671ng]
+* [traditonal][0671ng]    
+
+<p style="clear: both"></p>
 
 [0671ng]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ct&c1=ctct&b1=ct&a1=ctct&d2=ct&b2=ct&tile=5831,-4-7&tileStitch=ctct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
