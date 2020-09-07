@@ -75,7 +75,7 @@ The following examples look like a knitwork.
 
 More examples:   
 * [double crossed tule][PF-dct], [cats eyes][PF-cat], [double crossed in a ring][cc-ring]        
-* [mini spider][mini-sp]      
+* [mini spider][mini-sp], [untwisted brussels ground][untw-1]           
 
 [t-net2a]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&e1=ctct&c1=ctct&a1=ctct&f2=ct&d2=ct&b2=ct&e3=ctct&c3=ctct&a3=ctct&f4=ct&d4=ct&b4=ct&e5=ctct&c5=ctct&a5=ctct&f6=ct&d6=ct&b6=ct&tile=5-5-5-,-5-5-5,5-5-5-,-5-5-5,5-5-5-,-5-5-5&tileStitch=ct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
 [t-net2c]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ct&a1=ctct&d2=ct&b2=ctct&tile=5-5-,-5-5&tileStitch=ct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -84,6 +84,7 @@ More examples:
 [PF-cat]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&e1=clcrct&c1=clcrct&a1=clcrct&f2=clcrct&d2=clcrct&b2=clcrct&e3=clcrct&c3=clcrct&a3=clcrct&f4=clcrct&d4=clcrct&b4=clcrct&e5=clcrct&c5=clcrct&a5=clcrct&f6=clcrct&d6=clcrct&b6=clcrct&tile=5-5-5-,-5-5-5,5-5-5-,-5-5-5,5-5-5-,-5-5-5&tileStitch=clcrct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
 [cc-ring]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ct&a1=ct&d2=ct&b2=cct&c3=ct&a3=ct&d4=cct&b4=ct&tile=5-5-,-5-5,5-5-,-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [mini-sp]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ctcr&a1=ctcl&d2=ctct&b2=ctctc&c3=ctcl&a3=ctcr&d4=ctctc&b4=ctct&tile=5-5-,-5-5,5-5-,-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[untw-1]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ctcr&a1=ctcl&d2=ctct&b2=ctctc&c3=ctcl&a3=ctcr&d4=ctctc&b4=ctct&tile=5-5-,-5-5,5-5-,-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Honeycomb net 1
 See also [_Paris grounds_][page-paris].           
