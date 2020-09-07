@@ -43,7 +43,7 @@ Please note the resemblance of the 3-step fish with the [narrow eyed spider][ne-
 
 
 ## Wobble
-This ground uses the thread diagram of alternating `ct/ctct` as pair diagram.
+This ground uses the thread diagram of alternating <span class="stch">ct/ctct</span> as pair diagram.
 
 ### Pricking
 ![][p-wobble-2]
