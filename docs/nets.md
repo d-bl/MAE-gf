@@ -84,7 +84,7 @@ More examples:
 [PF-cat]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&e1=clcrct&c1=clcrct&a1=clcrct&f2=clcrct&d2=clcrct&b2=clcrct&e3=clcrct&c3=clcrct&a3=clcrct&f4=clcrct&d4=clcrct&b4=clcrct&e5=clcrct&c5=clcrct&a5=clcrct&f6=clcrct&d6=clcrct&b6=clcrct&tile=5-5-5-,-5-5-5,5-5-5-,-5-5-5,5-5-5-,-5-5-5&tileStitch=clcrct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
 [cc-ring]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ct&a1=ct&d2=ct&b2=cct&c3=ct&a3=ct&d4=cct&b4=ct&tile=5-5-,-5-5,5-5-,-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [mini-sp]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ctcr&a1=ctcl&d2=ctct&b2=ctctc&c3=ctcl&a3=ctcr&d4=ctctc&b4=ctct&tile=5-5-,-5-5,5-5-,-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
-[untw-1]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ctcr&a1=ctcl&d2=ctct&b2=ctctc&c3=ctcl&a3=ctcr&d4=ctctc&b4=ctct&tile=5-5-,-5-5,5-5-,-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[untw-1]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ctctctc&a1=ctctctc&d2=ctctctc&b2=ctctctc&c3=ctctctc&a3=ctctctc&d4=ctctctc&b4=ctctctc&tile=5-5-,-5-5,5-5-,-5-5&footsideStitch=ctctt&tileStitch=ctctctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Honeycomb net 1
 See also [_Paris grounds_][page-paris].           
