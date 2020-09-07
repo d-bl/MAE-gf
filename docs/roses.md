@@ -21,6 +21,19 @@ The traditional Rose Ground is made as in the pair-diagram on the right.
 
 [p-rose-wt]: ../images_wt/tradrose.png?align=right "traditional rose ground"
 
+### Corners
+An easy way to make a variant on a Rose ground, is by changing the corner stitches. See the following examples of ground 0502. Of course, there are more possibilities, e.g. <span elem="stch">lctcr</span> and 'rctcl`.          
+* [nothing][0502-O], [twist][0501-O], [cross][0502-K], [tct][0502-N], [ctc][0502-L], [tctct][0502-D], [ctctctc][0502-KF], [tctctct][0502-NF]
+
+[0501-O]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&d1=t&c1=ctct&b1=t&a1=tctc&d2=crc&b2=clc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[0502-O]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&d1=t&c1=ctct&b1=t&a1=tctc&d2=crc&b2=clc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[0502-K]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&d1=c&c1=ctct&b1=c&a1=tctc&d2=crc&b2=clc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[0502-N]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&d1=tct&c1=ctct&b1=tct&a1=tctc&d2=crc&b2=clc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[0502-L]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ctc&c1=ctct&b1=ctc&a1=tctc&d2=crc&b2=clc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[0502-D]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&d1=tctct&c1=ctct&b1=tctct&a1=tctc&d2=crc&b2=clc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[0502-KF]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ctctctc&c1=ctct&b1=ctctctc&a1=tctc&d2=crc&b2=clc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[0502-NF]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&d1=tctctct&c1=ctct&b1=tctctct&a1=tctc&d2=crc&b2=clc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+
 ## Rose ground
 * [traditional][0111ng]
 
