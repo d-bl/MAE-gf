@@ -43,7 +43,7 @@ An easy way to make a variant on a Rose ground, is by changing the corner stitch
 ![slavicground][p-slav-wt]
 The traditional Slavic Ground is made as in the pair-diagram on the right. It uses the same pricking as the Rose Ground.
 
-* [traditonal][0671ng]    
+* [traditional][0671ng]    
 
 <p style="clear: both"></p>
 
