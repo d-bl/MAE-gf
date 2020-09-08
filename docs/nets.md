@@ -74,7 +74,7 @@ The following examples look like a knitwork.
 [p-net2c]: ../images/net2c.png "chaotic ground"
 
 More examples:   
-* [double crossed tule][PF-dct], [cats eyes][PF-cat], [double crossed in a ring][cc-ring]        
+* [double crossed tulle][PF-dct], [cats eyes][PF-cat], [double crossed in a ring][cc-ring]        
 * [mini spider][mini-sp], [untwisted brussels ground][untw-1]           
 
 [t-net2a]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&e1=ctct&c1=ctct&a1=ctct&f2=ct&d2=ct&b2=ct&e3=ctct&c3=ctct&a3=ctct&f4=ct&d4=ct&b4=ct&e5=ctct&c5=ctct&a5=ctct&f6=ct&d6=ct&b6=ct&tile=5-5-5-,-5-5-5,5-5-5-,-5-5-5,5-5-5-,-5-5-5&tileStitch=ct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
