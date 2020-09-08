@@ -17,6 +17,7 @@ title: Bias grounds
 * [Short bias](#short-bias)         
 ** [Solo](#solo)     
 ** [Crossed](#crossed)
+* [Double bias](#double-bias)
 * [Bias with vertical](#bias-with-vertical)
 * [Stretched](#stretched)
 
@@ -103,6 +104,13 @@ Take one unit of the Bias ground, place them in alternating directions, and cros
 
 [p-0248]: ../images_wt/02YQ2.png?align=left "ground 0248"
 [t-0248]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&b1=ctc&a1=tct&d2=c&c2=ctc&b2=c&a2=ctc&d3=ctc&c3=tct&b3=ctc&d4=c&c4=ctc&b4=c&a4=ctc&tile=88-4,4831,-117,3178,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+
+## Double bias
+[![double bias][p-doublebias]][t-doublebias]
+<p style="clear: both"></p>
+
+[p-doublebias]: ../images_wt/doublebias.png?align=left "double bias"
+[t-doublebias]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&d1=rctcr&c1=ctc&b1=ctc&a1=lctcl&b2=ctc&tile=2A1C,-7--&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=1
 
 ## Bias with vertical
 [![bias with vertical][p-3228]][t-3228]
