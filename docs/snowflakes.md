@@ -32,11 +32,16 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 [p-little-snow]: ../images_wt/gf-sn-oo-wt.png "little snowflake"
 [t-little-snow]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&a1=ct&c1=ct&b2=ct&a3=ct&c3=ct&b4=ctct&d4=ctct&shiftColsSE=2&shiftRowsSE=4&shiftColsSW=-2&shiftRowsSW=4&tile=5-5-,-5--,B-C-,-5-5
 
-## Little Snowflake, crossed
+## Little Snowflake, crossed     
 ![little snowflake crossed][pic-sn-cr]
+A way to make variants is by changing the stitches at the corners. See page [_rose grounds_][p-corners].   
+<p style="clear: both"></p>
+
 * [ground 0342][T-ex-0342], [ground 0306][T-mt-0306]
 
-[pic-sn-cr]: ../images_wt/gf-sn-cr-wt.png "little snowflake, crossed"
+[pic-sn-cr]: ../images_wt/gf-sn-cr-wt.png?align=left "little snowflake, crossed"
+[p-corners]: ../docs/roses#corners
+
 [T-ex-0342]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&c1=c&e1=c&b2=ctctc&d2=tc&f2=ctctc&h2=ct&a3=ct&g3=ct&h4=ctct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=--B-C---,-E-5-O-K,5-----5-,-------5
 [T-mt-0306]: https://d-bl.github.io/GroundForge/tiles?patchWidth=24&patchHeight=24&c1=c&e1=c&b2=c&d2=tctc&f2=c&h2=ctct&a3=cr&g3=cl&h4=tct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=--B-C---,-E-5-O-K,5-----5-,-------5
 
