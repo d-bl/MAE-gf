@@ -73,19 +73,37 @@ The following examples look like a knitwork.
 [p-net2a]: ../images/net2a.png "horizontally alternating"
 [p-net2c]: ../images/net2c.png "chaotic ground"
 
-More examples:   
-* [double crossed tulle][PF-dct], [cats eyes][PF-cat1], [2 eyed cat][PF-cat2], [double crossed in a ring][cc-ring]        
-* [mini spider][mini-sp], [untwisted brussels ground][untw-1]           
+### Examples using one stitch
+* [cats eyes][pf-2-bias-cr], [2-paired-bias][2-bias], [2 paired triangle][vi-2-tria], [mini spider 1][2-sp-1], [mini-spider 2][2-sp-2], [untwisted brussels ground][untw-mech]   
+* [double crossed tulle][PF-dct]    
+
+### Sprang
+The following examples look like sprang plaiting.           
+* [example 1][vi-sprang-1], [example 2][vi-sprang-2]
+
+### Examples using two or more different stitches
+* [mini spider in ring][2-sp-ring], [double crossed tulle in a ring][pf-cc-ring]     
+* [2 eyed cat][pf-2-bias-2]           
+
 
 [t-net2a]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&e1=ctct&c1=ctct&a1=ctct&f2=ct&d2=ct&b2=ct&e3=ctct&c3=ctct&a3=ctct&f4=ct&d4=ct&b4=ct&e5=ctct&c5=ctct&a5=ctct&f6=ct&d6=ct&b6=ct&tile=5-5-5-,-5-5-5,5-5-5-,-5-5-5,5-5-5-,-5-5-5&tileStitch=ct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
 [t-net2c]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ct&a1=ctct&d2=ct&b2=ctct&tile=5-5-,-5-5&tileStitch=ct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 [PF-dct]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&e1=cct&c1=cct&a1=cct&f2=cct&d2=cct&b2=cct&e3=cct&c3=cct&a3=cct&f4=cct&d4=cct&b4=cct&e5=cct&c5=cct&a5=cct&f6=cct&d6=cct&b6=cct&tile=5-5-5-,-5-5-5,5-5-5-,-5-5-5,5-5-5-,-5-5-5&footsideStitch=ctctt&tileStitch=cct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
-[PF-cat1]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&e1=clcrct&c1=clcrct&a1=clcrct&f2=clcrct&d2=clcrct&b2=clcrct&e3=clcrct&c3=clcrct&a3=clcrct&f4=clcrct&d4=clcrct&b4=clcrct&e5=clcrct&c5=clcrct&a5=clcrct&f6=clcrct&d6=clcrct&b6=clcrct&tile=5-5-5-,-5-5-5,5-5-5-,-5-5-5,5-5-5-,-5-5-5&tileStitch=clcrct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
-[cc-ring]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ct&a1=ct&d2=ct&b2=cct&c3=ct&a3=ct&d4=cct&b4=ct&tile=5-5-,-5-5,5-5-,-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
-[mini-sp]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ctcr&a1=ctcl&d2=ctct&b2=ctctc&c3=ctcl&a3=ctcr&d4=ctctc&b4=ctct&tile=5-5-,-5-5,5-5-,-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
-[untw-1]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ctctctc&a1=ctctctc&d2=ctctctc&b2=ctctctc&c3=ctctctc&a3=ctctctc&d4=ctctctc&b4=ctctctc&tile=5-5-,-5-5,5-5-,-5-5&footsideStitch=ctctt&tileStitch=ctctctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
-[PF-cat2]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&e1=ctct&c1=crccclct&a1=clcccrct&f2=ctct&d2=ctct&b2=ctct&tile=5-5-5-,-5-5-5&footsideStitch=ctctt&tileStitch=clcrct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=2
+[pf-2-bias-cr]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&e1=clcrct&c1=clcrct&a1=clcrct&f2=clcrct&d2=clcrct&b2=clcrct&e3=clcrct&c3=clcrct&a3=clcrct&f4=clcrct&d4=clcrct&b4=clcrct&e5=clcrct&c5=clcrct&a5=clcrct&f6=clcrct&d6=clcrct&b6=clcrct&tile=5-5-5-,-5-5-5,5-5-5-,-5-5-5,5-5-5-,-5-5-5&tileStitch=clcrct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
+[untw-mech]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ctctctc&a1=ctctctc&d2=ctctctc&b2=ctctctc&c3=ctctctc&a3=ctctctc&d4=ctctctc&b4=ctctctc&tile=5-5-,-5-5,5-5-,-5-5&footsideStitch=ctctt&tileStitch=ctctctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[vi-2-tria]: https://d-bl.github.io/GroundForge/tiles?patchWidth=14&patchHeight=14&a1=clcrclc&tile=5-&footsideStitch=ctctt&tileStitch=clcrclc&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
+[2-sp-1]: https://d-bl.github.io/GroundForge/tiles?patchWidth=14&patchHeight=14&a1=ctctc&tile=5-&footsideStitch=ctctt&tileStitch=ctctc&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
+[2-sp-2]: https://d-bl.github.io/GroundForge/tiles?patchWidth=14&patchHeight=14&a1=ctcctc&tile=5-&footsideStitch=ctctt&tileStitch=ctcctc&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
+[2-bias]: https://d-bl.github.io/GroundForge/tiles?patchWidth=14&patchHeight=14&a1=clcrcr&tile=5-&footsideStitch=ctctt&tileStitch=clcrcr&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
+
+[pf-cc-ring]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ct&a1=ct&d2=ct&b2=cct&c3=ct&a3=ct&d4=cct&b4=ct&tile=5-5-,-5-5,5-5-,-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[2-sp-ring]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ctcr&a1=ctcl&d2=ctct&b2=ctctc&c3=ctcl&a3=ctcr&d4=ctctc&b4=ctct&tile=5-5-,-5-5,5-5-,-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+
+[pf-2-bias-2]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&e1=ctct&c1=crccclct&a1=clcccrct&f2=ctct&d2=ctct&b2=ctct&tile=5-5-5-,-5-5-5&footsideStitch=ctctt&tileStitch=clcrct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=2
+
+[vi-sprang-1]: https://d-bl.github.io/GroundForge/tiles?patchWidth=14&patchHeight=14&a1=clcl&tile=5-&footsideStitch=ctctt&tileStitch=clcl&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
+[vi-sprang-2]: https://d-bl.github.io/GroundForge/tiles?patchWidth=14&patchHeight=14&a1=cllcl&tile=5-&footsideStitch=ctctt&tileStitch=cllcl&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
 
 ## Honeycomb net 1
 See also [_Paris grounds_][page-paris].           
