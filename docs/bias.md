@@ -37,6 +37,7 @@ Traditonally, a bias ground is made as follows: make two stitches diagonally, ma
 
 ![p-note-2]
 We can make many variants, by applying two or more different stitches for the middle stitch, see the dots in the picture.               
+<p style="clear: both"></p>
 
 ![p-note-3]
 More variants can be made by making connections at the corners, like the rose-ground.    
@@ -48,11 +49,12 @@ The colors in the picture have no meaning.
 [p-note-3]: ../images/bias-note-3.png?align=right "variant 1 with crossings"
 
 ## Traditional Bias Ground
-![traditional][p-0221-tr]
-Ground 0228 is a variant in cloth stitch. Ground 0225 shows alternate stitches in the middle.
-<p style="clear: both"></p>
+![traditional][p-0221-tr] 
+### examples with one connecting stitch
+* [ground 0228][T-0228-OD]   
 
-* [ground 0228][T-0228-OD], [ground 0225][T-0225-L]
+### examples with two connecting stitches
+* [ground 0225][T-0225-L]
 
 [p-0221-tr]: ../images_wt/gf-bias-tr.png?align=left "traditional bias ground"
 [T-0228-OD]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=tct&a2=tct&b2=ctc&d2=ctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=6-48,86-4
