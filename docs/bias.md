@@ -7,7 +7,6 @@ title: Bias grounds
 
 ## Contents
 * [Introduction](#introduction)
-* [Making variants](#making-variants)
 * [Traditional Bias Ground](#traditional-bias-ground)
 * [Bias Ground crossed rose style](#bias-ground-crossed-rose-style)
 * [Bias Ground crossed differently](#bias-ground-crossed-differently)
@@ -23,15 +22,6 @@ title: Bias grounds
 * [Stretched](#stretched)
 
 ## Introduction
-![biasground][p-bias-wt]
-The traditional Bias Ground, or Ornamental Ground, is made as in the pair-diagram on the right. On this page we show different grounds based on this diagonal.
-
-Other nice grounds can be obtained by using one unit only.
-<p style="clear: both"></p>
-
-[p-bias-wt]: ../images_wt/gf-0221-wt.png?align=right "traditional bias ground"
-
-## Making variants
 ![p-note-1]
 Traditonally, a bias ground is made as follows: make two stitches diagonally, make a stitch in the middle with these two, make two diagonal, stitch in the middle, etc. Usually, the same stitch is applied for this connecting stitch in the middle. See the green dots on the picture to the right.          
 
