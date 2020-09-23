@@ -50,6 +50,8 @@ The colors in the picture have no meaning.
 
 ## Traditional Bias Ground
 ![traditional][p-0221-tr] 
+<p style="clear: both"></p>
+
 ### examples with one connecting stitch
 * [ground 0228][T-0228-OD]   
 
