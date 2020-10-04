@@ -22,11 +22,10 @@ The photo shows the example on the bottom of this page, but slighty adapted to g
 
 ## Traditional Paris ground
 ![paris ground][pic-par-grnd]
-* [ground 0402][T-0402-LG], [ground 0403][T-0403-KG], [ground 0424][T-0424-KG]      
+* [ground 0403][T-0403-KG], [ground 0424][T-0424-KG]      
 * The last example as a unit, [connected with plaits][T-0424-KF]
 
 [pic-par-grnd]: ../images_wt/G-04.png "paris ground"         
-[T-0402-LG]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&a1=ctc&c1=ctc&d2=ctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0403-KG]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=20&a1=c&c1=c&d2=tctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0424-KG]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=20&a1=cr&c1=cl&d2=ctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0424-KF]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=20&a1=ctctctcr&c1=ctctctcl&d2=ctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
