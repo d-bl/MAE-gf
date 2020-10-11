@@ -10,6 +10,7 @@ title: Paris Grounds
 * [Traditional Paris ground](#traditional-paris-ground)
 * [Paris ground in a diamond](#paris-ground-in-a-diamond)
 * [Big Paris ground](#big-paris-ground)
+* [Another arrangement](#another-arrangement)
 * [Way of making](#way-of-making)
 
 ## Introduction
@@ -46,6 +47,11 @@ This ground is inspired by lace from 's Gravenmoer.
 [p-big-paris]: ../images_wt/big-rose.png?align=left "big paris ground"
 [t-big-paris]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=24&b1=ct&f1=ct&c2=c&e2=c&b3=ct&d3=ctc&f3=ct&tile=-5---5,--C-B-,-B-5-C&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
+## Another arrangement
+[![swiss cheese][p-g44]][t-swiss]
+
+[p-g44]: ../images/G44.png?align=left "swiss cheese"
+[t-swiss]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&e1=tctc&c1=ctcl&a1=ctcr&f2=ctc&d2=ctc&e3=ctct&c3=ctc&a3=ctc&tile=5-5-5-,---5-5,C-B-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
 ## Way of making
 The following example (ground 0404) shows three different matrix-scheme's to obtain the same ground.
