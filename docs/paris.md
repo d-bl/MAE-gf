@@ -49,6 +49,7 @@ This ground is inspired by lace from 's Gravenmoer.
 
 ## Another arrangement
 [![swiss cheese][p-g44]][t-swiss]
+<p style="clear: both"></p>
 
 [p-g44]: ../images/G44.png?align=left "swiss cheese"
 [t-swiss]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&e1=tctc&c1=ctcl&a1=ctcr&f2=ctc&d2=ctc&e3=ctct&c3=ctc&a3=ctc&tile=5-5-5-,---5-5,C-B-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
