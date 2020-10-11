@@ -10,7 +10,7 @@ title: rose grounds
 * [Rose ground](#rose-ground)
 * [Slavic ground](#slavic-ground)
 * [Ants](#ants)
-* [Stretched Paris ground](#stretced-paris-ground)
+* [Stretched Paris ground](#stretched-paris-ground)
 * [Rose ground in a diamond](#rose-ground-in-a-diamond)
 * [Roses with vertical](#roses-with-vertical)
 
@@ -23,13 +23,15 @@ The traditional Rose Ground is made as in the pair-diagram on the right.
 [p-rose-wt]: ../images_wt/tradrose.png?align=right "traditional rose ground"
 
 ### Corners
+An easy way to make a variant on a Rose ground, is by changing the corner stitches, indicated in blue in the picture on the right. See the following examples of ground 0502. Of course, there are more possibilities, e.g. <span class="stch">lctcr</span> and <span class="stch">rctcl</span>. The first two examples, without a cross at the corners, are a diamond net ground.   
+
 ![corners][p-corners]
 
-An easy way to make a variant on a Rose ground, is by changing the corner stitches, indicated in blue in the picture on the right. See the following examples of ground 0502. Of course, there are more possibilities, e.g. <span class="stch">lctcr</span> and <span class="stch">rctcl</span>. The first two examples, without a cross at the corners, are a diamond net ground.               
 * [nothing][0502-O], [twist][0501-O], [cross][0502-K], [tct][0502-N], [ctc][0502-L], [tctct][0502-D], [ctctctc][0502-KF], [tctctct][0502-NF]
 
+
 ### Sides
-Other variations can be made by "doing nothing" on the sides, indicated in green in the picture on the right. If both pins on top and bottom (red in picture) are replaced with only one pin in the middle, we'll get a Paris ground. See [stretched Paris ground](#strechted-paris-ground). Some of these variants can also be made as diagonal nets.
+Other variations can be made by "doing nothing" on the sides, indicated in green in the picture on the right. If both pins on top and bottom (red in picture) are replaced with only one pin in the middle, we'll get a Paris ground. See [stretched Paris ground](#stretched-paris-ground). Some of these variants can also be made as diagonal nets.    
 
 <p style="clear: both"></p>
 
