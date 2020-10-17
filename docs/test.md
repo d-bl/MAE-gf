@@ -33,6 +33,12 @@ this is a&dash;test for &dash;
 
 # test
 
+pdf-image-test 
+![tttt][pdf-test]        
+
+[pdf-test]: ../documents/streched-paris.pdf
+
+
 buttons test
 
 <a href="../images_stitches/paris-lcr.png">
