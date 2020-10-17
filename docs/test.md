@@ -28,7 +28,7 @@ purpose: test only
 
 pdf-image-test      
 ![tttt][pdf-test]        
-<a href="../documents/streched-paris.pdf"><img src="../documents/streched-paris.pdf"></a>    
+<a href="../documents/streched-paris.pdf"><img src="../documents/streched-paris.pdf">a link</a>    
 <img src="../documents/streched-paris.pdf">
 
 [pdf-test]: ../documents/streched-paris.pdf
