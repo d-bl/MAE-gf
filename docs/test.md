@@ -28,7 +28,7 @@ this is a&dash;test for &dash;
 
 [lijntje&dash;lijntje][lijntje]
 
-<a href="https://maetempels.github.io/MAE-gf/docs/bias">bias&dash;bias</a>
+<a href="../docs/bias">bias&dash;bias</a>
 
 
 # test
