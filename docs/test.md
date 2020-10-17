@@ -24,13 +24,6 @@ purpose: test only
   
 </style>
 
-this is a&dash;test for &dash;
-
-[lijntje&dash;lijntje][lijntje]
-
-<a href="../docs/bias">bias&dash;bias</a>
-
-
 # test
 
 pdf-image-test      
