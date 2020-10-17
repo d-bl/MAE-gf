@@ -35,8 +35,8 @@ this is a&dash;test for &dash;
 
 pdf-image-test      
 ![tttt][pdf-test]        
-<href="https://maetempels.github.io/MAE-gf/documents/streched-paris.pdf">even proberen</a>    
-<img src="https://maetempels.github.io/MAE-gf/documents/streched-paris.pdf">
+<a href="../documents/streched-paris.pdf">even proberen</a>    
+<img src="../documents/streched-paris.pdf">
 
 [pdf-test]: ../documents/streched-paris.pdf
 
@@ -48,7 +48,7 @@ buttons test
 </a>  
 
 {% include p-l-c.html
-  src="https://maetempels.github.io/MAE-gf/images/pict-double.png"
+  src="../images/pict-double.png"
   alt="some nice ground"
   lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctct&b1=ct&d1=ct&a2=ct&c2=ct&shiftColsSE=3&shiftRowsSE=1&shiftColsSW=-4&shiftRowsSW=1&tile=88-1,4-58"
   title="ook iets leuks"
