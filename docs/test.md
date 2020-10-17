@@ -35,7 +35,7 @@ this is a&dash;test for &dash;
 
 pdf-image-test      
 ![tttt][pdf-test]        
-<a href="../documents/streched-paris.pdf">even proberen</a>    
+<a href="../documents/streched-paris.pdf"><img src="../documents/streched-paris.pdf"></a>    
 <img src="../documents/streched-paris.pdf">
 
 [pdf-test]: ../documents/streched-paris.pdf
