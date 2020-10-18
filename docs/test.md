@@ -30,7 +30,7 @@ pdf-image-test
 ![tttt][pdf-test]        
 <a href="../documents/streched-paris.pdf"><img src="../documents/streched-paris.pdf">a link</a>    
 <embed type="image/pdf" src="../documents/streched-paris.pdf" width="100px" height="200px">         
-<embed type="text/pdf" src="../documents/streched-paris.pdf" width="100px" height="200px">      
+<embed type="text/pdf" src="../documents/streched-paris.pdf" width="80px" height="60px">      
 nog even dit proberen
 
 [pdf-test]: ../documents/streched-paris.pdf
