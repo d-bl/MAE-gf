@@ -29,7 +29,7 @@ purpose: test only
 pdf-image-test      
 ![tttt][pdf-test]        
 <a href="../documents/streched-paris.pdf"><img src="../documents/streched-paris.pdf">a link</a>    
-<embed type="image/png" src="../documents/streched-paris.pdf" width="100px" heigth="80px">
+<embed type="image/pdf" src="../documents/streched-paris.pdf" width="100px" heigth="80px">
 
 [pdf-test]: ../documents/streched-paris.pdf
 
