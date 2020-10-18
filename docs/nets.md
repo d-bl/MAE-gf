@@ -21,9 +21,9 @@ Please note: the second and third diagrams are equivalent in GroundForge terms.
 It is possible to define a strechted honeycomb for the prototype diagram.
 The pair diagram however will initially show kite shapes, when activating the animation 
 these kites will reshape into squares with a 45 degree angle.
-Only when defining plaits as stitches you will see the [honeycomb] again in the pair diagram.
+Only when defining plaits as stitches you will see the honeycomb again in the [thread diagram].
 
-[honeycomb]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&tile=5-5-,r-r-,-5-5&tileStitch=ctctctctt&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
+[thread diagram]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&tile=5-5-,r-r-,-5-5&tileStitch=ctctctctt&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
 
 It gets interesting, if we would use two (or more) different stitches. These grounds are known as "chaotic ground", "alternating ground", ...    
 Several of these can be found in the book by mrs A. Rühle: _Fillings from Hunnia Lace_.        
