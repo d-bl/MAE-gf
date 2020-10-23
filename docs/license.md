@@ -15,7 +15,7 @@ On the pages of this website you will find many examples of grounds. Some exampl
 If you, or someone you know, has been identified as creator of one or more of the grounds used, without being named as such: please let us know so we can add the reference.   
 You will find our email-adres on page [_About us_][aboutus].   
 
-Groundforge uses scheme's (matrices) as input-parameter. Some of those are discovered by V. Irvine, and collected in the "Tesselace", others, like the spiders, are created by ourselves. Of course, coïncidences happen.
+Groundforge uses schemes (matrices) as input-parameter. Some of those are discovered by V. Irvine, and collected in the "Tesselace", others, like the spiders, are created by ourselves. Of course, coïncidences happen.
 
 Some new grounds use traditional prickings. E.g.: the "ants" are made on the rose-ground pricking.
     
@@ -25,14 +25,16 @@ Some new grounds use traditional prickings. E.g.: the "ants" are made on the ros
 &copy; V. Irvine
 &copy; P. Fouché                
       
-Some examples shows the traditional grounds. New grounds (also) created by others are indicated as such. Grounds found in the Whiting index are free of copyrights. All other grounds are our own finds.   
+Some examples show the traditional grounds. New grounds (also) created by others are indicated as such. Grounds found in the Whiting index are free of copyrights. All other grounds are our own finds.   
 
 All images are created by J. Pol, M. Tempels, or Groundforge, except where otherwise noted.
 Most of the images are created using Knipling &reg; (&copy; Petra Pönisch Verlag).   
 
 ## License
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />The examples and images are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>, except where otherwise noted.       
-In short: you are free to share the examples as long as you give appropiate credit. You may not use the examples and images for commercial purposes. Please contact us if you wish to do so.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="assets/images/cc-by-80x15.png" /></a><br />Unless otherwise specified the examples and images are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+In short: you are free to share the examples as long as you give appropriate credit,
+but not in any way that suggests we endorse you or your use. 
 
 
 ## Literature
