@@ -52,7 +52,7 @@ The specified twitst in some stitch definitions may not be according to the expe
 ## Diagrams
 {% include p-l-c.html
      alt="mt-0306"
-     src="https://maetempels.github.io/MAE-gf/images/gf%20picts.png"
+     src="../images/gf%20picts.png"
      lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=24&patchHeight=24&c1=c&e1=c&b2=c&d2=tctc&f2=c&h2=ctct&a3=cr&g3=cl&h4=tct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=--B-C---,-E-5-O-K,5-----5-,-------5"
      title="ground 0306"
 %}   
