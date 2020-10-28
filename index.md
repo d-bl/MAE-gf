@@ -24,7 +24,7 @@ All links worked when created. Due to work on the Groundforge coding, there may 
 English is not my native language, so please forgive me any mistakes.
 
 {% include p-l-c.html
-  src="../images/pict-double.png"
+  src="./images/pict-double.png"
   alt="some nice ground"
   lnk="https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctct&b1=ct&d1=ct&a2=ct&c2=ct&shiftColsSE=3&shiftRowsSE=1&shiftColsSW=-4&shiftRowsSW=1&tile=88-1,4-58"
   title="bias snowflake"
