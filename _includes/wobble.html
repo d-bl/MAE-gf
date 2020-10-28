@@ -47,7 +47,7 @@
         var patch = "patchWidth=5&patchHeight=10"
         var defaultStitches = "footsideStitch=cttt&tileStitch=ctct&headsideStitch=cttt"
         var matrices = "footside=b,-&tile=88,11&headside=-,c"
-        var url = "https://d-bl.github.io/GroundForge/tiles"
+        var url = "/GroundForge/tiles"
         var shared = `${url}?${matrices}&${defaultStitches}&${patch}&${shifts}&`
         var rose = `b12=b11=${topLeft},c10=b20=${top},c22=c21=${topRight},c12=b22=${right},c11=b21=${left},c14=b24=${bottomLeft},c13=b23=${bottom},c15=b25=${bottomRight},b10=c20=${conn},a11=rrrtcttt,g22=lllctcttt`
         var ltr = `b12=b11=${topLeft},c10=b20=${top},c22=c21=${topRight},c13=b23=${right},c12=b22=${center},c11=b21=${left},c16=b26=${bottomLeft},c14=b24=${bottom},c15=b25=${bottomRight},b10=c20=${conn}`
