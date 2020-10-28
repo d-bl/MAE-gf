@@ -50,4 +50,4 @@ Some of the publications listed here are mentioned on this website. Others are f
 ***
 [&uArr;]()
 
-[aboutus]: https://maetempels.github.io/MAE-gf/docs/about-us#write-us
+[aboutus]: /MAE-gf/docs/about-us#write-us
