@@ -17,15 +17,15 @@ sadly these patterns are also more error prone. So do keep the generated thread 
 
 See also [Whiting] A2, B2, B6, C6, C9, [Droste] ctct and [rose ground in a diamond][squared rose] grounds.
 
-[Whiting]: https://d-bl.github.io/gw-lace-to-gf
-[Droste]: https://d-bl.github.io/GroundForge/help/Droste-effect#stitches
+[Whiting]: /gw-lace-to-gf
+[Droste]: /GroundForge/help/Droste-effect#stitches
 [squared rose]: ../docs/roses#rose-ground-in-a-diamond
 
 For the actual lace the pins can be placed like a Flanders ground, or as a Torchon Rose ground, as shown in the following picture.
 
 {% include picts-centr.html
      alt="flanders or rose"
-     src="https://maetempels.github.io/MAE-gf/images_wt/flanders.png"
+     src="/MAE-gf/images_wt/flanders.png"
      title="rose ground"
 %}   
 

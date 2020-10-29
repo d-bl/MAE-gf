@@ -45,9 +45,9 @@ Some of the publications listed here are mentioned on this website. Others are f
 * H. Thumann and C. Aengeneyndt: Grund für Grund - Moderne Torchonspitze              
 * H. Thumann and C. Aengeneyndt: Grund für Grund - Nicht ohne Grund              
 * U. Ulrich: Gründe mit System        
-* G. Whiting: A lace guide for makers and collectors ([an index](https://d-bl.github.io/gw-lace-to-gf))          
+* G. Whiting: A lace guide for makers and collectors ([an index](/gw-lace-to-gf))          
         
 ***
 [&uArr;]()
 
-[aboutus]: https://maetempels.github.io/MAE-gf/docs/about-us#write-us
+[aboutus]: /MAE-gf/docs/about-us#write-us
