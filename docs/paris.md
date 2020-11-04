@@ -45,15 +45,15 @@ This ground is inspired by lace from 's Gravenmoer.
 <p style="clear: both"></p>
 
 ### Alternative arrangements
-[![G35][p-g35]][t-g35-1] [![G36][p-g36]][t-g36-1]
+[![G54][p-g54]][t-g54-1] [![G64][p-g64]][t-g64-1]
 
 [p-big-paris]: /MAE-gf/images_wt/big-rose.png?align=left "big paris ground"
-[p-g35]: /MAE-gf/images_wt/g35.png "alternative placing big paris 1"
-[p-g36]: /MAE-gf/images_wt/g36.png "alternative placing big paris 2"
+[p-g54]: /MAE-gf/images_wt/g54.png "alternative placing big paris 1"
+[p-g64]: /MAE-gf/images_wt/g64.png "alternative placing big paris 2"
 
 [t-big-paris]: /GroundForge/tiles?patchWidth=16&patchHeight=24&b1=ct&f1=ct&c2=c&e2=c&b3=ct&d3=ctc&f3=ct&tile=-5---5,--C-B-,-B-5-C&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
-[t-g35-1]: /GroundForge/tiles?patchWidth=15&patchHeight=18&b1=ctc&e2=ctct&c2=ctct&a2=ctct&d3=ctct&b3=ctct&e4=ctcr&c4=ctcl&a4=ctct&tile=-5---,b-c-b,-5-5-,b-5-c&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=4
-[t-g36-1]: /GroundForge/tiles?patchWidth=15&patchHeight=18&e1=ct&c1=ctctt&a1=ctctr&d2=ctctl&b2=ctctr&e3=ct&a3=ct&d4=ctctl&b4=ctctr&e5=ct&a5=ct&tile=c-b-5,-5-5-,5---5,-c-b-,5---5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-5&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=5
+[t-g54-1]: /GroundForge/tiles?patchWidth=15&patchHeight=18&b1=ctc&e2=ctct&c2=ctct&a2=ctct&d3=ctct&b3=ctct&e4=ctcr&c4=ctcl&a4=ctct&tile=-5---,b-c-b,-5-5-,b-5-c&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=4
+[t-g64-1]: /GroundForge/tiles?patchWidth=15&patchHeight=18&e1=ct&c1=ctctt&a1=ctctr&d2=ctctl&b2=ctctr&e3=ct&a3=ct&d4=ctctl&b4=ctctr&e5=ct&a5=ct&tile=c-b-5,-5-5-,5---5,-c-b-,5---5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-5&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=5
 
 ## Another arrangement
 [![swiss cheese][p-g44]][t-swiss]
