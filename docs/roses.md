@@ -12,7 +12,7 @@ title: rose grounds
 * [Ants](#ants)
 * [Stretched Paris ground](#stretched-paris-ground)
 * [Rose ground in a diamond](#rose-ground-in-a-diamond)
-* [Roses with vertical](#roses-with-vertical)
+* [Alternative placings](#alternative-placings)
 
 
 ## Introduction
@@ -98,12 +98,16 @@ Ground 0504 is used as illustration of different ways to join the unit in the di
 [T-0504-c]: /GroundForge/tiles?patchWidth=12&patchHeight=12&f1=tct&e1=ctct&c1=ctct&b1=tct&a1=tctctc&f2=ctct&e2=ct&d2=ctctct&c2=ct&b2=ctct&e3=crc&c3=clc&a3=ctct&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
 
-## Roses with vertical
-[![roses with vertical][p-3115]][t-3115]
-<p style="clear: both"></p>
+## Alternative placings
+[![roses with vertical][p-31]][t-3115]  [![roses with zigzag][p-61]][t-6101]     
+The ground on the right can also be obtain as a [Drote on Paris ground][dr-6101]
 
-[p-3115]: ../images_wt/gf-wt-g31.png?align=left "ground 3115"
+[p-31]: /MAE-gf/images_wt/g31.png "ground 3115"
+[p-61]: /MAE-gf/images_wt/g61.png "ground 6101"
 [t-3115]: /GroundForge/tiles?patchWidth=12&patchHeight=16&b1=tctct&a2=c&c2=c&d2=tctctc&a3=ctc&c3=ctc&a4=c&c4=c&d4=ctctct&tile=-5--,B-C3,7-4-,8-15&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[t-6101]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&e1=ctct&c1=ct&b1=ctct&a1=ct&f2=ct&c2=ct&a2=ct&e3=ctct&c3=ct&b3=ctct&a3=ct&d4=ct&tile=O3E-H-,4-7--5,158-L-,---5-&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=6&shiftRowsSE=2
+[dr-6101]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=20&c1=ct&a1=ct&d2=ctct&droste2=ct,d20=d23=ctct,a10=c10=ctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+
 
 
 ***
