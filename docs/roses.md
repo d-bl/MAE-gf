@@ -100,7 +100,7 @@ Ground 0504 is used as illustration of different ways to join the unit in the di
 
 ## Alternative placings
 [![roses with vertical][p-31]][t-3115]  [![roses with zigzag][p-61]][t-6101]     
-The ground on the right can also be obtain as a [Drote on Paris ground][dr-6101]
+The ground on the right can also be obtain as a [Droste on Paris ground][dr-6101]
 
 [p-31]: /MAE-gf/images_wt/g31.png "ground 3115"
 [p-61]: /MAE-gf/images_wt/g61.png "ground 6101"
