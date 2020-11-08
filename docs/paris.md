@@ -56,14 +56,17 @@ This ground is inspired by lace from 's Gravenmoer.
 [t-g64-1]: /GroundForge/tiles?patchWidth=15&patchHeight=18&e1=ct&c1=ctctt&a1=ctctr&d2=ctctl&b2=ctctr&e3=ct&a3=ct&d4=ctctl&b4=ctctr&e5=ct&a5=ct&tile=c-b-5,-5-5-,5---5,-c-b-,5---5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-5&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=5
 
 ## Another arrangement
+For the stretched paris ground, see on page [_rose_][p-rose-paris].             
+
 [![swiss cheese][p-g44]][t-swiss]
 <p style="clear: both"></p>
 
 [p-g44]: ../images/G44.png?align=left "swiss cheese"
 [t-swiss]: /GroundForge/tiles?patchWidth=16&patchHeight=16&e1=tctc&c1=ctcl&a1=ctcr&f2=ctc&d2=ctc&e3=ctct&c3=ctc&a3=ctc&tile=5-5-5-,---5-5,C-B-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
+[p-rose-paris]: /MAE-gf/docs/roses#stretched-paris-ground
 
 ## Way of making
-The following example (ground 0404) shows three different matrix-scheme's to obtain the same ground.
+The following example (ground 0404) shows three different matrix-scheme's to obtain the same ground.           
 * [as paris ground][T-0404-p], [as rose ground][T-0404-r], [as torchon ground][T-0404-t]
 
 [T-0404-r]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=c&c1=ctct&d1=c&b2=l&d2=r&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
