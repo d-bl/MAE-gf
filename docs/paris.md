@@ -56,7 +56,7 @@ This ground is inspired by lace from 's Gravenmoer.
 [t-g64-1]: /GroundForge/tiles?patchWidth=15&patchHeight=18&e1=ct&c1=ctctt&a1=ctctr&d2=ctctl&b2=ctctr&e3=ct&a3=ct&d4=ctctl&b4=ctctr&e5=ct&a5=ct&tile=c-b-5,-5-5-,5---5,-c-b-,5---5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-5&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=5
 
 ## Another arrangement
-For the stretched paris ground, see on page [_rose_][p-rose-paris].             
+For the stretched paris ground, see on page [_rose grounds_][p-rose-paris].             
 
 [![swiss cheese][p-g44]][t-swiss]
 <p style="clear: both"></p>
