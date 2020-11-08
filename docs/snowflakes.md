@@ -13,6 +13,7 @@ title: snowflakes
 * [Snowflake in a diamond](#snowflake-in-a-diamond)
 * [Snowflake in a diamond, crossed](#snowflake-in-a-diamond-crossed)
 * [Snowflakes diagonal](#snowflakes-diagonal)
+* [Another arrangement](#another-arrangement)
 
 ## Introduction
 On this page several snowflake-grounds are collected.   
@@ -67,8 +68,14 @@ The thread diagram for ground 0356 can also be obtained as a rose ground in a di
 ## Snowflakes diagonal
 [![diagonal snowflake][p-snow-diag]][t-snow-diag]
 
-[p-snow-diag]: ../images_wt/gf-sn-dia-wt.png "diagonal snowflakes"" 
+[p-snow-diag]: ../images_wt/gf-sn-dia-wt.png "diagonal snowflakes" 
 [t-snow-diag]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&c1=ctc&b1=ctc&a1=tctct&c2=ctc&b2=ctc&a2=ctc&tile=1011,114-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+
+## Another arrangement
+[![offset snowflake][p-G63]][t-63-43]
+
+[p-G63]: ../images_wt/G63.png "offset snowflakes" 
+[t-63-43]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=20&c1=ct&a1=ctct&d2=cl&b2=cr&c3=ctct&d4=ct&b4=ct&c5=ct&a5=ct&tile=5-5-,-5-5,--5-,-b-c,5-5-&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=5
 
    
 ***
