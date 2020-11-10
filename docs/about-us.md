@@ -10,15 +10,15 @@ title: about us
 * [Write us](#write-us)
 
 ## Marian Tempels
-{% include picts-centr.html alt="tulip Mondrian style" src="../photos/IMG_0997c.jpg" title="Tulip in Mondriaan style, 2017" %}
+{% include picts-centr.html alt="tulip Mondrian style" src="/photos/IMG_0997c.jpg" title="Tulip in Mondriaan style, 2017" %}
 
 Living in the Netherlands.        
 
-I do not remember when I learned knitting etcetera, must have been at age 6 or something. I do remember knitting a doll at primary school, when I was about age 10. Also, I remember being very dissapointed when I was not chosen for attending a weaving-class. At the end of secondary school I had crocheted a garderobe for a little doll, sewed "aliens" (funny shaped puppets) and made lots of embroidery works. Most of those works are lost somewhere, allas. I did learn weaving, though.
+I do not remember when I learned to knit etcetera, must have been at age 6 or something. I do remember knitting a doll at primary school, when I was about age 10. Also, I remember being very disappointed when I was not chosen for attending a weaving-class. At the end of secondary school I had crocheted a wardrobe for a little doll, sewed "aliens" (funny shaped puppets) and made lots of embroidery works. Most of those works are lost somewhere, alas. I did learn to weave, though.
 
 I started making lace about 1980. Worked my way through "Slag voor slag" by Zus Boelaars. Some years later I took lessons, still working traditional.   
-My lace-making got a tremendous boost when I joined lacegroup De Waaier. I started taking classes in different styles including modern lace.           
-Inspired by "Hollandsche kant" I started to experiment with the rose-ground, using onorthodox stitches like "cross only" or "do nothing". Also, I joined the units of the rose ground with plaits. These works were published in the "Kantbrief", the magazine from the dutch lace-society LOKK, and in "bulletin OIDFA".   
+My lace-making got a tremendous boost when I joined the De Waaier lace group. I started taking classes in different styles including modern lace.           
+Inspired by "Hollandsche kant" I started to experiment with the rose-ground, using unorthodox stitches like "cross only" or "do nothing". Also, I joined the units of the rose ground with plaits. These works were published in the "Kantbrief", the magazine from the dutch lace-society LOKK, and in "bulletin OIDFA".   
 
 I studied Mathematics at Technical University Eindhoven and work as database-designer.    
 
