@@ -7,16 +7,16 @@
 * [Disclaimer](#disclaimer)
 
 ## Introduction
-On this website you will find pages with additional patterns for use in Groundforge, a webapplication made by [Jo Pol][gf-jo]. Given are the parameter-section and stitches, although not always traditional.    
+On this website you will find pages with additional patterns for use in Groundforge, a web application made by [Jo Pol][gf-jo]. Given are the parameter-section and stitches, although not always traditional.    
 
 ## How to use these pages
-All examples are links to the Groundforge main page. Just follow the link. If a picture with a light-blue coloured border is shown: click on the picture. Please feel free to play with the stitches. E.g. try what happens if you change the default <span class="stch">ctc</span> of the spiders or fish in <span class="stch">ct</span>.     
+All examples are links to the Groundforge main page. Just follow the link. If a picture has a light-blue coloured border, click on the picture. Please feel free to play with the stitches. E.g. try what happens if you change the default <span class="stch">ctc</span> of the spiders or fish in <span class="stch">ct</span>.     
 
 The examples use pair-diagrams in the styled version (_matrix-scheme_) that Groundforge understands.
 Most of the patterns also have a scheme in the TesseLace index. Some, as the spiders and the larger fishes, don't.
 
 ## Contact
-You will find our email-adres on the [_About us_][aboutus] page.
+You will find our email-adress on the [_About us_][aboutus] page.
 
 ## Disclaimer
 All links worked when created. Due to work on the Groundforge coding, there may be hiccups. 
