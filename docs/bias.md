@@ -23,7 +23,7 @@ title: Bias grounds
 
 ## Introduction
 ![p-note-1]
-Traditonally, a bias ground is made as follows: make two stitches diagonally, make a stitch in the middle with these two, make two diagonal, stitch in the middle, etc. Usually, the same stitch is applied for this connecting stitch in the middle. See the green dots on the picture to the right.          
+Traditionally, a bias ground is made as follows: make two stitches diagonally, make a stitch in the middle with these two, make two diagonal, stitch in the middle, etc. Usually, the same stitch is applied for this connecting stitch in the middle. See the green dots on the picture to the right.          
 
 ![p-note-2]
 We can make many variants, by applying two or more different stitches for the middle stitch, see the dots in the picture.               
