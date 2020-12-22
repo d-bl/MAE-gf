@@ -24,7 +24,7 @@ Other examples only have plain links for multi-step patterns, you need to click 
 
 {% include stitches.html %}
 
-[pg-droste]: /GroundForge/help/Droste-effect
+[pg-droste]: /GroundForge-help/Droste-effect
 
 ## Fish     
 _Double fish B2,S2,W3_ (see page [_fish_][fish-page])
