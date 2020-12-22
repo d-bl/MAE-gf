@@ -28,7 +28,7 @@ Only when defining plaits as stitches you will see the honeycomb again in the [t
 It gets interesting, if we would use two (or more) different stitches. These grounds are known as "chaotic ground", "alternating ground", ...    
 Several of these can be found in the book by mrs A. Rühle: _Fillings from Hunnia Lace_.        
 
-[p-net1]: ../images/net1.png "horizontal net"
+[p-net1]: /MAE-gf/images/nets/net1.png "horizontal net"
 [p-net2]: ../images/net2.png "diagonal net"
 [p-net2x]: ../images/net2x.png "diagonal net"
 [p-net3]: ../images/net3.png "honeycomb 1"
