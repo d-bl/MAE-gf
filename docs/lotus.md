@@ -22,7 +22,7 @@ Please note: if a lotus has an odd number of horizontal, like H3, the weavers ch
 
 <p style="clear: both"></p>
 
-[p-lotus]: ../images_wt/gf%20lotus%20wt.png?align=right "lotus"
+[p-lotus]: /MAE-gf/images/lotus/w-lotus.png?align=right "lotus"
 [fish-page]: ../docs/fish
 
 ## Lotus notation
