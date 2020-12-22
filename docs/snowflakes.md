@@ -52,11 +52,11 @@ A way to make variants is by changing the stitches at the corners. See page [_ro
 [T-mt-0306]: /GroundForge/tiles?patchWidth=24&patchHeight=24&c1=c&e1=c&b2=c&d2=tctc&f2=c&h2=ctct&a3=cr&g3=cl&h4=tct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=--B-C---,-E-5-O-K,5-----5-,-------5
 
 ## Snowflake in a diamond
-[![snowflake in diamond][p-snow-diamond]][t-snow-diamond]
+[![snowflake in diamond][p-snow-diamond]][T-0306-sndia]
 <p style="clear: both"></p>
 
-[p-snow-diamond]: /MAE-gf/images/snow/g-sn-uni-sq.png?align=left "ground 0306"
-[t-snow-diamond]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ct&d1=ctctt&b2=ctr&c2=ctctt&d2=ctct&e2=ctctt&f2=ctl&a3=ctctt&b3=ctctt&c3=ct&e3=ct&f3=ctctt&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5--5--,-C632B,566-22
+[p-snow-diamond]: /MAE-gf/images/snow/g-sn-uni-sq.png?align=left "snowflake in a diamond"
+[T-0306-sndia]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ct&d1=ctctt&b2=ctr&c2=ctctt&d2=ctct&e2=ctctt&f2=ctl&a3=ctctt&b3=ctctt&c3=ct&e3=ct&f3=ctctt&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5--5--,-C632B,566-22
 
 ## Snowflake in a diamond, crossed
 ![snowflake diamond crossed][p-snow-diax]
