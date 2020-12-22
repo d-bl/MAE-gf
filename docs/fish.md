@@ -19,7 +19,7 @@ Fish can also be made using the <span class="elem">Droste function</span> of Gro
 
 ![fish pair dia][p-fpd]
 
-[p-fpd]: ../images_wt/gf%20vis%20wt.png?aling=center "all fish"
+[p-fpd]: ../images_wt/gf%20vis%20wt.png?align=center "all fish"
 <p style="clear: both"></p>
 
 
