@@ -11,7 +11,7 @@ title: about us
 
 ## Marian Tempels
 
-{% include picts-centr.html alt="tulip Mondrian style" src="/MAE-gf/photos/IMG_0997c.jpg" title="Tulip in Mondriaan style, 2017" %}
+{% include picts-centr.html alt="tulip Mondrian style" src="/MAE-gf/images/about/IMG_0997c.jpg" title="Tulip in Mondriaan style, 2017" %}
 
 Living in the Netherlands.        
 
