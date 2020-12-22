@@ -28,8 +28,13 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 [t-big-snow]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=ctcll&f1=ctcrr&g1=ctc&b2=ctc&e2=ctctctc&h2=ctc&a3=ctc&c3=ctcrr&d3=ctc&f3=ctc&g3=ctcll&shiftColsSE=4&shiftRowsSE=3&shiftColsSW=-4&shiftRowsSW=3&tile=5-25-56-,-5--5--5,5-C6-2B-
 
 ## Little Snowflake
+![Snowflake 60][p-snow-60]
+Usually, the little snowflake is drawn as the left picture, on a 60 degree grid. Most of the variants shown on this page benefit of extra pins on the sides. As in the picture on the right.    
+<p style="clear: both"></p>
+
 [![little snowflake][p-little-snow]][t-little-snow]
 
+[p-snow-60]: /MAE-gf/images/snow/little-snow.png?align=right "snowflake drawing"
 [p-little-snow]: ../images_wt/gf-sn-oo-wt.png "little snowflake"
 [t-little-snow]: /GroundForge/tiles?patchWidth=12&patchHeight=16&a1=ct&c1=ct&b2=ct&a3=ct&c3=ct&b4=ctct&d4=ctct&shiftColsSE=2&shiftRowsSE=4&shiftColsSW=-2&shiftRowsSW=4&tile=5-5-,-5--,B-C-,-5-5
 
