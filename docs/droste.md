@@ -46,8 +46,8 @@ Please note the resemblance of the 3-step fish with the [narrow eyed spider][ne-
 This ground uses the thread diagram of alternating <span class="stch">ct/ctct</span> as pair diagram.
 
 ### Pricking
-![][p-wobble-2]
-![][p-wobble-0]
+![w2][p-wobble-2]
+![w0][p-wobble-0]
 The left pricking is generated with one of the "ground from template" 
 [tools](/inkscape-bobbinlace/Ground-from-Template)
 and a plain text file (<a href="../data/wobble.txt" download>download</a>).
@@ -59,8 +59,8 @@ These units can be replaced with units of a bias ground.
 The green numbers and arrows indicate the working order inherited from the first pair diagram.
 <p style="clear: both"></p>
 
-[p-wobble-0]: ../images/wobble.png?align=right "wobble, distorted" 
-[p-wobble-2]: ../images/wobble2.png?align=left "wobble"
+[p-wobble-0]: /MAE-gf/images/droste/wobble.png?align=right "wobble, distorted" 
+[p-wobble-2]: /MAE-gf/images/droste/wobble2.png?align=left "wobble"
 
 ### Generate diagrams (color coded / threads)
 
@@ -72,7 +72,7 @@ in the advanced section for the thread diagram.
 {% include wobble.html %}
 
 ## Paris
-![][p-fancy-z]
+![fz][p-fancy-z]
 The [Paris] ground uses the thread diagram of the half stich as pair diagram.
 Some variations on the Paris ground are in the Whiting index (defined without this Droste technique) A5, A6, B5, A7-H7, G11. 
 
@@ -85,7 +85,7 @@ The picture on the right shows a general scheme. The stitches of the Paris groun
 [![rcl][i-paris-rcl]][Z-paris-rcl] 
 <p style="clear: both"></p>
 
-![][p-paris-droste]
+![pd][p-paris-droste]
 The picture on the right shows another general scheme also based on the Paris ground. The stitches of the Paris ground are replaced with units. In the picture, one unit is indicated with a blue ellipse. The buttons below replace this unit with the unit shown on the button,  and the unit to the right with its mirrored version.           
               
 [![ctc][p-paris-ctc]][T-paris-ctc] 
@@ -95,14 +95,14 @@ The picture on the right shows another general scheme also based on the Paris gr
 
 Mrs. V. Irvine has worked an example using the left pricking. See [_Favourite Flaveolate_][p-VI-001] for a photo, and [here][t-VI-001] for how she made it (one step definition). Pins where used to get the triangle shape at the "joints" of the hexagons.      
 
-[p-paris-droste]: ../images_wt/paris_droste_0.png?align=right "variation on fancy Zeccatello"
-[p-fancy-z]: ../images_wt/paris-droste-f12.png?align=right "fancy Zeccatello"
-[p-paris-lcr]: ../images_stitches/paris-lcr.png
-[p-paris-rcl]: ../images_stitches/paris-rcl.png
-[p-paris-ctc]: ../images_stitches/paris-ctc.png
-[i-paris-lcr]: ../images_stitches/i-paris-lcr.png
-[i-paris-rcl]: ../images_stitches/i-paris-rcl.png
-[i-paris-ctc]: ../images_stitches/i-paris-ctc.png
+[p-paris-droste]: /MAE-gf/images/droste/paris_droste_0.png?align=right "variation on fancy Zeccatello"
+[p-fancy-z]: /MAE-gf/images/droste/paris-droste-f12.png?align=right "fancy Zeccatello"
+[p-paris-lcr]: /MAE-gf/images/droste/paris-lcr.png
+[p-paris-rcl]: /MAE-gf/images/droste/paris-rcl.png
+[p-paris-ctc]: /MAE-gf/images/droste/paris-ctc.png
+[i-paris-lcr]: /MAE-gf/images/droste/i-paris-lcr.png
+[i-paris-rcl]: /MAE-gf/images/droste/i-paris-rcl.png
+[i-paris-ctc]: /MAE-gf/images/droste/i-paris-ctc.png
 [p-VI-001]: https://www.flickr.com/photos/veronika_irvine/23167573524/in/album-72157649379176771/
 
 [Paris]: /GroundForge/tiles?tile=-5&tileStitch=ct&droste2=ctct&patchWidth=5&patchHeight=6&shiftColsSW=-2&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=1
