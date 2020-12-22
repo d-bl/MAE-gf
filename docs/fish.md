@@ -17,11 +17,11 @@ The grounds consists of a number of rows with two or more cloth stitches followe
 If the tail is made with pairs not from the same fish, the ground is called [_Lotus_][lotus-page].    
 Fish can also be made using the <span class="elem">Droste function</span> of GroundForge. See page [_Droste_][droste-page].
 
-{% include picts-centr.html
-     alt="fish pair dia"
-     src="../images_wt/gf%20vis%20wt.png"
-     title="all fish"
-%}     
+![fish pair dia][p-fpd]
+
+[p-fpd]: ../images_wt/gf%20vis%20wt.png?aling=center "all fish"
+<p style="clear: both"></p>
+
 
 Broader fish can be made, e.g. with four cloth stitches.       
 In some Milanese grounds, the heads and tails are made as a cloth stitch with pairs. Groundforge does not support this. Making the head and tail as a half spider is supported.    
