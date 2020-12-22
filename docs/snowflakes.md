@@ -29,7 +29,7 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 
 ## Little Snowflake
 ![Snowflake 60][p-snow-60]
-Usually, the little snowflake is drawn as the left picture, on a 60 degree grid. Most of the variants shown on this page benefit of extra pins on the sides. As in the picture on the right.    
+Usually, the little snowflake is drawn as the left picture, on a 60 degree grid. Most of the variants shown on this page benefit of extra pins on the sides. As in the picture on the right. The blue circles indicate corresponding pins.       
 <p style="clear: both"></p>
 
 [![little snowflake][p-little-snow]][t-little-snow]
