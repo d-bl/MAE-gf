@@ -25,7 +25,7 @@ For the actual lace the pins can be placed like a Flanders ground, or as a Torch
 
 {% include picts-centr.html
      alt="flanders or rose"
-     src="/MAE-gf/images-flanders/flanders.png"
+     src="/MAE-gf/images_flanders/flanders.png"
      title="rose ground"
 %}   
 
@@ -92,5 +92,5 @@ Should you notice a photograph that doesn't match the generated thread diagram, 
 ***
 [&uArr;]()
 
-[pic-flan-rose]: ../images_wt/flanders.png
+
 
