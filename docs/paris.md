@@ -19,14 +19,14 @@ The examples on this page came to life as variations on a rose-ground with "do n
 The photo shows the example on the bottom of this page, but slighty adapted to get the colours right.
 <p style="clear: both"></p>
 
-[p-0434]: ../photos/0434.png?align=right "ground 0434"
+[p-0434]: ../images/paris/f-0434.png?align=right "ground 0434"
 
 ## Traditional Paris ground
 ![paris ground][pic-par-grnd]
 * [ground 0403][T-0403-KG], [ground 0424][T-0424-KG]      
 * The last example as a unit, [connected with plaits][T-0424-KF]
 
-[pic-par-grnd]: ../images_wt/G-04.png "paris ground"         
+[pic-par-grnd]: ../images/paris/G04.png "paris ground"         
 [T-0403-KG]: /GroundForge/tiles?patchWidth=15&patchHeight=20&a1=c&c1=c&d2=tctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0424-KG]: /GroundForge/tiles?patchWidth=15&patchHeight=20&a1=cr&c1=cl&d2=ctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0424-KF]: /GroundForge/tiles?patchWidth=15&patchHeight=20&a1=ctctctcr&c1=ctctctcl&d2=ctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -36,7 +36,7 @@ The photo shows the example on the bottom of this page, but slighty adapted to g
 This ground is also known as _dropped stitch ground"_.    
 <p style="clear: both"></p>
 
-[p-paris-in-sqr]: ../images_wt/gf-rose-in-sqr.png?align=left "dropped stitch ground"
+[p-paris-in-sqr]: ../images/paris/g-paris-in-sqr.png?align=left "dropped stitch ground"
 [t-paris-in-sqr]: /GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctct&c1=ctct&e1=ctc&g1=ctc&b2=ctct&d2=ctc&f2=tctc&h2=ctc&a3=ctc&c3=ctc&e3=tctcr&g3=tctcl&b4=ctc&d4=tctct&h4=tctct&tile=C-B-5-5-,-5-5-5-5,5-5-5-5-,-5-5---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Big Paris ground
@@ -47,9 +47,9 @@ This ground is inspired by lace from 's Gravenmoer.
 ### Alternative arrangements
 [![G54][p-g54]][t-g54-1] [![G64][p-g64]][t-g64-1]
 
-[p-big-paris]: /MAE-gf/images_wt/big-rose.png?align=left "big paris ground"
-[p-g54]: /MAE-gf/images_wt/g54.png "alternative placing big paris 1"
-[p-g64]: /MAE-gf/images_wt/g64.png "alternative placing big paris 2"
+[p-big-paris]: ../images/paris/g-big-paris.png?align=left "big paris ground"
+[p-g54]: ../images/paris/G54.png "alternative placing big paris 1"
+[p-g64]: ../images/paris/G64.png "alternative placing big paris 2"
 
 [t-big-paris]: /GroundForge/tiles?patchWidth=16&patchHeight=24&b1=ct&f1=ct&c2=c&e2=c&b3=ct&d3=ctc&f3=ct&tile=-5---5,--C-B-,-B-5-C&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 [t-g54-1]: /GroundForge/tiles?patchWidth=15&patchHeight=18&b1=ctc&e2=ctct&c2=ctct&a2=ctct&d3=ctct&b3=ctct&e4=ctcr&c4=ctcl&a4=ctct&tile=-5---,b-c-b,-5-5-,b-5-c&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=4
@@ -61,7 +61,7 @@ For the stretched paris ground, see on page [_rose grounds_][p-rose-paris].
 [![swiss cheese][p-g44]][t-swiss]
 <p style="clear: both"></p>
 
-[p-g44]: ../images/G44.png?align=left "swiss cheese"
+[p-g44]: ../images/paris/G44.png?align=left "swiss cheese"
 [t-swiss]: /GroundForge/tiles?patchWidth=16&patchHeight=16&e1=tctc&c1=ctcl&a1=ctcr&f2=ctc&d2=ctc&e3=ctct&c3=ctc&a3=ctc&tile=5-5-5-,---5-5,C-B-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 [p-rose-paris]: /MAE-gf/docs/roses#stretched-paris-ground
 
