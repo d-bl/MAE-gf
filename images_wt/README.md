@@ -1,1 +1,1 @@
-In this folder pair diagrams.
+This folder is obsolete, an can be deleted.
