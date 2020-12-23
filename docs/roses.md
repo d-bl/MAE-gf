@@ -20,7 +20,7 @@ title: rose grounds
 The traditional Rose Ground is made as in the pair-diagram on the right.     
 <p style="clear: both"></p>
 
-[p-rose-wt]: ../images_wt/tradrose.png?align=right "traditional rose ground"
+[p-rose-wt]: ../images/roses/w-tradrose.png?align=right "traditional rose ground"
 
 ### Corners
 An easy way to make a variant on a Rose ground, is by changing the corner stitches, indicated in blue in the picture on the right. See the following examples of ground 0502. Of course, there are more possibilities, e.g. <span class="stch">lctcr</span> and <span class="stch">rctcl</span>. The first two examples, without a cross at the corners, are a diamond net ground.   
@@ -44,7 +44,7 @@ Other variations can be made by "doing nothing" on the sides, indicated in green
 [0502-KF]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ctctctc&c1=ctct&b1=ctctctc&a1=tctc&d2=crc&b2=clc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [0502-NF]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=tctctct&c1=ctct&b1=tctctct&a1=tctc&d2=crc&b2=clc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[p-corners]: ../images/corner.png?align=right "corners and sides"
+[p-corners]: ../images/roses/g-corner.png?align=right "corners and sides"
 
 
 ## Rose ground
@@ -65,7 +65,7 @@ The traditional Slavic Ground is made as in the pair-diagram on the right. It us
 
 [0671ng]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ct&c1=ctct&b1=ct&a1=ctct&d2=ct&b2=ct&tile=5831,-4-7&tileStitch=ctct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[p-slav-wt]: ../images_wt/tradslav.png?align=right "traditional slavic ground"
+[p-slav-wt]: ../images/roses/w-tradslav.png?align=right "traditional slavic ground"
 
 ## Ants
 A variant on the Slavic Ground.
@@ -77,7 +77,7 @@ A variant on the Slavic Ground.
 ## Stretched Paris ground
 [![stretched paris ground][p-strpg]][t-0427]
 
-[p-strpg]: ../images/halfling.png "stretched Paris ground"
+[p-strpg]: ../images/roses/g-halfling.png "stretched Paris ground"
 [t-0427]: /GroundForge/tiles?patchWidth=12&patchHeight=16&c1=ct&a1=ct&d2=ctctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ## Rose ground in a diamond
@@ -90,9 +90,9 @@ Ground 0504 is used as illustration of different ways to join the unit in the di
 * [ground 0112][T-0112], [ground 0116][T-0116]
 * [ground 0504 a][T-0504-a], [ground 0504 b][T-0504-b], [ground 0504 c][T-0504-c]
 
-[pic-tor-flem]: ../images_wt/gf-tor-vl.png "torchon - flemish"
-[ph-0112-t]: ../photos/ph-0112-t.jpg "ground 0112"
-[ph-0112-f]: ../photos/ph-0112-f.jpg "ground 0112"
+[pic-tor-flem]: ../images/roses/g-tor-fl.png "torchon - flemish"
+[ph-0112-t]: ../images/roses/ph-0112-t.jpg "ground 0112"
+[ph-0112-f]: ../images/roses/ph-0112-f.jpg "ground 0112"
 
 [T-0112]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctt&c1=ctctt&e1=ctctt&f1=ctt&b2=ctctt&c2=c&d2=ctct&e2=c&f2=ctctt&a3=ctctt&c3=ctcr&e3=ctcl&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 [T-0116]: /GroundForge/tiles?patchWidth=12&patchHeight=12&f1=c&e1=ctcr&c1=ctcl&b1=c&a1=ctctc&f2=ctcr&e2=c&d2=ctctc&c2=c&b2=ctcl&e3=ctc&c3=ctc&a3=ctct&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
@@ -105,8 +105,8 @@ Ground 0504 is used as illustration of different ways to join the unit in the di
 [![roses with vertical][p-31]][t-3115]  [![roses with zigzag][p-61]][t-6101]     
 The ground on the right can also be obtain as a [Droste on Paris ground][dr-6101]
 
-[p-31]: /MAE-gf/images_wt/g31.png "ground 3115"
-[p-61]: /MAE-gf/images_wt/g61.png "ground 6101"
+[p-31]: ../images/roses/g31.png "ground 3115"
+[p-61]: ../images/roses/g61.png "ground 6101"
 [t-3115]: /GroundForge/tiles?patchWidth=12&patchHeight=16&b1=tctct&a2=c&c2=c&d2=tctctc&a3=ctc&c3=ctc&a4=c&c4=c&d4=ctctct&tile=-5--,B-C3,7-4-,8-15&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [t-6101]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=15&e1=ctct&c1=ct&b1=ctct&a1=ct&f2=ct&c2=ct&a2=ct&e3=ctct&c3=ct&b3=ctct&a3=ct&d4=ct&tile=O3E-H-,4-7--5,158-L-,---5-&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=6&shiftRowsSE=2
 [dr-6101]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=20&c1=ct&a1=ct&d2=ctct&droste2=ct,d20=d23=ctct,a10=c10=ctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
