@@ -32,8 +32,8 @@ The traditional units separated with plaits. Ground 0116 uses the rose-ground un
 Ground 0342 is meant to be made with pins at the sides of the snowflake-unit, as shown in the picture. The ground came into being as a half stitch spider, but forgetting the twists at the corners. The unit resembles ground 3054 from _U. Ulrich: Gründe mit System_, which has no side pins, and does not cross at the corners.
 <p style="clear: both"></p>
 
-[p-fusion]: ../images_wt/gf-fusion.png?align=right "fusion"
-[p-0342]: ../images_wt/gf-wt-0342-KF.png?align=right "ground 0342"
+[p-fusion]: ../images/marian/g-fusion.png?align=right "fusion"
+[p-0342]: ../images/marian/w-0342-KF.png?align=right "ground 0342"
 
 [T-0116]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctctc&b1=ctctctctc&c1=ctctc&d1=ctctctctc&b2=ctc&d2=ctc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0342]: /GroundForge/tiles?patchWidth=16&patchHeight=16&c1=cr&e1=cl&b2=ctctctctc&d2=c&f2=ctctctctc&h2=ct&a3=ct&g3=ct&h4=ctct&tile=--B-C---,-E-5-O-K,5-----5-,-------5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
@@ -46,7 +46,7 @@ This stitch I created because I wished to see a little loop at the sides of the 
 * [ground 0902-c][T-0902-l], [ground 0902-p][T-0902-f], [ground 0902-d][T-0902-q]
 <p style="clear: both"></p>
 
-[p-sunny]: ../images_wt/gf-0902-wt.png?align=right "sunny stitch"
+[p-sunny]: ../images/marian/w-0902.png?align=right "sunny stitch"
 
 [T-0902-l]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&c1=ctctc&b1=ctc&a1=ctctc&d2=clcrrclc&b2=crcllcrc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0902-f]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctctc&b1=ctctctctc&c1=ctctc&d1=ctctctctc&b2=crcllcrc&d2=clcrrclc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -61,8 +61,8 @@ The _Star_ looks like a three paired join, but has crossings instead of twists. 
 
 * [ground 0692][T-0692], [ground 0665][T-0665], [Star][T-3cc]        
 
-[foto-0692]: ../photos/gf-0692-foto.jpg "ground 0692"
-[pic-0692]: ../images_wt/gf-0692.png "ground 0692"
+[foto-0692]: ../images/marian/f-0692-foto.jpg "ground 0692"
+[pic-0692]: ../images/marian/w-0692.png "ground 0692"
 [T-0692]: /GroundForge/tiles?patchWidth=12&patchHeight=16&a1=tctcc&b1=c&c1=cctct&d1=c&b2=c&d2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0665]: /GroundForge/tiles?patchWidth=12&patchHeight=16&a1=ctctct&b1=c&c1=tctctc&d1=c&b2=c&d2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-3cc]: /GroundForge/tiles?patchWidth=12&patchHeight=16&a1=tctc&b1=cc&c1=ctct&d1=cc&b2=c&d2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -75,7 +75,7 @@ The following patterns I created one quarter turned, so you had to work "upwards
 
 * [ground 1114][T-1114], [ground 1111][T-1111] (after turning one quarter)
 
-[pic-1111]: ../images_wt/gf-mine2.png?align=left "ground 1111, turned one quarter"
+[pic-1111]: ../images/marian/g-mine2.png?align=left "ground 1111, turned one quarter"
 [T-1111]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctct&c1=ct&b1=ctct&a1=ct&d2=ct&c2=ctct&a2=ctct&d3=ctct&c3=ct&b3=ctct&a3=ct&c4=ctct&b4=ct&a4=ctct&tile=8325,6-76,1563,224-&tileStitch=ct&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [T-1114]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&b1=ctc&c1=tctc&d1=ctc&a2=lctc&c2=ctcr&d2=c&a3=ctct&b3=ctc&c3=tctc&d3=ctc&a4=ctc&b4=c&c4=ctcl&tile=8325,6-76,1563,224-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
@@ -85,7 +85,7 @@ As the pattern above, this pattern also was created one quarter turned.
          
 <p style="clear: both"></p>
 
-[p-2111]: ../images_wt/gf-mine1.png?align=left "ground 2111"
+[p-2111]: ../images/marian/g-mine1.png?align=left "ground 2111"
 [t-2111]: /GroundForge/tiles?patchWidth=12&patchHeight=12&b1=ctct&d1=ctct&a2=ctct&b2=ct&c2=ctct&d2=ct&e2=ctct&a3=ct&b3=ctct&d3=ctct&e3=ct&f3=ctct&tile=-7-4--,B831C-,66-225&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
 ## Windmills
@@ -94,8 +94,8 @@ As the pattern above, this pattern also was created one quarter turned.
 Inspired by origami.                 
 <p style="clear: both"></p>
 
-[p-4201]: ../images_wt/G42.png?align=left "ground 4201"
-[p-4301]: ../images_wt/G43.png?align=left "ground 4301"
+[p-4201]: ../images/marian/G42.png?align=left "ground 4201"
+[p-4301]: ../images/marian/G43.png?align=left "ground 4301"
 [t-4201]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctc&d1=ctctt&f1=ctc&a2=ctc&b2=ctc&c2=ctcrr&e2=ctcll&f2=ctc&a3=ctc&b3=ctcrr&d3=ctc&f3=ctcll&tile=15-7-2,886-58,14-5-1&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 [t-4301]: /GroundForge/tiles?patchWidth=12&patchHeight=12&g1=ctct&e1=ctct&c1=ctc&a1=ctct&h2=ctct&f2=ctct&d2=ctc&c2=ctc&b2=ctc&g3=ctct&e3=ctcr&d3=ctc&c3=ctc&b3=ctc&a3=ctcl&h4=ctct&f4=ctct&d4=ctcr&c4=ctc&b4=ctc&tile=5-5-5-7-,-215-5-5,58886-5-,-114-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
