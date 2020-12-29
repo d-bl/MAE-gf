@@ -20,7 +20,7 @@ On this page we show how variants can be made on several grounds.
 ![corners][p-corners]
 An easy way to make a variant on a Rose ground, is by changing the corner stitches, indicated in blue in the picture on the right. See the following examples of the same rose ground. Of course, there are more possibilities, e.g. <span class="stch">lctcr</span> and <span class="stch">rctcl</span>. The first two examples, without a cross at the corners, are a diamond net ground.   
 
-[![cross][p-x]][0502-O]
+[![nothing][p-x]][0502-O]
 [![twist][p-t]][0501-O]
 [![cross][p-c]][0502-K]
 [![tct][p-tt]][0502-N]
@@ -30,7 +30,7 @@ An easy way to make a variant on a Rose ground, is by changing the corner stitch
 [![tctctct][p-tttt]][0502-NF]
 
 ### Changing sides
-Other variations can be made by "doing nothing" on the sides, indicated in green in the picture on the right. If both pins on top and bottom (red in picture) are replaced with only one pin in the middle, we'll get a Paris ground. See [stretched Paris ground](#stretched-paris-ground). Some of these variants can also be made as diagonal nets.    
+Other variations can be made by "doing nothing" on the sides, indicated in green in the picture on the right. If both pins on top and bottom (red in picture) are replaced with only one pin in the middle, we'll get a Paris ground. See _[stretched Paris ground]_[page-stretched-paris]. Some of these variants can also be made as diagonal nets.    
 
 <p style="clear: both"></p>
 
@@ -52,6 +52,8 @@ Other variations can be made by "doing nothing" on the sides, indicated in green
 [p-tt]: ../images/variants/d-0501-tct.png "tct"
 [p-ttt]: ../images/variants/d-0501-tctct.png "tctct"
 [p-tttt]: ../images/variants/d-0501-tctctct.png "tctctct"
+
+[page-stretched-paris]:../MAE-gf/docs/roses#stretched-paris-ground
 
 ## Bias ground
 ![p-note-1]
