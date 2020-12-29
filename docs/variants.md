@@ -44,14 +44,14 @@ Other variations can be made by "doing nothing" on the sides, indicated in green
 [0502-NF]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=tctctct&c1=ctct&b1=tctctct&a1=tctc&d2=crc&b2=clc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 [p-corners]: ../images/variants/g-rosecorner.png?align=right "corners and sides"
-[p-x]: ../images/variants/d-0105-x.png "nothing"
-[p-c]: ../images/variants/d-0105-c.png "cross only"
-[p-cc]: ../images/variants/d-0105-ctc.png "ctc"
-[p-cccc]: ../images/variants/d-0105-ctctctc.png "ctctctc"
-[p-t]: ../images/variants/d-0105-t.png "twist only"
-[p-tt]: ../images/variants/d-0105-tct.png "tct"
-[p-ttt]: ../images/variants/d-0105-tctct.png "tctct"
-[p-tttt]: ../images/variants/d-0105-tctctct.png "tctctct"
+[p-x]: ../images/variants/d-0501-x.png "nothing"
+[p-c]: ../images/variants/d-0501-c.png "cross only"
+[p-cc]: ../images/variants/d-0501-ctc.png "ctc"
+[p-cccc]: ../images/variants/d-0501-ctctctc.png "ctctctc"
+[p-t]: ../images/variants/d-0501-t.png "twist only"
+[p-tt]: ../images/variants/d-0501-tct.png "tct"
+[p-ttt]: ../images/variants/d-0501-tctct.png "tctct"
+[p-tttt]: ../images/variants/d-0501-tctctct.png "tctctct"
 
 ## Bias ground
 ![p-note-1]
