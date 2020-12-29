@@ -39,7 +39,6 @@ Usually, the little snowflake is drawn as the left picture, on a 60 degree grid.
 
 ## Little Snowflake, crossed     
 ![little snowflake crossed][pic-sn-cr]
-A way to make variants is by changing the stitches at the corners. See page [_rose grounds_][p-corners].   
 <p style="clear: both"></p>
 
 * [ground 0342][T-ex-0342], [ground 0306][T-mt-0306]
