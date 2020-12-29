@@ -31,10 +31,10 @@ Traditionally, a bias ground is made as follows: make two stitches diagonally, m
 ![traditional][p-0221-tr] 
 <p style="clear: both"></p>
 
-### examples with one connecting stitch
+### examples with one middle stitch
 * [ground 0228][T-0228-OD]   
 
-### examples with two connecting stitches
+### examples with two different middle stitches
 * [ground 0225][T-0225-L]
 
 [p-0221-tr]: ../images/bias/g-bias-tr.png?align=left "traditional bias ground"
