@@ -17,11 +17,17 @@ On this page we show how variants can be made on several grounds.
 
 ## Rose ground    
 ### Changing corners
+![corners][p-corners]
 An easy way to make a variant on a Rose ground, is by changing the corner stitches, indicated in blue in the picture on the right. See the following examples of the same rose ground. Of course, there are more possibilities, e.g. <span class="stch">lctcr</span> and <span class="stch">rctcl</span>. The first two examples, without a cross at the corners, are a diamond net ground.   
 
-![corners][p-corners]
-
-* [nothing][0502-O], [twist][0501-O], [cross][0502-K], [tct][0502-N], [ctc][0502-L], [tctct][0502-D], [ctctctc][0502-KF], [tctctct][0502-NF]
+[![cross][p-x]][0502-O]
+[![twist][p-t]][0501-O]
+[![cross][p-c]][0502-K]
+[![tct][p-tt]][0502-N]
+[![ctc][p-cc]][0502-L]
+[![tctct][p-ttt]][0502-D]
+[![ctctctc][p-cccc]][0502-KF]
+[![tctctct][p-tttt]][0502-NF]
 
 ### Changing sides
 Other variations can be made by "doing nothing" on the sides, indicated in green in the picture on the right. If both pins on top and bottom (red in picture) are replaced with only one pin in the middle, we'll get a Paris ground. See [stretched Paris ground](#stretched-paris-ground). Some of these variants can also be made as diagonal nets.    
@@ -38,6 +44,14 @@ Other variations can be made by "doing nothing" on the sides, indicated in green
 [0502-NF]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=tctctct&c1=ctct&b1=tctctct&a1=tctc&d2=crc&b2=clc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 [p-corners]: ../images/variants/g-rosecorner.png?align=right "corners and sides"
+[p-x]: ../images/variants/d-0105-x.png "nothing"
+[p-c]: ../images/variants/d-0105-c.png "cross only"
+[p-cc]: ../images/variants/d-0105-ctc.png "ctc"
+[p-cccc]: ../images/variants/d-0105-ctctctc.png "ctctctc"
+[p-t]: ../images/variants/d-0105-t.png "twist only"
+[p-tt]: ../images/variants/d-0105-tct.png "tct"
+[p-ttt]: ../images/variants/d-0105-tctct.png "tctct"
+[p-tttt]: ../images/variants/d-0105-tctctct.png "tctctct"
 
 ## Bias ground
 ![p-note-1]
