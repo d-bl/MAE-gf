@@ -53,7 +53,7 @@ Other variations can be made by "doing nothing" on the sides, indicated in yello
 [p-ttt]: ../images/variants/d-0501-tctct.png "tctct"
 [p-tttt]: ../images/variants/d-0501-tctctct.png "tctctct"
 
-[page-stretched-paris]:../MAE-gf/docs/roses#stretched-paris-ground
+[page-stretched-paris]:../docs/roses#stretched-paris-ground
 
 ## Bias ground
 ![p-note-1]
