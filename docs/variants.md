@@ -13,8 +13,10 @@ title: making variants
 
 
 ## Introduction
-On this page we show how variants can be made on several grounds.     
+On this page we show how variants can be made on some grounds.     
 The colors in the pictures have no specific meaning.   
+
+Think also of stitches like: <span class="stch">nothing</span>, <span class="stch">c</span> (cross only), <span class="stch">cc</span> (double cross).      
 
 ## Rose ground  
 ![corners][p-corners]      
