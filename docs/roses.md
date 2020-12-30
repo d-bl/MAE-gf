@@ -28,7 +28,7 @@ Name: top-left-corner
 
 | c | tct | ctc | tctct |
 | --- | --- | --- | --- | 
-| [ctc-ctc-c][T-0114-KG ] | [ctc-ctc-tct][T-0113-NG] | [ctc-ctc-ctc][T-0114-LG] | [ctc-ctc-tctct][T-0113-DG] |
+| [ctc-ctc-c][T-0114-KG] | [ctc-ctc-tct][T-0113-NG] | [ctc-ctc-ctc][T-0114-LG] | [ctc-ctc-tctct][T-0113-DG] |
 | [ctc-ctctc-c][T-0122-KG] | [ctc-ctctc-tct][T-0122-NG] | [ctc-ctctc-ctc][T-0122-LG] | [ctc-ctctc-tctct][T-0122-DG] |
 | [ctct-ctc-c][T-0112-KG] | [ctct-ctct-ct][T-0111-NG] | [ctct-ctct-ctc][T-0112-LG] | [ctct-ctct-ctct][T-0111-DG] |
 | [ctctc-ctc-c][T-0116-KG] | [ctctc-ctc-tct][T-0115-NG] | [ctctc-ctc-ctc][T-0116-LG] | |
