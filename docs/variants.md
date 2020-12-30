@@ -17,7 +17,7 @@ On this page we show how variants can be made on several grounds.
 The colors in the pictures have no specific meaning.   
 
 ## Rose ground  
-![corners][p-corners]
+![corners][p-corners]      
 
 ### Changing corners
 An easy way to make a variant on a Rose ground, is by changing the corner stitches, indicated in purple in the picture above. See the following examples of the same rose ground. Of course, there are more possibilities, e.g. <span class="stch">lctcr</span> and <span class="stch">rctcl</span>. The first two examples, without a cross at the corners, are a diamond net ground.   
@@ -77,8 +77,9 @@ More variants can be made by making connections at the corners, indicated in pur
 [p-note-4]: ../images/variants/g-bias-4.png?align=right "bias with all colors"
 
 ## Little snowflake, crossed in corner
+![p-snowcorner]   
+
 ### Changing corners
-![p-snowcorner]     
 The same way as with the roseground, variants can be made by changing the corners, indicated with purple dots in the picture above.
 
 [p-snowcorner]: ../images/variants/g-snowcorner.png "little snowflake crossed"
