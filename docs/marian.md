@@ -35,9 +35,9 @@ Ground 0342 is meant to be made with pins at the sides of the snowflake-unit, as
 [p-fusion]: ../images/marian/g-fusion.png?align=right "fusion"
 [p-0342]: ../images/marian/w-0342-KF.png?align=right "ground 0342"
 
-[T-0116]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctctc&b1=ctctctctc&c1=ctctc&d1=ctctctctc&b2=ctc&d2=ctc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0342]: /GroundForge/tiles?patchWidth=16&patchHeight=16&c1=cr&e1=cl&b2=ctctctctc&d2=c&f2=ctctctctc&h2=ct&a3=ct&g3=ct&h4=ctct&tile=--B-C---,-E-5-O-K,5-----5-,-------5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
-[T-0278]: /GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctc&c1=ctc&d1=c&a2=ctctctctc&b2=ctct&c2=ctctctctc&d2=tctc&tile=8-48,8314&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0116]: /GroundForge/tiles?patchWidth=16&patchHeight=16&c1=ctctctctctc&b1=ctctc&a1=ctctctctctc&c2=ctc&a2=ctc&c3=-&b3=ctctc&a3=-&tile=q3s-,4-7-,158-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
+[T-0342]: /GroundForge/tiles?patchWidth=16&patchHeight=16&c1=ctctctctctcr&a1=ctctctctctcl&b2=ctctc&c3=-&a3=-&tile=q-s,-5-,b-c&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
+[T-0278]: /GroundForge/tiles?patchWidth=16&patchHeight=16&c1=ctctctctctc&b1=ctct&a1=ctctctctctc&c2=ctc&b2=c&a2=ctc&c3=-&b3=ctctc&a3=-&tile=Q3S,488,148&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
 ## Sunny stitch
 ![sunny stitch][p-sunny]
