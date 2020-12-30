@@ -13,12 +13,14 @@ title: making variants
 
 
 ## Introduction
-On this page we show how variants can be made on several grounds.
+On this page we show how variants can be made on several grounds.     
+The colors in the pictures have no specific meaning.   
 
-## Rose ground    
-### Changing corners
+## Rose ground  
 ![corners][p-corners]
-An easy way to make a variant on a Rose ground, is by changing the corner stitches, indicated in blue in the picture on the right. See the following examples of the same rose ground. Of course, there are more possibilities, e.g. <span class="stch">lctcr</span> and <span class="stch">rctcl</span>. The first two examples, without a cross at the corners, are a diamond net ground.   
+
+### Changing corners
+An easy way to make a variant on a Rose ground, is by changing the corner stitches, indicated in purple in the picture above. See the following examples of the same rose ground. Of course, there are more possibilities, e.g. <span class="stch">lctcr</span> and <span class="stch">rctcl</span>. The first two examples, without a cross at the corners, are a diamond net ground.   
 
 [![nothing][p-x]][0502-O]
 [![twist][p-t]][0501-O]
@@ -30,9 +32,7 @@ An easy way to make a variant on a Rose ground, is by changing the corner stitch
 [![tctctct][p-tttt]][0502-NF]
 
 ### Changing sides
-Other variations can be made by "doing nothing" on the sides, indicated in green in the picture on the right. If both pins on top and bottom (red in picture) are replaced with only one pin in the middle, we'll get a Paris ground. See _[stretched Paris ground]_[page-stretched-paris]. Some of these variants can also be made as diagonal nets.    
-
-<p style="clear: both"></p>
+Other variations can be made by "doing nothing" on the sides, indicated in yellow in the picture above. If both pins on top and bottom (blue in picture) are replaced with only one pin in the middle, we'll get a Paris ground. See [_stretched Paris ground_][page-stretched-paris]. Some of these variants can also be made as diagonal nets.    
 
 [0501-O]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=t&c1=ctct&b1=t&a1=tctc&d2=crc&b2=clc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [0502-O]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=-&c1=ctct&b1=-&a1=tctc&d2=crc&b2=clc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -43,7 +43,7 @@ Other variations can be made by "doing nothing" on the sides, indicated in green
 [0502-KF]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ctctctc&c1=ctct&b1=ctctctc&a1=tctc&d2=crc&b2=clc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [0502-NF]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=tctctct&c1=ctct&b1=tctctct&a1=tctc&d2=crc&b2=clc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[p-corners]: ../images/variants/g-rosecorner.png?align=right "corners and sides"
+[p-corners]: ../images/variants/g-rosecorner.png "corners and sides"
 [p-x]: ../images/variants/d-0501-x.png "nothing"
 [p-c]: ../images/variants/d-0501-c.png "cross only"
 [p-cc]: ../images/variants/d-0501-ctc.png "ctc"
@@ -68,16 +68,19 @@ More variants can be made by making connections at the corners, like the rose-gr
 The colors in the picture have no meaning.
 <p style="clear: both"></p>
 
+![p-note-4]
+
 [p-note-1]: ../images/variants/g-bias-1.png?align=right "traditional bias"
 [p-note-2]: ../images/variants/g-bias-2.png?align=right "bias variant 1"
 [p-note-3]: ../images/variants/g-bias-3.png?align=right "variant 1 with crossings"
+[p-note-4]: ../images/variants/g-bias-4.png?align=right "bias with all colors"
 
 ## Little snowflake, crossed in corner
 ### Changing corners
-![p-snowcorner]
-The same way as with the roseground, variants can be made by changing the corners, indicated with blue dots in the picture on the right.
+![p-snowcorner]     
+The same way as with the roseground, variants can be made by changing the corners, indicated with purple dots in the picture above.
 
-[p-snowcorner]: ../images/variants/g-snowcorner.png?align=right "little snowflake crossed"
+[p-snowcorner]: ../images/variants/g-snowcorner.png "little snowflake crossed"
 
 
 ***
