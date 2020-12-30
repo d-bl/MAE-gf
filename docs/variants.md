@@ -34,7 +34,10 @@ An easy way to make a variant on a Rose ground, is by changing the corner stitch
 [![tctctct][p-tttt]][0502-NF]
 
 ### Changing sides
-Other variations can be made by "doing nothing" on the sides, indicated in yellow in the picture above. If both pins on top and bottom (blue in picture) are replaced with only one pin in the middle, we'll get a Paris ground. See [_stretched Paris ground_][page-stretched-paris]. Some of these variants can also be made as diagonal nets.    
+Other variations can be made by "doing nothing" on the sides, indicated in yellow in the picture above.     
+
+### Chaning top and bottom 
+If both pins on top and bottom (blue in picture) are replaced with only one pin in the middle, we'll get a Paris ground. See [_stretched Paris ground_][page-stretched-paris]. Some of these variants can also be made as diagonal nets.      
 
 [0501-O]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=t&c1=ctct&b1=t&a1=tctc&d2=crc&b2=clc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [0502-O]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=-&c1=ctct&b1=-&a1=tctc&d2=crc&b2=clc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -58,6 +61,7 @@ Other variations can be made by "doing nothing" on the sides, indicated in yello
 [page-stretched-paris]:../docs/roses#stretched-paris-ground
 
 ## Bias ground
+### Changing middle stitch
 ![p-note-1]
 Traditionally, a bias ground is made as follows: make two stitches diagonally, make a stitch in the middle with these two, make two diagonal, stitch in the middle, etc. Usually, the same stitch is applied for this connecting stitch in the middle. See the green dots on the picture to the right.          
 
@@ -65,10 +69,12 @@ Traditionally, a bias ground is made as follows: make two stitches diagonally, m
 We can make many variants, by applying two or more different stitches for the middle stitch, see the dots in the picture.               
 <p style="clear: both"></p>
 
+### Changing corners
 ![p-note-3]
 More variants can be made by making connections at the corners, indicated in purple, like the rose-ground.    
 <p style="clear: both"></p>
 
+### Changing sides, top and bottom
 ![p-note-4]
 ... and there is also the top, bottom and sides to play with.     
 <p style="clear: both"></p>
@@ -84,8 +90,10 @@ More variants can be made by making connections at the corners, indicated in pur
 ### Changing corners
 The same way as with the roseground, variants can be made by changing the corners, indicated with purple dots in the picture above.
 
-[p-snowcorner]: ../images/variants/g-snowcorner.png "little snowflake crossed"
+### Chnaging sides
+The little snowflake has two stitches on each side, indicated with a big yellow dot on the picture above. Some variants benefit with an extra pin between the pairs 1 and 2, and 3 and 4, indicated with a small yellow dot.      
 
+[p-snowcorner]: ../images/variants/g-snowcorner.png "little snowflake crossed"
 
 ***
 [&uArr;]()
