@@ -64,11 +64,12 @@ We can make many variants, by applying two or more different stitches for the mi
 <p style="clear: both"></p>
 
 ![p-note-3]
-More variants can be made by making connections at the corners, like the rose-ground.    
-The colors in the picture have no meaning.
+More variants can be made by making connections at the corners, indicated in purple, like the rose-ground.    
 <p style="clear: both"></p>
 
 ![p-note-4]
+... and there is also the top, bottom and sides to play with.     
+<p style="clear: both"></p>
 
 [p-note-1]: ../images/variants/g-bias-1.png?align=right "traditional bias"
 [p-note-2]: ../images/variants/g-bias-2.png?align=right "bias variant 1"
