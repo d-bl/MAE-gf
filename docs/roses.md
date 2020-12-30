@@ -33,8 +33,6 @@ Name: top-left-corner
 | [ctct-ctc-c][T-0112-KG] | [ctct-ctct-ct][T-0111-NG] | [ctct-ctct-ctc][T-0112-LG] | [ctct-ctct-ctct][T-0111-DG] |
 | [ctctc-ctc-c][T-0116-KG] | [ctctc-ctc-tct][T-0115-NG] | [ctctc-ctc-ctc][T-0116-LG] | |
 | [ctctct-ctc-c][T-0106-KG] | [ctctct-ctc-tct][T-0106-NG] | [ctctc-ctc-ctc][T-0106-LG] | | 
-| | | | [ctctctctc-ctctctct-ctctctct][T-0117-BG]
-
 
 
 [T-0112-KG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=c&c1=ctct&b1=c&a1=tctc&d2=ctc&b2=ctc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -59,9 +57,6 @@ Name: top-left-corner
 [T-0106-KG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=c&c1=ctctct&b1=c&a1=tctctc&d2=ctc&b2=ctc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0106-NG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=tct&c1=ctctct&b1=tct&a1=tctctc&d2=ctc&b2=ctc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0106-LG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ctc&c1=ctctct&b1=ctc&a1=tctctc&d2=ctc&b2=ctc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-
-[T-0117-BG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ctctctct&c1=ctctctct&b1=ctctctct&a1=ctctctct&d2=ctctctct&b2=ctctctct&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctctctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-
 
 
 ### Not symmetrical rose grounds
