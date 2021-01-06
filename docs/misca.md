@@ -7,7 +7,7 @@ title: miscellaneous
 
 ## Contents
 * [Introduction](#introduction)
-* [vase ground](#vase-ground)
+* [Vase ground](#vase-ground)
 * [3 paired join](#3-paired-join)
 
 ## Introduction
