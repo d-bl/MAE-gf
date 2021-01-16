@@ -36,7 +36,8 @@ nog even dit proberen 2
 
 [pdf-test]: ../documents/streched-paris.pdf
 
-![svg][svg-test]                
+![test][svg-test]   
+
 [svg-test]: ../images_wt/g61.svg
 
 
