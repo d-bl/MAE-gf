@@ -24,16 +24,19 @@ The Rose Ground is made on a pricking as in the diagram on the right.
 
 ## Rose ground
 ### Symmetrical rose grounds
-Name: top-left-corner
+* [traditional][T-0111-NG]   
 
-| c | tct | ctc | tctct |
-| --- | --- | --- | --- | 
-| [ctc-ctc-c][T-0114-KG] | [ctc-ctc-tct][T-0113-NG] | [ctc-ctc-ctc][T-0114-LG] | [ctc-ctc-tctct][T-0113-DG] |
-| [ctc-ctctc-c][T-0122-KG] | [ctc-ctctc-tct][T-0122-NG] | [ctc-ctctc-ctc][T-0122-LG] | [ctc-ctctc-tctct][T-0122-DG] |
-| [ctct-ctc-c][T-0112-KG] | [ctct-ctct-ct][T-0111-NG] | [ctct-ctct-ctc][T-0112-LG] | [ctct-ctct-ctct][T-0111-DG] |
-| [ctctc-ctc-c][T-0116-KG] | [ctctc-ctc-tct][T-0115-NG] | [ctctc-ctc-ctc][T-0116-LG] | |
-| [ctctct-ctc-c][T-0106-KG] | [ctctct-ctc-tct][T-0106-NG] | [ctctc-ctc-ctc][T-0106-LG] | | 
+Cross only at corner     
+* [example 1][T-0114-KG],   [example 2][T-0122-KG],   [example 3][T-0112-KG],   [example 4][T-0116-KG],   [example 5][T-0106-KG]     
 
+Halfstitch at corner   
+* [example 1][T-0113-NG],   [example 2][T-0122-NG],   [example 3][T-0111-NG],   [example 4][T-0115-NG],   [example 5][T-0106-NG]     
+
+Clothstitch at corner   
+* [examle 1][T-0114-LG],    [example 2][T-0122-LG],   [example 3][T-0112-LG],   [example 4][T-0116-LG],   [example 5][T-0106-LG]     
+
+Wholestitch and twits at corner   
+* [example 1][T-0113-DG],   [example 2][T-0122-DG],   [example 3][T-0111-DG]     
 
 [T-0112-KG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=c&c1=ctct&b1=c&a1=tctc&d2=ctc&b2=ctc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0111-NG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ct&c1=ctct&b1=ct&a1=ctct&d2=ctct&b2=ctct&tile=5831,-4-7&tileStitch=ctct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -69,20 +72,20 @@ Name: top-left-corner
 ![slavicground][p-slav-pricking]
 The Slavic Ground is made on a pricking as in the diagram on the right.     
 
-* [traditional][0671ng]    
+* [traditional][0671-NG]    
 
 <p style="clear: both"></p>
 
-[0671ng]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ct&c1=ctct&b1=ct&a1=ctct&d2=ct&b2=ct&tile=5831,-4-7&tileStitch=ctct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[0671-NG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ct&c1=ctct&b1=ct&a1=ctct&d2=ct&b2=ct&tile=5831,-4-7&tileStitch=ctct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 [p-slav-pricking]: ../images/roses/g06.svg?align=right "slavic ground"
 
 ## Ants
 A variant on the Slavic Ground.
 
-* [ground 0684][0684lg]
+* [ants 1][0684-LG]
 
-[0684lg]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ctc&c1=ctctc&b1=ctc&a1=tctc&d2=c&b2=c&tile=5831,-4-7&tileStitch=ctct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[0684-LG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ctc&c1=ctctc&b1=ctc&a1=tctc&d2=c&b2=c&tile=5831,-4-7&tileStitch=ctct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ## Stretched Paris ground
 [![stretched paris ground][p-strpg]][t-0427]
@@ -92,13 +95,14 @@ A variant on the Slavic Ground.
 
 ## Rose ground in a diamond
 By putting the traditional rose ground unit in a diamond, little stars can be made.                 
-Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates. Ground 0112 looks like a star.    
-Ground 0504 is used as illustration of different ways to join the unit in the diamond.
+Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates. Example 1 looks like a star.    
 
 ![torchon-flemish][pic-tor-flem]      
-![photo-0112-torchon][ph-0112-t] ![photo-0112-flemish][ph-0112-f]   
-* [ground 0112][T-0112], [ground 0116][T-0116]
-* [ground 0504 a][T-0504-a], [ground 0504 b][T-0504-b], [ground 0504 c][T-0504-c]
+![photo-torchon][ph-0112-t] ![photo-flemish][ph-0112-f]   
+* [example 1][T-0112], [example 2][T-0116]
+
+Different ways to join the unit in the diamond.  
+* [cloth stitch][T-0504-a], [whole stitch no twits][T-0504-b], [whole stitch and twist][T-0504-c]
 
 [pic-tor-flem]: ../images/roses/g-tor-fl.svg "torchon - flemish"
 [ph-0112-t]: ../images/roses/ph-0112-t.jpg "ground 0112"
