@@ -29,13 +29,13 @@ The Rose Ground is made on a pricking as in the diagram on the right.
 Cross only at corner     
 * [example 1][T-0114-KG],   [example 2][T-0122-KG],   [example 3][T-0112-KG],   [example 4][T-0116-KG],   [example 5][T-0106-KG]     
 
-Halfstitch at corner   
+Half stitch at corner   
 * [example 1][T-0113-NG],   [example 2][T-0122-NG],   [example 3][T-0111-NG],   [example 4][T-0115-NG],   [example 5][T-0106-NG]     
 
-Clothstitch at corner   
-* [examle 1][T-0114-LG],    [example 2][T-0122-LG],   [example 3][T-0112-LG],   [example 4][T-0116-LG],   [example 5][T-0106-LG]     
+Cloth stitch at corner   
+* [example 1][T-0114-LG],   [example 2][T-0122-LG],   [example 3][T-0112-LG],   [example 4][T-0116-LG],   [example 5][T-0106-LG]     
 
-Wholestitch and twits at corner   
+Whole stitch and twits at corner   
 * [example 1][T-0113-DG],   [example 2][T-0122-DG],   [example 3][T-0111-DG]     
 
 [T-0112-KG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=c&c1=ctct&b1=c&a1=tctc&d2=ctc&b2=ctc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -102,7 +102,7 @@ Please note: when making the actual lace, it will make a big difference if the u
 * [example 1][T-0112], [example 2][T-0116]
 
 Different ways to join the unit in the diamond.  
-* [cloth stitch][T-0504-a], [whole stitch no twits][T-0504-b], [whole stitch and twist][T-0504-c]
+* [cloth stitch][T-0504-a], [whole stitch no twists][T-0504-b], [whole stitch and twist][T-0504-c]
 
 [pic-tor-flem]: ../images/roses/g-tor-fl.svg "torchon - flemish"
 [ph-0112-t]: ../images/roses/ph-0112-t.jpg "ground 0112"
