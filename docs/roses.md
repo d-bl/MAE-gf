@@ -16,11 +16,11 @@ title: rose grounds
 
 
 ## Introduction
-![roseground][p-rose-wt]
-The traditional Rose Ground is made as in the pair-diagram on the right.     
+![roseground][p-rose-pricking]
+The Rose Ground is made on a pricking as in the diagram on the right.     
 <p style="clear: both"></p>
 
-[p-rose-wt]: ../images/roses/w-tradrose.png?align=right "traditional rose ground"
+[p-rose-pricking]: ../images/roses/g01.svg?align=right "rose ground"
 
 ## Rose ground
 ### Symmetrical rose grounds
@@ -66,8 +66,8 @@ Name: top-left-corner
 [t-jp-2]: /GroundForge/tiles.html?patchWidth=16&patchHeight=14&h1=ct&g1=ct&f1=ctct&e1=ctttct&c1=ctttct&b1=ctct&a1=ct&g2=ct&f2=ctct&b2=ctct&a2=ct&h3=ct&g3=ct&f3=ctct&e3=ctttct&c3=ctttct&b3=ctct&a3=ct&h4=ctct&g4=ctct&e4=ctct&d4=ctct&c4=ctct&a4=ctct&tile=834-7315,44---77-,179-0483,7-158-43&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Slavic ground
-![slavicground][p-slav-wt]
-The traditional Slavic Ground is made as in the pair-diagram on the right. It uses the same pricking as the Rose Ground.
+![slavicground][p-slav-pricking]
+The Slavic Ground is made on a pricking as in the diagram on the right.     
 
 * [traditional][0671ng]    
 
@@ -75,7 +75,7 @@ The traditional Slavic Ground is made as in the pair-diagram on the right. It us
 
 [0671ng]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ct&c1=ctct&b1=ct&a1=ctct&d2=ct&b2=ct&tile=5831,-4-7&tileStitch=ctct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[p-slav-wt]: ../images/roses/w-tradslav.png?align=right "traditional slavic ground"
+[p-slav-pricking]: ../images/roses/g06.svg?align=right "slavic ground"
 
 ## Ants
 A variant on the Slavic Ground.
@@ -87,7 +87,7 @@ A variant on the Slavic Ground.
 ## Stretched Paris ground
 [![stretched paris ground][p-strpg]][t-0427]
 
-[p-strpg]: ../images/roses/g-halfling.png "stretched Paris ground"
+[p-strpg]: ../images/roses/g-halfling.svg "stretched Paris ground"
 [t-0427]: /GroundForge/tiles?patchWidth=12&patchHeight=16&c1=ct&a1=ct&d2=ctctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ## Rose ground in a diamond
@@ -100,7 +100,7 @@ Ground 0504 is used as illustration of different ways to join the unit in the di
 * [ground 0112][T-0112], [ground 0116][T-0116]
 * [ground 0504 a][T-0504-a], [ground 0504 b][T-0504-b], [ground 0504 c][T-0504-c]
 
-[pic-tor-flem]: ../images/roses/g-tor-fl.png "torchon - flemish"
+[pic-tor-flem]: ../images/roses/g-tor-fl.svg "torchon - flemish"
 [ph-0112-t]: ../images/roses/ph-0112-t.jpg "ground 0112"
 [ph-0112-f]: ../images/roses/ph-0112-f.jpg "ground 0112"
 
@@ -115,8 +115,8 @@ Ground 0504 is used as illustration of different ways to join the unit in the di
 [![roses with vertical][p-31]][t-3115]  [![roses with zigzag][p-61]][t-6101]     
 The ground on the right can also be obtain as a [Droste on Paris ground][dr-6101]
 
-[p-31]: ../images/roses/g31.png "ground 3115"
-[p-61]: ../images/roses/g61.png "ground 6101"
+[p-31]: ../images/roses/g31.svg "ground 3115"
+[p-61]: ../images/roses/g61.svg "ground 6101"
 [t-3115]: /GroundForge/tiles?patchWidth=12&patchHeight=16&b1=tctct&a2=c&c2=c&d2=tctctc&a3=ctc&c3=ctc&a4=c&c4=c&d4=ctctct&tile=-5--,B-C3,7-4-,8-15&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [t-6101]: /GroundForge/tiles?patchWidth=15&patchHeight=15&e1=ctct&c1=ct&b1=ctct&a1=ct&f2=ct&c2=ct&a2=ct&e3=ctct&c3=ct&b3=ctct&a3=ct&d4=ct&tile=O3E-H-,4-7--5,158-L-,---5-&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=6&shiftRowsSE=2
 [dr-6101]: /GroundForge/tiles?patchWidth=15&patchHeight=20&c1=ct&a1=ct&d2=ctct&droste2=ct,d20=d23=ctct,a10=c10=ctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
