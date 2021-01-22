@@ -1875,20 +1875,20 @@
        clip-path="none"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.25;stroke-linejoin:round;stroke-dashoffset:37.7953"
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linejoin:round;stroke-dashoffset:37.7953"
        d="m 67.999997,148.06647 -3.906769,3.96892 3.906769,4.03108 4,-4 -4,-4"
        id="path41"
        clip-path="none"
        transform="rotate(90,76.073781,168.08942)"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.25;stroke-linejoin:round;stroke-dashoffset:37.7953"
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linejoin:round;stroke-dashoffset:37.7953"
        d="m 67.999997,164.06647 -4,4 4,4 4,-4 -4,-4"
        id="path41-7"
        clip-path="none"
        transform="rotate(90,76.002227,160.07738)" />
     <path
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.25;stroke-linejoin:round;stroke-dashoffset:37.7953"
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linejoin:round;stroke-dashoffset:37.7953"
        d="m 83.975586,164.00001 -4,4 4,4 4,-4 -4,-4"
        id="path41-1"
        clip-path="none"
@@ -2103,7 +2103,7 @@
        clip-path="none"
        transform="rotate(90,67.979378,168.03074)" />
     <path
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.25;stroke-linejoin:round;stroke-dashoffset:37.7953"
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linejoin:round;stroke-dashoffset:37.7953"
        d="m 67.999997,148.06647 -3.906769,3.96892 3.906769,4.03108 4,-4 -4,-4"
        id="path41-71"
        clip-path="none"
@@ -2123,7 +2123,7 @@
        clip-path="none"
        transform="rotate(90,67.951994,176.11378)" />
     <path
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.25;stroke-linejoin:round;stroke-dashoffset:37.7953"
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linejoin:round;stroke-dashoffset:37.7953"
        d="m 83.975586,164.00001 -4,4 4,4 1.760219,-1.69844 m 0.03699,-4.43207 -1.79721,-1.86949"
        id="path41-1-7"
        clip-path="none"
