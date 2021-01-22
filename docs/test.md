@@ -40,6 +40,9 @@ nog even dit proberen 2
 
 [svg-test]: ../images_wt/g61.svg
 
+![test 2][test2]             
+
+[test2]: ../images_wt/path866.png
 
 buttons test
 
