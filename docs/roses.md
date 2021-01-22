@@ -24,7 +24,7 @@ The Rose Ground is made on a pricking as in the diagram on the right.
 
 ## Rose ground
 ### Symmetrical rose grounds
-* [![traditional][P-0111-NG]][T-0111-NG]   [![0112-kg][P-0112-KG]][T-0112-KG]
+[![traditional][P-0111-NG]][T-0111-NG]   [![0112-kg][P-0112-KG]][T-0112-KG]
 
 
 Cross only at corner     
