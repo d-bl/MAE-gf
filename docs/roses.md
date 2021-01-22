@@ -24,7 +24,8 @@ The Rose Ground is made on a pricking as in the diagram on the right.
 
 ## Rose ground
 ### Symmetrical rose grounds
-* [traditional][T-0111-NG]   
+* [![traditional][P-0111-NG]][T-0111-NG]   [![0112-kg][P-0112-KG]][T-0112-KG]
+
 
 Cross only at corner     
 * [example 1][T-0114-KG],   [example 2][T-0122-KG],   [example 3][T-0112-KG],   [example 4][T-0116-KG],   [example 5][T-0106-KG]     
@@ -37,6 +38,9 @@ Cloth stitch at corner
 
 Whole stitch and twits at corner   
 * [example 1][T-0113-DG],   [example 2][T-0122-DG],   [example 3][T-0111-DG]     
+
+[p-0111-NG]: ../images/roses/0111-ng.png "traditonal" 
+[p-0112-KG]: ../images/roses/0112-kg.png
 
 [T-0112-KG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=c&c1=ctct&b1=c&a1=tctc&d2=ctc&b2=ctc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0111-NG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ct&c1=ctct&b1=ct&a1=ctct&d2=ctct&b2=ctct&tile=5831,-4-7&tileStitch=ctct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
