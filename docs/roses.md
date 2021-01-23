@@ -24,7 +24,7 @@ The Rose Ground is made on a pricking as in the diagram on the right.
 
 ## Rose ground
 ### Symmetrical rose grounds
-[![traditional][P-0111-NG]][T-0111-NG] [![0112-kg][P-0112-KG]][T-0112-KG] [![0113-NG][P-0113-NG]][T-0113-NG] [![0116-LG][P-0116-LG]][T-0116-LG] [![0106-LG][P-0106-LG]][T-0106-LG] [![0122-DG][P-0122-DG]][T-0122-DG]
+[![traditional][P-0111-NG]][T-0111-NG] [![0112-kg][P-0112-KG]][T-0112-KG] [![0113-NG][P-0113-NG]][T-0113-NG] [![0116-KG][P-0116-KG]][T-0116-KG] [![0116-LG][P-0116-LG]][T-0116-LG] [![0106-LG][P-0106-LG]][T-0106-LG] [![0122-DG][P-0122-DG]][T-0122-DG]
 
 [P-0111-NG]: ../images/roses/0111-ng.png "traditonal" 
 [P-0112-KG]: ../images/roses/0112-kg.png
@@ -32,6 +32,7 @@ The Rose Ground is made on a pricking as in the diagram on the right.
 [P-0113-NG]: ../images/roses/0113-ng.png
 [P-0116-LG]: ../images/roses/0116-lg.png
 [P-0122-DG]: ../images/roses/0122-dg.png
+[P-0116-KG]: ../images/roses/0116-kg.png
 
 [T-0112-KG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=c&c1=ctct&b1=c&a1=tctc&d2=ctc&b2=ctc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0111-NG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ct&c1=ctct&b1=ct&a1=ctct&d2=ctct&b2=ctct&tile=5831,-4-7&tileStitch=ctct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -39,6 +40,7 @@ The Rose Ground is made on a pricking as in the diagram on the right.
 [T-0116-LG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ctc&c1=ctctc&b1=ctc&a1=ctctc&d2=ctc&b2=ctc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0122-DG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=tctct&c1=ctc&b1=tctct&a1=ctc&d2=ctctc&b2=ctctc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0106-LG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ctc&c1=ctctct&b1=ctc&a1=tctctc&d2=ctc&b2=ctc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0116-KG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=c&c1=ctctc&b1=c&a1=ctctc&d2=ctc&b2=ctc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 
 ### Not symmetrical rose grounds
