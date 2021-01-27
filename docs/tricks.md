@@ -39,7 +39,7 @@ Stitches used in the examples on these pages:
 * Cloth stitch = cross, twist, cross. Coloured <span class="b-purp">purple</span>.
 * Whole stitch &amp; twist (double stitch) = (twist if not already done), cross, twist, cross, twist. Coloured <span class="b-red">red</span>.
 * Plaits = (twist,) cross, twist, cross, twist, cross (, twist), .... . Coloured <span class="b-blue">blue</span>.      
-* All other stitches in black.    
+* All other stitches in black.
 <p style="clear: both"></p>
 
 Sometimes, onorthodox stitches are used, like <span class="stch">cross only</span> or <span class="stch">crcllcrc</span>, as in the [_Sunny Stitch_][ex-sun].    
@@ -58,7 +58,7 @@ The specified twitst in some stitch definitions may not be according to the expe
      title="ground 0306"
 %}   
 
-On these pages several types of diagrams are used, as illustrated in the picture. On the left a schematic drawing of a _pair-diagram_ or _working-scheme_. In the middle is a drawing of a _pair-diagram_. Pins, pinpositions and colourcode are given as needed for the actual lace. On the right the ground is drawn schematic, to given an impression. Pins may or may not be drawn. The pinpositions are drawn as required for the actual lace. On these pages the name _scheme_ or _diagram_ will be used for all types of the drawings.                     
+On these pages several types of diagrams are used, as illustrated in the picture. On the left a schematic drawing of a _pair-diagram_, used as thumbnail. In the middle is a drawing of a _pair-diagram_ or _working-scheme_. Pins, pinpositions and colourcode are given as needed for the actual lace. On the right the ground is drawn schematic, to given an impression. Pins may or may not be drawn. The pinpositions are drawn as required for the actual lace. On these pages the name _scheme_ or _diagram_ will be used for all types of the drawings.                     
 Several grounds have more than one working prototype, as is explained in de Groundforge-userguide.    
 
 The example is a variation on a 's Gravenmoers snowflake ground. Click on the picture to see how the thread-diagram looks like.      
