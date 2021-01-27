@@ -25,7 +25,7 @@ For the actual lace the pins can be placed like a Flanders ground, or as a Torch
 
 {% include picts-centr.html
      alt="flanders or rose"
-     src="/MAE-gf/images_flanders/flanders.png"
+     src="/MAE-gf/images_flanders/flanders.svg"
      title="rose ground"
 %}   
 
