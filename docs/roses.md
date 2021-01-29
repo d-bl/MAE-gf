@@ -24,7 +24,13 @@ The Rose Ground is made on a pricking as in the diagram on the right.
 
 ## Rose ground
 ### Symmetrical rose grounds
-[![traditional][P-0111-NG]][T-0111-NG] [![0112-kg][P-0112-KG]][T-0112-KG] [![0113-NG][P-0113-NG]][T-0113-NG] [![0116-KG][P-0116-KG]][T-0116-KG] [![0116-LG][P-0116-LG]][T-0116-LG] [![0106-LG][P-0106-LG]][T-0106-LG] [![0122-DG][P-0122-DG]][T-0122-DG]
+[![traditional][P-0111-NG]][T-0111-NG]
+[![0112-KG][P-0112-KG]][T-0112-KG] 
+[![0113-NG][P-0113-NG]][T-0113-NG] 
+[![0116-KG][P-0116-KG]][T-0116-KG] 
+[![0116-LG][P-0116-LG]][T-0116-LG] 
+[![0106-LG][P-0106-LG]][T-0106-LG] 
+[![0122-DG][P-0122-DG]][T-0122-DG] 
 
 [P-0111-NG]: ../images/roses/0111-ng.png "traditonal" 
 [P-0112-KG]: ../images/roses/0112-kg.png
@@ -42,8 +48,8 @@ The Rose Ground is made on a pricking as in the diagram on the right.
 [T-0106-LG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ctc&c1=ctctct&b1=ctc&a1=tctctc&d2=ctc&b2=ctc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0116-KG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=c&c1=ctctc&b1=c&a1=ctctc&d2=ctc&b2=ctc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-
 ### Not symmetrical rose grounds
+[![0198-KG][P-0198-KG]][T-0198-KG]   
 * [stretched variant 1][t-jp-1], [stretched variant 2][t-jp-2]
 
 [t-jp-1]: /GroundForge/tiles.html?patchWidth=16&patchHeight=14&h1=ct&g1=ct&f1=ct&e1=ctct&c1=ctct&b1=ct&a1=ct&g2=ct&f2=ctct&b2=ctct&a2=ct&h3=ct&g3=ct&f3=ct&e3=ctct&c3=ctct&b3=ct&a3=ct&h4=ctct&g4=ct&e4=ct&d4=ctct&c4=ct&a4=ct&tile=834-7315,44---77-,179-0483,7-158-43&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
@@ -53,13 +59,39 @@ The Rose Ground is made on a pricking as in the diagram on the right.
 ![slavicground][p-slav-pricking]
 The Slavic Ground is made on a pricking as in the diagram on the right.     
 
-* [traditional][0671-NG]    
-
 <p style="clear: both"></p>
 
-[0671-NG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ct&c1=ctct&b1=ct&a1=ctct&d2=ct&b2=ct&tile=5831,-4-7&tileStitch=ctct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[![traditional][P-0671-NG]][T-0671-NG] 
+[![0654-KG][P-0654-KG]][T-0654-KG] 
+[![0505-KG][P-0505-KG]][T-0505-KG] 
+[![0602-KG][P-0602-KG]][T-0602-KG] 
+[![0673-NG][P-0673-NG]][T-0673-NG] 
+[![0511-NG][P-0511-NG]][T-0511-NG] 
+[![0508-LG][P-0508-LG]][T-0508-LG] 
+[![0501-DG][P-0501-DG]][T-0501-DG] 
+[![0676-KV][P-0676-KV]][T-0676-KV] 
+
+
+[T-0671-NG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ct&c1=ctct&b1=ct&a1=ctct&d2=ct&b2=ct&tile=5831,-4-7&tileStitch=ctct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0602-KG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=cl&c1=ct&b1=cr&a1=ctc&d2=crcl&b2=clcr&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0505-KG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=c&c1=tct&b1=c&a1=tct&d2=crrc&b2=cllc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0673-NG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=tct&c1=ctc&b1=tct&a1=ctc&d2=c&b2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0511-NG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=tct&c1=ctc&b1=tct&a1=ctc&d2=crc&b2=clc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0508-LG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ctc&c1=ctc&b1=ctc&a1=tc&d2=crrc&b2=cllc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0501-DG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=tctct&c1=ctct&b1=tctct&a1=tctc&d2=crc&b2=clc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0676-KV]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=c&c1=ctc&b1=c&a1=t&d2=c&b2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0654-KG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=cr&c1=ctct&b1=cl&a1=ctc&d2=ct&b2=ct&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 [p-slav-pricking]: ../images/roses/g06.svg?align=right "slavic ground"
+[P-0671-NG]: ../images/roses/0671-ng.png "traditional" 
+[P-0654-KG]: ../images/roses/0654-kg.png
+[P-0505-KG]: ../images/roses/0505-kg.png
+[P-0602-KG]: ../images/roses/0602-kg.png
+[P-0673-NG]: ../images/roses/0673-ng.png
+[P-0511-NG]: ../images/roses/0511-ng.png
+[P-0508-LG]: ../images/roses/0508-lg.png
+[P-0501-DG]: ../images/roses/0501-dg.png
+[P-0676-KV]: ../images/roses/0676-kv.png
 
 ## Ants
 A variant on the Slavic Ground.
