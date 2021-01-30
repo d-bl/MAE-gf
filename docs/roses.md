@@ -138,7 +138,7 @@ The ground on the right can also be obtain as a [Droste on Paris ground][dr-6101
 [dr-6101]: /GroundForge/tiles?patchWidth=15&patchHeight=20&c1=ct&a1=ct&d2=ctct&droste2=ct,d20=d23=ctct,a10=c10=ctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 
-Take four non-symmetrical rose grounds, and place them in alternating directions. 
+Take four non-symmetrical rose grounds, and place them in alternating directions.           
 [![jp-1][P-jp-1]][T-jp-1] [![jp-2][P-jp-2]][T-jp-2]  
 
 [P-jp-1]: ../images/roses/w-jp-1.png
