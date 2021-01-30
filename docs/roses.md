@@ -16,14 +16,14 @@ title: rose grounds
 
 
 ## Introduction
-![roseground][p-rose-pricking]
-The Rose Ground is made on a pricking as in the diagram on the right.     
-<p style="clear: both"></p>
-
-[p-rose-pricking]: ../images/roses/g01.svg?align=right "rose ground"
+On this page several variants of the rose ground.   
 
 ## Rose ground
-### Symmetrical rose grounds
+![roseground][p-rose-pricking]
+The Rose Ground is made on a pricking as in the diagram on the right.     
+
+<p style="clear: both"></p>
+
 [![traditional][P-0111-NG]][T-0111-NG]
 [![0112-KG][P-0112-KG]][T-0112-KG] 
 [![0113-NG][P-0113-NG]][T-0113-NG] 
@@ -37,6 +37,8 @@ The Rose Ground is made on a pricking as in the diagram on the right.
 [![0508-LG][P-0508-LG]][T-0508-LG] 
 [![0501-DG][P-0501-DG]][T-0501-DG] 
 [![0598-KG][P-0598-KG]][T-0598-KG] 
+
+[p-rose-pricking]: ../images/roses/g01.svg?align=right "rose ground"
 
 [P-0111-NG]: ../images/roses/0111-ng.png "traditonal" 
 [P-0112-KG]: ../images/roses/0112-kg.png
@@ -67,11 +69,6 @@ The Rose Ground is made on a pricking as in the diagram on the right.
 [T-0508-LG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ctc&c1=ctc&b1=ctc&a1=tc&d2=crrc&b2=cllc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0501-DG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=tctct&c1=ctct&b1=tctct&a1=tctc&d2=crc&b2=clc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-### Not symmetrical rose grounds
-* [stretched variant 1][t-jp-1], [stretched variant 2][t-jp-2]
-
-[t-jp-1]: /GroundForge/tiles.html?patchWidth=16&patchHeight=14&h1=ct&g1=ct&f1=ct&e1=ctct&c1=ctct&b1=ct&a1=ct&g2=ct&f2=ctct&b2=ctct&a2=ct&h3=ct&g3=ct&f3=ct&e3=ctct&c3=ctct&b3=ct&a3=ct&h4=ctct&g4=ct&e4=ct&d4=ctct&c4=ct&a4=ct&tile=834-7315,44---77-,179-0483,7-158-43&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
-[t-jp-2]: /GroundForge/tiles.html?patchWidth=16&patchHeight=14&h1=ct&g1=ct&f1=ctct&e1=ctttct&c1=ctttct&b1=ctct&a1=ct&g2=ct&f2=ctct&b2=ctct&a2=ct&h3=ct&g3=ct&f3=ctct&e3=ctttct&c3=ctttct&b3=ctct&a3=ct&h4=ctct&g4=ctct&e4=ctct&d4=ctct&c4=ctct&a4=ctct&tile=834-7315,44---77-,179-0483,7-158-43&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Slavic ground
 ![slavicground][p-slav-pricking]
@@ -132,7 +129,7 @@ Different ways to join the unit in the diamond.
 
 ## Alternative placings
 [![roses with vertical][p-31]][t-3115]  [![roses with zigzag][p-61]][t-6101]     
-The ground on the right can also be obtain as a [Droste on Paris ground][dr-6101]
+The ground on the right can also be obtain as a [Droste on Paris ground][dr-6101]      
 
 [p-31]: ../images/roses/g31.svg "ground 3115"
 [p-61]: ../images/roses/g61.svg "ground 6101"
@@ -141,6 +138,14 @@ The ground on the right can also be obtain as a [Droste on Paris ground][dr-6101
 [dr-6101]: /GroundForge/tiles?patchWidth=15&patchHeight=20&c1=ct&a1=ct&d2=ctct&droste2=ct,d20=d23=ctct,a10=c10=ctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 
+Take four non-symmetrical rose grounds, and place them in alternating directions. 
+[![jp-1][P-jp-1]][T-jp-1] [![jp-2][P-jp-2]][T-jp-2]  
+
+[P-jp-1]: ../images/roses/w-jp-1.png
+[P-jp-2]: ../images/roses/w-jp-2.png
+
+[T-jp-1]: /GroundForge/tiles.html?patchWidth=16&patchHeight=14&h1=ct&g1=ct&f1=ct&e1=ctct&c1=ctct&b1=ct&a1=ct&g2=ct&f2=ctct&b2=ctct&a2=ct&h3=ct&g3=ct&f3=ct&e3=ctct&c3=ctct&b3=ct&a3=ct&h4=ctct&g4=ct&e4=ct&d4=ctct&c4=ct&a4=ct&tile=834-7315,44---77-,179-0483,7-158-43&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[T-jp-2]: /GroundForge/tiles.html?patchWidth=16&patchHeight=14&h1=ct&g1=ct&f1=ctct&e1=ctttct&c1=ctttct&b1=ctct&a1=ct&g2=ct&f2=ctct&b2=ctct&a2=ct&h3=ct&g3=ct&f3=ctct&e3=ctttct&c3=ctttct&b3=ctct&a3=ct&h4=ctct&g4=ctct&e4=ctct&d4=ctct&c4=ctct&a4=ctct&tile=834-7315,44---77-,179-0483,7-158-43&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ***
 [&uArr;]()
