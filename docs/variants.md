@@ -91,7 +91,7 @@ More variants can be made by making connections at the corners, indicated in pur
 ### Changing corners
 The same way as with the roseground, variants can be made by changing the corners, indicated with purple dots in the picture above.
 
-### Chnaging sides
+### Changing sides
 The little snowflake has two stitches on each side, indicated with a big yellow dot on the picture above. Some variants benefit with an extra pin between the pairs 1 and 2, and 3 and 4, indicated with a small yellow dot.      
 
 [p-snowcorner]: ../images/variants/g-snowcorner.png "little snowflake crossed"
