@@ -18,7 +18,7 @@ Example: The picture shows the working-scheme's of one unit of <i>Slavic rose gr
 <p style="clear: both"></p>
 
 ![snow v.s. spider][p-sn-sp]
-We have learned, that the figure on the left is called a [_snowflake, crossed_][t-snowflake] and the figure on the right a [_spider_][t-spider]. Groundforge does not make this difference. It only depends on the stitch in the centre: <span class="stch">ctcctc</span> for the spider or <span class="stch">ctc</span> for the snowflake.
+We have learned, that the figure on the left is called a [_snowflake][t-snowflake] and the figure on the right a [_spider_][t-spider]. Groundforge does not make this difference. It only depends on the stitch in the centre: <span class="stch">ctcctc</span> for the spider or <span class="stch">ctc</span> for the snowflake.
 <p style="clear: both"></p>
 
 [p-rs-sl]: ../images/tricks/w-vierge.png?align=right "slavic rose ground"
