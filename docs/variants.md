@@ -86,7 +86,7 @@ More variants can be made by making connections at the corners, indicated in pur
 [p-note-4]: ../images/variants/g-bias-4.png?align=right "bias with all colors"
 
 ## Little snowflake, crossed in corner
-![p-snowcorner]   
+![p-snowcorner] ![p-snowside]   
 
 ### Changing corners
 The same way as with the roseground, variants can be made by changing the corners, indicated with purple dots in the picture above.
@@ -95,6 +95,7 @@ The same way as with the roseground, variants can be made by changing the corner
 The little snowflake has two stitches on each side, indicated with a big yellow dot on the picture above. Some variants benefit with an extra pin between the pairs 1 and 2, and 3 and 4.    
 
 [p-snowcorner]: ../images/variants/g-snowcorner.png "little snowflake crossed"
+[p-snowside]: ../images/variants/g-snowside.png "little snowflake crossed"
 
 ***
 [&uArr;]()
