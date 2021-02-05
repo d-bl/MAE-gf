@@ -145,21 +145,27 @@ By putting the traditional rose ground unit in a diamond, little stars can be ma
 Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates. Example 1 looks like a star.    
 
 ![torchon-flemish][pic-tor-flem]      
-![photo-torchon][ph-0112-t] ![photo-flemish][ph-0112-f]   
-* [example 1][T-0112], [example 2][T-0116]
+![photo-torchon][ph-0112-t] ![photo-flemish][ph-0112-f]        
+[![R-0112][PR-0112]][TR-0112] [![R-0116][PR-0116]][TR-0116]
 
 Different ways to join the unit in the diamond.  
-* [cloth stitch][T-0504-a], [whole stitch no twists][T-0504-b], [whole stitch and twist][T-0504-c]
+[![R-0504-a][PR-0504-a]][TR-0504-a] [![R-0504-b][PR-0504-b]][TR-0504-b] [![R-0504-c][PR-0504-c]][TR-0504-c] 
 
 [pic-tor-flem]: ../images/roses/g-tor-fl.svg "torchon - flemish"
 [ph-0112-t]: ../images/roses/ph-0112-t.jpg "ground 0112"
 [ph-0112-f]: ../images/roses/ph-0112-f.jpg "ground 0112"
 
-[T-0112]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctt&c1=ctctt&e1=ctctt&f1=ctt&b2=ctctt&c2=c&d2=ctct&e2=c&f2=ctctt&a3=ctctt&c3=ctcr&e3=ctcl&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
-[T-0116]: /GroundForge/tiles?patchWidth=12&patchHeight=12&f1=c&e1=ctcr&c1=ctcl&b1=c&a1=ctctc&f2=ctcr&e2=c&d2=ctctc&c2=c&b2=ctcl&e3=ctc&c3=ctc&a3=ctct&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
-[T-0504-a]: /GroundForge/tiles?patchWidth=12&patchHeight=12&f1=c&e1=ctcr&c1=ctcl&b1=c&a1=tctctc&f2=ctcr&e2=c&d2=ctctct&c2=c&b2=ctcl&e3=crc&c3=clc&a3=ctct&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
-[T-0504-b]: /GroundForge/tiles?patchWidth=12&patchHeight=12&f1=ct&e1=ctct&c1=ctct&b1=ct&a1=tctctc&f2=ctct&e2=c&d2=ctctct&c2=c&b2=ctct&e3=crc&c3=clc&a3=ctct&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
-[T-0504-c]: /GroundForge/tiles?patchWidth=12&patchHeight=12&f1=tct&e1=ctct&c1=ctct&b1=tct&a1=tctctc&f2=ctct&e2=ct&d2=ctctct&c2=ct&b2=ctct&e3=crc&c3=clc&a3=ctct&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
+[PR-0112]: ../images/roses/R-0112.png
+[PR-0116]: ../images/roses/R-0116.png
+[PR-0504-a]: ../images/roses/R-0504-a.png
+[PR-0504-b]: ../images/roses/R-0504-b.png
+[PR-0504-c]: ../images/roses/R-0504-c.png
+
+[TR-0112]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctt&c1=ctctt&e1=ctctt&f1=ctt&b2=ctctt&c2=c&d2=ctct&e2=c&f2=ctctt&a3=ctctt&c3=ctcr&e3=ctcl&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
+[TR-0116]: /GroundForge/tiles?patchWidth=12&patchHeight=12&f1=c&e1=ctcr&c1=ctcl&b1=c&a1=ctctc&f2=ctcr&e2=c&d2=ctctc&c2=c&b2=ctcl&e3=ctc&c3=ctc&a3=ctct&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
+[TR-0504-a]: /GroundForge/tiles?patchWidth=12&patchHeight=12&f1=c&e1=ctcr&c1=ctcl&b1=c&a1=tctctc&f2=ctcr&e2=c&d2=ctctct&c2=c&b2=ctcl&e3=crc&c3=clc&a3=ctct&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
+[TR-0504-b]: /GroundForge/tiles?patchWidth=12&patchHeight=12&f1=ct&e1=ctct&c1=ctct&b1=ct&a1=tctctc&f2=ctct&e2=c&d2=ctctct&c2=c&b2=ctct&e3=crc&c3=clc&a3=ctct&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
+[TR-0504-c]: /GroundForge/tiles?patchWidth=12&patchHeight=12&f1=tct&e1=ctct&c1=ctct&b1=tct&a1=tctctc&f2=ctct&e2=ct&d2=ctctct&c2=ct&b2=ctct&e3=crc&c3=clc&a3=ctct&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
 
 ## Alternative placings
