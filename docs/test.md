@@ -38,7 +38,7 @@ nog even dit proberen 2
 
 ![test][svg-test]   
 
-[svg-test]: ../images_wt/g61.svg
+[svg-test]: ../images_flanders/flanders.svg
 
 ![test 2][test2]             
 
