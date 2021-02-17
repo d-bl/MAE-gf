@@ -45,7 +45,7 @@ We have tried <span class="stch">ctctclllllctctc</span> as a substitute for pico
 The specified twitst in some stitch definitions may not be according to the expected working order. Example : <span class="stch">B1 = ctctt, A2 = ct, C2 = ct</span> instead of <span class="stch">B1 = ctc, A2 = rrct, C2 = llct</span>. The result is the same.
 
 [ex-sun]: ../docs/marian#sunny-stitch
-[p-colors]: ../images/tricks/w-color.png?align=right
+[p-colors]: ../images/w-color.png?align=right
 
 ## Diagrams
 {% include p-l-c.html
