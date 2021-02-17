@@ -135,10 +135,31 @@ A variant on the Slavic Ground.
 [T-0693-XG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ct&c1=cctc&b1=ct&a1=ctcc&d2=c&b2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ## Stretched Paris ground
-[![stretched paris ground][p-strpg]][t-0427]
+![stretched paris ground][p-strpg]
+The Stretched Paris Ground is made on a pricking as in the diagram on the right.     
+
+<p style="clear: both"></p>
+
+[![0403-KG][P-0403-KG]][T-0403-KG] 
+[![0424-KG][P-0424-KG]][T-0424-KG]
+[![0404-KG][P-0404-KG]][T-0404-KG] 
+[![0427-NG][P-0427-NG]][T-0427-NG]
+[![0402-LG][P-0402-LG]][T-0402-LG]
+
+[P-0403-KG]: ../images/roses/0403-kg.png
+[P-0424-KG]: ../images/roses/0424-kg.png
+[P-0404-KG]: ../images/roses/0404-kg.png
+[P-0427-NG]: ../images/roses/0427-ng.png
+[P-0402-LG]: ../images/roses/0402-lg.png
 
 [p-strpg]: ../images/roses/g-halfling.svg "stretched Paris ground"
-[t-0427]: /GroundForge/tiles?patchWidth=12&patchHeight=16&c1=ct&a1=ct&d2=ctctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+
+[T-0403-KG]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=20&c1=c&a1=c&d2=tctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0424-KG]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=20&a1=cr&c1=cl&d2=ctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0404-KG]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&c1=cl&a1=cr&d2=ctctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0427-NG]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&c1=ct&a1=ct&d2=ctctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0402-LG]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&c1=ctc&a1=ctc&d2=ctctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+
 
 ## Rose ground in a diamond
 By putting the traditional rose ground unit in a diamond, little stars can be made.                 
