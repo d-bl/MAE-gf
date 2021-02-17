@@ -16,10 +16,7 @@ title: rose grounds
 
 
 ## Introduction
-On this page several variants of the rose ground. The color-code is explained on page [_notes_][page-notes].     
-
-[page-notes]: ../docs/tricks#stitches
-
+On this page several variants of the rose ground.     
 
 ## Rose ground
 ![roseground][p-rose-pricking]
