@@ -152,7 +152,7 @@ The Stretched Paris Ground is made on a pricking as in the diagram on the right.
 [P-0427-NG]: ../images/roses/0427-ng.png
 [P-0402-LG]: ../images/roses/0402-lg.png
 
-[p-strpg]: ../images/roses/g-halfling.svg "stretched Paris ground"
+[p-strpg]: ../images/roses/g-halfling.svg?align=right "stretched Paris ground"
 
 [T-0403-KG]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=20&c1=c&a1=c&d2=tctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0424-KG]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=20&a1=cr&c1=cl&d2=ctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
