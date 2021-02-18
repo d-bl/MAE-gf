@@ -53,7 +53,7 @@ Traditionally, a bias ground is made as follows: make two stitches diagonally, m
 ## Bias Ground crossed differently
 [![][p-bias-aa]][t-bias-aa]
 
-[p-bias-aa]: ../images/bias/g-bias-aa.png "bias alternated crossing"
+[p-bias-aa]: ../images/bias/g-bias-aa.svg "bias alternated crossing"
 [t-bias-aa]: /GroundForge/tiles?whiting=E6_P160&patchWidth=12&patchHeight=12&a1=ct&b1=ctct&c1=ct&d1=ctct&f1=ctct&g1=ct&h1=ctct&a2=ctct&c2=ctct&d2=ct&e2=ctct&f2=ct&g2=ctct&h2=ct&a3=ct&b3=ctct&c3=ct&d3=ctct&e3=ct&f3=ctct&h3=ctct&a4=ctct&b4=ct&c4=ctct&e4=ctct&f4=ct&g4=ctct&h4=ct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=1488-483,8-483148,831488-4,488-4831
 
 ## Bias Ground with a diagonal in between
