@@ -26,14 +26,7 @@ purpose: test only
 
 # test
 
-pdf-image-test      
-![tttt][pdf-test]        
-<a href="../documents/streched-paris.pdf"><img src="../documents/streched-paris.pdf">a link</a>    
-<embed type="image/pdf" src="../documents/streched-paris.pdf" width="100px" height="200px">                
-
-<embed type="text/pdf" src="../documents/streched-paris.pdf" width="100px" height="100px">      
-nog even dit proberen 2
-<br>
+dit is een nieuwe test: 
 
 <a href="/MAE-gf/images/flanders2/105-1.png"></a>
 <br>
