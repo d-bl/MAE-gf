@@ -34,6 +34,8 @@ pdf-image-test
 <embed type="text/pdf" src="../documents/streched-paris.pdf" width="100px" height="100px">      
 nog even dit proberen 2
 
+<a href="/MAE-gf/images/flanders2/105-1.png"</a>
+
 [pdf-test]: ../documents/streched-paris.pdf
 
 ![test][svg-test]   
