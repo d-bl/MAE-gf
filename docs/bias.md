@@ -22,7 +22,6 @@ title: Bias grounds
 * [Stretched](#stretched)
 
 ## Introduction
-![p-tradbias]
 Traditionally, a bias ground is made as follows: make two stitches diagonally, make a stitch in the middle with these two, make two diagonal, stitch in the middle, etc.         
 
 ## Traditional Bias Ground
