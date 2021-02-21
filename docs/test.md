@@ -28,7 +28,7 @@ purpose: test only
 
 dit is een nieuwe test: 
 
-<a href="/MAE-gf/images/flanders2/105-1.png"></a>
+<a img src="/MAE-gf/images/flanders2/105-1.png"></a>
 <br>
 
 [pdf-test]: ../documents/streched-paris.pdf
