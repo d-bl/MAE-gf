@@ -70,7 +70,7 @@ We can make many variants, by applying two or more different stitches for the mi
 
 ### Other changes
 ![p-note-3] ![p-note-4]
-More variants can be made by making connections at the corners, indicated in purple, like the rose-ground. And there is also the top and bottom stitches to play with.     
+More variants can be made by making connections at the corners, indicated in purple, like the rose-ground. And there is also the other stitches to play with.     
 <p style="clear: both"></p>
 
 [p-note-1]: ../images/variants/g-bias-1.png?align=right "traditional bias"
