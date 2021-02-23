@@ -16,7 +16,7 @@ title: making variants
 On this page we show how variants can be made on some grounds.     
 The colors in the pictures have no specific meaning.   
 
-Think also of stitches like: <span class="stch">nothing</span>, <span class="stch">c</span> (cross only), <span class="stch">cc</span> (double cross).      
+Think also of stitches like: <span class="stch">nothing</span>, <span class="stch">c</span> (cross only), <span class="stch">cc</span> (double cross), <span class="stch">ctttc</span>.      
 
 ## Rose ground  
 ![corners][p-corners]      
@@ -35,9 +35,7 @@ An easy way to make a variant on a Rose ground, is by changing the corner stitch
 
 ### Changing sides
 Other variations can be made by "doing nothing" on the sides, indicated in yellow in the picture above.     
-
-### Chaning top and bottom 
-If both pins on top and bottom (blue in picture) are replaced with only one pin in the middle, we'll get a Paris ground. See [_stretched Paris ground_][page-stretched-paris]. Some of these variants can also be made as diagonal nets.      
+If both pins on top and bottom (blue in picture) are replaced with only one pin in the middle, while "doing nothing" on the sides, we'll get a Paris ground. See [_stretched Paris ground_][page-stretched-paris]. Some of these variants can also be made as diagonal nets.   
 
 [0501-O]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=t&c1=ctct&b1=t&a1=tctc&d2=crc&b2=clc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [0502-O]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=-&c1=ctct&b1=-&a1=tctc&d2=crc&b2=clc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -70,20 +68,15 @@ Traditionally, a bias ground is made as follows: make two stitches diagonally, m
 We can make many variants, by applying two or more different stitches for the middle stitch, see the dots in the picture.               
 <p style="clear: both"></p>
 
-### Changing corners
-![p-note-3]
-More variants can be made by making connections at the corners, indicated in purple, like the rose-ground.    
-<p style="clear: both"></p>
-
-### Changing sides, top and bottom
-![p-note-4]
-... and there is also the top, bottom and sides to play with.     
+### Other changes
+![p-note-3] ![p-note-4]
+More variants can be made by making connections at the corners, indicated in purple, like the rose-ground. And there is also the top and bottom stitches to play with.     
 <p style="clear: both"></p>
 
 [p-note-1]: ../images/variants/g-bias-1.png?align=right "traditional bias"
 [p-note-2]: ../images/variants/g-bias-2.png?align=right "bias variant 1"
-[p-note-3]: ../images/variants/g-bias-3.png?align=right "variant 1 with crossings"
-[p-note-4]: ../images/variants/g-bias-4.png?align=right "bias with all colors"
+[p-note-3]: ../images/variants/g-bias-3.png "variant 1 with crossings"
+[p-note-4]: ../images/variants/g-bias-4.png "bias with all colors"
 
 ## Little snowflake, crossed in corner
 ![p-snowcorner] ![p-snowside]   
