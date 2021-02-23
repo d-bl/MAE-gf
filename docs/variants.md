@@ -61,7 +61,7 @@ If both pins on top and bottom (blue in picture) are replaced with only one pin 
 ## Bias ground
 ### Changing middle stitch
 ![p-bias-2]
-Traditionally, a bias ground is made as follows: make two stitches diagonally, make a stitch in the middle with these two, make two diagonal, stitch in the middle, etc. Usually, the same stitch is applied for this connecting stitch in the middle. See the big dots on the picture to the right.          
+Traditionally, a bias ground is made as follows: make two stitches diagonally, make a stitch in the middle with these two, make two diagonal, stitch in the middle, etc. Usually, the same stitch is applied for this connecting stitch in the middle. See the big dots on the picture.          
 We can make many variants, by applying two or more different stitches for the middle stitch, see the dots in the picture.               
 <p style="clear: both"></p>
 
@@ -80,7 +80,7 @@ More variants can be made by making connections at the corners, indicated in pur
 The same way as with the roseground, variants can be made by changing the corners, indicated with purple dots in the picture above.
 
 ### Changing sides
-The little snowflake has two stitches on each side, indicated with a big yellow dot on the picture above. Some variants benefit with an extra pin between the pairs 1 and 2, and 3 and 4.    
+The little snowflake has two stitches on each side, indicated without dots on the picture above. Some variants benefit with an extra pin between the pairs 1 and 2, and 3 and 4.    
 
 [p-snowcorner]: ../images/variants/g-snowcorner.png "little snowflake crossed"
 
