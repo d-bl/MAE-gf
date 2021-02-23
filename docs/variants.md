@@ -19,7 +19,7 @@ The colors in the pictures have no specific meaning.
 Think also of stitches like: <span class="stch">nothing</span>, <span class="stch">c</span> (cross only), <span class="stch">cc</span> (double cross), <span class="stch">ctttc</span>.      
 
 ## Rose ground  
-![corners][p-corners]      
+![rose ground][p-roseground]      
 
 ### Changing corners
 An easy way to make a variant on a Rose ground, is by changing the corner stitches, indicated in purple in the picture above. See the following examples of the same rose ground. Of course, there are more possibilities, e.g. <span class="stch">lctcr</span> and <span class="stch">rctcl</span>. The first two examples, without a cross at the corners, are a diamond net ground.   
@@ -46,7 +46,7 @@ If both pins on top and bottom (blue in picture) are replaced with only one pin 
 [0502-KF]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ctctctc&c1=ctct&b1=ctctctc&a1=tctc&d2=crc&b2=clc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [0502-NF]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=tctctct&c1=ctct&b1=tctctct&a1=tctc&d2=crc&b2=clc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[p-corners]: ../images/variants/g-rosecorner.png "corners and sides"
+[p-roseground]: ../images/variants/g-rosecorner.png "corners and sides"
 [p-x]: ../images/variants/d-0501-x.png "nothing"
 [p-c]: ../images/variants/d-0501-c.png "cross only"
 [p-cc]: ../images/variants/d-0501-ctc.png "ctc"
@@ -60,26 +60,21 @@ If both pins on top and bottom (blue in picture) are replaced with only one pin 
 
 ## Bias ground
 ### Changing middle stitch
-![p-note-1]
-Traditionally, a bias ground is made as follows: make two stitches diagonally, make a stitch in the middle with these two, make two diagonal, stitch in the middle, etc. Usually, the same stitch is applied for this connecting stitch in the middle. See the green dots on the picture to the right.          
-<p style="clear: both"></p>
-
-![p-note-2]
+![p-bias-2]
+Traditionally, a bias ground is made as follows: make two stitches diagonally, make a stitch in the middle with these two, make two diagonal, stitch in the middle, etc. Usually, the same stitch is applied for this connecting stitch in the middle. See the big dots on the picture to the right.          
 We can make many variants, by applying two or more different stitches for the middle stitch, see the dots in the picture.               
 <p style="clear: both"></p>
 
 ### Other changes
-![p-note-3] ![p-note-4]
+![p-bias-3]
 More variants can be made by making connections at the corners, indicated in purple, like the rose-ground. And there is also the other stitches to play with.     
 <p style="clear: both"></p>
 
-[p-note-1]: ../images/variants/g-bias-1.png?align=right "traditional bias"
-[p-note-2]: ../images/variants/g-bias-2.png?align=right "bias variant 1"
-[p-note-3]: ../images/variants/g-bias-3.png "variant 1 with crossings"
-[p-note-4]: ../images/variants/g-bias-4.png "bias with all colors"
+[p-bias-2]: ../images/variants/g-bias-2.png?align=left "bias variant 1"
+[p-bias-3]: ../images/variants/g-bias-3.png?align=left "variant 1 with crossings"
 
 ## Little snowflake, crossed in corner
-![p-snowcorner] ![p-snowside]   
+![p-snowcorner]
 
 ### Changing corners
 The same way as with the roseground, variants can be made by changing the corners, indicated with purple dots in the picture above.
@@ -88,7 +83,6 @@ The same way as with the roseground, variants can be made by changing the corner
 The little snowflake has two stitches on each side, indicated with a big yellow dot on the picture above. Some variants benefit with an extra pin between the pairs 1 and 2, and 3 and 4.    
 
 [p-snowcorner]: ../images/variants/g-snowcorner.png "little snowflake crossed"
-[p-snowside]: ../images/variants/g-snowside.png "little snowflake crossed"
 
 ***
 [&uArr;]()
