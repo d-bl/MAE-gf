@@ -28,21 +28,54 @@ Traditionally, a bias ground is made as follows: make two stitches diagonally, m
 ![traditional][p-0221-tr] 
 <p style="clear: both"></p>
 
+[p-0221-tr]: ../images/bias/g-bias-tr.svg?align=left "traditional bias ground"
+
 ### examples with one middle stitch
+[![0221-N][P-0221-N]][T-0221-N]
+[![0246-N][P-0246-N]][T-0246-N]
+
+
+[P-0221-N]: ../images/bias/0221-N.png "traditional"
+[P-0246-N]: ../images/bias/0246-N.png
+
+[T-0221-N]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ct&c1=ctct&a1=ctct&d2=ctct&b2=ctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0246-N]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ct&c1=ctc&a1=ctct&d2=ctcr&b2=ctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+
+
+
+
+
+
 * [ground 0228][T-0228-OD]   
 
+[T-0228-OD]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=tct&a2=tct&b2=ctc&d2=ctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=6-48,86-4
+
+
 ### examples with two different middle stitches
+[![0223-N][P-0223-N]][T-0223-N]
+[![0224-K][P-0224-K]][T-0224-K]
+[![0204-Kd][P-0204-Kd]][T-0204-Kd]
+
+[P-0223-N]: ../images/bias/0223-N.png
+[P-0224-K]: ../images/bias/0224-K.png
+[P-0204-Kd]: ../images/bias/0204-Kd.png
+
+[T-0223-N]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctct&c1=ctct&a1=ctct&d2=ctct&b2=ctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0224-K]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=tctct&c1=ctc&a1=ctcl&d2=ctc&b2=ctcl&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0204-Kd]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=c&c1=ctctcl&a1=ctctct&d2=ctct&b2=ctcl&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+
+
+
 * [ground 0225][T-0225-L]
 
-[p-0221-tr]: ../images/bias/g-bias-tr.svg?align=left "traditional bias ground"
-[T-0228-OD]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=tct&a2=tct&b2=ctc&d2=ctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=6-48,86-4
 [T-0225-L]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=tctct&c1=ctc&a1=rrctc&d2=ctc&b2=rrctc&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ##  Bias Ground crossed rose style
 ![crossed][P-0221-at]
-* [Whiting D6][T-wi-D6], [Whiting F4][T-wi-F4], [ground 0278][T-0278-KG]
+* [Whiting D6][T-wi-D6], [Whiting F4][T-wi-F4], [example][T-0278-KG]
 
 [P-0221-at]: ../images/bias/g-bias-at.svg "tradtional bias crossed"
+
 [T-wi-D6]: /GroundForge/tiles?whiting=D6_P139&patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&d1=ct&a2=ct&b2=ctct&c2=ct&d2=ctct&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=8-48,8314
 [T-wi-F4]: /GroundForge/tiles?whiting=F4_P180&patchWidth=12&patchHeight=12&a1=ctcrrctc&c1=ctcllctc&d1=ctc&a2=ctc&b2=ctc&c2=ctc&d2=ctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=8-48,8314
 [T-0278-KG]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=c&a2=c&b2=ctct&c2=c&d2=tctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=8-48,8314
@@ -82,10 +115,13 @@ Traditionally, a bias ground is made as follows: make two stitches diagonally, m
 
 ## Short Bias
 ### Solo
-Take just one unit of the Bias ground and place them all in the same direction (ground 0228 S), or in alternating directions (ground 0228 A). The latter may give nice results in two colours. The placing of the units in alternating directions is also shown in mrs Irvine's paper _Developing a Mathematical Model for Bobbin Lace_. 
+Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter may give nice results in two colours. The placing of the units in alternating directions is also shown in mrs Irvine's paper _Developing a Mathematical Model for Bobbin Lace_. 
 
-![same direction][pic-0228-OG] ![alternating][pic-0228-OGy] ![short bias foto][foto-0228-OGy] 
-* [ground 0228 S][T-0228-OG], [ground 0228 A][T-0228-OGy], [VI][T-0267-OGy]
+![short bias foto][foto-0228-OGy]     
+
+[![same direction][pic-0228-OG]][T-0228-OG]
+[![alternating][pic-0228-OGy]][T-0228-OGy]  
+* [example VI][T-0267-OGy]
 
 [pic-0228-OG]: ../images/bias/g-0228-OG.svg "units in same direction"
 [pic-0228-OGy]: ../images/bias/g-0228-OGy.svg "units in alternating directions"
@@ -99,7 +135,7 @@ Take just one unit of the Bias ground and place them all in the same direction (
 Take one unit of the Bias ground, place them in alternating directions, and cross at the corners.            
 <p style="clear: both"></p>
 
-[p-0248]: ../images/bias/g-02YQ2.svg?align=left "ground 0248"
+[p-0248]: ../images/bias/g-02YQ2.svg?align=left "alternating and crossed"
 [t-0248]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&b1=ctc&a1=tct&d2=c&c2=ctc&b2=c&a2=ctc&d3=ctc&c3=tct&b3=ctc&d4=c&c4=ctc&b4=c&a4=ctc&tile=88-4,4831,-117,3178,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Double bias
@@ -113,7 +149,7 @@ Take one unit of the Bias ground, place them in alternating directions, and cros
 [![bias with vertical][p-3228]][t-3228]
 <p style="clear: both"></p>
 
-[p-3228]: ../images/bias/G32.svg?align=left "ground 3228"
+[p-3228]: ../images/bias/G32.svg?align=left "bias with vertical"
 [t-3228]: /GroundForge/tiles?patchWidth=12&patchHeight=20&b1=ctc&c1=ctc&d1=ctc&b2=ctc&c2=ctctc&d2=ctc&b3=ctcr&c3=ctc&d3=ctcl&a4=ttctctt&tile=-C3B,-488,-148,5---&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Stretched
@@ -124,9 +160,9 @@ The one on the left is a bias ground, stretched vertically, as found in the Whit
 [![0759][p-stretched-73]][T-0759]
 [![0775][p-stretched-74]][T-0775]
 
-[p-stretched-71]: ../images/bias/w-stretched-71.png "ground 0714"
-[p-stretched-73]: ../images/bias/w-stretched-73.png "ground 0759"
-[p-stretched-74]: ../images/bias/w-stretched-74.png "ground 0775"
+[p-stretched-71]: ../images/bias/w-stretched-71.png 
+[p-stretched-73]: ../images/bias/w-stretched-73.png 
+[p-stretched-74]: ../images/bias/w-stretched-74.png 
 
 [T-0714]: /GroundForge/tiles?patchWidth=12&patchHeight=20&a1=ctctctc&b1=tct&c1=ctctctc&b2=ctc&a3=ctc&c3=ctc&d4=ctc&tile=B8D-,-4--,B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 [T-0759]: /GroundForge/tiles?patchWidth=12&patchHeight=20&b1=ctc&a2=ctctctc&c2=tct&b3=ctc&a4=tct&c4=ctctctc&b5=ctc&a6=ctc&c6=ctc&tile=-5--,B-C-,-5--,B-C-,-5--,B-C-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6
