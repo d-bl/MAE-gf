@@ -42,15 +42,6 @@ Traditionally, a bias ground is made as follows: make two stitches diagonally, m
 [T-0246-N]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ct&c1=ctcr&a1=ctct&d2=ctcr&b2=ctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 
-
-
-
-
-* [ground 0228][T-0228-OD]   
-
-[T-0228-OD]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=tct&a2=tct&b2=ctc&d2=ctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=6-48,86-4
-
-
 ### examples with two different middle stitches
 [![0223-N][P-0223-N]][T-0223-N]
 [![0224-K][P-0224-K]][T-0224-K]
@@ -64,11 +55,6 @@ Traditionally, a bias ground is made as follows: make two stitches diagonally, m
 [T-0224-K]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=tctct&c1=ctc&a1=ctcl&d2=ctc&b2=ctcl&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0204-Kd]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=c&c1=ctctcl&a1=ctctct&d2=ctct&b2=ctcl&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-
-
-* [ground 0225][T-0225-L]
-
-[T-0225-L]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=tctct&c1=ctc&a1=rrctc&d2=ctc&b2=rrctc&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ##  Bias Ground crossed rose style
 ![crossed][P-0221-at]
@@ -115,7 +101,7 @@ Traditionally, a bias ground is made as follows: make two stitches diagonally, m
 
 ## Short Bias
 ### Solo
-![short bias foto][foto-0228-OGy]  
+![short bias foto][foto-0228-OGy] 
 Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter may give nice results in two colours. The placing of the units in alternating directions is also shown in mrs Irvine's paper _Developing a Mathematical Model for Bobbin Lace_. 
 <p style="clear: both"></p>
 
