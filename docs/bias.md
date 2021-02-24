@@ -32,8 +32,7 @@ Traditionally, a bias ground is made as follows: make two stitches diagonally, m
 
 ### examples with one middle stitch
 [![0221-N][P-0221-N]][T-0221-N]
-[![0246-N][P-0246-N]][T-0246-N]       
-
+[![0246-N][P-0246-N]][T-0246-N] 
 [![0212-K][P-0212-K]][T-0212-K]
 [![0214-N][P-0214-N]][T-0214-N]
 [![0245-Ld][P-0245-Ld]][T-0245-Ld]
@@ -61,7 +60,6 @@ Traditionally, a bias ground is made as follows: make two stitches diagonally, m
 [![0223-N][P-0223-N]][T-0223-N]
 [![0224-K][P-0224-K]][T-0224-K]
 [![0204-Kd][P-0204-Kd]][T-0204-Kd]
-
 [![0247-Dd][P-0247-Dd]][T-0247-Dd]
 
 [P-0223-N]: ../images/bias/0223-N.png
