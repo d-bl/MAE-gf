@@ -61,7 +61,7 @@ Traditionally, a bias ground is made as follows: make two stitches diagonally, m
 [T-0274-Kd]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=cl&c1=ctcl&a1=ctct&d2=ctcl&b2=ctct&a2=cl&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0277-Kd]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=cr&c1=ctct&a1=ctct&d2=ctcl&b2=ctcl&a2=cl&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0250-L]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=lctcr&c1=ctc&a1=ctcl&d2=ctcr&b2=ctcl&a2=ctcr&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0279-K]: /GroundForg/tiles?patchWidth=12&patchHeight=12&d1=cr&c1=ctcr&a1=ctcl&d2=ctcr&b2=ctcl&a2=cr&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0279-K]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=cr&c1=ctcr&a1=ctcl&d2=ctcr&b2=ctcl&a2=cr&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 
 
