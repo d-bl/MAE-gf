@@ -32,14 +32,29 @@ Traditionally, a bias ground is made as follows: make two stitches diagonally, m
 
 ### examples with one middle stitch
 [![0221-N][P-0221-N]][T-0221-N]
-[![0246-N][P-0246-N]][T-0246-N]
+[![0246-N][P-0246-N]][T-0246-N]       
 
+[![0212-K][P-0212-K]][T-0212-K]
+[![0214-N][P-0214-N]][T-0214-N]
+[![0245-Ld][P-0245-Ld]][T-0245-Ld]
+[![0274-Kd][P-0274-Kd]][T-0274-Kd]
+[![0277-Kd][P-0277-Kd]][T-0277-Kd]
 
 [P-0221-N]: ../images/bias/0221-N.png "traditional"
 [P-0246-N]: ../images/bias/0246-N.png
+[P-0212-K]: ../images/bias/0212-K.png
+[P-0214-N]: ../images/bias/0214-N.png
+[P-0245-Ld]: ../images/bias/0245-Ld.png
+[P-0274-Kd]: ../images/bias/0274-Kd.png
+[P-0277-Kd]: ../images/bias/0277-Kd.png
 
 [T-0221-N]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ct&c1=ctct&a1=ctct&d2=ctct&b2=ctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0246-N]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ct&c1=ctcr&a1=ctct&d2=ctcr&b2=ctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0212-K]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=cl&c1=ctctc&a1=ctctct&d2=ctctc&b2=ctctct&a2=cl&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0214-N]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ct&c1=ctctc&a1=ctctct&d2=ctctc&b2=ctctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0245-Ld]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=lctcr&c1=tctcl&a1=ctct&d2=ctcl&b2=ctc&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0274-Kd]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=cl&c1=ctcl&a1=ctct&d2=ctcl&b2=ctct&a2=cl&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0277-Kd]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=cr&c1=ctct&a1=ctct&d2=ctcl&b2=ctcl&a2=cl&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 
 ### examples with two different middle stitches
@@ -47,13 +62,17 @@ Traditionally, a bias ground is made as follows: make two stitches diagonally, m
 [![0224-K][P-0224-K]][T-0224-K]
 [![0204-Kd][P-0204-Kd]][T-0204-Kd]
 
+[![0247-Dd][P-0247-Dd]][T-0247-Dd]
+
 [P-0223-N]: ../images/bias/0223-N.png
 [P-0224-K]: ../images/bias/0224-K.png
 [P-0204-Kd]: ../images/bias/0204-Kd.png
+[P-0247-Dd]: ../images/bias/0247-Dd.png
 
 [T-0223-N]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctct&c1=ctct&a1=ctct&d2=ctct&b2=ctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0224-K]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=tctct&c1=ctc&a1=ctcl&d2=ctc&b2=ctcl&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0204-Kd]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=c&c1=ctctcl&a1=ctctct&d2=ctct&b2=ctcl&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0247-Dd]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctct&c1=ctct&a1=ctct&d2=ctcl&b2=ctct&a2=ctcl&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 
 ##  Bias Ground crossed rose style
