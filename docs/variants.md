@@ -14,7 +14,7 @@ title: making variants
 
 ## Introduction
 On this page we show how variants can be made on some grounds.     
-The colors in the pictures have no specific meaning.   
+The colours in the pictures have no specific meaning.   
 
 Think also of stitches like: <span class="stch">nothing</span>, <span class="stch">c</span> (cross only), <span class="stch">cc</span> (double cross), <span class="stch">ctttc</span>.      
 
@@ -22,7 +22,7 @@ Think also of stitches like: <span class="stch">nothing</span>, <span class="stc
 ![rose ground][p-roseground]      
 
 ### Changing corners
-An easy way to make a variant on a Rose ground, is by changing the corner stitches, indicated in purple in the picture above. See the following examples of the same rose ground. Of course, there are more possibilities, e.g. <span class="stch">lctcr</span> and <span class="stch">rctcl</span>. The first two examples, without a cross at the corners, are a diamond net ground.   
+An easy way to make variants on a Rose ground, is by changing the corner stitches, indicated in purple in the picture above. See the following examples of the same rose ground. Of course, there are more possibilities, e.g. <span class="stch">lctcr</span> and <span class="stch">rctcl</span>. The first two examples, without a cross at the corners, are a diamond net ground.   
 
 [![nothing][p-x]][0502-O]
 [![twist][p-t]][0501-O]
@@ -67,7 +67,7 @@ We can make many variants, by applying two or more different stitches for the mi
 
 ### Other changes
 ![p-bias-3]
-More variants can be made by making connections at the corners, indicated in purple, like the rose-ground. And there is also the other stitches to play with.     
+More variants can be made by making connections at the corners, indicated in purple, like the rose-ground. And there are also the other stitches to play with.     
 <p style="clear: both"></p>
 
 [p-bias-2]: ../images/variants/g-bias-2.png?align=left "bias variant 1"
@@ -80,7 +80,7 @@ More variants can be made by making connections at the corners, indicated in pur
 The same way as with the roseground, variants can be made by changing the corners, indicated with purple dots in the picture above.
 
 ### Changing sides
-The little snowflake has two stitches on each side, indicated without dots on the picture above. Some variants benefit with an extra pin between the pairs 1 and 2, and 3 and 4.    
+The little snowflake has two stitches on each side, indicated with no dots on the picture above. Some variants benefit with an extra pin between the pairs 1 and 2, and 3 and 4.    
 
 [p-snowcorner]: ../images/variants/g-snowcorner.png "little snowflake crossed"
 
