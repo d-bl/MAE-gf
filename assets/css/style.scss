@@ -10,11 +10,12 @@ header a.button { background-color: #2e7bcf; }
 /* stitches & elements */
 .stch {border: 1px solid #DBE7F3; background-color: #F2F8FC;}
 .elem {border: 1px solid #DBE7F3;}
-.b-grey {background-color: white; color: #808080;}
-.b-gree {background-color: white; color: #008000;} 
-.b-purp {background-color: white; color: #800080;} 
-.b-red  {background-color: white; color: #FF0000;} 
-.b-blue {background-color: white; color: #0000FF;} 
+.b-grey {color: #808080; font-weight: bold;}
+.b-gree {color: #008000; font-weight: bold;} 
+.b-purp {color: #800080; font-weight: bold;} 
+.b-red  {color: #FF0000; font-weight: bold;} 
+.b-blue {color: #0000FF; font-weight: bold;} 
+.b-blck {color: #000000; font-weight: bold;} 
 
 /* copied from Jo Pol */
 #sidebar hr { height: 12px; border: 0; box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.2); }
