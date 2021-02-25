@@ -81,7 +81,7 @@ The following patterns I created one quarter turned, so you had to work "upwards
 
 ## Bias and Paris ground
 [![bias and paris][p-2111]][t-2111]
-As the pattern above, this pattern also was created one quarter turned.              
+As the pattern above, this pattern also was originally created with the "double bias" one quarter turned.              
          
 <p style="clear: both"></p>
 
