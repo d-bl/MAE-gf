@@ -36,7 +36,7 @@ Stitches used in the examples on these pages:
 * Cloth stitch = cross, twist, cross. Coloured <span class="b-purp">purple</span>.
 * Whole stitch &amp; twist (double stitch) = (twist if not already done), cross, twist, cross, twist. Coloured <span class="b-red">red</span>.
 * Plaits = (twist,) cross, twist, cross, twist, cross (, twist), .... . Coloured <span class="b-blue">blue</span>.      
-* All other stitches in black.
+* All other stitches in <span class="b-blck">black</span>.
 <p style="clear: both"></p>
 
 Sometimes, onorthodox stitches are used, like <span class="stch">cross only</span> or <span class="stch">crcllcrc</span>, as in the [_Sunny Stitch_][ex-sun].    
