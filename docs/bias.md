@@ -42,12 +42,12 @@ Traditionally, a bias ground is made as follows: make two stitches diagonally, m
 
 [![0254-Kd][P-0254-Kd]][T-0254-Kd]
 [![0265-Nd][P-0265-Nd]][T-0265-Nd]
-[![0250-L][P-0250-L]][T-0250-L]
 [![0255-Kd][P-0255-Kd]][T-0255-Kd]
 [![0279-K][P-0279-K]][T-0279-K]
 [![0274-Kd][P-0274-Kd]][T-0274-Kd]
 [![0236-Ld][P-0236-Ld]][T-0236-Ld]
 [![0268-Ld][P-0268-Ld]][T-0268-Ld]
+[![0250-L][P-0250-L]][T-0250-L]
 [![0257-Ld][P-0257-Ld]][T-0257-Ld]
 
 [P-0221-N]: ../images/bias/0221-N.png "traditional"
