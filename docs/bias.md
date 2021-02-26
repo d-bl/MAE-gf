@@ -33,21 +33,22 @@ Traditionally, a bias ground is made as follows: make two stitches diagonally, m
 ### examples with one middle stitch
 [![0221-N][P-0221-N]][T-0221-N]
 [![0246-N][P-0246-N]][T-0246-N] 
+[![0228-N][P-0228-N]][T-0228-N]
 [![0212-K][P-0212-K]][T-0212-K]
 [![0214-N][P-0214-N]][T-0214-N]
 [![0245-Ld][P-0245-Ld]][T-0245-Ld]
-[![0274-Kd][P-0274-Kd]][T-0274-Kd]
 [![0277-Kd][P-0277-Kd]][T-0277-Kd]
 [![0250-L][P-0250-L]][T-0250-L]
-[![0279-K][P-0279-K]][T-0279-K]
-[![0228-N][P-0228-N]][T-0228-N]
 [![0255-Kd][P-0255-Kd]][T-0255-Kd]
-[![0257-Ld][P-0257-Ld]][T-0257-Ld]
-[![0265-Nd][P-0265-Nd]][T-0265-Nd]
-[![0268-Ld][P-0268-Ld]][T-0268-Ld]
 [![0229-Kd][P-0229-Kd]][T-0229-Kd]
-[![0236-Ld][P-0236-Ld]][T-0236-Ld]
+
 [![0254-Kd][P-0254-Kd]][T-0254-Kd]
+[![0265-Nd][P-0265-Nd]][T-0265-Nd]
+[![0279-K][P-0279-K]][T-0279-K]
+[![0274-Kd][P-0274-Kd]][T-0274-Kd]
+[![0236-Ld][P-0236-Ld]][T-0236-Ld]
+[![0268-Ld][P-0268-Ld]][T-0268-Ld]
+[![0257-Ld][P-0257-Ld]][T-0257-Ld]
 
 [P-0221-N]: ../images/bias/0221-N.png "traditional"
 [P-0246-N]: ../images/bias/0246-N.png
@@ -66,8 +67,6 @@ Traditionally, a bias ground is made as follows: make two stitches diagonally, m
 [P-0229-Kd]: ../images/bias/0229-Kd.png
 [P-0236-Ld]: ../images/bias/0236-Ld.png
 [P-0254-Kd]: ../images/bias/0254-Kd.png
-
-
 
 [T-0221-N]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ct&c1=ctct&a1=ctct&d2=ctct&b2=ctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0246-N]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ct&c1=ctcr&a1=ctct&d2=ctcr&b2=ctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -91,13 +90,13 @@ Traditionally, a bias ground is made as follows: make two stitches diagonally, m
 
 ### examples with two different middle stitches
 [![0223-N][P-0223-N]][T-0223-N]
-[![0224-K][P-0224-K]][T-0224-K]
-[![0204-Kd][P-0204-Kd]][T-0204-Kd]
 [![0247-Dd][P-0247-Dd]][T-0247-Dd]
-[![0250-Kd][P-0250-Kd]][T-0250-Kd]
+[![0224-K][P-0224-K]][T-0224-K]
 [![0259-Nd][P-0259-Nd]][T-0259-Nd]
 [![0233-Nd][P-0233-Nd]][T-0233-Nd]
 [![0235-Nd][P-0235-Nd]][T-0235-Nd]
+[![0250-Kd][P-0250-Kd]][T-0250-Kd]
+[![0204-Kd][P-0204-Kd]][T-0204-Kd]
 [![0238-R][P-0238-R]][T-0238-R]
 
 
