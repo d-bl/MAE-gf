@@ -70,7 +70,7 @@ The _Star_ looks like a three paired join, but has crossings instead of twists. 
 
 ## Another fish
 ![Another fish][pic-1111]
-The following patterns I created one quarter turned, so you had to work "upwards" from one square to another. As Groundforge does not support going upwards, the pattern in Groundforge is turned one quarter.   
+The following patterns I created one quarter turned, so you have to work "upwards" from one square to another. As Groundforge does not support going upwards, the pattern in Groundforge is turned one quarter.   
 
 <p style="clear: both"></p>
 
