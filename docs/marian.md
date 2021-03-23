@@ -28,12 +28,10 @@ The traditional units separated with plaits. Please note: the plaits should stay
 * [rose-ground-unit][T-0116], [snowflake-unit][T-0342], [bias-unit][T-0278]
 <p style="clear: both"></p>
 
-![snowflake-unit][p-0342]
 The snowflake-unit example is meant to be made with pins at the sides of the snowflake-unit. The ground came into being as a half stitch spider, but forgetting the twists at the corners. The unit resembles ground 3054 from _U. Ulrich: Gründe mit System_, which has no side pins, and does not cross at the corners.
 <p style="clear: both"></p>
 
 [p-fusion]: ../images/marian/G-fusion.svg?align=right "fusion"
-[p-0342]: ../images/marian/0342-KF.png?align=right
 
 [T-0116]: /GroundForge/tiles?patchWidth=16&patchHeight=16&c1=ctctctctctc&b1=ctctc&a1=ctctctctctc&c2=ctc&a2=ctc&c3=-&b3=ctctc&a3=-&tile=q3s-,4-7-,158-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 [T-0342]: /GroundForge/tiles?patchWidth=16&patchHeight=16&c1=ctctctctctc&b1=ct&a1=ctctctctctc&c2=ct&a2=ct&b3=ctct&c4=cl&a4=cr&c5=-&b5=c&a5=-&tile=Q3S,4-7,-5-,B-C,158&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=5
