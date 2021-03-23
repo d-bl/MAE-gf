@@ -29,7 +29,7 @@ The traditional units separated with plaits. Please note: the plaits should stay
 <p style="clear: both"></p>
 
 ![snowflake-unit][p-0342]
-This example is meant to be made with pins at the sides of the snowflake-unit, as shown in the picture. The ground came into being as a half stitch spider, but forgetting the twists at the corners. The unit resembles ground 3054 from _U. Ulrich: Gründe mit System_, which has no side pins, and does not cross at the corners.
+The snowflake-unit example is meant to be made with pins at the sides of the snowflake-unit, as shown in the picture. The ground came into being as a half stitch spider, but forgetting the twists at the corners. The unit resembles ground 3054 from _U. Ulrich: Gründe mit System_, which has no side pins, and does not cross at the corners.
 <p style="clear: both"></p>
 
 [p-fusion]: ../images/marian/G-fusion.svg?align=right "fusion"
@@ -62,7 +62,7 @@ The _Star_ looks like a three paired join, but has crossings instead of twists. 
 * [ants][T-0665], [star][T-3cc]        
 
 [foto-0692]: ../images/marian/f-0692-foto.jpg
-[pic-0692]: ../images/marian/0692-KF.png 
+[pic-0692]: ../images/marian/0692-KG.png 
 [T-0692]: /GroundForge/tiles?patchWidth=12&patchHeight=16&a1=tctcc&b1=c&c1=cctct&d1=c&b2=c&d2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0665]: /GroundForge/tiles?patchWidth=12&patchHeight=16&a1=ctctct&b1=c&c1=tctctc&d1=c&b2=c&d2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-3cc]: /GroundForge/tiles?patchWidth=12&patchHeight=16&a1=tctc&b1=cc&c1=ctct&d1=cc&b2=c&d2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
