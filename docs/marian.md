@@ -29,7 +29,7 @@ The traditional units separated with plaits. Please note: the plaits should stay
 <p style="clear: both"></p>
 
 ![snowflake-unit][p-0342]
-The snowflake-unit example is meant to be made with pins at the sides of the snowflake-unit, as shown in the picture. The ground came into being as a half stitch spider, but forgetting the twists at the corners. The unit resembles ground 3054 from _U. Ulrich: Gründe mit System_, which has no side pins, and does not cross at the corners.
+The snowflake-unit example is meant to be made with pins at the sides of the snowflake-unit. The ground came into being as a half stitch spider, but forgetting the twists at the corners. The unit resembles ground 3054 from _U. Ulrich: Gründe mit System_, which has no side pins, and does not cross at the corners.
 <p style="clear: both"></p>
 
 [p-fusion]: ../images/marian/G-fusion.svg?align=right "fusion"
