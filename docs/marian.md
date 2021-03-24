@@ -53,7 +53,7 @@ This stitch I created because I wished to see a little loop at the sides of the 
 ## Ants
 [![ants][P-0692]][T-0692]  
 Ants came to life as a variation of the Slavic ground. The result looks like ants.     
-In the ground shown on the picture the threads between the bottom and top position of two units will be <span class="stch">crossed</span> four times. Please note that there are no twists between the <span class="stch">cross only</span> and <span class="stch">whole stitch</span> at the pins.            
+In the ground shown on the picture the threads between the bottom and top position of two units are <span class="stch">crossed</span> four times. Please note that there are no twists between the <span class="stch">cross only</span> and <span class="stch">whole stitch</span> at the pins.            
 The _Star_ looks like a three paired join, but has crossings instead of twists. For the real star see page [_Miscellaneous_][pag-3-join].      
 For more ants, see page [_Rose grounds_][pag-ants].    
 
