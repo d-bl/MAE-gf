@@ -24,10 +24,11 @@ The colour grey in the working diagrams indicates <span class="stch">cross only<
 ## Fusion
 ![fusion][p-fusion]
 The traditional units separated with plaits. Please note: the plaits should stay plaits.       
-The snowflake-unit example is meant to be made with pins at the sides of the snowflake-unit. The ground came into being as a half stitch spider, but forgetting the twists at the corners. The unit resembles ground 3054 from _U. Ulrich: Gründe mit System_, which has no side pins, and does not cross at the corners.
-<p style="clear: both"></p>
-             
+The snowflake-unit example is meant to be made with pins at the sides of the snowflake-unit. The ground came into being as a half stitch spider, but forgetting the twists at the corners. The unit resembles ground 3054 from _U. Ulrich: Gründe mit System_, which has no side pins, and does not cross at the corners.    
+          
 * [rose-ground-unit][T-0116], [snowflake-unit][T-0342], [bias-unit][T-0278]
+
+<p style="clear: both"></p>
 
 [p-fusion]: ../images/marian/G-fusion.svg?align=right "fusion"
 
@@ -54,10 +55,11 @@ This stitch I created because I wished to see a little loop at the sides of the 
 Ants came to life as a variation of the Slavic ground. The result looks like ants.     
 In the ground shown on the picture the threads between the bottom and top position of two units are <span class="stch">crossed</span> four times. Please note that there are no twists between the <span class="stch">cross only</span> and <span class="stch">whole stitch</span> at the pins.            
 The _Star_ looks like a three paired join, but has crossings instead of twists. For the real star see page [_Miscellaneous_][pag-3-join].      
-For more ants, see page [_Rose grounds_][pag-ants].
-<p style="clear: both"></p>
+For more ants, see page [_Rose grounds_][pag-ants].   
 
 * [ants][T-0665], [star][T-3cc]     
+
+<p style="clear: both"></p>
 
 [P-0692]: ../images/marian/0692-KG.png?align=left
 [T-0692]: /GroundForge/tiles?patchWidth=12&patchHeight=16&a1=tctcc&b1=c&c1=cctct&d1=c&b2=c&d2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -67,14 +69,14 @@ For more ants, see page [_Rose grounds_][pag-ants].
 [pag-ants]: ../docs/roses#ants
 
 ## Another fish
-![Another fish][pic-1111]
+![Another fish][P-1111]
 With the following patterns I created you have to work "upwards" from one square to another. As Groundforge does not support going upwards, the pattern in Groundforge is turned one quarter.   
 
 * [example 1][T-1114], [example 2][T-1111]
 
 <p style="clear: both"></p>
 
-[pic-1111]: ../images/marian/G-mine2.svg?align=right 
+[P-1111]: ../images/marian/G-mine2.svg?align=right 
 [T-1111]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctct&c1=ct&b1=ctct&a1=ct&d2=ct&c2=ctct&a2=ctct&d3=ctct&c3=ct&b3=ctct&a3=ct&c4=ctct&b4=ct&a4=ctct&tile=8325,6-76,1563,224-&tileStitch=ct&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [T-1114]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&b1=ctc&c1=tctc&d1=ctc&a2=lctc&c2=ctcr&d2=c&a3=ctct&b3=ctc&c3=tctc&d3=ctc&a4=ctc&b4=c&c4=ctcl&tile=8325,6-76,1563,224-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
