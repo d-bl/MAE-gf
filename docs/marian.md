@@ -25,7 +25,6 @@ The colour grey in the working diagrams indicates <span class="stch">cross only<
 ![fusion][p-fusion]
 The traditional units separated with plaits. Please note: the plaits should stay plaits.       
 The snowflake-unit example is meant to be made with pins at the sides of the snowflake-unit. The ground came into being as a half stitch spider, but forgetting the twists at the corners. The unit resembles ground 3054 from _U. Ulrich: Gründe mit System_, which has no side pins, and does not cross at the corners.
-
 <p style="clear: both"></p>
              
 * [rose-ground-unit][T-0116], [snowflake-unit][T-0342], [bias-unit][T-0278]
@@ -56,7 +55,6 @@ Ants came to life as a variation of the Slavic ground. The result looks like ant
 In the ground shown on the picture the threads between the bottom and top position of two units are <span class="stch">crossed</span> four times. Please note that there are no twists between the <span class="stch">cross only</span> and <span class="stch">whole stitch</span> at the pins.            
 The _Star_ looks like a three paired join, but has crossings instead of twists. For the real star see page [_Miscellaneous_][pag-3-join].      
 For more ants, see page [_Rose grounds_][pag-ants].
-
 <p style="clear: both"></p>
 
 * [ants][T-0665], [star][T-3cc]     
@@ -83,7 +81,7 @@ With the following patterns I created you have to work "upwards" from one square
 ## Bias and Paris ground
 [![bias and paris][p-2111]][t-2111]
 As the previous pattern, the pattern in Groundforge is turned one quarter.                  
-         
+
 <p style="clear: both"></p>
 
 [p-2111]: ../images/marian/G-mine1.svg?align=left
