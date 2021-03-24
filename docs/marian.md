@@ -51,15 +51,14 @@ This stitch I created because I wished to see a little loop at the sides of the 
 [T-0902-q]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctctc&b1=cttt&c1=ctcttt&e1=ctcttt&f1=cttt&b2=ctcttt&c2=c&d2=ctctc&e2=c&f2=ctcttt&a3=ctcttt&c3=crcllcrc&e3=clcrrclc&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
 ## Ants
-[![ants][P-0692]][T-0692]  
+[![ants][P-0692]][T-0692]
 Ants came to life as a variation of the Slavic ground. The result looks like ants.     
 In the ground shown on the picture the threads between the bottom and top position of two units are <span class="stch">crossed</span> four times. Please note that there are no twists between the <span class="stch">cross only</span> and <span class="stch">whole stitch</span> at the pins.            
 The _Star_ looks like a three paired join, but has crossings instead of twists. For the real star see page [_Miscellaneous_][pag-3-join].      
-For more ants, see page [_Rose grounds_][pag-ants].    
+For more ants, see page [_Rose grounds_][pag-ants].   
 
- <p style="clear: both"></p>
-
-* [ants][T-0665], [star][T-3cc]        
+* [ants][T-0665], [star][T-3cc]      
+<p style="clear: both"></p>  
 
 [P-0692]: ../images/marian/0692-KG.png?align=left
 [T-0692]: /GroundForge/tiles?patchWidth=12&patchHeight=16&a1=tctcc&b1=c&c1=cctct&d1=c&b2=c&d2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -72,9 +71,8 @@ For more ants, see page [_Rose grounds_][pag-ants].
 ![Another fish][pic-1111]
 With the following patterns I created you have to work "upwards" from one square to another. As Groundforge does not support going upwards, the pattern in Groundforge is turned one quarter.   
 
-<p style="clear: both"></p>
-
 * [example 1][T-1114], [example 2][T-1111]
+<p style="clear: both"></p>
 
 [pic-1111]: ../images/marian/G-mine2.svg?align=left 
 [T-1111]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctct&c1=ct&b1=ctct&a1=ct&d2=ct&c2=ctct&a2=ctct&d3=ctct&c3=ct&b3=ctct&a3=ct&c4=ctct&b4=ct&a4=ctct&tile=8325,6-76,1563,224-&tileStitch=ct&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
