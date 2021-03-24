@@ -53,24 +53,25 @@ This stitch I created because I wished to see a little loop at the sides of the 
 ## Ants
 Ants came to life as a variation of the Slavic ground. The result looks like ants.     
 In the ground shown on the photo the threads between the bottom and top position of two units will be <span class="stch">crossed</span> four times. Please note that there are no twists between the <span class="stch">cross only</span> and <span class="stch">whole stitch</span> at the pins.            
-The _Star_ looks like a three paired join, but has crossings instead of twists. For the real star see page [_Miscellaneous_][p-3-join].      
+The _Star_ looks like a three paired join, but has crossings instead of twists. For the real star see page [_Miscellaneous_][pag-3-join].      
+For more ants, see page [_Rose grounds_][pag-ants]    
 
-(click on photo)
-[![ants-foto][foto-0692]][T-0692]              
+[![ants][P-0692]][T-0692]     
 
 <p style="clear: both"></p>
 
 * [ants][T-0665], [star][T-3cc]        
 
-[foto-0692]: ../images/marian/f-0692-foto.jpg?align=left
+[P-0692]: ../images/marian/0692-KG.png
 [T-0692]: /GroundForge/tiles?patchWidth=12&patchHeight=16&a1=tctcc&b1=c&c1=cctct&d1=c&b2=c&d2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0665]: /GroundForge/tiles?patchWidth=12&patchHeight=16&a1=ctctct&b1=c&c1=tctctc&d1=c&b2=c&d2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-3cc]: /GroundForge/tiles?patchWidth=12&patchHeight=16&a1=tctc&b1=cc&c1=ctct&d1=cc&b2=c&d2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[p-3-join]: ../docs/misca#3-paired-join   
+[pag-3-join]: ../docs/misca#3-paired-join  
+[pag-ants]: ../docs/roses#ants
 
 ## Another fish
 ![Another fish][pic-1111]
-The following patterns I created one quarter turned, so you have to work "upwards" from one square to another. As Groundforge does not support going upwards, the pattern in Groundforge is turned one quarter.   
+In the following patterns I created you have to work "upwards" from one square to another. As Groundforge does not support going upwards, the pattern in Groundforge is turned one quarter.   
 
 <p style="clear: both"></p>
 
@@ -82,7 +83,7 @@ The following patterns I created one quarter turned, so you have to work "upward
 
 ## Bias and Paris ground
 [![bias and paris][p-2111]][t-2111]
-As the pattern above, the pattern in Groundforge is turned one quarter.                  
+As the previous pattern, the pattern in Groundforge is turned one quarter.                  
          
 <p style="clear: both"></p>
 
