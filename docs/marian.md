@@ -78,7 +78,7 @@ With the following patterns I created you have to work "upwards" from one square
 
 * [example 1][T-1114], [example 2][T-1111]
 
-[pic-1111]: ../images/marian/G-mine2.svg?align=left 
+[pic-1111]: ../images/marian/G-mine2.svg?align=right 
 [T-1111]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctct&c1=ct&b1=ctct&a1=ct&d2=ct&c2=ctct&a2=ctct&d3=ctct&c3=ct&b3=ctct&a3=ct&c4=ctct&b4=ct&a4=ctct&tile=8325,6-76,1563,224-&tileStitch=ct&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [T-1114]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&b1=ctc&c1=tctc&d1=ctc&a2=lctc&c2=ctcr&d2=c&a3=ctct&b3=ctc&c3=tctc&d3=ctc&a4=ctc&b4=c&c4=ctcl&tile=8325,6-76,1563,224-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
