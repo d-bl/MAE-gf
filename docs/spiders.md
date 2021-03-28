@@ -32,10 +32,10 @@ All spiders 4x4 legs.
 [p-s-4x3]: ../images/spiders/s-4x3.png "4x3 legs"
 [p-s-4x4]: ../images/spiders/s-4x4.png "4x4 legs"
 [p-s-4x5]: ../images/spiders/s-4x5.png "4x5 legs"
-[p-r-4x2]: ../images/spiders/r-4x2.png "4x2 legs" 
-[p-r-4x3]: ../images/spiders/r-4x3.png "4x3 legs"
-[p-r-4x4]: ../images/spiders/r-4x4.png "4x4 legs"
-[p-r-4x5]: ../images/spiders/r-4x5.png "4x5 legs"
+[p-r-4x2]: ../images/spiders/r-4x2.png "4x2 legs, in ring" 
+[p-r-4x3]: ../images/spiders/r-4x3.png "4x3 legs, in ring"
+[p-r-4x4]: ../images/spiders/r-4x4.png "4x4 legs, in ring"
+[p-r-4x5]: ../images/spiders/r-4x5.png "4x5 legs, in ring"
 
 
 [T-ST2]: /GroundForge/tiles?whiting=F2_P178&patchWidth=12&patchHeight=15&b1=ctcctc&a2=ctcll&c2=ctcrr&b3=ctctt&d3=ctc&a4=ctc&c4=ctc&tile=-5--,B-C-,-5-5,5-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
@@ -56,20 +56,23 @@ All spiders 4x4 legs.
 
     
 ## Spiders with an eye
-![spider with an eye][p-sp-eye]
 Please note: to get a clear eye in the middle, the stitches in the eye of the spider have to be chosen like the example for the 4x3 legged spider: <span class="stch">B2=ctclctc F2=ctcrctc </span>.
-<p style="clear: both"></p>
 
-* [4x2 legs][T-SH2], [4x3 legs][T-SH3], [4x4 legs][T-SH4]
+[![4x2 legs][p-se-4x2]][T-SH2]  [![4x3 legs][p-se-4x3]][T-SH3]  [![4x4 legs][p-se-4x4]][T-SH4]
 
-[p-sp-eye]: ../images/spiders/g-sp-eye.png?align=left "spider with an eye"
+### in a diamond
+[![4x3 legs][p-re-4x3]][T-SHQ3]  [![4x4 legs][p-re-4x4]][T-SHQ4]
+
+[p-se-4x2]: ../images/spiders/se-4x2.png "4x2, with eye"
+[p-se-4x3]: ../images/spiders/se-4x3.png "4x3, with eye"
+[p-se-4x4]: ../images/spiders/se-4x4.png "4x4, with eye"
+[p-re-4x3]: ../images/spiders/re-4x3.png "4x3, with eye, in ring"
+[p-re-4x4]: ../images/spiders/re-4x4.png "4x4, with eye, in ring"
+
 
 [T-SH2]: /GroundForge/tiles?patchWidth=8&patchHeight=8&a1=rctclctcrr&c1=lctcrctcll&b2=ctc&d2=ctct&tile=5-5-,-5-5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-SH3]: /GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctc&c1=ctc&e1=ctc&b2=ctclctc&f2=ctcrctc&a3=ctc&c3=ctcrr&e3=ctcll&b4=ctcrr&d4=ctc&f4=ctcll&a5=ctctt&c5=ctc&e5=ctc&tile=5-5-5-,-5---5,5-C-B-,-5-5-5,5-5-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=5
 [T-SH4]: /GroundForge/tiles?patchWidth=19&patchHeight=19&a1=ctc&c1=ctc&d1=ctc&f1=ctc&g1=ctc&b2=ctclctc&h2=ctcrctc&a3=ctc&c3=ctc&d3=ctcrr&f3=ctcll&g3=ctc&b4=ctc&c4=ctcrr&e4=ctc&g4=ctcll&h4=ctc&a5=ctc&b5=ctcrr&d5=ctc&e5=ctc&f5=ctc&h5=ctcll&a6=ctctt&c6=ctc&d6=ctc&f6=ctc&g6=ctc&tile=5-25-56-,-5-----5,5-CD-AB-,-56-5-25,56-535-2,5-56-25-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6
-
-### in a diamond
-* [4x3 legs][T-SHQ3], [4x4 legs][T-SHQ4]
 
 [T-SHQ3]: /GroundForge/tiles?patchWidth=15&patchHeight=15&b1=ctclctc&e1=ctct&h1=ctcrctc&a2=ctc&c2=ctc&d2=lctct&e2=ctc&f2=rctct&g2=ctc&b3=ctc&c3=lctct&d3=ctc&f3=ctc&g3=rctct&h3=ctc&a4=ctc&b4=lctct&c4=ctc&e4=ctc&g4=ctc&h4=rctct&tile=-5--5--5,5-C632B-,-566-225,566-5-22&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [T-SHQ4]: /GroundForge/tiles?patchWidth=20&patchHeight=20&b1=lctcl&f1=ctct&j1=rctcr&a2=ctc&c2=ctc&d2=ctc&e2=lctct&f2=ctc&g2=rctct&h2=ctc&i2=ctc&b3=ctc&c3=ctc&d3=lctct&e3=ctc&f3=ctc&g3=ctc&h3=rctct&i3=ctc&j3=ctc&a4=ctc&b4=ctc&c4=lctct&d4=ctc&e4=ctc&g4=ctc&h4=ctc&i4=rctct&j4=ctc&a5=ctc&b5=lctct&c5=ctc&d5=ctc&f5=ctc&h5=ctc&i5=ctc&j5=rctct&tile=-5---5---5,5-CD632AB-,-566632225,56666-2222,5666-5-222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5
