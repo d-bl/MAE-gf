@@ -59,8 +59,8 @@ These units can be replaced with units of a bias ground.
 The green numbers and arrows indicate the working order inherited from the first pair diagram.
 <p style="clear: both"></p>
 
-[p-wobble-0]: /MAE-gf/images/droste/wobble.png?align=right "wobble, distorted" 
-[p-wobble-2]: /MAE-gf/images/droste/wobble2.png?align=left "wobble"
+[p-wobble-0]: ../images/droste/wobble.svg?align=right "wobble, distorted" 
+[p-wobble-2]: ../images/droste/wobble2.png?align=left "wobble"
 
 ### Generate diagrams (color coded / threads)
 
@@ -95,14 +95,14 @@ The picture on the right shows another general scheme also based on the Paris gr
 
 Mrs. V. Irvine has worked an example using the left pricking. See [_Favourite Flaveolate_][p-VI-001] for a photo, and [here][t-VI-001] for how she made it (one step definition). Pins where used to get the triangle shape at the "joints" of the hexagons.      
 
-[p-paris-droste]: /MAE-gf/images/droste/paris_droste_0.png?align=right "variation on fancy Zeccatello"
-[p-fancy-z]: /MAE-gf/images/droste/paris-droste-f12.png?align=right "fancy Zeccatello"
-[p-paris-lcr]: /MAE-gf/images/droste/paris-lcr.png
-[p-paris-rcl]: /MAE-gf/images/droste/paris-rcl.png
-[p-paris-ctc]: /MAE-gf/images/droste/paris-ctc.png
-[i-paris-lcr]: /MAE-gf/images/droste/i-paris-lcr.png
-[i-paris-rcl]: /MAE-gf/images/droste/i-paris-rcl.png
-[i-paris-ctc]: /MAE-gf/images/droste/i-paris-ctc.png
+[p-paris-droste]: ../images/droste/paris-droste-0.svg?align=right "variation on fancy Zeccatello"
+[p-fancy-z]: ../images/droste/paris-droste-f12.svg?align=right "fancy Zeccatello"
+[p-paris-lcr]: ../images/droste/paris-lcr.svg
+[p-paris-rcl]: ../images/droste/paris-rcl.svg
+[p-paris-ctc]: ../images/droste/paris-ctc.svg
+[i-paris-lcr]: ../images/droste/i-paris-lcr.svg
+[i-paris-rcl]: ../images/droste/i-paris-rcl.svg
+[i-paris-ctc]: ../images/droste/i-paris-ctc.svg
 [p-VI-001]: https://www.flickr.com/photos/veronika_irvine/23167573524/in/album-72157649379176771/
 
 [Paris]: /GroundForge/tiles?tile=-5&tileStitch=ct&droste2=ctct&patchWidth=5&patchHeight=6&shiftColsSW=-2&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=1
