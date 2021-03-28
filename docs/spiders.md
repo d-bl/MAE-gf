@@ -17,23 +17,26 @@ title: spiders
 On this page we show examples of grounds with all spiders. Larger spiders are possible, but it will take Groundforge some time to generate the diagrams.               
 
 ## Torchon spiders
-![torchon spider][p-sp-trad]
 Please note: for a traditional Torchon spider, a stitch like <span class="stch">ctcctc</span> or <span class="stch">ctctctc</span> has to be chosen in the heart of the spider.
-<p style="clear: both"></p>
 
-* [4x2 legs][T-ST2], [4x3 legs][T-ST3], [4x4 legs][T-ST4], [4x5 legs][T-ST5]
+[![4x2 legs][p-s-4x2]][T-ST2]  [![4x3 legs][p-s-4x3]][T-ST3]  [![4x4 legs][p-s-4x4]][T-ST4]  [![4x5 legs][p-s-4x5]][T-ST5]
 
 ### with different stitches
-All spiders 4x4 legs.
+All spiders 4x4 legs.          
 * [half stitch][T-half], [alternating 1][T-alt1], [alternating 2][T-alt2], [alternating 3][T-alt3], [alternating 4][T-alt4]
 
 ### in a diamond
-![spider in diamond][p-sp-diamond]              
-* [4x2 legs][T-SQ2], [4x3 legs][T-SQ31], [4x4 legs][T-SQ41], [4x5 legs][T-SQ5]
-<p style="clear: both"></p>
+[![4x2 legs][p-r-4x2]][T-SQ2]  [![4x3 legs][p-r-4x3]][T-SQ3]  [![4x4 legs][p-r-4x4]][T-SQ4]  [![4x5 legs][p-r-4x5]][T-SQ5]
 
-[p-sp-trad]: ../images/spiders/g-sp-trad.png?align=left "traditonal spider"
-[p-sp-diamond]: ../images/spiders/g-sp-sq.png?align=right "spider in a diamond"
+[p-s-4x2]: ../images/spiders/s-4x2.png "4x2 legs"
+[p-s-4x3]: ../images/spiders/s-4x3.png "4x3 legs"
+[p-s-4x4]: ../images/spiders/s-4x4.png "4x4 legs"
+[p-s-4x5]: ../images/spiders/s-4x5.png "4x5 legs"
+[p-r-4x2]: ../images/spiders/r-4x2.png "4x2 legs" 
+[p-r-4x3]: ../images/spiders/r-4x3.png "4x3 legs"
+[p-r-4x4]: ../images/spiders/r-4x4.png "4x4 legs"
+[p-r-4x5]: ../images/spiders/r-4x5.png "4x5 legs"
+
 
 [T-ST2]: /GroundForge/tiles?whiting=F2_P178&patchWidth=12&patchHeight=15&b1=ctcctc&a2=ctcll&c2=ctcrr&b3=ctctt&d3=ctc&a4=ctc&c4=ctc&tile=-5--,B-C-,-5-5,5-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 [T-ST3]: /GroundForge/tiles?whiting=E4_P158&patchWidth=12&patchHeight=15&b1=ctcctc&a2=ctc&c2=ctc&d2=ctcrr&f2=ctcll&a3=ctcll&b3=ctc&c3=ctcrr&e3=ctc&b4=ctctt&d4=ctc&e4=ctc&f4=ctc&a5=ctc&c5=ctc&d5=ctc&f5=ctc&tile=-5----,B-CD-A,256-5-,-5-535,5-56-2&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=5
@@ -41,10 +44,9 @@ All spiders 4x4 legs.
 [T-ST5]: /GroundForge/tiles?patchWidth=18&patchHeight=15&b1=ctcttctc&a2=ctc&c2=ctc&d2=ctc&e2=ctc&f2=ctcrr&h2=ctcll&i2=ctc&j2=ctc&a3=ctc&b3=ctc&c3=ctc&d3=ctc&e3=ctcrr&g3=ctc&i3=ctcll&j3=ctc&a4=ctc&b4=ctc&c4=ctc&d4=ctcrr&f4=ctc&g4=ctc&h4=ctc&j4=ctcll&a5=ctcll&b5=ctc&c5=ctcrr&e5=ctc&f5=ctc&g5=ctc&h5=ctc&i5=ctc&b6=ctctt&d6=ctc&e6=ctc&f6=ctc&g6=ctc&h6=ctc&i6=ctc&j6=ctc&a7=ctc&c7=ctc&d7=ctc&e7=ctc&f7=ctc&h7=ctc&i7=ctc&j7=ctc&tile=-5--------,B-CDDD-AAA,25666-5-22,2566-535-2,256-56325-,-5-5663225,5-5666-222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-5&shiftRowsSW=7&shiftColsSE=5&shiftRowsSE=7
 
 [T-SQ2]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctctctc&d1=ctct&b2=ctcr&c2=ctct&d2=ctc&e2=ctct&f2=ctcl&a3=ctct&b3=ctct&c3=ctc&e3=ctc&f3=ctct&tile=5--5--,-C632B,566-22&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
-[T-SQ4]: /GroundForge/tiles?whiting=G2_P199&patchWidth=20&patchHeight=20&a1=ctcctc&f1=ctct&b2=ctc&c2=ctc&d2=ctct&e2=ctct&f2=ctct&g2=ctct&h2=ctct&i2=ctc&j2=ctc&a3=ctc&b3=ctc&c3=ctct&d3=ctct&e3=ctct&f3=ctc&g3=ctct&h3=ctct&i3=ctct&j3=ctc&a4=ctc&b4=ctct&c4=ctct&d4=ctct&e4=ctc&f4=ctc&g4=ctc&h4=ctct&i4=ctct&j4=ctct&a5=ctct&b5=ctct&c5=ctct&d5=ctc&e5=ctc&g5=ctc&h5=ctc&i5=ctct&j5=ctct&tile=5----5----,-CDD632AAB,5666632222,5666632222,56666-2222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5
 [T-SQ5]: /GroundForge/tiles?patchWidth=20&patchHeight=20&a1=ctctctc&g1=ctct&b2=ctc&c2=ctc&d2=ctc&e2=ctc&f2=lctct&g2=ctc&h2=rctct&i2=ctc&j2=ctc&k2=ctc&l2=ctc&a3=ctc&b3=ctc&c3=ctc&d3=ctc&e3=lctct&f3=ctc&g3=ctc&h3=ctc&i3=rctct&j3=ctc&k3=ctc&l3=ctc&a4=ctc&b4=ctc&c4=ctc&d4=lctct&e4=ctc&f4=ctc&g4=ctc&h4=ctc&i4=ctc&j4=rctct&k4=ctc&l4=ctc&a5=ctc&b5=ctc&c5=lctct&d5=ctc&e5=ctc&f5=ctc&g5=ctc&h5=ctc&i5=ctc&j5=ctc&k5=rctct&l5=ctc&a6=ctc&b6=lctct&c6=ctc&d6=ctc&e6=ctc&f6=ctc&h6=ctc&i6=ctc&j6=ctc&k6=ctc&l6=rctct&tile=5-----5-----,-CDDD632AAAB,566666322222,566666322222,566666322222,566666-22222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-6&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
-[T-SQ31]: /GroundForge/tiles?patchWidth=15&patchHeight=15&e1=ctct&a1=ctct&h2=ct&g2=ctc&f2=ctcr&e2=ctc&d2=ctcl&c2=ctc&b2=ct&h3=ctc&g3=ctcr&f3=ctc&e3=tct&d3=ctc&c3=ctcl&b3=ctc&a3=ct&h4=ctct&g4=ctc&f4=rct&d4=lct&c4=ctc&b4=ctct&a4=ctc&tile=5---5---,-CD632AB,56663222,5666-222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4&a3=ct&h4=rctct&g4=ctc&f4=rct&d4=lct&c4=ctc&b4=ctct&a4=ctc&tile=5---5---,-CD632AB,56663222,5666-222&tileStitch=ctc&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
-[T-SQ41]: /GroundForge/tiles?patchWidth=20&patchHeight=20&f1=ctct&a1=ctcc&j2=rct&i2=ctc&h2=rct&g2=ctcr&f2=tct&e2=ctcl&d2=lct&c2=ctc&b2=lct&j3=ctc&i3=rct&h3=ctcr&g3=rct&f3=ctc&e3=lct&d3=ctcl&c3=lct&b3=ctc&a3=ct&j4=rct&i4=ctcr&h4=rct&g4=ctc&f4=tct&e4=ctc&d4=lct&c4=ctcl&b4=lct&a4=ctc&j5=ctcr&i5=rct&h5=ctc&g5=rct&e5=lct&d5=ctc&c5=lct&b5=ctcl&a5=lct&tile=5----5----,-CDD632AAB,5666632222,5666632222,56666-2222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5
+[T-SQ3]: /GroundForge/tiles?patchWidth=15&patchHeight=15&e1=ctct&a1=ctct&h2=ct&g2=ctc&f2=ctcr&e2=ctc&d2=ctcl&c2=ctc&b2=ct&h3=ctc&g3=ctcr&f3=ctc&e3=tct&d3=ctc&c3=ctcl&b3=ctc&a3=ct&h4=ctct&g4=ctc&f4=rct&d4=lct&c4=ctc&b4=ctct&a4=ctc&tile=5---5---,-CD632AB,56663222,5666-222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4&a3=ct&h4=rctct&g4=ctc&f4=rct&d4=lct&c4=ctc&b4=ctct&a4=ctc&tile=5---5---,-CD632AB,56663222,5666-222&tileStitch=ctc&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[T-SQ4]: /GroundForge/tiles?patchWidth=20&patchHeight=20&f1=ctct&a1=ctcc&j2=rct&i2=ctc&h2=rct&g2=ctcr&f2=tct&e2=ctcl&d2=lct&c2=ctc&b2=lct&j3=ctc&i3=rct&h3=ctcr&g3=rct&f3=ctc&e3=lct&d3=ctcl&c3=lct&b3=ctc&a3=ct&j4=rct&i4=ctcr&h4=rct&g4=ctc&f4=tct&e4=ctc&d4=lct&c4=ctcl&b4=lct&a4=ctc&j5=ctcr&i5=rct&h5=ctc&g5=rct&e5=lct&d5=ctc&c5=lct&b5=ctcl&a5=lct&tile=5----5----,-CDD632AAB,5666632222,5666632222,56666-2222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5
 
 [T-half]: /GroundForge/tiles?patchWidth=12&patchHeight=16&b1=ctctct&h2=ct&g2=ctll&e2=ctrr&d2=ct&c2=ct&a2=ct&h3=ctll&f3=ct&d3=ctrr&c3=ct&b3=ct&a3=ct&g4=ct&f4=ct&e4=ct&c4=ctrr&b4=ct&a4=ctll&h5=ct&g5=ct&f5=ct&e5=ct&d5=ct&b5=cttt&h6=ct&g6=ct&e6=ct&d6=ct&c6=ct&a6=ct&tile=-5------,B-CDD-AA,2566-5-2,256-535-,-5-56325,5-566-22&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6
 [T-alt1]: /GroundForge/tiles?patchWidth=12&patchHeight=16&b1=ctctct&h2=ctct&g2=ctll&e2=ctrr&d2=ctct&c2=ct&a2=ct&h3=ctll&f3=ct&d3=ctrr&c3=ctct&b3=ct&a3=ctct&g4=ct&f4=ctct&e4=ct&c4=ctrr&b4=ctct&a4=ctll&h5=ct&g5=ctct&f5=ct&e5=ctct&d5=ct&b5=cttt&h6=ctct&g6=ct&e6=ct&d6=ctct&c6=ct&a6=ct&tile=-5------,B-CDD-AA,2566-5-2,256-535-,-5-56325,5-566-22&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6
