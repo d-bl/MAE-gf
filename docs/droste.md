@@ -56,7 +56,7 @@ The changing angle of the rose ground units inspired the name.
 On the right a distorted version that matches a Torchon grid. 
 The units of the rose-ground are placed in different directions, indicated with blue arrows.
 These units can be replaced with units of a bias ground.
-The green numbers and arrows indicate the working order inherited from the first pair diagram.
+The green arrows indicate the working order inherited from the first pair diagram.
 <p style="clear: both"></p>
 
 [p-wobble-0]: ../images/droste/wobble.svg?align=right "wobble, distorted" 
