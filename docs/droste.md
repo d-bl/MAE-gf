@@ -20,7 +20,7 @@ Some of these, like "Wobble" can only be made by GroundForge using this techniqu
 See the Groundforge help-page [_Droste-effect_][pg-droste] for more information.  
 
 Some of the examples have forms to make playing easier. 
-Other examples only have plain links for multi-step patterns, you need to click the ![](../images/wand.png) in the advanced section for the diagrams of the second (or even third) step.                  
+Other examples only have plain links for multi-step patterns, you need to click the ![](../images/wand.png) in the "Thread diagram as pair diagram" section for the diagrams of the second (or even third) step.                  
 
 {% include stitches.html %}
 
@@ -60,14 +60,14 @@ The green arrows indicate the working order inherited from the first pair diagra
 <p style="clear: both"></p>
 
 [p-wobble-0]: ../images/droste/wobble.svg?align=right "wobble, distorted" 
-[p-wobble-2]: ../images/droste/wobble2.png?align=left "wobble"
+[p-wobble-2]: ../images/droste/wobble2.svg?align=left "wobble"
 
 ### Generate diagrams (color coded / threads)
 
 After completing the stitches for the second step in the form below,
 click on the button of the desired type of rose-ground units.
 In the page that will appear next, click the ![](../images/wand.png)
-in the advanced section for the thread diagram.
+in the "Thread diagram as pair diagram" section for the thread diagram.
 
 {% include wobble.html %}
 
