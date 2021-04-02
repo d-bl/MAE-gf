@@ -13,14 +13,11 @@ title: Droste
 * [More examples](#more-examples)
 
 ## Introduction
-On this page, several grounds are made with the "Droste-effect": 
-reuse thread diagrams as pair diagrams. 
-Some of these, like "Wobble" can only be made by GroundForge using this technique. 
+On this page, several grounds are made with the "Droste-effect": reuse thread diagrams as pair diagrams. Some of these, like "Wobble" can only be made by GroundForge using this technique. 
 
 See the Groundforge help-page [_Droste-effect_][pg-droste] for more information.  
 
-Some of the examples have forms to make playing easier. 
-Other examples only have plain links for multi-step patterns, you need to click the ![](../images/wand.png) in the "Thread diagram as pair diagram" section for the diagrams of the second (or even third) step.                  
+Some of the examples have forms to make playing easier. Other examples only have plain links for multi-step patterns, you need to click the ![](../images/wand.png) in the "Thread diagram as pair diagram" section for the diagrams of the second (or even third) step.                  
 
 {% include stitches.html %}
 
@@ -48,33 +45,22 @@ This ground uses the thread diagram of alternating <span class="stch">ct/ctct</s
 ### Pricking
 ![w2][p-wobble-2]
 ![w0][p-wobble-0]
-The left pricking is generated with one of the "ground from template" 
-[tools](/inkscape-bobbinlace/Ground-from-Template)
-and a plain text file (<a href="../data/wobble.txt" download>download</a>).
-The changing angle of the rose ground units inspired the name.
+The left pricking is generated with one of the "ground from template" [tools](/inkscape-bobbinlace/Ground-from-Template) and a plain text file (<a href="../data/wobble.txt" download>download</a>). The changing angle of the rose ground units inspired the name.
                 
-On the right a distorted version that matches a Torchon grid. 
-The units of the rose-ground are placed in different directions, indicated with blue arrows.
-These units can be replaced with units of a bias ground.
-The green arrows indicate the working order inherited from the first pair diagram.
-<p style="clear: both"></p>
+On the right a distorted version that matches a Torchon grid. The units of the rose-ground are placed in different directions, indicated with blue arrows. These units can be replaced with units of a bias ground The green arrows indicate the working order inherited from the first pair diagram.
 
-[p-wobble-0]: ../images/droste/wobble.svg?align=right "wobble, distorted" 
-[p-wobble-2]: ../images/droste/wobble2.svg?align=left "wobble"
+[p-wobble-0]: ../images/droste/wobble.svg "wobble, distorted" 
+[p-wobble-2]: ../images/droste/wobble2.svg "wobble"
 
 ### Generate diagrams (color coded / threads)
 
-After completing the stitches for the second step in the form below,
-click on the button of the desired type of rose-ground units.
-In the page that will appear next, click the ![](../images/wand.png)
-in the "Thread diagram as pair diagram" section for the thread diagram.
+After completing the stitches for the second step in the form below, click on the button of the desired type of rose-ground units. In the page that will appear next, click the ![](../images/wand.png) in the "Thread diagram as pair diagram" section for the thread diagram.
 
 {% include wobble.html %}
 
 ## Paris
 ![fz][p-fancy-z]
-The [Paris] ground uses the thread diagram of the half stich as pair diagram.
-Some variations on the Paris ground are in the Whiting index (defined without this Droste technique) A5, A6, B5, A7-H7, G11. 
+The [Paris] ground uses the thread diagram of the half stich as pair diagram. Some variations on the Paris ground are in the Whiting index (defined without this Droste technique) A5, A6, B5, A7-H7, G11. 
 
 In turn the _fancy Zeccatello_ uses the thread diagram of a Paris variation as pair diagram: [single-step][F12], [two-step][F12-droste] definitions. 
 Note that the cloth stitch units are in fact a unit of a bias ground.    
