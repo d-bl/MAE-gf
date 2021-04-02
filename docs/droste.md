@@ -25,9 +25,11 @@ Some of the examples have forms to make playing easier. Other examples only have
 
 ## Fish     
 _Double fish B2,S2,W3_ (see page [_fish_][fish-page])
-also can be defined in [two steps][F3-223] using the thread diagram of the first step as pair diagram for the second step. Please replace <span class="elem">cross b102</span> in the thread diagram of step-2 with a <span class="stch">half knot</span> or two to mimic a twisted pair.              
+also can be defined in [two steps][F3-223] using the thread diagram of the first step as pair diagram for the second step. Please replace <span class="elem">cross b102</span> in the thread diagram of step-2 with a <span class="stch">half knot</span> or two to mimic a twisted pair.       
+
 The thread diagram of the second step can reused again: click the ![](../images/wand.png) below the second step fish.       
 The same result as this 3-step fish can be achieved in [two steps][F2-223].          
+
 Defining a footside will become problematic, as we have four workers going into the same direction before returning. In practice you can bend this rule and change direction every other row, provided that plain twists separate the fish. Note that in both cases it can take a while for the last steps to appear.    
 Please note the resemblance of the 3-step fish with the [narrow eyed spider][ne-spiders-page]. 
 
