@@ -38,19 +38,20 @@ Please note the resemblance of the 3-step fish with the [narrow eyed spider][ne-
 
 [F3-223]: /GroundForge/tiles.html?patchWidth=6&patchHeight=6&a1=ctc&a2=cr&a3=c&a4=lc&droste2=ctc,a10=a11=ctcrr,a20=a21=a40=ctct,a30=ct,,,,&droste3=ctc,a300=tct,a104=a114=ttctctt,a204=a205=a404=a405=tt,&tile=8,1,8,1,&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=1&shiftRowsSE=4
 
-
 ## Wobble
 This ground uses the thread diagram of alternating <span class="stch">ct/ctct</span> as pair diagram.
 
 ### Pricking
 ![w2][p-wobble-2]
 ![w0][p-wobble-0]
+<p style="clear: both"></p>
+
 The left pricking is generated with one of the "ground from template" [tools](/inkscape-bobbinlace/Ground-from-Template) and a plain text file (<a href="../data/wobble.txt" download>download</a>). The changing angle of the rose ground units inspired the name.
                 
 On the right a distorted version that matches a Torchon grid. The units of the rose-ground are placed in different directions, indicated with blue arrows. These units can be replaced with units of a bias ground The green arrows indicate the working order inherited from the first pair diagram.
 
-[p-wobble-0]: ../images/droste/wobble.svg "wobble, distorted" 
-[p-wobble-2]: ../images/droste/wobble2.svg "wobble"
+[p-wobble-0]: ../images/droste/wobble.svg?align=left "wobble, distorted" 
+[p-wobble-2]: ../images/droste/wobble2.svg?align=right "wobble"
 
 ### Generate diagrams (color coded / threads)
 
