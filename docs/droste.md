@@ -50,8 +50,8 @@ The pricking on the left is generated with one of the "ground from template" [to
                 
 On the right a distorted version that matches a Torchon grid. The units of the rose-ground are placed in different directions, indicated with blue arrows. These units can be replaced with units of a bias ground The green arrows indicate the working order inherited from the first pair diagram.
 
-[p-wobble-0]: ../images/droste/wobble.svg?align=left "wobble, distorted" 
-[p-wobble-2]: ../images/droste/wobble2.svg?align=right "wobble"
+[p-wobble-0]: ../images/droste/wobble.svg?align=right "wobble, distorted" 
+[p-wobble-2]: ../images/droste/wobble2.svg?align=left "wobble"
 
 ### Generate diagrams (color coded / threads)
 
