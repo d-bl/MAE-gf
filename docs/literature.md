@@ -27,7 +27,7 @@ Some new grounds use traditional prickings. E.g.: the "ants" are made on the ros
 Some examples show the traditional grounds. New grounds (also) created by others are indicated as such. Grounds found in the Whiting index are free of copyrights. All other grounds are our own finds.   
 
 All images are created by J. Pol, M. Tempels, or Groundforge, except where otherwise noted.
-Most of the images are created using Knipling &reg; (&copy; Petra Pönisch Verlag).   
+Most of the images are created using Inkscape or Knipling &reg; (&copy; Petra Pönisch Verlag).   
 
 ## Literature
 Some of the publications listed here are mentioned on this website. Others are for more inspiration. Of course, this list is incomplete.             
