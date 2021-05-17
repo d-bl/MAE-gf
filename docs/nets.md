@@ -128,7 +128,7 @@ This scheme is equal to the [_bias ground_][page-bias].
 
 [![p1-net5]][t-0204] 
 
-[p1-net5]: /MAE-gf/images/nets/net5.png "ground 0204"
+[p1-net5]: /MAE-gf/images/nets/net5.png
 [page-bias]: ../docs/bias
 [t-0204]: /GroundForge/tiles?patchWidth=15&patchHeight=15&d1=lct&c1=ctctc&a1=ctctct&tile=6-48&tileStitch=ctct&shiftColsSW=-3&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
 
