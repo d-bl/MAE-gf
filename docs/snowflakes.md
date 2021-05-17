@@ -73,7 +73,7 @@ The thread diagram for example 2 can also be obtained as a rose ground in a diam
 ## Snowflakes diagonal
 [![diagonal snowflake][p-snow-diag]][t-snow-diag]
 
-[p-snow-diag]: ../images/snow/g-sn-dia.png "diagonal snowflakes" 
+[p-snow-diag]: ../images/snow/g-sn-dia.svg "diagonal snowflakes" 
 [t-snow-diag]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&c1=ctc&b1=ctc&a1=tctct&c2=ctc&b2=ctc&a2=ctc&tile=1011,114-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ## Another arrangement
