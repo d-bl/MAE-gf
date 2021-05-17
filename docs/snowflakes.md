@@ -58,11 +58,13 @@ Usually, the little snowflake is drawn as the left picture, on a 60 degree grid.
 
 ## Snowflake in a diamond, crossed
 ![snowflake diamond crossed][p-snow-diax]   
-The thread diagram for example 2 can also be obtained as a rose ground in a diamond. 
 <p style="clear: both"></p>
 
-* [example 1][T-0342-sq], [example 2][T-mt-0356]
+* [example 1][T-0342-sq]    
+
+* [example 2][T-mt-0356]
 ![as rose ground][PR-0116]
+The thread diagram for example 2 can also be obtained as a rose ground in a diamond. _work in progress_    
 
 [p-snow-diax]: ../images/snow/g-sn-uni-sc.svg?align=left "snowflake crossed in a diamond"
 [PR-0116]: ../images/roses/R-0116.png
