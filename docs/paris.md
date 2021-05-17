@@ -14,12 +14,12 @@ title: Paris Grounds
 * [Way of making](#way-of-making)
 
 ## Introduction
-![photo mt-0434][p-0434] 
+![photo mt-0434][ph-0434] 
 The examples on this page came to life as variations on a rose-ground with "do nothing (much)" on the left and right. My first studies of Groundforge learned me, that the scheme needed was actually a paris ground!<br>
 The photo shows the example on the bottom of this page, but slighty adapted to get the colours right.
 <p style="clear: both"></p>
 
-[p-0434]: ../images/paris/f-0434.png?align=right "ground 0434"
+[ph-0434]: ../images/paris/f-0434.png?align=right
 
 ## Traditional Paris ground
 ![paris ground][pic-par-grnd]
@@ -66,7 +66,7 @@ For the stretched paris ground, see on page [_rose grounds_][p-rose-paris].
 [p-rose-paris]: /MAE-gf/docs/roses#stretched-paris-ground
 
 ## Way of making
-The following example (ground 0404) shows three different matrix-scheme's to obtain the same ground.           
+The following example shows three different matrix-scheme's to obtain the same ground.           
 * [as paris ground][T-0404-p], [as rose ground][T-0404-r], [as torchon ground][T-0404-t]
 
 [T-0404-r]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=c&c1=ctct&d1=c&b2=l&d2=r&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
