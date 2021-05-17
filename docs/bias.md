@@ -177,7 +177,7 @@ Take just one unit of the Bias ground and place them all in the same direction, 
 
 [pic-0228-OG]: ../images/bias/g-0228-OG.svg "units in same direction"
 [pic-0228-OGy]: ../images/bias/g-0228-OGy.svg "units in alternating directions"
-[foto-0228-OGy]: ../images/bias/g-0228-foto.jpg?align=right "ground 0228, as solo units placed in alternating directions"
+[foto-0228-OGy]: ../images/bias/g-0228-foto.jpg?align=right "solo units placed in alternating directions"
 [T-0228-OG]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=tct&b1=ctc&d1=ctc&a2=ctc&c2=ctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=86-5,4-5-
 [T-0228-OGy]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=tct&b1=ctc&d1=ctc&a2=ctc&c2=ctc&b3=ctc&c3=tct&d3=ctc&a4=ctc&c4=ctc&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=0&shiftRowsSW=4&tile=15-2,7-5-,-586,5-4-
 [T-0267-OGy]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctcr&d1=ctct&a2=ctct&c2=ctcl&b3=ctcl&c3=ctc&d3=ctct&a4=ctcr&c4=ctct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=0&shiftRowsSW=4&tile=15-2,7-5-,-586,5-4-
