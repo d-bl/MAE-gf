@@ -171,8 +171,8 @@ Please note: when making the actual lace, it will make a big difference if the u
 [![R-0112][PR-0112]][TR-0112] [![R-0116][PR-0116]][TR-0116] [![R-0504][PR-0504]][TR-0504] 
 
 [pic-tor-flem]: ../images/roses/g-tor-fl.svg "torchon - flemish"
-[ph-0112-t]: ../images/roses/ph-0112-t.jpg "ground 0112"
-[ph-0112-f]: ../images/roses/ph-0112-f.jpg "ground 0112"
+[ph-0112-t]: ../images/roses/ph-0112-t.jpg
+[ph-0112-f]: ../images/roses/ph-0112-f.jpg
 
 [PR-0112]: ../images/roses/R-0112.png
 [PR-0116]: ../images/roses/R-0116.png
