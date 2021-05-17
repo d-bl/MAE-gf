@@ -67,7 +67,7 @@ Usually, the little snowflake is drawn as the left picture, on a 60 degree grid.
 The thread diagram for example 2 can also be obtained as a rose ground in a diamond. _work in progress_    
 
 [p-snow-diax]: ../images/snow/g-sn-uni-sc.svg?align=left "snowflake crossed in a diamond"
-[PR-0116]: ../images/roses/R-0116.png
+[PR-0116]: ../images/roses/R-0116.png "as a rose ground"
 
 [T-0342-sq]: /GroundForge/tiles?patchWidth=17&patchHeight=16&j1=ctctt&f1=ctctt&d1=ctct&c1=ct&b1=ctct&d2=ct&b2=ct&h3=ctctt&c3=ctct&d4=ct&b4=ct&j5=ctctt&f5=ctctt&d5=ctctt&c5=ct&b5=ctctt&tile=-O3E-5---5,-4-7--W-Y-,--5----5--,-B-C--Y-W-,-158-L---H&tileStitch=ctct&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5
 [T-mt-0356]: /GroundForge/tiles?patchWidth=17&patchHeight=16&j1=ctcl&f1=ctcr&d1=c&c1=ctct&b1=c&d2=cr&b2=cl&h3=ctct&c3=ctc&d4=c&b4=c&j5=ctcr&f5=ctcl&d5=c&c5=tctc&b5=c&tile=-O3E-5---5,-4-7--W-Y-,--5----5--,-B-C--Y-W-,-158-L---H&footsideStitch=tctct&tileStitch=ctc&headsideStitch=tctct&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5
