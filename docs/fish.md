@@ -17,19 +17,19 @@ The grounds consists of a number of rows with two or more cloth stitches followe
 If the tail is made with pairs not from the same fish, the ground is called [_Lotus_][lotus-page].    
 Fish can also be made using the <span class="elem">Droste function</span> of GroundForge. See page [_Droste_][droste-page].
 
+Broader fish can be made, e.g. with four cloth stitches.       
+In some Milanese grounds, the heads and tails are made as a cloth stitch with pairs. Groundforge does not support this. Making the head and tail as a half spider is supported.    
+Please note: if a fish has an odd number of bones, like B3, the weavers change direction at the next set of fish. This is not shown in the matrices used for the examples.   
+
+## Fish notation
+Lets call the horizontal rows the _bones_, the vertical lines the _spines_, and the in between rows the _waves_.
+Fish B,S,W means: the number of Bones, the number of Spines and the number of Waves. There are two ways of zero waves, noted with "0" and "-" respectively. See the picture.   
+
 {% include picts-centr.html
      alt="fish notation"
      src="/MAE-gf/images/fish/fish.svg"
      title="fish notation"
 %} 
-Broader fish can be made, e.g. with four cloth stitches.       
-In some Milanese grounds, the heads and tails are made as a cloth stitch with pairs. Groundforge does not support this. Making the head and tail as a half spider is supported.    
-
-Please note: if a fish has an odd number of bones, like B3, the weavers change direction at the next set of fish. This is not shown in the matrices used for the examples.   
-
-## Fish notation
-Lets call the horizontal rows the _bones_, the vertical lines the _spines_, and the in between rows the _waves_.
-Fish B,S,W means: the number of Bones, the number of Spines and the number of Waves. There are two ways of zero waves, noted with "0" and "-" respectively. See the picture at the top of this page.
 
 ## Fish examples
 * [Fish B1,S2,W-][T-12-], [Fish B2,S1,W-][T-21-], [Fish B1,S2,W0][T-120]
