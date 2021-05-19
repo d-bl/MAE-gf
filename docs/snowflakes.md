@@ -14,6 +14,7 @@ title: snowflakes
 * [Snowflake in a diamond, crossed](#snowflake-in-a-diamond-crossed)
 * [Snowflakes diagonal](#snowflakes-diagonal)
 * [Another arrangement](#another-arrangement)
+* [Making of](#making-of)
 
 ## Introduction
 On this page several snowflake-grounds are collected.   
@@ -41,13 +42,13 @@ Usually, the little snowflake is drawn as the left picture, on a 60 degree grid.
 ![little snowflake crossed][pic-sn-cr]
 <p style="clear: both"></p>
 
-* [example 1][T-ex-0342], [example 2][T-mt-0306]
+* [example 1][T-0342-xx], [example 2][T-0306-xx]
 
 [pic-sn-cr]: ../images/snow/g-sn-cr.svg?align=left "little snowflake, crossed"
 [p-corners]: ../docs/roses#corners
 
-[T-ex-0342]: /GroundForge/tiles?patchWidth=16&patchHeight=16&c1=c&e1=c&b2=ctctc&d2=tc&f2=ctctc&h2=ct&a3=ct&g3=ct&h4=ctct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=--B-C---,-E-5-O-K,5-----5-,-------5
-[T-mt-0306]: /GroundForge/tiles?patchWidth=24&patchHeight=24&c1=c&e1=c&b2=c&d2=tctc&f2=c&h2=ctct&a3=cr&g3=cl&h4=tct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=--B-C---,-E-5-O-K,5-----5-,-------5
+[T-0342-xx]: /GroundForge/tiles?patchWidth=16&patchHeight=16&c1=c&e1=c&b2=ctctc&d2=tc&f2=ctctc&h2=ct&a3=ct&g3=ct&h4=ctct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=--B-C---,-E-5-O-K,5-----5-,-------5
+[T-0306-xx]: /GroundForge/tiles?patchWidth=24&patchHeight=24&c1=c&e1=c&b2=c&d2=tctc&f2=c&h2=ctct&a3=cr&g3=cl&h4=tct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=--B-C---,-E-5-O-K,5-----5-,-------5
 
 ## Snowflake in a diamond
 [![snowflake in diamond][p-snow-diamond]][T-0306-sndia]
@@ -60,17 +61,13 @@ Usually, the little snowflake is drawn as the left picture, on a 60 degree grid.
 ![snowflake diamond crossed][p-snow-diax]   
 <p style="clear: both"></p>
 
-* [example 1][T-0342-sq]    
-
-* [example 2][T-mt-0356]
-![as rose ground][PR-0116]
-The thread diagram for example 2 can also be obtained as a rose ground in a diamond. _work in progress_    
+* [example 1][T-0342-sq], [example 2][T-0356-sq]
 
 [p-snow-diax]: ../images/snow/g-sn-uni-sc.svg?align=left "snowflake crossed in a diamond"
-[PR-0116]: ../images/roses/R-0116.png "as a rose ground"
+
 
 [T-0342-sq]: /GroundForge/tiles?patchWidth=17&patchHeight=16&j1=ctctt&f1=ctctt&d1=ctct&c1=ct&b1=ctct&d2=ct&b2=ct&h3=ctctt&c3=ctct&d4=ct&b4=ct&j5=ctctt&f5=ctctt&d5=ctctt&c5=ct&b5=ctctt&tile=-O3E-5---5,-4-7--W-Y-,--5----5--,-B-C--Y-W-,-158-L---H&tileStitch=ctct&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5
-[T-mt-0356]: /GroundForge/tiles?patchWidth=17&patchHeight=16&j1=ctcl&f1=ctcr&d1=c&c1=ctct&b1=c&d2=cr&b2=cl&h3=ctct&c3=ctc&d4=c&b4=c&j5=ctcr&f5=ctcl&d5=c&c5=tctc&b5=c&tile=-O3E-5---5,-4-7--W-Y-,--5----5--,-B-C--Y-W-,-158-L---H&footsideStitch=tctct&tileStitch=ctc&headsideStitch=tctct&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5
+[T-0356-sq]: /GroundForge/tiles?patchWidth=17&patchHeight=16&j1=ctcl&f1=ctcr&d1=c&c1=ctct&b1=c&d2=cr&b2=cl&h3=ctct&c3=ctc&d4=c&b4=c&j5=ctcr&f5=ctcl&d5=c&c5=tctc&b5=c&tile=-O3E-5---5,-4-7--W-Y-,--5----5--,-B-C--Y-W-,-158-L---H&footsideStitch=tctct&tileStitch=ctc&headsideStitch=tctct&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5
 
 ## Snowflakes diagonal
 [![diagonal snowflake][p-snow-diag]][t-snow-diag]
@@ -84,7 +81,13 @@ The thread diagram for example 2 can also be obtained as a rose ground in a diam
 [p-G63]: ../images/snow/G63.svg "offset snowflakes" 
 [t-63-43]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=20&c1=ct&a1=ctct&d2=cl&b2=cr&c3=ctct&d4=ct&b4=ct&c5=ct&a5=ct&tile=5-5-,-5-5,--5-,-b-c,5-5-&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=5
 
+## Making of
+Some of the grounds can be made either as a crossed snowflake or as a rose ground. See the example below: the result is the same.  
+![as snowflake][pp-0356-kg]  ![as rose ground][pp-0116-kg]
    
+[pp-0116-kg]: ../images/roses/0116-kg.png "as a rose ground"
+[pp-0356-kg]: ../images/snow/0356-kg.png "as a crossed snowflake ground"
+
 ***
 [&uArr;]()
 
