@@ -31,6 +31,11 @@ Lotus H,V,X means: the number of Horizontal rows, the number of Verticals and th
      src="/MAE-gf/images/lotus/w-lotus.png"
      title="lotus notation"
 %} 
+{% include picts-centr.html
+     alt="lotus notation"
+     src="/MAE-gf/images/lotus/lotus.svg"
+     title="lotus notation"
+%} 
 
 ## Lotus examples
 * [Lotus H1,V2,X2][T-122]         
