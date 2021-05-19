@@ -11,7 +11,6 @@ title: lotus and lattice
 * [Lotus examples](#lotus-examples)
 
 ## Introduction
-![lotus][p-lotus]
 Lotus grounds are usualy used in small braids, typically 14-18 pairs of bobbins.      
 The grounds consists of a number of rows with two or more cloth stitches followed with a changing number of twists in the weaver. Lotus starts with a cloth stitch, and ends with a cloth stitch with the neighbouring petal. In between the lotus-rows, zero, one ore more rows with e.g. half stitch, pin, half stitch are made.        
 If the end is made with the same pairs as the start, the ground is called [_Fish_][fish-page].     
@@ -22,11 +21,16 @@ Please note: if a lotus has an odd number of horizontal, like H3, the weavers ch
 
 <p style="clear: both"></p>
 
-[p-lotus]: /MAE-gf/images/lotus/w-lotus.png?align=right "lotus"
 [fish-page]: ../docs/fish
 
 ## Lotus notation
 Lotus H,V,X means: the number of Horizontal rows, the number of Verticals and the number of rows in between. See the picture. 
+
+{% include picts-centr.html
+     alt="lotus notation"
+     src="/MAE-gf/images/lotus/w-lotus.png"
+     title="lotus notation"
+%} 
 
 ## Lotus examples
 * [Lotus H1,V2,X2][T-122]         
