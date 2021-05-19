@@ -32,7 +32,7 @@ Lets call the horizontal rows the _bones_, the vertical lines the _spines_, and 
 Fish B,S,W means: the number of Bones, the number of Spines and the number of Waves. There are two ways of zero waves, noted with "0" and "-" respectively. See the picture at the top of this page.
 
 ## Fish examples
-* [Fish B1,S2,W-][T-12-], [Fish B2,S1,W-][T-21-], [Fish B1,S2,W2][T-122]
+* [Fish B1,S2,W-][T-12-], [Fish B2,S1,W-][T-21-], [Fish B1,S2,W0][T-120]
 * [Fish B2,S2,W-][T-22-], [Fish B2,S2,W0][T-220], [Fish B2,S2,W2][T-222]      
 * [Fish B3,S2,W2][T-322]               
 * [Fish B4,S2,W-][T-42-], [Fish B4,S2,W1][T-421], [Fish B4,S2,W2][T-422]      
@@ -86,7 +86,7 @@ Fish B,S,W means: the number of Bones, the number of Spines and the number of Wa
 
 [Z323]: /GroundForge/tiles?patchWidth=5&patchHeight=22&h1=ct&d1=ct&a1=ctctl&i2=ctctr&c2=ct&h3=ct&d3=ct&a3=ctctl&i4=ctctt&c4=ctc&h5=ctc&d5=ctc&c5=ctcll&h6=ctcrr&d6=ctcrr&c6=ctc&a6=ctctt&i7=ctctt&h7=ctc&d7=ctc&c7=ctcll&c8=ctct&a8=ctctl&i9=ctctr&d9=ct&b9=ct&c10=ct&a10=ctctl&i11=ctctr&d11=ct&b11=ct&c12=ctc&a12=ctctt&h13=ctcrr&d13=ctcrr&c13=ctc&i14=ctctt&h14=ctc&d14=ctc&c14=ctcll&h15=ctcrr&d15=ctcrr&c15=ctc&a15=ctctt&i16=ctctr&c16=ctct&footside=4v,xz,4v,x-,xz,4v,xz,4-,x5,4-,x5,4-,xw,xz,4v,xz&tile=-5,5-,-5,5-,12,88,11,4-,-5,5-,-5,5-,89,11,88,4-&headside=5x,-7,5x,-7,5x,8x,17,vx,z7,vx,z7,-x,9x,17,8x,-7&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=16&shiftColsSE=2&shiftRowsSE=16
 
-[T-122]: /GroundForge/tiles?patchWidth=8&patchHeight=17&a1=ct&b2=ct&b3=ct&a3=ct&b4=ct&a5=ct&b6=ct&a6=ct&tile=4-,-5,21,-4,5-,89&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6
+[T-120]: /GroundForge/tiles?patchWidth=8&patchHeight=17&a1=ct&b2=ct&b3=ct&a3=ct&b4=ct&a5=ct&b6=ct&a6=ct&tile=4-,-5,21,-4,5-,89&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6
 
 
 
