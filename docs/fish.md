@@ -22,7 +22,11 @@ Fish can also be made using the <span class="elem">Droste function</span> of Gro
      src="/MAE-gf/images/fish/w-fish.png"
      title="all fish"
 %} 
-
+{% include picts-centr.html
+     alt="fish pair dia"
+     src="/MAE-gf/images/fish/fish.svg"
+     title="all fish"
+%} 
 Broader fish can be made, e.g. with four cloth stitches.       
 In some Milanese grounds, the heads and tails are made as a cloth stitch with pairs. Groundforge does not support this. Making the head and tail as a half spider is supported.    
 
