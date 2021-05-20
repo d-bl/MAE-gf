@@ -29,12 +29,12 @@ Only when defining plaits as stitches you will see the honeycomb again in the [t
 It gets interesting, if we would use two (or more) different stitches. These grounds are known as "chaotic ground", "alternating ground", ...    
 Several of these can be found in the book by mrs A. Rühle: _Fillings from Hunnia Lace_.        
 
-[p-net1]: /MAE-gf/images/nets/net1.png "horizontal net"
-[p-net2]: /MAE-gf/images/nets/net2.png "diagonal net"
-[p-net2x]: /MAE-gf/images/nets/net2x.png "diagonal net"
-[p-net3]: /MAE-gf/images/nets/net3.png "honeycomb 1"
-[p-net4]: /MAE-gf/images/nets/net4.png "honeycomb 2"
-[p-net5]: /MAE-gf/images/nets/net5.png "honeycomb 3"
+[p-net1]: ../images/nets/net1.png "horizontal net"
+[p-net2]: ../images/nets/net2.png "diagonal net"
+[p-net2x]: ../images/nets/net2x.png "diagonal net"
+[p-net3]: ../images/nets/net3.png "honeycomb 1"
+[p-net4]: ../images/nets/net4.png "honeycomb 2"
+[p-net5]: ../images/nets/net5.png "honeycomb 3"
 
 ## Horizontal net
 [![p-net1a]][t-net1a]  [![p-net1b]][t-net1b]  [![p-net1c]][t-net1c]    
@@ -50,10 +50,10 @@ The following examples look like a knitwork.
 * [example 1][t-brei1],  [example 2][t-brei2],  [&amp;-ground][t-amp]    
 
 
-[p-net1a]: /MAE-gf/images/nets/net1a.png "vertical alternating ground"
-[p-net1b]: /MAE-gf/images/nets/net1b.png "horizontal alternating ground"
-[p-net1c]: /MAE-gf/images/nets/net1c.png "alternating ground"
-[p-net1d]: /MAE-gf/images/nets/net1d.png "stripes"
+[p-net1a]: ../images/nets/net1a.png "vertical alternating ground"
+[p-net1b]: ../images/nets/net1b.png "horizontal alternating ground"
+[p-net1c]: ../images/nets/net1c.png "alternating ground"
+[p-net1d]: ../images/nets/net1d.png "stripes"
 
 [t-net1a]: /GroundForge/tiles?patchWidth=12&patchHeight=12&f1=ct&e1=ctct&d1=ct&c1=ctct&b1=ct&a1=ctct&f2=ct&e2=ctct&d2=ct&c2=ctct&b2=ct&a2=ctct&f3=ct&e3=ctct&d3=ct&c3=ctct&b3=ct&a3=ctct&f4=ct&e4=ctct&d4=ct&c4=ctct&b4=ct&a4=ctct&f5=ct&e5=ctct&d5=ct&c5=ctct&b5=ct&a5=ctct&f6=ct&e6=ctct&d6=ct&c6=ctct&b6=ct&a6=ctct&tile=888888,111111,888888,111111,888888,111111&tileStitch=ct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
 [t-net1b]: /GroundForge/tiles?patchWidth=12&patchHeight=12&f1=ctct&e1=ctct&d1=ctct&c1=ctct&b1=ctct&a1=ctct&f2=ct&e2=ct&d2=ct&c2=ct&b2=ct&a2=ct&f3=ctct&e3=ctct&d3=ctct&c3=ctct&b3=ctct&a3=ctct&f4=ct&e4=ct&d4=ct&c4=ct&b4=ct&a4=ct&f5=ctct&e5=ctct&d5=ctct&c5=ctct&b5=ctct&a5=ctct&f6=ct&e6=ct&d6=ct&c6=ct&b6=ct&a6=ct&tile=888888,111111,888888,111111,888888,111111&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
@@ -71,8 +71,8 @@ The following examples look like a knitwork.
 ## Diagonal net
 [![p-net2a]][t-net2a]  [![p-net2c]][t-net2c]    
 
-[p-net2a]: /MAE-gf/images/nets/net2a.png "horizontally alternating"
-[p-net2c]: /MAE-gf/images/nets/net2c.png "chaotic ground"
+[p-net2a]: ../images/nets/net2a.png "horizontally alternating"
+[p-net2c]: ../images/nets/net2c.png "chaotic ground"
 
 ### Examples using one stitch
 * [cats eyes][pf-2-bias-cr], [2-paired-bias][2-bias], [2 paired triangle][vi-2-tria], [mini spider 1][2-sp-1], [mini-spider 2][2-sp-2], [untwisted brussels ground][untw-mech]   
@@ -110,7 +110,7 @@ The following examples look like sprang plaiting.
 See also [_Paris grounds_][page-paris].           
 [![p1-net3]][t-net3b]
 
-[p1-net3]: /MAE-gf/images/nets/net3.png "paris ground with double crossing"
+[p1-net3]: ../images/nets/net3.png "paris ground with double crossing"
 [page-paris]: ../docs/paris
 
 [t-net3b]: /GroundForge/tiles?patchWidth=12&patchHeight=16&c1=ctc&a1=ctc&d2=tcct&tile=B-C-,---5&tileStitch=ctc&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -119,7 +119,7 @@ See also [_Paris grounds_][page-paris].
 See also [_Lattice_][page-lotus].            
 [![p1-net4]][t-net4]
 
-[p1-net4]: /MAE-gf/images/nets/net4.png "knots"
+[p1-net4]: ../images/nets/net4.png "knots"
 [page-lotus]: ../docs/lotus
 
 [t-net4]: /GroundForge/tiles?patchWidth=16&patchHeight=14&b1=ctc&c2=crr&a2=crr&d3=ctc&c4=cll&a4=cll&tile=-5--,6v9v,---5,2z0z&tileStitch=ctc&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
@@ -129,7 +129,7 @@ This scheme is equal to the [_bias ground_][page-bias].
 
 [![p1-net5]][t-0204] 
 
-[p1-net5]: /MAE-gf/images/nets/net5.png
+[p1-net5]: ../images/nets/net5.png
 [page-bias]: ../docs/bias
 [t-0204]: /GroundForge/tiles?patchWidth=15&patchHeight=15&d1=lct&c1=ctctc&a1=ctctct&tile=6-48&tileStitch=ctct&shiftColsSW=-3&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
 
