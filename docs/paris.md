@@ -36,7 +36,7 @@ The photo shows the example on the bottom of this page, but slighty adapted to g
 This ground is also known as _dropped stitch ground"_.      
 <p style="clear: both"></p>
 
-[p-paris-in-sqr]: ../images/paris/g-paris-in-sqr.svg.svg?align=left "dropped stitch ground"
+[p-paris-in-sqr]: ../images/paris/g-paris-in-sqr.svg?align=left "dropped stitch ground"
 [t-paris-in-sqr]: /GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctct&c1=ctct&e1=ctc&g1=ctc&b2=ctct&d2=ctc&f2=tctc&h2=ctc&a3=ctc&c3=ctc&e3=tctcr&g3=tctcl&b4=ctc&d4=tctct&h4=tctct&tile=C-B-5-5-,-5-5-5-5,5-5-5-5-,-5-5---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Big Paris ground
