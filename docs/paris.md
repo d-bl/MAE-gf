@@ -8,6 +8,7 @@ title: Paris Grounds
 ## Contents
 * [Introduction](#introduction)
 * [Traditional Paris ground](#traditional-paris-ground)
+* [Stretched Paris ground](#stretched-paris-ground)
 * [Paris ground in a diamond](#paris-ground-in-a-diamond)
 * [Big Paris ground](#big-paris-ground)
 * [Another arrangement](#another-arrangement)
@@ -30,6 +31,9 @@ The photo shows the example on the bottom of this page, but slighty adapted to g
 [T-0403-KG]: /GroundForge/tiles?patchWidth=15&patchHeight=20&a1=c&c1=c&d2=tctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0424-KG]: /GroundForge/tiles?patchWidth=15&patchHeight=20&a1=cr&c1=cl&d2=ctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0424-KF]: /GroundForge/tiles?patchWidth=15&patchHeight=20&a1=ctctctcr&c1=ctctctcl&d2=ctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+
+## Stretched Paris ground
+For the stretched paris ground, see on page [_rose grounds_][p-rose-paris].       
 
 ## Paris ground in a diamond
 [![p-paris-in-sqr]][t-paris-in-sqr]
@@ -56,8 +60,6 @@ This ground is inspired by lace from 's Gravenmoer.
 [t-g64-1]: /GroundForge/tiles?patchWidth=15&patchHeight=18&e1=ct&c1=ctctt&a1=ctctr&d2=ctctl&b2=ctctr&e3=ct&a3=ct&d4=ctctl&b4=ctctr&e5=ct&a5=ct&tile=c-b-5,-5-5-,5---5,-c-b-,5---5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-5&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=5
 
 ## Another arrangement
-For the stretched paris ground, see on page [_rose grounds_][p-rose-paris].             
-
 [![swiss cheese][p-g44]][t-swiss]
 <p style="clear: both"></p>
 
