@@ -11,6 +11,7 @@ title: Paris Grounds
 * [Stretched Paris ground](#stretched-paris-ground)
 * [Paris ground in a diamond](#paris-ground-in-a-diamond)
 * [Big Paris ground](#big-paris-ground)
+* [Extensions](#extensions)
 * [Another arrangement](#another-arrangement)
 * [Way of making](#way-of-making)
 
@@ -58,6 +59,19 @@ This ground is inspired by lace from 's Gravenmoer.
 [t-big-paris]: /GroundForge/tiles?patchWidth=16&patchHeight=24&b1=ct&f1=ct&c2=c&e2=c&b3=ct&d3=ctc&f3=ct&tile=-5---5,--C-B-,-B-5-C&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 [t-g54-1]: /GroundForge/tiles?patchWidth=15&patchHeight=18&b1=ctc&e2=ctct&c2=ctct&a2=ctct&d3=ctct&b3=ctct&e4=ctcr&c4=ctcl&a4=ctct&tile=-5---,b-c-b,-5-5-,b-5-c&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=4
 [t-g64-1]: /GroundForge/tiles?patchWidth=15&patchHeight=18&e1=ct&c1=ctctt&a1=ctctr&d2=ctctl&b2=ctctr&e3=ct&a3=ct&d4=ctctl&b4=ctctr&e5=ct&a5=ct&tile=c-b-5,-5-5-,5---5,-c-b-,5---5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-5&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=5
+
+## Extensions
+(No groudforge scheme yet)   
+
+### Extension of big paris ground
+![extension big paris][p-ex-big]
+
+### Extension of dropped stitch ground
+![extension dropped stitch][p-ex-drop]
+
+
+[p-ex-big]: ../images/paris/g-extended-big-paris.svg "extended big paris ground"
+[p-ex-drop]: ../images/paris/g-extended-drop-stitch.svg "extended drop stitch ground"
 
 ## Another arrangement
 [![swiss cheese][p-g44]][t-swiss]
