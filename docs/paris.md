@@ -61,10 +61,8 @@ This ground is inspired by lace from 's Gravenmoer.
 [t-g64-1]: /GroundForge/tiles?patchWidth=15&patchHeight=18&e1=ct&c1=ctctt&a1=ctctr&d2=ctctl&b2=ctctr&e3=ct&a3=ct&d4=ctctl&b4=ctctr&e5=ct&a5=ct&tile=c-b-5,-5-5-,5---5,-c-b-,5---5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-5&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=5
 
 ## Extensions
-(No groudforge scheme yet)   
-
 ### Extension of big paris ground
-![extension big paris][p-ex-big]
+[![extension big paris][p-ex-big]][t-ex-big]
 
 ### Extension of dropped stitch ground
 [![extension dropped stitch][p-ex-drop]][t-ex-drop]
@@ -74,6 +72,7 @@ This ground is inspired by lace from 's Gravenmoer.
 [p-ex-drop]: ../images/paris/g-extended-drop-stitch.svg "extended drop stitch ground"
 
 [t-ex-drop]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=20&d1=ctct&e2=ctctlllllll&c2=ctctrrrrrrr&f3=ctctlllll&b3=ctctrrrrr&g4=ctctlll&a4=ctctrrr&tile=xxx5xxx,xx4-7xx,x4x-x7x,4xx-xx7&tileStitch=ctct&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[t-ex-big]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=20&g1=ctct&e1=ctct&c1=ctct&h2=ctct&f2=ctct&d2=ctct&b2=ctct&g3=ctct&c3=ctct&h4=ctct&f4=ctct&d4=ctct&b4=ctct&tile=--5-5-5-,-b-5-5-c,--5---5-,-b-c-b-c,&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Another arrangement
 [![swiss cheese][p-g44]][t-swiss]
