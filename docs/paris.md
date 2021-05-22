@@ -67,11 +67,13 @@ This ground is inspired by lace from 's Gravenmoer.
 ![extension big paris][p-ex-big]
 
 ### Extension of dropped stitch ground
-![extension dropped stitch][p-ex-drop]
+[![extension dropped stitch][p-ex-drop]][t-ex-drop]
 
 
 [p-ex-big]: ../images/paris/g-extended-big-paris.svg "extended big paris ground"
 [p-ex-drop]: ../images/paris/g-extended-drop-stitch.svg "extended drop stitch ground"
+
+[t-ex-drop]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=20&d1=ctct&e2=ctctlllllll&c2=ctctrrrrrrr&f3=ctctlllll&b3=ctctrrrrr&g4=ctctlll&a4=ctctrrr&tile=xxx5xxx,xx4-7xx,x4x-x7x,4xx-xx7&tileStitch=ctct&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Another arrangement
 [![swiss cheese][p-g44]][t-swiss]
