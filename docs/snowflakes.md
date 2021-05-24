@@ -68,7 +68,6 @@ Usually, the little snowflake is drawn as the left picture, on a 60 degree grid.
 
 ## Little Snowflake, crossed     
 ![little snowflake crossed][p-sn-cr]
-<p style="clear: both"></p>
 
 [![0306-kg][P-0306-kg]][T-0306-kg] 
 [![0356-kg][P-0356-kg]][T-0356-kg] 
@@ -79,6 +78,7 @@ Usually, the little snowflake is drawn as the left picture, on a 60 degree grid.
 [![0307-ng][P-0307-ng]][T-0307-ng] 
 [![0342-lg][P-0342-lg]][T-0342-lg] 
 [![0343-dg][P-0343-dg]][T-0343-dg] 
+<p style="clear: both"></p>
 
 [p-sn-cr]: ../images/snow/g-sn-cr.svg?align=right "little snowflake, crossed"
 [P-0306-kg]: ../images/snow/0306-kg.png
