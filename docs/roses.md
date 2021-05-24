@@ -20,9 +20,6 @@ On this page several variants of the rose ground.
 
 ## Rose ground
 ![roseground][p-rose-pricking]
-The Rose Ground is made on a pricking as in the diagram on the right.     
-
-<p style="clear: both"></p>
 
 [![traditional][P-0111-NG]][T-0111-NG]
 [![0112-KG][P-0112-KG]][T-0112-KG] 
@@ -31,6 +28,7 @@ The Rose Ground is made on a pricking as in the diagram on the right.
 [![0116-LG][P-0116-LG]][T-0116-LG] 
 [![0106-LG][P-0106-LG]][T-0106-LG] 
 [![0122-DG][P-0122-DG]][T-0122-DG]     
+<p style="clear: both"></p>
 
 [![0505-KG][P-0505-KG]][T-0505-KG] 
 [![0511-NG][P-0511-NG]][T-0511-NG] 
@@ -73,9 +71,6 @@ The Rose Ground is made on a pricking as in the diagram on the right.
 
 ## Slavic ground
 ![slavicground][p-slav-pricking]
-The Slavic Ground is made on a pricking as in the diagram on the right.     
-
-<p style="clear: both"></p>
 
 [![traditional][P-0671-NG]][T-0671-NG] 
 [![0654-KG][P-0654-KG]][T-0654-KG] 
@@ -83,6 +78,7 @@ The Slavic Ground is made on a pricking as in the diagram on the right.
 [![0676-KV][P-0676-KV]][T-0676-KV] 
 [![0698-KG][P-0698-KG]][T-0698-KG] 
 [![0697-NG][P-0697-NG]][T-0697-NG] 
+<p style="clear: both"></p>
 
 [T-0671-NG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ct&c1=ctct&b1=ct&a1=ctct&d2=ct&b2=ct&tile=5831,-4-7&tileStitch=ctct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0673-NG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=tct&c1=ctc&b1=tct&a1=ctc&d2=c&b2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -136,15 +132,13 @@ A variant on the Slavic Ground.
 
 ## Stretched Paris ground
 ![stretched paris ground][p-strpg]
-The Stretched Paris Ground is made on a pricking as in the diagram on the right.     
-
-<p style="clear: both"></p>
 
 [![0403-KG][P-0403-KG]][T-0403-KG] 
 [![0424-KG][P-0424-KG]][T-0424-KG]
 [![0404-KG][P-0404-KG]][T-0404-KG] 
 [![0427-NG][P-0427-NG]][T-0427-NG]
 [![0402-LG][P-0402-LG]][T-0402-LG]
+<p style="clear: both"></p>
 
 [P-0403-KG]: ../images/roses/0403-kg.png
 [P-0424-KG]: ../images/roses/0424-kg.png
