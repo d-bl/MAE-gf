@@ -21,34 +21,85 @@ On this page several snowflake-grounds are collected.
 Please see the discussion on the [_Notes_][page-tips] page about the difference between spiders and snowflakes.
 
 ## Binche Snowflake
-[![big snow][p-big-snow]][t-big-snow]
+[![binche snow][p-binche-snow]][t-binche-snow]
 For the Binche spiders see page [_Spiders_][page-spiders].
 <p style="clear: both"></p>
 
-[p-big-snow]: ../images/snow/g-binche-snow.svg?align=left "binche snowflake"
-[t-big-snow]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=ctcll&f1=ctcrr&g1=ctc&b2=ctc&e2=ctctctc&h2=ctc&a3=ctc&c3=ctcrr&d3=ctc&f3=ctc&g3=ctcll&shiftColsSE=4&shiftRowsSE=3&shiftColsSW=-4&shiftRowsSW=3&tile=5-25-56-,-5--5--5,5-C6-2B-
+[p-binche-snow]: ../images/snow/g-binche-snow.svg?align=left "binche snowflake"
+[t-binche-snow]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=ctcll&f1=ctcrr&g1=ctc&b2=ctc&e2=ctctctc&h2=ctc&a3=ctc&c3=ctcrr&d3=ctc&f3=ctc&g3=ctcll&shiftColsSE=4&shiftRowsSE=3&shiftColsSW=-4&shiftRowsSW=3&tile=5-25-56-,-5--5--5,5-C6-2B-
 
 ## Little Snowflake
 ![Snowflake 60][p-snow-60]
 Usually, the little snowflake is drawn as the left picture, on a 60 degree grid. Most of the variants shown on this page benefit of extra pins on the sides. As in the picture on the right. In the prickings below, the pins are not drawn.             
-
-[![little snowflake][p-little-snow]][t-little-snow]
-
-[p-snow-60]: ../images/snow/w-little-snow.png?align=right "snowflake drawing"
-[p-little-snow]: ../images/snow/g-sn-oo.svg "little snowflake"
-[t-little-snow]: /GroundForge/tiles?patchWidth=12&patchHeight=16&a1=ct&c1=ct&b2=ct&a3=ct&c3=ct&b4=ctct&d4=ctct&shiftColsSE=2&shiftRowsSE=4&shiftColsSW=-2&shiftRowsSW=4&tile=5-5-,-5--,B-C-,-5-5
-
-## Little Snowflake, crossed     
-![little snowflake crossed][pic-sn-cr]
 <p style="clear: both"></p>
 
-* [example 1][T-0342-xx], [example 2][T-0306-xx]
+![little snowflake][p-little-snow]
+<p style="clear: both"></p>
 
-[pic-sn-cr]: ../images/snow/g-sn-cr.svg?align=left "little snowflake, crossed"
-[p-corners]: ../docs/roses#corners
+[p-snow-60]: ../images/snow/w-little-snow.png?align=right "snowflake drawing"
+[p-little-snow]: ../images/snow/g-sn-oo.svg?align=right "little snowflake"
 
-[T-0342-xx]: /GroundForge/tiles?patchWidth=16&patchHeight=16&c1=c&e1=c&b2=ctctc&d2=tc&f2=ctctc&h2=ct&a3=ct&g3=ct&h4=ctct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=--B-C---,-E-5-O-K,5-----5-,-------5
-[T-0306-xx]: /GroundForge/tiles?patchWidth=24&patchHeight=24&c1=c&e1=c&b2=c&d2=tctc&f2=c&h2=ctct&a3=cr&g3=cl&h4=tct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=--B-C---,-E-5-O-K,5-----5-,-------5
+[![0345-og][P-0345-og]][T-0345-og] 
+[![0347-og][P-0347-og]][T-0347-og] 
+[![0381-og][P-0381-og]][T-0381-og] 
+[![0341-og][P-0341-og]][T-0341-og] 
+[![0304-og][P-0304-og]][T-0304-og] 
+[![0355-og][P-0355-og]][T-0355-og] 
+[![0301-og][P-0301-og]][T-0301-og] 
+[![0307-og][P-0307-og]][T-0307-og] 
+
+[P-0345-og]: ../images/snow/0345-og.png
+[P-0347-og]: ../images/snow/0347-og.png
+[P-0381-og]: ../images/snow/0381-og.png
+[P-0341-og]: ../images/snow/0341-og.png "half stitch spider"
+[P-0304-og]: ../images/snow/0304-og.png
+[P-0355-og]: ../images/snow/0355-og.png
+[P-0301-og]: ../images/snow/0301-og.png "s Gravenmoers"
+[P-0307-og]: ../images/snow/0307-og.png
+
+[T-0345-og]:  https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&c1=cr&a1=cl&b2=ctc&c3=c&a3=c&d4=tct&b4=tct&tile=5-5-,-5--,B-C-,-5-5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
+[T-0347-og]:  https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&c1=c&a1=c&b2=ctc&c3=c&a3=c&d4=tct&b4=tct&tile=5-5-,-5--,B-C-,-5-5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
+[T-0381-og]:  https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&c1=ct&a1=ct&b2=ct&c3=ct&a3=ct&d4=ct&b4=ct&tile=5-5-,-5--,B-C-,-5-5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
+[T-0341-og]:  https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&c1=ctr&a1=ctl&b2=ctct&c3=ct&a3=ct&d4=ct&b4=ct&tile=5-5-,-5--,B-C-,-5-5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
+[T-0304-og]:  https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&c1=cr&a1=cl&b2=c&c3=c&a3=c&d4=ctct&b4=tctc&tile=5-5-,-5--,B-C-,-5-5&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
+[T-0355-og]:  https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&c1=cr&a1=cl&b2=ctc&c3=c&a3=c&d4=tctct&b4=tctct&tile=5-5-,-5--,B-C-,-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
+[T-0301-og]:  https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&c1=ctr&a1=ctl&b2=ct&c3=ct&a3=ct&d4=cttct&b4=cttct&tile=5-5-,-5--,B-C-,-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
+[T-0307-og]:  https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&c1=ct&a1=ct&b2=ctct&c3=c&a3=c&d4=tctct&b4=tctct&tile=5-5-,-5--,B-C-,-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
+
+## Little Snowflake, crossed     
+![little snowflake crossed][p-sn-cr]
+<p style="clear: both"></p>
+
+[![0306-kg][P-0306-kg]][T-0306-kg] 
+[![0356-kg][P-0356-kg]][T-0356-kg] 
+[![0381-ng][P-0381-ng]][T-0381-ng] 
+[![0309-ng][P-0309-ng]][T-0309-ng] 
+[![0341-ng][P-0341-ng]][T-0341-ng] 
+[![0301-ng][P-0301-ng]][T-0301-ng] 
+[![0307-ng][P-0307-ng]][T-0307-ng] 
+[![0342-lg][P-0342-lg]][T-0342-lg] 
+[![0343-dg][P-0343-dg]][T-0343-dg] 
+
+[p-sn-cr]: ../images/snow/g-sn-cr.svg?align=right "little snowflake, crossed"
+[P-0306-kg]: ../images/snow/0306-kg.png
+[P-0356-kg]: ../images/snow/0356-kg.png
+[P-0381-ng]: ../images/snow/0381-ng.png
+[P-0309-ng]: ../images/snow/0309-ng.png
+[P-0341-ng]: ../images/snow/0341-ng.png
+[P-0301-ng]: ../images/snow/0301-ng.png  "s Gravenmoers"
+[P-0307-ng]: ../images/snow/0307-ng.png
+[P-0342-lg]: ../images/snow/0342-lg.png
+[P-0343-dg]: ../images/snow/0343-dg.png
+
+[T-0306-kg]:  https://d-bl.github.io/GroundForge/tiles?patchWidth=24&patchHeight=24&e1=c&c1=c&h2=tctct&f2=c&d2=tctct&b2=c&g3=cl&a3=cr&h4=tct&tile=--B-C---,-E-5-O-K,5-----5-,-------5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[T-0356-kg]:  https://d-bl.github.io/GroundForge/tiles?patchWidth=20&patchHeight=20&e1=c&c1=c&h2=ctct&f2=tct&d2=tctc&b2=tct&g3=cl&a3=cr&h4=ctc&tile=--B-C---,-E-5-O-K,5-----5-,-------5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[T-0381-ng]:  https://d-bl.github.io/GroundForge/tiles?patchWidth=20&patchHeight=20&e1=ct&c1=ct&h2=ct&f2=ct&d2=ct&b2=ct&g3=ct&a3=ct&h4=ct&tile=--B-C---,-E-5-O-K,5-----5-,-------5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[T-0309-ng]:  https://d-bl.github.io/GroundForge/tiles?patchWidth=24&patchHeight=24&e1=c&c1=c&h2=ctc&f2=tct&d2=ctc&b2=tct&g3=cl&a3=cr&h4=tct&tile=--B-C---,-E-5-O-K,5-----5-,-------5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[T-0341-ng]:  https://d-bl.github.io/GroundForge/tiles?patchWidth=20&patchHeight=20&e1=ct&c1=ct&h2=ct&f2=ct&d2=ct&b2=ct&g3=ct&a3=ct&h4=ctct&tile=--B-C---,-E-5-O-K,5-----5-,-------5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[T-0301-ng]:  https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=16&e1=ct&c1=ct&h2=cttct&f2=ct&d2=cttct&b2=ct&g3=ctl&a3=ctr&h4=ct&tile=--B-C---,-E-5-O-K,5-----5-,-------5&tileStitch=ct&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[T-0307-ng]:  https://d-bl.github.io/GroundForge/tiles?patchWidth=24&patchHeight=24&e1=ct&c1=ct&h2=ctct&f2=ct&d2=ctct&b2=ct&g3=ct&a3=ct&h4=ctct&tile=--B-C---,-E-5-O-K,5-----5-,-------5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[T-0342-lg]:  https://d-bl.github.io/GroundForge/tiles?patchWidth=20&patchHeight=20&e1=c&c1=c&h2=ct&f2=ctc&d2=tc&b2=ctc&g3=ct&a3=ct&h4=ctct&tile=--B-C---,-E-5-O-K,5-----5-,-------5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[T-0343-dg]:  https://d-bl.github.io/GroundForge/tiles?patchWidth=20&patchHeight=20&e1=ct&c1=ct&h2=ct&f2=ctct&d2=ct&b2=ctct&g3=c&a3=c&h4=tctct&tile=--B-C---,-E-5-O-K,5-----5-,-------5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Snowflake in a diamond
 [![snowflake in diamond][p-snow-diamond]][T-0306-sndia]
