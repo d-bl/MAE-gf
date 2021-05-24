@@ -34,10 +34,6 @@ Usually, the little snowflake is drawn as the left picture, on a 60 degree grid.
 <p style="clear: both"></p>
 
 ![little snowflake][p-little-snow]
-<p style="clear: both"></p>
-
-[p-snow-60]: ../images/snow/w-little-snow.png?align=right "snowflake drawing"
-[p-little-snow]: ../images/snow/g-sn-oo.svg?align=right "little snowflake"
 
 [![0345-og][P-0345-og]][T-0345-og] 
 [![0347-og][P-0347-og]][T-0347-og] 
@@ -47,7 +43,11 @@ Usually, the little snowflake is drawn as the left picture, on a 60 degree grid.
 [![0355-og][P-0355-og]][T-0355-og] 
 [![0301-og][P-0301-og]][T-0301-og] 
 [![0307-og][P-0307-og]][T-0307-og] 
+<p style="clear: both"></p>
 
+
+[p-snow-60]: ../images/snow/w-little-snow.png?align=right "snowflake drawing"
+[p-little-snow]: ../images/snow/g-sn-oo.svg?align=right "little snowflake"
 [P-0345-og]: ../images/snow/0345-og.png
 [P-0347-og]: ../images/snow/0347-og.png
 [P-0381-og]: ../images/snow/0381-og.png
