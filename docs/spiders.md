@@ -121,9 +121,10 @@ There are many ways of making a binche spider. Below are given some examples.
 [t-bi-spin]: /GroundForge/tiles?patchWidth=15&patchHeight=15&a1=ctcctc&e1=ctctttctc&b2=ctc&c2=ctcrrr&d2=ctc&e2=ctc&f2=ctc&g2=ctclll&h2=ctc&a3=ctc&b3=ctcrrr&c3=ctc&d3=ctc&f3=ctc&g3=ctc&h3=ctclll&tile=5---5---,-CD632AB,5666-222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
 
 ## Stacked spiders
-[Another][T-SA1] ground can be obtained playing with the <span class="elem">arrange the repeat</span> parameters.
+[![stacked spiders][p-sp-sa1]][t-sp-sa1]
 
-[T-SA1]: /GroundForge/tiles?patchWidth=15&patchHeight=15&b1=ctc&a2=ctcll&c2=ctcrr&b3=ctctt&d3=ctc&a4=ctc&c4=ctc&d5=ctc&a6=ctcrr&c6=ctcll&b7=ctctt&d7=ctc&a8=ctc&c8=ctc&tile=-5--,B-C-,-5-5,5-5-,---5,C-B-,-5-5,5-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=8&shiftColsSE=2&shiftRowsSE=8
+[p-sp-sa1]: ../images/spiders/g-sa1.svg "stacked spider"
+[t-sp-sa1]: /GroundForge/tiles?patchWidth=15&patchHeight=15&b1=ctc&a2=ctcll&c2=ctcrr&b3=ctctt&d3=ctc&a4=ctc&c4=ctc&d5=ctc&a6=ctcrr&c6=ctcll&b7=ctctt&d7=ctc&a8=ctc&c8=ctc&tile=-5--,B-C-,-5-5,5-5-,---5,C-B-,-5-5,5-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=8&shiftColsSE=2&shiftRowsSE=8
 
 ***
 [&uArr;]()  
