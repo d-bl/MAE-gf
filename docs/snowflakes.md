@@ -13,7 +13,7 @@ title: snowflakes
 * [Snowflake in a diamond](#snowflake-in-a-diamond)
 * [Snowflake in a diamond, crossed](#snowflake-in-a-diamond-crossed)
 * [Snowflakes diagonal](#snowflakes-diagonal)
-* [Another arrangement](#another-arrangement)
+* [Other arrangements](#other-arrangements)
 * [Making of](#making-of)
 
 ## Introduction
@@ -125,11 +125,18 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 [p-snow-diag]: ../images/snow/g-sn-dia.svg "diagonal snowflakes" 
 [t-snow-diag]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&c1=ctc&b1=ctc&a1=tctct&c2=ctc&b2=ctc&a2=ctc&tile=1011,114-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-## Another arrangement
+## Other arrangements
 [![offset snowflake][p-G63]][t-63-43]
+[![37-01][P-G37]][T-37-01]
+[![38-01][P-G38]][T-38-01]
 
 [p-G63]: ../images/snow/G63.svg "offset snowflakes" 
+[P-G37]: ../images/snow/G37.svg
+[P-G38]: ../images/snow/G38.svg
+
 [t-63-43]: https://d-bl.github.io/GroundForge/tiles?patchWidth=15&patchHeight=20&c1=ct&a1=ctct&d2=cl&b2=cr&c3=ctct&d4=ct&b4=ct&c5=ct&a5=ct&tile=5-5-,-5-5,--5-,-b-c,5-5-&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=5
+[T-37-01]:  https://d-bl.github.io/GroundForge/tiles?patchWidth=20&patchHeight=20&c1=ctc&a1=ctc&b2=tctct&c3=ctc&a3=ctc&d4=ctctctc&b4=ctctctc&d5=ctctctc&b5=ctctctc&tile=5-5-,x5x-,4-7-,-5-5,-r-r&footsideStitch=ctctt&tileStitch=ctctctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=5&shiftColsSE=2&shiftRowsSE=5
+[T-38-01]:  https://d-bl.github.io/GroundForge/tiles?patchWidth=20&patchHeight=20&e1=ctctctc&c1=ctc&a1=ctc&e2=ctctctc&b2=tctct&e3=ctctctc&c3=ctc&a3=ctc&tile=5-5-5-,x5x-r-,4-7-r-&footsideStitch=ctctt&tileStitch=ctctctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
 ## Making of
 Some of the grounds can be made either as a crossed snowflake or as a rose ground. See the example below: the result is the same.  
