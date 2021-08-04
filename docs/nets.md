@@ -22,9 +22,9 @@ Please note: the second and third diagrams are equivalent in GroundForge terms.
 It is possible to define a strechted honeycomb for the prototype diagram.
 The pair diagram however will initially show kite shapes, when activating the animation 
 these kites will reshape into squares with a 45 degree angle.
-Only when defining plaits as stitches you will see the honeycomb again in the [thread diagram].
+Only when defining plaits as stitches you will see the honeycomb again in the [thread diagram][t-hexagon-1].
 
-[thread diagram]: /GroundForge/tiles?patchWidth=12&patchHeight=16&c1=-&a1=-&c2=ctctctctt&a2=ctctctctt&d3=ctctctctt&b3=ctctctctt&tile=5-5-,r-r-,-5-5&footsideStitch=ctctt&tileStitch=ctctctctt&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
+[t-hexagon-1]: /GroundForge/tiles?patchWidth=12&patchHeight=16&c1=-&a1=-&c2=ctctctctt&a2=ctctctctt&d3=ctctctctt&b3=ctctctctt&tile=5-5-,r-r-,-5-5&footsideStitch=ctctt&tileStitch=ctctctctt&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
 
 It gets interesting, if we would use two (or more) different stitches. These grounds are known as "chaotic ground", "alternating ground", ...    
 Several of these can be found in the book by mrs A. Rühle: _Fillings from Hunnia Lace_.        
@@ -76,7 +76,7 @@ The following examples look like a knitwork.
 
 ### Examples using one stitch
 * [cats eyes][pf-2-bias-cr], [2-paired-bias][2-bias], [2 paired triangle][vi-2-tria], [mini spider 1][2-sp-1], [mini-spider 2][2-sp-2], [untwisted brussels ground][untw-mech]   
-* [double crossed tulle][PF-dct]    
+* [double crossed tulle][PF-dct], [hexagons][t-hexagon-2]    
 
 ### Sprang
 The following examples look like sprang plaiting.
@@ -105,6 +105,8 @@ The following examples look like sprang plaiting.
 
 [vi-sprang-1]: /GroundForge/tiles?patchWidth=14&patchHeight=14&a1=clcl&tile=5-&footsideStitch=ctctt&tileStitch=clcl&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
 [vi-sprang-2]: /GroundForge/tiles?patchWidth=14&patchHeight=14&a1=cllcl&tile=5-&footsideStitch=ctctt&tileStitch=cllcl&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
+
+[t-hexagon-2]: /GroundForge/tiles?patchWidth=12&patchHeight=16&c1=-&a1=-&c2=ctctctc&a2=ctctctc&d3=ctctctc&b3=ctctctc&tile=5-5-,r-r-,-5-5&footsideStitch=ctctt&tileStitch=ctctctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
 
 ## Honeycomb net 1
 See also [_Paris grounds_][page-paris].           
