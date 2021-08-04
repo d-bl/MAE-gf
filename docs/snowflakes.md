@@ -43,6 +43,7 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 [![0355-og][P-0355-og]][T-0355-og] 
 [![0301-og][P-0301-og]][T-0301-og] 
 [![0307-og][P-0307-og]][T-0307-og] 
+[![0366-og][P-0366-og]][T-0366-og]
 <p style="clear: both"></p>
 
 [p-snow-60]: ../images/snow/w-little-snow.png?align=right "snowflake drawing"
@@ -55,6 +56,7 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 [P-0355-og]: ../images/snow/0355-og.png
 [P-0301-og]: ../images/snow/0301-og.png "s Gravenmoers"
 [P-0307-og]: ../images/snow/0307-og.png
+[P-0366-og]: ../images/snow/0366-og.png
 
 [T-0345-og]:  https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&c1=cr&a1=cl&b2=ctc&c3=c&a3=c&d4=tct&b4=tct&tile=5-5-,-5--,B-C-,-5-5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 [T-0347-og]:  https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=20&c1=c&a1=c&b2=ctc&c3=c&a3=c&d4=tct&b4=tct&tile=5-5-,-5--,B-C-,-5-5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
@@ -64,6 +66,7 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 [T-0355-og]:  https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&c1=cr&a1=cl&b2=ctc&c3=c&a3=c&d4=tctct&b4=tctct&tile=5-5-,-5--,B-C-,-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 [T-0301-og]:  https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&c1=ctr&a1=ctl&b2=ct&c3=ct&a3=ct&d4=cttct&b4=cttct&tile=5-5-,-5--,B-C-,-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 [T-0307-og]:  https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=16&c1=ct&a1=ct&b2=ctct&c3=c&a3=c&d4=tctct&b4=tctct&tile=5-5-,-5--,B-C-,-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
+[T-0366-og]: https://d-bl.github.io/GroundForge/tiles?patchWidth=16&patchHeight=20&c1=ctc&a1=ctc&b2=tctct&c3=ctc&a3=ctc&d4=ctc&b4=ctc&tile=5-5-,-5--,B-C-,-5-5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 
 ## Little Snowflake, crossed     
 ![little snowflake crossed][p-sn-cr]
