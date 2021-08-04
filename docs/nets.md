@@ -24,7 +24,7 @@ The pair diagram however will initially show kite shapes, when activating the an
 these kites will reshape into squares with a 45 degree angle.
 Only when defining plaits as stitches you will see the honeycomb again in the [thread diagram].
 
-[thread diagram]: /GroundForge/tiles?patchWidth=12&patchHeight=16&tile=5-5-,r-r-,-5-5&tileStitch=ctctctctt&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
+[thread diagram]: /GroundForge/tiles?patchWidth=12&patchHeight=16&c1=-&a1=-&c2=ctctctctt&a2=ctctctctt&d3=ctctctctt&b3=ctctctctt&tile=5-5-,r-r-,-5-5&footsideStitch=ctctt&tileStitch=ctctctctt&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
 
 It gets interesting, if we would use two (or more) different stitches. These grounds are known as "chaotic ground", "alternating ground", ...    
 Several of these can be found in the book by mrs A. Rühle: _Fillings from Hunnia Lace_.        
