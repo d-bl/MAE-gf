@@ -80,6 +80,7 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 [![0307-ng][P-0307-ng]][T-0307-ng] 
 [![0342-lg][P-0342-lg]][T-0342-lg] 
 [![0343-dg][P-0343-dg]][T-0343-dg] 
+[![0366-ng][P-0366-ng]][T-0366-ng]
 <p style="clear: both"></p>
 
 [p-sn-cr]: ../images/snow/g-sn-cr.svg?align=right "little snowflake, crossed"
@@ -92,6 +93,7 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 [P-0307-ng]: ../images/snow/0307-ng.png
 [P-0342-lg]: ../images/snow/0342-lg.png
 [P-0343-dg]: ../images/snow/0343-dg.png
+[P-0366-ng]: ../images/snow/0366-ng.png
 
 [T-0306-kg]: /GroundForge/tiles?patchWidth=24&patchHeight=24&e1=c&c1=c&h2=tctct&f2=c&d2=tctct&b2=c&g3=cl&a3=cr&h4=tct&tile=--B-C---,-E-5-O-K,5-----5-,-------5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [T-0356-kg]: /GroundForge/tiles?patchWidth=20&patchHeight=20&e1=c&c1=c&h2=ctct&f2=c&d2=tctc&b2=c&g3=cl&a3=cr&h4=ctc&tile=--B-C---,-E-5-O-K,5-----5-,-------5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
@@ -102,6 +104,7 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 [T-0307-ng]: /GroundForge/tiles?patchWidth=24&patchHeight=24&e1=ct&c1=ct&h2=ctct&f2=ct&d2=ctct&b2=ct&g3=ct&a3=ct&h4=ctct&tile=--B-C---,-E-5-O-K,5-----5-,-------5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [T-0342-lg]: /GroundForge/tiles?patchWidth=20&patchHeight=20&e1=c&c1=c&h2=ct&f2=ctc&d2=tc&b2=ctc&g3=ct&a3=ct&h4=ctct&tile=--B-C---,-E-5-O-K,5-----5-,-------5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [T-0343-dg]: /GroundForge/tiles?patchWidth=20&patchHeight=20&e1=ct&c1=ct&h2=ct&f2=ctct&d2=ct&b2=ctct&g3=c&a3=c&h4=tctct&tile=--B-C---,-E-5-O-K,5-----5-,-------5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[T-0366-ng]: /GroundForge/tiles?patchWidth=20&patchHeight=20&e1=ctc&c1=ctc&h2=ctc&f2=tct&d2=ctc&b2=tct&g3=ctc&a3=ctc&h4=tctct&tile=--B-C---,-E-5-O-K,5-----5-,-------5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Snowflake in a diamond
 [![snowflake in diamond][p-snow-diamond]][T-0306-sndia]
