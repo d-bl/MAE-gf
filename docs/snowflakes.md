@@ -114,16 +114,18 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 [T-0306-sndia]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ct&d1=ctctt&b2=ctr&c2=ctctt&d2=ctct&e2=ctctt&f2=ctl&a3=ctctt&b3=ctctt&c3=ct&e3=ct&f3=ctctt&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5--5--,-C632B,566-22
 
 ## Snowflake in a diamond, crossed
-![snowflake diamond crossed][p-snow-diax]   
+![snowflake diamond crossed][p-snow-diax]
+
+[![0341-div][P-0341-div]][T-0341-div] 
+[![0356-kio][P-0356-kio]][T-0356-kio]   
 <p style="clear: both"></p>
 
-* [example 1][T-0342-sq], [example 2][T-0356-sq]
+[p-snow-diax]: ../images/snow/g-sn-uni-sc.svg?align=right "snowflake crossed in a diamond"
+[P-0341-div]: ../images/snow/0341-div.png
+[P-0356-kio]: ../images/snow/0356-kio.png   
 
-[p-snow-diax]: ../images/snow/g-sn-uni-sc.svg?align=left "snowflake crossed in a diamond"
-
-
-[T-0342-sq]: /GroundForge/tiles?patchWidth=17&patchHeight=16&j1=ctctt&f1=ctctt&d1=ctct&c1=ct&b1=ctct&d2=ct&b2=ct&h3=ctctt&c3=ctct&d4=ct&b4=ct&j5=ctctt&f5=ctctt&d5=ctctt&c5=ct&b5=ctctt&tile=-O3E-5---5,-4-7--W-Y-,--5----5--,-B-C--Y-W-,-158-L---H&tileStitch=ctct&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5
-[T-0356-sq]: /GroundForge/tiles?patchWidth=17&patchHeight=16&j1=ctcl&f1=ctcr&d1=c&c1=ctct&b1=c&d2=cr&b2=cl&h3=ctct&c3=ctc&d4=c&b4=c&j5=ctcr&f5=ctcl&d5=c&c5=tctc&b5=c&tile=-O3E-5---5,-4-7--W-Y-,--5----5--,-B-C--Y-W-,-158-L---H&footsideStitch=tctct&tileStitch=ctc&headsideStitch=tctct&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5
+[T-0341-div]: /GroundForge/tiles?patchWidth=17&patchHeight=16&j1=ctctt&f1=ctctt&d1=ctct&c1=ct&b1=ctct&d2=ct&b2=ct&h3=ctctt&c3=ctct&d4=ct&b4=ct&j5=ctctt&f5=ctctt&d5=ctctt&c5=ct&b5=ctctt&tile=-O3E-5---5,-4-7--W-Y-,--5----5--,-B-C--Y-W-,-158-L---H&tileStitch=ctct&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5
+[T-0356-kio]: /GroundForge/tiles?patchWidth=17&patchHeight=16&j1=ctcl&f1=ctcr&d1=c&c1=ctct&b1=c&d2=cr&b2=cl&h3=ctct&c3=ctc&d4=c&b4=c&j5=ctcr&f5=ctcl&d5=c&c5=tctc&b5=c&tile=-O3E-5---5,-4-7--W-Y-,--5----5--,-B-C--Y-W-,-158-L---H&footsideStitch=tctct&tileStitch=ctc&headsideStitch=tctct&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5
 
 ## Snowflakes diagonal
 [![diagonal snowflake][p-snow-diag]][t-snow-diag]
