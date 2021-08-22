@@ -107,11 +107,15 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 [T-0366-ng]: /GroundForge/tiles?patchWidth=20&patchHeight=20&e1=ctc&c1=ctc&h2=ctc&f2=tct&d2=ctc&b2=tct&g3=ctc&a3=ctc&h4=tctct&tile=--B-C---,-E-5-O-K,5-----5-,-------5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Snowflake in a diamond
-[![snowflake in diamond][p-snow-diamond]][T-0306-sndia]
+![snowflake in diamond][p-snow-diamond]
+
+[![0305-oiv][P-0305-oiv]][T-0305-oiv] 
 <p style="clear: both"></p>
 
-[p-snow-diamond]: ../images/snow/g-sn-uni-sq.svg?align=left "snowflake in a diamond"
-[T-0306-sndia]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ct&d1=ctctt&b2=ctr&c2=ctctt&d2=ctct&e2=ctctt&f2=ctl&a3=ctctt&b3=ctctt&c3=ct&e3=ct&f3=ctctt&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5--5--,-C632B,566-22
+[p-snow-diamond]: ../images/snow/g-sn-uni-sq.svg?align=right "snowflake in a diamond"
+[P-0305-oiv]: ../images/snow/0305-oiv.png
+
+[T-0305-oiv]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ct&d1=ctctt&b2=ctr&c2=ctctt&d2=ctct&e2=ctctt&f2=ctl&a3=ctctt&b3=ctctt&c3=ct&e3=ct&f3=ctctt&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5--5--,-C632B,566-22
 
 ## Snowflake in a diamond, crossed
 ![snowflake diamond crossed][p-snow-diax]
