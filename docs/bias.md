@@ -87,7 +87,6 @@ Traditionally, a bias ground is made as follows: make two stitches diagonally, m
 [T-0254-Kd]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=c&c1=ctcl&a1=ctcl&d2=ctcl&b2=ctcl&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 
-
 ### examples with two different middle stitches
 [![0223-N][P-0223-N]][T-0223-N]
 [![0247-Dd][P-0247-Dd]][T-0247-Dd]
@@ -99,7 +98,6 @@ Traditionally, a bias ground is made as follows: make two stitches diagonally, m
 [![0204-Kd][P-0204-Kd]][T-0204-Kd]
 [![0238-R][P-0238-R]][T-0238-R]
 
-
 [P-0223-N]: ../images/bias/0223-N.png
 [P-0224-K]: ../images/bias/0224-K.png
 [P-0204-Kd]: ../images/bias/0204-Kd.png
@@ -109,7 +107,6 @@ Traditionally, a bias ground is made as follows: make two stitches diagonally, m
 [P-0233-Nd]: ../images/bias/0233-Nd.png
 [P-0235-Nd]: ../images/bias/0235-Nd.png
 [P-0238-R]: ../images/bias/0238-R.png
-
 
 [T-0223-N]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctct&c1=ctct&a1=ctct&d2=ctct&b2=ctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0224-K]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=tctct&c1=ctc&a1=ctcl&d2=ctc&b2=ctcl&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -123,14 +120,14 @@ Traditionally, a bias ground is made as follows: make two stitches diagonally, m
 
 
 ##  Bias Ground crossed rose style
-![crossed][P-0221-at]
-* [Whiting D6][T-wi-D6], [Whiting F4][T-wi-F4], [example][T-0278-KG]
+[![crossed][P-0221-at]][T-0278-KG]  
+See also [mrs Whiting's index][L-whiting]: D6 and F4.   
 
 [P-0221-at]: ../images/bias/g-bias-at.svg "tradtional bias crossed"
 
-[T-wi-D6]: /GroundForge/tiles?whiting=D6_P139&patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&d1=ct&a2=ct&b2=ctct&c2=ct&d2=ctct&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=8-48,8314
-[T-wi-F4]: /GroundForge/tiles?whiting=F4_P180&patchWidth=12&patchHeight=12&a1=ctcrrctc&c1=ctcllctc&d1=ctc&a2=ctc&b2=ctc&c2=ctc&d2=ctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=8-48,8314
 [T-0278-KG]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=c&a2=c&b2=ctct&c2=c&d2=tctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=8-48,8314
+
+[L-whiting]: /gw-lace-to-gf/
 
 ## Bias Ground crossed differently
 [![][p-bias-aa]][t-bias-aa]
