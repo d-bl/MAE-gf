@@ -117,8 +117,8 @@ A variant on the Slavic Ground.
 [P-0514-KG]: ../images/roses/0514-kg.png 
 [P-0513-DG]: ../images/roses/0513-dg.png 
 [P-0693-XG]: ../images/roses/0693-xg.png
-[P-0692-KG]: ../images/roses/0692-KG.png
-[P-0665-2G]: ../images/roses/0665-2G.png
+[P-0692-KG]: ../images/roses/0692-kg.png
+[P-0665-2G]: ../images/roses/0665-2g.png
 
 [T-0696-KG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=c&c1=ctctc&b1=c&a1=ctctc&d2=c&b2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0666-KG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=c&c1=ctctc&b1=c&a1=ctctc&d2=rcr&b2=lcl&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
