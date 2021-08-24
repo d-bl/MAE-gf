@@ -26,8 +26,8 @@ The traditional units separated with plaits. Please note: the plaits should stay
 
 ![fusion][p-fusion]
 [![rose-ground-unit][P-0116-kf]][T-0116-kf] 
-[![snowflake-unit][P-0342-kf]][T-0342-kf] 
 [![bias-unit][P-0284-kf]][T-0284-kf] 
+[![snowflake-unit][P-0342-kf]][T-0342-kf] 
 <p style="clear: both"></p>
 
 [p-fusion]: ../images/marian/G-fusion.svg?align=right "fusion"
