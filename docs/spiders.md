@@ -102,13 +102,9 @@ See also page [_Snowflakes_][snow-page].
 [snow-page]: ../docs/snowflakes
 
 ### "Bolletje"  
-![binche spider][p-bolletje]
 There are many ways of making a binche spider. Below are given some examples.
-<p style="clear: both"></p>
 
 * [binche spider 1][T-SP-BB1], [binche spider 2][T-SP-BB2], [binche spider 3][T-SP-BB3]
-
-[p-bolletje]: ../images/spiders/w-bi-boll.png?align=left "bolletje"
 
 [T-SP-BB1]: /GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctc&c1=ctc&d1=ctct&f1=rctct&g1=ctc&h1=lctct&j1=ctct&k1=ctc&b2=ctc&g2=ctct&l2=ctc&a3=ctc&c3=ctc&d3=lctct&f3=ctct&g3=ctc&h3=ctct&j3=rctct&k3=ctc&b4=ctc&c4=lctct&d4=ctct&e4=ctct&f4=ctc&h4=ctc&i4=ctct&j4=ctct&k4=rctct&l4=ctc&tile=5-27-256-46-,-5----5----5,5-CD-B3C-AB-,-56866-22125&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-6&shiftRowsSW=4&shiftColsSE=6&shiftRowsSE=4
 [T-SP-BB2]: /GroundForge/tiles?whiting=G4_P201&patchWidth=21&patchHeight=14&i1=ctctt&f1=ctc&e1=ctc&d1=ctc&b1=ctc&a1=ctctt&g2=ctcrr&i3=ctctt&f3=ctc&e3=ctc&d3=ctc&b3=ctcll&a3=ctctt&n4=ctctt&l4=ctctt&j4=ctctt&h4=ctctt&f4=ctt&d4=ctcll&c4=ctcll&b4=ctctt&g5=ctctt&c5=ctctt&n6=ctctt&j6=ctctt&m7=c&k7=ctc&j7=ctc&i7=ctctt&g7=ctctt&e7=ctctt&c7=ctctt&a7=ctctt&tile=56-o98-z5-----,------5-------,ag-aab-wd-----,-256-m-l-o-k-e,--5---5---y-w-,---w-y---b---c,h-g-5-n-l3h-e-,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-7&shiftRowsSW=7&shiftColsSE=7&shiftRowsSE=7
