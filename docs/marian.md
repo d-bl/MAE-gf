@@ -65,13 +65,12 @@ In the ground shown on the picture the threads between the bottom and top positi
 The _Star_ looks like a three paired join, but has crossings instead of twists. For the real star see page [_Miscellaneous_][pag-3-join].      
 For more ants, see page [_Rose grounds_][pag-ants].   
 
-* [ants][T-0665], [star][T-3cc]     
+* [star][T-3cc]     
 
 <p style="clear: both"></p>
 
 [P-0692]: ../images/marian/0692-KG.png?align=left
 [T-0692]: /GroundForge/tiles?patchWidth=12&patchHeight=16&a1=tctcc&b1=c&c1=cctct&d1=c&b2=c&d2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0665]: /GroundForge/tiles?patchWidth=12&patchHeight=16&a1=ctctct&b1=c&c1=tctctc&d1=c&b2=c&d2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-3cc]: /GroundForge/tiles?patchWidth=12&patchHeight=16&a1=tctc&b1=cc&c1=ctct&d1=cc&b2=c&d2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [pag-3-join]: ../docs/misca#3-paired-join  
 [pag-ants]: ../docs/roses#ants
