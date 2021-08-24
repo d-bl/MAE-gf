@@ -98,13 +98,14 @@ On this page several variants of the rose ground.
 A variant on the Slavic Ground.
 
 [![0696-KG][P-0696-KG]][T-0696-KG] 
-[![0666-KG][P-0666-KG]][T-0666-KG] 
+[![0665-2G][P-0665-2G]][T-0665-2G] 
 [![0685-KG][P-0685-KG]][T-0685-KG] 
 [![0683-NG][P-0683-NG]][T-0683-NG] 
 [![0681-NG][P-0681-NG]][T-0681-NG]
 [![0514-KG][P-0514-KG]][T-0514-KG]
 [![0510-LG][P-0510-LG]][T-0510-LG] 
-[![0513-DG][P-0513-dG]][T-0513-DG] 
+[![0513-DG][P-0513-DG]][T-0513-DG] 
+[![0692-KG][P-0692-KG]][T-0692-KG] 
 [![0693-XG][P-0693-XG]][T-0693-XG] 
 
 [P-0696-KG]: ../images/roses/0696-kg.png
@@ -116,6 +117,8 @@ A variant on the Slavic Ground.
 [P-0514-KG]: ../images/roses/0514-kg.png 
 [P-0513-DG]: ../images/roses/0513-dg.png 
 [P-0693-XG]: ../images/roses/0693-xg.png
+[P-0692-KG]: ../images/roses/0692-KG.png
+[P-0665-2G]: ../images/roses/0665-2G.png
 
 [T-0696-KG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=c&c1=ctctc&b1=c&a1=ctctc&d2=c&b2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0666-KG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=c&c1=ctctc&b1=c&a1=ctctc&d2=rcr&b2=lcl&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -126,6 +129,8 @@ A variant on the Slavic Ground.
 [T-0514-KG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=c&c1=ctctc&b1=c&a1=tctc&d2=crc&b2=clc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0513-DG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=tctct&c1=ctctc&b1=tctct&a1=tctc&d2=crrc&b2=cllc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0693-XG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ct&c1=cctc&b1=ct&a1=ctcc&d2=c&b2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0692-KG]:  /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=c&c1=cctct&b1=c&a1=tctcc&d2=c&b2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0665-2G]:  /GroundForge/tiles?patchWidth=12&patchHeight=16&a1=ctctct&b1=c&c1=tctctc&d1=c&b2=c&d2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ## Stretched Paris ground
 ![stretched paris ground][p-strpg]
