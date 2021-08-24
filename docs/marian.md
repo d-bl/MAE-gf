@@ -25,7 +25,9 @@ The colour grey in the working diagrams indicates <span class="stch">cross only<
 The traditional units separated with plaits. Please note: the plaits should stay plaits. The snowflake-unit example is meant to be made with pins at the sides of the snowflake-unit. The ground came into being as a half stitch spider, but forgetting the twists at the corners.            
 
 ![fusion][p-fusion]
-[![rose-ground-unit][P-0116-kf]][T-0116-kf]  [![snowflake-unit][P-0342-kf]][T-0342-kf]  [![bias-unit][P-0284-kf]][T-0284-kf]
+[![rose-ground-unit][P-0116-kf]][T-0116-kf] 
+[![snowflake-unit][P-0342-kf]][T-0342-kf] 
+[![bias-unit][P-0284-kf]][T-0284-kf] 
 <p style="clear: both"></p>
 
 [p-fusion]: ../images/marian/G-fusion.svg?align=right "fusion"
@@ -43,7 +45,9 @@ This stitch I created because I wished to see a little loop at the sides of the 
   
 <p style="clear: both"></p>
 
-[![connection with clothstitches][P-0902-l]][T-0902-l]  [![connection with plaits][P-0902-f]][T-0902-f]  [![in a diamond][P-0902-q]][T-0902-q]
+[![connection with clothstitches][P-0902-l]][T-0902-l] 
+[![connection with plaits][P-0902-f]][T-0902-f] 
+[![in a diamond][P-0902-q]][T-0902-q] 
 
 [p-sunny]: ../images/marian/0902-KP.png?align=right "sunny stitch"
 [P-0902-l]: ../images/marian/0902-lg.png
