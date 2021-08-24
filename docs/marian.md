@@ -38,11 +38,12 @@ The traditional units separated with plaits. Please note: the plaits should stay
 [T-0284-kf]: /GroundForge/tiles?patchWidth=16&patchHeight=16&c1=ctctctctctc&b1=ctct&a1=ctctctctctc&c2=ctc&b2=c&a2=ctc&c3=-&b3=ctctc&a3=-&tile=Q3S,488,148&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
 ## Sunny stitch
-This stitch I created because I wished to see a little loop at the sides of the rose ground. To obtain this, I used a very onorthodox stitch at the sides of the unit. The examples below use all the same unit, but these units are connected in different ways. The <span class="b-orng">colour orange</span> means: <span class="elem">crcllcrc</span> on the left side and <span class="elem">clcrrclc</span> on the right side.           
+![sunny stitch][p-sunny]
+This stitch I created because I wished to see a little loop at the sides of the rose ground. To obtain this, I used a very onorthodox stitch at the sides of the unit. The examples below use all the same unit, but these units are connected in different ways. The <span class="b-orng">colour orange</span> means: <span class="elem">crcllcrc</span> on the left  and <span class="elem">clcrrclc</span> on the right side of the unit.           
   
-![sunny stitch][p-sunny] 
-[![connection with clothstitches][P-0902-l]][T-0902-l]  [![connection with plaits][P-0902-f]][T-0902-f]  [![in a diamond][P-0902-q]][T-0902-q]
 <p style="clear: both"></p>
+
+[![connection with clothstitches][P-0902-l]][T-0902-l]  [![connection with plaits][P-0902-f]][T-0902-f]  [![in a diamond][P-0902-q]][T-0902-q]
 
 [p-sunny]: ../images/marian/0902-KP.png?align=right "sunny stitch"
 [P-0902-l]: ../images/marian/0902-lg.png
