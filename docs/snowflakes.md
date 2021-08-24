@@ -34,7 +34,6 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 
 ## Little Snowflake
 ![little snowflake][p-little-snow]
-
 [![0345-og][P-0345-og]][T-0345-og] 
 [![0347-og][P-0347-og]][T-0347-og] 
 [![0381-og][P-0381-og]][T-0381-og] 
@@ -70,7 +69,6 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 
 ## Little Snowflake, crossed     
 ![little snowflake crossed][p-sn-cr]
-
 [![0306-kg][P-0306-kg]][T-0306-kg] 
 [![0356-kg][P-0356-kg]][T-0356-kg] 
 [![0381-ng][P-0381-ng]][T-0381-ng] 
@@ -108,7 +106,6 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 
 ## Snowflake in a diamond
 ![snowflake in diamond][p-snow-diamond]
-
 [![0305-oiv][P-0305-oiv]][T-0305-oiv] 
 <p style="clear: both"></p>
 
@@ -119,7 +116,6 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 
 ## Snowflake in a diamond, crossed
 ![snowflake diamond crossed][p-snow-diax]
-
 [![0341-div][P-0341-div]][T-0341-div] 
 [![0356-kio][P-0356-kio]][T-0356-kio]   
 <p style="clear: both"></p>
