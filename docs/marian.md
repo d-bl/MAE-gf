@@ -22,13 +22,11 @@ For most grounds I only use names for the units with an addition to indicate the
 The colour grey in the working diagrams indicates <span class="stch">cross only</span>.    
 
 ## Fusion
-![fusion][p-fusion]
 The traditional units separated with plaits. Please note: the plaits should stay plaits.       
-The snowflake-unit example is meant to be made with pins at the sides of the snowflake-unit. The ground came into being as a half stitch spider, but forgetting the twists at the corners. The unit resembles ground 3054 from _U. Ulrich: Gründe mit System_, which has no side pins, and does not cross at the corners.    
 
-<p style="clear: both"></p>
-
+![fusion][p-fusion]
 [![rose-ground-unit][P-0116-kf]][T-0116-kf]  [![snowflake-unit][P-0342-kf]][T-0342-kf]  [![bias-unit][P-0284-kf]][T-0284-kf]
+<p style="clear: both"></p>
 
 [p-fusion]: ../images/marian/G-fusion.svg?align=right "fusion"
 [P-0116-kf]: ../images/marian/0116-kf.png
@@ -40,12 +38,11 @@ The snowflake-unit example is meant to be made with pins at the sides of the sno
 [T-0284-kf]: /GroundForge/tiles?patchWidth=16&patchHeight=16&c1=ctctctctctc&b1=ctct&a1=ctctctctctc&c2=ctc&b2=c&a2=ctc&c3=-&b3=ctctc&a3=-&tile=Q3S,488,148&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
 ## Sunny stitch
-![sunny stitch][p-sunny]
-This stitch I created because I wished to see a little loop at the sides of the rose ground. To obtain this, I used a very onorthodox stitch at the sides of the unit. The examples below use all the same unit, but these units are connected in different ways.      
-
-<p style="clear: both"></p>
-         
+This stitch I created because I wished to see a little loop at the sides of the rose ground. To obtain this, I used a very onorthodox stitch at the sides of the unit. The examples below use all the same unit, but these units are connected in different ways. The <span class="b-orng">colour orange</span> means: <span class="elem">crcllcrc</span> on the left side and <span class="elem">clcrrclc</span> on the right side.           
+  
+![sunny stitch][p-sunny] 
 [![connection with clothstitches][P-0902-l]][T-0902-l]  [![connection with plaits][P-0902-f]][T-0902-f]  [![in a diamond][P-0902-q]][T-0902-q]
+<p style="clear: both"></p>
 
 [p-sunny]: ../images/marian/0902-KP.png?align=right "sunny stitch"
 [P-0902-l]: ../images/marian/0902-lg.png
