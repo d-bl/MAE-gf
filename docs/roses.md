@@ -20,7 +20,6 @@ On this page several variants of the rose ground.
 
 ## Rose ground
 ![roseground][p-rose-pricking]
-
 [![traditional][P-0111-NG]][T-0111-NG]
 [![0112-KG][P-0112-KG]][T-0112-KG] 
 [![0113-NG][P-0113-NG]][T-0113-NG] 
@@ -38,7 +37,6 @@ On this page several variants of the rose ground.
 [![0504-LG][P-0504-LG]][T-0504-LG]
 
 [p-rose-pricking]: ../images/roses/g01.svg?align=right "rose ground"
-
 [P-0111-NG]: ../images/roses/0111-ng.png "traditonal" 
 [P-0112-KG]: ../images/roses/0112-kg.png
 [P-0106-LG]: ../images/roses/0106-lg.png
@@ -71,7 +69,6 @@ On this page several variants of the rose ground.
 
 ## Slavic ground
 ![slavicground][p-slav-pricking]
-
 [![traditional][P-0671-NG]][T-0671-NG] 
 [![0654-KG][P-0654-KG]][T-0654-KG] 
 [![0673-NG][P-0673-NG]][T-0673-NG] 
@@ -132,7 +129,6 @@ A variant on the Slavic Ground.
 
 ## Stretched Paris ground
 ![stretched paris ground][p-strpg]
-
 [![0403-KG][P-0403-KG]][T-0403-KG] 
 [![0424-KG][P-0424-KG]][T-0424-KG]
 [![0404-KG][P-0404-KG]][T-0404-KG] 
