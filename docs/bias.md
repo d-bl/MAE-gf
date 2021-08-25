@@ -9,7 +9,7 @@ title: Bias grounds
 * [Introduction](#introduction)
 * [Traditional Bias Ground](#traditional-bias-ground)
 * [Bias Ground crossed rose style](#bias-ground-crossed-rose-style)
-* [Bias Ground crossed differently](#bias-ground-crossed-differently)
+* [Bias Ground crossed alternating](#bias-ground-crossed-alternating)
 * [Bias Ground with a diagonal in between](#bias-ground-with-a-diagonal-in-between)
 * [Bias Ground crossed and a diagonal in between](#bias-ground-crossed-and-a-diagonal-in-between)
 * [Unit bias in a diamond](#unit-bias-in-a-diamond)
@@ -129,11 +129,12 @@ See also [mrs Whiting's index][L-whiting]: D6 and F4.
 
 [L-whiting]: /gw-lace-to-gf/
 
-## Bias Ground crossed differently
-[![][p-bias-aa]][t-bias-aa]
+## Bias Ground crossed alternating
+[![][p-bias-aa]][T-0280-LLh]  
+See also [mrs Whiting's index][L-whiting]: E6.   
 
-[p-bias-aa]: ../images/bias/g-bias-aa.svg "bias alternated crossing"
-[t-bias-aa]: /GroundForge/tiles?whiting=E6_P160&patchWidth=12&patchHeight=12&a1=ct&b1=ctct&c1=ct&d1=ctct&f1=ctct&g1=ct&h1=ctct&a2=ctct&c2=ctct&d2=ct&e2=ctct&f2=ct&g2=ctct&h2=ct&a3=ct&b3=ctct&c3=ct&d3=ctct&e3=ct&f3=ctct&h3=ctct&a4=ctct&b4=ct&c4=ctct&e4=ctct&f4=ct&g4=ctct&h4=ct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=1488-483,8-483148,831488-4,488-4831
+[p-bias-aa]: ../images/bias/g-bias-aa.svg "alternated bias crossing"
+[t-0280-LLh]: /GroundForge/tiles?patchWidth=12&patchHeight=12&h1=ctc&g1=lcr&f1=ctc&d1=ctc&c1=lctcr&b1=ctc&a1=rctcl&h2=lctcr&g2=ctc&f2=rctcl&e2=ctc&d2=lcr&c2=ctc&a2=ctc&h3=ctc&f3=ctc&e3=lctcr&d3=ctc&c3=rctcl&b3=ctc&a3=lcr&h4=rctcl&g4=ctc&f4=lcr&e4=ctc&c4=ctc&b4=lctcr&a4=ctc&tile=1488-483,8-483148,831488-4,488-4831&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Bias Ground with a diagonal in between
 [![][p-bias-vg]][t-bias-vg]
