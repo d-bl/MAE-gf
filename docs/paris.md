@@ -17,7 +17,7 @@ title: Paris Grounds
 
 ## Introduction
 ![photo mt-0434][ph-0434] 
-The photo shows the example on the bottom of this page, but slighty adapted to get the colours right, and making a pin chain on the middle stitch (_Strechted Paris ground_).    
+The photo shows the example on the bottom of this page, but slighty adapted to get the colours right. The "middle" stitch is a pin chain (_Stretched Paris ground_).    
 <p style="clear: both"></p>
 
 [ph-0434]: ../images/paris/f-0434.png?align=right
