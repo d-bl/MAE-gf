@@ -35,7 +35,7 @@ The photo shows the example on the bottom of this page, but slighty adapted to g
 [pic-par-grnd]: ../images/paris/G04.svg?align=right "paris ground" 
 [P-0400-DG]: ../images/paris/0400-dg.png "traditonal"
 [P-0403-KG]: ../images/paris/0403-kg.png
-[P-0408-DG]: ../images/paris/0408-kg.png
+[P-0408-KG]: ../images/paris/0408-kg.png
 [P-0424-KF]: ../images/paris/0424-kf.png
 
 [T-0400-DG]: /GroundForge/tiles?patchWidth=15&patchHeight=20&c1=ctct&a1=ctct&d2=ctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
