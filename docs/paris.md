@@ -17,7 +17,6 @@ title: Paris Grounds
 
 ## Introduction
 ![photo mt-0434][ph-0434] 
-The examples on this page came to life as variations on a rose-ground with "do nothing (much)" on the left and right. My first studies of Groundforge learned me, that the scheme needed was actually a paris ground!<br>
 The photo shows the example on the bottom of this page, but slighty adapted to get the colours right.
 <p style="clear: both"></p>
 
@@ -28,6 +27,7 @@ The photo shows the example on the bottom of this page, but slighty adapted to g
 [![tradional][P-0400-DG]][T-0400-DG] 
 [![0403-kg][P-0403-KG]][T-0403-KG] 
 [![0408-kg][P-0408-KG]][T-0408-KG] 
+[![0441-xg][P-0441-XG]][T-0441-XG] 
 [![0424-kf][P-0424-KF]][T-0424-KF] 
 <p style="clear: both"></p>
 
@@ -36,11 +36,13 @@ The photo shows the example on the bottom of this page, but slighty adapted to g
 [P-0403-KG]: ../images/paris/0403-kg.png
 [P-0408-KG]: ../images/paris/0408-kg.png
 [P-0424-KF]: ../images/paris/0424-kf.png
+[P-0441-XG]: ../images/paris/0441-xg.png
 
 [T-0400-DG]: /GroundForge/tiles?patchWidth=15&patchHeight=20&c1=ctct&a1=ctct&d2=ctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0403-KG]: /GroundForge/tiles?patchWidth=15&patchHeight=20&a1=c&c1=c&d2=tctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0424-KF]: /GroundForge/tiles?patchWidth=15&patchHeight=20&a1=ctctctcr&c1=ctctctcl&d2=ctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0408-KG]: /GroundForge/tiles?patchWidth=15&patchHeight=20&c1=c&a1=c&d2=ctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0441-XG]: /GroundForge/tiles?patchWidth=15&patchHeight=20&c1=crclcrc&a1=clcrclc&d2=tct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ## Stretched Paris ground
 For the stretched paris ground, see on page [_rose grounds_][p-rose-paris].       
