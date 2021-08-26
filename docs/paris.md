@@ -25,13 +25,23 @@ The photo shows the example on the bottom of this page, but slighty adapted to g
 
 ## Traditional Paris ground
 ![paris ground][pic-par-grnd]
-* [example 1][T-0403-KG], [example 2][T-0424-KG]      
-* The last example as a unit, [connected with plaits][T-0424-KF]
 
-[pic-par-grnd]: ../images/paris/G04.svg "paris ground"         
+[![tradional][P-0400-DG]][T-0400-DG] 
+[![0403-kg][P-0403-KG]][T-0403-KG] 
+[![0408-kg][P-0408-KG]][T-0408-KG] 
+[![0424-kf][P-0424-KF]][T-0424-KF] 
+<p style="clear: both"></p>
+
+[pic-par-grnd]: ../images/paris/G04.svg?align=right "paris ground" 
+[P-0400-DG]: ../images/paris/0400-dg.png "traditonal"
+[P-0403-KG]: ../images/paris/0403-kg.png
+[P-0408-DG]: ../images/paris/0408-kg.png
+[P-0424-KF]: ../images/paris/0424-kf.png
+
+[T-0400-DG]: /GroundForge/tiles?patchWidth=15&patchHeight=20&c1=ctct&a1=ctct&d2=ctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0403-KG]: /GroundForge/tiles?patchWidth=15&patchHeight=20&a1=c&c1=c&d2=tctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0424-KG]: /GroundForge/tiles?patchWidth=15&patchHeight=20&a1=cr&c1=cl&d2=ctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0424-KF]: /GroundForge/tiles?patchWidth=15&patchHeight=20&a1=ctctctcr&c1=ctctctcl&d2=ctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0408-KG]: /GroundForge/tiles?patchWidth=15&patchHeight=20&c1=c&a1=c&d2=ctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ## Stretched Paris ground
 For the stretched paris ground, see on page [_rose grounds_][p-rose-paris].       
@@ -83,12 +93,18 @@ This ground is inspired by lace from 's Gravenmoer.
 [p-rose-paris]: ../docs/roses#stretched-paris-ground
 
 ## Way of making
-The following example shows three different matrix-scheme's to obtain the same ground.           
-* [as paris ground][T-0404-p], [as rose ground][T-0404-r], [as torchon ground][T-0404-t]
+The following example shows three different matrix-scheme's to obtain the same ground. 
+[![as paris ground][P-0404-P]][T-0404-P] 
+[![as rose ground][P-0404-R]][T-0404-R]
+[![as torchon ground][P-0404-T]][T-0404-T]
 
-[T-0404-r]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=c&c1=ctct&d1=c&b2=l&d2=r&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0404-p]: /GroundForge/tiles?patchWidth=12&patchHeight=16&a1=cr&c1=cl&d2=ctctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0404-t]: /GroundForge/tiles?patchWidth=12&patchHeight=16&b1=ctc&d1=ctct&a2=cr&c2=cl&tile=-5-5,5-5-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[P-0404-P]: ../images/paris/0404-kp.png
+[P-0404-R]: ../images/paris/0404-kr.png
+[P-0404-T]: ../images/paris/0404-kt.png
+
+[T-0404-R]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=c&c1=ctct&d1=c&b2=l&d2=r&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0404-P]: /GroundForge/tiles?patchWidth=12&patchHeight=16&a1=cr&c1=cl&d2=ctctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0404-T]: /GroundForge/tiles?patchWidth=12&patchHeight=16&b1=ctc&d1=ctct&a2=cr&c2=cl&tile=-5-5,5-5-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
         
 ***
 [&uArr;]()
