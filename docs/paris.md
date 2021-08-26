@@ -17,7 +17,7 @@ title: Paris Grounds
 
 ## Introduction
 ![photo mt-0434][ph-0434] 
-The photo shows the example on the bottom of this page, but slighty adapted to get the colours right.
+The photo shows the example on the bottom of this page, but slighty adapted to get the colours right, and making a pin chain on the middle stitch (_Strechted Paris ground_).    
 <p style="clear: both"></p>
 
 [ph-0434]: ../images/paris/f-0434.png?align=right
@@ -46,6 +46,8 @@ The photo shows the example on the bottom of this page, but slighty adapted to g
 
 ## Stretched Paris ground
 For the stretched paris ground, see on page [_rose grounds_][p-rose-paris].       
+
+[p-rose-paris]: ../docs/roses#stretched-paris-ground
 
 ## Paris ground in a diamond
 [![p-paris-in-sqr]][t-paris-in-sqr]
@@ -91,7 +93,6 @@ This ground is inspired by lace from 's Gravenmoer.
 
 [p-g44]: ../images/paris/G44.svg?align=left "swiss cheese"
 [t-swiss]: /GroundForge/tiles?patchWidth=16&patchHeight=16&e1=tctc&c1=ctcl&a1=ctcr&f2=ctc&d2=ctc&e3=ctct&c3=ctc&a3=ctc&tile=5-5-5-,---5-5,C-B-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
-[p-rose-paris]: ../docs/roses#stretched-paris-ground
 
 ## Way of making
 The following example shows three different matrix-scheme's to obtain the same ground.      
