@@ -25,7 +25,6 @@ The photo shows the example on the bottom of this page, but slighty adapted to g
 
 ## Traditional Paris ground
 ![paris ground][pic-par-grnd]
-
 [![tradional][P-0400-DG]][T-0400-DG] 
 [![0403-kg][P-0403-KG]][T-0403-KG] 
 [![0408-kg][P-0408-KG]][T-0408-KG] 
@@ -93,7 +92,8 @@ This ground is inspired by lace from 's Gravenmoer.
 [p-rose-paris]: ../docs/roses#stretched-paris-ground
 
 ## Way of making
-The following example shows three different matrix-scheme's to obtain the same ground. 
+The following example shows three different matrix-scheme's to obtain the same ground.      
+
 [![as paris ground][P-0404-P]][T-0404-P] 
 [![as rose ground][P-0404-R]][T-0404-R]
 [![as torchon ground][P-0404-T]][T-0404-T]
