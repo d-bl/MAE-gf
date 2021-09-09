@@ -31,14 +31,10 @@ On page-to-be counting stiches we show an ordening of the stitches and a way of 
   <tr>
     <td>cr</td>
     <td>{% include diagonal-net a1="cr" txt="diagonal" %}</td>
-    <td>{% include horizontal-net a1="cr" a2="cl" txt="horizontal 1" %}</td>
+    <td>{% include horizontal-net a1="cr" a2="cl" txt="horizontal 1" %}<br>
+        {% include horizontal-net a1="cl" a2="cr" txt="horizontal 2" %}
+    </td>
     <td>photo</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>{% include horizontal-net a1="cl" a2="cr" txt="horizontal 2" %}</td>
-    <td></td>
   </tr>
  </table>
   
