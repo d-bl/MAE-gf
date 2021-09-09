@@ -55,6 +55,32 @@ buttons test
 %}  
 
 
+# Catalogue of stitches
+
+## Contents
+* [Introduction](#introduction)
+* [Stitches](#stitches}
+
+## Introduction
+
+
+
+## Stitches
+### 2
+
+| stitch | diagonal net | horizontal net | photo |
+
+| ct | { % inlcude diagonal-net a1="ct" title="diagonal" } | { % include horizontal-net a1="ct" a2="ct" title="horizontal" } | photo |
+| cr | { % inlcude diagonal-net a1="cr" title="diagonal" } | { % include horizontal-net a1="cr" a2="cl" title="horizontal 1"} { % include horizontal_net a1="cl" a2="cr" title="horizontal 2"} | photo
+
+
+
+
+
+***
+[&uArr;]()
+
+
 [p-paris-lcr]: ../images_stitches/paris-lcr.png            
 [lijntje]: /GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctct&b1=ct&d1=ct&a2=ct&c2=ct&shiftColsSE=3&shiftRowsSE=1&shiftColsSW=-4&shiftRowsSW=1&tile=88-1,4-58
 
