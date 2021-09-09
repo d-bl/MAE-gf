@@ -59,7 +59,7 @@ buttons test
 
 ## Contents
 * [Introduction](#introduction)
-* [Stitches](#stitches}
+* [Stitches](#stitches)
 
 ## Introduction
 
