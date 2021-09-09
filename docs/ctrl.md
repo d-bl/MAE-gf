@@ -12,9 +12,9 @@ title: stitches
 
 ## Introduction
 
-A stitch is defined as <some four bobbins>. 
+A stitch is defined as something with four bobbins.
 On this page, we present an incomplete list of stitches to choose from. There are more than 1000 possibilities.   
-On page <counting><to make> we show an ordening of the stitches and a way of counting stitches.   
+On page-to-be counting stiches we show an ordening of the stitches and a way of counting stitches.   
 
 ## Stitches
 ### two
