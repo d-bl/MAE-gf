@@ -10,8 +10,9 @@ title: stitches
 * [Stitches](#stitches)
 
 ## Introduction
-
-
+A stitch is defined as <some four bobbins>. 
+On this page, we present an incomplete list of stitches to choose from. There are more than 1000 possibilities.   
+On page <counting><to make> we show an ordening and a way of counting stitches.
 
 ## Stitches
 ### two
