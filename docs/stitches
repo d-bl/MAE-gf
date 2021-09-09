@@ -18,8 +18,8 @@ title: stitches
 
 | stitch | diagonal net | horizontal net | photo |
 
-| ct | diagonal | { % include horizontal_net a1="ct" a2="ct" } | photo |
-| cr | diagonal | { % include horizontal_net a1="cr" a2="cl" } { % include horizontal_net a1="cl" a2="cr" } | photo
+| ct | diagonal | { % include horizontal_net a1="ct" a2="ct" title="horizontal" } | photo |
+| cr | diagonal | { % include horizontal_net a1="cr" a2="cl" title="horizontal 1"} { % include horizontal_net a1="cl" a2="cr" title="horizontal 2"} | photo
 
 
 
