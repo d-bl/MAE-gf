@@ -26,7 +26,7 @@ On page-to-be counting stiches we show an ordening of the stitches and a way of 
     <td>ct</td>
     <td>{% include diagonal-net a1="ct" txt="diagonal" %}</td>
     <td>{% include horizontal-net a1="ct" a2="ct" txt="horizontal" %}</td>
-    <td><img src="../images/ctrl/ASN03.jpg" max-width=50px></td>
+    <td><img src="../images/ctrl/ASN03.jpg" width=100px height=50px></td>
   </tr>
   <tr>
     <td>cr</td>
