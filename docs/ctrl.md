@@ -27,7 +27,7 @@ On page <counting><to make> we show an ordening and a way of counting stitches.
     <td>photo</td>
   </tr>
   <tr>
-    <td>cr></td>
+    <td>cr</td>
     <td>{% include diagonal-net a1="cr" txt="diagonal" %}</td>
     <td>{{% include horizontal-net a1="cr" a2="cl" txt="horizontal 1" %}</td>
     <td>photo</td>
