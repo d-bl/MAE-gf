@@ -12,7 +12,7 @@ title: stitches
 ## Introduction
 A stitch is defined as <some four bobbins>. 
 On this page, we present an incomplete list of stitches to choose from. There are more than 1000 possibilities.   
-On page <counting><to make> we show an ordening and a way of counting stitches.
+On page <counting><to make> we show an ordening of the stitches and a way of counting stitches.   
 
 ## Stitches
 ### two
@@ -46,7 +46,7 @@ On page <counting><to make> we show an ordening and a way of counting stitches.
 | stitch | diagonal net | horizontal net | photo |    
 | cct | {% include diagonal-net a1="cct" txt="diagonal" %}| {% include horizontal-net a1="cct" a2="cct" txt="horizontal" %}  | photo |    
 | ccr | {% include diagonal-net a1="ccr" txt="diagonal" %}| {% include horizontal-net a1="ccr" a2="ccl" txt="horizontal 1" %}| photo |    
-|     | {% include diagonal-net a1="ccl" txt="diagonal" %}| {% include horizontal-net a1="cct" a2="ccr" txt="horizontal" %}  | photo |    
+|     |                                                   | {% include horizontal-net a1="ccl" a2="ccr" txt="horizontal 2" %}| photo |    
 | ctt | {% include diagonal-net a1="ctt" txt="diagonal" %}| {% include horizontal-net a1="ctt" a2="ccl" txt="horizontal" %}  | photo |    
 | ctr | {% include diagonal-net a1="ctr" txt="diagonal" %}| {% include horizontal-net a1="ctr" a2="ctl" txt="horizontal 1" %}| photo |    
 |     |                                                   | {% include horizontal-net a1="ctl" a2="ctr" txt="horizontal 2" %}| photo |    
