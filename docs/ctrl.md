@@ -14,7 +14,7 @@ title: stitches
 
 
 ## Stitches
-### twee slagen
+### twee nog zien
 
 | stitch | diagonal net | horizontal net | photo |
 | ct | {% include diagonal-net a1="ct" txt="diagonal" %} | {% include horizontal-net a1="ct" a2="ct" txt="horizontal" %} | photo |  
