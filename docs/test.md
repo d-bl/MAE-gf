@@ -48,13 +48,13 @@ buttons test
 </a>  
 
 {% include p-l-c.html
-  src="../images/pict-double.png"
+  src="../images/bias/2111-nt.png"
   alt="some nice ground"
   lnk="/GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctct&b1=ct&d1=ct&a2=ct&c2=ct&shiftColsSE=3&shiftRowsSE=1&shiftColsSW=-4&shiftRowsSW=1&tile=88-1,4-58"
   title="ook iets leuks"
 %}  
 
-test include met if erin nog een test
+test include met if erin nog een testje
 {% include ctr.html
   a1="ctc"
   a2="ctc"
