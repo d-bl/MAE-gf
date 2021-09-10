@@ -28,7 +28,7 @@ purpose: test only
 
 dit is een nieuwe test: 
 
-<img src="/MAE-gf/images/flanders2/105-1.png">
+<img src="../images/flanders2/105-1.png">
 <br>
 
 [pdf-test]: ../documents/streched-paris.pdf
@@ -39,7 +39,7 @@ dit is een nieuwe test:
 
 ![test 2][test2]             
 
-[test2]: ../images_wt/path866.png
+[test2]: ../images/bias/2111-nt.png
 
 buttons test
 
@@ -54,7 +54,7 @@ buttons test
   title="ook iets leuks"
 %}  
 
-test include met if erin   
+test include met if erin nog een test
 {% include ctr.html
   a1="ctc"
   a2="ctc"
