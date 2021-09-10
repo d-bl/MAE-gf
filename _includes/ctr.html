@@ -2,16 +2,9 @@
 <a href="/GroundForge/tiles?patchWidth=12&patchHeight=12&a1={{ include.a1 }}&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1">{{ include.txt-d }}</a>      
 <a href="/GroundForge/tiles?patchWidth=12&patchHeight=12&a1={{ include.a1 }}&a2={{ include.a2 }}&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2">{{ include.txt-h1 }}</a>    
 
-test 1 de
-{% if {{ include.a1 }} != {{ include.a2 }} %}
- <a href="/GroundForge/tiles?patchWidth=12&patchHeight=12&a1={{ include.a2 }}&a2={{ include.a1 }}&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2">{{ include.txt-h2 }}</a>,
-{% endif %} 
-
-
-test 2
 <script>
   if ( {{ include.a1 }} != {{ include.a2 }} ) 
   { 
    <a href="/GroundForge/tiles?patchWidth=12&patchHeight=12&a1={{ include.a2 }}&a2={{ include.a1 }}&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2">{{ include.txt-h2 }}</a>;
- }
+  }
 </script>
