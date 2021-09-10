@@ -58,17 +58,17 @@ test include met if erin
 {% include ctr.html
   a1="ctc"
   a2="ctc"
-  d="diagonal"
-  h1="iets"
-  h2="iets anders"
+  txt-d="diagonal"
+  txt-h1="iets"
+  txt-h2="iets anders"
  %} 
 
 {% include ctr.html
   a1="cr"
   a2="ctct"
-  d="diagonal"
-  h1="iets"
-  h2="iets anders"
+  txt-d="diagonal"
+  txt-h1="iets"
+  txt-h2="iets anders"
  %} 
 
 
