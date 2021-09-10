@@ -5,9 +5,6 @@
 <script>
   if ( "{{ include.a1 }}" != "{{ include.a2 }}" ) 
   { 
-   System.out.println("if");
-   <a href="/GroundForge/tiles?patchWidth=12&patchHeight=12&a1={{ include.a2 }}&a2={{ include.a1 }}&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2">{{ include.txt-h2 }}</a>;
+      <a href="/GroundForge/tiles?patchWidth=12&patchHeight=12&a1={{ include.a2 }}&a2={{ include.a1 }}&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2">{{ include.txt-h2 }}</a>;
   }
-  else
-  {System.out.println("else");}
-</script>
+  </script>
