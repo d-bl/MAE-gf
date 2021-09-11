@@ -41,6 +41,11 @@ buttons test
 
 test include met zonder erin, test nogmaals
 
+{% include ctr.html
+  a1="ctc"
+  a2="ctc"
+%} 
+
 
 
 
