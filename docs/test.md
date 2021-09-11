@@ -54,7 +54,7 @@ buttons test
   title="ook iets leuks"
 %}  
 
-test include met if erin, test nogmaals
+test include met zonder erin, test nogmaals
 {% include ctr.html
   a1="ctc"
   a2="ctc"
