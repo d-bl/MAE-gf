@@ -6,7 +6,6 @@
 {% if include.a1 != include.a2 %}
     dit is een test
     <a href="/GroundForge/tiles?patchWidth=12&patchHeight=12&a1={{ include.a2 }}&a2={{ include.a1 }}&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2">horizontal reverse</a>
-    [horizontal reverse]({% link /GroundForge/tiles?patchWidth=12&patchHeight=12&a1={{ include.a2 }}&a2={{ include.a1 }}&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2 %})
-    [horizontal reverse]({% post_url /GroundForge/tiles?patchWidth=12&patchHeight=12&a1={{ include.a2 }}&a2={{ include.a1 }}&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2 %})
-{% endif %}
+    {% link /GroundForge/tiles?patchWidth=12&patchHeight=12&a1={{ include.a2 }}&a2={{ include.a1 }}&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2 %}
+   {% endif %}
 
