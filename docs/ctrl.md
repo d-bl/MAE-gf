@@ -41,26 +41,22 @@ On page-to-be counting stiches we show an ordening of the stitches and a way of 
   <tr><th>stitch</th><th>link to GroundForge</th><th>photo</th>
   <tr>
     <td>cct</td>
-      <td>{% include ctrl.html a1="cct" a2="cct" %}
-    </td>
-    <td>photo</td>
+    <td>{% include ctrl.html a1="cct" a2="cct" %}</td>
+    <td>plaatje van mij</td>
   </tr>
  <tr>
     <td>ccr</td>
-      <td>{% include ctrl.html a1="ccr" a2="ccl" %}
-    </td>
+    <td>{% include ctrl.html a1="ccr" a2="ccl" %}</td>
     <td>photo</td>
   </tr>
   <tr>
     <td>ctt</td>
-      <td>{% include ctrl.html a1="ctt" a2="ctt" %}
-    </td>
+    <td>{% include ctrl.html a1="ctt" a2="ctt" %}</td>
     <td>photo</td>
   </tr>
   <tr>
     <td>ctr</td>
-      <td>{% include ctrl.html a1="ctr" a2="ctl" %}
-    </td>
+    <td>{% include ctrl.html a1="ctr" a2="ctl" %}</td>
     <td>photo</td>
   </tr>
 </table>
