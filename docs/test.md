@@ -26,21 +26,6 @@ purpose: test only
 
 # test
 
-dit is een nieuwe test: 
-
-<img src="../images/flanders2/105-1.png">
-<br>
-
-[pdf-test]: ../documents/streched-paris.pdf
-
-![test][svg-test]   
-
-[svg-test]: ../images_flanders/flanders.svg
-
-![test 2][test2]             
-
-[test2]: ../images/flanders2/105-1.png
-
 buttons test
 
 <a href="../images/flanders2/105-1.png">
@@ -71,6 +56,4 @@ test include met zonder erin, test nogmaals
 
 
 [p-paris-lcr]: ../images/flanders2/105-1.png.png            
-[lijntje]: /GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctct&b1=ct&d1=ct&a2=ct&c2=ct&shiftColsSE=3&shiftRowsSE=1&shiftColsSW=-4&shiftRowsSW=1&tile=88-1,4-58
-
 
