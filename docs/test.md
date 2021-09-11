@@ -55,12 +55,12 @@ buttons test
 %}  
 
 test include met zonder erin, test nogmaals
-{% include ctrl.html
+{% include ctr.html
   a1="ctc"
   a2="ctc"
 %} 
 
-{% include ctrl.html
+{% include ctr.html
   a1="cr"
   a2="ctct"
  %} 
