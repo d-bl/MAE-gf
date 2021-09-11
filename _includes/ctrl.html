@@ -1,10 +1,11 @@
 <!-- links to GF, diagonal and horizontal nets. Called from page ctrl --> 
 
-<a href="/GroundForge/tiles?patchWidth=12&patchHeight=12&a1={{ include.a1 }}&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1">diagonal</a>      
+<a href="/GroundForge/tiles?patchWidth=12&patchHeight=12&a1={{ include.a1 }}&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1">diagonal</a> 
+<br>
 <a href="/GroundForge/tiles?patchWidth=12&patchHeight=12&a1={{ include.a1 }}&a2={{ include.a2 }}&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2">horizontal</a>    
 
 {% if include.a1 != include.a2 %}
-    dit is een test
+    <br>
     <a href="/GroundForge/tiles?patchWidth=12&patchHeight=12&a1={{ include.a2 }}&a2={{ include.a1 }}&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2">horizontal reverse</a>
 {% endif %}
 
