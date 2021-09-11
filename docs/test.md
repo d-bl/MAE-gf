@@ -39,7 +39,7 @@ buttons test
   title="ook iets leuks"
 %}  
 
-test include met zonder erin, test nogmaals
+test include met zonder erin, huh?
 
 {% include ctrl.html
   a1="ctc"
