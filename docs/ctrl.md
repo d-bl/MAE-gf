@@ -33,10 +33,9 @@ On page-to-be counting stiches we show an ordening of the stitches and a way of 
     </td>
     <td>photo</td>
   </tr>
- </table>
-  
+</table>
 
-### three    
+### three
 
 <table>
   <tr><th>stitch</th><th>link to GroundForge</th><th>photo</th>
@@ -65,9 +64,6 @@ On page-to-be counting stiches we show an ordening of the stitches and a way of 
     <td>photo</td>
   </tr>
 </table>
-
-
-#### four
 
 ***
 [&uArr;]()
