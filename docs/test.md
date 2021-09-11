@@ -58,17 +58,11 @@ test include met zonder erin, test nogmaals
 {% include ctrl.html
   a1="ctc"
   a2="ctc"
-  txt-d="diagonal"
-  txt-h1="iets"
-  txt-h2="iets anders"
- %} 
+%} 
 
 {% include ctrl.html
   a1="cr"
   a2="ctct"
-  txt-d="diagonal"
-  txt-h1="iets"
-  txt-h2="iets anders"
  %} 
 
 
