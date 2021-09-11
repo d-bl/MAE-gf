@@ -17,10 +17,10 @@ On this page, we present an incomplete list of stitches to choose from. There ar
 On page-to-be counting stiches we show an ordening of the stitches and a way of counting stitches.   
 
 ## Stitches
-### two
+### two   
 
 <table>
-  <tr><th>stitch</th><th>diagonal net</th><th>horizontal net</th><th>photo</th>
+  <tr><th>stitch</th><th>link to GroundForge</th><th>photo</th>
   </tr>
   <tr>
     <td>ct</td>
@@ -29,38 +29,38 @@ On page-to-be counting stiches we show an ordening of the stitches and a way of 
   </tr>
   <tr>
     <td>cr</td>
-      <td>{% include ctrl.html a1="cr" a2="cl" %}<br>
+      <td>{% include ctrl.html a1="cr" a2="cl" %}
     </td>
     <td>photo</td>
   </tr>
  </table>
   
 
-### three
+### three    
 
 <table>
-  <tr><th>stitch</th><th>diagonal net</th><th>horizontal net</th><th>photo</th>
+  <tr><th>stitch</th><th>link to GroundForge</th><th>photo</th>
   <tr>
     <td>cct</td>
-      <td>{% include ctrl.html a1="cct" a2="cct" %}<br>
+      <td>{% include ctrl.html a1="cct" a2="cct" %}
     </td>
     <td>photo</td>
   </tr>
  <tr>
     <td>ccr</td>
-      <td>{% include ctrl.html a1="ccr" a2="ccl" %}<br>
+      <td>{% include ctrl.html a1="ccr" a2="ccl" %}
     </td>
     <td>photo</td>
   </tr>
   <tr>
     <td>ctt</td>
-      <td>{% include ctrl.html a1="ctt" a2="ctt" %}<br>
+      <td>{% include ctrl.html a1="ctt" a2="ctt" %}
     </td>
     <td>photo</td>
   </tr>
   <tr>
     <td>ctr</td>
-      <td>{% include ctrl.html a1="ctr" a2="ctl" %}<br>
+      <td>{% include ctrl.html a1="ctr" a2="ctl" %}
     </td>
     <td>photo</td>
   </tr>
