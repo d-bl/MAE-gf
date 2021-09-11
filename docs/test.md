@@ -55,7 +55,7 @@ buttons test
 %}  
 
 test include met zonder erin, test nogmaals
-{% include ctr.html
+{% include ctrl.html
   a1="ctc"
   a2="ctc"
   txt-d="diagonal"
@@ -63,7 +63,7 @@ test include met zonder erin, test nogmaals
   txt-h2="iets anders"
  %} 
 
-{% include ctr.html
+{% include ctrl.html
   a1="cr"
   a2="ctct"
   txt-d="diagonal"
