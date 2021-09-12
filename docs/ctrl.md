@@ -16,12 +16,22 @@ A bobbin lace stitch is defined as something that happens when four bobbins meet
 On a future "counting stiches"-page, we will show a logical ordering of the stitches and the way we counted them.     
 
 ## Stitches
+
+Each stitch has a links to GroundForge. The first link is a diagonal net, the second one a horizontal net. If the stitch is "a-symmetrical", the first horizontal link shows the stitch applied from left to right, and the mirrored stitch from right to left. The 'horizontal reversed' link shows the stitches reversed.  
+Clicking on the photo shows a larger image.   
+
+### one
+<table>
+  <tr><th>stitch</th><th>link to GroundForge</th><th>photo</th></tr>
+  {% include ctrl.html s1="c" s2="c" name="cross only" %} 
+</table>
+
 ### two   
 
 <table>
   <tr><th>stitch</th><th>link to GroundForge</th><th>photo</th></tr>
   {% include ctrl.html s1="ct" s2="ct" name="half stitch" photo="ASN03" %} 
-  {% include ctrl.html a1="cr" a2="cl" %}
+  {% include ctrl.html s1="cr" s2="cl" %}
 </table>
 
 ### three
