@@ -45,12 +45,13 @@ test include met zonder erin, huh?
   s1="ct"
   s2="ct"
   name="half stitch"
-%} 
+ %} 
 
     
 {% include ctrl.html
   s1="cl"
   s2="cr"
+  photo="ASN03"
 %} 
 
 
