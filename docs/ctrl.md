@@ -21,44 +21,28 @@ On page-to-be counting stiches we show an ordening of the stitches and a way of 
 
 <table>
   <tr><th>stitch</th><th>link to GroundForge</th><th>photo</th>
-  </tr>
-  <tr>
-    <td>ct</td>
-    <td>{% include ctrl.html a1="ct" a2="ct" %}</td>
-    <td><img src="../images/ctrl/ASN03.jpg" width=200px height=100px></td>
-  </tr>
-  <tr>
-    <td>cr</td>
-      <td>{% include ctrl.html a1="cr" a2="cl" %}
-    </td>
-    <td>photo</td>
-  </tr>
+  {% include ctrl.html s1="ct" s2="ct" name="half stitch" photo="ASN03" %}
+  {% include ctrl.html a1="cr" a2="cl" %}
 </table>
 
 ### three
 
 <table>
   <tr><th>stitch</th><th>link to GroundForge</th><th>photo</th>
-  <tr>
-    <td>cct</td>
-    <td>{% include ctrl.html a1="cct" a2="cct" %}</td>
-    <td>plaatje van mij</td>
-  </tr>
- <tr>
-    <td>ccr</td>
-    <td>{% include ctrl.html a1="ccr" a2="ccl" %}</td>
-    <td>photo</td>
-  </tr>
-  <tr>
-    <td>ctt</td>
-    <td>{% include ctrl.html a1="ctt" a2="ctt" %}</td>
-    <td>photo</td>
-  </tr>
-  <tr>
-    <td>ctr</td>
-    <td>{% include ctrl.html a1="ctr" a2="ctl" %}</td>
-    <td>photo</td>
-  </tr>
+  {% include ctrl.html s1="cct" s2="cct" %}
+  {% include ctrl.html s1="ccr" s2="ccl" %}
+  {% include ctrl.html s1="ctc" s2="ctc" name="cloth stitch" %}
+  {% include ctrl.html s1="ctt" s2="ctt" %}
+  {% include ctrl.html s1="ctr" s2="ctl" %}
+  {% include ctrl.html s1="crc" s2="clc" %}
+  {% include ctrl.html s1="crr" s2="cll" %}
+</table>
+
+### four
+
+<table>
+   <tr><th>stitch</th><th>link to GroundForge</th><th>photo</th>
+   {% include ctrl.html s1="ctct" s2="ctct" name="whole stitch"%}
 </table>
 
 ***
