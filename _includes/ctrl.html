@@ -2,8 +2,8 @@
 
 <tr>
     <td>
-       { % if include.name %}
-            {{ include.name }}
+       {% if include.name %}
+            {{ include.name }},
             <br>
        {% endif %}
        s1
@@ -22,7 +22,8 @@
         {% endif %}
     </td>
     <td>
-        <a href="<img src="../images/ctrl/{{ include.s1 }}.jpg" target="_blank> img src="../images/ctrl/{{ include.s1 }}.jpg width=200px height=100px></a>
+        {% if include.photo %}
+        <a href="<img src="../images/ctrl/{{ include.photo }}.jpg" target="_blank> img src="../images/ctrl/{{ include.photo }}.jpg width=200px height=100px></a>
     </td>
  </tr>
  
