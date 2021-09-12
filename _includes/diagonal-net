@@ -1,2 +1,0 @@
-<a href="/GroundForge/tiles?patchWidth=12&patchHeight=12&a1={{ include.a1 }}&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1">{{ include.txt }}</a>
-       
