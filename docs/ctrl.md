@@ -20,18 +20,15 @@ On page-to-be counting stiches we show an ordening of the stitches and a way of 
 ### two   
 
 <table>
-  <tr><th>stitch</th><th>link to GroundForge</th><th>photo</th>
-    
-  {% include ctrl.html s1="ct" s2="ct" name="half stitch" photo="ASN03" %}
-    
+  <tr><th>stitch</th><th>link to GroundForge</th><th>photo</th></tr>
+  {% include ctrl.html s1="ct" s2="ct" name="half stitch" photo="ASN03" %} 
   {% include ctrl.html a1="cr" a2="cl" %}
-    
 </table>
 
 ### three
 
 <table>
-  <tr><th>stitch</th><th>link to GroundForge</th><th>photo</th>
+  <tr><th>stitch</th><th>link to GroundForge</th><th>photo</th></tr>
   {% include ctrl.html s1="cct" s2="cct" %}
   {% include ctrl.html s1="ccr" s2="ccl" %}
   {% include ctrl.html s1="ctc" s2="ctc" name="cloth stitch" %}
@@ -44,7 +41,7 @@ On page-to-be counting stiches we show an ordening of the stitches and a way of 
 ### four
 
 <table>
-   <tr><th>stitch</th><th>link to GroundForge</th><th>photo</th>
+  <tr><th>stitch</th><th>link to GroundForge</th><th>photo</th></tr>
    {% include ctrl.html s1="ctct" s2="ctct" name="whole stitch"%}
 </table>
 
