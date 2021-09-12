@@ -40,16 +40,17 @@ buttons test
 %}  
 
 test include met zonder erin, huh?
-
-{% include ctrl.html
-  a1="ctc"
-  a2="ctc"
+<table>
+  {% include ctrl.html
+  s1="ct"
+  s2="ct"
+  name="half stitch"
 %} 
 
     
 {% include ctrl.html
-  a1="cl"
-  a2="cr"
+  s1="cl"
+  s2="cr"
 %} 
 
 
