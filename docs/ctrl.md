@@ -21,8 +21,11 @@ On page-to-be counting stiches we show an ordening of the stitches and a way of 
 
 <table>
   <tr><th>stitch</th><th>link to GroundForge</th><th>photo</th>
+    
   {% include ctrl.html s1="ct" s2="ct" name="half stitch" photo="ASN03" %}
+    
   {% include ctrl.html a1="cr" a2="cl" %}
+    
 </table>
 
 ### three
