@@ -41,19 +41,18 @@ buttons test
 
 test include met zonder erin, huh?
 <table>
-  {% include ctrl.html
+ {% include ctrl.html
   s1="ct"
   s2="ct"
   name="half stitch"
  %} 
-
     
 {% include ctrl.html
   s1="cl"
   s2="cr"
   photo="ASN03"
 %} 
-
+</table>
 
 
 ***
