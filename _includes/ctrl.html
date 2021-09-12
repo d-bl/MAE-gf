@@ -1,12 +1,28 @@
 <!-- links to GF, diagonal and horizontal nets. Called from page ctrl --> 
 
-<a href="/GroundForge/tiles?patchWidth=12&patchHeight=12&a1={{ include.a1 }}&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1">diagonal</a> 
-<br>
-<a href="/GroundForge/tiles?patchWidth=12&patchHeight=12&a1={{ include.a1 }}&a2={{ include.a2 }}&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2">horizontal</a>    
+<tr>
+    <td>
+       { % if include.name %}
+            {{ include.name }}
+            <br>
+       {% endif %}
+       s1
+    </td>
+    <td>
+        <a href="/GroundForge/tiles?patchWidth=12&patchHeight=12&a1={{ include.s1 }}&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1" 
+           target="_blank">diagonal</a> 
+        <br>
+        <a href="/GroundForge/tiles?patchWidth=12&patchHeight=12&a1={{ include.s1 }}&a2={{ include.s2 }}&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2"
+            target="_blank">horizontal</a>    
 
-{% if include.a1 != include.a2 %}
-    <br>
-    <a href="/GroundForge/tiles?patchWidth=12&patchHeight=12&a1={{ include.a2 }}&a2={{ include.a1 }}&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2">horizontal reverse</a>
-{% endif %}
-
-
+        {% if include.s1 != include.s2 %}
+            <br>
+            <a href="/GroundForge/tiles?patchWidth=12&patchHeight=12&a1={{ include.s2 }}&a2={{ include.s1 }}&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2"
+                target="_blank">horizontal reverse</a>
+        {% endif %}
+    </td>
+    <td>
+        <a href="<img src="../images/ctrl/{{ include.s1 }}.jpg" target="_blank> img src="../images/ctrl/{{ include.s1 }}.jpg width=200px height=100px></a>
+    </td>
+ </tr>
+ 
