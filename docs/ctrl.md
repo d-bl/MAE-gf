@@ -17,7 +17,7 @@ On a future "counting stiches"-page, we will show a logical ordering of the stit
 
 ## Stitches
 
-Each stitch has a links to GroundForge. The first link is a diagonal net, the second one a horizontal net. If the stitch is "a-symmetrical", the first horizontal link shows the stitch applied from left to right, and the mirrored stitch from right to left. The 'horizontal reversed' link shows the stitches reversed.  
+Each stitch has links to GroundForge. The first link is a diagonal net, the second one a horizontal net. If the stitch is "a-symmetrical", the 'horizontal'link shows the stitch applied from left to right, and the mirrored stitch from right to left. The 'horizontal reversed' link shows the mirrored stitch from left to right and the named stitch right to left.  
 Clicking on the photo shows a larger image.   
 
 ### one
