@@ -48,7 +48,7 @@ Words with length:
 
 ### Pins
 
-Pins can be put “at any time” between the two pairs of the stitch: <span class="stch">ctPctctct, ctctPctct, ctctPct, ctctctP</span>. Also, we can make a pinchain: <span class="stch"ctPctctPct</span> and even put the pin between bobbin 1 and 2. Although the placing of the pin can change the appearance of the ground, we do not consider pins in our counting.   
+Pins can be put “at any time” between the two pairs of the stitch: <span class="stch">ctPctctct</span>, <span class="stch">ctctPctct</span>, <span class="stch"> ctctPct</span>, <span class="stch">ctctctP</span>. Also, we can make a pinchain: <span class="stch">ctPctctPct</span> and even put the pin between bobbin 1 and 2. Although the placing of the pin can change the appearance of the ground, we do not consider pins in our counting.   
 
 ### Notations and short notations
 
@@ -61,7 +61,7 @@ Let A = { a , b , c }; B = { p , q , r }
 1. Every word must start with a “c”.
 2. Every word must contain at least one of the set { t, r, l }.
 3. For a consecutive sequence of the symbols { t, r, l } in a word, if the sequence contains an “r”, it cannot contain an “l”. Similarly, if the sequence contains an “l”, it cannot contain an “r”.
-4. For a consecutive sequence of the symbols { t, r, l }, the sequence must be arranged in least lexicographical order: “t” < “r” < “l”. (This gives a canonical form. Lexicographical order, which is like alphabetical order, puts all of the symbols in a consistent order so that strings like 'ltll', 'lllt', 'tlll' and 'lltl', when sorted, are all the same, i.e. 'tlll').
+4. For a consecutive sequence of the symbols { t, r, l }, the sequence must be arranged in least lexicographical order: “t” < “r” < “l”. (This gives a canonical form. Lexicographical order, which is like alphabetical order, puts all of the symbols in a consistent order so that strings like rtrr, rrtr, trrr and rrtr, when sorted, are all the same, i.e. trrr).
 5. Vertical mirrors: In the word, the first occurrence of a symbol from { r, l } must be an “r”.
 6. Horizontal mirrors: We have not discovered a general rule for finding words that mirror each other horizontally. The search has done by listing all “quartets”. Keep the word with the least lexicographic representation. 
 
@@ -90,6 +90,24 @@ T<sub>2</sub> = { tt, tr, tl, rr, ll }
 T<sub>3</sub> = { tt, ttr, ttl, trr, tll, rrr, lll }    
 Please note: T<sub>n+1</sub> = tT<sub>n</sub> &oplus; {r…r , l …L }    
 T<sub>all</sub> = T<sub>1</sub> &cup; T<sub>2</sub> &cup; T<sub>3</sub>    
+
+A word is a formed by choosing symbols alternately from C and T<sub>all</sub>. Valid words before applying rule R5 are: 
+C &otimes; T<sub>all</sub> &otimes; C &otimes; T<sub>all</sub> &otimes; C
+C &otimes; T<sub>all</sub> &otimes; C &otimes; T<sub>all</sub> &otimes; C &otimes; T<sub>all</sub>
+
+To apply rule R5 (vertical mirrors), we add extra base sets that do not include “l”;s and series of “t”’s; and sets that only have “t”’s.     
+B<sub>1</sub> = { r }			
+B<sub>2</sub> = { tr , rr } 		 
+B<sub>3</sub> = { ttr , trr , rrr }		     
+
+Please note: if we have the set with all possible words, and subtract from that the set with symmetric words (only t’s, no r’s or l’s), the set of asymmetric words is left. These words can be paired: cr with cl etc.     
+
+To apply rule 6 (horizontal mirrors): We have not yet found an easy way of applying this rule, other than deleting double words.     
+
+### Word forming
+
+to be continued
+
 
 
 
