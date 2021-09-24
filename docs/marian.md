@@ -45,7 +45,7 @@ The traditional units separated with plaits. Please note: the plaits should stay
 ## Sunny stitch
 
 ![sunny stitch][p-sunny]
-This stitch I created because I wished to see a little loop at the sides of the rose ground. To obtain this, I used a very onorthodox stitch at the sides of the unit. The examples below use all the same unit, but these units are connected in different ways. The colour <span class="b-blck">white</span> means: <span class="stch"">crcllcrc</span> on the left  and <span class="stch">clcrrclc</span> on the right side of the unit.           
+This stitch I created because I wished to see a little loop at the sides of the rose ground. To obtain this, I used a very onorthodox stitch at the sides of the unit. The examples below use all the same unit, but these units are connected in different ways. The colour <span class="b-blck">white</span> means: <span class="stch">crcllcrc</span> on the left  and <span class="stch">clcrrclc</span> on the right side of the unit.           
   
 <p style="clear: both"></p>
 
