@@ -13,7 +13,9 @@ title: stitches
 ## Introduction
 
 A bobbin lace stitch is defined as something that happens when four bobbins meet on a pillow. On this page, we present an incomplete list of stitches to choose from. There are more than a 1000 possibilities.     
-On a future "counting stiches"-page, we will show a logical ordering of the stitches and the way we counted them.     
+On page [_couting and listing stitches_][page-counting], we will show a logical ordering of the stitches and the way we counted them.     
+
+[page-counting]: ../docs/counting
 
 ## Stitches
 
