@@ -25,16 +25,20 @@ To help us count and catalogue the stitches, the symbols are ordered: c before t
 
 Words with length:
 
-1. (1) c however, cross only can not stand alone     
-2. (3) cc , ct, cr	however, cc can not stand alone       
-3. (7) cct , ccr , ctc, crc , ctt , ctr , crr      
-4. (16) cctc , ccrc , cctt ,cctr ,ccrr ,ctct ,ctcr ,crct ,crcr ,cttc ,ctrc ,crrc ,cttt ,cttr ,ctrr ,crrr     
-5. (34) cctcc , ccrcc , cctct , cctcr , ccrct , ccrcr , ccrcl , ccttc , cctrc , ccrrc , ccttt , ccttr , cctrr , ccrrr , ctctc , ctcrc , crcrc , crclc , ctctt , ctctr , ctcrr , crctt , crctr , crcrr , cttct , cttcr , ctrct , ctrcr , crrct , crrcr , ctttc , cttrc , ctrrc , crrrc      
-6. (79) 
+1. 1 result: c however, cross only can not stand alone     
+2. 3 results: cc , ct, cr	however, cc can not stand alone       
+3. 7 results: cct , ccr , ctc, crc , ctt , ctr , crr      
+4. 16 results: cctc , ccrc , cctt  , cctr , ccrr , ctct , ctcr , crct , crcr , cttc , ctrc , crrc , cttt , cttr , ctrr , crrr     
+5. 34 results: cctcc , ccrcc , cctct , cctcr , ccrct , ccrcr , ccrcl , ccttc , cctrc , ccrrc , ccttt , ccttr , cctrr , ccrrr , ctctc , ctcrc , crcrc , crclc , ctctt , ctctr , ctcrr , crctt , crctr , crcrr , cttct , cttcr , ctrct , ctrcr , crrct , crrcr , ctttc , cttrc , ctrrc , crrrc      
+6. 79 results   
+7.   follows
+8.   follows
+9.   follows
+10.   follows 
 
 ## Method used
 
-### Observastions from real lace
+### Observations from real lace
 
 1. A stitch without a cross is in fact two different “stitches”. The twists can be done at the end of the previous stitches.
 2. If a stitch starts with a twist, we can apply this twist at the end of the previous stitches, with the same result.
@@ -53,7 +57,7 @@ Pins can be put “at any time” between the two pairs of the stitch: <span cla
 ### Notations and short notations
 
 Let A = { a , b , c }; B = { p , q , r }  
-1. A &otimes; B = { a , b , c } &otimes; { p , q , r }. This means: make all combinations from the symbols in the first set with all the symbols in the second set. This gives a new set: { ap, aq , ar , bp , bq , br , cp , cq , cr}. A word is one of these combinations. Please note: do not change the order. In this example, “pa” is not a word.   
+1. A &otimes; B = { a , b , c } &otimes; { p , q , r }. This means: make all combinations with all the symbols in the first set with all the symbols in the second set. This gives a new set: { ap , aq , ar , bp , bq , br , cp , cq , cr }. A word is one of these combinations. Please note: do not change the order. In this example, “pa” is not a word.   
 2. Short notation: AB means: A &otimes; B; pA means: { p } &otimes; A (result: { pa , pb , pc }   
 
 ### Rules for counting and cataloguing stitch words
@@ -62,12 +66,13 @@ Let A = { a , b , c }; B = { p , q , r }
 2. Every word must contain at least one of the set { t, r, l }.
 3. For a consecutive sequence of the symbols { t, r, l } in a word, if the sequence contains an “r”, it cannot contain an “l”. Similarly, if the sequence contains an “l”, it cannot contain an “r”.
 4. For a consecutive sequence of the symbols { t, r, l }, the sequence must be arranged in least lexicographical order: “t” < “r” < “l”. (This gives a canonical form. Lexicographical order, which is like alphabetical order, puts all of the symbols in a consistent order so that strings like rtrr, rrtr, trrr and rrtr, when sorted, are all the same, i.e. trrr.)
-5. Vertical mirrors: In the word, the first occurrence of a symbol from { r, l } must be an “r”.
-6. Horizontal mirrors: We have not discovered a general rule for finding words that mirror each other horizontally. The search has done by listing all “quartets”. Keep the word with the least lexicographic representation. 
+5. Vertical mirrors. In the word, the first occurrence of a symbol from { r, l } must be an “r”.
+6. Horizontal mirrors. We have not yet discovered a general rule for words that mirror each other horizontally. The search has done by listing all “quartets”. Keep the word with the least lexicographic representation. 
 
 ### Quartets of words
 
-Word p is vertically mirrored in word q, q is horizontally mirrored in d; d is vertically mirrored in b; b is horizontally mirrored in p. In our catalogue, we only list the word with the least lexicographic representation. Some words, like ctct gives themselves when vertically or horizontally mirrored.     
+In our catalogue, we only list the word with the least lexicographic representation. Some words, like ctct gives themselves when vertically or horizontally mirrored.     
+Word p is vertically mirrored in word q, q is horizontally mirrored in d; d is vertically mirrored in b; b is horizontally mirrored in p.      
 Examples: { ccrclc , cclcrc , crclcc, clcrcc }; { ctct }
 
 ### Limitations
@@ -84,7 +89,7 @@ We will use as example some words of length 5. For other lengths, we only give r
 ### Defining sets
 n : the length of the word we are counting     
 C = { c, cc }     
-T:= { t, r, l }
+T = { t, r, l }
 
 T<sub>1</sub> = { t, r, l }     
 T<sub>2</sub> = { tt, tr, tl, rr, ll }     
@@ -92,11 +97,11 @@ T<sub>3</sub> = { tt, ttr, ttl, trr, tll, rrr, lll }
 Please note: T<sub>3</sub> = tT<sub>2</sub> &oplus; {rrr , lll }    
 T<sub>all</sub> = T<sub>1</sub> &cup; T<sub>2</sub> &cup; T<sub>3</sub>    
 
-A word is a formed by choosing symbols alternately from C and T<sub>all</sub>. Valid words before applying rule 5 are:     
-C &otimes; T<sub>all</sub> &otimes; C &otimes; T<sub>all</sub> &otimes; C       
+A word is a formed by choosing symbols alternately from C and T<sub>all</sub>. Valid words before applying rule 5 are elements from sets like:     
+C &otimes; T<sub>all</sub> &otimes; C           
 C &otimes; T<sub>all</sub> &otimes; C &otimes; T<sub>all</sub> &otimes; C &otimes; T<sub>all</sub>
 
-To apply rule 5 (vertical mirrors), we add extra base sets that do not include “l”;s or series of “t”’s.     
+To apply rule 5 (vertical mirrors), we add extra base sets that do not include l's or series of t's.     
 B<sub>1</sub> = { r }			
 B<sub>2</sub> = { tr , rr } 		 
 B<sub>3</sub> = { ttr , trr , rrr }		     
