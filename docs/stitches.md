@@ -24,7 +24,7 @@ Clicking on the photo shows a larger image.
 
 <table>
   <tr><th>stitch</th><th>link to GroundForge</th><th>photo</th></tr>
-  <tr><td colspan="0"><strong>one</strong></td></tr>
+  <tr><td colspan="3"><strong>one</strong></td></tr>
   
   {% include ctrl.html s1="c" s2="c" name="cross only" comm="should only be used in combination with other stitches" %} 
 
