@@ -47,12 +47,12 @@ Clicking on the photo shows a larger image.
   {% include ctrl.html s1="ctct" s2="ctct" name="whole stitch" %}
   {% include ctrl.html s1="cttc" s2="cttc" name="open honeycomb turning stitch" %}
   {% include ctrl.html s1="cttt" s2="cttt" name="tulle" %}
-  {% include ctrl.html s1="crcr" s2="ctct" name="simplified mock three pair stitch" %}
+  {% include ctrl.html s1="crcr" s2="clcl" name="simplified mock three pair stitch" %}
   
   <tr><td colspan="0"><strong>five</strong></td></tr>
   
   {% include ctrl.html s1="ctctc" s2="ctctc" name="two pair snowflake" %}
-  {% include ctrl.html s1="crrcr" s2="crrcr" name="mock three pair stitch" %}
+  {% include ctrl.html s1="crrcr" s2="cllcl" name="mock three pair stitch" %}
   
   <tr><td colspan="0"><strong>six</strong></td></tr>
   
@@ -61,7 +61,7 @@ Clicking on the photo shows a larger image.
   {% include ctrl.html s1="cttctt" s2="cttctt" name="honeycomb turning stitch" %}
   {% include ctrl.html s1="crclct" s2="clcrct" name="cat's eyes" %}
   {% include ctrl.html s1="crclcl" s2="clcrcr" name="two pair bias stitch" %}
-  {% include ctrl.html s1="crrcll" s2="crrcll" name="mixed doubles turning stitch" %}
+  {% include ctrl.html s1="crrcll" s2="cllcrr" name="mixed doubles turning stitch" %}
   
   <tr><td colspan="0"><strong>seven</strong></td></tr>
   
@@ -78,7 +78,7 @@ Clicking on the photo shows a larger image.
   <tr><td colspan="0"><strong>nine and more</strong></td></tr>
   
   {% include ctrl.html s1="ctcrclctc" s2="ctclcrctc" name="split pair double cloth" %}
-  {% include ctrl.html s1="ctcrrrrctc" s2="ctclllllctc" name="bobbin lace pile stitch" %}
+  {% include ctrl.html s1="ctcrrrrrctc" s2="ctclllllctc" name="bobbin lace pile stitch" %}
   {% include ctrl.html s1="crrcllcrrcllcrrcllctt" s2="cllcrrcllcrrcllcrrctt" name="tally (to fit)" %}
     
 </table>
