@@ -116,6 +116,14 @@ to be continued
 
 
 
+Making of a horizontal mirrored stitch:
+Example: ctrctl
+a)  read word backwards : ltcrtc
+b)  re-order twits groups: t < r < l : tlctrc
+c)  move twits in front to back, replacing l with r, r with l (observation 3) : ctrctr
+
+d) to make the quartet, apply vertical mirroring (replace r with l, l with r) : ctrctl , ctrctr , ctlctl , ctlctr
+
 
 
 
