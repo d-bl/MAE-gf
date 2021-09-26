@@ -94,7 +94,7 @@ T = { t, r, l }
 T<sub>1</sub> = { t, r, l }     
 T<sub>2</sub> = { tt, tr, tl, rr, ll }     
 T<sub>3</sub> = { tt, ttr, ttl, trr, tll, rrr, lll }    
-Please note: T<sub>3</sub> = tT<sub>2</sub> &oplus; {rrr , lll }    
+Please note: T<sub>3</sub> = tT<sub>2</sub> &cup; {rrr , lll }    
 T<sub>all</sub> = T<sub>1</sub> &cup; T<sub>2</sub> &cup; T<sub>3</sub>    
 
 A word is a formed by choosing symbols alternately from C and T<sub>all</sub>. Valid words before applying rule 5 are elements from sets like:     
