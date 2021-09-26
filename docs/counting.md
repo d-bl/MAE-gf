@@ -19,7 +19,7 @@ A stitch is made by crossing and twisting two pairs of bobbins. With “twist”
 A stitch can be described with a word formed with the symbols c, l, r, t. These words have to obey certain rules. These rules come from observations from actual lace, and from some limits we set ourselves in this document.    
 To help us count and catalogue the stitches, the symbols are ordered: c before t, t before r, r before l. (We have chosen this order because tr is easier to see than tl.)     
 
-<span class="b-red">Please note</span>: the following rules are to be applied only for counting and cataloguing. Typically to make a net with only one stitch. Stitches like <span class="stch">lcltrcccl</span> are perfectly valid in real lace. 
+<span class="b-red">Please note</span>: the following rules are to be applied only for counting and cataloguing. Typically to make a diagnoal net with only one stitch. Stitches like <span class="stch">lcltrcccl</span> are perfectly valid in real lace. 
 
 ## Results
 
