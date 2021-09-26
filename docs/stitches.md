@@ -63,7 +63,7 @@ Clicking on the photo shows a larger image.
   {% include ctrl.html s1="crclcl" s2="clcrcr" name="two pair bias stitch" %}
   {% include ctrl.html s1="crrcll" s2="crrcll" name="mixed doubles turning stitch" %}
   
-  <tr><td colspan="0"><strong>seven(/strong></td></tr>
+  <tr><td colspan="0"><strong>seven</strong></td></tr>
   
   {% include ctrl.html s1="ctcrctc" s2="ctclctc" name="clothwork turning stitch" %}
   {% include ctrl.html s1="crclcrc" s2="clcrclc" name="two pair triangular stitch" %}
