@@ -112,17 +112,84 @@ To apply rule 6 (horizontal mirrors): We have not yet found an easy way of apply
 
 ### Word forming
 
-to be continued
+Now we know what the rules are, we can construct the words and start counting.  
+For example we use n = 5.
+
+### Step 1: for basic set, applying rule 1, 2, 3 and 4
+
+a)  List all numbers 1, 2, ..., (2<sup>n-1</sup> - 1). Larger numbers will lead to words not starting with "c".        
+    Example: 1, 2, ... , 15           
+b)  Replace all numbers with their binary representation, length n.           
+    Example: 00001, 00010, ... , 01111            
+c)  Replace all "0" with "c", all "1" with "T".     
+    Example: ccccT , cccTc , ..., cTTTT             
+d)  Remove all words with more than 2 "c". Remove all words with more than 3 "T".
+    Example: ccTcc , ccTcT , ... , cTTTc         
+
+### Step 2: Avoid vertical mirrored words, applying rule 5
+
+For examples we use the following proto-words: ccTcc , ccTcT , cTTcT , cTccT    
+
+a)  First make words with all "t"           
+    Example: cctcc , cctct , cttct , ctcct           
+b)  Replace T with T' in proto-word set (to be specified later)         
+    Example: ccT'<sub>1</sub>cc , ccT'<sub>1</sub>cT'<sub>1</sub> , cT'<sub>2</sub>cT'<sub>1</sub> , cT'<sub>1</sub>ccT'<sub>1</sub>          
+c)  Only one of the T'-set is the set with the first "r" in the word (rule 5). This set is called "B". Expand set.
+    Example:        
+	  cctcc , ccB<sub>1</sub>cc          
+	  cctct , ccT’cB<sub>1</sub> , ccB<sub>1</sub>cT’      
+	  cttct , cT’T’cB<sub>1</sub> , cB<sub>2</sub>cT’        
+	  ctcct , cT’ccB<sub>1</sub> , cB<sub>1</sub>ccT’          
+d)  A T' before a B must be all t's (rule 5). Replace T's before B.     
+    Example:           
+	  cctcc , ccB<sub>1</sub>cc       
+	  cctct , cctcB<sub>1</sub> , ccB<sub>1</sub>cT’       
+	  cttct , cttcB<sub>1</sub> , cB<sub>2</sub>cT’       
+	  ctcct , ctccB<sub>1</sub> , cB<sub>1</sub>ccT’      
+e)  All T' after B is T<sub>1</sub> , T<sub>2</sub> or  T<sub>3</sub>.     
+    Example:    
+   	cctcc , ccB<sub>1</sub>cc     
+	  cctct , cctcB<sub>1</sub> , ccB<sub>1</sub>cT<sub>1</sub>    
+	  cttct , cttcB<sub>1</sub> , cB<sub>2</sub>cT<sub>1</sub>   
+	  ctcct , ctccB<sub>1</sub> , cB<sub>1</sub>ccT<sub>1</sub>    
+f)  Solve T and B, giving more words.
+	  cctcc , ccrcc         
+    cctct , cctcr , ccrct , ccrcr , ccrcl   
+	  cttct , cttcr , ctrct , ctrcr , ctrcl , crrct , crrcr , crrcl       
+	  ctcct , ctccr , crcct , crccr , crccl     
+ Please note: there are no vertical mirrored pairs in this set.    
+
+### Step 3 : Finding horizontal mirror pairs, applying rule 6
+
+For each word b found in step 2:  
+    Example: b = ctrcl   
+a)  Make its horizontal mirrored image, called p    
+    Example: p = ctrcr    
+b)  Make vertical images of both b and p, resulting in d and q.   
+    Example: d = ctlcr , q = ctlcl
+
+c)  Check for doubles in this new set of words, and keep the lexicographycally lowest word. Typically, the doubles are the words called p, q or d.
+
+example will be added
 
 
+#### Making of a vertical mirrored word 
 
-Making of a horizontal mirrored stitch:    
+Example: ctrctl             
+a)  replace all "r" in the word with "l" and all "l" with "r" : ctlctr            
+
+#### Making of a horizontal mirrored word, applying rule 1 and using observations 2 and 3    
+
 Example: ctrctl     
 a)  read word backwards : ltcrtc     
 b)  re-order twits groups: t < r < l : tlctrc     
 c)  move twits in front to back, replacing l with r, r with l (observation 3) : ctrctr     
 
-d) to make the quartet, apply vertical mirroring (replace r with l, l with r) : ctrctl , ctrctr , ctlctl , ctlctr
+#### Making a quartet of words  
+
+Example: ctrctl           
+a)  apply vertical mirror : ctlctr                       
+b)  apply horizontal mirror on both results from step a) : ctrctl , ctrctr , ctlctl , ctlctr              
 
 
 
