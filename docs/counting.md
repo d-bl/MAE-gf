@@ -25,16 +25,16 @@ To help us count and catalogue the stitches, the symbols are ordered: c before t
 
 Words with length:
 
-1. 1 result: c however, cross only can not stand alone     
-2. 3 results: cc , ct, cr	however, cc can not stand alone       
+1. 1 result: c , however, cross only can not stand alone     
+2. 3 results: cc , ct , cr , however, cc can not stand alone       
 3. 7 results: cct , ccr , ctc, crc , ctt , ctr , crr      
 4. 16 results: cctc , ccrc , cctt  , cctr , ccrr , ctct , ctcr , crct , crcr , cttc , ctrc , crrc , cttt , cttr , ctrr , crrr     
 5. 34 results: cctcc , ccrcc , cctct , cctcr , ccrct , ccrcr , ccrcl , ccttc , cctrc , ccrrc , ccttt , ccttr , cctrr , ccrrr , ctctc , ctcrc , crcrc , crclc , ctctt , ctctr , ctcrr , crctt , crctr , crcrr , cttct , cttcr , ctrct , ctrcr , crrct , crrcr , ctttc , cttrc , ctrrc , crrrc      
 6. 79 results: cctcct , cctccr , ccrcct , ccrccr , cctctc , cctcrc , ccrctc , ccrcrc , ccrclc , cctctt , cctctr , cctcrr , ccrctt , ccrctr , ccrctl , ccrcrr , ccrcll , ccttcc , cctrcc , ccrrcc , ccttct , ccttcr , cctrct , cctrcr , cctrcl , ccrrct , ccrrcr , ccrrcl , cctttc , ccttrc , cctrrc , ccrrrc , ctcctc , ctccrc , crccrc , crcclc , ctctct , ctctcr , ctcrct , ctcrcr , ctcrcl , crcrct , crcrcr , crclct , crclcr , crclcl , ctcttc , ctctrc , ctcrrc , crcrrc , crcllc , ctcttt , ctcttr , ctctrr , ctcrrr , crcttt , crcttr , crctrr , crcrrr , cttcrc , ctrcrc , ctrclc , cttctt , cttctr , cttcrr , ctrctt , ctrctr , ctrcrr , crrctt , crrctr , crrcrr , ctttct , ctttcr , cttrct , cttrcr , ctrrct , ctrrcr , crrrct , crrrcr           
-7.   follows
-8.   follows
-9.   follows
-10.   follows 
+7.   estimated: 200
+8.   estimated: 500
+9.   estimated: 1250
+10.   estimated: 3150
 
 ## Method used
 
