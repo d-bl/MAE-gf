@@ -161,17 +161,12 @@ f)  Solve T and B, giving more words.
 
 ### Step 3 : Finding horizontal mirror pairs, applying rule 6
 
-For each word b found in step 2:  
-    Example: b = ctrcl   
-a)  Make its horizontal mirrored image, called p    
-    Example: p = ctrcr    
-b)  Make vertical images of both b and p, resulting in d and q.   
-    Example: d = ctlcr , q = ctlcl
+a)  For each word b found in step 2, make a quartet of words:  
+    Example: b = ctrcl , p = ctrcr , d = ctlcr , q = ctlcl   
 
-c)  Check for doubles in this new set of words, and keep the lexicographycally lowest word. Typically, the doubles are the words called p, q or d.
+b)  Check for doubles in this new set of words, and keep the lexicographycally lowest word. Typically, the doubles are the words called p, q or d.
 
 example will be added
-
 
 #### Making of a vertical mirrored word 
 
