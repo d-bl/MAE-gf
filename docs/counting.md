@@ -59,7 +59,7 @@ Pins can be put anywhere between the two pairs of the stitch: <span class="stch"
 1. Every word must start with a “c”.
 2. Every word must contain at least one of the set { t, r, l }.
 3. For a consecutive sequence of the symbols { t, r, l } in a word, if the sequence contains an “r”, it cannot contain an “l”. Similarly, if the sequence contains an “l”, it cannot contain an “r”.
-4. For a consecutive sequence of the symbols { t, r, l }, the sequence must be arranged in least lexicographical order: “t” < “r” < “l”. (This gives a canonical form. Lexicographical order, which is like alphabetical order, puts all of the symbols in a consistent order so that strings like rtrr, rrtr, trrr and rrtr, when sorted, are all the same, i.e. trrr.)
+4. For a consecutive sequence of the symbols { t, r, l }, the sequence must be arranged in least lexicographical order: “t” &lt; “r” &lt; “l”. (This gives a canonical form. Lexicographical order, which is like alphabetical order, puts all of the symbols in a consistent order so that strings like rtrr, rrtr, trrr and rrtr, when sorted, are all the same, i.e. trrr.)
 5. Vertical mirrors. In the word, the first occurrence of a symbol from { r, l } must be an “r”.
 6. Horizontal mirrors. We have not yet discovered a general rule for words that mirror each other horizontally. The search has done by listing all “quartets”. Keep the word with the least lexicographic representation. 
 
@@ -115,7 +115,7 @@ To apply rule 6 (horizontal mirrors): We have not yet found an easy way of apply
 Now we know what the rules are, we can construct the words and start counting.  
 For example we use n = 5.
 
-#### Step 1: for basic set, applying rule 1, 2, 3 and 4
+#### Step 1: Make basic set with proto-words, applying rule 1, 2, 3 and 4
 
 a. List all numbers 1, 2, ..., (2<sup>n-1</sup> - 1). Larger numbers will lead to words not starting with "c".      
 
@@ -189,16 +189,16 @@ b. Check for doubles in this new set of words, and keep the lexicographycally lo
     
 a. replace all "r" in the word with "l" and all "l" with "r"          
 
-> ctrctl --> ctrlctr 
+> ctrctl &rArr; ctrlctr 
 
 #### Making of a horizontal mirrored word, applying rule 1 and using observations 2 and 3    
 Please note: in a real lace work, the horizontal mirrored stitch involves only "reading backwards".
 
 a. read word backwards       
-b. re-order twist groups: t < r < l          
+b. re-order twist groups: t &lt; r &lt; l          
 c. move twists in front to back, replacing l with r, r with l (observation 3)       
 
-> ctrctl --> ltcrtc --> tlctrc --> ctrctr   
+> ctrctl &rArr; ltcrtc &rArr; tlctrc &rArr; ctrctr   
 
 #### Making a quartet of words  
 
