@@ -31,10 +31,10 @@ Words with length:
 4. 16 results: cctc , ccrc , cctt  , cctr , ccrr , ctct , ctcr , crct , crcr , cttc , ctrc , crrc , cttt , cttr , ctrr , crrr     
 5. 34 results: cctcc , ccrcc , cctct , cctcr , ccrct , ccrcr , ccrcl , ccttc , cctrc , ccrrc , ccttt , ccttr , cctrr , ccrrr , ctctc , ctcrc , crcrc , crclc , ctctt , ctctr , ctcrr , crctt , crctr , crcrr , cttct , cttcr , ctrct , ctrcr , crrct , crrcr , ctttc , cttrc , ctrrc , crrrc      
 6. 79 results: cctcct , cctccr , ccrcct , ccrccr , cctctc , cctcrc , ccrctc , ccrcrc , ccrclc , cctctt , cctctr , cctcrr , ccrctt , ccrctr , ccrctl , ccrcrr , ccrcll , ccttcc , cctrcc , ccrrcc , ccttct , ccttcr , cctrct , cctrcr , cctrcl , ccrrct , ccrrcr , ccrrcl , cctttc , ccttrc , cctrrc , ccrrrc , ctcctc , ctccrc , crccrc , crcclc , ctctct , ctctcr , ctcrct , ctcrcr , ctcrcl , crcrct , crcrcr , crclct , crclcr , crclcl , ctcttc , ctctrc , ctcrrc , crcrrc , crcllc , ctcttt , ctcttr , ctctrr , ctcrrr , crcttt , crcttr , crctrr , crcrrr , cttcrc , ctrcrc , ctrclc , cttctt , cttctr , cttcrr , ctrctt , ctrctr , ctrcrr , crrctt , crrctr , crrcrr , ctttct , ctttcr , cttrct , cttrcr , ctrrct , ctrrcr , crrrct , crrrcr           
-7.   estimated: 200
-8.   estimated: 500
-9.   estimated: 1.250
-10.   estimated: 3.150
+7. estimated: 200
+8. estimated: 500
+9. estimated: 1.250
+10. estimated: 3.150
 
 ## Method used
 
@@ -71,8 +71,8 @@ Let A = { a , b , c }; B = { p , q , r }
 
 ### Quartets of words
 
-In our catalogue, we only list the word with the least lexicographic representation. Some words, like ctct gives themselves when vertically or horizontally mirrored.     
-Word p is vertically mirrored in word q, q is horizontally mirrored in d; d is vertically mirrored in b; b is horizontally mirrored in p.      
+Word p is vertically mirrored in word q, q is horizontally mirrored in d; d is vertically mirrored in b; b is horizontally mirrored in p. In our catalogue, we only list the word with the least lexicographic representation. Some words, like ctct gives themselves when vertically or horizontally mirrored.     
+Please note: in this quartet, the mirrored words follow the rules set above, so all words start with "c".          
 Examples: { ccrclc , cclcrc , crclcc, clcrcc }; { ctct }
 
 ### Limitations
@@ -88,13 +88,13 @@ We will use as example some words of length 5. For other lengths, we only give r
 
 ### Defining sets
 n : the length of the word we are counting     
-C = { c, cc }     
-T = { t, r, l }
+C = { c , cc }     
+T = { t , r , l }
 
-T<sub>1</sub> = { t, r, l }     
-T<sub>2</sub> = { tt, tr, tl, rr, ll }     
-T<sub>3</sub> = { tt, ttr, ttl, trr, tll, rrr, lll }    
-Please note: T<sub>3</sub> = tT<sub>2</sub> &cup; {rrr , lll }    
+T<sub>1</sub> = { t , r , l }     
+T<sub>2</sub> = { tt , tr , tl , rr , ll }     
+T<sub>3</sub> = { ttt , ttr , ttl , trr , tll , rrr , lll }    
+Please note: T<sub>3</sub> = tT<sub>2</sub> &cup; { rrr , lll }    
 T<sub>all</sub> = T<sub>1</sub> &cup; T<sub>2</sub> &cup; T<sub>3</sub>    
 
 A word is a formed by choosing symbols alternately from C and T<sub>all</sub>. Valid words before applying rule 5 are elements from sets like:     
@@ -115,77 +115,102 @@ To apply rule 6 (horizontal mirrors): We have not yet found an easy way of apply
 Now we know what the rules are, we can construct the words and start counting.  
 For example we use n = 5.
 
-### Step 1: for basic set, applying rule 1, 2, 3 and 4
+#### Step 1: for basic set, applying rule 1, 2, 3 and 4
 
-a)  List all numbers 1, 2, ..., (2<sup>n-1</sup> - 1). Larger numbers will lead to words not starting with "c".        
-    Example: 1, 2, ... , 15           
-b)  Replace all numbers with their binary representation, length n.           
-    Example: 00001, 00010, ... , 01111            
-c)  Replace all "0" with "c", all "1" with "T".     
-    Example: ccccT , cccTc , ..., cTTTT             
-d)  Remove all words with more than 2 "c". Remove all words with more than 3 "T".
-    Example: ccTcc , ccTcT , ... , cTTTc         
+a. List all numbers 1, 2, ..., (2<sup>n-1</sup> - 1). Larger numbers will lead to words not starting with "c".      
 
-### Step 2: Avoid vertical mirrored words, applying rule 5
+> Example: 1, 2, ... , 15           
+
+b. Replace all numbers with their binary representation, length n.           
+
+> Example: 00001, 00010, ... , 01111            
+
+c. Replace all "0" with "c", all "1" with "T".     
+
+> Example: ccccT , cccTc , ..., cTTTT           
+  
+d. Remove all words with more than 2 "c". Remove all words with more than 3 "T".    
+
+> Example: ccTcc , ccTcT , ... , cTTTc         
+
+#### Step 2: Avoid vertical mirrored words, applying rule 5
 
 For examples we use the following proto-words: ccTcc , ccTcT , cTTcT , cTccT    
 
-a)  First make words with all "t"           
-    Example: cctcc , cctct , cttct , ctcct           
-b)  Replace T with T' in proto-word set (to be specified later)         
-    Example: ccT'<sub>1</sub>cc , ccT'<sub>1</sub>cT'<sub>1</sub> , cT'<sub>2</sub>cT'<sub>1</sub> , cT'<sub>1</sub>ccT'<sub>1</sub>          
-c)  Only one of the T'-set is the set with the first "r" in the word (rule 5). This set is called "B". Expand set.
-    Example:        
-	  cctcc , ccB<sub>1</sub>cc          
-	  cctct , ccT’cB<sub>1</sub> , ccB<sub>1</sub>cT’      
-	  cttct , cT’T’cB<sub>1</sub> , cB<sub>2</sub>cT’        
-	  ctcct , cT’ccB<sub>1</sub> , cB<sub>1</sub>ccT’          
-d)  A T' before a B must be all t's (rule 5). Replace T's before B.     
-    Example:           
-	  cctcc , ccB<sub>1</sub>cc       
-	  cctct , cctcB<sub>1</sub> , ccB<sub>1</sub>cT’       
-	  cttct , cttcB<sub>1</sub> , cB<sub>2</sub>cT’       
-	  ctcct , ctccB<sub>1</sub> , cB<sub>1</sub>ccT’      
-e)  All T' after B is T<sub>1</sub> , T<sub>2</sub> or  T<sub>3</sub>.     
-    Example:    
-   	cctcc , ccB<sub>1</sub>cc     
-	  cctct , cctcB<sub>1</sub> , ccB<sub>1</sub>cT<sub>1</sub>    
-	  cttct , cttcB<sub>1</sub> , cB<sub>2</sub>cT<sub>1</sub>   
-	  ctcct , ctccB<sub>1</sub> , cB<sub>1</sub>ccT<sub>1</sub>    
-f)  Solve T and B, giving more words.
-	  cctcc , ccrcc         
-    cctct , cctcr , ccrct , ccrcr , ccrcl   
-	  cttct , cttcr , ctrct , ctrcr , ctrcl , crrct , crrcr , crrcl       
-	  ctcct , ctccr , crcct , crccr , crccl     
- Please note: there are no vertical mirrored pairs in this set.    
+a. First make words with all "t"           
+b. Replace T with T'<sub>i</sub> in proto-word set (to be specified later)         
 
-### Step 3 : Finding horizontal mirror pairs, applying rule 6
+> Example:    
+> cctcc , ccT'<sub>1</sub>cc    
+> cctct , ccT'<sub>1</sub>cT'<sub>1</sub>   
+> cttct , cT'<sub>2</sub>cT'<sub>1</sub>    
+> ctcct , cT'<sub>1</sub>ccT'<sub>1</sub>              
 
-a)  For each word b found in step 2, make a quartet of words:  
-    Example: b = ctrcl , p = ctrcr , d = ctlcr , q = ctlcl   
+c. Only one of the T'-sets is the set with the first "r" in the word (rule 5). Call this set "B", leading to more proto-words.
 
-b)  Check for doubles in this new set of words, and keep the lexicographycally lowest word. Typically, the doubles are the words called p, q or d.
+> Example:        
+> cctcc , ccB<sub>1</sub>cc          
+> cctct , ccT’cB<sub>1</sub> , ccB<sub>1</sub>cT’      
+> cttct , cT’<sub>2</sub>cB<sub>1</sub> , cB<sub>2</sub>cT’        
+> ctcct , cT’ccB<sub>1</sub> , cB<sub>1</sub>ccT’          
 
-example will be added
+d. All T' before a B must be all t's (rule 5). Replace with t.     
+
+> Example:           
+> cctcc , ccB<sub>1</sub>cc       
+> cctct , cctcB<sub>1</sub> , ccB<sub>1</sub>cT’       
+> cttct , cttcB<sub>1</sub> , cB<sub>2</sub>cT’       
+> ctcct , ctccB<sub>1</sub> , cB<sub>1</sub>ccT’      
+
+e. No limits for T' after B. Replace with T.     
+
+> Example:    
+> cctcc , ccB<sub>1</sub>cc     
+> cctct , cctcB<sub>1</sub> , ccB<sub>1</sub>cT<sub>1</sub>    
+> cttct , cttcB<sub>1</sub> , cB<sub>2</sub>cT<sub>1</sub>   
+> ctcct , ctccB<sub>1</sub> , cB<sub>1</sub>ccT<sub>1</sub>    
+
+f. Solve T and B, giving more words.  
+
+> Example:   
+> cctcc , ccrcc         
+> cctct , cctcr , ccrct , ccrcr , ccrcl   
+> cttct , cttcr , ctrct , ctrcr , ctrcl , crrct , crrcr , crrcl       
+> ctcct , ctccr , crcct , crccr , crccl      
+
+Please note: there are no vertical mirrored pairs in this set.    
+
+#### Step 3 : Finding horizontal mirror pairs, applying rule 6
+
+a. For each word b found in step 2, make a quartet of words:   
+
+> Example: b = ctrcl , p = ctrcr , d = ctlcr , q = ctlcl   
+
+b. Check for doubles in this new set of words, and keep the lexicographycally lowest word. Typically, the doubles are the words called p, q or d.
+
+> example will be added
 
 #### Making of a vertical mirrored word 
+    
+a. replace all "r" in the word with "l" and all "l" with "r"          
 
-Example: ctrctl             
-a)  replace all "r" in the word with "l" and all "l" with "r" : ctlctr            
+> Example: ctrctl --> ctrlctr 
 
 #### Making of a horizontal mirrored word, applying rule 1 and using observations 2 and 3    
+Please note: in a real lace work, the horizontal mirrored stitch involves only "reading backwards".
 
-Example: ctrctl     
-a)  read word backwards : ltcrtc     
-b)  re-order twits groups: t < r < l : tlctrc     
-c)  move twits in front to back, replacing l with r, r with l (observation 3) : ctrctr     
+a. read word backwards       
+b. re-order twist groups: t < r < l          
+c. move twists in front to back, replacing l with r, r with l (observation 3)       
+
+> example: ctrctl --> ltcrtc --> tlctrc --> ctrctr   
 
 #### Making a quartet of words  
 
-Example: ctrctl           
-a)  apply vertical mirror : ctlctr                       
-b)  apply horizontal mirror on both results from step a) : ctrctl , ctrctr , ctlctl , ctlctr              
+a. apply vertical mirror                       
+b. apply horizontal mirror on both results from step a)                 
 
+> example: ctrctl , ctrctr , ctlctl , ctlctr
 
 
 
