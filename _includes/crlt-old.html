@@ -1,0 +1,35 @@
+<!-- links to GF, diagonal and horizontal nets. Called from page stitches --> 
+
+<tr>
+    <td>
+       {% if include.name %}
+        <i>{{ include.name }}</i>
+            <br>
+       {% endif %}
+       {{ include.s1 }}
+    </td>
+    <td>
+        <a href="/GroundForge/tiles?patchWidth=12&patchHeight=12&a1={{ include.s1 }}&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1" 
+           target="_blank">diagonal</a> 
+        <br>
+        <a href="/GroundForge/tiles?patchWidth=12&patchHeight=12&a1={{ include.s1 }}&a2={{ include.s2 }}&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2"
+            target="_blank">horizontal</a>    
+        {% if include.s1 != include.s2 %}
+            <br>
+            <a href="/GroundForge/tiles?patchWidth=12&patchHeight=12&a1={{ include.s2 }}&a2={{ include.s1 }}&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2"
+            target="_blank">-reversed</a>
+         {% endif %}
+    </td>
+    <td>
+        {% if include.photo %}
+           <a href="/MAE-gf/images/ctrl/{{ include.photo }}.jpg" target="_blank">
+                                                                         <img src="/MAE-gf/images/ctrl/{{ include.photo }}.jpg" width=200px height=100px></a>
+       {% endif %}
+        
+       {% if include.comm %}
+          {{ include.comm }}
+       {% endif %}
+           
+    </td>
+ </tr>
+ 
