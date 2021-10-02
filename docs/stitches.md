@@ -39,7 +39,7 @@ Each stitch has links to a page with pictures taken from Groundforge. From that 
 
   <tr><td colspan="3"><strong>two</strong></td></tr>
 
-  {% include ctrl.html s1="ct" name="half stitch" photo="ASN03" %} 
+  {% include ctrl.html s1="ct" name="half stitch" photo="ASN03" comm="This is a test on some very large comment, like serveral rows of text bla bla blbbla baleiovm wmefmf fkwemfe " %} 
   {% include ctrl.html s1="cr" %}
 
   <tr><td colspan="3"><strong>three</strong></td></tr>
@@ -51,7 +51,7 @@ Each stitch has links to a page with pictures taken from Groundforge. From that 
   
   <tr><td colspan="3"><strong>four</strong></td></tr>
   
-  {% include ctrl.html s1="cctt" name="open honeycomb turning stitch variant" comm="This is a test on some very large comment, like serveral rows of text bla bla blbbla baleiovm wmefmf fkwemfe " %}
+  {% include ctrl.html s1="cctt" name="open honeycomb turning stitch variant" %}
   {% include ctrl.html s1="ccrr" name="incomplete half stitch" %}
   {% include ctrl.html s1="ctct" name="whole stitch" photo="ASN05" %}
   {% include ctrl.html s1="cttc" name="open honeycomb turning stitch" %}
