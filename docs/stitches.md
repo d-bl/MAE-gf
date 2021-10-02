@@ -8,6 +8,7 @@ title: stitches
 ## Contents
 
 * [Introduction](#introduction)
+* [Pins](#pins)
 * [Stitches](#stitches)
 
 ## Introduction
@@ -16,6 +17,10 @@ A bobbin lace stitch is defined as something that happens when four bobbins meet
 On page [_couting and listing stitches_][page-counting], we will show a logical ordering of the stitches and the way we counted them.     
 
 [page-counting]: ../docs/counting
+
+## Pins
+
+In the following paragraph, the stitches are shown without telling where to place a pin.    
 
 ## Stitches
 
@@ -28,11 +33,11 @@ Each stitch has links to a page with pictures taken from Groundforge. Clicking o
     <th>stitch description</th>
     <th>name</th>
     <th>photo</th>
-    <th>comment></th>
+    <th>comment</th>
   </tr>
   <tr><td colspan="4"><strong>one</strong></td></tr>
   
-  {% include ctrl.html s1="c" name="cross only" comm="should only be used in combination with other stitches" %} 
+  {% include ctrl.html s1="c" name="cross only" comm="Use only in combination with other stitches" %} 
 
   <tr><td colspan="4"><strong>two</strong></td></tr>
 
@@ -48,7 +53,7 @@ Each stitch has links to a page with pictures taken from Groundforge. Clicking o
   
   <tr><td colspan="4"><strong>four</strong></td></tr>
   
-  {% include ctrl.html s1="cctt" name="open honeycomb turning stitch variant" %}
+  {% include ctrl.html s1="cctt" name="open honeycomb turning stitch variant" "This is a test on some very large comment, like serveral rows of text bla bla blbbla baleiovm wmefmf fkwemfe "%}
   {% include ctrl.html s1="ccrr" name="incomplete half stitch" %}
   {% include ctrl.html s1="ctct" name="whole stitch" photo="ASN05" %}
   {% include ctrl.html s1="cttc" name="open honeycomb turning stitch" %}
