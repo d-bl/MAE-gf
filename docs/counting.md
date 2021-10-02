@@ -31,7 +31,7 @@ Words with length:
 4. 16 results: cctc , ccrc , cctt  , cctr , ccrr , ctct , ctcr , crct , crcr , cttc , ctrc , crrc , cttt , cttr , ctrr , crrr     
 5. 34 results: cctcc , ccrcc , cctct , cctcr , ccrct , ccrcr , ccrcl , ccttc , cctrc , ccrrc , ccttt , ccttr , cctrr , ccrrr , ctctc , ctcrc , crcrc , crclc , ctctt , ctctr , ctcrr , crctt , crctr , crcrr , cttct , cttcr , ctrct , ctrcr , crrct , crrcr , ctttc , cttrc , ctrrc , crrrc      
 6. 79 results: cctcct , cctccr , ccrcct , ccrccr , cctctc , cctcrc , ccrctc , ccrcrc , ccrclc , cctctt , cctctr , cctcrr , ccrctt , ccrctr , ccrctl , ccrcrr , ccrcll , ccttcc , cctrcc , ccrrcc , ccttct , ccttcr , cctrct , cctrcr , cctrcl , ccrrct , ccrrcr , ccrrcl , cctttc , ccttrc , cctrrc , ccrrrc , ctcctc , ctccrc , crccrc , crcclc , ctctct , ctctcr , ctcrct , ctcrcr , ctcrcl , crcrct , crcrcr , crclct , crclcr , crclcl , ctcttc , ctctrc , ctcrrc , crcrrc , crcllc , ctcttt , ctcttr , ctctrr , ctcrrr , crcttt , crcttr , crctrr , crcrrr , cttcrc , ctrcrc , ctrclc , cttctt , cttctr , cttcrr , ctrctt , ctrctr , ctrcrr , crrctt , crrctr , crrcrr , ctttct , ctttcr , cttrct , cttrcr , ctrrct , ctrrcr , crrrct , crrrcr           
-7. estimated: 200
+7. 200 results   
 8. estimated: 500
 9. estimated: 1.250
 10. estimated: 3.150
