@@ -29,9 +29,9 @@ Each stitch has links to a page with pictures taken from Groundforge. From that 
 
 <table>
   <tr>
-    <th>stitch description</th>
-    <th>name</th>
-    <th>photo and comment</th>
+    <th><strong>description</strong></th>
+    <th><strong>name</strong></th>
+    <th><strong>photo and comment</strong></th>
   </tr>
   <tr><td colspan="3"><strong>one</strong></td></tr>
   
@@ -39,7 +39,7 @@ Each stitch has links to a page with pictures taken from Groundforge. From that 
 
   <tr><td colspan="3"><strong>two</strong></td></tr>
 
-  {% include ctrl.html s1="ct" name="half stitch" photo="ASN03" comm="This is a test on some very large comment, like serveral rows of text bla bla blbbla baleiovm wmefmf fkwemfe " %} 
+  {% include ctrl.html s1="ct" name="half stitch" photo="ASN03" %} 
   {% include ctrl.html s1="cr" %}
 
   <tr><td colspan="3"><strong>three</strong></td></tr>
