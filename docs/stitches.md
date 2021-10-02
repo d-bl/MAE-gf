@@ -24,15 +24,15 @@ In the following paragraph, the stitches are shown without telling where to plac
 
 ## Stitches
 
-The samples and photo's are made by S. Babbs.     
-Each stitch has links to a page with pictures taken from Groundforge. From that page, you can continue to GroundForge, to do more experiments. Clicking on the photo shows a larger image.   
+Each stitch has links to a page with pictures taken from Groundforge. From that page, you can continue to GroundForge, to do more experiments.      
+The samples and photo's are made by S. Babbs. Clicking on the photo shows a larger image.       
 
 <table>
   <tr>
     <th><strong>description</strong></th>
     <th><strong>name</strong></th>
     <th><strong>photo and comment</strong></th>
-  </tr>
+   </tr>
   <tr><td colspan="3"><strong>one</strong></td></tr>
   
   {% include ctrl.html s1="c" name="cross only" comm="Use only in combination with other stitches" %} 
