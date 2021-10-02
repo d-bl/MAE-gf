@@ -24,9 +24,8 @@ In the following paragraph, the stitches are shown without telling where to plac
 
 ## Stitches
 
-The samples and photo's are made by S. Babbs, reproduced with kind permission.  
-
-Each stitch has links to a page with pictures taken from Groundforge. Clicking on the photo shows a larger image.   
+The samples and photo's are made by S. Babbs.     
+Each stitch has links to a page with pictures taken from Groundforge. From that page, you can continue to GroundForge, to do more experiments. Clicking on the photo shows a larger image.   
 
 <table>
   <tr>
