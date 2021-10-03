@@ -27,29 +27,29 @@ In the following paragraph, the stitches are shown without telling where to plac
 Each stitch has links to a page with pictures taken from Groundforge. From that page, you can continue to GroundForge, to do more experiments.      
 The samples and photo's are made by S. Babbs. Clicking on the photo shows a larger image.       
 
-<table style="text-align:left">
+<table>
   <tr>
     <th><strong>description</strong></th>
     <th><strong>name</strong></th>
     <th><strong>photo and comment</strong></th>
    </tr>
-  <tr><td colspan="3"><strong>one</strong></td></tr>
+  <tr><td colspan="3" style="text-align:left"><strong>one</strong></td></tr>
   
   {% include ctrl.html s1="c" name="cross only" comm="Use only in combination with other stitches" %} 
 
-  <tr><td colspan="3"><strong>two</strong></td></tr>
+  <tr><td colspan="3" style="text-align:left"><strong>two</strong></td></tr>
 
   {% include ctrl.html s1="ct" name="half stitch" photo="ASN03" %} 
   {% include ctrl.html s1="cr" %}
 
-  <tr><td colspan="3"><strong>three</strong></td></tr>
+  <tr><td colspan="3" style="text-align:left"><strong>three</strong></td></tr>
 
   {% include ctrl.html s1="cct" name="double-crossed tulle stitch" photo="ASN01" %}
   {% include ctrl.html s1="ccr" name="incomplete half stitch variant" %}
   {% include ctrl.html s1="ctc" name="cloth stitch" photo="ASN04" %}
   {% include ctrl.html s1="ctr" name="asymmetrical half stitch" %}
   
-  <tr><td colspan="3"><strong>four</strong></td></tr>
+  <tr><td colspan="3" style="text-align:left"><strong>four</strong></td></tr>
   
   {% include ctrl.html s1="cctt" name="open honeycomb turning stitch variant" %}
   {% include ctrl.html s1="ccrr" name="incomplete half stitch" %}
@@ -58,7 +58,7 @@ The samples and photo's are made by S. Babbs. Clicking on the photo shows a larg
   {% include ctrl.html s1="cttt" name="tulle" photo="ASN15" %}
   {% include ctrl.html s1="crcr" name="simplified mock three pair stitch" %}
   
-  <tr><td colspan="3"><strong>five</strong></td></tr>
+  <tr><td colspan="3" style="text-align:left"><strong>five</strong></td></tr>
   
   {% include ctrl.html s1="ctctc" name="two pair snowflake" photo="ASN06" %}
   {% include ctrl.html s1="crrcr" name="mock three pair stitch" photo="ASN19" %}
