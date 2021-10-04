@@ -29,10 +29,10 @@ The samples and photo's are made by S. Babbs. Clicking on the photo shows a larg
 
 <table>
   <tr>
-    <th><strong>description</strong></th>
-    <th><strong>name</strong></th>
-    <th><strong>photo and comment</strong></th>
-   </tr>
+    <th style="padding:5px"><strong>description</strong></th>
+    <th style="padding:5px"><strong>name</strong></th>
+    <th style="padding:5px"><strong>photo and comment</strong></th>
+  </tr>
   
   {% include cctt.html subheader="one" %}
   
