@@ -155,7 +155,7 @@ c. Only one of the D-sets is the set with the first "r" in the word (rule 5). Ca
 > cctcc , ccB<sub>1</sub>cc          
 > cctct , ccD<sub>1</sub>cB<sub>1</sub> , ccB<sub>1</sub>cD<sub>1</sub>      
 > cttct , cD<sub>2</sub>cB<sub>1</sub> , cB<sub>2</sub>cD<sub>1</sub>            
-> ctcct , cD<sub>1>/sub>ccB<sub>1</sub> , cB<sub>1</sub>ccD<sub>1</sub>          
+> ctcct , cD<sub>1</sub>ccB<sub>1</sub> , cB<sub>1</sub>ccD<sub>1</sub>          
 
 d. All D before a B must be all t's (rule 5). Replace with t.     
 e. No limits for D after B. Replace with T<sub>i</sub>.     
