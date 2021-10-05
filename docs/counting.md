@@ -178,7 +178,7 @@ a. For each word b found in step 2, make a quartet of words (see below):
 
 > b = ctrcl , p = ctrcr , d = ctlcr , q = ctlcl   
 
-b. Check for doubles in this new set of words, and keep the lexicographycally lowest word. Typically, the doubles are the words where p = b or q = b. Because of rule 5: d &NotEqual; b.    
+b. Check for doubles in this new set of words, and keep the lexicographycally lowest word. Typically, the doubles are the words where p = b or q = b. Because of rule 5: d &ne; b.    
 
   > b = ctrcl , p = <u>ctrcr</u> , q = ctlcl , d = ctlcr. Word ctrcr (p) is the lowest.      
 
