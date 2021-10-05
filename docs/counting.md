@@ -19,17 +19,17 @@ A stitch is made by crossing and twisting two pairs of bobbins. With “twist”
 A stitch can be described with a <u>word</u> formed with the symbols "c", "l", "r", "t". These words have to obey certain rules. These rules come from observations from actual lace, and from some limits we set ourselves in this document.    
 To help us count and catalogue the stitches, the symbols are ordered: "c" before "t", "t" before "r", "r" before "l". (We have chosen this order because tr is easier to see than tl.)     
 
-<span class="b-red">Please note</span>: the following rules are to be applied only for counting and cataloguing. Typically to make a diagonal net with only one stitch. Stitches like <span class="stch">lcltrcccl</span> are perfectly valid in real lace. 
+<span class="b-red">Please note</span>: the following rules are to be applied for counting and cataloguing only. Typically to make a diagonal net with only one stitch. Stitches like <span class="stch">lcltrcccl</span> are perfectly valid in real lace. 
 
 ## Results
 
 <table class="cctt">
   <tr><th>Length of word</th>
-      <th>number of results</th>
+      <th>counts</th>
       <th>results</th>
   </tr>
  
-  <tr><td> 1 </td><td>     1 </td><td> c, however, cross only can not stand alone </td></tr>
+  <tr><td> 1 </td><td>     1 </td><td> c , however, cross only can not stand alone </td></tr>
   <tr><td> 2 </td><td>     3 </td><td> cc , ct , cr , however, cc can not stand alone </td></tr>
   <tr><td>  3 </td><td>    7 </td><td> cct , ccr , ctc, crc , ctt , ctr , crr </td></tr>      
   <tr><td>  4 </td><td>   16 </td><td> cctc , ccrc , cctt  , cctr , ccrr , ctct , ctcr , crct , crcr , cttc , ctrc , crrc , cttt , cttr , ctrr , crrr </td></tr> 
@@ -50,7 +50,7 @@ To help us count and catalogue the stitches, the symbols are ordered: "c" before
 2. If a stitch starts with a twist, we can apply this twist at the end of the previous stitches, with the same result.
 3. An incoming right twist is the same as an outgoing left twist for a net with only one stitch.
 4. <span class="stch">Cross only</span> is a valid stitch. However, a lacework with only crosses and no twists at all does not hold together. <span class="stch">Cross only</span> can only be used in combination with other stitches.
-5. Twist left followed by twist right is the same as twist right followed by twist left, this is the same as twist both pairs. Short: lr = rl = t.
+5. Twist left followed by twist right is the same as twist right followed by twist left. This is the same as twist both pairs. Short: lr = rl = t.
 6. A twist left and right is treated as one action because the left and right sides are done in parallel by the lacemaker.
 7. Stitches with many actions can be viewed as varieties of plaits and tallies.
 8. Stitches can end with crosses or end with twists.
@@ -71,7 +71,8 @@ Pins can be put anywhere between the two pairs of the stitch: <span class="stch"
 
 ### Quartets of words: bdqp
 
-Word p is vertically mirrored in word q, q is horizontally mirrored in d; d is vertically mirrored in b; b is horizontally mirrored in p. In our catalogue, we only list the word with the least lexicographic representation. Some words, like ctct are there own when vertically or horizontally mirrored image.     
+Word p is vertically mirrored in word q, q is horizontally mirrored in d; d is vertically mirrored in b; b is horizontally mirrored in p. In our catalogue, we only list the word with the least lexicographic representation.      
+Some words, like ctct stay the same when vertically or horizontally mirrored.     
 Please note: in this quartet, the mirrored words follow the rules set above, so all words start with "c".          
 Examples: { ccrclc , cclcrc , crclcc, clcrcc }; { ctct }
 
@@ -85,12 +86,12 @@ Examples: { ccrclc , cclcrc , crclcc, clcrcc }; { ctct }
 
 In this section we describe how we have listed and counted the words.     
 We have chosen to list and count the words based on the length of the word, which also corresponds to the number of actions performed by the lacemaker.    
-As examples we use some words of length 5.   
+As examples we use words of length 5 (but not the complete set).     
 
 ### Notations and short notations
 
 Let A = { a , b , c }; B = { p , q , r }  
-1. A &otimes; B = { a , b , c } &otimes; { p , q , r }. This means: make all combinations with all the symbols in the first set with all the symbols in the second set. This gives a new set: { ap , aq , ar , bp , bq , br , cp , cq , cr }. A word is one of these combinations. Please note: do not change the order. In this example, “pa” is not a valid combination.     
+1. A &otimes; B = { a , b , c } &otimes; { p , q , r }. This means: make all combinations using all the symbols in the first set and combine them with all the symbols in the second set. This gives a new set: { ap , aq , ar , bp , bq , br , cp , cq , cr }. A word is one of these combinations. Please note: do not change the order. In this example, “pa” is not a valid word in this example.       
 2. Short notation: AB means: A &otimes; B; pA means: { p } &otimes; A (result: { pa , pb , pc }   
 
 ### Defining sets
@@ -142,22 +143,22 @@ d. Remove all words with more than 2 "c". Remove all words with more than 3 "T".
 For examples we use the following proto-words: ccTcc , ccTcT , cTTcT , cTccT    
 
 a. First make words with all "t".                
-b. Replace T with T'<sub>i</sub> in proto-word set (to be specified later).              
+b. Replace T with D<sub>i</sub> in proto-word set (to be specified later).              
 
-> cctcc , ccT'<sub>1</sub>cc    
-> cctct , ccT'<sub>1</sub>cT'<sub>1</sub>   
-> cttct , cT'<sub>2</sub>cT'<sub>1</sub>    
-> ctcct , cT'<sub>1</sub>ccT'<sub>1</sub>              
+> cctcc , ccD<sub>1</sub>cc    
+> cctct , ccD<sub>1</sub>cD<sub>1</sub>   
+> cttct , cD<sub>2</sub>cD<sub>1</sub>    
+> ctcct , cD<sub>1</sub>ccD<sub>1</sub>              
 
-c. Only one of the T'-sets is the set with the first "r" in the word (rule 5). Call this set "B", leading to more proto-words.
+c. Only one of the D-sets is the set with the first "r" in the word (rule 5). Call this set "B", leading to more proto-words.
 
 > cctcc , ccB<sub>1</sub>cc          
-> cctct , ccT’cB<sub>1</sub> , ccB<sub>1</sub>cT’      
-> cttct , cT’<sub>2</sub>cB<sub>1</sub> , cB<sub>2</sub>cT’        
-> ctcct , cT’ccB<sub>1</sub> , cB<sub>1</sub>ccT’          
+> cctct , ccD<sub>1</sub>cB<sub>1</sub> , ccB<sub>1</sub>cD<sub>1>/sub>      
+> cttct , cD<sub>2</sub>cB<sub>1</sub> , cB<sub>2</sub>cD<sub>1>/sub>            
+> ctcct , cD<sub>1>/sub>ccB<sub>1</sub> , cB<sub>1</sub>ccD<sub>1>/sub>          
 
-d. All T' before a B must be all t's (rule 5). Replace with t.     
-e. No limits for T' after B. Replace with T<sub>i</sub>.     
+d. All D before a B must be all t's (rule 5). Replace with t.     
+e. No limits for D after B. Replace with T<sub>i</sub>.     
 
 > cctcc , ccB<sub>1</sub>cc     
 > cctct , cctcB<sub>1</sub> , ccB<sub>1</sub>cT<sub>1</sub>    
@@ -173,13 +174,13 @@ f. Solve T and B, giving the words we were looking for.
 
 #### Step 3 : Finding horizontal mirror pairs, applying rule 6
 
-a. For each word b found in step 2, make a quartet of words:   
+a. For each word b found in step 2, make a quartet of words (see below):   
 
 > b = ctrcl , p = ctrcr , d = ctlcr , q = ctlcl   
 
 b. Check for doubles in this new set of words, and keep the lexicographycally lowest word. Typically, the doubles are the words where p = b or q = b. Because of rule 5: d &NotEqual; b.    
 
-> b = ctrcl , p = ctrcr , q = ctlcl , d = ctlcr. Word ctrcr (p) is the lowest.      
+  > b = ctrcl , p = <u>ctrcr</u> , q = ctlcl , d = ctlcr. Word ctrcr (p) is the lowest.      
 
 #### Making of a vertical mirrored word 
     
@@ -188,7 +189,7 @@ a. replace all "r" in the word with "l" and all "l" with "r".
 > ctrctl &rArr; ctrlctr 
 
 #### Making of a horizontal mirrored word, applying rule 1 and using observations 2 and 3    
-Please note: in a real lace work, the horizontal mirrored stitch involves only "reading backwards".
+Please note: in a real lace work, the horizontal mirrored stitch involves only "perform backwards".
 
 a. Read word backwards.       
 b. Re-order twist groups: t &lt; r &lt; l.          
@@ -196,7 +197,7 @@ c. Move twists in front to back, replacing l with r, r with l (observation 3).
 
 > ctrctl &rArr; ltcrtc &rArr; tlctrc &rArr; ctrctr   
 
-#### Making a quartet of words  
+#### Making quartet of words  
 
 a. Apply vertical mirror.                       
 b. Apply horizontal mirror on both results from step a).                    
