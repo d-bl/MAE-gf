@@ -23,19 +23,31 @@ To help us count and catalogue the stitches, the symbols are ordered: "c" before
 
 ## Results
 
-| length of word | number of results | results |
-| --- | --- | --- |      
-|  1 |    1 | c, however, cross only can not stand alone |     
-|  2 |    3 | cc , ct , cr , however, cc can not stand alone |   
-|  3 |    7 | cct , ccr , ctc, crc , ctt , ctr , crr |      
-|  4 |   16 | cctc , ccrc , cctt  , cctr , ccrr , ctct , ctcr , crct , crcr , cttc , ctrc , crrc , cttt , cttr , ctrr , crrr | 
-|  5 |   34 | cctcc , ccrcc , cctct , cctcr , ccrct , ccrcr , ccrcl , ccttc , cctrc , ccrrc , ccttt , ccttr , cctrr , ccrrr , ctctc , ctcrc , crcrc , crclc , ctctt , ctctr , ctcrr , crctt , crctr , crcrr , cttct , cttcr , ctrct , ctrcr , crrct , crrcr , ctttc , cttrc , ctrrc , crrrc |         
-|  6 |   79 | cctcct , cctccr , ccrcct , ccrccr , cctctc , cctcrc , ccrctc , ccrcrc , ccrclc , cctctt , cctctr , cctcrr , ccrctt , ccrctr , ccrctl , ccrcrr , ccrcll , ccttcc , cctrcc , ccrrcc , ccttct , ccttcr , cctrct , cctrcr , cctrcl , ccrrct , ccrrcr , ccrrcl , cctttc , ccttrc , cctrrc , ccrrrc , ctcctc , ctccrc , crccrc , crcclc , ctctct , ctctcr , ctcrct , ctcrcr , ctcrcl , crcrct , crcrcr , crclct , crclcr , crclcl , ctcttc , ctctrc , ctcrrc , crcrrc , crcllc , ctcttt , ctcttr , ctctrr , ctcrrr , crcttt , crcttr , crctrr , crcrrr , cttcrc , ctrcrc , ctrclc , cttctt , cttctr , cttcrr , ctrctt , ctrctr , ctrcrr , crrctt , crrctr , crrcrr , ctttct , ctttcr , cttrct , cttrcr , ctrrct , ctrrcr , crrrct , crrrcr  |
-|  7 |  200 ||     
-|  8 | estimated: 500 ||     
-|  9 | estimated: 1.250 ||     
-| 10 | estimated: 3.150 ||     
+<table style="text-align:left; padding: 5px">
+  <tr><th><strong>Length of word</strong></th>
+      <th><strong>number of results</strong></th>
+      <th><strong>results</strong></th>
+  </tr>
+ 
+  <tr><td> 1 </td>
+      <td> 1 </td>
+      <td> c, however, cross only can not stand alone </td>
+  </tr>
+  <tr><td> 2 </td>
+      <td> 3 </td>
+      <td> cc , ct , cr , however, cc can not stand alone </td>
+  </tr>
+  <tr><td>  3 </td><td>    7 </td><td> cct , ccr , ctc, crc , ctt , ctr , crr </td></tr>      
+  <tr><td>  4 </td><td>   16 </td><td> cctc , ccrc , cctt  , cctr , ccrr , ctct , ctcr , crct , crcr , cttc , ctrc , crrc , cttt , cttr , ctrr , crrr </td></tr> 
+  <tr><td>  5 </td><td>   34 </td><td> cctcc , ccrcc , cctct , cctcr , ccrct , ccrcr , ccrcl , ccttc , cctrc , ccrrc , ccttt , ccttr , cctrr , ccrrr , ctctc , ctcrc , crcrc , crclc , ctctt , ctctr , ctcrr , crctt , crctr , crcrr , cttct , cttcr , ctrct , ctrcr , crrct , crrcr , ctttc , cttrc , ctrrc , crrrc </td></tr>         
+  <tr><td>  6 </td><td>   79 </td><td> cctcct , cctccr , ccrcct , ccrccr , cctctc , cctcrc , ccrctc , ccrcrc , ccrclc , cctctt , cctctr , cctcrr , ccrctt , ccrctr , ccrctl , ccrcrr , ccrcll , ccttcc , cctrcc , ccrrcc , ccttct , ccttcr , cctrct , cctrcr , cctrcl , ccrrct , ccrrcr , ccrrcl , cctttc , ccttrc , cctrrc , ccrrrc , ctcctc , ctccrc , crccrc , crcclc , ctctct , ctctcr , ctcrct , ctcrcr , ctcrcl , crcrct , crcrcr , crclct , crclcr , crclcl , ctcttc , ctctrc , ctcrrc , crcrrc , crcllc , ctcttt , ctcttr , ctctrr , ctcrrr , crcttt , crcttr , crctrr , crcrrr , cttcrc , ctrcrc , ctrclc , cttctt , cttctr , cttcrr , ctrctt , ctrctr , ctrcrr , crrctt , crrctr , crrcrr , ctttct , ctttcr , cttrct , cttrcr , ctrrct , ctrrcr , crrrct , crrrcr  </td></tr>
+  <tr><td>  7 </td><td>  200 </td><td></td></tr>     
+  <tr><td>  8 </td><td> estimated: 500 </td><td></td></tr>     
+  <tr><td>  9 </td><td> estimated: 1.250 </td><td></td></tr>     
+  <tr><td> 10 </td><td> estimated: 3.150 </td><td></td></tr>  
 
+</table>
+                                                  
 ## Method used
 
 ### Observations from real lace
