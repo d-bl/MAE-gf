@@ -35,10 +35,10 @@ To help us count and catalogue the stitches, the symbols are ordered: "c" before
   <tr><td>  4 </td><td>   16 </td><td style="text-align:left; padding-left: 5px"> cctc , ccrc , cctt  , cctr , ccrr , ctct , ctcr , crct , crcr , cttc , ctrc , crrc , cttt , cttr , ctrr , crrr </td></tr> 
   <tr><td>  5 </td><td>   34 </td><td style="text-align:left; padding-left: 5px"> cctcc , ccrcc , cctct , cctcr , ccrct , ccrcr , ccrcl , ccttc , cctrc , ccrrc , ccttt , ccttr , cctrr , ccrrr , ctctc , ctcrc , crcrc , crclc , ctctt , ctctr , ctcrr , crctt , crctr , crcrr , cttct , cttcr , ctrct , ctrcr , crrct , crrcr , ctttc , cttrc , ctrrc , crrrc </td></tr>         
   <tr><td>  6 </td><td>   79 </td><td style="text-align:left; padding-left: 5px"> cctcct , cctccr , ccrcct , ccrccr , cctctc , cctcrc , ccrctc , ccrcrc , ccrclc , cctctt , cctctr , cctcrr , ccrctt , ccrctr , ccrctl , ccrcrr , ccrcll , ccttcc , cctrcc , ccrrcc , ccttct , ccttcr , cctrct , cctrcr , cctrcl , ccrrct , ccrrcr , ccrrcl , cctttc , ccttrc , cctrrc , ccrrrc , ctcctc , ctccrc , crccrc , crcclc , ctctct , ctctcr , ctcrct , ctcrcr , ctcrcl , crcrct , crcrcr , crclct , crclcr , crclcl , ctcttc , ctctrc , ctcrrc , crcrrc , crcllc , ctcttt , ctcttr , ctctrr , ctcrrr , crcttt , crcttr , crctrr , crcrrr , cttcrc , ctrcrc , ctrclc , cttctt , cttctr , cttcrr , ctrctt , ctrctr , ctrcrr , crrctt , crrctr , crrcrr , ctttct , ctttcr , cttrct , cttrcr , ctrrct , ctrrcr , crrrct , crrrcr  </td></tr>
-  <tr><td>  7 </td><td>  200 </td><td></td></tr>     
-  <tr><td>  8 </td><td> estimated: 500 </td><td></td></tr>     
-  <tr><td>  9 </td><td> estimated: 1.250 </td><td></td></tr>     
-  <tr><td> 10 </td><td> estimated: 3.150 </td><td></td></tr>  
+  <tr><td>  7 </td><td>  200 </td><td style="text-align:left; padding-left: 5px"> </td></tr>     
+  <tr><td>  8 </td><td>  500 </td><td style="text-align:left; padding-left: 5px"> result estimated </td></tr>     
+  <tr><td>  9 </td><td> 1.250 </td><td style="text-align:left; padding-left: 5px"> result estimated </td></tr>     
+  <tr><td> 10 </td><td> 3.150 </td><td style="text-align:left; padding-left: 5px"> result estimated </td></tr>  
 
 </table>
                                                   
