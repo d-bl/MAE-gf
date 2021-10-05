@@ -24,9 +24,9 @@ To help us count and catalogue the stitches, the symbols are ordered: "c" before
 ## Results
 
 <table class="cctt">
-  <tr><th><strong>Length of word</strong></th>
-      <th><strong>number of results</strong></th>
-      <th><strong>results</strong></th>
+  <tr><th>Length of word</th>
+      <th>number of results</th>
+      <th>results</th>
   </tr>
  
   <tr><td> 1 </td><td>     1 </td><td> c, however, cross only can not stand alone </td></tr>
