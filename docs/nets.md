@@ -14,6 +14,7 @@ title: Net grounds
 * [Honeycomb net 3](#honeycomb-net-3)
   
 ## Introduction
+
 Net grounds are grounds with repeats of usualy one stitch. There are several ways of placing the stitches:                 
 ![net1][p-net1] ![net2][p-net2] ![net2x][p-net2x]       
 ![net3][p-net3] ![net4][p-net4] ![net5][p-net5]
@@ -29,6 +30,8 @@ Only when defining plaits as stitches you will see the honeycomb again in the [t
 It gets interesting, if we would use two (or more) different stitches. These grounds are known as "chaotic ground", "alternating ground", ...    
 Several of these can be found in the book by mrs A. Rühle: _Fillings from Hunnia Lace_.        
 
+For a list of nets with one stitch and its mirrored versions only, see page [_catalogue of stitches_][pg-stitches].      
+
 [p-net1]: ../images/nets/net1.png "horizontal net"
 [p-net2]: ../images/nets/net2.png "diagonal net"
 [p-net2x]: ../images/nets/net2x.png "diagonal net"
@@ -36,7 +39,14 @@ Several of these can be found in the book by mrs A. Rühle: _Fillings from Hunni
 [p-net4]: ../images/nets/net4.png "honeycomb 2"
 [p-net5]: ../images/nets/net5.png "honeycomb 3"
 
+[pg-stitches]: ../docs/stitches
+
 ## Horizontal net
+
+[![p-cha]][t-cha]
+Please note: for most of the horizontal nets, the footside on the left and right are best made like <span class="stch">rctPctctPctt</span> covering two rows as shown in the picture on the right.
+<p style="clear: both"></p>
+
 [![p-net1a]][t-net1a]  [![p-net1b]][t-net1b]  [![p-net1c]][t-net1c]    
 
 Or, not alternating:      
@@ -46,6 +56,7 @@ More examples:
 * [example 2-1][t-OO-12], [another example][t-OO-12a]
 
 ### Knitting
+
 The following examples look like a knitwork.   
 * [example 1][t-brei1],  [example 2][t-brei2],  [&amp;-ground][t-amp]    
 
@@ -54,6 +65,7 @@ The following examples look like a knitwork.
 [p-net1b]: ../images/nets/net1b.png "horizontal alternating ground"
 [p-net1c]: ../images/nets/net1c.png "alternating ground"
 [p-net1d]: ../images/nets/net1d.png "stripes"
+[p-cha]: ../images/nets/footside.png?align=right "example footsides" 
 
 [t-net1a]: /GroundForge/tiles?patchWidth=12&patchHeight=12&f1=ct&e1=ctct&d1=ct&c1=ctct&b1=ct&a1=ctct&f2=ct&e2=ctct&d2=ct&c2=ctct&b2=ct&a2=ctct&f3=ct&e3=ctct&d3=ct&c3=ctct&b3=ct&a3=ctct&f4=ct&e4=ctct&d4=ct&c4=ctct&b4=ct&a4=ctct&f5=ct&e5=ctct&d5=ct&c5=ctct&b5=ct&a5=ctct&f6=ct&e6=ctct&d6=ct&c6=ctct&b6=ct&a6=ctct&tile=888888,111111,888888,111111,888888,111111&tileStitch=ct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
 [t-net1b]: /GroundForge/tiles?patchWidth=12&patchHeight=12&f1=ctct&e1=ctct&d1=ctct&c1=ctct&b1=ctct&a1=ctct&f2=ct&e2=ct&d2=ct&c2=ct&b2=ct&a2=ct&f3=ctct&e3=ctct&d3=ctct&c3=ctct&b3=ctct&a3=ctct&f4=ct&e4=ct&d4=ct&c4=ct&b4=ct&a4=ct&f5=ctct&e5=ctct&d5=ctct&c5=ctct&b5=ctct&a5=ctct&f6=ct&e6=ct&d6=ct&c6=ct&b6=ct&a6=ct&tile=888888,111111,888888,111111,888888,111111&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
@@ -66,23 +78,28 @@ The following examples look like a knitwork.
 [t-brei1]: /GroundForge/tiles?patchWidth=7&patchHeight=9&i1=ctct&b1=rcl&b2=lcr&a2=ctct&footside=x,4&tile=1,8&headside=7,x&footsideStitch=ctct&tileStitch=ctc&headsideStitch=ctct&shiftColsSW=1&shiftRowsSW=0&shiftColsSE=0&shiftRowsSE=2
 [t-brei2]: /GroundForge/tiles?patchWidth=7&patchHeight=9&i1=ctct&b1=rccl&b2=lccr&a2=ctct&footside=x,4&tile=1,8&headside=7,x&footsideStitch=ctct&tileStitch=ctc&headsideStitch=ctct&shiftColsSW=1&shiftRowsSW=0&shiftColsSE=0&shiftRowsSE=2
 [t-amp]: /GroundForge/tiles?patchWidth=8&patchHeight=8&a1=crctclcr&a2=clctcrcl&tile=1,8&tileStitch=ctc&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
+[t-cha]: /GroundForge/tiles?patchWidth=6&patchHeight=12&h1=-&c1=clcr&b1=crcl&a1=lctctctctt&h2=rctctctctt&c2=clcr&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 
 ## Diagonal net
+
 [![p-net2a]][t-net2a]  [![p-net2c]][t-net2c]    
 
 [p-net2a]: ../images/nets/net2a.png "horizontally alternating"
 [p-net2c]: ../images/nets/net2c.png "chaotic ground"
 
 ### Examples using one stitch
+
 * [cats eyes][pf-2-bias-cr], [2-paired-bias][2-bias], [2 paired triangle][vi-2-tria], [mini spider 1][2-sp-1], [mini-spider 2][2-sp-2], [untwisted brussels ground][untw-mech]   
 * [double crossed tulle][PF-dct], [hexagons][t-hexagon-2]    
 
 ### Sprang
+
 The following examples look like sprang plaiting.
 * [example 1][vi-sprang-1], [example 2][vi-sprang-2]
 
 ### Examples using two or more different stitches
+
 * [mini spider in ring][2-sp-ring], [double crossed tulle in a ring][pf-cc-ring]     
 * [2 eyed cat][pf-2-bias-2]           
 
@@ -109,6 +126,7 @@ The following examples look like sprang plaiting.
 [t-hexagon-2]: /GroundForge/tiles?patchWidth=12&patchHeight=16&c1=-&a1=-&c2=ctctctc&a2=ctctctc&d3=ctctctc&b3=ctctctc&tile=5-5-,r-r-,-5-5&footsideStitch=ctctt&tileStitch=ctctctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
 
 ## Honeycomb net 1
+
 See also [_Paris grounds_][page-paris].           
 [![p1-net3]][t-net3b]
 
@@ -118,6 +136,7 @@ See also [_Paris grounds_][page-paris].
 [t-net3b]: /GroundForge/tiles?patchWidth=12&patchHeight=16&c1=ctc&a1=ctc&d2=tcct&tile=B-C-,---5&tileStitch=ctc&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ## Honeycomb net 2
+
 See also [_Lattice_][page-lotus].            
 [![p1-net4]][t-net4]
 
@@ -127,6 +146,7 @@ See also [_Lattice_][page-lotus].
 [t-net4]: /GroundForge/tiles?patchWidth=16&patchHeight=14&b1=ctc&c2=crr&a2=crr&d3=ctc&c4=cll&a4=cll&tile=-5--,6v9v,---5,2z0z&tileStitch=ctc&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Honeycomb net 3
+
 This scheme is equal to the [_bias ground_][page-bias].
 
 [![p1-net5]][t-0204] 
