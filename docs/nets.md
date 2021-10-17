@@ -44,7 +44,7 @@ For a list of nets with one stitch and its mirrored versions only, see page [_ca
 ## Horizontal net
 
 [![p-cha]][t-cha]
-Please note: for most of the horizontal nets, the footside on the left and right are best made like <span class="stch">rctPctctPctt</span> covering two rows as shown in the picture on the right.
+Please note: for most of the horizontal nets, the footsides on the left and right are best made like <span class="stch">rctPctctPctt</span> covering two rows as shown in the picture on the right.
 <p style="clear: both"></p>
 
 [![p-net1a]][t-net1a]  [![p-net1b]][t-net1b]  [![p-net1c]][t-net1c]    
