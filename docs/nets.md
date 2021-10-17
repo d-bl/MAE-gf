@@ -65,7 +65,7 @@ The following examples look like a knitwork.
 [p-net1b]: ../images/nets/net1b.png "horizontal alternating ground"
 [p-net1c]: ../images/nets/net1c.png "alternating ground"
 [p-net1d]: ../images/nets/net1d.png "stripes"
-[p-cha]: ../images/nets/footside.png?align=right "example footsides" 
+[p-cha]: ../images/nets/cha.png?align=right "example footsides" 
 
 [t-net1a]: /GroundForge/tiles?patchWidth=12&patchHeight=12&f1=ct&e1=ctct&d1=ct&c1=ctct&b1=ct&a1=ctct&f2=ct&e2=ctct&d2=ct&c2=ctct&b2=ct&a2=ctct&f3=ct&e3=ctct&d3=ct&c3=ctct&b3=ct&a3=ctct&f4=ct&e4=ctct&d4=ct&c4=ctct&b4=ct&a4=ctct&f5=ct&e5=ctct&d5=ct&c5=ctct&b5=ct&a5=ctct&f6=ct&e6=ctct&d6=ct&c6=ctct&b6=ct&a6=ctct&tile=888888,111111,888888,111111,888888,111111&tileStitch=ct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
 [t-net1b]: /GroundForge/tiles?patchWidth=12&patchHeight=12&f1=ctct&e1=ctct&d1=ctct&c1=ctct&b1=ctct&a1=ctct&f2=ct&e2=ct&d2=ct&c2=ct&b2=ct&a2=ct&f3=ctct&e3=ctct&d3=ctct&c3=ctct&b3=ctct&a3=ctct&f4=ct&e4=ct&d4=ct&c4=ct&b4=ct&a4=ct&f5=ctct&e5=ctct&d5=ctct&c5=ctct&b5=ctct&a5=ctct&f6=ct&e6=ct&d6=ct&c6=ct&b6=ct&a6=ct&tile=888888,111111,888888,111111,888888,111111&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
