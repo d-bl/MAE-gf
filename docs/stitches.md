@@ -58,6 +58,7 @@ The samples and photo's are made by S. Babbs. Clicking on the photo shows a larg
   {% include ctrl.html s1="cttc" name="open honeycomb turning stitch" %}
   {% include ctrl.html s1="cttt" name="tulle" photo="ASN15" %}
   {% include ctrl.html s1="crcr" name="simplified mock three pair stitch" %}
+  {% include ctrl.html s1="crcl" comm="See variations with 2 mirrored stitches." %}
   
   {% include cctt.html subheader="five" %}
   
