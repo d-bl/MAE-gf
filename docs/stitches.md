@@ -49,6 +49,7 @@ The samples and photo's are made by S. Babbs. Clicking on the photo shows a larg
   {% include ctrl.html s1="ccr" name="incomplete half stitch variant" %}
   {% include ctrl.html s1="ctc" name="cloth stitch" photo="ASN04" %}
   {% include ctrl.html s1="ctr" name="asymmetrical half stitch" %}
+  {% include ctrl.html s1="crr" %}
   
   {% include cctt.html subheader="four" %}
   
@@ -76,8 +77,9 @@ The samples and photo's are made by S. Babbs. Clicking on the photo shows a larg
   
   {% include cctt.html subheader="seven" %}
   
-  {% include ctrl.html s1="ctcrctc" s2="ctclctc" name="clothwork turning stitch" %}
-  {% include ctrl.html s1="crclcrc" s2="clcrclc" name="two pair triangular stitch" photo="ASN17" %}
+  {% include ctrl.html s1="ctctctc" %}
+  {% include ctrl.html s1="ctcrctc" name="clothwork turning stitch" %}
+  {% include ctrl.html s1="crclcrc" name="two pair triangular stitch" photo="ASN17" %}
   
   {% include cctt.html subheader="eight" %}
   
@@ -88,6 +90,7 @@ The samples and photo's are made by S. Babbs. Clicking on the photo shows a larg
   
   {% include cctt.html subheader="nine and more" %}
   
+  {% include ctrl.html s1="ctctctctt" name="split pair double cloth" %}
   {% include ctrl.html s1="ctcrclctc" name="split pair double cloth" %}
   {% include ctrl.html s1="ctcrrrrrctc" name="bobbin lace pile stitch" %}
   {% include ctrl.html s1="crrcllcrrcllcrrcllctt" name="tally (to fit)" %}
