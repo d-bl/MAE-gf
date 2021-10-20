@@ -90,7 +90,7 @@ The samples and photo's are made by S. Babbs. Clicking on the photo shows a larg
   
   {% include cctt.html subheader="nine and more" %}
   
-  {% include ctrl.html s1="ctctctctt" name="split pair double cloth" %}
+  {% include ctrl.html s1="ctctctctt" %}
   {% include ctrl.html s1="ctcrclctc" name="split pair double cloth" %}
   {% include ctrl.html s1="ctcrrrrrctc" name="bobbin lace pile stitch" %}
   {% include ctrl.html s1="crrcllcrrcllcrrcllctt" name="tally (to fit)" %}
