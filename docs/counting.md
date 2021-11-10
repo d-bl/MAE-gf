@@ -94,8 +94,8 @@ As examples we use words of length 5 (but not the complete set).
 ### Notations and short notations
 
 Let A = { a , b , c }; B = { p , q , r }  
-1. A &otimes; B = { a , b , c } &otimes; { p , q , r }. This means: make all combinations using all the symbols in the first set and combine them with all the symbols in the second set. This gives a new set: { ap , aq , ar , bp , bq , br , cp , cq , cr }. A word is one of these combinations. Please note: do not change the order. In this example, “pa” is not a valid word in this example.       
-2. Short notation: AB means: A &otimes; B; pA means: { p } &otimes; A (result: { pa , pb , pc }   
+1. A &otimes; B = { a , b , c } &otimes; { p , q , r }. This means: make all combinations using all the symbols in the first set and combine them with all the symbols in the second set. This gives a new set: { ap , aq , ar , bp , bq , br , cp , cq , cr }. A word is one of these combinations. Please note: do not change the order. In this example, “pa” is not a valid word.       
+2. Short notation: AB means: A &otimes; B; pA means: { p } &otimes; A (result: { pa , pb , pc }).   
 
 ### Defining sets
 n : the length of the words we are counting     
@@ -133,7 +133,7 @@ b. Replace all numbers with their binary representation, length n.
 
 > 00001, 00010, ... , 01111            
 
-c. Replace all "0" with "c", all "1" with "T".     
+c. Replace all "0" with "c", all "1" with "T".        
 
 > ccccT , cccTc , ..., cTTTT           
   
@@ -153,7 +153,7 @@ b. Replace T with D<sub>i</sub> in proto-word set (to be specified later).
 > cttct , cD<sub>2</sub>cD<sub>1</sub>    
 > ctcct , cD<sub>1</sub>ccD<sub>1</sub>              
 
-c. Only one of the D-sets is the set with the first "r" in the word (rule 5). Call this set "B", leading to more proto-words.
+c. Only one of the D-sets in the proto-word is the set with the first "r" in the word (rule 5). Call this set "B", leading to more proto-words.
 
 > cctcc , ccB<sub>1</sub>cc          
 > cctct , ccD<sub>1</sub>cB<sub>1</sub> , ccB<sub>1</sub>cD<sub>1</sub>      
@@ -181,9 +181,9 @@ a. For each word b found in step 2, make a quartet of words (see below):
 
 > b = ctrcl , p = ctrcr , d = ctlcr , q = ctlcl   
 
-b. Check for doubles in this new set of words, and keep the lexicographycally lowest word. Typically, the doubles are the words where p = b or q = b. Because of rule 5: d &ne; b.    
+b. Keep the lexicographycally lowest word. Check for doubles. Typically, the doubles are the words where p (quartet 1) = b (quartet 2) or q (quartet 1) = b (quartet 2). Because of rule 5: d (quartet 1) &ne; b (quartet 2).    
 
-  > b = ctrcl , p = <u>ctrcr</u> , q = ctlcl , d = ctlcr. Word ctrcr (p) is the lowest.      
+  > b = ctrcl , p = <u>ctrcr</u> , q = ctlcl , d = ctlcr. Word ctrcr (p) is the lowest, and is kept.      
 
 #### Making of a vertical mirrored word 
     
@@ -203,7 +203,7 @@ c. Move twists in front to back, replacing l with r, r with l (observation 3).
 #### Making quartet of words  
 
 a. Apply vertical mirror.                       
-b. Apply horizontal mirror on both results from step a).                    
+b. Apply horizontal mirror on both the original stitch and the result from step a).                    
 
 > ctrctl , ctrctr , ctlctl , ctlctr
 
