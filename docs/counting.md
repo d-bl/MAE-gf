@@ -35,92 +35,92 @@ A list with stitches can be downloaded as .txt file. Click op "results" in the t
   </tr>
  
   <tr><td> 1 </td>
-    <td class="ccnn"> 1 </td>
-    <td class="ccnn"> 1 </td>
-    <td class="ccnn"> 1 </td>
+    <td> 1 </td>
+    <td> 1 </td>
+    <td> 1 </td>
     <td> c , however, cross only can not stand alone </td> 
     <td></td></tr>
   
   <tr><td> 2 </td>
-    <td class="ccnn"> 3 </td>
-    <td class="ccnn"> 2 </td>
-    <td class="ccnn"> 2 </td>
+    <td> 3 </td>
+    <td> 2 </td>
+    <td> 2 </td>
     <td> cc , ct , cr , however, cc can not stand alone </td> 
     <td></td></tr>
   
   <tr><td> 3 </td>
-    <td class="ccnn"> 7 </td>
-    <td class="ccnn"> 5 </td>
-    <td class="ccnn"> 3 </td>
+    <td> 7 </td>
+    <td> 5 </td>
+    <td> 3 </td>
     <td> cct , ccr , ctc, crc , ctt , ctr , crr </td>  
     <td><a href="../documents/counting/length3.txt" download>results</a></td></tr>      
     
   <tr><td> 4 </td>
-    <td class="ccnn"> 16 </td>
-    <td class="ccnn"> 11 </td>
-    <td class="ccnn"> 4 </td>
-    <td class="ccnn"> cctc , ccrc , cctt  , cctr , ccrr , ctct , ctcr , crct , crcr , cttc , ctrc , crrc , cttt , cttr , ctrr , crrr </td>
+    <td> 16 </td>
+    <td> 11 </td>
+    <td> 4 </td>
+    <td> cctc , ccrc , cctt  , cctr , ccrr , ctct , ctcr , crct , crcr , cttc , ctrc , crrc , cttt , cttr , ctrr , crrr </td>
     <td><a href="../documents/counting/length4.txt" download>results</a></td></tr> 
   
   <tr><td> 5 </td>
-    <td class="ccnn"> 34 </td>
-    <td class="ccnn"> 20 </td>  
-    <td class="ccnn"> 6 </td>
+    <td> 34 </td>
+    <td> 20 </td>  
+    <td> 6 </td>
     <td> cctcc , ccrcc , cctct , cctcr , ccrct , ccrcr , ccrcl , ccttc , cctrc , ccrrc , ccttt , ccttr , cctrr , ccrrr , ctctc , ctcrc , crcrc , crclc , ctctt , ctctr , ctcrr , crctt , crctr , crcrr , cttct , cttcr , ctrct , ctrcr , crrct , crrcr , ctttc , cttrc , ctrrc , crrrc </td>
     <td><a href="../documents/counting/length5.txt" download>results</a></td></tr>         
  
   <tr><td> 6 </td>
-    <td class="ccnn"> 79 </td>
-    <td class="ccnn"> 43 </td>
-    <td class="ccnn"> 7 </td>
+    <td> 79 </td>
+    <td> 43 </td>
+    <td> 7 </td>
     <td> cctcct , cctccr , ccrcct , ccrccr , cctctc , cctcrc , ccrctc , ccrcrc , ccrclc , cctctt , cctctr , cctcrr , ccrctt , ccrctr , ccrctl , ccrcrr , ccrcll , ccttcc , cctrcc , ccrrcc , ccttct , ccttcr , cctrct , cctrcr , cctrcl , ccrrct , ccrrcr , ccrrcl , cctttc , ccttrc , cctrrc , ccrrrc , ctcctc , ctccrc , crccrc , crcclc , ctctct , ctctcr , ctcrct , ctcrcr , ctcrcl , crcrct , crcrcr , crclct , crclcr , crclcl , ctcttc , ctctrc , ctcrrc , crcrrc , crcllc , ctcttt , ctcttr , ctctrr , ctcrrr , crcttt , crcttr , crctrr , crcrrr , cttcrc , ctrcrc , ctrclc , cttctt , cttctr , cttcrr , ctrctt , ctrctr , ctrcrr , crrctt , crrctr , crrcrr , ctttct , ctttcr , cttrct , cttrcr , ctrrct , ctrrcr , crrrct , crrrcr  </td>
     <td><a href="../documents/counting/length6.txt" download>results</a></td></tr>
   
   <tr><td> 7 </td>
-    <td class="ccnn"> 201 </td>
-    <td class="ccnn"> 93 </td>
-    <td class="ccnn"> 10 </td>
+    <td> 201 </td>
+    <td> 93 </td>
+    <td> 10 </td>
     <td></td>
     <td><a href="../documents/counting/length7.txt" download>results</a></td></tr>     
   
   <tr><td> 8 </td>
-    <td class="ccnn"> 518 </td>
-    <td class="ccnn"> 214 </td>
-    <td class="ccnn"> 12 </td>
+    <td> 518 </td>
+    <td> 214 </td>
+    <td> 12 </td>
     <td></td>
     <td><a href="../documents/counting/length8.txt" download>results</a></td></tr>     
   
   <tr><td> 9 </td>
-    <td class="ccnn"> 1381 </td>
-    <td class="ccnn"> 503 </td>
-    <td class="ccnn"> 16 </td>
+    <td> 1381 </td>
+    <td> 503 </td>
+    <td> 16 </td>
     <td></td>
     <td><a href="../documents/counting/length9.txt" download>results</a></td></tr>     
   
   <tr><td> 10 </td>
-    <td class="ccnn"> 3745 </td>
-    <td class="ccnn"> 1223 </td>
-    <td class="ccnn"> 20 </td>
+    <td> 3745 </td>
+    <td> 1223 </td>
+    <td> 20 </td>
     <td></td>
     <td><a href="../documents/counting/length10.txt" download>results</a></td></tr>  
   
   <tr><td> 11 </td>
-    <td class="ccnn"> 10260 </td>
-    <td class="ccnn"> 2952 </td>
-    <td class="ccnn"> 29 </td>
+    <td> 10260 </td>
+    <td> 2952 </td>
+    <td> 29 </td>
     <td></td>
     <td><a href="../documents/counting/length11.txt" download>results</a></td></tr>  
   
   <tr><td> 12 </td>
-    <td class="ccnn"> 28231 </td>
-    <td class="ccnn"> 7240 </td>
-    <td class="ccnn"> 36 </td>
+    <td> 28231 </td>
+    <td> 7240 </td>
+    <td> 36 </td>
     <td><a href="../documents/counting/length12.txt" download>results</a></td></tr>  
   
   <tr><td> 13 </td>
-    <td class="ccnn"> 78112 </td>
-    <td class="ccnn"> 17767 </td>
-    <td class="ccnn"> 51 </td>
+    <td> 78112 </td>
+    <td> 17767 </td>
+    <td> 51 </td>
     <td></td>
     <td></td></tr>   
 
