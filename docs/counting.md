@@ -23,6 +23,8 @@ To help us count and catalogue the stitches, the symbols are ordered: "c" before
 
 ## Results
 
+A list with stitches can be downloaded as .txt file. Click op "results" in the table below. On each row in the file you find: stitch word "b" following the rules set below, between brackets the "quartet" of mirrored stitches. See below for an explanation.      
+
 <table class="cctt">
   <tr><th>Length of word</th>
       <th>counts</th>
@@ -34,16 +36,19 @@ To help us count and catalogue the stitches, the symbols are ordered: "c" before
   <tr><td> 2 </td><td>     3 </td><td> cc , ct , cr , however, cc can not stand alone </td> <td></td></tr>
   <tr><td>  3 </td><td>    7 </td><td> cct , ccr , ctc, crc , ctt , ctr , crr </td>  
       <td> <a href="../documents/counting/length3.txt" download>results</a></td></tr>      
-  <tr><td>  4 </td><td>   16 </td><td> cctc , ccrc , cctt  , cctr , ccrr , ctct , ctcr , crct , crcr , cttc , ctrc , crrc , cttt , cttr , ctrr , crrr </td></tr> 
-  <tr><td>  5 </td><td>   34 </td><td> cctcc , ccrcc , cctct , cctcr , ccrct , ccrcr , ccrcl , ccttc , cctrc , ccrrc , ccttt , ccttr , cctrr , ccrrr , ctctc , ctcrc , crcrc , crclc , ctctt , ctctr , ctcrr , crctt , crctr , crcrr , cttct , cttcr , ctrct , ctrcr , crrct , crrcr , ctttc , cttrc , ctrrc , crrrc </td></tr>         
-  <tr><td>  6 </td><td>   79 </td><td> cctcct , cctccr , ccrcct , ccrccr , cctctc , cctcrc , ccrctc , ccrcrc , ccrclc , cctctt , cctctr , cctcrr , ccrctt , ccrctr , ccrctl , ccrcrr , ccrcll , ccttcc , cctrcc , ccrrcc , ccttct , ccttcr , cctrct , cctrcr , cctrcl , ccrrct , ccrrcr , ccrrcl , cctttc , ccttrc , cctrrc , ccrrrc , ctcctc , ctccrc , crccrc , crcclc , ctctct , ctctcr , ctcrct , ctcrcr , ctcrcl , crcrct , crcrcr , crclct , crclcr , crclcl , ctcttc , ctctrc , ctcrrc , crcrrc , crcllc , ctcttt , ctcttr , ctctrr , ctcrrr , crcttt , crcttr , crctrr , crcrrr , cttcrc , ctrcrc , ctrclc , cttctt , cttctr , cttcrr , ctrctt , ctrctr , ctrcrr , crrctt , crrctr , crrcrr , ctttct , ctttcr , cttrct , cttrcr , ctrrct , ctrrcr , crrrct , crrrcr  </td></tr>
-  <tr><td>  7 </td><td>   201 </td><td> </td></tr>     
-  <tr><td>  8 </td><td>   518 </td><td> </td></tr>     
-  <tr><td>  9 </td><td>  1381 </td><td> </td></tr>     
-  <tr><td> 10 </td><td>  3745 </td><td> </td></tr>  
-  <tr><td> 11 </td><td> 10260 </td><td> </td></tr>  
-  <tr><td> 12 </td><td> 28231 </td><td> </td></tr>  
-  <tr><td> 13 </td><td> 78112 </td><td> </td></tr>   
+  <tr><td>  4 </td><td>   16 </td><td> cctc , ccrc , cctt  , cctr , ccrr , ctct , ctcr , crct , crcr , cttc , ctrc , crrc , cttt , cttr , ctrr , crrr </td>
+      <td> <a href="../documents/counting/length4.txt" download>results</a></td></tr> 
+  <tr><td>  5 </td><td>   34 </td><td> cctcc , ccrcc , cctct , cctcr , ccrct , ccrcr , ccrcl , ccttc , cctrc , ccrrc , ccttt , ccttr , cctrr , ccrrr , ctctc , ctcrc , crcrc , crclc , ctctt , ctctr , ctcrr , crctt , crctr , crcrr , cttct , cttcr , ctrct , ctrcr , crrct , crrcr , ctttc , cttrc , ctrrc , crrrc </td>
+      <td> <a href="../documents/counting/length5.txt" download>results</a></td></tr>         
+  <tr><td>  6 </td><td>   79 </td><td> cctcct , cctccr , ccrcct , ccrccr , cctctc , cctcrc , ccrctc , ccrcrc , ccrclc , cctctt , cctctr , cctcrr , ccrctt , ccrctr , ccrctl , ccrcrr , ccrcll , ccttcc , cctrcc , ccrrcc , ccttct , ccttcr , cctrct , cctrcr , cctrcl , ccrrct , ccrrcr , ccrrcl , cctttc , ccttrc , cctrrc , ccrrrc , ctcctc , ctccrc , crccrc , crcclc , ctctct , ctctcr , ctcrct , ctcrcr , ctcrcl , crcrct , crcrcr , crclct , crclcr , crclcl , ctcttc , ctctrc , ctcrrc , crcrrc , crcllc , ctcttt , ctcttr , ctctrr , ctcrrr , crcttt , crcttr , crctrr , crcrrr , cttcrc , ctrcrc , ctrclc , cttctt , cttctr , cttcrr , ctrctt , ctrctr , ctrcrr , crrctt , crrctr , crrcrr , ctttct , ctttcr , cttrct , cttrcr , ctrrct , ctrrcr , crrrct , crrrcr  </td>
+      <td> <a href="../documents/counting/length6.txt" download>results</a></td></tr>
+  <tr><td>  7 </td><td>   201 </td><td></td><td> <a href="../documents/counting/length7.txt" download>results</a></td></tr>     
+  <tr><td>  8 </td><td>   518 </td><td></td><td> <a href="../documents/counting/length8.txt" download>results</a></td></tr>     
+  <tr><td>  9 </td><td>  1381 </td><td></td><td> <a href="../documents/counting/length9.txt" download>results</a></td></tr>     
+  <tr><td> 10 </td><td>  3745 </td><td></td><td> <a href="../documents/counting/length10.txt" download>results</a></td></tr>  
+  <tr><td> 11 </td><td> 10260 </td><td></td><td> <a href="../documents/counting/length11txt" download>results</a></td></tr>  
+  <tr><td> 12 </td><td> 28231 </td><td></td><td> <a href="../documents/counting/length12.txt" download>results</a></td></tr>  
+  <tr><td> 13 </td><td> 78112 </td><td></td><td></td></tr>   
 
 </table>
                                                   
