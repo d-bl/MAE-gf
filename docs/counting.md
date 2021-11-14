@@ -115,6 +115,7 @@ A list with stitches can be downloaded as .txt file. Click op "results" in the t
     <td> 28231 </td>
     <td> 7240 </td>
     <td> 36 </td>
+    <td></td>
     <td><a href="../documents/counting/length12.txt" download>results</a></td></tr>  
   
   <tr><td> 13 </td>
