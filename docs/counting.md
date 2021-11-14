@@ -23,7 +23,7 @@ To help us count and catalogue the stitches, the symbols are ordered: "c" before
 
 ## Results
 
-A list with stitches can be downloaded as .txt file. Click op "results" in the table below. On each row in the file you find: stitch word "b" following the rules set below, between brackets the "quartet" of mirrored stitches. See below for an explanation.      
+The list with stitches can be downloaded as .txt file. Click op "results" in the table below. On each row in the file you find: stitch word "b" following the rules set below and between brackets the "quartet" of mirrored stitches. See below for an explanation.      
 
 <table class="cctt">
   <tr><th>Length of word</th>
