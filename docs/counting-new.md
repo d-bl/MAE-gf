@@ -55,76 +55,76 @@ Please note: the following list consists of words starting and ending with "c". 
     <td> 0 </td>
     <td> 1 </td>
     <td> ctc, crc </td>  
-    <td><a href="../documents/counting/length3.txt" download>results</a></td></tr>      
+    <td><a href="../documents/counting/c_clengthto10.txt" download>results</a></td></tr>      
     
   <tr><td> 4 </td>
     <td> 5 </td>
     <td> 3 </td>
     <td> 1 </td>
     <td> cctc , ccrc , cttc , ctrc , crrc </td>
-    <td><a href="../documents/counting/length4.txt" download>results</a></td></tr> 
+    <td><a href="../documents/counting/c_clengthto10.txt" download>results</a></td></tr> 
   
   <tr><td> 5 </td>
     <td> 13 </td>
     <td> 8 </td>  
     <td> 3 </td>
     <td> cctcc , ccrcc , ccttc , cctrc , ccrrc , ctctc , ctcrc , crcrc , crclc , ctttc , cttrc , ctrrc , crrrc </td>
-    <td><a href="../documents/counting/length5.txt" download>results</a></td></tr>         
+    <td><a href="../documents/counting/c_clengthto10.txt" download>results</a></td></tr>         
  
   <tr><td> 6 </td>
     <td> 24 </td>
     <td> 8 TODO </td>
     <td> 2 </td>
     <td> cctctc , cctcrc , ccrctc , ccrcrc , ccrclc , ccttcc , cctrcc , ccrrcc , cctttc , ccttrc , cctrrc , ccrrrc , ctcctc , ctccrc , crccrc , crcclc , ctcttc , ctctrc , ctcrrc , crcrrc , crcllc , cttcrc , ctrcrc , ctrclc </td>
-    <td><a href="../documents/counting/length6.txt" download>results</a></td></tr>
+    <td><a href="../documents/counting/c_clengthto10.txt" download>results</a></td></tr>
   
   <tr><td> 7 </td>
     <td> 67 </td>
     <td> TOTDO </td>
     <td> 4 </td>
     <td></td>
-    <td><a href="../documents/counting/length7.txt" download>results</a></td></tr>     
+    <td><a href="../documents/counting/c_clengthto10.txt" download>results</a></td></tr>     
   
   <tr><td> 8 </td>
     <td> 168 </td>
     <td> TODO </td>
     <td> 3 </td>
     <td></td>
-    <td><a href="../documents/counting/length8.txt" download>results</a></td></tr>     
+    <td><a href="../documents/counting/c_clengthto10.txt" download>results</a></td></tr>     
   
   <tr><td> 9 </td>
     <td> 460 </td>
     <td> TODO </td>
     <td> 7 </td>
     <td></td>
-    <td><a href="../documents/counting/length9.txt" download>results</a></td></tr>     
+    <td><a href="../documents/counting/c_clengthto10.txt" download>results</a></td></tr>     
   
   <tr><td> 10 </td>
     <td> 1220 </td>
     <td> TODO </td>
     <td> 6 </td>
     <td></td>
-    <td><a href="../documents/counting/length10.txt" download>results</a></td></tr>  
+    <td><a href="../documents/counting/c_clengthto10.txt" download>results</a></td></tr>  
   
   <tr><td> 11 </td>
     <td> 3389 </td>
     <td> TODO </td>
     <td> 13 </td>
     <td></td>
-    <td><a href="../documents/counting/length11.txt" download>results</a></td></tr>  
+    <td><a href="../documents/counting/c_clength11.txt" download>results</a></td></tr>  
   
   <tr><td> 12 </td>
     <td> 9245 </td>
     <td> TODO </td>
     <td> 10 </td>
     <td></td>
-    <td><a href="../documents/counting/length12.txt" download>results</a></td></tr>  
+    <td><a href="../documents/counting/c_clength12.txt" download>results</a></td></tr>  
   
   <tr><td> 13 </td>
     <td> 25677 </td>
     <td> TODO </td>
     <td> 22 </td>
-    <td></td>
+    <td><a href="../documents/counting/c_clength13.txt" download>results</a></td>
     <td></td></tr>   
 
 </table>
@@ -146,7 +146,7 @@ Please note: the following list consists of words starting and ending with "c". 
 
 ### Pins
 
-Pins can be put anywhere between the two pairs of the stitch: <span class="stch">ctPctctct</span>, <span class="stch">ctctPctct</span>, <span class="stch"> ctctPct</span>, <span class="stch">ctctctP</span>. Also, we can make a pinchain: <span class="stch">ctPctctPct</span> and even put the pin between bobbin 1 and 2. Although the placing of the pin can change the appearance of the ground, we do not consider pins in our counting.   
+Pins can be put anywhere between the two pairs of the stitch: <span class="stch">ctPctctc</span>, <span class="stch">ctctPctc</span>, <span class="stch"> ctctPc</span>, <span class="stch">ctctcP</span>. Also, we can make a pinchain: <span class="stch">ctPctctPc</span> and even put the pin between bobbin 1 and 2. Although the placing of the pin can change the appearance of the ground, we do not consider pins in our counting.   
 
 ### Rules for counting and cataloguing stitch words
 
@@ -228,77 +228,76 @@ c. Replace all "0" with "c", all "1" with "T".
   
 d. Remove all words with more than 2 "c". Remove all words with more than 3 "T".    
 
-> ... , ccTTcc , cTTcTT , cTcTcc, cTcTcT, ... , cTTTcc    
+> ... , ccTTcc , cTTcTT , cTcTcc, cTcTcT, ... , cTTTcc , ...         
 
 e. Remove all words that ends with T. Note, these are the odd numbers from step 1.
 
-> ... , ccTTcc , cTcTcc , ... , cTTTcc
+> ... , ccTTcc , cTcTcc , ... , cTTTcc , ...    
 
 #### Step 2: Avoid vertical mirrored words, applying rule 6
 
-For examples we use the following proto-words: ccTcc , ccTcT , cTTcT , cTccT    
+For examples we use the following proto-words: ccTTTc , cTccTc , cTcTTc , cTTcTc    
 
 a. First make words with all "t".                
 b. Replace T with D<sub>i</sub> in proto-word set (to be specified later).              
 
-> cctcc , ccD<sub>1</sub>cc    
-> cctct , ccD<sub>1</sub>cD<sub>1</sub>   
-> cttct , cD<sub>2</sub>cD<sub>1</sub>    
-> ctcct , cD<sub>1</sub>ccD<sub>1</sub>              
-
+> cctttc , ccD<sub>3</sub>c     
+> ctcctc , cD<sub>1</sub>ccD<sub>1</sub>c   
+> ctcttc , cD<sub>1</sub>cD<sub>2</sub>c   
+> cttctc , cD<sub>2</sub>cD<sub>1</sub>c 
+           
 c. Only one of the D-sets in the proto-word is the set with the first "r" in the word (rule 6). Call this set "B", leading to more proto-words.
 
-> cctcc , ccB<sub>1</sub>cc          
-> cctct , ccD<sub>1</sub>cB<sub>1</sub> , ccB<sub>1</sub>cD<sub>1</sub>      
-> cttct , cD<sub>2</sub>cB<sub>1</sub> , cB<sub>2</sub>cD<sub>1</sub>            
-> ctcct , cD<sub>1</sub>ccB<sub>1</sub> , cB<sub>1</sub>ccD<sub>1</sub>          
-
+> cctttc , ccB<sub>3</sub>c     
+> ctcctc , cB<sub>1</sub>ccD<sub>1</sub>c , cD<sub>1</sub>ccB<sub>1</sub>c     
+> ctcttc , cB<sub>1</sub>cD<sub>2</sub>c , cD<sub>1</sub>cB<sub>2</sub>c     
+> cttctc , cB<sub>2</sub>cD<sub>1</sub>c , cD<sub>2</sub>cB<sub>1</sub>c     
+          
 d. All D before a B must be all t's (rule 6). Replace with t.     
 e. No limits for D after B. Replace with T<sub>i</sub>.     
 
-> cctcc , ccB<sub>1</sub>cc     
-> cctct , cctcB<sub>1</sub> , ccB<sub>1</sub>cT<sub>1</sub>    
-> cttct , cttcB<sub>1</sub> , cB<sub>2</sub>cT<sub>1</sub>   
-> ctcct , ctccB<sub>1</sub> , cB<sub>1</sub>ccT<sub>1</sub>    
+> cctttc , ccB<sub>3</sub>c     
+> ctcctc , cB<sub>1</sub>ccT<sub>1</sub>c , ctccB<sub>1</sub>c     
+> ctcttc , cB<sub>1</sub>cT<sub>2</sub>c , ctcB<sub>2</sub>c     
+> cttctc , cB<sub>2</sub>cT<sub>1</sub>c , cttcB<sub>1</sub>c        
 
 f. Solve T and B, giving the words we were looking for.     
 
-> cctcc , ccrcc         
-> cctct , cctcr , ccrct , ccrcr , ccrcl   
-> cttct , cttcr , ctrct , ctrcr , ctrcl , crrct , crrcr , crrcl       
-> ctcct , ctccr , crcct , crccr , crccl      
+> cctttc , ccttrc , cctrrc , ccrrrc     
+> ctcctc , crcctc , crccrc , crcclc , ctccrc   
+> ctcttc , crcttc , crctrc , crctlc , crcrrc , crcllc , ctctrc , ctcrrc   
+> cttctc , ctrctc , ctrcrc , ctrclc , crrctc , crrcrc , crrclc , cttcrc
 
 #### Step 3 : Finding horizontal mirror pairs, applying rule 7
 
 a. For each word b found in step 2, make a quartet of words (see below):   
 
-> b = ctrcl , p = ctrcr , d = ctlcr , q = ctlcl   
+> b = crctlc , p = ctlcrc , d = clctrc , q = ctrclc       
 
 b. Keep the lexicographycally lowest word. Check for doubles. Typically, the doubles are the words where p (quartet 1) = b (quartet 2) or q (quartet 1) = b (quartet 2). Because of rule 6: d (quartet 1) &ne; b (quartet 2).    
 
-  > b = ctrcl , p = <u>ctrcr</u> , q = ctlcl , d = ctlcr. Word ctrcr (p) is the lowest, and is kept.      
+  > b = crctlc , p = ctlcrc , d = clctrc , q = <u>ctrclc</u>. Word ctrclc (q) is the lowest, and is kept.      
 
 #### Making of a vertical mirrored word 
     
 a. replace all "r" in the word with "l" and all "l" with "r".               
 
-> ctrctl &rArr; ctrlctr 
+> ctrctlc &rArr; ctrlctrc 
 
 #### Making of a horizontal mirrored word, applying rule 1 and using observations 2, 3 and 4    
 Please note: in a real lace work, the horizontal mirrored stitch involves only "perform backwards".
 
 a. Read word backwards.       
 b. Re-order twist groups: t &lt; r &lt; l.          
-c. Move twists in front to back, replacing l with r, r with l (observation 3).       
 
-> ctrctl &rArr; ltcrtc &rArr; tlctrc &rArr; ctrctr   
+> ctrctlc &rArr; cltcrtc &rArr; ctlctrc    
 
 #### Making quartet of words  
 
 a. Apply vertical mirror.                       
 b. Apply horizontal mirror on both the original stitch and the result from step a).                    
 
-> ctrctl , ctrctr , ctlctl , ctlctr
+> ctrclc , ctlcrc , clctrc , crctlc   
 
 ***
 [&uArr;]()
