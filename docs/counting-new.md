@@ -14,7 +14,7 @@ title: counting
 
 ## Introduction
 
-A stitch is made by crossing and twisting two pairs of bobbins. With “twist” we mean: twist both pairs, twist right pair, or twist left pair. We can abbreviate this with "c" (cross), "t" (twist both pairs), "r" (twist right pair) and "l" (twist left pair). For listing and counting stitches we consider stitches as starting and ending with crosses. Twists before and after are viewed as what is happening between stitches.        
+A stitch is made by crossing and twisting two pairs of bobbins. With “twist” we mean: twist both pairs, twist right pair, or twist left pair. We can abbreviate this with "c" (cross), "t" (twist both pairs), "r" (twist right pair) and "l" (twist left pair). For listing and counting stitches we consider stitches that start and end with crosses. Twists before and after are viewed as that what is happening between stitches.        
 
 A stitch can be described with a <u>word</u> formed with the symbols "c", "l", "r", "t". These words have to obey certain rules. These rules come from observations from actual lace, and from some limits we set ourselves in this document.    
 To help us count and catalogue the stitches, the symbols are ordered: "c" before "t", "t" before "r", "r" before "l". (We have chosen this order because tr is easier to see than tl.)     
@@ -30,7 +30,7 @@ Please note: the following list consists of words starting and ending with "c". 
 <table class="cctt">
   <tr><th>Length of word</th>
     <th>counts</th>
-    <th>counts without cc</th>
+    <th>counts without cc TO DO</th>
     <th>symmetric stitches (b=d=p=q)</th>
     <th>results</th>
     <th>download results</th>
@@ -44,86 +44,86 @@ Please note: the following list consists of words starting and ending with "c". 
     <td></td></tr>
   
   <tr><td> 2 </td>
-    <td> 3 </td>
-    <td> 2 </td>
-    <td> 2 </td>
-    <td> cc , ct , cr , however, cc can not stand alone </td> 
+    <td> 1 </td>
+    <td> 0 </td>
+    <td> 1 </td>
+    <td> cc , however, cc can not stand alone </td> 
     <td></td></tr>
   
   <tr><td> 3 </td>
-    <td> 7 </td>
-    <td> 5 </td>
-    <td> 3 </td>
-    <td> cct , ccr , ctc, crc , ctt , ctr , crr </td>  
+    <td> 2 </td>
+    <td> 0 </td>
+    <td> 1 </td>
+    <td> ctc, crc </td>  
     <td><a href="../documents/counting/length3.txt" download>results</a></td></tr>      
     
   <tr><td> 4 </td>
-    <td> 16 </td>
-    <td> 11 </td>
-    <td> 4 </td>
-    <td> cctc , ccrc , cctt  , cctr , ccrr , ctct , ctcr , crct , crcr , cttc , ctrc , crrc , cttt , cttr , ctrr , crrr </td>
+    <td> 5 </td>
+    <td> 3 </td>
+    <td> 1 </td>
+    <td> cctc , ccrc , cttc , ctrc , crrc </td>
     <td><a href="../documents/counting/length4.txt" download>results</a></td></tr> 
   
   <tr><td> 5 </td>
-    <td> 34 </td>
-    <td> 20 </td>  
-    <td> 6 </td>
-    <td> cctcc , ccrcc , cctct , cctcr , ccrct , ccrcr , ccrcl , ccttc , cctrc , ccrrc , ccttt , ccttr , cctrr , ccrrr , ctctc , ctcrc , crcrc , crclc , ctctt , ctctr , ctcrr , crctt , crctr , crcrr , cttct , cttcr , ctrct , ctrcr , crrct , crrcr , ctttc , cttrc , ctrrc , crrrc </td>
+    <td> 13 </td>
+    <td> 8 </td>  
+    <td> 3 </td>
+    <td> cctcc , ccrcc , ccttc , cctrc , ccrrc , ctctc , ctcrc , crcrc , crclc , ctttc , cttrc , ctrrc , crrrc </td>
     <td><a href="../documents/counting/length5.txt" download>results</a></td></tr>         
  
   <tr><td> 6 </td>
-    <td> 79 </td>
-    <td> 43 </td>
-    <td> 7 </td>
-    <td> cctcct , cctccr , ccrcct , ccrccr , cctctc , cctcrc , ccrctc , ccrcrc , ccrclc , cctctt , cctctr , cctcrr , ccrctt , ccrctr , ccrctl , ccrcrr , ccrcll , ccttcc , cctrcc , ccrrcc , ccttct , ccttcr , cctrct , cctrcr , cctrcl , ccrrct , ccrrcr , ccrrcl , cctttc , ccttrc , cctrrc , ccrrrc , ctcctc , ctccrc , crccrc , crcclc , ctctct , ctctcr , ctcrct , ctcrcr , ctcrcl , crcrct , crcrcr , crclct , crclcr , crclcl , ctcttc , ctctrc , ctcrrc , crcrrc , crcllc , ctcttt , ctcttr , ctctrr , ctcrrr , crcttt , crcttr , crctrr , crcrrr , cttcrc , ctrcrc , ctrclc , cttctt , cttctr , cttcrr , ctrctt , ctrctr , ctrcrr , crrctt , crrctr , crrcrr , ctttct , ctttcr , cttrct , cttrcr , ctrrct , ctrrcr , crrrct , crrrcr  </td>
+    <td> 24 </td>
+    <td> 8 TODO </td>
+    <td> 2 </td>
+    <td> cctctc , cctcrc , ccrctc , ccrcrc , ccrclc , ccttcc , cctrcc , ccrrcc , cctttc , ccttrc , cctrrc , ccrrrc , ctcctc , ctccrc , crccrc , crcclc , ctcttc , ctctrc , ctcrrc , crcrrc , crcllc , cttcrc , ctrcrc , ctrclc </td>
     <td><a href="../documents/counting/length6.txt" download>results</a></td></tr>
   
   <tr><td> 7 </td>
-    <td> 201 </td>
-    <td> 93 </td>
-    <td> 10 </td>
+    <td> 67 </td>
+    <td> TOTDO </td>
+    <td> 4 </td>
     <td></td>
     <td><a href="../documents/counting/length7.txt" download>results</a></td></tr>     
   
   <tr><td> 8 </td>
-    <td> 518 </td>
-    <td> 214 </td>
-    <td> 12 </td>
+    <td> 168 </td>
+    <td> TODO </td>
+    <td> 3 </td>
     <td></td>
     <td><a href="../documents/counting/length8.txt" download>results</a></td></tr>     
   
   <tr><td> 9 </td>
-    <td> 1381 </td>
-    <td> 503 </td>
-    <td> 16 </td>
+    <td> 460 </td>
+    <td> TODO </td>
+    <td> 7 </td>
     <td></td>
     <td><a href="../documents/counting/length9.txt" download>results</a></td></tr>     
   
   <tr><td> 10 </td>
-    <td> 3745 </td>
-    <td> 1223 </td>
-    <td> 20 </td>
+    <td> 1220 </td>
+    <td> TODO </td>
+    <td> 6 </td>
     <td></td>
     <td><a href="../documents/counting/length10.txt" download>results</a></td></tr>  
   
   <tr><td> 11 </td>
-    <td> 10260 </td>
-    <td> 2952 </td>
-    <td> 29 </td>
+    <td> 3389 </td>
+    <td> TODO </td>
+    <td> 13 </td>
     <td></td>
     <td><a href="../documents/counting/length11.txt" download>results</a></td></tr>  
   
   <tr><td> 12 </td>
-    <td> 28231 </td>
-    <td> 7240 </td>
-    <td> 36 </td>
+    <td> 9245 </td>
+    <td> TODO </td>
+    <td> 10 </td>
     <td></td>
     <td><a href="../documents/counting/length12.txt" download>results</a></td></tr>  
   
   <tr><td> 13 </td>
-    <td> 78112 </td>
-    <td> 17767 </td>
-    <td> 51 </td>
+    <td> 25677 </td>
+    <td> TODO </td>
+    <td> 22 </td>
     <td></td>
     <td></td></tr>   
 
@@ -161,9 +161,12 @@ Pins can be put anywhere between the two pairs of the stitch: <span class="stch"
 ### Quartets of words: bdqp
 
 Word p is vertically mirrored in word q, q is horizontally mirrored in d; d is vertically mirrored in b; b is horizontally mirrored in p. In our catalogue, we only list the word with the least lexicographic representation.      
-Some words, like ctct stay the same when vertically or horizontally mirrored.     
+Some words, like ctctc stay the same when vertically or horizontally mirrored.     
 Please note: in this quartet, the mirrored words follow the rules set above, so all words start and end with "c".          
-Examples: { ccrclc , cclcrc , crclcc, clcrcc }; { ctctc }
+Examples: { ccrclc , cclcrc , crclcc, clcrcc }; { ctctc }   
+
+A stitch (c..c) can only be its own vertical mirror (b = d) if it has no left and rights twitst actions (only "t", no "r" and no "l").       
+A stitch (c..c) can only be its own horizontal mirror (b = p) if its a palindrome.    
 
 ### Limitations
 
@@ -207,25 +210,29 @@ To apply rule 7 (horizontal mirrors): We have not yet found an easy way of apply
 
 ### Word forming
 
-For example we use n = 5.
+For example we use n = 6.
 
 #### Step 1: Make basic set with proto-words, applying rule 1, 2, 3, 4 and 5
 
 a. List all numbers 1, 2, ..., (2<sup>n-1</sup> - 1). Larger numbers will lead to words not starting with "c".      
 
-> 1, 2, ... , 15           
+> 1, 2, ... , 31           
 
 b. Replace all numbers with their binary representation, length n.           
 
-> 00001, 00010, ... , 01111            
+> 000001, 000010, ... , 011111            
 
 c. Replace all "0" with "c", all "1" with "T".        
 
-> ccccT , cccTc , ..., cTTTT           
+> cccccT , ccccTc , ... , cTTTTT           
   
 d. Remove all words with more than 2 "c". Remove all words with more than 3 "T".    
 
-> ccTcc , ccTcT , ... , cTTTc         
+> ... , ccTTcc , cTTcTT , cTcTcc, cTcTcT, ... , cTTTcc    
+
+e. Remove all words that ends with T. Note, these are the odd numbers from step 1.
+
+> ... , ccTTcc , cTcTcc , ... , cTTTcc
 
 #### Step 2: Avoid vertical mirrored words, applying rule 6
 
