@@ -124,8 +124,8 @@ Please note: the following list consists of words starting and ending with "c". 
     <td> 25677 </td>
     <td> TODO </td>
     <td> 22 </td>
-    <td><a href="../documents/counting/c_clength13.txt" download>results</a></td>
-    <td></td></tr>   
+    <td></td>
+    <td><a href="../documents/counting/c_clength13.txt" download>results</a></td></tr>   
 
 </table>
                                                   
@@ -141,12 +141,11 @@ Please note: the following list consists of words starting and ending with "c". 
 6. Twist left followed by twist right is the same as twist right followed by twist left. This is the same as twist both pairs. Short: lr = rl = t.
 7. A twist left and right is treated as one action because the left and right sides are done in parallel by the lacemaker.
 8. Stitches with many actions can be viewed as varieties of plaits and tallies.
-9. Stitches can end with crosses or end with twists.
-10. Stitches can be “mirrored” vertically by switching right and left twists. Stitches can be “mirrored” horizontally by applying the twists and crosses backwards. Please note: this is not a real mirror. A real mirror changes which thread lies on top. Please note: viewing a stitch upside down is viewing the stitch mirrored vertically and horizontally. Please note: in the actual lace the appearance of the "mirrored" stitch depends on the grid chosen, e.g. a diagonal grid or a horizontal grid.   
+9. Stitches can be “mirrored” vertically by switching right and left twists. Stitches can be “mirrored” horizontally by applying the twists and crosses backwards. Please note: this is not a real mirror. A real mirror changes which thread lies on top. Please note: viewing a stitch upside down is viewing the stitch mirrored vertically and horizontally. Please note: in the actual lace the appearance of the "mirrored" stitch depends on the grid chosen, e.g. a diagonal grid or a horizontal grid.   
 
 ### Pins
 
-Pins can be put anywhere between the two pairs of the stitch: <span class="stch">ctPctctc</span>, <span class="stch">ctctPctc</span>, <span class="stch"> ctctPc</span>, <span class="stch">ctctcP</span>. Also, we can make a pinchain: <span class="stch">ctPctctPc</span> and even put the pin between bobbin 1 and 2. Although the placing of the pin can change the appearance of the ground, we do not consider pins in our counting.   
+Pins can be put anywhere between the two pairs of the stitch: <span class="stch">ctPctctc</span>, <span class="stch">ctctPctc</span>, <span class="stch"> ctctctPc</span>, <span class="stch">ctctctcP</span>. Also, we can make a pinchain: <span class="stch">ctPctctPc</span> and even put the pin between bobbin 1 and 2. Although the placing of the pin can change the appearance of the ground, we do not consider pins in our listing and counting.   
 
 ### Rules for counting and cataloguing stitch words
 
@@ -154,7 +153,7 @@ Pins can be put anywhere between the two pairs of the stitch: <span class="stch"
 2. Every word must contain at least one symbol of the set { t, r, l }.
 3. For a consecutive sequence of the symbols { t, r, l } in a word, if the sequence contains an “r”, it cannot contain an “l”. Similarly, if the sequence contains an “l”, it cannot contain an “r”.
 4. For a consecutive sequence of the symbols { t, r, l }, the sequence must be arranged in least lexicographical order: “t” &lt; “r” &lt; “l”. (This gives a canonical form. Lexicographical order, which is like alphabetical order, puts all of the symbols in a consistent order so that strings like rtrr, rrtr, trrr and rrtr, when sorted, are all the same, i.e. trrr.)
-5. Observation 4 tells us, that we can write a stitch as starting and ending with "c", followed by 0 or more twists. For listing and counting we ingnore the twists between two stitches. 
+5. Observation 4 tells us, that we can write a stitch as starting and ending with "c", followed by 0 or more twists. For listing and counting we ignore the twists between two stitches. 
 6. Vertical mirrors. In the word, the first occurrence of a symbol from { r, l } must be an “r”.
 7. Horizontal mirrors. We have not yet discovered a general rule for words that mirror each other horizontally. The search has done by listing all “quartets”. Keep the word with the least lexicographic representation. 
 
@@ -165,7 +164,7 @@ Some words, like ctctc stay the same when vertically or horizontally mirrored.
 Please note: in this quartet, the mirrored words follow the rules set above, so all words start and end with "c".          
 Examples: { ccrclc , cclcrc , crclcc, clcrcc }; { ctctc }   
 
-A stitch (c..c) can only be its own vertical mirror (b = d) if it has no left and rights twitst actions (only "t", no "r" and no "l").       
+A stitch (c..c) can only be its own vertical mirror (b = d) if it has no left or right twist actions (only "t", no "r" and no "l").       
 A stitch (c..c) can only be its own horizontal mirror (b = p) if its a palindrome.    
 
 ### Limitations
@@ -178,7 +177,7 @@ A stitch (c..c) can only be its own horizontal mirror (b = p) if its a palindrom
 
 In this section we describe how we have listed and counted the words.     
 We have chosen to list and count the words based on the length of the word, which also corresponds to the number of actions performed by the lacemaker.    
-As examples we use words of length 5 (but not the complete set).     
+As examples we use words of length 6 (but not the complete set).     
 
 ### Notations and short notations
 
@@ -197,9 +196,9 @@ T<sub>3</sub> = { ttt , ttr , ttl , trr , tll , rrr , lll }
 Please note: T<sub>3</sub> = tT<sub>2</sub> &cup; { rrr , lll }    
 T<sub>all</sub> = T<sub>1</sub> &cup; T<sub>2</sub> &cup; T<sub>3</sub>    
 
-A word is a formed by choosing symbols alternately from C and T<sub>all</sub>. Valid words before applying rule 6 are elements from sets like:     
+A word is a formed by choosing symbols alternately from C and T<sub>all</sub>, ending with a symbol from C. Valid words before applying rule 6 are elements from sets like:     
 C &otimes; T<sub>all</sub> &otimes; C           
-C &otimes; T<sub>all</sub> &otimes; C &otimes; T<sub>all</sub> &otimes; C &otimes; T<sub>all</sub>
+C &otimes; T<sub>all</sub> &otimes; C &otimes; T<sub>all</sub> &otimes; C       
 
 To apply rule 6 (vertical mirrors), we add extra base sets that do not include l's or series of t's.     
 B<sub>1</sub> = { r }			  
@@ -210,7 +209,7 @@ To apply rule 7 (horizontal mirrors): We have not yet found an easy way of apply
 
 ### Word forming
 
-For example we use n = 6.
+For the examples we use n = 6.
 
 #### Step 1: Make basic set with proto-words, applying rule 1, 2, 3, 4 and 5
 
@@ -268,24 +267,27 @@ f. Solve T and B, giving the words we were looking for.
 > ctcttc , crcttc , crctrc , crctlc , crcrrc , crcllc , ctctrc , ctcrrc   
 > cttctc , ctrctc , ctrcrc , ctrclc , crrctc , crrcrc , crrclc , cttcrc
 
-#### Step 3 : Finding horizontal mirror pairs, applying rule 7
+#### Step 3: Finding horizontal mirror pairs, applying rule 7
 
 a. For each word b found in step 2, make a quartet of words (see below):   
 
 > b = crctlc , p = ctlcrc , d = clctrc , q = ctrclc       
 
-b. Keep the lexicographycally lowest word. Check for doubles. Typically, the doubles are the words where p (quartet 1) = b (quartet 2) or q (quartet 1) = b (quartet 2). Because of rule 6: d (quartet 1) &ne; b (quartet 2).    
+b. Keep the lexicographycally lowest word (rule 4).    
 
   > b = crctlc , p = ctlcrc , d = clctrc , q = <u>ctrclc</u>. Word ctrclc (q) is the lowest, and is kept.      
+
+#### Step 4: check for doubles    
+
+Typically, the doubles are the words where p (quartet 1) = b (quartet 2) or q (quartet 1) = b (quartet 2). Because of rule 6: d (quartet 1) &ne; b (quartet 2).       
 
 #### Making of a vertical mirrored word 
     
 a. replace all "r" in the word with "l" and all "l" with "r".               
 
-> ctrctlc &rArr; ctrlctrc 
+> ctrctlc &rArr; ctlctrc 
 
-#### Making of a horizontal mirrored word, applying rule 1 and using observations 2, 3 and 4    
-Please note: in a real lace work, the horizontal mirrored stitch involves only "perform backwards".
+#### Making of a horizontal mirrored word, applying rule 1 and 4, and using observations 2, 3 and 4    
 
 a. Read word backwards.       
 b. Re-order twist groups: t &lt; r &lt; l.          
