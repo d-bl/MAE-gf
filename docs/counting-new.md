@@ -136,7 +136,7 @@ Please note: the following list consists of words starting and ending with "c". 
 1. A stitch without a cross is in fact two different “stitches”. The twists can be done at the end of the previous stitches.
 2. If a stitch starts with a twist, we can apply this twist at the end of the previous stitches, with the same result.
 3. An incoming right twist is the same as an outgoing left twist for a diagonal net with only one stitch.
-4. Twists before the first "c" or after the last "c' are viewed as actions that occur between stitches and can be done either before the stitch or after the stitch.
+4. Twists before the first cross or after the last cross are viewed as actions that occur between stitches and can be done either before the stitch or after the stitch.
 5. <span class="stch">Cross only</span> is a valid stitch. However, a lacework with only crosses and no twists at all does not hold together. <span class="stch">Cross only</span> can only be used in combination with other stitches.
 6. Twist left followed by twist right is the same as twist right followed by twist left. This is the same as twist both pairs. Short: lr = rl = t.
 7. A twist left and right is treated as one action because the left and right sides are done in parallel by the lacemaker.
