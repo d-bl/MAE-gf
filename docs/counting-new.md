@@ -25,7 +25,7 @@ To help us count and catalogue the stitches, the symbols are ordered: "c" before
 
 The list with stitches can be downloaded as .txt file. Click op "results" in the table below. On each row in the file you find: _stitch word "b" following the rules set below and between brackets the "quartet" of mirrored stitches. See below for an explanation. **TO BE SPECIFIED**_
 
-Please note: the following list consists of words starting and ending with "c". Between two stitches 0, 1 or more twists ("t", "r", "l") can be applyed. 
+Please note: the following list consists of words starting and ending with "c". Between two stitches 0, 1 or more twists ("t", "r", "l") can be applied. 
 
 <table class="cctt">
   <tr><th>Length of word</th>
@@ -136,7 +136,7 @@ Please note: the following list consists of words starting and ending with "c". 
 1. A stitch without a cross is in fact two different “stitches”. The twists can be done at the end of the previous stitches.
 2. If a stitch starts with a twist, we can apply this twist at the end of the previous stitches, with the same result.
 3. An incoming right twist is the same as an outgoing left twist for a diagonal net with only one stitch.
-4. The twists at the start or at the end of a stitch can be viewed as that what is happening between two stitches.
+4. Twists before the first "c" or after the last "c' are viewed as actions that occur between stitches and can be done either before the stitch or after the stitch.
 5. <span class="stch">Cross only</span> is a valid stitch. However, a lacework with only crosses and no twists at all does not hold together. <span class="stch">Cross only</span> can only be used in combination with other stitches.
 6. Twist left followed by twist right is the same as twist right followed by twist left. This is the same as twist both pairs. Short: lr = rl = t.
 7. A twist left and right is treated as one action because the left and right sides are done in parallel by the lacemaker.
