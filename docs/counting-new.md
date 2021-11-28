@@ -10,28 +10,28 @@ title: counting
 * [Introduction](#introduction)
 * [Results](#results)
 * [Method used](#method-used)
-* [Listing and counting stitches](#listing-and-counting-stitches)
+* [Listing and counting](#listing-and-counting)
 
 ## Introduction
 
-A stitch is made by crossing and twisting two pairs of bobbins. With “twist” we mean: twist both pairs, twist right pair, or twist left pair. We can abbreviate this with "c" (cross), "t" (twist both pairs), "r" (twist right pair) and "l" (twist left pair). For listing and counting stitches we consider stitches that start and end with crosses. Twists before and after are viewed as that what is happening between stitches.        
+A stitch is made by crossing and twisting two pairs of bobbins. With “twist” we mean: twist both pairs, twist right pair, or twist left pair. We can abbreviate this with "c" (cross), "t" (twist both pairs), "r" (twist right pair) and "l" (twist left pair). For listing and counting stitches we consider only stitches that start and end with crosses. Twists before the first cross and after the last are viewed as actions between stitches.        
 
 A stitch can be described with a <u>word</u> formed with the symbols "c", "l", "r", "t". These words have to obey certain rules. These rules come from observations from actual lace, and from some limits we set ourselves in this document.    
-To help us count and catalogue the stitches, the symbols are ordered: "c" before "t", "t" before "r", "r" before "l". (We have chosen this order because tr is easier to see than tl.)     
+To help us count and catalogue the words representing stitches, the symbols are ordered: "c" before "t", "t" before "r", "r" before "l". (We have chosen this order because tr is easier to see than tl.)     
 
 <span class="b-red">Please note</span>: the following rules are to be applied for counting and cataloguing only. Typically to make a diagonal net with only one stitch. Stitches like <span class="stch">lcltrcccl</span> are perfectly valid in real lace. 
 
 ## Results
 
-The list with stitches can be downloaded as .txt file. Click op "results" in the table below. On each row in the file you find: _stitch word "b" following the rules set below and between brackets the "quartet" of mirrored stitches. See below for an explanation. **TO BE SPECIFIED**_
+The list with stitch-words can be downloaded as .txt file. Click op "results" in the table below. On each row in the file you find: _stitch-word "b" following the rules set below and between brackets the "quartet" of mirrored stitches. See below for an explanation. **TO BE SPECIFIED**_
 
-Please note: the following list consists of words starting and ending with "c". Between two stitches 0, 1 or more twists ("t", "r", "l") can be applied. 
+Please note: the following list consists of words starting and ending with "c". In real lace twists ("t", "r", "l") can be applied between two stitches. 
 
 <table class="cctt">
   <tr><th>Length of word</th>
     <th>counts</th>
     <th>counts without cc TO DO</th>
-    <th>symmetric stitches (b=d=p=q)</th>
+    <th>symmetric words (b=d=p=q)</th>
     <th>results</th>
     <th>download results</th>
   </tr>
@@ -133,27 +133,38 @@ Please note: the following list consists of words starting and ending with "c". 
 
 ### Observations from real lace
 
-1. A stitch without a cross is in fact two different “stitches”. The twists can be done at the end of the previous stitches.
-2. If a stitch starts with a twist, we can apply this twist at the end of the previous stitches, with the same result.
-3. An incoming right twist is the same as an outgoing left twist for a diagonal net with only one stitch.
-4. Twists before the first cross or after the last cross are viewed as actions that occur between stitches and can be done either before the stitch or after the stitch.
-5. <span class="stch">Cross only</span> is a valid stitch. However, a lacework with only crosses and no twists at all does not hold together. <span class="stch">Cross only</span> can only be used in combination with other stitches.
-6. Twist left followed by twist right is the same as twist right followed by twist left. This is the same as twist both pairs. Short: lr = rl = t.
-7. A twist left and right is treated as one action because the left and right sides are done in parallel by the lacemaker.
-8. Stitches with many actions can be viewed as varieties of plaits and tallies.
-9. Stitches can be “mirrored” vertically by switching right and left twists. Stitches can be “mirrored” horizontally by applying the twists and crosses backwards. Please note: this is not a real mirror. A real mirror changes which thread lies on top. Please note: viewing a stitch upside down is viewing the stitch mirrored vertically and horizontally. Please note: in the actual lace the appearance of the "mirrored" stitch depends on the grid chosen, e.g. a diagonal grid or a horizontal grid.   
+1. A stitch without a cross is in fact two different stitches.     
+2. An incoming right twist is the same as an outgoing left twist for a diagonal net with only one stitch.
+3. Twists before the first cross or after the last cross are viewed as actions that occur between stitches and can be done either before the stitch or after the stitch.
+4. <span class="stch">Cross only</span> is a valid stitch. However, a lacework with only crosses and no twists at all does not hold together. <span class="stch">Cross only</span> can only be used in combination with other stitches.
+5. Twist left followed by twist right is the same as twist right followed by twist left. This is the same as twist both pairs. Short: lr = rl = t.
+6. A twist left and right is treated as one action because the left and right sides are done in parallel by the lacemaker.
+7. Stitches with many actions can be viewed as varieties of plaits and tallies.
+8. Stitches can be “mirrored” vertically by switching right and left twists. Stitches can be “mirrored” horizontally by applying the crosses and twists backwards. 
+
+_Notes on mirros_
+* The mirroring of stitches is not a real mirror. A real mirror changes which thread lies on top.    
+* Viewing a stitch upside down is viewing the stitch mirrored vertically and horizontally.     
+* In the actual lace the appearance of the "mirrored" stitch depends on the grid chosen, e.g. a diagonal grid or a horizontal grid.     
+* When applying a horizontal mirror, the twists between the stitches stay where the are.     
+
+### Twists between stitches
+
+Between every two stitches, 0, 1 or more twists can be made. Examples:
+* crc : crc , crct , crcr , crcl , crctt , crctr , crctl , crcrr , crcll , crcttt , crcttr , crcttl, crctrr , crctll , crcrrr , crclll , ...
+* ctctc : ctctct , ctctcr , ctctctt , ctctctr , ctctcrr , ctctcttt , ctctcttr , ctctctrr , ctctcrrr , ... (rule 6 is applied)
 
 ### Pins
 
 Pins can be put anywhere between the two pairs of the stitch: <span class="stch">ctPctctc</span>, <span class="stch">ctctPctc</span>, <span class="stch"> ctctctPc</span>, <span class="stch">ctctctcP</span>. Also, we can make a pinchain: <span class="stch">ctPctctPc</span> and even put the pin between bobbin 1 and 2. Although the placing of the pin can change the appearance of the ground, we do not consider pins in our listing and counting.   
 
-### Rules for counting and cataloguing stitch words
+### Rules for counting and cataloguing words representing stitches     
 
 1. Every word must start with a “c”.
 2. Every word must contain at least one symbol of the set { t, r, l }.
 3. For a consecutive sequence of the symbols { t, r, l } in a word, if the sequence contains an “r”, it cannot contain an “l”. Similarly, if the sequence contains an “l”, it cannot contain an “r”.
 4. For a consecutive sequence of the symbols { t, r, l }, the sequence must be arranged in least lexicographical order: “t” &lt; “r” &lt; “l”. (This gives a canonical form. Lexicographical order, which is like alphabetical order, puts all of the symbols in a consistent order so that strings like rtrr, rrtr, trrr and rrtr, when sorted, are all the same, i.e. trrr.)
-5. Observation 4 tells us, that we can write a stitch as starting and ending with "c", followed by 0 or more twists. For listing and counting we ignore the twists between two stitches. 
+5. Observation 3 tells us, that we can write the words as starting and ending with "c", followed by 0 or more twists. For listing and counting we ignore the twists between two stitches. 
 6. Vertical mirrors. In the word, the first occurrence of a symbol from { r, l } must be an “r”.
 7. Horizontal mirrors. We have not yet discovered a general rule for words that mirror each other horizontally. The search has done by listing all “quartets”. Keep the word with the least lexicographic representation. 
 
@@ -164,8 +175,8 @@ Some words, like ctctc stay the same when vertically or horizontally mirrored.
 Please note: in this quartet, the mirrored words follow the rules set above, so all words start and end with "c".          
 Examples: { ccrclc , cclcrc , crclcc, clcrcc }; { ctctc }   
 
-A stitch (c..c) can only be its own vertical mirror (b = d) if it has no left or right twist actions (only "t", no "r" and no "l").       
-A stitch (c..c) can only be its own horizontal mirror (b = p) if its a palindrome.    
+A word (c..c) can only be its own vertical mirror (b = d) if it has no left or right twist actions (only "t", no "r" and no "l").       
+A word (c..c) can only be its own horizontal mirror (b = p) if its a palindrome.    
 
 ### Limitations
 
@@ -173,7 +184,7 @@ A stitch (c..c) can only be its own horizontal mirror (b = p) if its a palindrom
 2. The number of consecutive symbols from { c } in a word is limited to 2.
 3. The number of consecutive symbols from { t, r, l } in a word is limited to 3.
 
-## Listing and counting stitches
+## Listing and counting
 
 In this section we describe how we have listed and counted the words.     
 We have chosen to list and count the words based on the length of the word, which also corresponds to the number of actions performed by the lacemaker.    
@@ -182,7 +193,7 @@ As examples we use words of length 6 (but not the complete set).
 ### Notations and short notations
 
 Let A = { a , b , c }; B = { p , q , r }  
-1. A &otimes; B = { a , b , c } &otimes; { p , q , r }. This means: make all combinations using all the symbols in the first set and combine them with all the symbols in the second set. This gives a new set: { ap , aq , ar , bp , bq , br , cp , cq , cr }. A word is one of these combinations. Please note: do not change the order. In this example, “pa” is not a valid word.       
+1. A &otimes; B = { a , b , c } &otimes; { p , q , r }. This means: make all combinations using all the symbols in the first set and combine them with all the symbols in the second set. This gives a new set: { ap , aq , ar , bp , bq , br , cp , cq , cr }. A word is one of these combinations. Please note: do not change the order. In this example, “ra” is not a valid word.       
 2. Short notation: AB means: A &otimes; B; pA means: { p } &otimes; A (result: { pa , pb , pc }).   
 
 ### Defining sets
@@ -287,7 +298,7 @@ a. replace all "r" in the word with "l" and all "l" with "r".
 
 > ctrctlc &rArr; ctlctrc 
 
-#### Making of a horizontal mirrored word, applying rule 1 and 4, and using observations 2, 3 and 4    
+#### Making of a horizontal mirrored word, applying rule 4       
 
 a. Read word backwards.       
 b. Re-order twist groups: t &lt; r &lt; l.          
@@ -297,7 +308,7 @@ b. Re-order twist groups: t &lt; r &lt; l.
 #### Making quartet of words  
 
 a. Apply vertical mirror.                       
-b. Apply horizontal mirror on both the original stitch and the result from step a).                    
+b. Apply horizontal mirror on both the original word and the result from step a).                    
 
 > ctrclc , ctlcrc , clctrc , crctlc   
 
