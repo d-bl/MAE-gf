@@ -146,7 +146,7 @@ _Notes on mirros_
 * The mirroring of stitches is not a real mirror. A real mirror changes which thread lies on top.    
 * Viewing a stitch upside down is viewing the stitch mirrored vertically and horizontally.     
 * In the actual lace the appearance of the "mirrored" stitch depends on the grid chosen, e.g. a diagonal grid or a horizontal grid.     
-* When applying a horizontal mirror, the twists between the stitches stay where the are.     
+* When applying a horizontal mirror, the twists between the stitches stay where they are.     
 
 ### Twists between stitches
 
