@@ -23,14 +23,16 @@ To help us count and catalogue the words representing stitches, the symbols are 
 
 ## Results
 
-The list with stitch-words can be downloaded as .txt file. Click op "results" in the table below. On each row in the file you find: _stitch-word "b" following the rules set below and between brackets the "quartet" of mirrored stitches. See below for an explanation. **TO BE SPECIFIED**_
+The list with stitch-words can be downloaded as .txt file. Click op "results" in the table below.    
+Words without two consequtive c's are written in capitals. The first row of this file shows the numbers we have counted. The words are grouped by their symmetrie: first the words that are their own horizontally and vertically mirrored word, then the words that are their own vertical mirror, etc.     
 
+Please note: the mirrored images of the words are not listed. See [how to make mirrored words](#how-to-make-mirrored-words) how they can be made.   
 Please note: the following list consists of words starting and ending with "c". In real lace twists ("t", "r", "l") can be applied between two stitches. 
 
 <table class="cctt">
   <tr><th>Length of word</th>
     <th>counts</th>
-    <th>counts without cc TO DO</th>
+    <th>counts without cc</th>
     <th>symmetric words (b=d=p=q)</th>
     <th>results</th>
     <th>download results</th>
@@ -41,88 +43,88 @@ Please note: the following list consists of words starting and ending with "c". 
     <td> 1 </td>
     <td> 1 </td>
     <td> c , however, cross only can not stand alone </td> 
-    <td></td></tr>
+    <td><a href="../documents/counting/c_clength1.txt" download>results</a></td></tr>
   
   <tr><td> 2 </td>
     <td> 1 </td>
     <td> 0 </td>
     <td> 1 </td>
     <td> cc , however, cc can not stand alone </td> 
-    <td></td></tr>
+    <td><a href="../documents/counting/c_clength2.txt" download>results</a></td></tr>
   
   <tr><td> 3 </td>
     <td> 2 </td>
-    <td> 0 </td>
+    <td> 2 </td>
     <td> 1 </td>
     <td> ctc, crc </td>  
-    <td><a href="../documents/counting/c_clengthto10.txt" download>results</a></td></tr>      
+    <td><a href="../documents/counting/c_clength3.txt" download>results</a></td></tr>      
     
   <tr><td> 4 </td>
     <td> 5 </td>
     <td> 3 </td>
     <td> 1 </td>
     <td> cctc , ccrc , cttc , ctrc , crrc </td>
-    <td><a href="../documents/counting/c_clengthto10.txt" download>results</a></td></tr> 
+    <td><a href="../documents/counting/c_clength4.txt" download>results</a></td></tr> 
   
   <tr><td> 5 </td>
     <td> 13 </td>
     <td> 8 </td>  
     <td> 3 </td>
     <td> cctcc , ccrcc , ccttc , cctrc , ccrrc , ctctc , ctcrc , crcrc , crclc , ctttc , cttrc , ctrrc , crrrc </td>
-    <td><a href="../documents/counting/c_clengthto10.txt" download>results</a></td></tr>         
+    <td><a href="../documents/counting/c_clength5.txt" download>results</a></td></tr>         
  
   <tr><td> 6 </td>
     <td> 24 </td>
-    <td> 8 TODO </td>
+    <td> 8 </td>
     <td> 2 </td>
     <td> cctctc , cctcrc , ccrctc , ccrcrc , ccrclc , ccttcc , cctrcc , ccrrcc , cctttc , ccttrc , cctrrc , ccrrrc , ctcctc , ctccrc , crccrc , crcclc , ctcttc , ctctrc , ctcrrc , crcrrc , crcllc , cttcrc , ctrcrc , ctrclc </td>
-    <td><a href="../documents/counting/c_clengthto10.txt" download>results</a></td></tr>
+    <td><a href="../documents/counting/c_clength6.txt" download>results</a></td></tr>
   
   <tr><td> 7 </td>
     <td> 67 </td>
-    <td> TOTDO </td>
+    <td> 30 </td>
     <td> 4 </td>
     <td></td>
-    <td><a href="../documents/counting/c_clengthto10.txt" download>results</a></td></tr>     
+    <td><a href="../documents/counting/c_clength7.txt" download>results</a></td></tr>     
   
   <tr><td> 8 </td>
     <td> 168 </td>
-    <td> TODO </td>
+    <td> 57 </td>
     <td> 3 </td>
     <td></td>
-    <td><a href="../documents/counting/c_clengthto10.txt" download>results</a></td></tr>     
+    <td><a href="../documents/counting/c_clength8.txt" download>results</a></td></tr>     
   
   <tr><td> 9 </td>
     <td> 460 </td>
-    <td> TODO </td>
+    <td> 157 </td>
     <td> 7 </td>
     <td></td>
-    <td><a href="../documents/counting/c_clengthto10.txt" download>results</a></td></tr>     
+    <td><a href="../documents/counting/c_clength9.txt" download>results</a></td></tr>     
   
   <tr><td> 10 </td>
     <td> 1220 </td>
-    <td> TODO </td>
+    <td> 334 </td>
     <td> 6 </td>
     <td></td>
-    <td><a href="../documents/counting/c_clengthto10.txt" download>results</a></td></tr>  
+    <td><a href="../documents/counting/c_clengt10.txt" download>results</a></td></tr>  
   
   <tr><td> 11 </td>
     <td> 3389 </td>
-    <td> TODO </td>
+    <td> 874 </td>
     <td> 13 </td>
     <td></td>
     <td><a href="../documents/counting/c_clength11.txt" download>results</a></td></tr>  
   
   <tr><td> 12 </td>
     <td> 9245 </td>
-    <td> TODO </td>
+    <td> 2040 </td>
     <td> 10 </td>
     <td></td>
     <td><a href="../documents/counting/c_clength12.txt" download>results</a></td></tr>  
   
   <tr><td> 13 </td>
     <td> 25677 </td>
-    <td> TODO </td>
+    <td> 12498 </td>
     <td> 22 </td>
     <td></td>
     <td><a href="../documents/counting/c_clength13.txt" download>results</a></td></tr>   
@@ -218,6 +220,28 @@ B<sub>3</sub> = { ttr , trr , rrr }
 
 To apply rule 7 (horizontal mirrors): We have not yet found an easy way of applying this rule other than deleting double words.     
 
+### How to make mirrored words  
+
+#### How to make a vertical mirrored word 
+    
+a. replace all "r" in the word with "l" and all "l" with "r".               
+
+> ctrctlc &rArr; ctlctrc 
+
+#### How to make a horizontal mirrored, applying rule 4       
+
+a. Read word backwards.       
+b. Re-order twist groups: t &lt; r &lt; l.          
+
+> ctrctlc &rArr; cltcrtc &rArr; ctlctrc    
+
+#### How to make the quartet of words  
+
+a. Apply vertical mirror.                       
+b. Apply horizontal mirror on both the original word and the result from step a).                    
+
+> ctrclc , ctlcrc , clctrc , crctlc   
+
 ### Word forming
 
 For the examples we use n = 6.
@@ -280,7 +304,7 @@ f. Solve T and B, giving the words we were looking for.
 
 #### Step 3: Finding horizontal mirror pairs, applying rule 7
 
-a. For each word b found in step 2, make a quartet of words (see below):   
+a. For each word b found in step 2, make a quartet of words (see above):   
 
 > b = crctlc , p = ctlcrc , d = clctrc , q = ctrclc       
 
@@ -291,26 +315,6 @@ b. Keep the lexicographycally lowest word (rule 4).
 #### Step 4: check for doubles    
 
 Typically, the doubles are the words where p (quartet 1) = b (quartet 2) or q (quartet 1) = b (quartet 2). Because of rule 6: d (quartet 1) &ne; b (quartet 2).       
-
-#### Making of a vertical mirrored word 
-    
-a. replace all "r" in the word with "l" and all "l" with "r".               
-
-> ctrctlc &rArr; ctlctrc 
-
-#### Making of a horizontal mirrored word, applying rule 4       
-
-a. Read word backwards.       
-b. Re-order twist groups: t &lt; r &lt; l.          
-
-> ctrctlc &rArr; cltcrtc &rArr; ctlctrc    
-
-#### Making quartet of words  
-
-a. Apply vertical mirror.                       
-b. Apply horizontal mirror on both the original word and the result from step a).                    
-
-> ctrclc , ctlcrc , clctrc , crctlc   
 
 ***
 [&uArr;]()
