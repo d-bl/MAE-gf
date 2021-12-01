@@ -24,7 +24,7 @@ To help us count and catalogue the words representing stitches, the symbols are 
 ## Results
 
 The list with stitch-words can be downloaded as .txt file. Click op "results" in the table below.    
-Words without two consequtive c's are written in capitals. The first row of this file shows the numbers we have counted. The words are grouped by their symmetrie: first the words that are their own horizontally and vertically mirrored word, then the words that are their own vertical mirror, etc.     
+Words without two consequtive c's are written in capitals. The first row of this file shows the numbers we have counted. The words are grouped by their symmetry: first the words that are their own horizontally and vertically mirrored word, then the words that are their own vertical mirror, etc.     
 
 Please note: the mirrored images of the words are not listed. See [how to make mirrored words](#how-to-make-mirrored-words) how they can be made.   
 Please note: the following list consists of words starting and ending with "c". In real lace twists ("t", "r", "l") can be applied between two stitches. 
