@@ -1,0 +1,6 @@
+Length: 7; total count: 67; counts(bdpq, bd, bp, bq, b) = (4, 5, 10,  4, 44)
+b=d=p=q: CTCTCTC, CTTCTTC, cctctcc, cctttcc
+    b=d: CTCTTTC, ccttctc, cctcttc, cctcctc, ctccttc
+    b=p: CRCTCRC, CRRCRRC, CTRCTRC, CRCLCRC, CRCRCRC, CTCRCTC, ccttrcc, ccrrrcc, cctrrcc, ccrcrcc
+    b=q: CTRCTLC, CRCTCLC, CRRCLLC, ccrclcc
+      b: CRCRCLC, CTCRRRC, CTRRCLC, CTCRCRC, CTRCLLC, CTTRCLC, CTTTCRC, CRCLLLC, CTCTCRC, CTRRCRC, CTCRCLC, CTCTRRC, CTTRCRC, CTTCTRC, CRCRRRC, CTCTTRC, CTRCRRC, CTTCRRC, cctrcrc, cctctrc, crccllc, cctcrcc, ctcctrc, ccrctlc, ccrrclc, ccrcctc, ccrcllc, cctrctc, crccrrc, ccrccrc, ccrcrrc, cctccrc, ctrcclc, cctcrrc, ctccrrc, ccrcclc, ccrrctc, ccrcttc, ccttcrc, ctrccrc, cctrclc, ccrrcrc, ccrctrc, cttccrc

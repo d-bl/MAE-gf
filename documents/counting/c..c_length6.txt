@@ -1,0 +1,6 @@
+Length: 6; total count: 24; counts(bdpq, bd, bp, bq, b) = (2, 3, 3,  1, 15)
+b=d=p=q: ccttcc, ctcctc
+    b=d: CTCTTC, cctctc, cctttc
+    b=p: crccrc, cctrcc, ccrrcc
+    b=q: crcclc
+      b: CRCRRC, CRCLLC, CTTCRC, CTRCRC, CTRCLC, CTCTRC, CTCRRC, ctccrc, ccrclc, ccrctc, cctcrc, ccrcrc, ccttrc, cctrrc, ccrrrc
