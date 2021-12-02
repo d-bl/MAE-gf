@@ -43,91 +43,91 @@ Please note: the following list consists of words starting and ending with "c". 
     <td> 1 </td>
     <td> 1 </td>
     <td> c , however, cross only can not stand alone </td> 
-    <td><a href="../documents/counting/c_clength1.txt" download>results</a></td></tr>
+    <td><a href="../documents/counting/c..c_length1.txt" download>results</a></td></tr>
   
   <tr><td> 2 </td>
     <td> 1 </td>
     <td> 0 </td>
     <td> 1 </td>
     <td> cc , however, cc can not stand alone </td> 
-    <td><a href="../documents/counting/c_clength2.txt" download>results</a></td></tr>
+    <td><a href="../documents/counting/c..c_length2.txt" download>results</a></td></tr>
   
   <tr><td> 3 </td>
     <td> 2 </td>
     <td> 2 </td>
     <td> 1 </td>
     <td> ctc, crc </td>  
-    <td><a href="../documents/counting/c_clength3.txt" download>results</a></td></tr>      
+    <td><a href="../documents/counting/c..c_length3.txt" download>results</a></td></tr>      
     
   <tr><td> 4 </td>
     <td> 5 </td>
     <td> 3 </td>
     <td> 1 </td>
     <td> cctc , ccrc , cttc , ctrc , crrc </td>
-    <td><a href="../documents/counting/c_clength4.txt" download>results</a></td></tr> 
+    <td><a href="../documents/counting/c..c_length4.txt" download>results</a></td></tr> 
   
   <tr><td> 5 </td>
     <td> 13 </td>
     <td> 8 </td>  
     <td> 3 </td>
     <td> cctcc , ccrcc , ccttc , cctrc , ccrrc , ctctc , ctcrc , crcrc , crclc , ctttc , cttrc , ctrrc , crrrc </td>
-    <td><a href="../documents/counting/c_clength5.txt" download>results</a></td></tr>         
+    <td><a href="../documents/counting/c..c_length5.txt" download>results</a></td></tr>         
  
   <tr><td> 6 </td>
     <td> 24 </td>
     <td> 8 </td>
     <td> 2 </td>
     <td> cctctc , cctcrc , ccrctc , ccrcrc , ccrclc , ccttcc , cctrcc , ccrrcc , cctttc , ccttrc , cctrrc , ccrrrc , ctcctc , ctccrc , crccrc , crcclc , ctcttc , ctctrc , ctcrrc , crcrrc , crcllc , cttcrc , ctrcrc , ctrclc </td>
-    <td><a href="../documents/counting/c_clength6.txt" download>results</a></td></tr>
+    <td><a href="../documents/counting/c..c_length6.txt" download>results</a></td></tr>
   
   <tr><td> 7 </td>
     <td> 67 </td>
     <td> 30 </td>
     <td> 4 </td>
     <td></td>
-    <td><a href="../documents/counting/c_clength7.txt" download>results</a></td></tr>     
+    <td><a href="../documents/counting/c..c_length7.txt" download>results</a></td></tr>     
   
   <tr><td> 8 </td>
     <td> 168 </td>
     <td> 57 </td>
     <td> 3 </td>
     <td></td>
-    <td><a href="../documents/counting/c_clength8.txt" download>results</a></td></tr>     
+    <td><a href="../documents/counting/c..c_length8.txt" download>results</a></td></tr>     
   
   <tr><td> 9 </td>
     <td> 460 </td>
     <td> 157 </td>
     <td> 7 </td>
     <td></td>
-    <td><a href="../documents/counting/c_clength9.txt" download>results</a></td></tr>     
+    <td><a href="../documents/counting/c..c_length9.txt" download>results</a></td></tr>     
   
   <tr><td> 10 </td>
     <td> 1220 </td>
     <td> 334 </td>
     <td> 6 </td>
     <td></td>
-    <td><a href="../documents/counting/c_clengt10.txt" download>results</a></td></tr>  
+    <td><a href="../documents/counting/c..c_lengt10.txt" download>results</a></td></tr>  
   
   <tr><td> 11 </td>
     <td> 3389 </td>
     <td> 874 </td>
     <td> 13 </td>
     <td></td>
-    <td><a href="../documents/counting/c_clength11.txt" download>results</a></td></tr>  
+    <td><a href="../documents/counting/c..c_length11.txt" download>results</a></td></tr>  
   
   <tr><td> 12 </td>
     <td> 9245 </td>
     <td> 2040 </td>
     <td> 10 </td>
     <td></td>
-    <td><a href="../documents/counting/c_clength12.txt" download>results</a></td></tr>  
+    <td><a href="../documents/counting/c..c_length12.txt" download>results</a></td></tr>  
   
   <tr><td> 13 </td>
     <td> 25677 </td>
     <td> 12498 </td>
     <td> 22 </td>
     <td></td>
-    <td><a href="../documents/counting/c_clength13.txt" download>results</a></td></tr>   
+    <td><a href="../documents/counting/c..c_length13.txt" download>results</a></td></tr>   
 
 </table>
                                                   
