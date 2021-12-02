@@ -106,7 +106,7 @@ Please note: the following list consists of words starting and ending with "c". 
     <td> 334 </td>
     <td> 6 </td>
     <td></td>
-    <td><a href="../documents/counting/c..c_lengt10.txt" download>results</a></td></tr>  
+    <td><a href="../documents/counting/c..c_length10.txt" download>results</a></td></tr>  
   
   <tr><td> 11 </td>
     <td> 3389 </td>
