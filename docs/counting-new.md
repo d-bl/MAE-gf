@@ -228,7 +228,7 @@ For the examples we use n = 6.
 
 #### Step 1: Make basic set with proto-words
 
-a. List all number 1, 2, ..., (2<sup>n-2)    
+a. List all number 1, 2, ..., 2<sup>(n-2)</sup>        
 
 > 1, 2, ... , 16           
 
