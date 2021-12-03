@@ -164,13 +164,13 @@ Between every two stitches, zero, one or more twists can be made. Examples:
 
 ### How to make mirrored words  
 
-#### Mirrored representation: b &rArr; d
+#### Mirrored representation: b &hArr; d, p &hArr; q
     
 a. Replace all "R" in the word with "L" and all "L" with "R"               
 
 > ctrctlc &rArr; ctlctrc 
   
-#### Mirrored representation: b &rArr; p      
+#### Mirrored representation: b &hArr; p, d &hArr; q     
 
 a. Read word backwards       
 b. Re-order twist groups: T &lt; R &lt; L          
@@ -180,7 +180,8 @@ b. Re-order twist groups: T &lt; R &lt; L
 #### How to make the quartet of words  
 
 a. Apply mirror b &rArr; d                       
-b. Apply mirror b &rArr; p on both the original word and the result from step a): b &rArr; p, d &rArr; q                   
+b. Apply mirror d &rArr; q
+c. Apply mirror q &rArr; p                   
 
 > ctrclc , ctlcrc , clctrc , crctlc   
 
