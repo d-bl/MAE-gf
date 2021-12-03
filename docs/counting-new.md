@@ -24,13 +24,13 @@ To help us count and catalogue the words representing stitches, the symbols are 
 ## Results
 
 A complete list of stitch words of the specified length can be downloaded as a .txt file by clicking on "results" in the corresponding row of the table below.       
-Words with two consequtive c's are written in lower case. The first row of the file shows counts for the number of words. The words are grouped by their symmetry: first the words that are their own horizontally and vertically mirrored word, then the words that are their own vertical mirror, etc.     
+In these files, words with two consequtive C's are written in lower case. The first row of the file shows counts for the number of words. The words are grouped by their symmetry: first the words that are their own horizontally and vertically mirrored word, then the words that are their own vertical mirror, etc.     
 
 Please note: only one orientation of each word is listed. See [how to make mirrored words](#how-to-make-mirrored-words) to create the other orientations.     
 Please note: the following list consists of words starting and ending with "C". In practice, any number of twists can be applied to the left pair or right pair travelling between two stitches.     
 
 <table class="cctt">
-  <tr><th>wordlength</th>
+  <tr><th>word length</th>
     <th>count</th>
     <th>subset without "CC"</th>
     <th>symmetric words (b=d=p=q)</th>
@@ -139,8 +139,7 @@ Please note: the following list consists of words starting and ending with "C". 
 2. <span class="stch">Cross only</span> is a valid stitch. However, a lacework with only crosses and no twists at all does not hold together. <span class="stch">Cross only</span> can only be used in combination with other stitches.
 3. Twist left followed by twist right is the same as twist right followed by twist left. This is also the same as twisting both pairs, i.e.: LR = RL = T.
 4. Twisting both left and right pairs is treated as one action because the left and right sides are done in parallel by the lacemaker.
-5. Stitches can be “mirrored” vertically by switching right and left twists. Stitches can be “mirrored” horizontally by applying the crosses and twists backwards.  
-6. The placing of pins changes the appearance of the ground. Pins are not considered in our lists and counting.   
+5. The placing of pins changes the appearance of the ground. Pins are not considered in our lists and counting.   
 
 ### Rules for counting and cataloguing words representing stitches     
 
@@ -148,7 +147,7 @@ Please note: the following list consists of words starting and ending with "C". 
 2. Every word of length greater than two must contain at least one symbol of the set { T , R , L }.    
 3. For a consecutive sequence of the symbols { T , R , L } in a word, if the sequence contains an “R”, it cannot contain an “L”. Similarly, if the sequence contains an “L”, it cannot contain an “R”.
 4. For a consecutive sequence of the symbols { T , R , L }, the sequence must be arranged in least lexicographical order: “T” &lt; “R” &lt; “L”. (This gives a canonical form. Lexicographical order, which is like alphabetical order, puts all of the symbols in a consistent order so that strings like rtrr, rrtr, trrr and rrtr, when sorted, are all the same, i.e. trrr.)
-5. A word (represented by "b") and its mirrored versions ("d", "p" and "q") are treated as equivalent and only counted once. The canonical form of the word is the lexicographically least variant of its b, d, p and q forms. For example, the words ccrclc , cclcrc , crclcc, and clcrcc are all related by mirror reflections so they count as one unique word which is represented in our list by the canonical form ccrclc. Consequence: in the canonical form, the first occurrence of a symbol from { R, L } must be an "R".      
+5. A word (represented by "b") and its mirrored versions ("d", "p" and "q") are treated as equivalent and only counted once. The canonical form of the word is the lexicographically least variant of its b, d, p and q forms. For example, the words ccrclc , cclcrc , crclcc, and clcrcc are all related by mirror reflections so they count as one unique word which is represented in our list by the canonical form ccrclc. Consequence: in the canonical form, the first occurrence of a symbol from { R , L } must be an "R".      
 ### Limitations
 
 1. We consider words up to a maximal length of 13 symbols.
@@ -232,7 +231,7 @@ a. List all number 1, 2, ..., 2<sup>(n-2)</sup>
 
 > 1, 2, ... , 16           
 
-b. Replace all numbers with their binary representation, length n           
+b. Replace all numbers with their binary representation, length (n - 2)          
 
 > 0001, 0010, ... , 1111     
   
