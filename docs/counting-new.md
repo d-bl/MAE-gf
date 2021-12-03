@@ -180,7 +180,7 @@ b. Re-order twist groups: T &lt; R &lt; L
 #### How to make the quartet of words  
 
 a. Apply mirror b &rArr; d                       
-b. Apply mirror b &rArr; p on both the original word and the result from step a)                    
+b. Apply mirror b &rArr; p on both the original word and the result from step a): b &rArr; p, d &rArr; q                   
 
 > ctrclc , ctlcrc , clctrc , crctlc   
 
