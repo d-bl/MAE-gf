@@ -17,14 +17,14 @@ title: counting
 A stitch is made by crossing and twisting two pairs of bobbins. With “twist” we mean: twist both pairs, twist right pair, or twist left pair. We can abbreviate this with "C" (cross), "T" (twist both pairs), "R" (twist right pair) and "L" (twist left pair). For listing and counting stitches we consider only stitches that start and end with a cross. Twists before the first cross and after the last are viewed as actions between stitches.        
 
 A stitch can be described by a <u>word</u> formed from the symbols "C", "L", "R", "T". These words have to obey certain rules. These rules come from observing examples of real lace, and from some limits we set ourselves in this document.    
-To help us count and catalogue the words representing stitches, the symbols are ordered: "C" before "T", "T" before "R", "R" before "L". (We have chosen this order because TR is easier to see than TL.)     
+To help us count and catalogue the words representing stitches, the symbols are ordered: "C" before "T", "T" before "R", "R" before "L".            
 
 <span class="b-red">Please note</span>: the following rules are to be applied for counting and cataloguing only.       
 
 ## Results
 
 A complete list of stitch words of the specified length can be downloaded as a .txt file by clicking on "results" in the corresponding row of the table below.       
-In these files, words with two consequtive C's are written in lower case. The first row of the file shows counts for the number of words. The words are grouped by their symmetry: first the words that are their own horizontally and vertically mirrored word, then the words that are their own vertical mirror, etc.     
+In these files, words with two consequtive C's are written in lower case. The first row of the file shows counts for the number of words. The words are grouped by their symmetry: first the words that are completely symmetric ("b=p=q=d"), then the words that are left-right-symmetric ("b=d"), etc.     
 
 Please note: only one orientation of each word is listed. See [how to make mirrored words](#how-to-make-mirrored-words) to create the other orientations.     
 Please note: the following list consists of words starting and ending with "C". In practice, any number of twists can be applied to the left pair or right pair travelling between two stitches.     
@@ -130,7 +130,13 @@ Please note: the following list consists of words starting and ending with "C". 
     <td><a href="../documents/counting/c..c_length13.txt" download>results</a></td></tr>   
 
 </table>
-                                                  
+ 
+### Twists between stitches
+
+Between every two stitches, zero, one or more twists can be made. Examples:
+* crc : crc , crct , crcr , crcl , crctt , crctr , crctl , crcrr , crcll , crcttt , crcttr , crcttl, crctrr , crctll , crcrrr , crclll , ...
+* ctctc : ctctct , ctctcr , ctctctt , ctctctr , ctctcrr , ctctcttt , ctctcttr , ctctctrr , ctctcrrr , ...         
+ 
 ## Method used
 
 ### Observations from real lace
@@ -139,55 +145,50 @@ Please note: the following list consists of words starting and ending with "C". 
 2. <span class="stch">Cross only</span> is a valid stitch. However, a lacework with only crosses and no twists at all does not hold together. <span class="stch">Cross only</span> can only be used in combination with other stitches.
 3. Twist left followed by twist right is the same as twist right followed by twist left. This is also the same as twisting both pairs, i.e.: LR = RL = T.
 4. Twisting both left and right pairs is treated as one action because the left and right sides are done in parallel by the lacemaker.
-5. The placing of pins changes the appearance of the ground. Pins are not considered in our lists and counting.   
+5. Different placing of pins can change the appearance of the ground. Pins are not considered in our lists and counting.   
 
 ### Rules for counting and cataloguing words representing stitches     
 
 1. Every word must start with a “C”.
-2. Every word of length greater than two must contain at least one symbol of the set { T , R , L }.    
-3. For a consecutive sequence of the symbols { T , R , L } in a word, if the sequence contains an “R”, it cannot contain an “L”. Similarly, if the sequence contains an “L”, it cannot contain an “R”.
-4. For a consecutive sequence of the symbols { T , R , L }, the sequence must be arranged in least lexicographical order: “T” &lt; “R” &lt; “L”. (This gives a canonical form. Lexicographical order, which is like alphabetical order, puts all of the symbols in a consistent order so that strings like rtrr, rrtr, trrr and rrtr, when sorted, are all the same, i.e. trrr.)
-5. A word (represented by "b") and its mirrored versions ("d", "p" and "q") are treated as equivalent and only counted once. The canonical form of the word is the lexicographically least variant of its b, d, p and q forms. For example, the words ccrclc , cclcrc , crclcc, and clcrcc are all related by mirror reflections so they count as one unique word which is represented in our list by the canonical form ccrclc. Consequence: in the canonical form, the first occurrence of a symbol from { R , L } must be an "R".      
+2. Every word must end with a "C". 
+3. Every word of length greater than two must contain at least one symbol of the set { T , R , L }.    
+4. For a consecutive sequence of the symbols { T , R , L } in a word, if the sequence contains an “R”, it cannot contain an “L”. Similarly, if the sequence contains an “L”, it cannot contain an “R”.
+5. For a consecutive sequence of the symbols { T , R , L }, the sequence must be arranged in least lexicographical order: “T” &lt; “R” &lt; “L”. (This gives a canonical form. Lexicographical order, which is like alphabetical order, puts all of the symbols in a consistent order so that strings like rtrr, rrtr, trrr and rrtr, when sorted, are all the same, i.e. trrr.)
+6. A word (represented by "b") and its mirrored versions ("d", "p" and "q") are treated as equivalent and only counted once. The canonical form of the word is the lexicographically least variant of its b, d, p and q forms. For example, the words ccrclc , cclcrc , crclcc, and clcrcc are all related by mirror reflections so they count as one unique word which is represented in our list by the canonical form ccrclc. Consequence: in the canonical form, the first occurrence of a symbol from { R , L } must be an "R".      
+
 ### Limitations
 
 1. We consider words up to a maximal length of 13 symbols.
 2. The number of consecutive symbols from { C } in a word is limited to two.
 3. The number of consecutive symbols from { T , R , L } in a word is limited to three.
-4. Twists between two stitches are not considered.   
-
-### Twists between stitches
-
-Between every two stitches, 0, 1 or more twists can be made. Examples:
-* crc : crc , crct , crcr , crcl , crctt , crctr , crctl , crcrr , crcll , crcttt , crcttr , crcttl, crctrr , crctll , crcrrr , crclll , ...
-* ctctc : ctctct , ctctcr , ctctctt , ctctctr , ctctcrr , ctctcttt , ctctcttr , ctctctrr , ctctcrrr , ... (rule 6 is applied)  
 
 ### How to make mirrored words  
 
-#### How to make a vertical mirrored word: b &rArr; d
+#### Mirrored representation: b &rArr; d
     
-a. replace all "R" in the word with "L" and all "L" with "R".               
+a. Replace all "R" in the word with "L" and all "L" with "R"               
 
 > ctrctlc &rArr; ctlctrc 
   
-#### How to make a horizontal mirrored, applying rule 4: b &rArr; p      
+#### Mirrored representation: b &rArr; p      
 
-a. Read word backwards.       
-b. Re-order twist groups: T &lt; R &lt; L.          
+a. Read word backwards       
+b. Re-order twist groups: T &lt; R &lt; L          
 
 > ctrctlc &rArr; cltcrtc &rArr; ctlctrc    
 
 #### How to make the quartet of words  
 
-a. Apply vertical mirror.                       
-b. Apply horizontal mirror on both the original word and the result from step a).                    
+a. Apply mirror b &rArr; d                       
+b. Apply mirror b &rArr; p on both the original word and the result from step a)                    
 
 > ctrclc , ctlcrc , clctrc , crctlc   
 
 #### Internal symmetry
 
-A word (C..C) can only be its own vertical mirror (b = d) if it has no left or right twist actions (only "T", no "R" and no "L").       
-A word (C..C) can only be its own horizontal mirror (b = p) if its a palindrome.    
-A word (C..C) is symmetric (b = d = q = p) if it has no left or right twist and it is a palindrome.   
+The mirrored representations of word b and d are equal if b has no left or right twist actions (only "T", no "R" and no "L").       
+The mirrored representations of word b and p are equal if b is a palindrome.    
+All mirrored represations d,q,p of word b are equal if b has no left or right twist and is a palindrome.   
 
 ## Listing and counting
 
@@ -216,7 +217,7 @@ A word is a formed by choosing symbols alternately from C and T<sub>all</sub>, e
 C &otimes; T<sub>all</sub> &otimes; C           
 C &otimes; T<sub>all</sub> &otimes; C &otimes; T<sub>all</sub> &otimes; C       
 
-To apply rule 5, we add extra base sets that do not include l's or series of t's.     
+To apply rule 6, we add extra base sets that do not include l's or series of t's.     
 B<sub>1</sub> = { r }			  
 B<sub>2</sub> = { tr , rr } 		   
 B<sub>3</sub> = { ttr , trr , rrr }		       
@@ -243,11 +244,11 @@ d. Replace all "0" with "c", all "1" with "T"
 
 > ccccTc, cccTcc, ... , cTTTTc         
   
-e. Remove all words with more than two "c". Remove all words with more than three "T"    
+e. Remove all words with more than two consecutive "c". Remove all words with more than three consecutive "T"    
 
 > ... , ccTTcc , cTTcTT , cTcTcc, cTcTcT, ... , cTTTcc , ...         
 
-#### Step 2: Avoid vertical mirrored words  
+#### Step 2: Avoid words b where b = d  
 
 For examples we use the following proto-words: ccTTTc , cTccTc , cTcTTc , cTTcTc    
 
@@ -259,14 +260,14 @@ b. Replace T with D<sub>i</sub> in proto-word set (to be specified later)
 > ctcttc , cD<sub>1</sub>cD<sub>2</sub>c   
 > cttctc , cD<sub>2</sub>cD<sub>1</sub>c 
            
-c. Only one of the D-sets in the proto-word is the set with the first "r" in the word (rule 6). Call this set "B", leading to more proto-words    
+c. Only one of the D-sets in the proto-word is the set with the first "r" in the word. Call this set "B", leading to more proto-words    
 
 > cctttc , ccB<sub>3</sub>c     
 > ctcctc , cB<sub>1</sub>ccD<sub>1</sub>c , cD<sub>1</sub>ccB<sub>1</sub>c     
 > ctcttc , cB<sub>1</sub>cD<sub>2</sub>c , cD<sub>1</sub>cB<sub>2</sub>c     
 > cttctc , cB<sub>2</sub>cD<sub>1</sub>c , cD<sub>2</sub>cB<sub>1</sub>c     
           
-d. All D before a B must be all t's (rule 6). Replace with t      
+d. All D before a B must be all t's. Replace with t      
 e. No limits for D after B. Replace with T<sub>i</sub>.     
 
 > cctttc , ccB<sub>3</sub>c     
@@ -281,7 +282,7 @@ f. Solve T and B, giving the words we are looking for
 > ctcttc , crcttc , crctrc , crctlc , crcrrc , crcllc , ctctrc , ctcrrc   
 > cttctc , ctrctc , ctrcrc , ctrclc , crrctc , crrcrc , crrclc , cttcrc
 
-#### Step 3: Finding horizontal mirror pairs
+#### Step 3: Finding words b where b = p
 
 a. For each word b found in step 2, make a quartet of words (see above)    
 
@@ -293,7 +294,7 @@ b. Keep the lexicographycally lowest word
 
 #### Step 4: check for doubles    
 
-Typically, the doubles are the words where p (quartet 1) = b (quartet 2) or q (quartet 1) = b (quartet 2). Please note, the consequence of rule 5 is that d (quartet 1) &ne; b (quartet 2).       
+Typically, the doubles are the words where p (quartet 1) = b (quartet 2) or q (quartet 1) = b (quartet 2). Please note, the consequence of rule 6 is that d (quartet 1) &ne; b (quartet 2).       
 
 ***
 [&uArr;]()
