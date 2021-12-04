@@ -12,6 +12,13 @@ title: counting
 * [Method used](#method-used)
 * [Listing and counting](#listing-and-counting)
 
+{% include p-l-c.html
+  src="/MAE-gf/images/counting/IMG_1039 SP.jpg.png"
+  alt="some nice ground"
+  lnk="/GroundForge/tiles?patchWidth=6&patchHeight=12&h1=-&c1=clcr&b1=crcl&a1=rctctctctt&h2=lctctctctt&c2=clcr&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2"
+  title="Meander"
+%}  
+
 ## Introduction
 
 A stitch is made by crossing and twisting two pairs of bobbins. With “twist” we mean: twist both pairs, twist right pair, or twist left pair. We can abbreviate this with "C" (cross), "T" (twist both pairs), "R" (twist right pair) and "L" (twist left pair). For listing and counting stitches we consider only stitches that start and end with a cross. Twists before the first cross and after the last are viewed as actions between stitches.        
@@ -24,7 +31,8 @@ To help us count and catalogue the words representing stitches, the symbols are 
 ## Results
 
 A complete list of stitch words of the specified length can be downloaded as a .txt file by clicking on "results" in the corresponding row of the table below.       
-In these files, words with two consequtive C's are written in lower case. The first row of the file shows counts for the number of words. The words are grouped by their symmetry: first the words that are completely symmetric ("b=p=q=d"), then the words that are left-right-symmetric ("b=d"), etc.     
+The first row of the file shows counts for the number of words. The words are grouped by their symmetry: first the words that are completely symmetric ("b=p=q=d"), then the words that are left-right-symmetric ("b=d"), etc.     
+Words with two consequtive C's are written in lower case. 
 
 Please note: only one orientation of each word is listed. See [how to make mirrored words](#how-to-make-mirrored-words) to create the other orientations.     
 Please note: the following list consists of words starting and ending with "C". In practice, any number of twists can be applied to the left pair or right pair travelling between two stitches.     
@@ -42,42 +50,42 @@ Please note: the following list consists of words starting and ending with "C". 
     <td> 1 </td>
     <td> 1 </td>
     <td> 1 </td>
-    <td> c , however, a ground with only "C" will fall apart </td> 
+    <td> C , however, a ground with only "C" will fall apart </td> 
     <td><a href="../documents/counting/c..c_length1.txt" download>results</a></td></tr>
   
   <tr><td> 2 </td>
     <td> 1 </td>
     <td> 0 </td>
     <td> 1 </td>
-    <td> cc , however, a ground with only "CC" will fall apart </td> 
+    <td> cc , however, a ground with only "cc" will fall apart </td> 
     <td><a href="../documents/counting/c..c_length2.txt" download>results</a></td></tr>
   
   <tr><td> 3 </td>
     <td> 2 </td>
     <td> 2 </td>
     <td> 1 </td>
-    <td> ctc, crc </td>  
+    <td> CTC, CRC </td>  
     <td><a href="../documents/counting/c..c_length3.txt" download>results</a></td></tr>      
     
   <tr><td> 4 </td>
     <td> 5 </td>
     <td> 3 </td>
     <td> 1 </td>
-    <td> cctc , ccrc , cttc , ctrc , crrc </td>
+    <td> cctc , ccrc , CTTC , CTRC , CRRC </td>
     <td><a href="../documents/counting/c..c_length4.txt" download>results</a></td></tr> 
   
   <tr><td> 5 </td>
     <td> 13 </td>
     <td> 8 </td>  
     <td> 3 </td>
-    <td> cctcc , ccrcc , ccttc , cctrc , ccrrc , ctctc , ctcrc , crcrc , crclc , ctttc , cttrc , ctrrc , crrrc </td>
+    <td> cctcc , ccrcc , ccttc , cctrc , ccrrc , CTCTC , CTCRC , CRCRC , CRCLC , CTTTC , CTTRC , CTRRC , CRRRC </td>
     <td><a href="../documents/counting/c..c_length5.txt" download>results</a></td></tr>         
  
   <tr><td> 6 </td>
     <td> 24 </td>
     <td> 8 </td>
     <td> 2 </td>
-    <td> cctctc , cctcrc , ccrctc , ccrcrc , ccrclc , ccttcc , cctrcc , ccrrcc , cctttc , ccttrc , cctrrc , ccrrrc , ctcctc , ctccrc , crccrc , crcclc , ctcttc , ctctrc , ctcrrc , crcrrc , crcllc , cttcrc , ctrcrc , ctrclc </td>
+    <td> cctctc , cctcrc , ccrctc , ccrcrc , ccrclc , ccttcc , cctrcc , ccrrcc , cctttc , ccttrc , cctrrc , ccrrrc , ctcctc , ctccrc , crccrc , crcclc , CTCTTC , CTCTRC , CTCRRC , CRCRRC , CRCLLC , CTTCRC , CTRCRC , CTRCLC </td>
     <td><a href="../documents/counting/c..c_length6.txt" download>results</a></td></tr>
   
   <tr><td> 7 </td>
@@ -134,8 +142,8 @@ Please note: the following list consists of words starting and ending with "C". 
 ### Twists between stitches
 
 Between every two stitches, zero, one or more twists can be made. Examples:
-* crc : crc , crct , crcr , crcl , crctt , crctr , crctl , crcrr , crcll , crcttt , crcttr , crcttl, crctrr , crctll , crcrrr , crclll , ...
-* ctctc : ctctct , ctctcr , ctctctt , ctctctr , ctctcrr , ctctcttt , ctctcttr , ctctctrr , ctctcrrr , ...         
+* CRC : CRCT , CRCR , CRCL , CRCTT , CRCTR , CRCTL , CRCRR , CRCLL , CRCTTT , CRCTTR , CRCTRR , CRCRRR , ...
+* CTCTC : CTCTCT , CTCTCR , CTCTCTT , CTCTCTR , CTCTCRR , CTCTCTTT , CTCTCTTR , CTCTCTRR , CTCTCRRR , ...         
  
 ## Method used
 
@@ -168,14 +176,14 @@ Between every two stitches, zero, one or more twists can be made. Examples:
     
 a. Replace all "R" in the word with "L" and all "L" with "R"               
 
-> ctrctlc &rArr; ctlctrc 
+> CTRCTLC &rArr; CTLCTRC 
   
 #### Mirrored representation: b &hArr; p, d &hArr; q     
 
 a. Read word backwards       
 b. Re-order twist groups: T &lt; R &lt; L          
 
-> ctrctlc &rArr; cltcrtc &rArr; ctlctrc    
+> CTRCTLC &rArr; CLTCRTC &rArr; CTLCTRC    
 
 #### How to make the quartet of words  
 
@@ -183,13 +191,13 @@ a. Apply mirror b &rArr; d
 b. Apply mirror d &rArr; q       
 c. Apply mirror q &rArr; p                   
 
-> ctrclc , ctlcrc , clctrc , crctlc   
+> CTRCLC , CTLCRC , CLCTRC , CRCTLC   
 
 #### Internal symmetry
 
-The mirrored representations of word b and d are equal if b has no left or right twist actions (only "T", no "R" and no "L").       
-The mirrored representations of word b and p are equal if b is a palindrome.    
-All mirrored represations d,q,p of word b are equal if b has no left or right twist and is a palindrome.   
+The mirrored representations of word b and d are identical if b has no left or right twist actions (only “T”, no “R” and no “L”).              
+The mirrored representations of word b and p are identical if b is a palindrome.           
+All mirrored representations d, q and p of word b are identical if b has no left or right twist and is a palindrome.            
 
 ## Listing and counting
 
@@ -205,8 +213,7 @@ Let A = { a , b , c }; B = { p , q , r }
 
 ### Defining sets
 n : the length of the words we are counting     
-C = { c , cc }     
-T = { t , r , l }
+C<sub>all</sub> = { c , cc }     
 
 T<sub>1</sub> = { t , r , l }     
 T<sub>2</sub> = { tt , tr , tl , rr , ll }     
@@ -214,16 +221,16 @@ T<sub>3</sub> = { ttt , ttr , ttl , trr , tll , rrr , lll }
 Please note: T<sub>3</sub> = tT<sub>2</sub> &cup; { rrr , lll }    
 T<sub>all</sub> = T<sub>1</sub> &cup; T<sub>2</sub> &cup; T<sub>3</sub>    
 
-A word is a formed by choosing symbols alternately from C and T<sub>all</sub>, ending with a symbol from C. Valid words before applying rule 6 are elements from sets like:     
-C &otimes; T<sub>all</sub> &otimes; C           
-C &otimes; T<sub>all</sub> &otimes; C &otimes; T<sub>all</sub> &otimes; C       
-
-To apply rule 6, we add extra base sets that do not include l's or series of t's.     
+To apply rule 6, we add extra base sets that do not include l's or series of only t's.     
 B<sub>1</sub> = { r }			  
 B<sub>2</sub> = { tr , rr } 		   
 B<sub>3</sub> = { ttr , trr , rrr }		       
 
 ### Word forming
+
+A word is a formed by choosing symbols alternately from C<sub>all</sub> and T<sub>all</sub>, ending with a symbol from C<sub>all</sub>. Valid words before applying rule 6 are elements from sets like:     
+C<sub>all</sub> &otimes; T<sub>all</sub> &otimes; C<sub>all</sub>           
+C<sub>all</sub> &otimes; T<sub>all</sub> &otimes; C<sub>all</sub> &otimes; T<sub>all</sub> &otimes; C<sub>all</sub>       
 
 For the examples we use n = 6.
 
@@ -241,20 +248,20 @@ c. Place "0" on front and back of each word
   
 > 000010, 000100, ... , 011110  
 
-d. Replace all "0" with "c", all "1" with "T"             
+d. Replace all "0" with "c", all "1" with "T<sub>1</sub>"             
 
-> ccccTc, cccTcc, ... , cTTTTc         
+> ccccT<sub>1</sub>c, cccT<sub>1</sub>cc, ... , cT<sub>1</sub>T<sub>1</sub>T<sub>1</sub>T<sub>1</sub>c         
   
-e. Remove all words with more than two consecutive "c". Remove all words with more than three consecutive "T"    
+e. Remove all words with more than two consecutive "c". Remove all words with more than three consecutive "T<sub>1</sub>"    
 
-> ... , ccTTcc , cTTcTT , cTcTcc, cTcTcT, ... , cTTTcc , ...         
+> ... , ccT<sub>1</sub>T<sub>1</sub>T<sub>1</sub>c , cT<sub>1</sub>ccT<sub>1</sub>c , cT<sub>1</sub>cT<sub>1</sub>T<sub>1</sub>c , cT<sub>1</sub>T<sub>1</sub>cT<sub>1</sub>c  , ...                  
 
 #### Step 2: Avoid words b where b = d  
 
-For examples we use the following proto-words: ccTTTc , cTccTc , cTcTTc , cTTcTc    
+For examples we use the following proto-words: ccT<sub>1</sub>T<sub>1</sub>T<sub>1</sub>c , cT<sub>1</sub>ccT<sub>1</sub>c , cT<sub>1</sub>cT<sub>1</sub>T<sub>1</sub>c , cT<sub>1</sub>T<sub>1</sub>cT<sub>1</sub>c    
 
 a. First make words with all "t"                    
-b. Replace T with D<sub>i</sub> in proto-word set (to be specified later)                
+b. Replace T<sub>1</sub> with D<sub>i</sub> in proto-word set (to be specified later)                
 
 > cctttc , ccD<sub>3</sub>c     
 > ctcctc , cD<sub>1</sub>ccD<sub>1</sub>c   
@@ -281,17 +288,24 @@ f. Solve T and B, giving the words we are looking for
 > cctttc , ccttrc , cctrrc , ccrrrc     
 > ctcctc , crcctc , crccrc , crcclc , ctccrc   
 > ctcttc , crcttc , crctrc , crctlc , crcrrc , crcllc , ctctrc , ctcrrc   
-> cttctc , ctrctc , ctrcrc , ctrclc , crrctc , crrcrc , crrclc , cttcrc
+> cttctc , ctrctc , ctrcrc , ctrclc , crrctc , crrcrc , crrclc , cttcrc   
+
+g. If a word contains "cc", write in lowercase. If a word does not contain "cc", write in captitals.
+
+> cctttc , ccttrc , cctrrc , ccrrrc     
+> ctcctc , crcctc , crccrc , crcclc , ctccrc   
+> CTCTTC , CRCTTC , CRCTRC , CRCTLC , CRCRRC , CRCLLC , CTCTRC , CTCRRC   
+> CTTCTC , CTRCTC , CTRCRC , CTRCLC , CRRCTC , CRRCRC , CRRCLC , CTTCRC
 
 #### Step 3: Finding words b where b = p
 
 a. For each word b found in step 2, make a quartet of words (see above)    
 
-> b = crctlc , p = ctlcrc , d = clctrc , q = ctrclc       
+> b = CRCTLC , p = CTLCRC , d = CLCTRC , q = CTRCLC       
 
 b. Keep the lexicographycally lowest word     
 
-  > b = crctlc , p = ctlcrc , d = clctrc , q = <u>ctrclc</u>. Word ctrclc (q) is the lowest, and is kept.      
+> b = CRCTLC , p = CTLCRC , d = CLCTRC , q = <u>CTRCLC</u>. Word CTRCLC (q) is the lowest, and is kept.      
 
 #### Step 4: check for doubles    
 
