@@ -13,8 +13,8 @@ title: counting
 * [Listing and counting](#listing-and-counting)
 
 {% include p-l-c.html
-  src="/MAE-gf/images/counting/IMG_1039 SP.jpg.png"
-  alt="some nice ground"
+  src="/MAE-gf/images/counting/IMG_1039_SP.jpg.png"
+  alt="Meander"
   lnk="/GroundForge/tiles?patchWidth=6&patchHeight=12&h1=-&c1=clcr&b1=crcl&a1=rctctctctt&h2=lctctctctt&c2=clcr&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2"
   title="Meander"
 %}  
@@ -250,7 +250,7 @@ c. Place "0" on front and back of each word
 
 d. Replace all "0" with "c", all "1" with "T<sub>1</sub>"             
 
-> ccccT<sub>1</sub>c, cccT<sub>1</sub>cc, ... , cT<sub>1</sub>T<sub>1</sub>T<sub>1</sub>T<sub>1</sub>c         
+> ccccT<sub>1</sub>c , cccT<sub>1</sub>cc , ... , cT<sub>1</sub>T<sub>1</sub>T<sub>1</sub>T<sub>1</sub>c         
   
 e. Remove all words with more than two consecutive "c". Remove all words with more than three consecutive "T<sub>1</sub>"    
 
