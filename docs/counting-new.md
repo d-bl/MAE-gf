@@ -160,7 +160,7 @@ Between every two stitches, zero, one or more twists can be made. Examples:
 1. Every word must start with a C.
 2. Every word must end with a C. 
 3. Every word of length greater than two must contain at least one symbol of the set { T, R, L }.    
-4. For a consecutive sequence of the symbols { T, R, L } in a word, if the sequence contains an “R”, it cannot contain an “L”. Similarly, if the sequence contains an L, it cannot contain an R.
+4. For a consecutive sequence of the symbols { T, R, L } in a word, if the sequence contains an R, it cannot contain an L. Similarly, if the sequence contains an L, it cannot contain an R.
 5. For a consecutive sequence of the symbols { T, R, L }, the sequence must be arranged in least lexicographical order: T &lt; R &lt; L. (This gives a canonical form. Lexicographical order, which is like alphabetical order, puts all of the symbols in a consistent order so that strings like RTRR, RRTR, TRRR and RRTR, when sorted, are all the same, i.e. TRRR.)
 6. A word (represented by b) and its mirrored versions (d, p and q) are treated as equivalent and only counted once. The canonical form of the word is the lexicographically least variant of its b, d, p and q forms. For example, the words ccrclc, cclcrc, crclcc, and clcrcc are all related by mirror reflections so they count as one unique word which is represented in our list by the canonical form ccrclc. Consequence: in the canonical form, the first occurrence of a symbol from { R, L } must be an "R".      
 
