@@ -207,30 +207,30 @@ As examples we use words of length 6 (but not the complete set).
 
 ### Notations and short notations
 
-Let &#x1D4D0; = { a , b , c }; &#x1D4D1; = { p , q , r }  
+Let &#x1D4D0; = { a , b , c }; and &#x1D4D1; = { p , q , r }  
 1. &#x1D4D0; &otimes; &#x1D4D1; = { a , b , c } &otimes; { p , q , r }. This means: make all combinations using all the symbols in the first set and combine them with all the symbols in the second set. This gives a new set: { ap , aq , ar , bp , bq , br , cp , cq , cr }. A word is one of these combinations. Please note: do not change the order. In this example, “ra” is not a valid word.       
-2. Short notation: &#x1D4D0;&#x1D4D1; means: &#x1D4D0; &otimes; &#x1D4D1; p&#x1D4D0; means: { p } &otimes; &#x1D4D0; (result: { pa , pb , pc }).   
+2. Short notation: &#x1D4D0;&#x1D4D1; means: &#x1D4D0; &otimes; &#x1D4D1;, p&#x1D4D0; means: { p } &otimes; &#x1D4D0; (result: { pa , pb , pc }).   
 
 ### Defining sets
 n : the length of the words we are counting     
 &#x1D4D2;<sub>all</sub> = { c , cc }     
 
-T<sub>1</sub> = { t , r , l }     
-T<sub>2</sub> = { tt , tr , tl , rr , ll }     
-T<sub>3</sub> = { ttt , ttr , ttl , trr , tll , rrr , lll }    
-Please note: T<sub>3</sub> = tT<sub>2</sub> &cup; { rrr , lll }    
-T<sub>all</sub> = T<sub>1</sub> &cup; T<sub>2</sub> &cup; T<sub>3</sub>    
+&#x1D4E3;<sub>1</sub> = { t , r , l }     
+&#x1D4E3;<sub>2</sub> = { tt , tr , tl , rr , ll }     
+&#x1D4E3;<sub>3</sub> = { ttt , ttr , ttl , trr , tll , rrr , lll }    
+Please note: &#x1D4E3;<sub>3</sub> = t&#x1D4E3;<sub>2</sub> &cup; { rrr , lll }    
+&#x1D4E3;<sub>all</sub> = &#x1D4E3;<sub>1</sub> &cup; &#x1D4E3;<sub>2</sub> &cup; &#x1D4E3;<sub>3</sub>    
 
 To apply rule 6, we add extra base sets that do not include l's or series of only t's.     
-B<sub>1</sub> = { r }			  
-B<sub>2</sub> = { tr , rr } 		   
-B<sub>3</sub> = { ttr , trr , rrr }		       
+&#x1D4D1;<sub>1</sub> = { r }			  
+&#x1D4D1;<sub>2</sub> = { tr , rr } 		   
+&#x1D4D1;<sub>3</sub> = { ttr , trr , rrr }		       
 
 ### Word forming
 
-A word is a formed by choosing symbols alternately from &#x1D4D2;<sub>all</sub> and T<sub>all</sub>, ending with a symbol from &#x1D4D2;<sub>all</sub>. Valid words before applying rule 6 are elements from sets like:     
-&#x1D4D2;<sub>all</sub> &otimes; T<sub>all</sub> &otimes; &#x1D4D2;<sub>all</sub>           
-&#x1D4D2;<sub>all</sub> &otimes; T<sub>all</sub> &otimes; &#x1D4D2;<sub>all</sub> &otimes; T<sub>all</sub> &otimes; &#x1D4D2;<sub>all</sub>       
+A word is a formed by choosing symbols alternately from &#x1D4D2;<sub>all</sub> and &#x1D4E3;<sub>all</sub>, ending with a symbol from &#x1D4D2;<sub>all</sub>. Valid words before applying rule 6 are elements from sets like:     
+&#x1D4D2;<sub>all</sub> &otimes; &#x1D4E3;<sub>all</sub> &otimes; &#x1D4D2;<sub>all</sub>           
+&#x1D4D2;<sub>all</sub> &otimes; &#x1D4E3;<sub>all</sub> &otimes; &#x1D4D2;<sub>all</sub> &otimes; &#x1D4E3;<sub>all</sub> &otimes; &#x1D4D2;<sub>all</sub>       
 
 For the examples we use n = 6.
 
