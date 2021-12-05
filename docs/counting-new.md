@@ -157,12 +157,12 @@ Between every two stitches, zero, one or more twists can be made. Examples:
 
 ### Rules for counting and cataloguing words representing stitches     
 
-1. Every word must start with a “C”.
-2. Every word must end with a "C". 
+1. Every word must start with a C.
+2. Every word must end with a C. 
 3. Every word of length greater than two must contain at least one symbol of the set { T, R, L }.    
-4. For a consecutive sequence of the symbols { T, R, L } in a word, if the sequence contains an “R”, it cannot contain an “L”. Similarly, if the sequence contains an “L”, it cannot contain an “R”.
-5. For a consecutive sequence of the symbols { T, R, L }, the sequence must be arranged in least lexicographical order: “T” &lt; “R” &lt; “L”. (This gives a canonical form. Lexicographical order, which is like alphabetical order, puts all of the symbols in a consistent order so that strings like rtrr, rrtr, trrr and rrtr, when sorted, are all the same, i.e. trrr.)
-6. A word (represented by "b") and its mirrored versions ("d", "p" and "q") are treated as equivalent and only counted once. The canonical form of the word is the lexicographically least variant of its b, d, p and q forms. For example, the words ccrclc, cclcrc, crclcc, and clcrcc are all related by mirror reflections so they count as one unique word which is represented in our list by the canonical form ccrclc. Consequence: in the canonical form, the first occurrence of a symbol from { R, L } must be an "R".      
+4. For a consecutive sequence of the symbols { T, R, L } in a word, if the sequence contains an “R”, it cannot contain an “L”. Similarly, if the sequence contains an L, it cannot contain an R.
+5. For a consecutive sequence of the symbols { T, R, L }, the sequence must be arranged in least lexicographical order: T &lt; R &lt; L. (This gives a canonical form. Lexicographical order, which is like alphabetical order, puts all of the symbols in a consistent order so that strings like RTRR, RRTR, TRRR and RRTR, when sorted, are all the same, i.e. TRRR.)
+6. A word (represented by b) and its mirrored versions (d, p and q) are treated as equivalent and only counted once. The canonical form of the word is the lexicographically least variant of its b, d, p and q forms. For example, the words ccrclc, cclcrc, crclcc, and clcrcc are all related by mirror reflections so they count as one unique word which is represented in our list by the canonical form ccrclc. Consequence: in the canonical form, the first occurrence of a symbol from { R, L } must be an "R".      
 
 ### Limitations
 
@@ -174,7 +174,7 @@ Between every two stitches, zero, one or more twists can be made. Examples:
 
 #### Mirrored representation: b &hArr; d, p &hArr; q
     
-a. Replace all "R" in the word with "L" and all "L" with "R"               
+a. Replace all R in the word with L and all L with R               
 
 > CTRCTLC &rArr; CTLCTRC 
   
@@ -195,7 +195,7 @@ c. Apply mirror q &rArr; p
 
 #### Internal symmetry
 
-The mirrored representations of word b and d are identical if b has no left or right twist actions (only “T”, no “R” and no “L”).              
+The mirrored representations of word b and d are identical if b has no left or right twist actions (only T, no R and no L).              
 The mirrored representations of word b and p are identical if b is a palindrome.           
 All mirrored representations d, q and p of word b are identical if b has no left or right twist and is a palindrome.            
 
