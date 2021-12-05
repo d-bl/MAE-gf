@@ -209,11 +209,11 @@ As examples we use words of length 6 (but not the complete set).
 
 Let &#x1D4D0; = { a , b , c }; &#x1D4D1; = { p , q , r }  
 1. &#x1D4D0; &otimes; &#x1D4D1; = { a , b , c } &otimes; { p , q , r }. This means: make all combinations using all the symbols in the first set and combine them with all the symbols in the second set. This gives a new set: { ap , aq , ar , bp , bq , br , cp , cq , cr }. A word is one of these combinations. Please note: do not change the order. In this example, “ra” is not a valid word.       
-2. Short notation: &#x1D4D0;&#x1D4D1; means: &#x1D4D0; &otimes; &#x1D4D1; p&#1D4D0 means: { p } &otimes; &#x1D4D0 (result: { pa , pb , pc }).   
+2. Short notation: &#x1D4D0;&#x1D4D1; means: &#x1D4D0; &otimes; &#x1D4D1; p&#x1D4D0; means: { p } &otimes; &#x1D4D0; (result: { pa , pb , pc }).   
 
 ### Defining sets
 n : the length of the words we are counting     
-C<sub>all</sub> = { c , cc }     
+&#x1D4D2;<sub>all</sub> = { c , cc }     
 
 T<sub>1</sub> = { t , r , l }     
 T<sub>2</sub> = { tt , tr , tl , rr , ll }     
@@ -228,9 +228,9 @@ B<sub>3</sub> = { ttr , trr , rrr }
 
 ### Word forming
 
-A word is a formed by choosing symbols alternately from C<sub>all</sub> and T<sub>all</sub>, ending with a symbol from C<sub>all</sub>. Valid words before applying rule 6 are elements from sets like:     
-C<sub>all</sub> &otimes; T<sub>all</sub> &otimes; C<sub>all</sub>           
-C<sub>all</sub> &otimes; T<sub>all</sub> &otimes; C<sub>all</sub> &otimes; T<sub>all</sub> &otimes; C<sub>all</sub>       
+A word is a formed by choosing symbols alternately from &#x1D4D2;<sub>all</sub> and T<sub>all</sub>, ending with a symbol from &#x1D4D2;<sub>all</sub>. Valid words before applying rule 6 are elements from sets like:     
+&#x1D4D2;<sub>all</sub> &otimes; T<sub>all</sub> &otimes; &#x1D4D2;<sub>all</sub>           
+&#x1D4D2;<sub>all</sub> &otimes; T<sub>all</sub> &otimes; &#x1D4D2;<sub>all</sub> &otimes; T<sub>all</sub> &otimes; &#x1D4D2;<sub>all</sub>       
 
 For the examples we use n = 6.
 
@@ -248,42 +248,42 @@ c. Place "0" on front and back of each word
   
 > 000010, 000100, ... , 011110  
 
-d. Replace all "0" with "c", all "1" with "T<sub>1</sub>"             
+d. Replace all "0" with "c", all "1" with "&#x1D4E3;<sub>1</sub>"             
 
-> ccccT<sub>1</sub>c , cccT<sub>1</sub>cc , ... , cT<sub>1</sub>T<sub>1</sub>T<sub>1</sub>T<sub>1</sub>c         
+> cccc&#x1D4E3;<sub>1</sub>c , ccc&#x1D4E3;<sub>1</sub>cc , ... , c&#x1D4E3;<sub>1</sub>&#x1D4E3;<sub>1</sub>&#x1D4E3;<sub>1</sub>&#x1D4E3;<sub>1</sub>c         
   
-e. Remove all words with more than two consecutive "c". Remove all words with more than three consecutive "T<sub>1</sub>"    
+e. Remove all words with more than two consecutive "c". Remove all words with more than three consecutive "&#x1D4E3;<sub>1</sub>"    
 
-> ... , ccT<sub>1</sub>T<sub>1</sub>T<sub>1</sub>c , cT<sub>1</sub>ccT<sub>1</sub>c , cT<sub>1</sub>cT<sub>1</sub>T<sub>1</sub>c , cT<sub>1</sub>T<sub>1</sub>cT<sub>1</sub>c  , ...                  
+> ... , cc&#x1D4E3;<sub>1</sub>&#x1D4E3;<sub>1</sub>&#x1D4E3;<sub>1</sub>c , c&#x1D4E3;<sub>1</sub>cc&#x1D4E3;<sub>1</sub>c , c&#x1D4E3;<sub>1</sub>c&#x1D4E3;<sub>1</sub>&#x1D4E3;<sub>1</sub>c , c&#x1D4E3;<sub>1</sub>&#x1D4E3;<sub>1</sub>c&#x1D4E3;<sub>1</sub>c  , ...                  
 
 #### Step 2: Avoid words b where b = d  
 
-For examples we use the following proto-words: ccT<sub>1</sub>T<sub>1</sub>T<sub>1</sub>c , cT<sub>1</sub>ccT<sub>1</sub>c , cT<sub>1</sub>cT<sub>1</sub>T<sub>1</sub>c , cT<sub>1</sub>T<sub>1</sub>cT<sub>1</sub>c    
+For examples we use the following proto-words: cc&#x1D4E3;<sub>1</sub>&#x1D4E3;<sub>1</sub>&#x1D4E3;<sub>1</sub>c , c&#x1D4E3;<sub>1</sub>cc&#x1D4E3;<sub>1</sub>c , c&#x1D4E3;<sub>1</sub>c&#x1D4E3;<sub>1</sub>&#x1D4E3;<sub>1</sub>c , c&#x1D4E3;<sub>1</sub>&#x1D4E3;<sub>1</sub>c&#x1D4E3;<sub>1</sub>c    
 
 a. First make words with all "t"                    
-b. Replace T<sub>1</sub> with D<sub>i</sub> in proto-word set (to be specified later)                
+b. Replace &#x1D4E3;<sub>1</sub> with &#x1D4D3;<sub>i</sub> in proto-word set (to be specified later)                
 
-> cctttc , ccD<sub>3</sub>c     
-> ctcctc , cD<sub>1</sub>ccD<sub>1</sub>c   
-> ctcttc , cD<sub>1</sub>cD<sub>2</sub>c   
-> cttctc , cD<sub>2</sub>cD<sub>1</sub>c 
+> cctttc , cc&#x1D4D3;<sub>3</sub>c     
+> ctcctc , c&#x1D4D3;<sub>1</sub>cc&#x1D4D3;<sub>1</sub>c   
+> ctcttc , c&#x1D4D3;<sub>1</sub>c&#x1D4D3;<sub>2</sub>c   
+> cttctc , c&#x1D4D3;<sub>2</sub>c&#x1D4D3;<sub>1</sub>c 
            
-c. Only one of the D-sets in the proto-word is the set with the first "r" in the word. Call this set "B", leading to more proto-words    
+c. Only one of the &#x1D4D3;-sets in the proto-word is the set with the first "r" in the word. Call this set "&#x1D4D1;", leading to more proto-words    
 
-> cctttc , ccB<sub>3</sub>c     
-> ctcctc , cB<sub>1</sub>ccD<sub>1</sub>c , cD<sub>1</sub>ccB<sub>1</sub>c     
-> ctcttc , cB<sub>1</sub>cD<sub>2</sub>c , cD<sub>1</sub>cB<sub>2</sub>c     
-> cttctc , cB<sub>2</sub>cD<sub>1</sub>c , cD<sub>2</sub>cB<sub>1</sub>c     
+> cctttc , cc&#x1D4D1;<sub>3</sub>c     
+> ctcctc , c&#x1D4D1;<sub>1</sub>cc&#x1D4D3;<sub>1</sub>c , c&#x1D4D3;<sub>1</sub>cc&#x1D4D1;<sub>1</sub>c     
+> ctcttc , c&#x1D4D1;<sub>1</sub>c&#x1D4D3;<sub>2</sub>c , c&#x1D4D3;<sub>1</sub>c&#x1D4D1;<sub>2</sub>c     
+> cttctc , c&#x1D4D1;<sub>2</sub>c&#x1D4D3;<sub>1</sub>c , c&#x1D4D3;<sub>2</sub>c&#x1D4D1;<sub>1</sub>c     
           
-d. All D before a B must be all t's. Replace with t      
-e. No limits for D after B. Replace with T<sub>i</sub>.     
+d. All &#x1D4D3; before a &#x1D4D1; must be all t's. Replace with t      
+e. No limits for &#x1D4D3; after &#x1D4D1;. Replace with &#x1D4E3;<sub>i</sub>.     
 
-> cctttc , ccB<sub>3</sub>c     
-> ctcctc , cB<sub>1</sub>ccT<sub>1</sub>c , ctccB<sub>1</sub>c     
-> ctcttc , cB<sub>1</sub>cT<sub>2</sub>c , ctcB<sub>2</sub>c     
-> cttctc , cB<sub>2</sub>cT<sub>1</sub>c , cttcB<sub>1</sub>c        
+> cctttc , cc&#x1D4D1;<sub>3</sub>c     
+> ctcctc , c&#x1D4D1;<sub>1</sub>cc&#x1D4E3;<sub>1</sub>c , ctcc&#x1D4D1;<sub>1</sub>c     
+> ctcttc , c&#x1D4D1;<sub>1</sub>c&#x1D4E3;<sub>2</sub>c , ctc&#x1D4D1;<sub>2</sub>c     
+> cttctc , c&#x1D4D1;<sub>2</sub>c&#x1D4E3;<sub>1</sub>c , cttc&#x1D4D1;<sub>1</sub>c        
 
-f. Solve T and B, giving the words we are looking for     
+f. Solve &#x1D4E3; and &#x1D4D1;, giving the words we are looking for     
 
 > cctttc , ccttrc , cctrrc , ccrrrc     
 > ctcctc , crcctc , crccrc , crcclc , ctccrc   
