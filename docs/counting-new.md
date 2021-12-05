@@ -209,7 +209,7 @@ As examples we use words of length 6 (but not the complete set).
 
 Let &#x1D4D0; = { a , b , c }; and &#x1D4D1; = { p , q , r }  
 1. &#x1D4D0; &otimes; &#x1D4D1; = { a , b , c } &otimes; { p , q , r }. This means: make all combinations using all the symbols in the first set and combine them with all the symbols in the second set. This gives a new set: { ap , aq , ar , bp , bq , br , cp , cq , cr }. A word is one of these combinations. Please note: do not change the order. In this example, “ra” is not a valid word.       
-2. Short notation: &#x1D4D0;&#x1D4D1; means: &#x1D4D0; &otimes; &#x1D4D1;, p&#x1D4D0; means: { p } &otimes; &#x1D4D0; = { pa , pb , pc }.   
+2. Short notation: &#x1D4D0;&#x1D4D1; means &#x1D4D0 and &otimes; &#x1D4D1;, p&#x1D4D0; means { p } &otimes; &#x1D4D0; = { pa , pb , pc }.   
 
 ### Defining sets
 n : the length of the words we are counting     
