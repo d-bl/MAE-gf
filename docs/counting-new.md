@@ -207,9 +207,9 @@ As examples we use words of length 6 (but not the complete set).
 
 ### Notations and short notations
 
-Let A = { a , b , c }; B = { p , q , r }  
-1. &#1D4D0; &otimes; &#1D4D1; = { a , b , c } &otimes; { p , q , r }. This means: make all combinations using all the symbols in the first set and combine them with all the symbols in the second set. This gives a new set: { ap , aq , ar , bp , bq , br , cp , cq , cr }. A word is one of these combinations. Please note: do not change the order. In this example, “ra” is not a valid word.       
-2. Short notation: &#1D4D0;&#1D4D1; means: &#1D4D0; &otimes; &#1D4D1; p&#1D4D0 means: { p } &otimes; &#1D4D0 (result: { pa , pb , pc }).   
+Let &#x1D4D0; = { a , b , c }; &#x1D4D1; = { p , q , r }  
+1. &#x1D4D0; &otimes; &#x1D4D1; = { a , b , c } &otimes; { p , q , r }. This means: make all combinations using all the symbols in the first set and combine them with all the symbols in the second set. This gives a new set: { ap , aq , ar , bp , bq , br , cp , cq , cr }. A word is one of these combinations. Please note: do not change the order. In this example, “ra” is not a valid word.       
+2. Short notation: &#x1D4D0;&#x1D4D1; means: &#x1D4D0; &otimes; &#x1D4D1; p&#1D4D0 means: { p } &otimes; &#x1D4D0 (result: { pa , pb , pc }).   
 
 ### Defining sets
 n : the length of the words we are counting     
