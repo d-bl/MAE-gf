@@ -50,14 +50,14 @@ Please note: the following list consists of words starting and ending with "C". 
     <td> 1 </td>
     <td> 1 </td>
     <td> 1 </td>
-    <td> C , however, a ground with only "C" will fall apart </td> 
+    <td> C, however, a ground with only "C" will fall apart </td> 
     <td><a href="../documents/counting/c..c_length1.txt" download>results</a></td></tr>
   
   <tr><td> 2 </td>
     <td> 1 </td>
     <td> 0 </td>
     <td> 1 </td>
-    <td> cc , however, a ground with only "cc" will fall apart </td> 
+    <td> cc, however, a ground with only "cc" will fall apart </td> 
     <td><a href="../documents/counting/c..c_length2.txt" download>results</a></td></tr>
   
   <tr><td> 3 </td>
@@ -71,21 +71,21 @@ Please note: the following list consists of words starting and ending with "C". 
     <td> 5 </td>
     <td> 3 </td>
     <td> 1 </td>
-    <td> cctc , ccrc , CTTC , CTRC , CRRC </td>
+    <td> cctc, ccrc, CTTC, CTRC, CRRC </td>
     <td><a href="../documents/counting/c..c_length4.txt" download>results</a></td></tr> 
   
   <tr><td> 5 </td>
     <td> 13 </td>
     <td> 8 </td>  
     <td> 3 </td>
-    <td> cctcc , ccrcc , ccttc , cctrc , ccrrc , CTCTC , CTCRC , CRCRC , CRCLC , CTTTC , CTTRC , CTRRC , CRRRC </td>
+    <td> cctcc, ccrcc, ccttc, cctrc, ccrrc, CTCTC, CTCRC, CRCRC, CRCLC, CTTTC, CTTRC, CTRRC, CRRRC </td>
     <td><a href="../documents/counting/c..c_length5.txt" download>results</a></td></tr>         
  
   <tr><td> 6 </td>
     <td> 24 </td>
     <td> 8 </td>
     <td> 2 </td>
-    <td> cctctc , cctcrc , ccrctc , ccrcrc , ccrclc , ccttcc , cctrcc , ccrrcc , cctttc , ccttrc , cctrrc , ccrrrc , ctcctc , ctccrc , crccrc , crcclc , CTCTTC , CTCTRC , CTCRRC , CRCRRC , CRCLLC , CTTCRC , CTRCRC , CTRCLC </td>
+    <td> cctctc, cctcrc, ccrctc, ccrcrc, ccrclc, ccttcc, cctrcc, ccrrcc, cctttc, ccttrc, cctrrc, ccrrrc, ctcctc, ctccrc, crccrc, crcclc, CTCTTC, CTCTRC, CTCRRC, CRCRRC, CRCLLC, CTTCRC, CTRCRC, CTRCLC </td>
     <td><a href="../documents/counting/c..c_length6.txt" download>results</a></td></tr>
   
   <tr><td> 7 </td>
@@ -142,8 +142,8 @@ Please note: the following list consists of words starting and ending with "C". 
 ### Twists between stitches
 
 Between every two stitches, zero, one or more twists can be made. Examples:
-* CRC : CRCT , CRCR , CRCL , CRCTT , CRCTR , CRCTL , CRCRR , CRCLL , CRCTTT , CRCTTR , CRCTRR , CRCRRR , ...
-* CTCTC : CTCTCT , CTCTCR , CTCTCTT , CTCTCTR , CTCTCRR , CTCTCTTT , CTCTCTTR , CTCTCTRR , CTCTCRRR , ...         
+* CRC : CRCT, CRCR, CRCL, CRCTT, CRCTR, CRCTL, CRCRR, CRCLL, CRCTTT, CRCTTR, CRCTRR, CRCRRR, ...
+* CTCTC : CTCTCT, CTCTCR, CTCTCTT, CTCTCTR, CTCTCRR, CTCTCTTT, CTCTCTTR, CTCTCTRR, CTCTCRRR, ...         
  
 ## Method used
 
@@ -159,16 +159,16 @@ Between every two stitches, zero, one or more twists can be made. Examples:
 
 1. Every word must start with a “C”.
 2. Every word must end with a "C". 
-3. Every word of length greater than two must contain at least one symbol of the set { T , R , L }.    
-4. For a consecutive sequence of the symbols { T , R , L } in a word, if the sequence contains an “R”, it cannot contain an “L”. Similarly, if the sequence contains an “L”, it cannot contain an “R”.
-5. For a consecutive sequence of the symbols { T , R , L }, the sequence must be arranged in least lexicographical order: “T” &lt; “R” &lt; “L”. (This gives a canonical form. Lexicographical order, which is like alphabetical order, puts all of the symbols in a consistent order so that strings like rtrr, rrtr, trrr and rrtr, when sorted, are all the same, i.e. trrr.)
-6. A word (represented by "b") and its mirrored versions ("d", "p" and "q") are treated as equivalent and only counted once. The canonical form of the word is the lexicographically least variant of its b, d, p and q forms. For example, the words ccrclc , cclcrc , crclcc, and clcrcc are all related by mirror reflections so they count as one unique word which is represented in our list by the canonical form ccrclc. Consequence: in the canonical form, the first occurrence of a symbol from { R , L } must be an "R".      
+3. Every word of length greater than two must contain at least one symbol of the set { T, R, L }.    
+4. For a consecutive sequence of the symbols { T, R, L } in a word, if the sequence contains an “R”, it cannot contain an “L”. Similarly, if the sequence contains an “L”, it cannot contain an “R”.
+5. For a consecutive sequence of the symbols { T, R, L }, the sequence must be arranged in least lexicographical order: “T” &lt; “R” &lt; “L”. (This gives a canonical form. Lexicographical order, which is like alphabetical order, puts all of the symbols in a consistent order so that strings like rtrr, rrtr, trrr and rrtr, when sorted, are all the same, i.e. trrr.)
+6. A word (represented by "b") and its mirrored versions ("d", "p" and "q") are treated as equivalent and only counted once. The canonical form of the word is the lexicographically least variant of its b, d, p and q forms. For example, the words ccrclc, cclcrc, crclcc, and clcrcc are all related by mirror reflections so they count as one unique word which is represented in our list by the canonical form ccrclc. Consequence: in the canonical form, the first occurrence of a symbol from { R, L } must be an "R".      
 
 ### Limitations
 
 1. We consider words up to a maximal length of 13 symbols.
 2. The number of consecutive symbols from { C } in a word is limited to two.
-3. The number of consecutive symbols from { T , R , L } in a word is limited to three.
+3. The number of consecutive symbols from { T, R, L } in a word is limited to three.
 
 ### How to make mirrored words  
 
@@ -191,7 +191,7 @@ a. Apply mirror b &rArr; d
 b. Apply mirror d &rArr; q       
 c. Apply mirror q &rArr; p                   
 
-> CTRCLC , CTLCRC , CLCTRC , CRCTLC   
+> CTRCLC, CTLCRC, CLCTRC, CRCTLC   
 
 #### Internal symmetry
 
@@ -207,30 +207,30 @@ As examples we use words of length 6 (but not the complete set).
 
 ### Notations and short notations
 
-Let A = { a , b , c }; B = { p , q , r }  
-1. A &otimes; B = { a , b , c } &otimes; { p , q , r }. This means: make all combinations using all the symbols in the first set and combine them with all the symbols in the second set. This gives a new set: { ap , aq , ar , bp , bq , br , cp , cq , cr }. A word is one of these combinations. Please note: do not change the order. In this example, “ra” is not a valid word.       
-2. Short notation: AB means: A &otimes; B; pA means: { p } &otimes; A (result: { pa , pb , pc }).   
+Let &#x1D4D0; = { a, b, c }; and &#x1D4D1; = { p, q, r }  
+1. &#x1D4D0; &otimes; &#x1D4D1; = { a, b, c } &otimes; { p, q, r }. This means: make all combinations using all the symbols in the first set and combine them with all the symbols in the second set. This gives a new set: { ap, aq, ar, bp, bq, br, cp, cq, cr }. A word is one of these combinations. Please note: do not change the order. In this example, “ra” is not a valid word.       
+2. Short notation: &#x1D4D0;&#x1D4D1; means &#x1D4D0; &otimes; &#x1D4D1; and p&#x1D4D0; means { p } &otimes; &#x1D4D0; = { pa, pb, pc }.   
 
 ### Defining sets
 n : the length of the words we are counting     
-C<sub>all</sub> = { c , cc }     
+&#x1D4D2;<sub>all</sub> = { c, cc }     
 
-T<sub>1</sub> = { t , r , l }     
-T<sub>2</sub> = { tt , tr , tl , rr , ll }     
-T<sub>3</sub> = { ttt , ttr , ttl , trr , tll , rrr , lll }    
-Please note: T<sub>3</sub> = tT<sub>2</sub> &cup; { rrr , lll }    
-T<sub>all</sub> = T<sub>1</sub> &cup; T<sub>2</sub> &cup; T<sub>3</sub>    
+&#x1D4E3;<sub>1</sub> = { t, r, l }     
+&#x1D4E3;<sub>2</sub> = { tt, tr, tl, rr, ll }     
+&#x1D4E3;<sub>3</sub> = { ttt, ttr, ttl, trr, tll, rrr, lll }    
+Please note: &#x1D4E3;<sub>3</sub> = t&#x1D4E3;<sub>2</sub> &cup; { rrr, lll }    
+&#x1D4E3;<sub>all</sub> = &#x1D4E3;<sub>1</sub> &cup; &#x1D4E3;<sub>2</sub> &cup; &#x1D4E3;<sub>3</sub>    
 
 To apply rule 6, we add extra base sets that do not include l's or series of only t's.     
-B<sub>1</sub> = { r }			  
-B<sub>2</sub> = { tr , rr } 		   
-B<sub>3</sub> = { ttr , trr , rrr }		       
+&#x1D4D1;<sub>1</sub> = { r }			  
+&#x1D4D1;<sub>2</sub> = { tr, rr } 		   
+&#x1D4D1;<sub>3</sub> = { ttr, trr, rrr }		       
 
 ### Word forming
 
-A word is a formed by choosing symbols alternately from C<sub>all</sub> and T<sub>all</sub>, ending with a symbol from C<sub>all</sub>. Valid words before applying rule 6 are elements from sets like:     
-C<sub>all</sub> &otimes; T<sub>all</sub> &otimes; C<sub>all</sub>           
-C<sub>all</sub> &otimes; T<sub>all</sub> &otimes; C<sub>all</sub> &otimes; T<sub>all</sub> &otimes; C<sub>all</sub>       
+A word is a formed by choosing symbols alternately from &#x1D4D2;<sub>all</sub> and &#x1D4E3;<sub>all</sub>, ending with a symbol from &#x1D4D2;<sub>all</sub>. Valid words before applying rule 6 are elements from sets like:     
+&#x1D4D2;<sub>all</sub> &otimes; &#x1D4E3;<sub>all</sub> &otimes; &#x1D4D2;<sub>all</sub>           
+&#x1D4D2;<sub>all</sub> &otimes; &#x1D4E3;<sub>all</sub> &otimes; &#x1D4D2;<sub>all</sub> &otimes; &#x1D4E3;<sub>all</sub> &otimes; &#x1D4D2;<sub>all</sub>       
 
 For the examples we use n = 6.
 
@@ -238,74 +238,74 @@ For the examples we use n = 6.
 
 a. List all number 1, 2, ..., 2<sup>(n-2)</sup>        
 
-> 1, 2, ... , 16           
+> 1, 2, ..., 16           
 
 b. Replace all numbers with their binary representation, length (n - 2)          
 
-> 0001, 0010, ... , 1111     
+> 0001, 0010, ..., 1111     
   
 c. Place "0" on front and back of each word    
   
-> 000010, 000100, ... , 011110  
+> 000010, 000100, ..., 011110  
 
-d. Replace all "0" with "c", all "1" with "T<sub>1</sub>"             
+d. Replace all "0" with "c", all "1" with "&#x1D4E3;<sub>1</sub>"             
 
-> ccccT<sub>1</sub>c , cccT<sub>1</sub>cc , ... , cT<sub>1</sub>T<sub>1</sub>T<sub>1</sub>T<sub>1</sub>c         
+> cccc&#x1D4E3;<sub>1</sub>c, ccc&#x1D4E3;<sub>1</sub>cc, ..., c&#x1D4E3;<sub>1</sub>&#x1D4E3;<sub>1</sub>&#x1D4E3;<sub>1</sub>&#x1D4E3;<sub>1</sub>c         
   
-e. Remove all words with more than two consecutive "c". Remove all words with more than three consecutive "T<sub>1</sub>"    
+e. Remove all words with more than two consecutive "c". Remove all words with more than three consecutive "&#x1D4E3;<sub>1</sub>"    
 
-> ... , ccT<sub>1</sub>T<sub>1</sub>T<sub>1</sub>c , cT<sub>1</sub>ccT<sub>1</sub>c , cT<sub>1</sub>cT<sub>1</sub>T<sub>1</sub>c , cT<sub>1</sub>T<sub>1</sub>cT<sub>1</sub>c  , ...                  
+> ..., cc&#x1D4E3;<sub>1</sub>&#x1D4E3;<sub>1</sub>&#x1D4E3;<sub>1</sub>c, c&#x1D4E3;<sub>1</sub>cc&#x1D4E3;<sub>1</sub>c, c&#x1D4E3;<sub>1</sub>c&#x1D4E3;<sub>1</sub>&#x1D4E3;<sub>1</sub>c, c&#x1D4E3;<sub>1</sub>&#x1D4E3;<sub>1</sub>c&#x1D4E3;<sub>1</sub>c, ...                  
 
 #### Step 2: Avoid words b where b = d  
 
-For examples we use the following proto-words: ccT<sub>1</sub>T<sub>1</sub>T<sub>1</sub>c , cT<sub>1</sub>ccT<sub>1</sub>c , cT<sub>1</sub>cT<sub>1</sub>T<sub>1</sub>c , cT<sub>1</sub>T<sub>1</sub>cT<sub>1</sub>c    
+For examples we use the following proto-words: cc&#x1D4E3;<sub>1</sub>&#x1D4E3;<sub>1</sub>&#x1D4E3;<sub>1</sub>c, c&#x1D4E3;<sub>1</sub>cc&#x1D4E3;<sub>1</sub>c, c&#x1D4E3;<sub>1</sub>c&#x1D4E3;<sub>1</sub>&#x1D4E3;<sub>1</sub>c, c&#x1D4E3;<sub>1</sub>&#x1D4E3;<sub>1</sub>c&#x1D4E3;<sub>1</sub>c    
 
 a. First make words with all "t"                    
-b. Replace T<sub>1</sub> with D<sub>i</sub> in proto-word set (to be specified later)                
+b. Replace &#x1D4E3;<sub>1</sub> with &#x1D4D3;<sub>i</sub> in proto-word set (to be specified later)                
 
-> cctttc , ccD<sub>3</sub>c     
-> ctcctc , cD<sub>1</sub>ccD<sub>1</sub>c   
-> ctcttc , cD<sub>1</sub>cD<sub>2</sub>c   
-> cttctc , cD<sub>2</sub>cD<sub>1</sub>c 
+> cctttc, cc&#x1D4D3;<sub>3</sub>c     
+> ctcctc, c&#x1D4D3;<sub>1</sub>cc&#x1D4D3;<sub>1</sub>c   
+> ctcttc, c&#x1D4D3;<sub>1</sub>c&#x1D4D3;<sub>2</sub>c   
+> cttctc, c&#x1D4D3;<sub>2</sub>c&#x1D4D3;<sub>1</sub>c 
            
-c. Only one of the D-sets in the proto-word is the set with the first "r" in the word. Call this set "B", leading to more proto-words    
+c. Only one of the &#x1D4D3;-sets in the proto-word is the set with the first "r" in the word. Call this set "&#x1D4D1;", leading to more proto-words    
 
-> cctttc , ccB<sub>3</sub>c     
-> ctcctc , cB<sub>1</sub>ccD<sub>1</sub>c , cD<sub>1</sub>ccB<sub>1</sub>c     
-> ctcttc , cB<sub>1</sub>cD<sub>2</sub>c , cD<sub>1</sub>cB<sub>2</sub>c     
-> cttctc , cB<sub>2</sub>cD<sub>1</sub>c , cD<sub>2</sub>cB<sub>1</sub>c     
+> cctttc, cc&#x1D4D1;<sub>3</sub>c     
+> ctcctc, c&#x1D4D1;<sub>1</sub>cc&#x1D4D3;<sub>1</sub>c, c&#x1D4D3;<sub>1</sub>cc&#x1D4D1;<sub>1</sub>c     
+> ctcttc, c&#x1D4D1;<sub>1</sub>c&#x1D4D3;<sub>2</sub>c, c&#x1D4D3;<sub>1</sub>c&#x1D4D1;<sub>2</sub>c     
+> cttctc, c&#x1D4D1;<sub>2</sub>c&#x1D4D3;<sub>1</sub>c, c&#x1D4D3;<sub>2</sub>c&#x1D4D1;<sub>1</sub>c     
           
-d. All D before a B must be all t's. Replace with t      
-e. No limits for D after B. Replace with T<sub>i</sub>.     
+d. All &#x1D4D3; before a &#x1D4D1; must be all t's. Replace with t      
+e. No limits for &#x1D4D3; after &#x1D4D1;. Replace with &#x1D4E3;<sub>i</sub>.     
 
-> cctttc , ccB<sub>3</sub>c     
-> ctcctc , cB<sub>1</sub>ccT<sub>1</sub>c , ctccB<sub>1</sub>c     
-> ctcttc , cB<sub>1</sub>cT<sub>2</sub>c , ctcB<sub>2</sub>c     
-> cttctc , cB<sub>2</sub>cT<sub>1</sub>c , cttcB<sub>1</sub>c        
+> cctttc, cc&#x1D4D1;<sub>3</sub>c     
+> ctcctc, c&#x1D4D1;<sub>1</sub>cc&#x1D4E3;<sub>1</sub>c, ctcc&#x1D4D1;<sub>1</sub>c     
+> ctcttc, c&#x1D4D1;<sub>1</sub>c&#x1D4E3;<sub>2</sub>c, ctc&#x1D4D1;<sub>2</sub>c     
+> cttctc, c&#x1D4D1;<sub>2</sub>c&#x1D4E3;<sub>1</sub>c, cttc&#x1D4D1;<sub>1</sub>c        
 
-f. Solve T and B, giving the words we are looking for     
+f. Solve &#x1D4E3; and &#x1D4D1;, giving the words we are looking for     
 
-> cctttc , ccttrc , cctrrc , ccrrrc     
-> ctcctc , crcctc , crccrc , crcclc , ctccrc   
-> ctcttc , crcttc , crctrc , crctlc , crcrrc , crcllc , ctctrc , ctcrrc   
-> cttctc , ctrctc , ctrcrc , ctrclc , crrctc , crrcrc , crrclc , cttcrc   
+> cctttc, ccttrc, cctrrc, ccrrrc     
+> ctcctc, crcctc, crccrc, crcclc, ctccrc   
+> ctcttc, crcttc, crctrc, crctlc, crcrrc, crcllc, ctctrc, ctcrrc   
+> cttctc, ctrctc, ctrcrc, ctrclc, crrctc, crrcrc, crrclc, cttcrc   
 
 g. If a word contains "cc", write in lowercase. If a word does not contain "cc", write in captitals.
 
-> cctttc , ccttrc , cctrrc , ccrrrc     
-> ctcctc , crcctc , crccrc , crcclc , ctccrc   
-> CTCTTC , CRCTTC , CRCTRC , CRCTLC , CRCRRC , CRCLLC , CTCTRC , CTCRRC   
-> CTTCTC , CTRCTC , CTRCRC , CTRCLC , CRRCTC , CRRCRC , CRRCLC , CTTCRC
+> cctttc, ccttrc, cctrrc, ccrrrc     
+> ctcctc, crcctc, crccrc, crcclc, ctccrc   
+> CTCTTC, CRCTTC, CRCTRC, CRCTLC, CRCRRC, CRCLLC, CTCTRC, CTCRRC   
+> CTTCTC, CTRCTC, CTRCRC, CTRCLC, CRRCTC, CRRCRC, CRRCLC, CTTCRC
 
 #### Step 3: Finding words b where b = p
 
 a. For each word b found in step 2, make a quartet of words (see above)    
 
-> b = CRCTLC , p = CTLCRC , d = CLCTRC , q = CTRCLC       
+> b = CRCTLC, p = CTLCRC, d = CLCTRC, q = CTRCLC       
 
 b. Keep the lexicographycally lowest word     
 
-> b = CRCTLC , p = CTLCRC , d = CLCTRC , q = <u>CTRCLC</u>. Word CTRCLC (q) is the lowest, and is kept.      
+> b = CRCTLC, p = CTLCRC, d = CLCTRC, q = <u>CTRCLC</u>. Word CTRCLC (q) is the lowest, and is kept.      
 
 #### Step 4: check for doubles    
 
