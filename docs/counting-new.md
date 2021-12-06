@@ -192,7 +192,7 @@ Between every two stitches, zero, one or more twists can be made. Examples:
 ### How to make mirrored words  
 ![][p-mirror]
 
-[p-mirror]: ../inages/counting/mirrors.png?aling=left
+[p-mirror]: ../images/counting/mirrors.png?aling=left
 
 #### Mirrored representation: b &hArr; d, p &hArr; q
     
