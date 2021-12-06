@@ -64,7 +64,7 @@ Please note: the following list consists of words starting and ending with "C". 
     <td> 2 </td>
     <td> 2 </td>
     <td> 1 </td>
-    <td> CTC, CRC </td>  
+    <td> <a href="/GroundForge/nets?b=ctc">ctc</a>, CRC </td>  
     <td><a href="../documents/counting/c..c_length3.txt" download>results</a></td></tr>      
     
   <tr><td> 4 </td>
