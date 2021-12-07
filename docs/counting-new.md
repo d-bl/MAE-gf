@@ -197,13 +197,14 @@ Between every two stitches, zero, one or more twists can be made. Examples:
     
 a. Replace all R in the word with L and all L with R               
 
-> CTRCTLC &rArr; CTLCTRC 
+> CTCRC &rArr; CTCLC    
   
 #### Mirrored representation: b &hArr; p, d &hArr; q     
 
 a. Read word backwards       
 b. Re-order twist groups: T &lt; R &lt; L          
 
+> CTCRC &rArr; CRCTC    
 > CTRCTLC &rArr; CLTCRTC &rArr; CTLCTRC    
 
 #### How to make the quartet of words  
@@ -212,15 +213,16 @@ a. Apply mirror b &rArr; d
 b. Apply mirror d &rArr; q       
 c. Apply mirror q &rArr; p                   
 
-> CTRCLC, CTLCRC, CLCTRC, CRCTLC   
+> CTCRC &rArr; CTCLC &rArr; CLCTC &rArr; CRCTC      
+> CTRCLC &rArr; CTLCRC &rArr; CLCTRC &rArr; CRCTLC   
 
 #### Internal symmetry
 
 ![][p-mirror-int]
 
-The mirrored representations of word b and d are identical if b has no left or right twist actions (only T, no R and no L).              
-The mirrored representations of word b and p are identical if b is a palindrome.           
-All mirrored representations d, q and p of word b are identical if b has no left or right twist and is a palindrome.            
+The mirrored representations of word b and d are identical if b has no left or right twist actions (only T, no R and no L). b=d in the picture above.                
+The mirrored representations of word b and p are identical if b is a palindrome. b=p in the picture above.             
+All mirrored representations d, q and p of word b are identical if b has no left or right twist and is a palindrome. b=d=p=q in the picture above.      
 
 [p-mirror-ext]: ../images/counting/ext-symm.png?aling=left
 [p-mirror-int]: ../images/counting/int-symm.png?aling=left
