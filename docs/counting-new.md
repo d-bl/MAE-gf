@@ -22,7 +22,7 @@ title: counting
 ## Introduction
 
 A stitch is made by crossing and twisting two pairs of bobbins. With “twist” we mean: twist both pairs, twist right pair, or twist left pair. We can abbreviate this with "C" (cross), "T" (twist both pairs), "R" (twist right pair) and "L" (twist left pair). For listing and counting stitches we consider only stitches that start and end with a cross. Twists before the first cross and after the last are viewed as actions between stitches.        
-Please note: a consequence is that CT and CTCT are not mentioned in our list.    
+Please note: CT is represented in our list as C with a twist on both pairs between stitches. Similarly, CTC and CTCT are both represented as CTC in our list, where CTCT has a twist on each pair between stitches and CTC does not.        
 
 A stitch can be described by a <u>word</u> formed from the symbols "C", "L", "R", "T". These words have to obey certain rules. These rules come from observing examples of real lace, and from some limits we set ourselves in this document.    
 To help us count and catalogue the words representing stitches, the symbols are ordered: "C" before "T", "T" before "R", "R" before "L".            
@@ -190,9 +190,8 @@ Between every two stitches, zero, one or more twists can be made. Examples:
 3. The number of consecutive symbols from { T, R, L } in a word is limited to three.
 
 ### How to make mirrored words  
-![][p-mirror]
 
-[p-mirror]: ../images/counting/mirrors.png?aling=left
+![][p-mirror-ext]
 
 #### Mirrored representation: b &hArr; d, p &hArr; q
     
@@ -217,9 +216,14 @@ c. Apply mirror q &rArr; p
 
 #### Internal symmetry
 
+![][p-mirror-int]
+
 The mirrored representations of word b and d are identical if b has no left or right twist actions (only T, no R and no L).              
 The mirrored representations of word b and p are identical if b is a palindrome.           
 All mirrored representations d, q and p of word b are identical if b has no left or right twist and is a palindrome.            
+
+[p-mirror-ext]: ../images/counting/ext-symm.png?aling=left
+[p-mirror-int]: ../images/counting/int-symm.png?aling=left
 
 ## Listing and counting
 
