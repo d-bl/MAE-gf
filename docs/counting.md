@@ -10,6 +10,7 @@ title: counting
 * [Introduction](#introduction)
 * [Results](#results)
 * [Method used](#method-used)
+* [How to make mirrored words](#how-to-make-mirrored-words)
 * [Listing and counting](#listing-and-counting)
 
 {% include p-l-c.html
@@ -189,17 +190,17 @@ Between every two stitches, zero, one or more twists can be made. Examples:
 2. The number of consecutive symbols from { C } in a word is limited to two.
 3. The number of consecutive symbols from { T, R, L } in a word is limited to three.
 
-### How to make mirrored words  
+## How to make mirrored words  
 
 ![][p-mirror-ext]
 
-#### Mirrored representation: b &hArr; d, p &hArr; q
+### Mirrored representation: b &hArr; d, p &hArr; q
     
 a. Replace all R in the word with L and all L with R               
 
 > CTCRC &rArr; CTCLC    
   
-#### Mirrored representation: b &hArr; p, d &hArr; q     
+### Mirrored representation: b &hArr; p, d &hArr; q     
 
 a. Read word backwards       
 b. Re-order twist groups: T &lt; R &lt; L          
@@ -207,7 +208,7 @@ b. Re-order twist groups: T &lt; R &lt; L
 > CTCRC &rArr; CRCTC    
 > CTRCTLC &rArr; CLTCRTC &rArr; CTLCTRC    
 
-#### How to make the quartet of words  
+### How to make the quartet of words  
 
 a. Apply mirror b &rArr; d                       
 b. Apply mirror d &rArr; q       
@@ -216,7 +217,7 @@ c. Apply mirror q &rArr; p
 > CTCRC &rArr; CTCLC &rArr; CLCTC &rArr; CRCTC      
 > CTRCLC &rArr; CTLCRC &rArr; CLCTRC &rArr; CRCTLC   
 
-#### Internal symmetry
+### Internal symmetry
 
 ![][p-mirror-int]
 
