@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Paris Grounds
+title: Paris grounds
 ---
 
 # Paris grounds
