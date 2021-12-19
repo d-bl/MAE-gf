@@ -1,6 +1,6 @@
 ---
 layout: default
-title: making variants
+title: Making variants
 ---
 
 # Making variants
