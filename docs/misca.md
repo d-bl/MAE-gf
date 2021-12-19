@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Miscellaneous
+title: Miscellaneous examples
 ---
 
 # Miscellaneous examples
