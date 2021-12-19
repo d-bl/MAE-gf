@@ -1,6 +1,6 @@
 ---
 layout: default
-title: stitches
+title: Catalogue of stitches
 ---
 
 # Catalogue of stitches
