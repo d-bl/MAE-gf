@@ -1,13 +1,13 @@
 ---
 layout: default
-title: notes
+title: Notes
 ---
 
 # Notes
 
 ## Contents
 * [Ground names](#ground-names)
-* [Stitches](#stitches)
+* [Color code](#color_code)
 * [Diagrams](#diagrams)
 
 ## Ground names
@@ -27,7 +27,7 @@ We have learned, that the figure on the left is called a [_snowflake_][t-snowfla
 [t-snowflake]: /GroundForge/tiles?patchWidth=16&patchHeight=16&b1=ctc&a2=ctc&c2=ctc&b3=ctcttt&d3=tttctc&a4=ctc&c4=ctc&shiftColsSE=2&shiftRowsSE=4&shiftColsSW=-2&shiftRowsSW=4&tile=-5--,B-C-,-5-5,5-5-
 [t-spider]: /GroundForge/tiles?patchWidth=16&patchHeight=16&b1=ctcctc&a2=ctc&c2=ctc&b3=ctcttt&d3=tttctc&a4=ctc&c4=ctc&shiftColsSE=2&shiftRowsSE=4&shiftColsSW=-2&shiftRowsSW=4&tile=-5--,B-C-,-5-5,5-5-
 
-## Stitches
+## Color code
 ![colours][p-colors]
 Stitches used in the examples on these pages:
 
