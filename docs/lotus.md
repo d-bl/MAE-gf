@@ -1,6 +1,6 @@
 ---
 layout: default
-title: lotus and lattice
+title: Lotus and lattice
 ---
 
 # Lotus &amp; Lattice
