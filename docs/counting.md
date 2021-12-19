@@ -5,6 +5,13 @@ title: Counting stitches
 
 # Listing & counting stitches
 
+{% include p-l-c.html
+  src="/MAE-gf/images/counting/crcl-ctc.jpg"
+  alt="crcl-ctc"
+  lnk="/GroundForge/tiles?patchWidth=12&patchHeight=12&b1=crcl&a1=ctc&b2=ctc&a2=clcr&tile=88,11&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2"
+  title="crcl-ctc"
+%}  
+
 ## Contents
 
 * [Introduction](#introduction)
