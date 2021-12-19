@@ -1,6 +1,6 @@
 ---
 layout: default
-title: counting
+title: Counting stitches
 ---
 
 # Listing & counting stitches
