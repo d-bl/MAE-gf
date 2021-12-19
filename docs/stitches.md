@@ -86,7 +86,7 @@ The samples and photo's are made by S. Babbs. Clicking on the photo shows a larg
   {% include ctrl.html s1="ctctctct" name="double whole stitch" photo="ASN13" %}
   {% include ctrl.html s1="ctcttctc" name="cloth stitch honeycomb turning stitch" %}
   {% include ctrl.html s1="crctclcr" name="two pair honeycomb bias" %}
-  {% include ctrl.html s1="crcllcrc" name="two pair triangluar stitch variant" %}
+  {% include ctrl.html s1="crcllcrc" name="two pair triangular stitch variant" %}
   
   {% include cctt.html subheader="nine and more" %}
   
