@@ -1,7 +1,6 @@
 ---
 layout: default
-title: buildings
-status: not used 
+title: Buildings
 ---
 
 ## Fish building.
