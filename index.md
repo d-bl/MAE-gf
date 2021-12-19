@@ -1,5 +1,12 @@
 # Start page
 
+{% include p-l-c.html
+  src="/MAE-gf/images/counting/IMG_1039_SP.jpg"
+  alt="Meander"
+  lnk="/GroundForge/tiles?patchWidth=6&patchHeight=12&h1=-&c1=clcr&b1=crcl&a1=rctctctctt&h2=lctctctctt&c2=clcr&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2"
+  title="Meander"
+%}  
+
 ## Contents
 * [Introduction](#introduction)
 * [How to use these pages](#how-to-use-these-pages)
@@ -14,15 +21,6 @@ All examples are links to the Groundforge main page. Just follow the link. If a 
 
 The examples use pair-diagrams in the styled version (_matrix-scheme_) that Groundforge understands.
 Most of the patterns also have a scheme in the TesseLace index. Some, as the spiders and the larger fishes, don't.
-
-{% include p-l-c.html
-  src="/MAE-gf/images/ind/D1211.png"
-  alt="some nice ground"
-  lnk="/GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctct&b1=ct&d1=ct&a2=ct&c2=ct&shiftColsSE=3&shiftRowsSE=1&shiftColsSW=-4&shiftRowsSW=1&tile=88-1,4-58"
-  title="bias snowflake"
-%}  
-
-[t-1211]: /GroundForge/tiles?patchWidth=16&patchHeight=16&a1=ctct&b1=ct&d1=ct&a2=ct&c2=ct&shiftColsSE=3&shiftRowsSE=1&shiftColsSW=-4&shiftRowsSW=1&tile=88-1,4-58
 
 ***
 [&uArr;]()
