@@ -1,6 +1,6 @@
 ---
 layout: default
-contact: true
+title: Literature
 ---
 # Contributors, literature
 
