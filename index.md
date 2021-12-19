@@ -10,8 +10,6 @@
 ## Contents
 * [Introduction](#introduction)
 * [How to use these pages](#how-to-use-these-pages)
-* [Contact](#contact)
-* [Disclaimer](#disclaimer)
 
 ## Introduction
 On this website you will find pages with additional patterns for use in Groundforge, a web application made by [Jo Pol][gf-jo]. Given are the parameter-section and stitches, although not always traditional.    
