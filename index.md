@@ -15,14 +15,6 @@ All examples are links to the Groundforge main page. Just follow the link. If a 
 The examples use pair-diagrams in the styled version (_matrix-scheme_) that Groundforge understands.
 Most of the patterns also have a scheme in the TesseLace index. Some, as the spiders and the larger fishes, don't.
 
-## Contact
-You will find our email-adress on the [_About us_][aboutus] page.
-
-## Disclaimer
-All links worked when created. Due to work on the Groundforge coding, there may be hiccups. 
-
-English is not my native language, so please forgive me any mistakes.
-
 {% include p-l-c.html
   src="/MAE-gf/images/ind/D1211.png"
   alt="some nice ground"
