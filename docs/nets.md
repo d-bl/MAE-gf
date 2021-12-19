@@ -55,6 +55,11 @@ Or, not alternating:
 More examples:     
 * [example 2-1][t-OO-12], [another example][t-OO-12a]
 
+### Knitting
+
+The following examples look like a knitwork.   
+* [example 1][t-brei1],  [example 2][t-brei2],  [&amp;-ground][t-amp]    
+
 [p-net1a]: ../images/nets/net1a.png "vertical alternating ground"
 [p-net1b]: ../images/nets/net1b.png "horizontal alternating ground"
 [p-net1c]: ../images/nets/net1c.png "alternating ground"
@@ -70,6 +75,10 @@ More examples:
 [t-OO-12A]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&b1=ct&c1=ct&a2=ctct&b2=ctct&c2=ctct&tile=888,111&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=3&shiftRowsSE=2
 
 [t-cha]: /GroundForge/tiles?patchWidth=6&patchHeight=12&h1=-&c1=clcr&b1=crcl&a1=rctctctctt&h2=lctctctctt&c2=clcr&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+
+[t-brei1]: /GroundForge/tiles?patchWidth=7&patchHeight=9&i1=ctct&b1=rcl&b2=lcr&a2=ctct&footside=x,4&tile=1,8&headside=7,x&footsideStitch=ctct&tileStitch=ctc&headsideStitch=ctct&shiftColsSW=1&shiftRowsSW=0&shiftColsSE=0&shiftRowsSE=2
+[t-brei2]: /GroundForge/tiles?patchWidth=7&patchHeight=9&i1=ctct&b1=rccl&b2=lccr&a2=ctct&footside=x,4&tile=1,8&headside=7,x&footsideStitch=ctct&tileStitch=ctc&headsideStitch=ctct&shiftColsSW=1&shiftRowsSW=0&shiftColsSE=0&shiftRowsSE=2
+[t-amp]: /GroundForge/tiles?patchWidth=8&patchHeight=8&a1=crctclcr&a2=clctcrcl&tile=1,8&tileStitch=ctc&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
 
 ## Diagonal net
 
