@@ -15,7 +15,7 @@ Lotus grounds are usualy used in small braids, typically 14-18 pairs of bobbins.
 The grounds consists of a number of rows with two or more cloth stitches followed with a changing number of twists in the weaver. Lotus starts with a cloth stitch, and ends with a cloth stitch with the neighbouring petal. In between the lotus-rows, zero, one ore more rows with e.g. half stitch, pin, half stitch are made.        
 If the end is made with the same pairs as the start, the ground is called [_Fish_][fish-page].     
 
-Please note: some of the examples below are known als _Lattice_.          
+Please note: some of the examples below are known als _Lattice_.           
 
 Please note: if a lotus has an odd number of horizontal, like H3, the weavers change direction at the next set of lotus. This is not shown in the matrices used for the examples.
 
