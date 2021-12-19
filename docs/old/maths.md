@@ -1,7 +1,6 @@
 ---
 layout: default
-title: mathematics
-style: not used at the moment
+title: Mathematics
 ---
 
 # Mathematics
