@@ -1,6 +1,6 @@
 ---
 layout: default
-title: rose grounds
+title: Rose grounds
 ---
 
 # Rose grounds
