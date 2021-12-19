@@ -1,6 +1,5 @@
 ---
 layout: default
-contact: true
 title: about us
 ---
 # About us &amp; Contact
@@ -42,11 +41,7 @@ Lace diagrams and grids became exercise subjects to master new programming skill
 It works in both directions. Slowly I acquired the skills to grow the exercises into something useful.
 I'm happy to share the results with you.
 
-## Write us
-If you have suggestions, questions, want to share your own finds, or other remarks: please let us know. We can read Dutch, English, German. You can <script>send("slepmet ea.nairam")</script>, or join us on our [forum].   
-
 ***
 [&uArr;]()
 
-[forum]: https://groups.io/g/GroundForge/topics
 
