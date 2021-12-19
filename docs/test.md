@@ -1,6 +1,5 @@
 ---
 layout: default
-contact: true
 title: test
 purpose: test only
 ---
