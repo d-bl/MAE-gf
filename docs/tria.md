@@ -1,6 +1,6 @@
 ---
 layout: default
-title: triangular grounds (pagoda ground)
+title: Triangular grounds (Pagoda grounds)
 ---
 
 # Triangular Grounds or Pagoda's
