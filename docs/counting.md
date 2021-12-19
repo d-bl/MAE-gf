@@ -13,13 +13,6 @@ title: Counting stitches
 * [How to make mirrored words](#how-to-make-mirrored-words)
 * [Listing and counting](#listing-and-counting)
 
-{% include p-l-c.html
-  src="/MAE-gf/images/counting/IMG_1039_SP.jpg"
-  alt="Meander"
-  lnk="/GroundForge/tiles?patchWidth=6&patchHeight=12&h1=-&c1=clcr&b1=crcl&a1=rctctctctt&h2=lctctctctt&c2=clcr&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2"
-  title="Meander"
-%}  
-
 ## Introduction
 
 A stitch is made by crossing and twisting two pairs of bobbins. With “twist” we mean: twist both pairs, twist right pair, or twist left pair. We can abbreviate this with "C" (cross), "T" (twist both pairs), "R" (twist right pair) and "L" (twist left pair). For listing and counting stitches we consider only stitches that start and end with a cross. Twists before the first cross and after the last are viewed as actions between stitches.        
