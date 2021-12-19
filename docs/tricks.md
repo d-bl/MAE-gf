@@ -7,7 +7,7 @@ title: Notes
 
 ## Contents
 * [Ground names](#ground-names)
-* [Color code](#color_code)
+* [Color code](#color-code)
 * [Diagrams](#diagrams)
 
 ## Ground names
