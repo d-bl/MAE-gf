@@ -1,12 +1,11 @@
 ---
 layout: default
-title: about us
+title: About us
 ---
 # About us &amp; Contact
 ## Contents
 * [Marian Tempels](#marian-tempels)
 * [Jo Pol](#jo-pol)
-* [Write us](#write-us)
 
 ## Marian Tempels
 
