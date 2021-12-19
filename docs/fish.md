@@ -1,6 +1,6 @@
 ---
 layout: default
-title: fish
+title: Fish
 ---
 
 # Fish
