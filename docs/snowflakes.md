@@ -1,6 +1,6 @@
 ---
 layout: default
-title: snowflakes
+title: Snowflakes
 ---
 
 # Snowflakes
