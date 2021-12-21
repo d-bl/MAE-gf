@@ -6,6 +6,7 @@ title: Droste
 # Droste
 
 ## Contents
+
 * [Introduction](#introduction)
 * [Fish](#fish)
 * [Wobble](#wobble)
@@ -13,6 +14,7 @@ title: Droste
 * [More examples](#more-examples)
 
 ## Introduction
+
 On this page, several grounds are made with the "Droste-effect": reuse thread diagrams as pair diagrams. Some of these, like "Wobble" can only be made by GroundForge using this technique. 
 
 See the Groundforge help-page [_Droste-effect_][pg-droste] for more information.  
@@ -23,7 +25,8 @@ Some of the examples have forms to make playing easier. Other examples only have
 
 [pg-droste]: /GroundForge-help/Droste-effect
 
-## Fish     
+## Fish
+
 _Double fish B2,S2,W3_ (see page [_fish_][fish-page])
 also can be defined in [two steps][F3-223] using the thread diagram of the first step as pair diagram for the second step. Please replace <span class="elem">cross b102</span> in the thread diagram of step-2 with a <span class="stch">half knot</span> or two to mimic a twisted pair.       
 
@@ -41,9 +44,11 @@ Please note the resemblance of the 3-step fish with the [narrow eyed spider][ne-
 [F3-223]: /GroundForge/tiles.html?patchWidth=6&patchHeight=6&a1=ctc&a2=cr&a3=c&a4=lc&droste2=ctc,a10=a11=ctcrr,a20=a21=a40=ctct,a30=ct,,,,&droste3=ctc,a300=tct,a104=a114=ttctctt,a204=a205=a404=a405=tt,&tile=8,1,8,1,&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=1&shiftRowsSE=4
 
 ## Wobble
+
 This ground uses the thread diagram of alternating <span class="stch">ct/ctct</span> as pair diagram.
 
 ### Pricking
+
 ![w2][p-wobble-2]
 ![w0][p-wobble-0]
 <p style="clear: both"></p>
@@ -62,6 +67,7 @@ After completing the stitches for the second step in the form below, click on th
 {% include wobble.html %}
 
 ## Paris
+
 ![fz][p-fancy-z]
 The [Paris] ground uses the thread diagram of the half stich as pair diagram. Some variations on the Paris ground are in the Whiting index (defined without this Droste technique) A5, A6, B5, A7-H7, G11. 
 
@@ -110,16 +116,15 @@ Mrs. V. Irvine has worked an example using the left pricking. See [_Favourite Fl
 [t-VI-001]: /GroundForge/tiles?patchWidth=30&patchHeight=15&g1=ctc&f1=ctpcl&d1=ctc&b1=ctpcr&a1=ctc&g2=ctpc&e2=ctc&c2=ctc&a2=ctpcl&g3=ctc&f3=ctpcl&d3=ctct&b3=ctpcr&a3=ctc&g4=ctcl&a4=ctcr&g6=ctcl&a6=ctcr&tile=89-k-01,7-5-5-4,1e-5-o8,4-----7,-------,9-----0&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=7&shiftRowsSE=3
 
 ## More examples
+
 ### &quot;&amp;&quot; ground
+
 The following examples use a stitch like <span class="stch">crctclcr</span> in the first step. The first step of example 1 is interesting: every single tread takes the same path!           
 * [example 1][D-LL-1], [example 2][D-LL-2], [example 3][D-LL-3]
-
 
 [D-LL-1]: /GroundForge/tiles?patchWidth=8&patchHeight=8&a1=crctclcr&a2=clctcrcl&droste2=ctct&tile=1,8&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
 [D-LL-2]: /GroundForge/tiles?patchWidth=8&patchHeight=8&a1=crctclcr&droste2=ct,a18=ctct&tile=5-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
 [D-LL-3]: /GroundForge/tiles?patchWidth=8&patchHeight=8&a1=crctclcr&b2=clctcrcl&droste2=ctc,a18=ctct,a16=a17=ctcl,b26=b27=ctcr&tile=5-,-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-
-
 
 ***
 [&uArr;]()
