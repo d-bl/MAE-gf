@@ -45,7 +45,7 @@ For nets with one stitch and its mirrored versions only, see page [_catalogue of
 
 ## Horizontal net
 
-[![p-cha]][t-cha]
+[![p-meander]][t-meander]
 Please note: for most of the horizontal nets, the footsides on the left and right are best made like <span class="stch">rctPctctPctt</span> covering two rows as shown in the picture on the right.
 <p style="clear: both"></p>
 
@@ -55,14 +55,14 @@ Please note: for most of the horizontal nets, the footsides on the left and righ
 [p-net1b]: ../images/nets/net1b.png "horizontal alternating ground"
 [p-net1c]: ../images/nets/net1c.png "alternating ground"
 [p-net1d]: ../images/nets/net1d.png "stripes"
-[p-cha]: ../images/nets/cha.png?align=right "example footsides" 
+[p-meander]: ../images/nets/cha.png?align=right "example footsides" 
 
 [t-net1a]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ct&c1=clcl&b1=ct&a1=clcl&d2=ct&c2=crcr&b2=ct&a2=crcr&d3=ct&c3=clcl&b3=ct&a3=clcl&d4=ct&c4=crcr&b4=ct&a4=crcr&tile=8888,1111,8888,1111&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [t-net1b]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=clc&c1=clc&b1=clc&a1=clc&d2=ct&c2=ct&b2=ct&a2=ct&d3=crc&c3=crc&b3=crc&a3=crc&d4=ct&c4=ct&b4=ct&a4=ct&tile=8888,1111,8888,1111&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [t-net1c]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ct&c1=clcr&b1=ct&a1=clcr&d2=crcl&c2=ct&b2=crcl&a2=ct&d3=ct&c3=clcr&b3=ct&a3=clcr&d4=crcl&c4=ct&b4=crcl&a4=ct&tile=8888,1111,8888,1111&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [t-net1d]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=crcl&c1=ct&b1=ct&a1=ct&d2=ct&c2=ct&b2=ct&a2=ct&d3=ct&c3=ct&b3=clcr&a3=ct&d4=crcl&c4=ct&b4=clcr&a4=ct&tile=8888,1111,8888,1111&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=2
 
-[t-cha]: /GroundForge/tiles?patchWidth=6&patchHeight=12&h1=-&c1=clcr&b1=crcl&a1=rctctctctt&h2=lctctctctt&c2=clcr&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-meander]: /GroundForge/tiles?patchWidth=6&patchHeight=12&h1=-&c1=clcr&b1=crcl&a1=rctctctctt&h2=lctctctctt&c2=clcr&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ### Knitting
 
@@ -75,22 +75,19 @@ The following examples look like a knitwork.
 
 ## Diagonal net
 
-[![p-net2a]][t-net2a]  [![p-net2c]][t-net2c]    
-
-[p-net2a]: ../images/nets/net2a.png "horizontally alternating"
-[p-net2c]: ../images/nets/net2c.png "chaotic ground"
-
-* [mini spider in ring][2-sp-ring], [double crossed tulle in a ring][pf-cc-ring]     
-* [2 eyed cat][pf-2-bias-ring]           
-
+[![p-net2a]][t-net2a]  [![p-net2c]][t-net2c]       
+[![mini spider in ring][p-sp-ring]][t-sp-ring], [![double crossed tulle in a ring][p-cc-ring]][t-cc-ring]           
 
 [t-net2a]: /GroundForge/tiles?patchWidth=12&patchHeight=12&c1=crc&a1=crc&d2=ct&b2=ct&c3=crc&a3=crc&d4=ct&b4=ct&tile=5-5-,-5-5,5-5-,-5-5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 [t-net2c]: /GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ct&a1=clc&d2=ct&b2=clc&tile=5-5-,-5-5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[pf-cc-ring]: /GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ct&a1=ct&d2=ct&b2=cct&c3=ct&a3=ct&d4=cct&b4=ct&tile=5-5-,-5-5,5-5-,-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
-[2-sp-ring]: /GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ctcr&a1=ctcl&d2=ctct&b2=ctctc&c3=ctcl&a3=ctcr&d4=ctctc&b4=ctct&tile=5-5-,-5-5,5-5-,-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[t-cc-ring]: /GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ct&a1=ct&d2=ct&b2=cct&c3=ct&a3=ct&d4=cct&b4=ct&tile=5-5-,-5-5,5-5-,-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[t-sp-ring]: /GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ctcr&a1=ctcl&d2=ctct&b2=ctctc&c3=ctcl&a3=ctcr&d4=ctctc&b4=ctct&tile=5-5-,-5-5,5-5-,-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
-[pf-2-bias-ring]: /GroundForge/tiles?patchWidth=12&patchHeight=12&e1=ctct&c1=crccclct&a1=clcccrct&f2=ctct&d2=ctct&b2=ctct&tile=5-5-5-,-5-5-5&footsideStitch=ctctt&tileStitch=clcrct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=2
+[p-net2a]: ../images/nets/net2a.png "horizontally alternating"
+[p-net2c]: ../images/nets/net2c.png "chaotic ground"
+[p-sp-ring]: ../images/nets/2-sp-ring.png "mini spider in ring"
+[p-cc-ring]: ../images/nets/cc-ring.png "double crossed tulle in ring"
 
 ### Sprang
 
