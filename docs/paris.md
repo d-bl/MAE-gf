@@ -19,7 +19,7 @@ title: Paris grounds
 ## Introduction
 
 ![photo mt-0434][ph-0434] 
-The photo shows the example on the bottom of this page, but slighty adapted to get the colours right. The "middle" stitch is a pin chain (_Stretched Paris ground_).    
+The photo shows the example on the bottom of this page, but slighty adapted to get the colours right. The "middle" stitch is a pin chain (_Stretched Paris ground_).  TEST     
 <p style="clear: both"></p>
 
 [ph-0434]: ../images/paris/f-0434.png?align=right
@@ -89,7 +89,6 @@ This ground is inspired by lace from 's Gravenmoer.
 ### Extension of dropped stitch ground
 
 [![extension dropped stitch][p-ex-drop]][t-ex-drop]
-
 
 [p-ex-big]: ../images/paris/g-extended-big-paris.svg "extended big paris ground"
 [p-ex-drop]: ../images/paris/g-extended-drop-stitch.svg "extended drop stitch ground"
