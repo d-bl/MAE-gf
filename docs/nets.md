@@ -6,6 +6,7 @@ title: Net grounds
 # Net grounds
 
 ## Contents
+
 * [Introduction](#introduction)
 * [Horizontal net](#horizontal-net)
 * [Diagonal net](#diagonal-net)
@@ -139,7 +140,3 @@ This scheme is equal to the [_bias ground_][page-bias].
 
 ***
 [&uArr;]()
-
-
-
-
