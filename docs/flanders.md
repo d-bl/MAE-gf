@@ -18,7 +18,7 @@ created these patches of Flanders grounds, each with another variation of stitch
 
 Lesson learnt: Many types of stitch combinations keep the pairs together or let them follow a straight path.
 You get the most exotic variants, even when working monochrome, with stitches that twist just one of the pairs,
-sadly these patterns are also more error prone. So do keep the generated thread diagram at hand. 
+sadly these patterns are also more error prone. So do keep the generated thread diagram at hand.   
 
 See also [Whiting] A2, B2, B6, C6, C9, [Droste] ctct and [rose ground in a diamond][squared rose] grounds.
 
@@ -96,6 +96,4 @@ Should you notice a photograph that doesn't match the generated thread diagram, 
 
 ***
 [&uArr;]()
-
-
 
