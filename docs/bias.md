@@ -90,7 +90,6 @@ Traditionally, a bias ground is made as follows: make two stitches diagonally, m
 [T-0236-Ld]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&c1=ctcl&a1=ctc&d2=ctcl&b2=ctc&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0254-Kd]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=c&c1=ctcl&a1=ctcl&d2=ctcl&b2=ctcl&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-
 ### examples with two different middle stitches
 
 [![0223-N][P-0223-N]][T-0223-N]
@@ -236,7 +235,4 @@ The one on the left is a bias ground, stretched vertically, as found in the Whit
 
 ***
 [&uArr;]()
-
-
-
 
