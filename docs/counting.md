@@ -161,7 +161,7 @@ Please note: the following list consists of words starting and ending with "C". 
  
 ### Twists between stitches
 
-Between every two stitches, zero, one or more twists can be made. Examples:
+Between every two stitches, zero, one or more twists can be made. Examples: 
 * CRC : CRCT, CRCR, CRCL, CRCTT, CRCTR, CRCTL, CRCRR, CRCLL, CRCTTT, CRCTTR, CRCTRR, CRCRRR, ...
 * CTCTC : CTCTCT, CTCTCR, CTCTCTT, CTCTCTR, CTCTCRR, CTCTCTTT, CTCTCTTR, CTCTCTRR, CTCTCRRR, ...         
  
