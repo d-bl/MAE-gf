@@ -53,8 +53,8 @@ Please note: for most of the horizontal nets, the footsides on the left and righ
 
 [p-net1a]: ../images/nets/net1a.png "vertical alternating ground"
 [p-net1b]: ../images/nets/net1b.png "horizontal alternating ground"
-[p-net1c]: ../images/nets/net1c.png "alternating ground"
-[p-net1d]: ../images/nets/net1d.png "stripes"
+[p-net1c]: ../images/nets/net1c.png
+[p-net1d]: ../images/nets/net1d.png
 [p-meander]: ../images/nets/cha.png?align=right "example footsides" 
 
 [t-net1a]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ct&c1=clcl&b1=ct&a1=clcl&d2=ct&c2=crcr&b2=ct&a2=crcr&d3=ct&c3=clcl&b3=ct&a3=clcl&d4=ct&c4=crcr&b4=ct&a4=crcr&tile=8888,1111,8888,1111&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
@@ -76,7 +76,7 @@ The following examples look like a knitwork.
 ## Diagonal net
 
 [![p-net2a]][t-net2a]  [![p-net2c]][t-net2c]       
-[![mini spider in ring][p-sp-ring]][t-sp-ring], [![double crossed tulle in a ring][p-cc-ring]][t-cc-ring]           
+[![double crossed tulle in a ring][p-cc-ring]][t-cc-ring]  [![mini spider in ring][p-sp-ring]][t-sp-ring]          
 
 [t-net2a]: /GroundForge/tiles?patchWidth=12&patchHeight=12&c1=crc&a1=crc&d2=ct&b2=ct&c3=crc&a3=crc&d4=ct&b4=ct&tile=5-5-,-5-5,5-5-,-5-5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 [t-net2c]: /GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ct&a1=clc&d2=ct&b2=clc&tile=5-5-,-5-5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -85,7 +85,7 @@ The following examples look like a knitwork.
 [t-sp-ring]: /GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ctcr&a1=ctcl&d2=ctct&b2=ctctc&c3=ctcl&a3=ctcr&d4=ctctc&b4=ctct&tile=5-5-,-5-5,5-5-,-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 [p-net2a]: ../images/nets/net2a.png "horizontally alternating"
-[p-net2c]: ../images/nets/net2c.png "chaotic ground"
+[p-net2c]: ../images/nets/net2c.png "diagonally alternating"
 [p-sp-ring]: ../images/nets/2-sp-ring.png "mini spider in ring"
 [p-cc-ring]: ../images/nets/cc-ring.png "double crossed tulle in ring"
 
