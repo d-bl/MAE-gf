@@ -12,7 +12,7 @@ title: Making variants
 * [Little snowflake ground](#little-snowflake-crossed-in-corner)
 
 ## Introduction
-On this page we show how variants can be made on some grounds.     TEST    
+On this page we show how variants can be made on some grounds.     
 The colours in the pictures have no specific meaning.   
 
 Think also of stitches like: <span class="stch">nothing</span>, <span class="stch">c</span> (cross only), <span class="stch">cc</span> (double cross), <span class="stch">ctttc</span>.      
