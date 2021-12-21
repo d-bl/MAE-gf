@@ -14,6 +14,8 @@ title: Counting
 
 ## Introduction
 
+OLD VERSION    
+
 A stitch is made by crossing and twisting two pairs of bobbins. With “twist” we mean: twist both pairs, twist right pair, or twist left pair. We can abbreviate this with "c" (cross), "t" (twist both pairs), "r" (twist right pair) and "l" (twist left pair).    
 
 A stitch can be described with a <u>word</u> formed with the symbols "c", "l", "r", "t". These words have to obey certain rules. These rules come from observations from actual lace, and from some limits we set ourselves in this document.    
