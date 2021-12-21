@@ -19,11 +19,15 @@ title: Snowflakes
 
 ## Introduction
 
-On this page several snowflake-grounds are collected.     
+On this page several snowflake-grounds are collected.     TEST   
 Please see the discussion on the [_Notes_][page-tips] page about the difference between spiders and snowflakes.     
+
 ![Snowflake 60][p-snow-60]
+
 Usually, the little snowflake is drawn as the left picture, on a 60 degree grid. Most of the variants shown on this page benefit of extra pins on the sides. As in the picture on the right. In the prickings below, the pins are not drawn.             
 <p style="clear: both"></p>
+
+[p-snow-60]: ../images/snow/w-little-snow.png?align=right "snowflake drawing"
 
 ## Binche Snowflake
 
@@ -48,7 +52,6 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 [![0366-og][P-0366-og]][T-0366-og]
 <p style="clear: both"></p>
 
-[p-snow-60]: ../images/snow/w-little-snow.png?align=right "snowflake drawing"
 [p-little-snow]: ../images/snow/g-sn-oo.svg?align=right "little snowflake"
 [P-0345-og]: ../images/snow/0345-og.png
 [P-0347-og]: ../images/snow/0347-og.png
