@@ -44,7 +44,6 @@ Lotus H,V,X means: the number of Horizontal rows, the number of Verticals and th
 * [double lotus H2,V2,X2][TD-222]
 * [double lotus H4,V2,X2][TD-422]
 
-
 ***
 [&uArr;]()
 
