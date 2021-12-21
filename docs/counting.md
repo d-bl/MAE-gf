@@ -23,7 +23,7 @@ title: Counting stitches
 ## Introduction
 
 A stitch is made by crossing and twisting two pairs of bobbins. With “twist” we mean: twist both pairs, twist right pair, or twist left pair. We can abbreviate this with "C" (cross), "T" (twist both pairs), "R" (twist right pair) and "L" (twist left pair). For listing and counting stitches we consider only stitches that start and end with a cross. Twists before the first cross and after the last are viewed as actions between stitches.        
-Please note: CT is represented in our list as C with a twist on both pairs between stitches. Similarly, CTC and CTCT are both represented as CTC in our list, where CTCT has a twist on each pair between stitches and CTC does not.        
+Please note: CT is represented in our list as C with a twist on both pairs between stitches. Similarly, CTC and CTCT are both represented as CTC in our list, where CTCT has a twist on each pair between stitches and CTC does not. TEST        
 
 A stitch can be described by a <u>word</u> formed from the symbols "C", "L", "R", "T". These words have to obey certain rules. These rules come from observing examples of real lace, and from some limits we set ourselves in this document.    
 To help us count and catalogue the words representing stitches, the symbols are ordered: "C" before "T", "T" before "R", "R" before "L".            
