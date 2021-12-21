@@ -34,4 +34,4 @@ next j)<br>
 ***
 
 [spiders-page]: ../docs/spiders#building-spiders
-[to-big-sn]: ../images/gf-sn-nott.png
+
