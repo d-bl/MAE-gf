@@ -15,12 +15,12 @@ title: Marian's grounds
 * [Bias and Paris ground](#bias-and-paris-ground)
 * [Windmills](#windmills)
 
-&copy; M. Tempels
+&copy; M. Tempels TEST
 
 ## Introduction
 
 On this page some of my own designs and finds. Most grounds I found before I learned of Groundforge. Of course, some of them might also have been created by others.   
-For most grounds I only use names for the units with an addition to indicate the placing of the units in the ground. E.g. in plaits, in a diamond, traditional, ... Some units are used in more than one example, with different placings, so naturally those names show up more than once.   
+For most grounds I only use names for the units with an addition to indicate the placing of the units in the ground. E.g. in plaits, in a diamond, traditional, ... Some units are used in more than one example, with different placings, so naturally those names show up more than once.    
 The colour grey in the working diagrams indicates <span class="stch">cross only</span>.    
 
 ## Fusion
