@@ -19,7 +19,7 @@ title: Snowflakes
 
 ## Introduction
 
-On this page several snowflake-grounds are collected.     TEST   
+On this page several snowflake-grounds are collected.     
 Please see the discussion on the [_Notes_][page-tips] page about the difference between spiders and snowflakes.     
 
 ![Snowflake 60][p-snow-60]
