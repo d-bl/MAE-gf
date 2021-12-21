@@ -7,8 +7,7 @@ title: Flanders grounds
 
 ## Introduction
 
-For the 20th anniversary of the LOKK chapter "'t Groene Hart" in 2005, the members
-created these patches of Flanders grounds, each with another variation of stitches.
+For the 20th anniversary of the LOKK chapter "'t Groene Hart" in 2005, the members created these patches of Flanders grounds, each with another variation of stitches.  
 
 {% include picts-centr.html 
    alt="patches of flanders grounds" 
