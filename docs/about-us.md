@@ -3,7 +3,7 @@ layout: default
 title: About us
 ---
 
-# About us &amp; Contact
+# About us
 
 ## Contents
 * [Marian Tempels](#marian-tempels)
