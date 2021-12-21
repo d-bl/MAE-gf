@@ -6,11 +6,14 @@ title: Notes
 # Notes
 
 ## Contents
+
 * [Ground names](#ground-names)
 * [Color code](#color-code)
+* [Stitches used](#stitches-used)
 * [Diagrams](#diagrams)
 
 ## Ground names
+
 Unfortunately, grounds do not have one unique name. Not even in one language. Also, the same name is used for different grounds. To make naming even more difficult, Groundforge does not make a difference in Torchon or Flemish grounds.            
 
 ![rose v.s. slavic][p-rs-sl]
@@ -28,8 +31,9 @@ We have learned, that the figure on the left is called a [_snowflake_][t-snowfla
 [t-spider]: /GroundForge/tiles?patchWidth=16&patchHeight=16&b1=ctcctc&a2=ctc&c2=ctc&b3=ctcttt&d3=tttctc&a4=ctc&c4=ctc&shiftColsSE=2&shiftRowsSE=4&shiftColsSW=-2&shiftRowsSW=4&tile=-5--,B-C-,-5-5,5-5-
 
 ## Color code
+
 ![colours][p-colors]
-Stitches used in the examples on these pages:
+Colors used in the examples on these pages:
 
 * Cross only. In working scheme's coloured in <span class="b-grey">grey</span>.
 * Half stitch = (twist if not already done), cross, twist. Coloured <span class="b-gree">green</span>.
@@ -39,15 +43,18 @@ Stitches used in the examples on these pages:
 * All other stitches in <span class="b-blck">black</span>.
 <p style="clear: both"></p>
 
-Sometimes, onorthodox stitches are used, like <span class="stch">cross only</span> or <span class="stch">crcllcrc</span>, as in the [_Sunny Stitch_][ex-sun].    
-We have tried <span class="stch">ctctclllllctctc</span> as a substitute for picots. Groundforge needs some time to generate this, and the result is not as expected.
+## Stitches used
 
-The specified twitst in some stitch definitions may not be according to the expected working order. Example : <span class="stch">B1 = ctctt, A2 = ct, C2 = ct</span> instead of <span class="stch">B1 = ctc, A2 = rrct, C2 = llct</span>. The result is the same.
+Sometimes, onorthodox stitches are used, like <span class="stch">cross only</span> or <span class="stch">crcllcrc</span>, as in the [_Sunny Stitch_][ex-sun].    
+We have tried <span class="stch">ctctclllllctctc</span> as a substitute for picots. Groundforge needs some time to generate this, and the result is not as expected.       
+
+The specified twitst in some stitch definitions may not be according to the expected working order. Example : <span class="stch">B1 = ctc, A2 = rrct, C2 = llct</span> instead of <span class="stch">B1 = ctctt, A2 = ct, C2 = ct</span>. The result is the same.      
 
 [ex-sun]: ../docs/marian#sunny-stitch
 [p-colors]: ../images/w-color.png?align=right
 
 ## Diagrams
+
 {% include p-l-c.html
      alt="mt-0306"
      src="/MAE-gf/images/tricks/w-picts.png"
@@ -61,8 +68,4 @@ The example is a variation on a 's Gravenmoers snowflake ground. Click on the pi
 
 ***
 [&uArr;]()
-
-
-
-
 
