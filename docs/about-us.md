@@ -13,7 +13,7 @@ title: About us
 
 {% include picts-centr.html alt="tulip Mondrian style" src="/MAE-gf/images/about/IMG_0997c.jpg" title="Tulip in Mondriaan style, 2017" %}
 
-Living in the Netherlands.  TEST       
+Living in the Netherlands.          
 
 I do not remember when I learned to knit etcetera, must have been at age 6 or something. I do remember knitting a doll at primary school, when I was about age 10. Also, I remember being very disappointed when I was not chosen for attending a weaving-class. At the end of secondary school I had crocheted a wardrobe for a little doll, sewed "aliens" (funny shaped puppets) and made lots of embroidery works. Most of those works are lost somewhere, alas. I did learn to weave, though.
 
@@ -44,5 +44,4 @@ I'm happy to share the results with you.
 
 ***
 [&uArr;]()
-
 
