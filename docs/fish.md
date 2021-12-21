@@ -6,12 +6,14 @@ title: Fish
 # Fish
 
 ## Contents
+
 * [Introduction](#introduction)
 * [Fish notation](#fish-notation)
 * [Fish examples](#fish-examples)
 * [Braids](#braids)
 
 ## Introduction
+
 Fish grounds are usualy used in small braids, typically 14-18 pairs of bobbins.     
 The grounds consists of a number of rows with two or more cloth stitches followed with some twists in the weaver. Fish starts and closes with a cloth stitch. In between the fish-rows, zero, one ore more rows with e.g. half stitch, pin, half stitch are made. The number of these rows define whether the fish will be in straight vertical lines, or in alternating positions.        
 If the tail is made with pairs not from the same fish, the ground is called [_Lotus_][lotus-page].    
@@ -22,6 +24,7 @@ In some Milanese grounds, the heads and tails are made as a cloth stitch with pa
 Please note: if a fish has an odd number of bones, like B3, the weavers change direction at the next set of fish. This is not shown in the matrices used for the examples.   
 
 ## Fish notation
+
 Lets call the horizontal rows the _bones_, the vertical lines the _spines_, and the in between rows the _waves_.
 Fish B,S,W means: the number of Bones, the number of Spines and the number of Waves. There are two ways of zero waves, noted with "0" and "-" respectively. See the picture.   
 
@@ -32,14 +35,16 @@ Fish B,S,W means: the number of Bones, the number of Spines and the number of Wa
 %} 
 
 ## Fish examples
+
 * [Fish B1,S2,W-][T-12-], [Fish B2,S1,W-][T-21-], [Fish B1,S2,W0][T-120]
 * [Fish B2,S2,W-][T-22-], [Fish B2,S2,W0][T-220], [Fish B2,S2,W2][T-222]      
 * [Fish B3,S2,W2][T-322]               
 * [Fish B4,S2,W-][T-42-], [Fish B4,S2,W1][T-421], [Fish B4,S2,W2][T-422]      
 * [Fish B5,S2,W-][T-52-], [Fish B5,S2,W0][T-520]   
-* [jp-double fish B2,S2,W1][TD-221], [jp-double fish B2,S2,W3][TD-223] 
+* [double fish B2,S2,W1][TD-221], [double fish B2,S2,W3][TD-223] 
 
 ## Braids
+
 * [Fish B3,S2,W2][Z322]; [Fish B3,S2,W3][Z323]
 * [Fish B4,S2,W2][Z422]; [Fish B4,S2,W3][Z423]
 
