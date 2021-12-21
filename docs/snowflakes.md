@@ -19,7 +19,7 @@ title: Snowflakes
 
 ## Introduction
 
-On this page several snowflake-grounds are collected.   TEST    
+On this page several snowflake-grounds are collected.      
 Please see the discussion on the [_Notes_][page-tips] page about the difference between spiders and snowflakes.     
 ![Snowflake 60][p-snow-60]
 Usually, the little snowflake is drawn as the left picture, on a 60 degree grid. Most of the variants shown on this page benefit of extra pins on the sides. As in the picture on the right. In the prickings below, the pins are not drawn.             
