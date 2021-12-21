@@ -6,6 +6,7 @@ title: Bias grounds
 # Bias Grounds
 
 ## Contents
+
 * [Introduction](#introduction)
 * [Traditional Bias Ground](#traditional-bias-ground)
 * [Bias Ground crossed rose style](#bias-ground-crossed-rose-style)
@@ -22,15 +23,18 @@ title: Bias grounds
 * [Stretched](#stretched)
 
 ## Introduction
+
 Traditionally, a bias ground is made as follows: make two stitches diagonally, make a stitch in the middle with these two, make two diagonal, stitch in the middle, etc.         
 
 ## Traditional Bias Ground
+
 ![traditional][p-0221-tr] 
 <p style="clear: both"></p>
 
 [p-0221-tr]: ../images/bias/g-bias-tr.svg?align=left "traditional bias ground"
 
 ### examples with one middle stitch
+
 [![0221-N][P-0221-N]][T-0221-N]
 [![0228-N][P-0228-N]][T-0228-N]
 [![0246-N][P-0246-N]][T-0246-N] 
@@ -88,6 +92,7 @@ Traditionally, a bias ground is made as follows: make two stitches diagonally, m
 
 
 ### examples with two different middle stitches
+
 [![0223-N][P-0223-N]][T-0223-N]
 [![0247-Dd][P-0247-Dd]][T-0247-Dd]
 [![0224-K][P-0224-K]][T-0224-K]
@@ -118,8 +123,8 @@ Traditionally, a bias ground is made as follows: make two stitches diagonally, m
 [T-0235-Nd]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=tct&c1=ctcl&a1=ctc&d2=ctcl&b2=ctc&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0238-R]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctctc&c1=ctc&a1=ctc&d2=ctc&b2=ctc&a2=ctctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-
 ##  Bias Ground crossed rose style
+
 [![crossed][P-0221-at]][T-0278-KG]  
 See also [mrs Whiting's index][L-whiting]: D6 and F4.   
 
@@ -130,6 +135,7 @@ See also [mrs Whiting's index][L-whiting]: D6 and F4.
 [L-whiting]: /gw-lace-to-gf/
 
 ## Bias Ground crossed alternating
+
 [![][p-bias-aa]][T-0280-LLh]  
 See also [mrs Whiting's index][L-whiting]: E6.   
 
@@ -137,6 +143,7 @@ See also [mrs Whiting's index][L-whiting]: E6.
 [t-0280-LLh]: /GroundForge/tiles?patchWidth=12&patchHeight=12&h1=ctc&g1=lcr&f1=ctc&d1=ctc&c1=lctcr&b1=ctc&a1=rctcl&h2=lctcr&g2=ctc&f2=rctcl&e2=ctc&d2=lcr&c2=ctc&a2=ctc&h3=ctc&f3=ctc&e3=lctcr&d3=ctc&c3=rctcl&b3=ctc&a3=lcr&h4=rctcl&g4=ctc&f4=lcr&e4=ctc&c4=ctc&b4=lctcr&a4=ctc&tile=1488-483,8-483148,831488-4,488-4831&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Bias Ground with a diagonal in between
+
 [![][p-bias-vg]][t-bias-vg]
 [![][p-bias-sq]][t-bias-sq]
 
@@ -145,26 +152,31 @@ See also [mrs Whiting's index][L-whiting]: E6.
 [t-bias-vg]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&d1=ct&e1=ctct&b2=ctct&d2=ctct&e2=ct&f2=ctct&a3=ctct&c3=ctct&e3=ctct&f3=ct&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5-486-,-5-486,6-5-48
 [t-bias-sq]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&d1=ctc&e1=ctc&b2=ctct&d2=ctcl&e2=ctc&f2=ctc&a3=ctct&c3=ctct&e3=ctcl&f3=ctct&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5-486-,-5-486,6-5-48
    
-## Bias Ground crossed and a diagonal in between   
+## Bias Ground crossed and a diagonal in between 
+
 [![][p-bias-av]][t-bias-av]
 
 [p-bias-av]: ../images/bias/g-bias-av.svg "bias crossed with diagonal"
 [t-bias-av]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&e1=ctct&f1=ct&a2=ctct&b2=ctct&c2=ctct&d2=ctct&e2=ctct&f2=ctct&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-4&shiftRowsSW=2&tile=8-7-48,831214
 
 ## Unit bias in a diamond
+
 [![][p-bias-uni]][t-bias-uni]
 
 [p-bias-uni]: ../images/bias/g-sh-bias-in-sqr.svg "one bias unit in diamond"
 [t-bias-uni]: /GroundForge/tiles?patchWidth=12&patchHeight=12&b1=ctct&d1=ctct&f1=ctct&a2=ctc&c2=ctct&e2=ctct&a3=ctc&b3=ctcr&d3=ctct&f3=ctcl&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=-5-4-5,5-5-5-,86-5-5
 
 ## Bias Ground crossed and in a diamond
+
 [![][p-bias-unx]][t-bias-unx]
 
 [p-bias-unx]: ../images/bias/g-bias-x-in-sqr.svg "one crossed bias unit in diamond"
 [t-bias-unx]: /GroundForge/tiles?patchWidth=12&patchHeight=12&b1=ctct&c1=ct&d1=ctct&e1=ct&f1=ctct&a2=ctct&b2=ct&c2=ctct&e2=ctct&f2=ct&a3=ct&b3=ctct&d3=ctct&f3=ctct&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=-21486,317-48,88-5-4
 
 ## Short Bias
+
 ### Solo
+
 ![short bias foto][foto-0228-OGy] 
 Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter may give nice results in two colours. The placing of the units in alternating directions is also shown in mrs Irvine's paper _Developing a Mathematical Model for Bobbin Lace_. 
 <p style="clear: both"></p>
@@ -181,6 +193,7 @@ Take just one unit of the Bias ground and place them all in the same direction, 
 [T-0267-OGy]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctcr&d1=ctct&a2=ctct&c2=ctcl&b3=ctcl&c3=ctc&d3=ctct&a4=ctcr&c4=ctct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=0&shiftRowsSW=4&tile=15-2,7-5-,-586,5-4-
 
 ### Crossed
+
 [![alternating and cross][p-0248]][t-0248]
 Take one unit of the Bias ground, place them in alternating directions, and cross at the corners.            
 <p style="clear: both"></p>
@@ -189,6 +202,7 @@ Take one unit of the Bias ground, place them in alternating directions, and cros
 [t-0248]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&b1=ctc&a1=tct&d2=c&c2=ctc&b2=c&a2=ctc&d3=ctc&c3=tct&b3=ctc&d4=c&c4=ctc&b4=c&a4=ctc&tile=88-4,4831,-117,3178,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Double bias
+
 [![double bias][p-doublebias]][t-doublebias]
 <p style="clear: both"></p>
 
@@ -196,6 +210,7 @@ Take one unit of the Bias ground, place them in alternating directions, and cros
 [t-doublebias]: /GroundForge/tiles?patchWidth=15&patchHeight=15&d1=rctcr&c1=ctc&b1=ctc&a1=lctcl&b2=ctc&tile=2A1C,-7--&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=1
 
 ## Bias with vertical
+
 [![bias with vertical][p-3228]][t-3228]
 <p style="clear: both"></p>
 
@@ -203,6 +218,7 @@ Take one unit of the Bias ground, place them in alternating directions, and cros
 [t-3228]: /GroundForge/tiles?patchWidth=12&patchHeight=20&b1=ctc&c1=ctc&d1=ctc&b2=ctc&c2=ctctc&d2=ctc&b3=ctcr&c3=ctc&d3=ctcl&a4=ttctctt&tile=-C3B,-488,-148,5---&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Stretched
+
 The pictures below show three different units. The units are placed like the white tiles on a checker board.          
 The one on the left is a bias ground, stretched vertically, as found in the Whiting index F4. Experimenting with stitches, I created the units in the middle and the right. The ground in the middle is equivalent to the little snowflake. The one on the right proved to be a real surprise! See the example. These grounds also look nice when made on a hexagonal raster, connecting the units with a short plait.
 
@@ -217,7 +233,6 @@ The one on the left is a bias ground, stretched vertically, as found in the Whit
 [T-0714]: /GroundForge/tiles?patchWidth=12&patchHeight=20&a1=ctctctc&b1=tct&c1=ctctctc&b2=ctc&a3=ctc&c3=ctc&d4=ctc&tile=B8D-,-4--,B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 [T-0759]: /GroundForge/tiles?patchWidth=12&patchHeight=20&b1=ctc&a2=ctctctc&c2=tct&b3=ctc&a4=tct&c4=ctctctc&b5=ctc&a6=ctc&c6=ctc&tile=-5--,B-C-,-5--,B-C-,-5--,B-C-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6
 [T-0775]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctc&c1=tctct&d1=ctc&a2=ctcl&b2=ctc&a3=ctc&b3=ctc&c3=ctc&b4=ctc&c4=rctc&tile=83A4,48--,48D-,-48-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
-
 
 ***
 [&uArr;]()
