@@ -29,7 +29,8 @@ Miscellaneous examples, collected on this page.
 
 ## 3 paired join
 
-There are several ways of making three-paired joins. As Groundforge does not do real three-paired joins, we decomposed the join in several 2-paired joins, and show approximately how the stitch looks like. We would like to thank Gibritte for inspiring us. She discovered, that you can make a star-join on the fish-scheme! Please click on the picture of the join you wish to see.        
+There are several ways of making three-paired joins. As Groundforge does not do real three-paired joins, we decomposed the join in several 2-paired joins, and show approximately how the stitch looks like. We would like to thank Gibritte for inspiring us. She discovered, that you can make a star-join on the fish-scheme! Please click on the picture of the join you wish to see.  
+
 * Star   
 [![p-3pr-st-h]][t-3pr-st-h] [![p-3pr-st-v]][t-3pr-st-v] [![p-3pr-s2-v]][t-3pr-s2-v]          
 * Triangle       
