@@ -37,6 +37,7 @@ For the actual lace the pins can be placed like a Flanders ground, or as a Torch
 Should you notice a photograph that doesn't match the generated thread diagram, please [contact](about-us#write-us) us. Note that some patterns happily mix the open and closed method. Both `tctc` and `ctct` will become red in the color-coded diagrams and `tc` and `ct` will both become green.
 
 ## Grounds
+
 {% include flanders.html src="106-1" name="Ans" d1="ct" a1="tc" b1="tctc" d2="tc" b2="tc" c1="tctc" %}
 {% include flanders.html src="105-1" name="Ans" d1="ctct" a1="tctc" b1="tc" d2="tc" b2="tctc" c1="tc" %}
 {% include flanders.html src="20-1" name="Ans" d1="ctc" a1="tc" b1="ctc" d2="tctc" b2="tctc" c1="ctc" %}
@@ -92,7 +93,6 @@ Should you notice a photograph that doesn't match the generated thread diagram, 
 {% include flanders.html src="26-1" d1="ct" a1="ct" b1="ct" d2="ct" b2="ctc" c1="ct" %}
 {% include flanders.html src="25-3" d1="ctc" a1="ctc" b1="ctc" d2="ct" b2="ct" c1="ctc" %}
 {% include flanders.html src="28-1" d1="ct" a1="ctc" b1="ct" d2="ctc" b2="ct" c1="ct" %}
-
 
 ***
 [&uArr;]()
