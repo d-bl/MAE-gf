@@ -6,6 +6,7 @@ title: Rose grounds
 # Rose grounds
 
 ## Contents
+
 * [Introduction](#introduction)
 * [Rose ground](#rose-ground)
 * [Slavic ground](#slavic-ground)
@@ -14,12 +15,13 @@ title: Rose grounds
 * [Rose ground in a diamond](#rose-ground-in-a-diamond)
 * [Alternative placings](#alternative-placings)
 
-
 ## Introduction
+
 On this page several variants of the rose ground.     
 A zip file with more than 2000 rose ground variants can be <a href="https://github.com/d-bl/MAE-gf/releases/download/rose_rounds/rose-ground-pair-diagrams.zip" download>downloaded here</a>.     
 
 ## Rose ground
+
 ![roseground][p-rose-pricking]
 [![traditional][P-0111-NG]][T-0111-NG]
 [![0112-KG][P-0112-KG]][T-0112-KG] 
@@ -69,6 +71,7 @@ A zip file with more than 2000 rose ground variants can be <a href="https://gith
 [T-0504-LG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ctc&c1=ctctct&b1=ctc&a1=tctctc&d2=crrc&b2=cllc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ## Slavic ground
+
 ![slavicground][p-slav-pricking]
 [![traditional][P-0671-NG]][T-0671-NG] 
 [![0654-KG][P-0654-KG]][T-0654-KG] 
@@ -96,6 +99,7 @@ A zip file with more than 2000 rose ground variants can be <a href="https://gith
 [P-0697-NG]: ../images/roses/0697-ng.png 
 
 ## Ants
+
 A variant on the Slavic Ground.
 
 [![0696-KG][P-0696-KG]][T-0696-KG] 
@@ -133,7 +137,8 @@ A variant on the Slavic Ground.
 [T-0692-KG]:  /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=c&c1=cctct&b1=c&a1=tctcc&d2=c&b2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0665-2G]:  /GroundForge/tiles?patchWidth=12&patchHeight=16&a1=ctctct&b1=c&c1=tctctc&d1=c&b2=c&d2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-## Stretched Paris ground     
+## Stretched Paris ground
+
 These examples came to life as variations on a rose-ground with "do nothing (much)" on the left and right. Please see the resemblance with the _[Paris ground][page-paris]_.   
 
 ![stretched paris ground][p-strpg]
@@ -160,6 +165,7 @@ These examples came to life as variations on a rose-ground with "do nothing (muc
 [T-0402-LG]: /GroundForge/tiles?patchWidth=15&patchHeight=20&d1=ctctctc&c1=ctc&b1=-&a1=ctc&b2=-&tile=d3ar,-r--&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ## Rose ground in a diamond
+
 By putting the traditional rose ground unit in a diamond, little stars can be made.                 
 Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates. Example 1 looks like a star.    
 
@@ -182,6 +188,7 @@ Please note: when making the actual lace, it will make a big difference if the u
 
 
 ## Alternative placings
+
 [![roses with vertical][p-31]][t-3115]  [![roses with zigzag][p-61]][t-6101]     
 The ground on the right can also be obtain as a [Droste on Paris ground][dr-6101]      
 
