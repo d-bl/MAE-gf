@@ -70,7 +70,7 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 [T-0307-og]: /GroundForge/tiles?patchWidth=12&patchHeight=16&c1=ct&a1=ct&b2=ctct&c3=c&a3=c&d4=tctct&b4=tctct&tile=5-5-,-5--,B-C-,-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 [T-0366-og]: /GroundForge/tiles?patchWidth=16&patchHeight=20&c1=ctc&a1=ctc&b2=tctct&c3=ctc&a3=ctc&d4=ctc&b4=ctc&tile=5-5-,-5--,B-C-,-5-5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 
-## Little Snowflake, crossed
+## Little snowflake, crossed
 
 ![little snowflake crossed][p-sn-cr]
 [![0306-kg][P-0306-kg]][T-0306-kg] 
