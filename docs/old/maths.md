@@ -12,7 +12,7 @@ title: Mathematics
 ## Introduction
 On this page some mathematics for those who like such. Including formula in pseudo-code.
 
-## Spider formula
+## Spider forumula
 As shown in the [_spiders_][spiders-page] page, spider-matrices can be generated.      
 In all formula N is the number of legs on one side. The spider will thus have 4N legs.   
 Spaces have to be ingored. The sign "&" means "concatenate": "A" &amp; "B" => "AB". The "" are omitted.   
