@@ -6,6 +6,7 @@ title: Snowflakes
 # Snowflakes
 
 ## Contents
+
 * [Introduction](#introduction)
 * [Binche snowflake](#binche-snowflake)
 * [Little snowflake](#little-snowflake)
@@ -17,14 +18,15 @@ title: Snowflakes
 * [Making of](#making-of)
 
 ## Introduction
+
 On this page several snowflake-grounds are collected.   
 Please see the discussion on the [_Notes_][page-tips] page about the difference between spiders and snowflakes.     
 ![Snowflake 60][p-snow-60]
 Usually, the little snowflake is drawn as the left picture, on a 60 degree grid. Most of the variants shown on this page benefit of extra pins on the sides. As in the picture on the right. In the prickings below, the pins are not drawn.             
 <p style="clear: both"></p>
 
-
 ## Binche Snowflake
+
 [![binche snow][p-binche-snow]][t-binche-snow]
 For the Binche spiders see page [_Spiders_][page-spiders].
 <p style="clear: both"></p>
@@ -33,6 +35,7 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 [t-binche-snow]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=ctcll&f1=ctcrr&g1=ctc&b2=ctc&e2=ctctctc&h2=ctc&a3=ctc&c3=ctcrr&d3=ctc&f3=ctc&g3=ctcll&shiftColsSE=4&shiftRowsSE=3&shiftColsSW=-4&shiftRowsSW=3&tile=5-25-56-,-5--5--5,5-C6-2B-
 
 ## Little Snowflake
+
 ![little snowflake][p-little-snow]
 [![0345-og][P-0345-og]][T-0345-og] 
 [![0347-og][P-0347-og]][T-0347-og] 
@@ -67,7 +70,8 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 [T-0307-og]: /GroundForge/tiles?patchWidth=12&patchHeight=16&c1=ct&a1=ct&b2=ctct&c3=c&a3=c&d4=tctct&b4=tctct&tile=5-5-,-5--,B-C-,-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 [T-0366-og]: /GroundForge/tiles?patchWidth=16&patchHeight=20&c1=ctc&a1=ctc&b2=tctct&c3=ctc&a3=ctc&d4=ctc&b4=ctc&tile=5-5-,-5--,B-C-,-5-5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 
-## Little Snowflake, crossed     
+## Little Snowflake, crossed
+
 ![little snowflake crossed][p-sn-cr]
 [![0306-kg][P-0306-kg]][T-0306-kg] 
 [![0356-kg][P-0356-kg]][T-0356-kg] 
@@ -105,6 +109,7 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 [T-0366-ng]: /GroundForge/tiles?patchWidth=20&patchHeight=20&e1=ctc&c1=ctc&h2=ctc&f2=tct&d2=ctc&b2=tct&g3=ctc&a3=ctc&h4=tctct&tile=--B-C---,-E-5-O-K,5-----5-,-------5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Snowflake in a diamond
+
 ![snowflake in diamond][p-snow-diamond]
 [![0305-oiv][P-0305-oiv]][T-0305-oiv] 
 <p style="clear: both"></p>
@@ -115,6 +120,7 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 [T-0305-oiv]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ct&d1=ctctt&b2=ctr&c2=ctctt&d2=ctct&e2=ctctt&f2=ctl&a3=ctctt&b3=ctctt&c3=ct&e3=ct&f3=ctctt&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5--5--,-C632B,566-22
 
 ## Snowflake in a diamond, crossed
+
 ![snowflake diamond crossed][p-snow-diax]
 [![0341-div][P-0341-div]][T-0341-div] 
 [![0356-kio][P-0356-kio]][T-0356-kio]   
@@ -128,12 +134,14 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 [T-0356-kio]: /GroundForge/tiles?patchWidth=17&patchHeight=16&j1=ctcl&f1=ctcr&d1=c&c1=ctct&b1=c&d2=cr&b2=cl&h3=ctct&c3=ctc&d4=c&b4=c&j5=ctcr&f5=ctcl&d5=c&c5=tctc&b5=c&tile=-O3E-5---5,-4-7--W-Y-,--5----5--,-B-C--Y-W-,-158-L---H&footsideStitch=tctct&tileStitch=ctc&headsideStitch=tctct&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5
 
 ## Snowflakes diagonal
+
 [![diagonal snowflake][p-snow-diag]][t-snow-diag]
 
 [p-snow-diag]: ../images/snow/g-sn-dia.svg "diagonal snowflakes" 
 [t-snow-diag]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&c1=ctc&b1=ctc&a1=tctct&c2=ctc&b2=ctc&a2=ctc&tile=1011,114-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ## Other arrangements
+
 [![offset snowflake][p-G63]][t-63-43]
 [![37-01][P-G37]][T-37-01]
 [![38-01][P-G38]][T-38-01]
@@ -147,6 +155,7 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 [T-38-01]: /GroundForge/tiles?patchWidth=20&patchHeight=20&e1=-&c1=ctc&a1=ctc&e2=-&b2=tctct&e3=ctctctc&c3=ctc&a3=ctc&tile=5-5-5-,x5x-r-,4-7-r-&footsideStitch=ctctt&tileStitch=ctctctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
 ## Making of
+
 Some of the grounds can be made either as a crossed snowflake or as a rose ground. See the example below: the result is the same.  
 [![as snowflake][pp-0356-kg]][tt-0356-kg]  [![as rose ground][pp-0116-kg]][tt-0116-kg]
    
@@ -162,6 +171,3 @@ Some of the grounds can be made either as a crossed snowflake or as a rose groun
 [page-spiders]: ../docs/spiders#binche-spiders
 [page-tips]: ../docs/tricks#ground-names
 [page-rose]: ../docs/roses#rose-ground-in-a-diamond
-
-
-
