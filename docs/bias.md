@@ -152,7 +152,7 @@ See also [mrs Whiting's index][L-whiting]: E6.
 [t-bias-vg]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&d1=ct&e1=ctct&b2=ctct&d2=ctct&e2=ct&f2=ctct&a3=ctct&c3=ctct&e3=ctct&f3=ct&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5-486-,-5-486,6-5-48
 [t-bias-sq]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&d1=ctc&e1=ctc&b2=ctct&d2=ctcl&e2=ctc&f2=ctc&a3=ctct&c3=ctct&e3=ctcl&f3=ctct&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5-486-,-5-486,6-5-48
    
-## Bias Ground crossed and a diagonal in between 
+## Bias Ground crossed and a diagonal in between
 
 [![][p-bias-av]][t-bias-av]
 
