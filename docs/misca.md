@@ -13,7 +13,7 @@ title: Miscellaneous examples
 
 ## Introduction
 
-Miscellaneous examples, collected on this page. TEST   
+Miscellaneous examples, collected on this page.      
 
 ## Vase ground
 
