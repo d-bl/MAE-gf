@@ -15,7 +15,7 @@ title: Marian's grounds
 * [Bias and Paris ground](#bias-and-paris-ground)
 * [Windmills](#windmills)
 
-&copy; M. Tempels TEST
+&copy; M. Tempels    
 
 ## Introduction
 
