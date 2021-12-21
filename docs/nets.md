@@ -16,7 +16,7 @@ title: Net grounds
   
 ## Introduction
 
-Net grounds are grounds with repeats of usualy one stitch. There are several ways of placing the stitches:                 
+Net grounds are grounds with repeats of usualy one stitch. There are several ways of placing the stitches:           TEST          
 ![net1][p-net1] ![net2][p-net2] ![net2x][p-net2x]       
 ![net3][p-net3] ![net4][p-net4] ![net5][p-net5]
 
