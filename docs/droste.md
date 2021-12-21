@@ -15,7 +15,7 @@ title: Droste
 
 ## Introduction
 
-On this page, several grounds are made with the "Droste-effect": reuse thread diagrams as pair diagrams. Some of these, like "Wobble" can only be made by GroundForge using this technique.  TEST     
+On this page, several grounds are made with the "Droste-effect": reuse thread diagrams as pair diagrams. Some of these, like "Wobble" can only be made by GroundForge using this technique.      
 
 See the Groundforge help-page [_Droste-effect_][pg-droste] for more information.  
 
