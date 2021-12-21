@@ -24,7 +24,7 @@ Please see the discussion on the [_Notes_][page-tips] page about the difference 
 
 ![Snowflake 60][p-snow-60]
 
-Usually, the little snowflake is drawn as the left picture, on a 60 degree grid. Most of the variants shown on this page benefit of extra pins on the sides. As in the picture on the right. In the prickings below, the pins are not drawn.             
+Usually, the little snowflake is drawn as picture on the left, on a 60 degree grid. Most of the variants shown on this page benefit of extra pins on the sides. As in the picture on the right. In the prickings below, the pins are not drawn.             
 <p style="clear: both"></p>
 
 [p-snow-60]: ../images/snow/w-little-snow.png?align=right "snowflake drawing"
