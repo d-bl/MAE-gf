@@ -125,7 +125,7 @@ Traditionally, a bias ground is made as follows: make two stitches diagonally, m
 ##  Bias Ground crossed rose style
 
 [![crossed][P-0221-at]][T-0278-KG]  
-See also [mrs Whiting's index][L-whiting]: D6 and F4.   
+See also [mrs Whiting's index][L-whiting]: D6 and F4.    
 
 [P-0221-at]: ../images/bias/g-bias-at.svg "tradtional bias crossed"
 
