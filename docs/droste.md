@@ -119,12 +119,16 @@ Mrs. V. Irvine has worked an example using the left pricking. See [_Favourite Fl
 
 ### &quot;&amp;&quot; ground
 
-The following examples use a stitch like <span class="stch">crctclcr</span> in the first step. The first step of example 1 is interesting: every single tread takes the same path!           
-* [example 1][D-LL-1], [example 2][D-LL-2], [example 3][D-LL-3]
+The following examples use a stitch like <span class="stch">crctclcr</span> in the first step. The first step of example 1 is interesting: every single tread takes the same path!   
+[![example 1][p-damp1]][D-LL-1]  [![example 2][p-damp2]][D-LL-2]  [![example 3][p-damp3]][D-LL-3]     
 
 [D-LL-1]: /GroundForge/tiles?patchWidth=8&patchHeight=8&a1=crctclcr&a2=clctcrcl&droste2=ctct&tile=1,8&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
 [D-LL-2]: /GroundForge/tiles?patchWidth=8&patchHeight=8&a1=crctclcr&droste2=ct,a18=ctct&tile=5-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
 [D-LL-3]: /GroundForge/tiles?patchWidth=8&patchHeight=8&a1=crctclcr&b2=clctcrcl&droste2=ctc,a18=ctct,a16=a17=ctcl,b26=b27=ctcr&tile=5-,-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+
+[p-damp1]: ../images/droste/damp1.png
+[p-damp2]: ../images/droste/damp2.png
+[p-damp3]: ../images/droste/damp3.png
 
 ***
 [&uArr;]()
