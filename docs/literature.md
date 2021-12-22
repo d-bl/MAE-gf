@@ -3,7 +3,7 @@ layout: default
 title: Literature
 ---
 
-## Literature
+# Literature
 Some of the publications listed here are mentioned on this website. Others are for more inspiration. Of course, this list is incomplete.             
 * N. Andries: Naar de bron (Binche)      
 * N. Andries, H. de Kok, G Landuyt and others: Van speldengrond tot Turnhoutse kant    
