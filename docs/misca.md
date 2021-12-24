@@ -94,7 +94,7 @@ The traditional units separated with plaits. Please note: the plaits should stay
 ## Another fish
 
 ![Another fish][P-1111]
-With the following were created to work "upwards" from one square to another. As Groundforge does not support going upwards, the pattern in Groundforge is turned one quarter.   
+The following grounds were created to work "upwards" from one square to another. As Groundforge does not support going upwards, the pattern in Groundforge is turned one quarter.   
 
 * [example 1][T-1114], [example 2][T-1111]
 
