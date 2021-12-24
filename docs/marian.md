@@ -29,10 +29,9 @@ This section is moved to page [_Rose grounds_][p-sunny].
 
 ## Ants
 
-This section is moved to page [_Misscelaneous_][p-3] and to page [_Rose grounds_][p-ants]
+This section is moved to page [_Rose grounds_][p-ants]
 
 [p-ants]: ../docs/roses#ants
-[p-3]: ../docs/misca#3-paired-join
 
 ## Another fish
 
