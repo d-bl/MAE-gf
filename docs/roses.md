@@ -9,6 +9,7 @@ title: Rose grounds
 
 * [Introduction](#introduction)
 * [Rose ground](#rose-ground)
+* [Sunny stitch](#sunny-stitch)
 * [Slavic ground](#slavic-ground)
 * [Ants](#ants)
 * [Stretched Paris ground](#stretched-paris-ground)
@@ -70,6 +71,26 @@ A zip file with more than 2000 rose ground variants can be <a href="https://gith
 [T-0501-DG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=tctct&c1=ctct&b1=tctct&a1=tctc&d2=crc&b2=clc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0504-LG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ctc&c1=ctctct&b1=ctc&a1=tctctc&d2=crrc&b2=cllc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
+## Sunny stitch
+
+![sunny stitch][p-sunny]
+This stitch is created with a little loop at the sides of the rose ground. To obtain this, an onorthodox stitch at the sides of the unit is used. The examples below use all the same unit, but these units are connected in different ways. The colour <span class="b-blck">white</span> means: <span class="stch">crcllcrc</span> on the left  and <span class="stch">clcrrclc</span> on the right side of the unit.           
+  
+<p style="clear: both"></p>
+
+[![connection with clothstitches][P-0902-l]][T-0902-l] 
+[![connection with plaits][P-0902-f]][T-0902-f] 
+[![in a diamond][P-0902-q]][T-0902-q] 
+
+[p-sunny]: ../images/marian/0902-KP.png?align=right "sunny stitch"
+[P-0902-l]: ../images/marian/0902-lg.png
+[P-0902-f]: ../images/marian/0902-kf.png
+[P-0902-q]: ../images/marian/0902-kiv.png
+
+[T-0902-l]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&c1=ctctc&b1=ctc&a1=ctctc&d2=clcrrclc&b2=crcllcrc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0902-f]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctctc&b1=ctctctctc&c1=ctctc&d1=ctctctctc&b2=crcllcrc&d2=clcrrclc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0902-q]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctctc&b1=cttt&c1=ctcttt&e1=ctcttt&f1=cttt&b2=ctcttt&c2=c&d2=ctctc&e2=c&f2=ctcttt&a3=ctcttt&c3=crcllcrc&e3=clcrrclc&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
+
 ## Slavic ground
 
 ![slavicground][p-slav-pricking]
@@ -100,7 +121,7 @@ A zip file with more than 2000 rose ground variants can be <a href="https://gith
 
 ## Ants
 
-A variant on the Slavic Ground.
+Ants came to life as a variation of the Slavic ground. The result looks like ants. Please note that in some exampels there are no twists between the <span class="stch">cross only</span> and <span class="stch">whole stitch</span> at the pins.           
 
 [![0696-KG][P-0696-KG]][T-0696-KG] 
 [![0665-2G][P-0665-2G]][T-0665-2G] 
