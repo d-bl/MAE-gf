@@ -82,10 +82,10 @@ This stitch is created with a little loop at the sides of the rose ground. To ob
 [![connection with plaits][P-0902-f]][T-0902-f] 
 [![in a diamond][P-0902-q]][T-0902-q] 
 
-[p-sunny]: ../images/marian/0902-KP.png?align=right "sunny stitch"
-[P-0902-l]: ../images/marian/0902-lg.png
-[P-0902-f]: ../images/marian/0902-kf.png
-[P-0902-q]: ../images/marian/0902-kiv.png
+[p-sunny]: ../images/roses/0902-KP.png?align=right "sunny stitch"
+[P-0902-l]: ../images/roses/0902-lg.png
+[P-0902-f]: ../images/roses/0902-kf.png
+[P-0902-q]: ../images/roses/0902-kiv.png
 
 [T-0902-l]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&c1=ctctc&b1=ctc&a1=ctctc&d2=clcrrclc&b2=crcllcrc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0902-f]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctctc&b1=ctctctctc&c1=ctctc&d1=ctctctctc&b2=crcllcrc&d2=clcrrclc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
