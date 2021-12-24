@@ -82,10 +82,10 @@ The traditional units separated with plaits. Please note: the plaits should stay
 [![snowflake-unit][P-0342-kf]][T-0342-kf] 
 <p style="clear: both"></p>
 
-[p-fusion]: ../images/marian/G-fusion.svg?align=right "fusion"
-[P-0116-kf]: ../images/marian/0116-kf.png
-[P-0284-kf]: ../images/marian/0284-kf.png
-[P-0342-kf]: ../images/marian/0342-kf.png
+[p-fusion]: ../images/misca/G-fusion.svg?align=right "fusion"
+[P-0116-kf]: ../images/misca/0116-kf.png
+[P-0284-kf]: ../images/misca/0284-kf.png
+[P-0342-kf]: ../images/misca/0342-kf.png
 
 [T-0116-kf]: /GroundForge/tiles?patchWidth=16&patchHeight=16&c1=ctctctctctc&b1=ctctc&a1=ctctctctctc&c2=ctc&a2=ctc&c3=-&b3=ctctc&a3=-&tile=q3s-,4-7-,158-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 [T-0342-kf]: /GroundForge/tiles?patchWidth=16&patchHeight=16&c1=ctctctctctc&b1=ct&a1=ctctctctctc&c2=ct&a2=ct&b3=ctct&c4=cl&a4=cr&c5=-&b5=c&a5=-&tile=Q3S,4-7,-5-,B-C,158&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=5
@@ -100,7 +100,7 @@ The following grounds were created to work "upwards" from one square to another.
 
 <p style="clear: both"></p>
 
-[P-1111]: ../images/marian/G-mine2.svg?align=right 
+[P-1111]: ../images/misca/G-mine2.svg?align=right 
 [T-1111]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctct&c1=ct&b1=ctct&a1=ct&d2=ct&c2=ctct&a2=ctct&d3=ctct&c3=ct&b3=ctct&a3=ct&c4=ctct&b4=ct&a4=ctct&tile=8325,6-76,1563,224-&tileStitch=ct&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [T-1114]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&b1=ctc&c1=tctc&d1=ctc&a2=lctc&c2=ctcr&d2=c&a3=ctct&b3=ctc&c3=tctc&d3=ctc&a4=ctc&b4=c&c4=ctcl&tile=8325,6-76,1563,224-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
@@ -111,7 +111,7 @@ As the "another fish" pattern, the pattern in Groundforge is turned one quarter.
 
 <p style="clear: both"></p>
 
-[p-2111]: ../images/marian/G-mine1.svg?align=left
+[p-2111]: ../images/misca/G-mine1.svg?align=left
 [t-2111]: /GroundForge/tiles?patchWidth=12&patchHeight=12&b1=ctct&d1=ctct&a2=ctct&b2=ct&c2=ctct&d2=ct&e2=ctct&a3=ct&b3=ctct&d3=ctct&e3=ct&f3=ctct&tile=-7-4--,B831C-,66-225&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
 ## Windmills
@@ -122,8 +122,8 @@ Inspired by origami.
 
 <p style="clear: both"></p>
 
-[p-4201]: ../images/marian/G42.svg?align=left 
-[p-4301]: ../images/marian/G43.svg?align=left 
+[p-4201]: ../images/misca/G42.svg?align=left 
+[p-4301]: ../images/misca/G43.svg?align=left 
 [t-4201]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctc&d1=ctctt&f1=ctc&a2=ctc&b2=ctc&c2=ctcrr&e2=ctcll&f2=ctc&a3=ctc&b3=ctcrr&d3=ctc&f3=ctcll&tile=15-7-2,886-58,14-5-1&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 [t-4301]: /GroundForge/tiles?patchWidth=12&patchHeight=12&g1=ctct&e1=ctct&c1=ctc&a1=ctct&h2=ctct&f2=ctct&d2=ctc&c2=ctc&b2=ctc&g3=ctct&e3=ctcr&d3=ctc&c3=ctc&b3=ctc&a3=ctcl&h4=ctct&f4=ctct&d4=ctcr&c4=ctc&b4=ctc&tile=5-5-5-7-,-215-5-5,58886-5-,-114-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
