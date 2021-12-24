@@ -125,7 +125,7 @@ This stitch is created with a little loop at the sides of the rose ground. To ob
 
 Ants came to life as a variation of the Slavic ground. The result looks like ants. Please note that in some exampels there are no twists between the <span class="stch">cross only</span> and <span class="stch">whole stitch</span> at the pins.           
 
-[pic-ants]: ../images/roses/0692-KG-ants.png?align=right "ants"
+[pic-ants]: ../images/roses/f-0692-foto.jpg?align=right "ants"
 
 [![0696-KG][P-0696-KG]][T-0696-KG] 
 [![0665-2G][P-0665-2G]][T-0665-2G] 
