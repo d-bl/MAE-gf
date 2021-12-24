@@ -2,21 +2,29 @@
 
 <a href="https://groups.io/g/GroundForge" target="_blank">User group</a><br>
 <a href="https://groundforge.wordpress.com" target="_blank">Support</a><br>
-<a href="/MAE-gf/docs/about-us">About us</a><br>
 <!-- adress about us needs to be moved -->
+{% if page.name == 'about-us.md' %}
+               About us
+               {% else %}
+               <a href="/MAE-gf/docs/about-us">About us</a>
+{% endif %}<br>
 
 <h2>Catalogues</h2>
 
-  <a href="/tesselace-to-gf/">TesseLace</a><br>
-  <a href="/gw-lace-to-gf/">Whiting</a><br>
-  Many attractive examples<br>
-  <a href="/MAE-gf/docs/literature">Literature</a><br>
+<a href="/tesselace-to-gf/">TesseLace</a><br>
+<a href="/gw-lace-to-gf/">Whiting</a><br>
+Many attractive examples<br>
+{% if page.name == 'literature.md' %}
+               Literature
+               {% else %}
+               <a href="/MAE-gf/docs/literature">Literature</a>
+{% endif %}<br>
 
 <h2>Groundforge</h2>
 
 <a href="/GroundForge/nets">Nets page</a><br> 
-  <a href="/GroundForge/tiles">Main page</a><br>
-  <a href="/GroundForge/">User guide</a><br>
+<a href="/GroundForge/tiles">Main page</a><br>
+<a href="/GroundForge/">User guide</a><br>
 
 <p><hr></p>
 
@@ -54,4 +62,3 @@
 
 <a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="/MAE-gf/assets/images/CC-BY-80x15.png"></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
   
-
