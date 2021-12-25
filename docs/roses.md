@@ -122,8 +122,9 @@ This stitch is created with a little loop at the sides of the rose ground. To ob
 ## Ants
 
 ![Ants][pic-ants]
+Ants came to life as a variation of the Slavic ground. The result looks like ants. Please note that in some exampels there are no twists between the <span class="stch">cross only</span> and <span class="stch">whole stitch</span> at the pins.     
 
-Ants came to life as a variation of the Slavic ground. The result looks like ants. Please note that in some exampels there are no twists between the <span class="stch">cross only</span> and <span class="stch">whole stitch</span> at the pins.           
+<p style="clear: both"></p>
 
 [pic-ants]: ../images/roses/f-0692-foto.jpg?align=right "ants"
 
@@ -192,17 +193,14 @@ These examples came to life as variations on a rose-ground with "do nothing (muc
 
 ## Rose ground in a diamond
 
+![torchon-flemish][pic-tor-flem]
 By putting the traditional rose ground unit in a diamond, little stars can be made.                 
 Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates. Example 1 looks like a star.    
 
-![torchon-flemish][pic-tor-flem]      
-![photo-torchon][ph-0112-t] ![photo-flemish][ph-0112-f]  
- 
+
 [![R-0112][PR-0112]][TR-0112] [![R-0116][PR-0116]][TR-0116] [![R-0504][PR-0504]][TR-0504] 
 
-[pic-tor-flem]: ../images/roses/g-tor-fl.svg "torchon - flemish"
-[ph-0112-t]: ../images/roses/ph-0112-t.jpg
-[ph-0112-f]: ../images/roses/ph-0112-f.jpg
+[pic-tor-flem]: ../images/roses/g-tor-fl.svg?align=right "torchon - flemish"
 
 [PR-0112]: ../images/roses/R-0112.png
 [PR-0116]: ../images/roses/R-0116.png
