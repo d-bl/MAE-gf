@@ -7,6 +7,12 @@ Header { background: #2e7bcf url(../images/header-bg-left.png) top right repeat;
 .outer { background: url(../images/header-bg-right.png) top right repeat-y; padding-top: 40px; padding-bottom: 40px; }
 header a.button { background-color: #2e7bcf; }
 
+#sidebar ul { padding-left: 0; margin-bottom: 0px; font-weight: bold; font-size: 12px; color: #474747; }
+#sidebar ul ul { font-weight: normal; }
+#sidebar sub { font-weight: normal; }
+#sidebar li { list-style-type: none; padding-bottom: 8px; }
+#sidebar li li { padding-bottom: 0; }
+
 /* stitches & elements */
 .stch {border: 1px solid #DBE7F3; background-color: #F2F8FC;}
 .elem {border: 1px solid #DBE7F3;}
