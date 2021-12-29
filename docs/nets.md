@@ -25,7 +25,7 @@ Please note: the second and third diagrams are equivalent in GroundForge terms. 
 
 It gets interesting, if we would use two (or more) different stitches. These grounds are known as "chaotic ground", "alternating ground", ...    
 
-For net-grounds with one stitch and its mirrored versions only, see page [_catalogue of stitches_][pg-stitches] and page _<a href="/GroundForge/nets" target="_blanc">nets</a>_.       
+For net-grounds with one stitch and its mirrored versions only, see page [_catalogue of stitches_][pg-stitches] and page _<a href="/GroundForge/nets" target="_blank">nets</a>_.       
 
 [p-net1]: ../images/nets/net1.png "horizontal net"
 [p-net2]: ../images/nets/net2.png "diagonal net"
