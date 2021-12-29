@@ -10,9 +10,9 @@ title: Net grounds
 * [Introduction](#introduction)
 * [Horizontal net](#horizontal-net)
 * [Diagonal net](#diagonal-net)
-* [Honeycomb net 1](#honeycomb-net-1)
-* [Honeycomb net 2](#honeycomb-net-2)
-* [Honeycomb net 3](#honeycomb-net-3)
+* [Honeycomb net Kat](#honeycomb-net-kat)
+* [Honeycomb net Weaving Paris](#honeycomb-net-weaving-paris)
+* [Honeycomb net Bias](#honeycomb-net-bias)
   
 ## Introduction
 
@@ -21,31 +21,28 @@ Net grounds are grounds with repeats of usualy one stitch. There are several way
 ![net1][p-net1] ![net2][p-net2] ![net2x][p-net2x]       
 ![net3][p-net3] ![net4][p-net4] ![net5][p-net5]
 
-Please note: the second and third diagrams are equivalent in GroundForge terms.
-It is possible to define a strechted honeycomb for the prototype diagram.
-The pair diagram however will initially show kite shapes, when activating the animation 
-these kites will reshape into squares with a 45 degree angle.
-Only when defining plaits as stitches you will see the honeycomb again in the [thread diagram][t-hexagon-1].
-
-[t-hexagon-1]: /GroundForge/tiles?patchWidth=12&patchHeight=16&c1=-&a1=-&c2=ctctctctt&a2=ctctctctt&d3=ctctctctt&b3=ctctctctt&tile=5-5-,r-r-,-5-5&footsideStitch=ctctt&tileStitch=ctctctctt&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
+Please note: the second and third diagrams are equivalent in GroundForge terms. It is possible to define a strechted honeycomb for the prototype diagram. The pair diagram however will initially show kite shapes, when activating the animation these kites will reshape into squares with a 45 degree angle. Only when defining plaits as stitches you will see the honeycomb again in the [thread diagram][t-hexagon-1].    
 
 It gets interesting, if we would use two (or more) different stitches. These grounds are known as "chaotic ground", "alternating ground", ...    
-Several of these can be found in the book by mrs A. Rühle: _Fillings from Hunnia Lace_.        
 
-For nets with one stitch and its mirrored versions only, see page [_catalogue of stitches_][pg-stitches].      
+For net-grounds with one stitch and its mirrored versions only, see page [_catalogue of stitches_][pg-stitches] and page _[nets][pg-nets]_.      
 
 [p-net1]: ../images/nets/net1.png "horizontal net"
 [p-net2]: ../images/nets/net2.png "diagonal net"
 [p-net2x]: ../images/nets/net2x.png "diagonal net"
-[p-net3]: ../images/nets/net3.png "honeycomb 1"
-[p-net4]: ../images/nets/net4.png "honeycomb 2"
-[p-net5]: ../images/nets/net5.png "honeycomb 3"
+[p-net3]: ../images/nets/net3.png "paris ground / kat"
+[p-net4]: ../images/nets/net4.png "weaving paris"
+[p-net5]: ../images/nets/net5.png "bias ground"
 
 [pg-stitches]: ../docs/stitches
+[pg-nets]: <"/GroundForge/nets/" target="_blank">
+
+[t-hexagon-1]: /GroundForge/tiles?patchWidth=12&patchHeight=16&c1=-&a1=-&c2=ctctctctt&a2=ctctctctt&d3=ctctctctt&b3=ctctctctt&tile=5-5-,r-r-,-5-5&footsideStitch=ctctt&tileStitch=ctctctctt&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
 
 ## Horizontal net
 
 [![p-meander]][t-meander]
+Horizontal nets can also be found in tape lace like Milanese, Hunnia and Russian lace.   
 Please note: for most of the horizontal nets, the footsides on the left and right are best made like <span class="stch">rctPctctPctt</span> covering two rows as shown in the picture on the right.
 <p style="clear: both"></p>
 
@@ -97,7 +94,7 @@ The following examples look like sprang plaiting.
 [vi-sprang-1]: /GroundForge/tiles?patchWidth=14&patchHeight=14&a1=clcl&tile=5-&footsideStitch=ctctt&tileStitch=clcl&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
 [vi-sprang-2]: /GroundForge/tiles?patchWidth=14&patchHeight=14&a1=cllcl&tile=5-&footsideStitch=ctctt&tileStitch=cllcl&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
 
-## Honeycomb net 1
+## Honeycomb net Kat
 
 See also [_Paris grounds_][page-paris].           
 [![p1-net3]][t-net3b]
@@ -107,7 +104,7 @@ See also [_Paris grounds_][page-paris].
 
 [t-net3b]: /GroundForge/tiles?patchWidth=12&patchHeight=16&c1=ctc&a1=ctc&d2=tcct&tile=B-C-,---5&tileStitch=ctc&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-## Honeycomb net 2
+## Honeycomb net Weaving Paris
 
 See also [_Lattice_][page-lotus].            
 [![p1-net4]][t-net4]
@@ -117,7 +114,7 @@ See also [_Lattice_][page-lotus].
 
 [t-net4]: /GroundForge/tiles?patchWidth=16&patchHeight=14&b1=ctc&c2=crr&a2=crr&d3=ctc&c4=cll&a4=cll&tile=-5--,6v9v,---5,2z0z&tileStitch=ctc&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
-## Honeycomb net 3
+## Honeycomb net Bias
 
 This scheme is equal to the [_bias ground_][page-bias].
 
