@@ -35,14 +35,15 @@ For net-grounds with one stitch and its mirrored versions only, see page [_catal
 [p-net5]: ../images/nets/net5.png "bias ground"
 
 [pg-stitches]: ../docs/stitches
-[pg-nets]: <"/GroundForge/nets/" target="_blank">
+[pg-nets]: /GroundForge/nets/
 
 [t-hexagon-1]: /GroundForge/tiles?patchWidth=12&patchHeight=16&c1=-&a1=-&c2=ctctctctt&a2=ctctctctt&d3=ctctctctt&b3=ctctctctt&tile=5-5-,r-r-,-5-5&footsideStitch=ctctt&tileStitch=ctctctctt&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
 
 ## Horizontal net
 
+Horizontal nets can also be found in tape lace like Milanese, Hunnia and Russian lace.    
+
 [![p-meander]][t-meander]
-Horizontal nets can also be found in tape lace like Milanese, Hunnia and Russian lace.   
 Please note: for most of the horizontal nets, the footsides on the left and right are best made like <span class="stch">rctPctctPctt</span> covering two rows as shown in the picture on the right.
 <p style="clear: both"></p>
 
