@@ -35,7 +35,7 @@ For net-grounds with one stitch and its mirrored versions only, see page [_catal
 [p-net5]: ../images/nets/net5.png "bias ground"
 
 [pg-stitches]: ../docs/stitches
-[pg-nets]: /GroundForge/nets/
+[pg-nets]: <"/GroundForge/nets" target="_blank">
 
 [t-hexagon-1]: /GroundForge/tiles?patchWidth=12&patchHeight=16&c1=-&a1=-&c2=ctctctctt&a2=ctctctctt&d3=ctctctctt&b3=ctctctctt&tile=5-5-,r-r-,-5-5&footsideStitch=ctctt&tileStitch=ctctctctt&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
 
