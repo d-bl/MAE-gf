@@ -48,7 +48,7 @@ The samples and photo's are made by S. Babbs. Clicking on the photo shows a larg
   {% include ctrl.html s1="cct" name="double-crossed tulle stitch" photo="ASN01" %}
   {% include ctrl.html s1="ccr" name="incomplete half stitch variant" photo="ASN40" %}
   {% include ctrl.html s1="ctc" name="cloth stitch" photo="ASN04" %}
-  {% include ctrl.html s1="ctr" name="asymmetrical half stitch" photo="ASN34 "%}
+  {% include ctrl.html s1="ctr" name="asymmetrical half stitch" photo="ASN34"%}
   {% include ctrl.html s1="crr" %}
   
   {% include cctt.html subheader="four" %}
