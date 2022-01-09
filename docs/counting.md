@@ -338,7 +338,7 @@ b. Keep the lexicographycally lowest word
 
 #### Step 4: check for doubles    
 
-Typically, the doubles are the words where p (quartet 1) = b (quartet 2) or q (quartet 1) = b (quartet 2). Please note, the consequence of rule 6 is that d (quartet 1) &ne; b (quartet 2).       
+Typically, the doubles are the words where p (quartet 1) = b (quartet 2) or q (quartet 1) = b (quartet 2).         
 
 ***
 [&uArr;]()
