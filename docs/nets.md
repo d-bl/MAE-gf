@@ -5,6 +5,13 @@ title: Net grounds
 
 # Net grounds
 
+{% include p-l-c.html
+  src="/MAE-gf/images/nets/ASN50.jpg"
+  alt="S.Babbs"
+  lnk="/GroundForge/tiles?patchWidth=12&patchHeight=16&e1=cl&c1=ctcrr&a1=ctctt&n2=ctctt&d2=ctcrr&b2=cl&footside=4,x&tile=-5-5,5-5-&headside=x,7&footsideStitch=ctctt&tileStitch=ctcrr&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2"
+  title="S.Babbs"
+%}  
+
 ## Contents
 
 * [Introduction](#introduction)
