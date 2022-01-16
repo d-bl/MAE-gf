@@ -100,7 +100,7 @@ This stitch is created with a little loop at the sides of the rose ground. To ob
 [![0676-KV][P-0676-KV]][T-0676-KV] 
 [![0698-KG][P-0698-KG]][T-0698-KG] 
 [![0697-NG][P-0697-NG]][T-0697-NG] 
-[![0651-KG][P-0651-KG]][T-0561-KG]  
+[![0651-KG][P-0651-KG]][T-0651-KG]  
 <p style="clear: both"></p>
 
 [T-0671-NG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ct&c1=ctct&b1=ct&a1=ctct&d2=ct&b2=ct&tile=5831,-4-7&tileStitch=ctct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
