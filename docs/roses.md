@@ -100,6 +100,7 @@ This stitch is created with a little loop at the sides of the rose ground. To ob
 [![0676-KV][P-0676-KV]][T-0676-KV] 
 [![0698-KG][P-0698-KG]][T-0698-KG] 
 [![0697-NG][P-0697-NG]][T-0697-NG] 
+[![0651-KG][P-0651-KG]][T-0561-KG]  
 <p style="clear: both"></p>
 
 [T-0671-NG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ct&c1=ctct&b1=ct&a1=ctct&d2=ct&b2=ct&tile=5831,-4-7&tileStitch=ctct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -109,6 +110,7 @@ This stitch is created with a little loop at the sides of the rose ground. To ob
 
 [T-0698-KG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=c&c1=ctctct&b1=c&a1=tctctc&d2=c&b2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0697-NG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ct&c1=ctctct&b1=ct&a1=ctctct&d2=ct&b2=ct&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0651-KG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ct&c1=ctc&b1=ct&a1=ctc&d2=ct&b2=ct&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 [p-slav-pricking]: ../images/roses/g06.svg?align=right "slavic ground"
 [P-0671-NG]: ../images/roses/0671-ng.png "traditional" 
@@ -118,6 +120,7 @@ This stitch is created with a little loop at the sides of the rose ground. To ob
 
 [P-0698-KG]: ../images/roses/0698-kg.png 
 [P-0697-NG]: ../images/roses/0697-ng.png 
+[P-0651-kG]: ../images/roses/0651-kg.png "damse ground"
 
 ## Ants
 
