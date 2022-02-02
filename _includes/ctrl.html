@@ -2,7 +2,11 @@
 
 <tr>
     <td>
-        <a href="/GroundForge/nets?b={{ include.s1 }}" target="_blank"> {{ include.s1 }}</a>
+        {% if include.photo %}
+          <a href="/GroundForge/nets?b={{ include.s1 }}&img={{ include.photo }}" target="_blank"> {{ include.s1 }}</a>
+        {% else %}
+          <a href="/GroundForge/nets?b={{ include.s1 }}" target="_blank"> {{ include.s1 }}</a>
+        {% endif %}
     </td>
     <td>
        {% if include.name %}
@@ -12,7 +16,8 @@
     <td>
         {% if include.photo %}
            <a href="/MAE-gf/images/ctrl/{{ include.photo }}.jpg" target="_blank">
-                                                                         <img src="/MAE-gf/images/ctrl/{{ include.photo }}.jpg" width=200px height=100px></a>
+               <img src="/MAE-gf/images/ctrl/{{ include.photo }}.jpg" width=200px height=100px>
+           </a>
        {% endif %}
         
        {% if include.photo and include.comm %}
