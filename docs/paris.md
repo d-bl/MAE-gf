@@ -65,7 +65,7 @@ This ground is also known as _dropped stitch ground"_.
 ## Big Paris ground
 
 [![big-paris][p-big-paris]][t-big-paris]
-This ground is inspired by lace from 's Gravenmoer.         
+Also known as "Copenhagen hole".     
 <p style="clear: both"></p>
 
 ### Alternative arrangements
