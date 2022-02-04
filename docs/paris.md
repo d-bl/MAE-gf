@@ -65,7 +65,7 @@ This ground is also known as _dropped stitch ground"_.
 ## Big Paris ground
 
 [![big-paris][p-big-paris]][t-big-paris]
-Also known as "Copenhagen hole".     
+This ground is also known as _Copenhagen hole_.     
 <p style="clear: both"></p>
 
 ### Alternative arrangements
