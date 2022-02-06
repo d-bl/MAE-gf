@@ -48,7 +48,7 @@ The samples and photo's are made by S. Babbs. Clicking on the photo shows a larg
   {% include ctrl.html s1="cct" name="double-crossed tulle stitch" photo="ASN01" %}
   {% include ctrl.html s1="ccr" name="incomplete half stitch variant" photo="ASN40" %}
   {% include ctrl.html s1="ctc" name="cloth stitch" photo="ASN04" %}
-  {% include ctrl.html s1="ctl" name="asymmetrical half stitch" photo="ASN34"%}
+  {% include ctrl.html s1="ctl" name="asymmetrical half stitch" photo="ASN34" s2="ctr" %}
   {% include ctrl.html s1="crr" %}
   
   {% include cctt.html subheader="four" %}
@@ -59,7 +59,7 @@ The samples and photo's are made by S. Babbs. Clicking on the photo shows a larg
   {% include ctrl.html s1="cttc" name="open honeycomb turning stitch" photo="ASN51" %}
   {% include ctrl.html s1="cttt" name="tulle" photo="ASN15" %}
   {% include ctrl.html s1="ctrc" photo="ASN48" %}
-  {% include ctrl.html s1="clcl" name="simplified mock three pair stitch" photo="ASN32" %}
+  {% include ctrl.html s1="clcl" name="simplified mock three pair stitch" photo="ASN32" s2="crcr" %}
   {% include ctrl.html s1="crcl" comm="See variations with 2 mirrored stitches." %}
   
   {% include cctt.html subheader="five" %}
@@ -73,7 +73,7 @@ The samples and photo's are made by S. Babbs. Clicking on the photo shows a larg
   {% include ctrl.html s1="ctcctc" name="two pair spider" photo="ASN08" %}
   {% include ctrl.html s1="ctctct" name="triple half stitch / lock stitch" %}
   {% include ctrl.html s1="cttctt" name="honeycomb turning stitch" photo="ASN12" %}
-  {% include ctrl.html s1="clcrct" name="cat's eyes" photo="ASN16" %}
+  {% include ctrl.html s1="clcrct" name="cat's eyes" photo="ASN16" s2="crclct" %}
   {% include ctrl.html s1="crclcl" name="two pair bias stitch" %}
   {% include ctrl.html s1="crrcll" name="mixed doubles turning stitch" photo="ASN41" %}
   
@@ -81,7 +81,7 @@ The samples and photo's are made by S. Babbs. Clicking on the photo shows a larg
   
   {% include ctrl.html s1="ctctctc" %}
   {% include ctrl.html s1="ctcrctc" name="clothwork turning stitch" photo="ASN31" %}
-  {% include ctrl.html s1="clcrclc" name="two pair triangular stitch" photo="ASN17" %}
+  {% include ctrl.html s1="clcrclc" name="two pair triangular stitch" photo="ASN17" s2="crclcrc" %}
   
   {% include cctt.html subheader="eight" %}
   
@@ -94,7 +94,7 @@ The samples and photo's are made by S. Babbs. Clicking on the photo shows a larg
   
   {% include ctrl.html s1="ctctctctt" %}
   {% include ctrl.html s1="ctcrclctc" name="split pair double cloth" photo="ASN33" %}
-  {% include ctrl.html s1="ctclllllctc" name="bobbin lace pile stitch" photo="ASN39" %}
+  {% include ctrl.html s1="ctclllllctc" name="bobbin lace pile stitch" photo="ASN39" s2="ctcrrrrrctc" %}
   {% include ctrl.html s1="crrcllcrrcllcrrcllctt" name="tally (to fit)" %}
     
 </table>
