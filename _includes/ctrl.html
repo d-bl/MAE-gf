@@ -7,6 +7,10 @@
         {% else %}
           <a href="/GroundForge/nets?b={{ include.s1 }}" target="_blank"> {{ include.s1 }}</a>
         {% endif %}
+        {% if include.s2 %}
+           <br>
+           {{ include.s2 }} 
+        {% endif %}
     </td>
     <td>
        {% if include.name %}
