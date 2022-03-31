@@ -173,7 +173,7 @@ The name of these snowflakes is based on origami.
 
 [![windmill in ring pair][p-43wmr1]][t-43wmr1]
 
-[p-43wmr1]: ../images/snow/G43r.svg "windmill in paris ground"
+[p-43wmr1]: ../images/snow/G43r.svg "windmill in ring pair"
 [t-43wmr1]: /GroundForge/tiles?patchWidth=15&patchHeight=20&paintStitches=ctclll&j1=ctct&f1=ctcrrr&e1=ctc&d1=ctc&c1=ctc&b1=ctclll&k2=ctctll&i2=ctctrr&g2=ctct&e2=ctcrrr&d2=ctc&c2=ctclll&a2=ctct&l3=ctctll&j3=ctc&h3=ctctrr&g3=ctct&f3=ctct&d3=ctcttt&b3=ctct&a3=ctct&k4=ctc&j4=ctc&i4=ctc&g4=ctctrr&e4=ctct&c4=ctct&a4=ctclll&tile=x58886x-x5x-,4-114-7-4-7-,15-7-586-5-2,7-5-5-4-215-&shiftColsSW=-6&shiftRowsSW=4&shiftColsSE=6&shiftRowsSE=4
 
 ### Windmill snowflakes in a diamond
@@ -187,7 +187,7 @@ The name of these snowflakes is based on origami.
 
 [![windmills][p-43wmo1]][t-43wmo1]
 
-[p-43wmo1]: ../images/snow/G43o.svg "windmill in diamond"
+[p-43wmo1]: ../images/snow/G43o.svg "windmills"
 [t-43wmo1]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctc&d1=ctctt&f1=ctc&a2=ctc&b2=ctc&c2=ctcrr&e2=ctcll&f2=ctc&a3=ctc&b3=ctcrr&d3=ctc&f3=ctcll&tile=15-7-2,886-58,14-5-1&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
 ## Making of
