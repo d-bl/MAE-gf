@@ -59,6 +59,7 @@ The specified twitst in some stitch definitions may not be according to the expe
      alt="mt-0306"
      src="/MAE-gf/images/tricks/w-picts.png"
      lnk="/GroundForge/tiles?patchWidth=24&patchHeight=24&c1=c&e1=c&b2=c&d2=tctc&f2=c&h2=ctct&a3=cr&g3=cl&h4=tct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=--B-C---,-E-5-O-K,5-----5-,-------5"
+     title="0306-K"
  %}   
 
 On these pages several types of diagrams are used, as illustrated in the picture. On the left a schematic drawing of a _pair-diagram_, used as thumbnail. In the middle is a drawing of a _pair-diagram_ or _working-scheme_. Pins, pinpositions and colourcode are given as needed for the actual lace. On the right the ground is drawn schematic, to given an impression. Pins may or may not be drawn. The pinpositions are drawn as required for the actual lace. On these pages the name _scheme_ or _diagram_ will be used for all types of the drawings.                     
