@@ -129,7 +129,7 @@ Ants came to life as a variation of the Slavic ground. The result looks like ant
 
 <p style="clear: both"></p>
 
-[pic-ants]: ../images/roses/f-0692-foto.jpg?align=right "ants"
+[pic-ants]: ../images/roses/f-0692-foto.jpg?align=right "ants, 0692-K"
 
 [![0696-KG][P-0696-KG]][T-0696-KG] 
 [![0665-2G][P-0665-2G]][T-0665-2G] 
