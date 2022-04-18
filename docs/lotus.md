@@ -47,9 +47,6 @@ Lotus H,V,X means: the number of Horizontal rows, the number of Verticals and th
 ***
 [&uArr;]()
 
-[lotus_wt]: ../images_wt/gf%20lotus%20wt.png
-[lotus_gen]: ../images_wt/mx-lotus.png
-
 [T-22-]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&a2=ctcll&b2=ctc&a3=ctcrr&b3=ctc&tile=7-,12,88&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=2&shiftRowsSE=3
 
 [T-220]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&a2=ctcll&b2=ctc&a3=ctcrr&b3=ctc&a4=ctctt&tile=5-,12,88,7-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=4&shiftColsSE=1&shiftRowsSE=4
