@@ -102,15 +102,15 @@ Traditionally, a bias ground is made as follows: make two stitches diagonally, m
 [![0204-Kd][P-0204-Kd]][T-0204-Kd]
 [![0238-R][P-0238-R]][T-0238-R]
 
-[P-0223-N]: ../images/bias/0223-N.png "0223-N"
-[P-0224-K]: ../images/bias/0224-K.png "0224-K"
-[P-0204-Kd]: ../images/bias/0204-Kd.png "0204-K"
-[P-0247-Dd]: ../images/bias/0247-Dd.png "0247-D"
-[P-0250-Kd]: ../images/bias/0250-Kd.png "0250-K"
-[P-0259-Nd]: ../images/bias/0259-Nd.png "0259-N"
-[P-0233-Nd]: ../images/bias/0233-Nd.png "0233-N"
-[P-0235-Nd]: ../images/bias/0235-Nd.png "0235-N"
-[P-0238-R]: ../images/bias/0238-R.png "0238-R"
+[P-0223-N]: ../images/bias/0223-N.png "0223-ND"
+[P-0224-K]: ../images/bias/0224-K.png "0224-KD"
+[P-0204-Kd]: ../images/bias/0204-Kd.png "0204-NK"
+[P-0247-Dd]: ../images/bias/0247-Dd.png "0247-DL"
+[P-0250-Kd]: ../images/bias/0250-Kd.png "0250-KL"
+[P-0259-Nd]: ../images/bias/0259-Nd.png "0259-ND"
+[P-0233-Nd]: ../images/bias/0233-Nd.png "0233-NK"
+[P-0235-Nd]: ../images/bias/0235-Nd.png "0235-NL"
+[P-0238-R]: ../images/bias/0238-R.png "0238-RK"
 
 [T-0223-N]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctct&c1=ctct&a1=ctct&d2=ctct&b2=ctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0224-K]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=tctct&c1=ctc&a1=ctcl&d2=ctc&b2=ctcl&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
