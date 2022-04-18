@@ -92,12 +92,12 @@ Mrs. V. Irvine has worked an example using the left pricking. See [_Favourite Fl
 
 [p-paris-droste]: ../images/droste/paris-droste-0.svg?align=right "variation on fancy Zeccatello"
 [p-fancy-z]: ../images/droste/paris-droste-f12.svg?align=right "fancy Zeccatello"
-[p-paris-lcr]: ../images/droste/paris-lcr.svg
-[p-paris-rcl]: ../images/droste/paris-rcl.svg
-[p-paris-ctc]: ../images/droste/paris-ctc.svg
-[i-paris-lcr]: ../images/droste/i-paris-lcr.svg
-[i-paris-rcl]: ../images/droste/i-paris-rcl.svg
-[i-paris-ctc]: ../images/droste/i-paris-ctc.svg
+[p-paris-lcr]: ../images/droste/paris-lcr.svg "bias ground via lcr"
+[p-paris-rcl]: ../images/droste/paris-rcl.svg "bias ground via rcl"
+[p-paris-ctc]: ../images/droste/paris-ctc.svg "rose ground via ctc"
+[i-paris-lcr]: ../images/droste/i-paris-lcr.svg "bias grond via lcr"
+[i-paris-rcl]: ../images/droste/i-paris-rcl.svg "bias ground via rcl"
+[i-paris-ctc]: ../images/droste/i-paris-ctc.svg "rose ground via ctc"
 [p-VI-001]: https://www.flickr.com/photos/veronika_irvine/23167573524/in/album-72157649379176771/
 
 [Paris]: /GroundForge/tiles?tile=-5&tileStitch=ct&droste2=ctct&patchWidth=5&patchHeight=6&shiftColsSW=-2&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=1
@@ -126,9 +126,9 @@ The following examples use a stitch like <span class="stch">crctclcr</span> in t
 [D-LL-2]: /GroundForge/tiles?patchWidth=8&patchHeight=8&a1=crctclcr&droste2=ct,a18=ctct&tile=5-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
 [D-LL-3]: /GroundForge/tiles?patchWidth=8&patchHeight=8&a1=crctclcr&b2=clctcrcl&droste2=ctc,a18=ctct,a16=a17=ctcl,b26=b27=ctcr&tile=5-,-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[p-damp1]: ../images/droste/damp1.png
-[p-damp2]: ../images/droste/damp2.png
-[p-damp3]: ../images/droste/damp3.png
+[p-damp1]: ../images/droste/damp1.png "droste-ll-1"
+[p-damp2]: ../images/droste/damp2.png "droste-ll-2"
+[p-damp3]: ../images/droste/damp3.png "droste-ll-3"
 
 ***
 [&uArr;]()
