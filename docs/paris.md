@@ -22,7 +22,7 @@ title: Paris grounds
 The photo shows the example on the bottom of this page, but slighty adapted to get the colours right. The "middle" stitch is a pin chain (_Stretched Paris ground_).    
 <p style="clear: both"></p>
 
-[ph-0434]: ../images/paris/f-0434.png?align=right
+[ph-0434]: ../images/paris/f-0434.png?align=right "0404-K adaption"
 
 ## Traditional Paris ground
 
