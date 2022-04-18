@@ -10,7 +10,7 @@ title: Net grounds
   alt="S.Babbs"
   lnk="/GroundForge/tiles?patchWidth=12&patchHeight=12&b1=cl&a1=ctcrr&tile=22,&footsideStitch=ctctt&tileStitch=ctcrr&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
 "
-  title="Sue Babbs"
+  title="Lacework and photo: Sue Babbs"
 %}  
 
 ## Contents
