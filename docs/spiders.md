@@ -94,7 +94,7 @@ Spiders with a narrow eye also can be achieved using <span class="elem">step 2</
 
 * [example][t-snq3]; [example with stars][t-snq3st]
 
-[p-snq3]: ../images/spiders/g-snq3.svg "spider with a narrow eye in a diamond"
+[p-snq3]: ../images/spiders/g-snq3.svg "spider with a narrow eye, in ring"
 [p-sp-narrow-eye]: ../images/spiders/g-sn3.svg?align=left "spider with a narrow eye" 
 
 [t-snq3]: /GroundForge/tiles?patchWidth=16&patchHeight=16&c1=ctct&f1=ctc&h1=ctc&a2=ctc&b2=lctct&c2=ctc&d2=rctct&e2=ctc&f2=ctc&g2=ctc&h2=ctc&a3=lctct&b3=ctc&d3=ctc&e3=rctct&f3=ctc&h3=ctc&a4=ctc&b4=ctc&c4=ctc&d4=ctc&e4=ctc&f4=rctct&g4=ctc&h4=lctct&tile=--5--7-4,C632B831,66-224-7,31583256&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
