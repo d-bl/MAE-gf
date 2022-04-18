@@ -35,11 +35,11 @@ The photo shows the example on the bottom of this page, but slighty adapted to g
 <p style="clear: both"></p>
 
 [pic-par-grnd]: ../images/paris/G04.svg?align=right "paris ground" 
-[P-0400-DG]: ../images/paris/0400-dg.png "traditonal"
-[P-0403-KG]: ../images/paris/0403-kg.png
-[P-0408-KG]: ../images/paris/0408-kg.png
-[P-0424-KF]: ../images/paris/0424-kf.png
-[P-0441-XG]: ../images/paris/0441-xg.png
+[P-0400-DG]: ../images/paris/0400-dg.png "traditonal, 0400-D"
+[P-0403-KG]: ../images/paris/0403-kg.png "0403-K"
+[P-0408-KG]: ../images/paris/0408-kg.png "0408-K"
+[P-0424-KF]: ../images/paris/0424-kf.png "0424-P"
+[P-0441-XG]: ../images/paris/0441-xg.png "0441-X"
 
 [T-0400-DG]: /GroundForge/tiles?patchWidth=15&patchHeight=20&c1=ctct&a1=ctct&d2=ctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0403-KG]: /GroundForge/tiles?patchWidth=15&patchHeight=20&a1=c&c1=c&d2=tctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -72,9 +72,9 @@ This ground is also known as _Copenhagen hole_.
 
 [![G54][p-g54]][t-g54-1] [![G64][p-g64]][t-g64-1]
 
-[p-big-paris]: ../images/paris/g-big-paris.svg?align=left "big paris ground"
-[p-g54]: ../images/paris/G54.svg "alternative placing big paris 1"
-[p-g64]: ../images/paris/G64.svg "alternative placing big paris 2"
+[p-big-paris]: ../images/paris/g-big-paris.svg?align=left "big paris ground, 3412"
+[p-g54]: ../images/paris/G54.svg "alternative placing big paris ground 1, 5401"
+[p-g64]: ../images/paris/G64.svg "alternative placing big paris ground 2, 6401"
 
 [t-big-paris]: /GroundForge/tiles?patchWidth=16&patchHeight=24&b1=ct&f1=ct&c2=c&e2=c&b3=ct&d3=ctc&f3=ct&tile=-5---5,--C-B-,-B-5-C&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 [t-g54-1]: /GroundForge/tiles?patchWidth=15&patchHeight=18&b1=ctc&e2=ctct&c2=ctct&a2=ctct&d3=ctct&b3=ctct&e4=ctcr&c4=ctcl&a4=ctct&tile=-5---,b-c-b,-5-5-,b-5-c&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=4
@@ -112,9 +112,9 @@ The following example shows three different matrix-scheme's to obtain the same g
 [![as rose ground][P-0404-R]][T-0404-R]
 [![as torchon ground][P-0404-T]][T-0404-T]
 
-[P-0404-P]: ../images/paris/0404-kp.png
-[P-0404-R]: ../images/paris/0404-kr.png
-[P-0404-T]: ../images/paris/0404-kt.png
+[P-0404-P]: ../images/paris/0404-kp.png "0404-K as paris ground"
+[P-0404-R]: ../images/paris/0404-kr.png "0404-K as rose ground"
+[P-0404-T]: ../images/paris/0404-kt.png "0404-K as torchon ground"
 
 [T-0404-R]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=c&c1=ctct&d1=c&b2=l&d2=r&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0404-P]: /GroundForge/tiles?patchWidth=12&patchHeight=16&a1=cr&c1=cl&d2=ctctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
