@@ -54,13 +54,13 @@ Traditionally, a bias ground is made as follows: make two stitches diagonally, m
 [![0257-Ld][P-0257-Ld]][T-0257-Ld]
 [![0250-L][P-0250-L]][T-0250-L]
 
-[P-0221-N]: ../images/bias/0221-N.png "traditional, 0221-N"
+[P-0221-N]: ../images/bias/0221-N.png "traditional, 0221-N" 
 [P-0246-N]: ../images/bias/0246-N.png "0246-N"
 [P-0212-K]: ../images/bias/0212-K.png "0212-K"
 [P-0214-N]: ../images/bias/0214-N.png "0214-N"
 [P-0245-Ld]: ../images/bias/0245-Ld.png "0245-L"
 [P-0274-Kd]: ../images/bias/0274-Kd.png "0274-K"
-[P-0277-Kd]: ../images/bias/0277-Kd.png "0277-K'
+[P-0277-Kd]: ../images/bias/0277-Kd.png "0277-K"
 [P-0250-L]: ../images/bias/0250-L.png "0250-L"
 [P-0279-K]: ../images/bias/0279-K.png "0279-K"
 [P-0228-N]: ../images/bias/0228-N.png "0228-N"
@@ -147,7 +147,7 @@ See also [mrs Whiting's index][L-whiting]: E6.
 [![][p-bias-sq]][t-bias-sq]
 
 [p-bias-vg]: ../images/bias/g-bias-vg.svg "bias with diagonal, 0221-N"
-[p-bias-sq]: ../images/bias/g-bias-in-sqr.svg "bias in diamond, "0236-L"
+[p-bias-sq]: ../images/bias/g-bias-in-sqr.svg "bias in diamond, 0236-L"
 [t-bias-vg]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&d1=ct&e1=ctct&b2=ctct&d2=ctct&e2=ct&f2=ctct&a3=ctct&c3=ctct&e3=ctct&f3=ct&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5-486-,-5-486,6-5-48
 [t-bias-sq]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&d1=ctc&e1=ctc&b2=ctct&d2=ctcl&e2=ctc&f2=ctc&a3=ctct&c3=ctct&e3=ctcl&f3=ctct&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5-486-,-5-486,6-5-48
    
