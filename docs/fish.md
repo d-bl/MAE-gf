@@ -53,8 +53,6 @@ Fish B,S,W means: the number of Bones, the number of Spines and the number of Wa
 
 [lotus-page]: ../docs/lotus
 [droste-page]: ../docs/droste
-[fish-gen]: ../images_wt/mx-fish.png
-[fish-build]: ../images_wt/mx-fish-bld.png
 
 [T-12-]: /GroundForge/tiles?patchWidth=9&patchHeight=11&m1=rrctctt&d1=ctc&e2=ctc&c2=ctcll&d3=ctc&a3=llctctt&e4=ctcrr&c4=ctc&footside=x-,xz,4-,xw&tile=-5-,0z2,-5-,6v9&headside=-7,YX,-X,VX&footsideStitch=ctc&tileStitch=ctc&headsideStitch=ctc&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=4
 
