@@ -33,7 +33,7 @@ A zip file with more than 2000 rose ground variants can be <a href="https://gith
 [![0122-DG][P-0122-DG]][T-0122-DG]     
 <p style="clear: both"></p>
 
-[![0505-KG][P-0505-KG]][T-0505-KG] 
+[![0505-KG][P-0505-KG]][T-0505-KG]
 [![0511-NG][P-0511-NG]][T-0511-NG] 
 [![0508-LG][P-0508-LG]][T-0508-LG] 
 [![0501-DG][P-0501-DG]][T-0501-DG] 
@@ -41,20 +41,20 @@ A zip file with more than 2000 rose ground variants can be <a href="https://gith
 [![0504-LG][P-0504-LG]][T-0504-LG]
 
 [p-rose-pricking]: ../images/roses/g01.svg?align=right "rose ground"
-[P-0111-NG]: ../images/roses/0111-ng.png "traditonal" 
-[P-0112-KG]: ../images/roses/0112-kg.png
-[P-0106-LG]: ../images/roses/0106-lg.png
-[P-0113-NG]: ../images/roses/0113-ng.png
-[P-0116-LG]: ../images/roses/0116-lg.png
-[P-0122-DG]: ../images/roses/0122-dg.png
-[P-0116-KG]: ../images/roses/0116-kg.png
+[P-0111-NG]: ../images/roses/0111-ng.png "traditonal, 0111-N" 
+[P-0112-KG]: ../images/roses/0112-kg.png "0112-K"
+[P-0106-LG]: ../images/roses/0106-lg.png "0106-L"
+[P-0113-NG]: ../images/roses/0113-ng.png "0113-N"
+[P-0116-LG]: ../images/roses/0116-lg.png "0116-L"
+[P-0122-DG]: ../images/roses/0122-dg.png "0122-D"
+[P-0116-KG]: ../images/roses/0116-kg.png "0116-K"
 
-[P-0505-KG]: ../images/roses/0505-kg.png
-[P-0511-NG]: ../images/roses/0511-ng.png
-[P-0508-LG]: ../images/roses/0508-lg.png
-[P-0501-DG]: ../images/roses/0501-dg.png
-[P-0598-KG]: ../images/roses/0598-kg.png
-[P-0504-LG]: ../images/roses/0504-lg.png
+[P-0505-KG]: ../images/roses/0505-kg.png "0505-K"
+[P-0511-NG]: ../images/roses/0511-ng.png "0511-N"
+[P-0508-LG]: ../images/roses/0508-lg.png "0508-L"
+[P-0501-DG]: ../images/roses/0501-dg.png "0501-D"
+[P-0598-KG]: ../images/roses/0598-kg.png "0598-K"
+[P-0504-LG]: ../images/roses/0504-lg.png "0504-L"
 
 [T-0112-KG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=c&c1=ctct&b1=c&a1=tctc&d2=ctc&b2=ctc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0111-NG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ct&c1=ctct&b1=ct&a1=ctct&d2=ctct&b2=ctct&tile=5831,-4-7&tileStitch=ctct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -83,9 +83,9 @@ This stitch is created with a little loop at the sides of the rose ground. To ob
 [![in a diamond][P-0902-q]][T-0902-q] 
 
 [p-sunny]: ../images/roses/0902-KP.png?align=right "sunny stitch"
-[P-0902-l]: ../images/roses/0902-lg.png
-[P-0902-f]: ../images/roses/0902-kf.png
-[P-0902-q]: ../images/roses/0902-kiv.png
+[P-0902-l]: ../images/roses/0902-lg.png "sunny stitch, 0902-L"
+[P-0902-f]: ../images/roses/0902-kf.png "sunny stitch, 0902-P"
+[P-0902-q]: ../images/roses/0902-kiv.png "sunny stitch, 0902-K"
 
 [T-0902-l]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&c1=ctctc&b1=ctc&a1=ctctc&d2=clcrrclc&b2=crcllcrc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0902-f]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctctc&b1=ctctctctc&c1=ctctc&d1=ctctctctc&b2=crcllcrc&d2=clcrrclc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -113,14 +113,14 @@ This stitch is created with a little loop at the sides of the rose ground. To ob
 [T-0651-KG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=ct&c1=ctc&b1=ct&a1=ctc&d2=ct&b2=ct&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 [p-slav-pricking]: ../images/roses/g06.svg?align=right "slavic ground"
-[P-0671-NG]: ../images/roses/0671-ng.png "traditional" 
-[P-0654-KG]: ../images/roses/0654-kg.png
-[P-0673-NG]: ../images/roses/0673-ng.png
-[P-0676-KV]: ../images/roses/0676-kv.png
+[P-0671-NG]: ../images/roses/0671-ng.png "traditional, 0671-N" 
+[P-0654-KG]: ../images/roses/0654-kg.png "0654-K"
+[P-0673-NG]: ../images/roses/0673-ng.png "0673-N"
+[P-0676-KV]: ../images/roses/0676-kv.png "0676-K"
 
-[P-0698-KG]: ../images/roses/0698-kg.png 
-[P-0697-NG]: ../images/roses/0697-ng.png 
-[P-0651-kG]: ../images/roses/0651-kg.png "damse ground"
+[P-0698-KG]: ../images/roses/0698-kg.png "0698-K"
+[P-0697-NG]: ../images/roses/0697-ng.png "0697-N"
+[P-0651-kG]: ../images/roses/0651-kg.png "damse ground, 0651-K"
 
 ## Ants
 
@@ -143,17 +143,17 @@ Ants came to life as a variation of the Slavic ground. The result looks like ant
 [![0693-XG][P-0693-XG]][T-0693-XG] 
 <p style="clear: both"></p>
 
-[P-0696-KG]: ../images/roses/0696-kg.png
-[P-0666-KG]: ../images/roses/0666-kg.png 
-[P-0510-LG]: ../images/roses/0510-lg.png 
-[P-0683-NG]: ../images/roses/0683-ng.png
-[P-0685-KG]: ../images/roses/0685-kg.png 
-[P-0681-NG]: ../images/roses/0681-ng.png 
-[P-0514-KG]: ../images/roses/0514-kg.png 
-[P-0513-DG]: ../images/roses/0513-dg.png 
-[P-0693-XG]: ../images/roses/0693-xg.png
-[P-0692-KG]: ../images/roses/0692-kg.png
-[P-0665-2G]: ../images/roses/0665-2g.png
+[P-0696-KG]: ../images/roses/0696-kg.png "0696-K"
+[P-0666-KG]: ../images/roses/0666-kg.png "0666-K"
+[P-0510-LG]: ../images/roses/0510-lg.png "0510-L"
+[P-0683-NG]: ../images/roses/0683-ng.png "0683-N"
+[P-0685-KG]: ../images/roses/0685-kg.png "0685-K"
+[P-0681-NG]: ../images/roses/0681-ng.png "0681-N"
+[P-0514-KG]: ../images/roses/0514-kg.png "0514-K"
+[P-0513-DG]: ../images/roses/0513-dg.png "0513-D"
+[P-0693-XG]: ../images/roses/0693-xg.png "0693-X"
+[P-0692-KG]: ../images/roses/0692-kg.png "0692-K"
+[P-0665-2G]: ../images/roses/0665-2g.png "0665-2"
 
 [T-0696-KG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=c&c1=ctctc&b1=c&a1=ctctc&d2=c&b2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0666-KG]: /GroundForge/tiles?patchWidth=12&patchHeight=16&d1=c&c1=ctctc&b1=c&a1=ctctc&d2=rcr&b2=lcl&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -179,11 +179,11 @@ These examples came to life as variations on a rose-ground with "do nothing (muc
 [![0402-LG][P-0402-LG]][T-0402-LG]
 <p style="clear: both"></p>
 
-[P-0403-KG]: ../images/roses/0403-kg.png
-[P-0424-KG]: ../images/roses/0424-kg.png
-[P-0404-KG]: ../images/roses/0404-kg.png
-[P-0427-NG]: ../images/roses/0427-ng.png
-[P-0402-LG]: ../images/roses/0402-lg.png
+[P-0403-KG]: ../images/roses/0403-kg.png "0403-K"
+[P-0424-KG]: ../images/roses/0424-kg.png "0424-K"
+[P-0404-KG]: ../images/roses/0404-kg.png "0404-K"
+[P-0427-NG]: ../images/roses/0427-ng.png "0427-N"
+[P-0402-LG]: ../images/roses/0402-lg.png "0402-L"
 
 [p-strpg]: ../images/roses/g-halfling.svg?align=right "stretched Paris ground"
 [page-paris]: ../docs/paris#traditional-paris-ground
@@ -206,9 +206,9 @@ Please note: when making the actual lace, it will make a big difference if the u
 
 [pic-tor-flem]: ../images/roses/g-tor-fl.svg?align=right "torchon - flemish"
 
-[PR-0112]: ../images/roses/R-0112.png
-[PR-0116]: ../images/roses/R-0116.png
-[PR-0504]: ../images/roses/R-0504.png
+[PR-0112]: ../images/roses/R-0112.png "0112-K"
+[PR-0116]: ../images/roses/R-0116.png "0116-K"
+[PR-0504]: ../images/roses/R-0504.png "0504-N"
 
 [TR-0112]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctt&c1=ctctt&e1=ctctt&f1=ctt&b2=ctctt&c2=c&d2=ctct&e2=c&f2=ctctt&a3=ctctt&c3=ctcr&e3=ctcl&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 [TR-0116]: /GroundForge/tiles?patchWidth=12&patchHeight=12&f1=c&e1=ctcr&c1=ctcl&b1=c&a1=ctctc&f2=ctcr&e2=c&d2=ctctc&c2=c&b2=ctcl&e3=ctc&c3=ctc&a3=ctct&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
@@ -220,8 +220,8 @@ Please note: when making the actual lace, it will make a big difference if the u
 [![roses with vertical][p-31]][t-3115]  [![roses with zigzag][p-61]][t-6101]     
 The ground on the right can also be obtain as a [Droste on Paris ground][dr-6101]      
 
-[p-31]: ../images/roses/g31.svg 
-[p-61]: ../images/roses/g61.svg 
+[p-31]: ../images/roses/g31.svg "3115"
+[p-61]: ../images/roses/g61.svg "6101"
 [t-3115]: /GroundForge/tiles?patchWidth=12&patchHeight=16&b1=tctct&a2=c&c2=c&d2=tctctc&a3=ctc&c3=ctc&a4=c&c4=c&d4=ctctct&tile=-5--,B-C3,7-4-,8-15&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [t-6101]: /GroundForge/tiles?patchWidth=15&patchHeight=15&e1=ctct&c1=ct&b1=ctct&a1=ct&f2=ct&c2=ct&a2=ct&e3=ctct&c3=ct&b3=ctct&a3=ct&d4=ct&tile=O3E-H-,4-7--5,158-L-,---5-&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=6&shiftRowsSE=2
 [dr-6101]: /GroundForge/tiles?patchWidth=15&patchHeight=20&c1=ct&a1=ct&d2=ctct&droste2=ct,d20=d23=ctct,a10=c10=ctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -229,8 +229,8 @@ The ground on the right can also be obtain as a [Droste on Paris ground][dr-6101
 Take a non-symmetrical rose ground unit, move one of the pins to the middle, and place this unit in alternating directions. Please note, the generated thread diagram displays the moved pin in the original position.              
 [![jp-1][P-jp-1]][T-jp-1] [![jp-2][P-jp-2]][T-jp-2]  
 
-[P-jp-1]: ../images/roses/w-jp-1.png
-[P-jp-2]: ../images/roses/w-jp-2.png
+[P-jp-1]: ../images/roses/w-jp-1.png "(not numbered)"
+[P-jp-2]: ../images/roses/w-jp-2.png "(not numbered)"
 
 [T-jp-1]: /GroundForge/tiles.html?patchWidth=16&patchHeight=14&h1=ct&g1=ct&f1=ct&e1=ctct&c1=ctct&b1=ct&a1=ct&g2=ct&f2=ctct&b2=ctct&a2=ct&h3=ct&g3=ct&f3=ct&e3=ctct&c3=ctct&b3=ct&a3=ct&h4=ctct&g4=ct&e4=ct&d4=ctct&c4=ct&a4=ct&tile=834-7315,44---77-,179-0483,7-158-43&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [T-jp-2]: /GroundForge/tiles.html?patchWidth=16&patchHeight=14&h1=ct&g1=ct&f1=ctct&e1=ctttct&c1=ctttct&b1=ctct&a1=ct&g2=ct&f2=ctct&b2=ctct&a2=ct&h3=ct&g3=ct&f3=ctct&e3=ctttct&c3=ctttct&b3=ctct&a3=ct&h4=ctct&g4=ctct&e4=ctct&d4=ctct&c4=ctct&a4=ctct&tile=834-7315,44---77-,179-0483,7-158-43&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
