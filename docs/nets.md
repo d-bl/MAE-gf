@@ -58,8 +58,8 @@ Please note: for most of the horizontal nets, the footsides on the left and righ
 
 [p-net1a]: ../images/nets/net1a.png "vertical alternating ground"
 [p-net1b]: ../images/nets/net1b.png "horizontal alternating ground"
-[p-net1c]: ../images/nets/net1c.png
-[p-net1d]: ../images/nets/net1d.png
+[p-net1c]: ../images/nets/net1c.png "diagonally alternating ground"
+[p-net1d]: ../images/nets/net1d.png "knights movement placing"
 [p-meander]: ../images/nets/cha.png?align=right "Meander: example footsides" 
 
 [t-net1a]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ct&c1=clcl&b1=ct&a1=clcl&d2=ct&c2=crcr&b2=ct&a2=crcr&d3=ct&c3=clcl&b3=ct&a3=clcl&d4=ct&c4=crcr&b4=ct&a4=crcr&tile=8888,1111,8888,1111&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
@@ -128,7 +128,7 @@ This scheme is equal to the [_bias ground_][page-bias].
 
 [![p1-net5]][t-0204] 
 
-[p1-net5]: ../images/nets/net5.png
+[p1-net5]: ../images/nets/net5.png "bias ground"
 [page-bias]: ../docs/bias
 [t-0204]: /GroundForge/tiles?patchWidth=15&patchHeight=15&d1=lct&c1=ctctc&a1=ctctct&tile=6-48&tileStitch=ctct&shiftColsSW=-3&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
 
