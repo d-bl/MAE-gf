@@ -84,7 +84,7 @@ This ground is also known as _Copenhagen hole_.
 
 ### Extension of big paris ground
 
-[![extension big paris][p-ex-big]][t-ex-big]
+[![extension big paris][p-ex-big]][t-ex-big]  [![extension big paris with 3 pair join][p-ex-3p]][t-ex-3p]
 
 ### Extension of dropped stitch ground
 
@@ -92,9 +92,11 @@ This ground is also known as _Copenhagen hole_.
 
 [p-ex-big]: ../images/paris/g-extended-big-paris.svg "extended big paris ground"
 [p-ex-drop]: ../images/paris/g-extended-drop-stitch.svg "extended drop stitch ground"
+[p-ex-3p]: ../images/paris/g-ebp-3-pair.svg "extended big paris ground with 3 pair joins"
 
 [t-ex-drop]: /GroundForge/tiles?patchWidth=15&patchHeight=20&d1=ctct&e2=ctctlllllll&c2=ctctrrrrrrr&f3=ctctlllll&b3=ctctrrrrr&g4=ctctlll&a4=ctctrrr&tile=xxx5xxx,xx4-7xx,x4x-x7x,4xx-xx7&tileStitch=ctct&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [t-ex-big]: /GroundForge/tiles?patchWidth=15&patchHeight=20&g1=ctct&e1=ctct&c1=ctct&h2=ctct&f2=ctct&d2=ctct&b2=ctct&g3=ctct&c3=ctct&h4=ctct&f4=ctct&d4=ctct&b4=ctct&tile=--5-5-5-,-b-5-5-c,--5---5-,-b-c-b-c,&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[t-ex-3p]: /GroundForge/tiles?patchWidth=15&patchHeight=20&paintStitches=ctctl&g1=ctcll&e1=ctct&c1=ctcrr&h2=ctctt&f2=ctctl&d2=ctctr&b2=ctctt&g3=ctctl&c3=ctctr&h4=ctctl&g4=cr&f4=ctcl&d4=ctcr&c4=cl&b4=ctctr&tile=--7-5-4-,-b-5-5-c,--5---5-,-b8d-a1c,&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Another arrangement
 
