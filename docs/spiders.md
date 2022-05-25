@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Spiders
+name: spiders.md
 ---
 
 # Spiders

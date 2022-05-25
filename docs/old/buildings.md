@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Buildings
+name: Advanced.md
 ---
 
 ## Fish building.

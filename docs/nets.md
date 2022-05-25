@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Net grounds
+name: nets.md
 ---
 
 # Net grounds

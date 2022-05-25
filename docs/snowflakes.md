@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Snowflakes
+name: snowflakes.md
 ---
 
 # Snowflakes

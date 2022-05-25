@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Lotus and lattice
+name: lotus.md
 ---
 
 # Lotus &amp; Lattice

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Flanders grounds
+name: flanders.md
 ---
 
 # Flanders grounds

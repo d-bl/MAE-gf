@@ -54,9 +54,12 @@ Many attractive examples<br>
 <ul>
     <li><a href="/GroundForge-help/Reuse">Share and reuse</a></li>
     <li>
-        <a href="https://help.github.com/articles/editing-files-in-another-user-s-repository/" target="_blank">Propose changes</a>
-        to the
-        <a href="https://github.com/d-bl/MAE-gf/tree/master/docs" target="_blank">pages</a>
+        {% if page.name  %}
+        <a href="{{ site.github.repository_url }}/blob/master/docs/{{ page.name }}" target="_blank" title="typo's, grammar, whatever">propose changes</a> to this page.
+        {% else %}
+        <a href="https://help.github.com/articles/editing-files-in-another-user-s-repository/" target="_blank">Propose changes</a> to
+        <a href="{{ site.github.repository_url }}/blob/master/docs/" target="_blank">help</a> pages.
+        {% endif %}
     </li>
 </ul>
 

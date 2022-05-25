@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Rose grounds
+name: rose.md
 ---
 
 # Rose grounds
