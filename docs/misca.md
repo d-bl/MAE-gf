@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Miscellaneous examples
-name: misca.md
 ---
 
 # Miscellaneous examples

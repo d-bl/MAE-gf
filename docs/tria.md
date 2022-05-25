@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Triangular grounds (Pagoda grounds)
-name: tria.md
 ---
 
 # Triangular Grounds or Pagoda's

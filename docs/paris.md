@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Paris grounds
-name: paris.md
 ---
 
 # Paris grounds

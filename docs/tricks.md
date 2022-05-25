@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Notes
-name: notes.md
 ---
 
 # Notes

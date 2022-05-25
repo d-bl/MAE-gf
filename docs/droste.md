@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Droste
-name: droste.md
 ---
 
 # Droste

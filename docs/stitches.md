@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Catalogue of stitches
-name: stitches.md
 ---
 
 # Catalogue of stitches

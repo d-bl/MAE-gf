@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Literature
-name: literature.md
 ---
 
 # Literature

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Bias grounds
-name: bias.md
 ---
 
 # Bias Grounds

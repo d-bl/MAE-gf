@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Fish
-name: fish.md
 ---
 
 # Fish

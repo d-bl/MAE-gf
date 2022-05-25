@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Counting stitches
-name: counting.md
 ---
 
 # Listing & counting stitches
