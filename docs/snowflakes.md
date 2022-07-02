@@ -123,7 +123,7 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 [P-0366-oiv]: ../images/snow/0366-oiv.png "0366-I"
 
 [T-0305-oiv]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ct&d1=ctctt&b2=ctr&c2=ctctt&d2=ctct&e2=ctctt&f2=ctl&a3=ctctt&b3=ctctt&c3=ct&e3=ct&f3=ctctt&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5--5--,-C632B,566-22
-[T-0366-oiv]: GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=ctct&d1=ctct&a1=tctct&f2=ctcl&e2=ctct&d2=ctc&c2=ctct&b2=ctcr&f3=ctct&e3=ctc&c3=ctc&b3=ctct&a3=ctct&tile=5--5--,-C632B,566-22&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
+[T-0366-oiv]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=ctct&d1=ctct&a1=tctct&f2=ctcl&e2=ctct&d2=ctc&c2=ctct&b2=ctcr&f3=ctct&e3=ctc&c3=ctc&b3=ctct&a3=ctct&tile=5--5--,-C632B,566-22&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
 ## Snowflake in a diamond, crossed
 
