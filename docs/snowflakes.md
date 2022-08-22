@@ -210,7 +210,7 @@ If the stitches indicated in white in the picture on the right are omitted, we g
 [p-sn-half-2]: ../images/snow/g-sn-half-60-2.svg "h305"
 [p-sn-half-3]: ../images/snow/g-sn-half-60-3.svg "h362 honeycomb by P. Fouché"
 
-[t-sn-half-1]: GroundForge/tiles?patchWidth=15&patchHeight=20&paintStitches=tctct&a1=ctc&b2=ctc&a3=tctct&b4=ctcrr&a5=ctctt&tile=7-,-5,B-,-C,B-,x-,x-,x-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=2&shiftRowsSE=4
+[t-sn-half-1]: /GroundForge/tiles?patchWidth=15&patchHeight=20&paintStitches=tctct&a1=ctc&b2=ctc&a3=tctct&b4=ctcrr&a5=ctctt&tile=7-,-5,B-,-C,B-,x-,x-,x-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=2&shiftRowsSE=4
 
 [t-sn-half-2]: /GroundForge/tiles?patchWidth=15&patchHeight=20&paintStitches=ctctt&c1=ctctt&a1=ctct&b2=ct&a3=ct&b4=ctr&c5=ctct&a5=ctctt&b6=ct&c7=ct&b8=ctl&tile=6-C,-5-,B--,-C-,B-2,-5-,--C,-B-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=3&shiftRowsSE=8
 
