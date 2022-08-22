@@ -16,6 +16,7 @@ title: Snowflakes
 * [Snowflakes diagonal](#snowflakes-diagonal)
 * [Other arrangements](#other-arrangements)
 * [Windmill snowflakes](#windmill-snowflakes)
+* [Half little snowflake](#half-little-snowflake)
 * [Making of](#making-of)
 
 ## Introduction
@@ -191,6 +192,29 @@ The name of these snowflakes is based on origami.
 
 [p-43wmo1]: ../images/snow/G43o.svg "windmills"
 [t-43wmo1]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctc&d1=ctctt&f1=ctc&a2=ctc&b2=ctc&c2=ctcrr&e2=ctcll&f2=ctc&a3=ctc&b3=ctcrr&d3=ctc&f3=ctcll&tile=15-7-2,886-58,14-5-1&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
+
+## Half little snowflake
+
+![half little snowflake][p-half-snowflake]
+
+If the stitches indicated in white in the picture on the right are omitted, we get a half little snowflake. This can be used in several configurations.        
+<p style="clear: both"></p>
+
+[![half little snowflake 1][p-sn-half-1]][t-sn-half-1]
+[![half little snowflake 1][p-sn-half-2]][t-sn-half-2]
+[![half little snowflake 1][p-sn-half-3]][t-sn-half-3]
+
+
+[p-half-snowflake]: ../images/snow/half-snowflake.png?align=right "half little snowflake"
+[p-sn-half-1]: ../images/snow/g-sn-half-60-1.svg "h366"
+[p-sn-half-2]: ../images/snow/g-sn-half-60-2.svg "h305"
+[p-sn-half-3]: ../images/snow/g-sn-half-60-3.svg "h362 honeycomb by P. Fouché"
+
+[t-sn-half-1]: GroundForge/tiles?patchWidth=15&patchHeight=20&paintStitches=tctct&a1=ctc&b2=ctc&a3=tctct&b4=ctcrr&a5=ctctt&tile=7-,-5,B-,-C,B-,x-,x-,x-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=2&shiftRowsSE=4
+
+[t-sn-half-2]: /GroundForge/tiles?patchWidth=15&patchHeight=20&paintStitches=ctctt&c1=ctctt&a1=ctct&b2=ct&a3=ct&b4=ctr&c5=ctct&a5=ctctt&b6=ct&c7=ct&b8=ctl&tile=6-C,-5-,B--,-C-,B-2,-5-,--C,-B-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=3&shiftRowsSE=8
+
+[t-sn-half-3]: /GroundForge/tiles?patchWidth=30&patchHeight=30&paintStitches=cttctt&i1=ctctt&g1=ctc&c1=ctc&a1=ctctt&j2=cttctt&f2=ctc&d2=ctc&i3=ctc&g3=ctcrr&c3=ctcll&a3=ctc&h4=ctc&f4=ctctt&d4=ctctt&b4=ctc&i5=ctc&e5=cttctt&a5=ctc&h6=ctcll&f6=ctc&d6=ctc&b6=ctcrr&tile=4-5x-x5-7-,x-x7-4x-x5,7-4x-x7-4-,x5-7-4-5x-,4x-x5x-x7-,x7-4-7-4x-&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=10&shiftRowsSE=6
 
 ## Making of
 
