@@ -201,20 +201,24 @@ If the stitches indicated in white in the picture on the right are omitted, we g
 <p style="clear: both"></p>
 
 [![half little snowflake 1][p-sn-half-1]][t-sn-half-1]
-[![half little snowflake 1][p-sn-half-2]][t-sn-half-2]
-[![half little snowflake 1][p-sn-half-3]][t-sn-half-3]
+[![half little snowflake 2][p-sn-half-2]][t-sn-half-2]
+[![half little snowflake 3][p-sn-half-3]][t-sn-half-3]
+[![half little snowflake 4][p-sn-half-4]][t-sn-half-4]
 
 
 [p-half-snowflake]: ../images/snow/half-snowflake.png?align=right "half little snowflake"
 [p-sn-half-1]: ../images/snow/g-sn-half-60-1.svg "h366"
 [p-sn-half-2]: ../images/snow/g-sn-half-60-2.svg "h305"
 [p-sn-half-3]: ../images/snow/g-sn-half-60-3.svg "h362 honeycomb by P. Fouché"
+[p-sn-half-4]: ../images/snow/g-sn-half-45-4.svg "hw362"
 
 [t-sn-half-1]: /GroundForge/tiles?patchWidth=15&patchHeight=20&paintStitches=tctct&a1=ctc&b2=ctc&a3=tctct&b4=ctcrr&a5=ctctt&tile=7-,-5,B-,-C,B-,x-,x-,x-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=2&shiftRowsSE=4
 
 [t-sn-half-2]: /GroundForge/tiles?patchWidth=15&patchHeight=20&paintStitches=ctctt&c1=ctctt&a1=ctct&b2=ct&a3=ct&b4=ctr&c5=ctct&a5=ctctt&b6=ct&c7=ct&b8=ctl&tile=6-C,-5-,B--,-C-,B-2,-5-,--C,-B-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=3&shiftRowsSE=8
 
 [t-sn-half-3]: /GroundForge/tiles?patchWidth=30&patchHeight=30&paintStitches=cttctt&i1=ctctt&g1=ctc&c1=ctc&a1=ctctt&j2=cttctt&f2=ctc&d2=ctc&i3=ctc&g3=ctcrr&c3=ctcll&a3=ctc&h4=ctc&f4=ctctt&d4=ctctt&b4=ctc&i5=ctc&e5=cttctt&a5=ctc&h6=ctcll&f6=ctc&d6=ctc&b6=ctcrr&tile=4-5x-x5-7-,x-x7-4x-x5,7-4x-x7-4-,x5-7-4-5x-,4x-x5x-x7-,x7-4-7-4x-&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=10&shiftRowsSE=6
+
+[t-sn-half-4]: /GroundForge/tiles?patchWidth=15&patchHeight=20&paintStitches=tctct&g1=ctc&c1=ctc&a1=tctct&h2=ctc&g2=ctc&f2=ctc&d2=ctc&c2=ctc&b2=ctc&tile=5-4---7-,-21C-B86&shiftColsSW=-4&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=2
 
 ## Making of
 
