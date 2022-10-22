@@ -84,7 +84,9 @@ This ground is also known as _Copenhagen hole_.
 
 ### Extension of big paris ground
 
-[![extension big paris][p-ex-big]][t-ex-big]  [![extension big paris with 3 pair join][p-ex-3p]][t-ex-3p]
+[![extension big paris][p-ex-big]][t-ex-big]  [![extension big paris with 3 pair join][p-ex-3p]][t-ex-3p]  
+[![][p-ex-v1]][t-ex-v1]  [![][p-ex-v2]][t-ex-v2]         
+<p style="clear: both"></p>
 
 ### Extension of dropped stitch ground
 
@@ -93,10 +95,14 @@ This ground is also known as _Copenhagen hole_.
 [p-ex-big]: ../images/paris/g-extended-big-paris.svg "extended big paris ground"
 [p-ex-drop]: ../images/paris/g-extended-drop-stitch.svg "extended drop stitch ground"
 [p-ex-3p]: ../images/paris/g-ebp-3-pair.svg "extended big paris ground with 3 pair joins"
+[p-ex-v1]: ../images/paris/g-ebp-v1.svg "extended big paris ground 1"
+[p-ex-v2]: ../images/paris/g-ebp-v2.svg "extended big paris ground 2"
 
 [t-ex-drop]: /GroundForge/tiles?patchWidth=15&patchHeight=20&d1=ctct&e2=ctctlllllll&c2=ctctrrrrrrr&f3=ctctlllll&b3=ctctrrrrr&g4=ctctlll&a4=ctctrrr&tile=xxx5xxx,xx4-7xx,x4x-x7x,4xx-xx7&tileStitch=ctct&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [t-ex-big]: /GroundForge/tiles?patchWidth=15&patchHeight=20&g1=ctct&e1=ctct&c1=ctct&h2=ctct&f2=ctct&d2=ctct&b2=ctct&g3=ctct&c3=ctct&h4=ctct&f4=ctct&d4=ctct&b4=ctct&tile=--5-5-5-,-b-5-5-c,--5---5-,-b-c-b-c,&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [t-ex-3p]: /GroundForge/tiles?patchWidth=15&patchHeight=20&paintStitches=ctctl&g1=ctcll&e1=ctct&c1=ctcrr&h2=ctctt&f2=ctctl&d2=ctctr&b2=ctctt&g3=ctctl&c3=ctctr&h4=ctctl&g4=cr&f4=ctcl&d4=ctcr&c4=cl&b4=ctctr&tile=--7-5-4-,-b-5-5-c,--5---5-,-b8d-a1c,&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[t-ex-v1]: /GroundForge/tiles?patchWidth=15&patchHeight=25&paintStitches=ttctctt&f1=ctct&d1=ctct&a1=ttctctt&h2=ctcr&g2=ctct&f2=ctct&d2=ctcr&c2=ctct&b2=ctcl&g3=ctcr&c3=ctcl&h4=ctct&g4=ctct&f4=ctcr&d4=ctcl&c4=ctct&b4=ctct&tile=5--7-4--,-2B8-1C6,--5---5-,-B3C-B3C,&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[t-ex-v2]: /GroundForge/tiles?patchWidth=15&patchHeight=25&paintStitches=ctc&g1=ctct&c1=ctct&a1=ttctctctt&h2=ctc&g2=ctc&f2=ctc&d2=ctc&c2=ctc&b2=ctc&g3=ctc&c3=ctc&h4=ctct&g4=ctcl&f4=ctc&d4=ctc&c4=ctcr&b4=ctct&tile=5-4---7-,-21C-B86,--7---4-,-A1C-B8D&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Another arrangement
 
