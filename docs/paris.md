@@ -84,8 +84,7 @@ This ground is also known as _Copenhagen hole_.
 
 ### Extension of big paris ground
 
-[![extension big paris][p-ex-big]][t-ex-big]  [![extension big paris with 3 pair join][p-ex-3p]][t-ex-3p]  
-[![][p-ex-v1]][t-ex-v1]  [![][p-ex-v2]][t-ex-v2]         
+[![extension big paris][p-ex-big]][t-ex-big]  [![extension big paris with 3 pair join][p-ex-3p]][t-ex-3p]  [![][p-ex-v1]][t-ex-v1]  [![][p-ex-v2]][t-ex-v2]         
 <p style="clear: both"></p>
 
 ### Extension of dropped stitch ground
