@@ -19,7 +19,10 @@ title: Rose grounds
 ## Introduction
 
 On this page several variants of the rose ground.     
+The variants with an extra stitch in the middle can be found on page [bias grounds_][page-bias].      
 A zip file with more than 2000 rose ground variants can be <a href="https://github.com/d-bl/MAE-gf/releases/download/rose_rounds/rose-ground-pair-diagrams.zip" download>downloaded here</a>.     
+
+[page-bias]: ../docs/bias
 
 ## Rose ground
 
