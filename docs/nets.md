@@ -49,11 +49,11 @@ For net-grounds with one stitch and its mirrored versions only, see page [_catal
 ## Horizontal net
 
 Horizontal nets can also be found in tape lace like Milanese, Hunnia and Russian lace.    
-A horizontal net ground made with non traditional stitches like CRCL is called "embellished clothwork".     
+A horizontal net ground made with non traditional stitches like <span class="stch">CRCL</span> is called "embellished clothwork".     
 
 [![p-meander]][t-meander]
 Please note: for most of the horizontal nets, the footsides on the left and right are best made like <span class="stch">rctPctctPctt</span> covering two rows as shown in the picture on the right.    
-Pleae note: if the ground is made with asymmetric stitches like CRCL, the ground might benefit if a pin is put in every stitch, like CR-P-CL.
+Pleae note: if the ground is made with asymmetric stitches like <span class="stch">CRCL</span>, the ground might benefit if a pin is put in every stitch, like <span class="stch">CR-P-CL</span>.
 <p style="clear: both"></p>
 
 [![p-net1a]][t-net1a]  [![p-net1b]][t-net1b]  [![p-net1c]][t-net1c]  [![p-net1d]][t-net1d]     
