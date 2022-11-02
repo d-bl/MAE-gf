@@ -127,6 +127,8 @@ Sometimes, the bias ground is referred to as [_rose ground_][page-rose], especia
 
 ##  Bias Ground crossed rose style
 
+This ground is also called _rose ground_.         
+
 [![crossed][P-bias-at]][T-0278-KK]  
 See also [mrs Whiting's index][L-whiting]: D6 and F4.    
 
