@@ -198,6 +198,7 @@ The name of these snowflakes is based on origami.
 ![half little snowflake][p-half-snowflake]
 
 If the stitches indicated in white in the picture on the right are omitted, we get a half little snowflake. This can be used in several configurations.        
+The pricking of the first example is equivalent to no 47 from _Moderne Torchonspitze_, where it is presented rose-ground style.                  
 <p style="clear: both"></p>
 
 [![half little snowflake 1][p-sn-half-1]][t-sn-half-1]
@@ -207,7 +208,7 @@ If the stitches indicated in white in the picture on the right are omitted, we g
 
 
 [p-half-snowflake]: ../images/snow/half-snowflake.png?align=right "half little snowflake"
-[p-sn-half-1]: ../images/snow/g-sn-half-60-1.svg "h366"
+[p-sn-half-1]: ../images/snow/g-sn-half-60-1.svg "h366, topologically equivalent to Moderne Torchonspitze no 47"
 [p-sn-half-2]: ../images/snow/g-sn-half-60-2.svg "h305"
 [p-sn-half-3]: ../images/snow/g-sn-half-60-3.svg "h362 honeycomb by P. Fouché"
 [p-sn-half-4]: ../images/snow/g-sn-half-45-4.svg "hw362"
