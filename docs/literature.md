@@ -11,7 +11,7 @@ Some of the publications listed here are mentioned on this website. Others are f
 * Deutscher Klöppelverband e.V.: Moderne Gründe           
 * K. Egger: Neue Raster, neue Gründe: Klöppeln für Fortgeschrittene         
 * V. Irvine: Developing a Mathematical Model for Bobbin Lace (paper)       
-* V. Irvine: Tesselace. See [Tools / Tessalations from templates](https://tesselace.com/tools/inkscape-extension/)
+* V. Irvine: Tesselace. See [Tools / Tessalations from templates](https://web.archive.org/web/20220517075010/https://tesselace.com/tools/inkscape-extension)
 * M. Kelly: Using modern grounds   
 * E. Kortelahti: Nyplättyä pitsiä - Bobbin lace (8 typical Kortelahti grounds)         
 * U. Löhr: Viele gute Gründe      
