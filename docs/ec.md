@@ -26,7 +26,7 @@ bla bla
 
 [basic pattern][b-1-2]
 
-[b-1-2]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=cc&n1=ctc&b1=cc&a1=ctctctct&n2=ctctctct&b2=ctc&a2=ctc&footside=r,1&tile=8,1&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
+[b-1-2]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=ctc&n1=ctc&b1=cc&a1=ctctctct&n2=ctctctct&b2=ctc&footside=r,1&tile=8,1&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
 
 
 
