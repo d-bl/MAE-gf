@@ -8,12 +8,12 @@ title: Embellished clothwork
 ## Contents
 
 * [Introduction](#introduction)
-* [1x2](#1_collumns_2_rows)
-* [2x2](#2_collumns_2_rows)
-* [2x2+1](#collumns_2_rows_offset_1)
-* [3x2](#3x2)
-* [3x2+1](#3x2+1)
-* [3x2+2](#3x2+2)
+* [1 collumn 2 rows](#1_collumns_2_rows)
+* [2 collumns 2 rows](#2_collumns_2_rows)
+* [2 collumns 2 rows offset 1](#2_collumns_2_rows_offset_1)
+* [3 collumns 2 rows](#3x2)
+* [3 collumns 2 rows offset 1](#3x2+1)
+* [3 collumns 2 rows offset 2](#3x2+2)
 * 3x4
 * 3x6
 * 4x2
