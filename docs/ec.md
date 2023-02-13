@@ -47,7 +47,7 @@ Test for size:
 
 [![meander][p-ec008]][t-ec008]
 
-[p-ec008]: ../images/ec/ec008.png "Meander, EC-008"
+[p-ec008]: ../images/ec/EC008.png "Meander, EC-008"
 
 [b-220]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=cc&n1=ctc&c1=ctc&b1=cc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=ctc&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
