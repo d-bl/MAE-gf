@@ -43,8 +43,8 @@ For embellished clothwork with one stitch and its mirrored versions only, see pa
 
 [basic pattern][b-220]      
 
-[![meander][p-ec008]][t-ec008]  
-[![EC-009][p-ec009]][t-ec009]  
+[![meander][p-ec008]][t-ec008] 
+[![EC-009][p-ec009]][t-ec009] 
 
 [p-ec008]: ../images/ec/EC008.png "Meander, EC-008"
 [p-ec009]: ../images/ec/EC009.png "EC-009"
