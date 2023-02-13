@@ -126,7 +126,7 @@ The following examples use a stitch like <span class="stch">crctclcr</span> in t
 [D-LL-2]: /GroundForge/tiles?patchWidth=8&patchHeight=8&a1=crctclcr&droste2=ct,a18=ctct&tile=5-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
 [D-LL-3]: /GroundForge/tiles?patchWidth=8&patchHeight=8&a1=crctclcr&b2=clctcrcl&droste2=ctc,a18=ctct,a16=a17=ctcl,b26=b27=ctcr&tile=5-,-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[p-damp1]: ../images/droste/damp1.png "droste-ll-1; EC-120-2-01"
+[p-damp1]: ../images/droste/damp1.png "droste-ll-1; EC-001"
 [p-damp2]: ../images/droste/damp2.png "droste-ll-2"
 [p-damp3]: ../images/droste/damp3.png "droste-ll-3"
 
