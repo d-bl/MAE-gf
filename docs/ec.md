@@ -43,13 +43,17 @@ For embellished clothwork with one stitch and its mirrored versions only, see pa
 
 [basic pattern][b-220]      
 
-[![meander][p-ec008]][t-ec008]
+[![meander][p-ec008]][t-ec008]  
+[![EC-009][p-ec009]][t-ec009]  
 
 [p-ec008]: ../images/ec/EC008.png "Meander, EC-008"
+[p-ec009]: ../images/ec/EC009.png "EC-009"
 
 [b-220]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=cc&n1=ctc&c1=ctc&b1=cc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=ctc&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 [t-ec008]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=clcr&b1=crcl&a1=ctctctct&n2=ctctctct&c2=clcr&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+
+[t-ec009]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=crcl&b1=ctc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=clcr&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ### 2 collumns 2 rows offset 1
 
