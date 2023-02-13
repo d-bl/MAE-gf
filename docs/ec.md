@@ -26,7 +26,10 @@ title: Embellished clothwork
 
  
 
-[p-fusion]: ../docs/misca#fusion
+For embellished clothwork with one stitch and its mirrored versions only, see page _<a href="/GroundForge/nets" target="_blank">nets</a>_.       
+
+[pg-stitches]: ../docs/stitches
+
 
 ## 1 collumn 2 rows
 
