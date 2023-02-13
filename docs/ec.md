@@ -30,21 +30,27 @@ title: Embellished clothwork
 
 ## 1 collumn 2 rows
 
-[basic pattern][b-1-2]
+[basic pattern][b-120]
 
-[b-1-2]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=ctc&n1=ctc&b1=cc&a1=ctctctct&n2=ctctctct&b2=ctc&footside=r,1&tile=8,1&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
+[b-120]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=ctc&n1=ctc&b1=cc&a1=ctctctct&n2=ctctctct&b2=ctc&footside=r,1&tile=8,1&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
 
 ## 2 collumns 2 rows
 
-[basic pattern][b-2-2]
+[basic pattern][b-220]
 
-[b-2-2]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=cc&n1=ctc&c1=ctc&b1=cc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=ctc&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+Test for size:
+
+[![test][p-test]][b-220]
+
+[p-test]: /images/ec/test.png
+
+[b-220]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=cc&n1=ctc&c1=ctc&b1=cc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=ctc&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ## 2 collumns 2 rows offset 1
 
-[basic pattern][b-2-2+1]
+[basic pattern][b-221]
 
-[b-2-2+1]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=cc&n1=ctc&c1=ctc&b1=cc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=ctc&&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
+[b-221]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=cc&n1=ctc&c1=ctc&b1=cc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=ctc&&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
 
 
 
