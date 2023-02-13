@@ -58,10 +58,10 @@ Pleae note: if the ground is made with asymmetric stitches like <span class="stc
 
 [![p-net1a]][t-net1a]  [![p-net1b]][t-net1b]  [![p-net1c]][t-net1c]  [![p-net1d]][t-net1d]     
 
-[p-net1a]: ../images/nets/net1a.png "vertical alternating ground"
-[p-net1b]: ../images/nets/net1b.png "horizontal alternating ground"
-[p-net1c]: ../images/nets/net1c.png "diagonally alternating ground"
-[p-net1d]: ../images/nets/net1d.png "knights movement placing"
+[p-net1a]: ../images/nets/net1a.png "vertical alternating ground; EC-420-3-01"
+[p-net1b]: ../images/nets/net1b.png "horizontal alternating ground; EC-140-2-01"
+[p-net1c]: ../images/nets/net1c.png "diagonally alternating ground; EC-220-3-01"
+[p-net1d]: ../images/nets/net1d.png "knights movement placing; EC-44v2-3-01"
 [p-meander]: ../images/nets/cha.png?align=right "Meander: example footsides" 
 
 [t-net1a]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ct&c1=clcl&b1=ct&a1=clcl&d2=ct&c2=crcr&b2=ct&a2=crcr&d3=ct&c3=clcl&b3=ct&a3=clcl&d4=ct&c4=crcr&b4=ct&a4=crcr&tile=8888,1111,8888,1111&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
