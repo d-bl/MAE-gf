@@ -42,7 +42,7 @@ Test for size:
 
 [![test][p-test]][b-220]
 
-[p-test]: /images/ec/test.png
+[p-test]: ../images/ec/test.png
 
 [b-220]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=cc&n1=ctc&c1=ctc&b1=cc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=ctc&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
