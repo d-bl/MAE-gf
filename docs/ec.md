@@ -41,9 +41,7 @@ For embellished clothwork with one stitch and its mirrored versions only, see pa
 
 ### 2 collumns 2 rows
 
-[basic pattern][b-220]
-
-Test for size:
+[basic pattern][b-220]      
 
 [![meander][p-ec008]][t-ec008]
 
