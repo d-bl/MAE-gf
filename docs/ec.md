@@ -42,7 +42,7 @@ Please note: the diagrams on this page show all twists between stitches.
 [p-ec002]: ../images/ec/EC002.png "EC-002, knitting"
 [p-ec003]: ../images/ec/EC003.png "EC-003, knitting"
 
-[t-ec-001]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=clctcrcl&n1=ctctt&b1=clctcrcl&a1=ctctctctct&n2=ctctctctct&b2=crctclcr&a2=-&footside=r,1&tile=8,1&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
+[t-ec001]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=clctcrcl&n1=ctctt&b1=clctcrcl&a1=ctctctctct&n2=ctctctctct&b2=crctclcr&a2=-&footside=r,1&tile=8,1&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
 
 [t-ec002]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&b1=crr&a1=ctctctctct&n2=ctctctctct&b2=cll&a2=-&footside=r,1&tile=8,1&headside=8,r&shiftColsSW=1&shiftRowsSW=0&shiftColsSE=0&shiftRowsSE=2
 
