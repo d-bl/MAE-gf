@@ -3,7 +3,7 @@ layout: default
 title: Embellished clothwork
 ---
 
-# Embellished
+# Embellished clothwork
 
 ## Contents
 
@@ -24,7 +24,7 @@ title: Embellished clothwork
 <span class="b-red">UNDER CONSTRUCTION</span>
 
 For embellished clothwork with one stitch and its mirrored versions only, see page _<a href="/GroundForge/nets" target="_blank">nets</a>_.       
-An explanation of the color code used on this page can be found on page _<a href="/GroundForge-help/color-rules" target="_blank">GroundForge help></a>_.   
+An explanation of the color code used on this page can be found on page _<a href="/GroundForge-help/color-rules" target="_blank">GroundForge help</a>_.   
 
 Please note: the diagrams on this page show all twists between stitches.
 
