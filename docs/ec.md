@@ -57,7 +57,7 @@ Please note: the diagrams on this page show all twists between stitches.
 
 [![meander][p-ec008]][t-ec008] 
 [![EC-009][p-ec009]][t-ec009] 
-[![EC-011][p-ec-11]][t-ec011] 
+[![EC-011][p-ec011]][t-ec011] 
 [![EC-010][p-ec010]][t-ec010]
 
 [p-ec008]: ../images/ec/EC008.png "Meander, EC-008"
