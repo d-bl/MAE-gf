@@ -83,11 +83,15 @@ Please note: the diagrams on this page show all twists between stitches.
 
 ### 3 columns, 2 rows, offset 1
 
-[![EC-012][p-ec012]][t-ec012]
+[![EC-012][p-ec012]][t-ec012] 
+[![EC-013][p-ec013]][t-ec013] 
 
 [p-ec012]: ../images/ec/EC012.png "EC-012"
+[p-ec013]: ../images/ec/EC013.png "EC-013" 
 
 [t-ec012]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=clc&n1=ctctt&d1=clc&c1=ct&b1=ctc&a1=ctctctct&n2=ctctctct&d2=clc&c2=ctc&b2=ct&a2=-&footside=r,1&tile=888,111&headside=8,r&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
+
+[t-ec013]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=crc&n1=ctctt&d1=clc&c1=ct&b1=ctc&a1=ctctctct&n2=ctctctct&d2=crc&c2=ctc&b2=ct&a2=-&footside=r,1&tile=888,111&headside=8,r&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
 
 
 ***
