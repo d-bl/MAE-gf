@@ -66,7 +66,7 @@ Please note: the diagrams on this page show all twists between stitches.
 
 [t-ec009]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=crcl&b1=ctc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=clcr&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[t-ec010]: /GroundForge/tiles?patchHeight=12&paintStitches=-&n1=ctctt&c1=clcr&b1=ctc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=clcr&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-ec010]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=clcr&b1=ctc&a1=ctctctct&n2=ctctt&c2=ctc&b2=clcr&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ### 2 columns 2 rows offset 1
 
