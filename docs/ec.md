@@ -57,17 +57,21 @@ Please note: the diagrams on this page show all twists between stitches.
 
 [![meander][p-ec008]][t-ec008] 
 [![EC-009][p-ec009]][t-ec009] 
+[![EC-011][p-ec-11]][t-ec011] 
 [![EC-010][p-ec010]][t-ec010]
 
 [p-ec008]: ../images/ec/EC008.png "Meander, EC-008"
 [p-ec009]: ../images/ec/EC009.png "EC-009"
 [p-ec010]: ../images/ec/EC010.png "EC-010"
+[p-ec011]: ../images/ec/EC011.png "EC-011"
 
 [t-ec008]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=clcr&b1=crcl&a1=ctctctct&n2=ctctctct&c2=clcr&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 [t-ec009]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=crcl&b1=ctc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=clcr&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 [t-ec010]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=clcr&b1=ctc&a1=ctctctct&n2=ctctt&c2=ctc&b2=clcr&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+
+[t-ec011]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=crcl&n1=ctctt&c1=clcr&b1=ctc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ### 2 columns 2 rows offset 1
 
