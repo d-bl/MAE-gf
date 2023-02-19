@@ -8,11 +8,12 @@ title: Embellished clothwork
 ## Contents
 
 * [Introduction](#introduction)
-* [1 column](#1_column)
-* [2 columns](#2_columns)
-* [3 columns 2 rows](#3x2)
-* [3 columns 2 rows offset 1](#3x2+1)
-* [3 columns 2 rows offset 2](#3x2+2)
+* [1 column](#1-column)
+* [2 columns](#2-columns)
+* [3 columns](#3-columns)
+* 3x2
+* 3x2+1
+* 3x2+2
 * 3x4
 * 3x6
 * 4x2
@@ -74,6 +75,7 @@ Please note: the diagrams on this page show all twists between stitches.
 
 [b-221]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=cc&n1=ctc&c1=ctc&b1=cc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=ctc&&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
 
+## 3 columns
 
 
 
