@@ -24,7 +24,7 @@ title: Embellished clothwork
 <span class="b-red">UNDER CONSTRUCTION</span>
 
 For embellished clothwork with one stitch and its mirrored versions only, see page _<a href="/GroundForge/nets" target="_blank">nets</a>_.       
-An explanation of the color code used on this page can be found on page _<a href="/GroundForge-help/color-rules" target="_blank">GroundForge help</a>_.   
+An explanation of the color code used on this page can be found on page _<a href="/GroundForge-help/color-rules" target="_blank">color rules</a>_.   
 
 Please note: the diagrams on this page show all twists between stitches.
 
@@ -56,13 +56,17 @@ Please note: the diagrams on this page show all twists between stitches.
 
 [![meander][p-ec008]][t-ec008] 
 [![EC-009][p-ec009]][t-ec009] 
+[![EC-010][p-ec010]][t-ec010]
 
 [p-ec008]: ../images/ec/EC008.png "Meander, EC-008"
 [p-ec009]: ../images/ec/EC009.png "EC-009"
+[p-ec010]: ../images/ec/EC010.png "EC-010"
 
 [t-ec008]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=clcr&b1=crcl&a1=ctctctct&n2=ctctctct&c2=clcr&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 [t-ec009]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=crcl&b1=ctc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=clcr&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+
+[t-ec010]: /GroundForge/tiles?patchHeight=12&paintStitches=-&n1=ctctt&c1=clcr&b1=ctc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=clcr&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ### 2 columns 2 rows offset 1
 
