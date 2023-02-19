@@ -33,7 +33,7 @@ Please note: the diagrams on this page show all twists between stitches.
 
 ## 1 column
 
-### 1 column 2 rows
+### 1 column, 2 rows
 
 [![EC-001][p-ec001]][t-ec001] 
 [![EC-002][p-ec002]][t-ec002] 
@@ -53,7 +53,7 @@ Please note: the diagrams on this page show all twists between stitches.
 
 ## 2 columns
 
-### 2 columns 2 rows
+### 2 columns, 2 rows
 
 [![meander][p-ec008]][t-ec008] 
 [![EC-009][p-ec009]][t-ec009] 
@@ -73,7 +73,7 @@ Please note: the diagrams on this page show all twists between stitches.
 
 [t-ec011]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=crcl&n1=ctctt&c1=clcr&b1=ctc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-### 2 columns 2 rows offset 1
+### 2 columns, 2 rows, offset 1
 
 [basic pattern][b-221]
 
@@ -81,6 +81,13 @@ Please note: the diagrams on this page show all twists between stitches.
 
 ## 3 columns
 
+### 3 columns, 2 rows, offset 1
+
+[![EC-012][p-ec012]][t-ec012]
+
+[p-ec012]: ../images/ec/EC012.png "EC-012"
+
+[t-ec012]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=clc&n1=ctctt&d1=clc&c1=ct&b1=ctc&a1=ctctctct&n2=ctctctct&d2=clc&c2=ctc&b2=ct&a2=-&footside=r,1&tile=888,111&headside=8,r&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
 
 
 ***
