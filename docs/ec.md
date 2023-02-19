@@ -81,6 +81,15 @@ Please note: the diagrams on this page show all twists between stitches.
 
 ## 3 columns
 
+### 3 columns, 2 rows
+
+[![EC-014][p-ec014]][t-ec014] 
+
+[p-ec014]: ../images/ec/EC014.png "EC-014, extended meander"
+
+[t-ec014]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=ctctctct&n1=ctctt&d1=crcl&c1=ct&b1=clcr&a1=ctctctct&n2=ctctctct&d2=crcl&c2=ct&b2=clcr&a2=-&footside=r,1&tile=888,111&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=3&shiftRowsSE=2
+
+
 ### 3 columns, 2 rows, offset 1
 
 [![EC-012][p-ec012]][t-ec012] 
