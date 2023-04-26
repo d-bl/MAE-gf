@@ -43,11 +43,11 @@ Please note: the diagrams on this page show all twists between stitches.
 [p-ec002]: ../images/ec/EC002.png "EC-002, knitting"
 [p-ec003]: ../images/ec/EC003.png "EC-003, knitting"
 
-[t-ec001]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=clctcrcl&n1=ctctt&b1=clctcrcl&a1=ctctctctct&n2=ctctctctct&b2=crctclcr&a2=-&footside=r,1&tile=8,1&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
+[t-ec001]: /GroundForge/stiches.html?patchWidth=12&patchHeight=12&paintStitches=clctcrcl&n1=ctctt&b1=clctcrcl&a1=ctctctctct&n2=ctctctctct&b2=crctclcr&a2=-&footside=r,1&tile=8,1&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
 
-[t-ec002]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=ctctct&n1=ctctt&b1=crr&a1=ctctct&n2=ctctct&b2=cll&a2=-&footside=r,1&tile=8,1&headside=8,r&shiftColsSW=1&shiftRowsSW=0&shiftColsSE=0&shiftRowsSE=2
+[t-ec002]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=ctctct&n1=ctctt&b1=crr&a1=ctctct&n2=ctctct&b2=cll&a2=-&footside=r,1&tile=8,1&headside=8,r&shiftColsSW=1&shiftRowsSW=0&shiftColsSE=0&shiftRowsSE=2
 
-[t-ec003]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=ctctct&n1=ctctt&b1=ccrr&a1=ctctct&n2=ctctct&b2=ccll&a2=-&footside=r,1&tile=8,1&headside=8,r&shiftColsSW=1&shiftRowsSW=0&shiftColsSE=0&shiftRowsSE=2
+[t-ec003]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=ctctct&n1=ctctt&b1=ccrr&a1=ctctct&n2=ctctct&b2=ccll&a2=-&footside=r,1&tile=8,1&headside=8,r&shiftColsSW=1&shiftRowsSW=0&shiftColsSE=0&shiftRowsSE=2
 
 
 
@@ -65,19 +65,19 @@ Please note: the diagrams on this page show all twists between stitches.
 [p-ec010]: ../images/ec/EC010.png "EC-010"
 [p-ec011]: ../images/ec/EC011.png "EC-011"
 
-[t-ec008]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=clcr&b1=crcl&a1=ctctctct&n2=ctctctct&c2=clcr&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-ec008]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=clcr&b1=crcl&a1=ctctctct&n2=ctctctct&c2=clcr&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[t-ec009]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=crcl&b1=ctc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=clcr&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-ec009]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=crcl&b1=ctc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=clcr&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[t-ec010]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=ctctctct&n1=ctctt&c1=clcr&b1=ctc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=clcr&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-ec010]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=ctctctct&n1=ctctt&c1=clcr&b1=ctc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=clcr&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[t-ec011]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=crcl&n1=ctctt&c1=clcr&b1=ctc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-ec011]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=crcl&n1=ctctt&c1=clcr&b1=ctc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ### 2 columns, 2 rows, offset 1
 
 [basic pattern][b-221]
 
-[b-221]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=cc&n1=ctc&c1=ctc&b1=cc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=ctc&&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
+[b-221]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=cc&n1=ctc&c1=ctc&b1=cc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=ctc&&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
 
 ## 3 columns
 
@@ -87,7 +87,7 @@ Please note: the diagrams on this page show all twists between stitches.
 
 [p-ec014]: ../images/ec/EC014.png "EC-014, extended meander"
 
-[t-ec014]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=ctctctct&n1=ctctt&d1=crcl&c1=ct&b1=clcr&a1=ctctctct&n2=ctctctct&d2=crcl&c2=ct&b2=clcr&a2=-&footside=r,1&tile=888,111&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=3&shiftRowsSE=2
+[t-ec014]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=ctctctct&n1=ctctt&d1=crcl&c1=ct&b1=clcr&a1=ctctctct&n2=ctctctct&d2=crcl&c2=ct&b2=clcr&a2=-&footside=r,1&tile=888,111&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=3&shiftRowsSE=2
 
 
 ### 3 columns, 2 rows, offset 1
@@ -98,9 +98,9 @@ Please note: the diagrams on this page show all twists between stitches.
 [p-ec012]: ../images/ec/EC012.png "EC-012"
 [p-ec013]: ../images/ec/EC013.png "EC-013" 
 
-[t-ec012]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=clc&n1=ctctt&d1=clc&c1=ct&b1=ctc&a1=ctctctct&n2=ctctctct&d2=clc&c2=ctc&b2=ct&a2=-&footside=r,1&tile=888,111&headside=8,r&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
+[t-ec012]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=clc&n1=ctctt&d1=clc&c1=ct&b1=ctc&a1=ctctctct&n2=ctctctct&d2=clc&c2=ctc&b2=ct&a2=-&footside=r,1&tile=888,111&headside=8,r&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
 
-[t-ec013]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=crc&n1=ctctt&d1=clc&c1=ct&b1=ctc&a1=ctctctct&n2=ctctctct&d2=crc&c2=ctc&b2=ct&a2=-&footside=r,1&tile=888,111&headside=8,r&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
+[t-ec013]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=crc&n1=ctctt&d1=clc&c1=ct&b1=ctc&a1=ctctctct&n2=ctctctct&d2=crc&c2=ctc&b2=ct&a2=-&footside=r,1&tile=888,111&headside=8,r&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
 
 
 ***
