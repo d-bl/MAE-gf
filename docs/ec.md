@@ -18,17 +18,17 @@ title: Embellished clothwork
 <span class="b-red">UNDER CONSTRUCTION   
 The text-links will be replace by pictures. </span>      
 
-For embellished clothwork with one stitch and its mirrored versions only, see page _<a href="/GroundForge/nets" target="_blank">net variations</a>_.       
-An explanation of the color code used on this page can be found on page _<a href="/GroundForge-help/color-rules" target="_blank">color rules</a>_.   
+For embellished clothwork with one stitch and its mirrored versions only, see _<a href="/GroundForge/nets" target="_blank">net variations</a>_.       
+An explanation of the color code used on this page can be found on _<a href="/GroundForge-help/color-rules" target="_blank">color rules</a>_.   
 
 [![p-meander]][t-ec008]
-Please note: for most of the horizontal nets, the footsides on the left and right are best made like <span class="stch">rctPctctPctt</span> covering two rows as shown in the picture on the right.    
+Please note: for most of the horizontal nets, the footsides on the left and right are best made like <span class="stch">(t)ctPctctPc(t)</span> covering two rows as shown in the picture on the right.    
 Pleae note: if the ground is made with asymmetric stitches like <span class="stch">crcl</span>, the ground might benefit if a pin is put in every stitch, like <span class="stch">cr-P-cl</span> and even <span class="stch">ct-P-c</span>.
 <p style="clear: both"></p>
-   
+
 Please note: the diagrams on this page show all twists between stitches.
 
-[p-meander]: ../images/ec/f-ec-008.png?align=right "meander" 
+[p-meander]: ../images/ec/f-ec-008.png?align=right "Meander, EC-008" 
 
 [pg-stitches]: ../docs/stitches
 
