@@ -192,6 +192,8 @@ Between every two stitches, zero, one or more twists can be made. Examples:
 
 ## How to make mirrored words  
 
+Please note: the drawings of stitches in this section are drawn on a diagonal net.      
+
 ![][p-mirror-ext]
 
 ### Mirrored representation: b &hArr; d, p &hArr; q
