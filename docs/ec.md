@@ -11,14 +11,7 @@ title: Embellished clothwork
 * [1 column](#1-column)
 * [2 columns](#2-columns)
 * [3 columns](#3-columns)
-* 3x2
-* 3x2+1
-* 3x2+2
-* 3x4
-* 3x6
-* 4x2
-* 4x4
-
+* [4 columns](#4-columns)
 
 ## Introduction
 
@@ -27,7 +20,14 @@ title: Embellished clothwork
 For embellished clothwork with one stitch and its mirrored versions only, see page _<a href="/GroundForge/nets" target="_blank">nets</a>_.       
 An explanation of the color code used on this page can be found on page _<a href="/GroundForge-help/color-rules" target="_blank">color rules</a>_.   
 
+[![p-meander]][t-ec008]
+Please note: for most of the horizontal nets, the footsides on the left and right are best made like <span class="stch">rctPctctPctt</span> covering two rows as shown in the picture on the right.    
+Pleae note: if the ground is made with asymmetric stitches like <span class="stch">crcl</span>, the ground might benefit if a pin is put in every stitch, like <span class="stch">cr-P-cl</span> and even <span class="stch">ct-P-c</span>.
+<p style="clear: both"></p>
+   
 Please note: the diagrams on this page show all twists between stitches.
+
+[p-meander]: ../images/ec/f-ec-008.png?asign=right "meander" 
 
 [pg-stitches]: ../docs/stitches
 
@@ -137,7 +137,9 @@ Please note: the diagrams on this page show all twists between stitches.
 
 [t-ec015]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=clct&n1=ctc&d1=crcl&c1=ct&b1=clcr&a1=ctctctct&n2=ctctctct&d2=ct&c2=clc&b2=crct&a2=-&d3=clcr&c3=crc&b3=ct&d4=clcr&c4=crcl&b4=ct&d5=ct&c5=clct&b5=crc&d6=crcl&c6=ct&b6=clc&footside=r,1&tile=888,111,888,111,888,111&headside=8,r&shiftColsSW=-3&shiftRowsSW=6&shiftColsSE=0&shiftRowsSE=6
 
-#### 4 columns, 2 rows
+## 4 columns
+
+### 4 columns, 2 rows
 
 [EC-024][t-ec024]  
 
