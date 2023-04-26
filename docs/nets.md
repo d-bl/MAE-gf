@@ -49,7 +49,7 @@ For net-grounds with one stitch and its mirrored versions only, see page [_catal
 ## Horizontal net
 
 Horizontal nets can also be found in tape lace like Milanese, Hunnia and Russian lace.    
-A horizontal net ground made with non traditional stitches like <span class="stch">crcl</span> is called "embellished clothwork".     
+A horizontal net ground made with non traditional stitches like <span class="stch">crcl</span> is called [_Embellished clothwork_][page-ec].     
 
 [![p-meander]][t-meander]
 Please note: for most of the horizontal nets, the footsides on the left and right are best made like <span class="stch">rctPctctPctt</span> covering two rows as shown in the picture on the right.    
@@ -62,7 +62,8 @@ Pleae note: if the ground is made with asymmetric stitches like <span class="stc
 [p-net1b]: ../images/nets/net1b.png "horizontal alternating ground; EC-005"
 [p-net1c]: ../images/nets/net1c.png "diagonally alternating ground; EC-006"
 [p-net1d]: ../images/nets/net1d.png "knights movement placing; EC-007"
-[p-meander]: ../images/nets/cha.png?align=right "Meander: example footsides; EC-008" 
+
+[page-ec]: ../docs/ec
 
 [t-net1a]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ct&c1=clcl&b1=ct&a1=clcl&d2=ct&c2=crcr&b2=ct&a2=crcr&d3=ct&c3=clcl&b3=ct&a3=clcl&d4=ct&c4=crcr&b4=ct&a4=crcr&tile=8888,1111,8888,1111&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [t-net1b]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=clc&c1=clc&b1=clc&a1=clc&d2=ct&c2=ct&b2=ct&a2=ct&d3=crc&c3=crc&b3=crc&a3=crc&d4=ct&c4=ct&b4=ct&a4=ct&tile=8888,1111,8888,1111&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
