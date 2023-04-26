@@ -15,9 +15,10 @@ title: Embellished clothwork
 
 ## Introduction
 
-<span class="b-red">UNDER CONSTRUCTION</span>
+<span class="b-red">UNDER CONSTRUCTION   
+The text-links will be replace by pictures. </span>      
 
-For embellished clothwork with one stitch and its mirrored versions only, see page _<a href="/GroundForge/nets" target="_blank">nets</a>_.       
+For embellished clothwork with one stitch and its mirrored versions only, see page _<a href="/GroundForge/nets" target="_blank">net variations</a>_.       
 An explanation of the color code used on this page can be found on page _<a href="/GroundForge-help/color-rules" target="_blank">color rules</a>_.   
 
 [![p-meander]][t-ec008]
@@ -27,7 +28,7 @@ Pleae note: if the ground is made with asymmetric stitches like <span class="stc
    
 Please note: the diagrams on this page show all twists between stitches.
 
-[p-meander]: ../images/ec/f-ec-008.png?asign=right "meander" 
+[p-meander]: ../images/ec/f-ec-008.png?align=right "meander" 
 
 [pg-stitches]: ../docs/stitches
 
