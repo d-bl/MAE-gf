@@ -43,7 +43,7 @@ Please note: the diagrams on this page show all twists between stitches.
 [p-ec002]: ../images/ec/EC002.png "EC-002, knitting"
 [p-ec003]: ../images/ec/EC003.png "EC-003, knitting"
 
-[t-ec001]: /GroundForge/stiches.html?patchWidth=12&patchHeight=12&paintStitches=clctcrcl&n1=ctctt&b1=clctcrcl&a1=ctctctctct&n2=ctctctctct&b2=crctclcr&a2=-&footside=r,1&tile=8,1&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
+[t-ec001]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=clctcrcl&n1=ctctt&b1=clctcrcl&a1=ctctctctct&n2=ctctctctct&b2=crctclcr&a2=-&footside=r,1&tile=8,1&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
 
 [t-ec002]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=ctctct&n1=ctctt&b1=crr&a1=ctctct&n2=ctctct&b2=cll&a2=-&footside=r,1&tile=8,1&headside=8,r&shiftColsSW=1&shiftRowsSW=0&shiftColsSE=0&shiftRowsSE=2
 
@@ -77,7 +77,7 @@ Please note: the diagrams on this page show all twists between stitches.
 
 [basic pattern][b-221]
 
-[b-221]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=cc&n1=ctc&c1=ctc&b1=cc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=ctc&&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
+[b-221]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=cc&n1=ctc&c1=ctc&b1=cc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=ct&a2=-c&&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
 
 ## 3 columns
 
