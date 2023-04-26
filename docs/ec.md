@@ -45,9 +45,9 @@ Please note: the diagrams on this page show all twists between stitches.
 
 [t-ec001]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=clctcrcl&n1=ctctt&b1=clctcrcl&a1=ctctctctct&n2=ctctctctct&b2=crctclcr&a2=-&footside=r,1&tile=8,1&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
 
-[t-ec002]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&b1=crr&a1=ctctctctct&n2=ctctctctct&b2=cll&a2=-&footside=r,1&tile=8,1&headside=8,r&shiftColsSW=1&shiftRowsSW=0&shiftColsSE=0&shiftRowsSE=2
+[t-ec002]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=ctctct&n1=ctctt&b1=crr&a1=ctctct&n2=ctctct&b2=cll&a2=-&footside=r,1&tile=8,1&headside=8,r&shiftColsSW=1&shiftRowsSW=0&shiftColsSE=0&shiftRowsSE=2
 
-[t-ec003]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=ccll&n1=ctctt&b1=ccrr&a1=ctctctctct&n2=ctctctctct&b2=ccll&a2=-&footside=r,1&tile=8,1&headside=8,r&shiftColsSW=1&shiftRowsSW=0&shiftColsSE=0&shiftRowsSE=2
+[t-ec003]: https://d-bl.github.io/GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=ctctct&n1=ctctt&b1=ccrr&a1=ctctct&n2=ctctct&b2=ccll&a2=-&footside=r,1&tile=8,1&headside=8,r&shiftColsSW=1&shiftRowsSW=0&shiftColsSE=0&shiftRowsSE=2
 
 
 
@@ -69,7 +69,7 @@ Please note: the diagrams on this page show all twists between stitches.
 
 [t-ec009]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=crcl&b1=ctc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=clcr&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[t-ec010]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=clcr&b1=ctc&a1=ctctctct&n2=ctctt&c2=ctc&b2=clcr&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-ec010]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=ctctctct&n1=ctctt&c1=clcr&b1=ctc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=clcr&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 [t-ec011]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=crcl&n1=ctctt&c1=clcr&b1=ctc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
