@@ -59,13 +59,13 @@ Please note: the diagrams on this page show all twists between stitches.
 [![EC-009][p-ec009]][t-ec009] 
 [![EC-011][p-ec011]][t-ec011] 
 [![EC-010][p-ec010]][t-ec010]        
-[EC-016][t-ec016]  
-[EC-017][t-ec017]  
-[EC-018][t-ec018]  
-[EC-019][t-ec019]  
-[EC-020][t-ec020]  
-[EC-021][t-ec021]  
-[EC-022][t-ec022]   
+[EC-016][t-ec016] 
+[EC-017][t-ec017] 
+[EC-018][t-ec018] 
+[EC-019][t-ec019] 
+[EC-020][t-ec020] 
+[EC-021][t-ec021] 
+[EC-022][t-ec022]    
 
 [p-ec008]: ../images/ec/EC008.png "Meander, EC-008"
 [p-ec009]: ../images/ec/EC009.png "EC-009"
@@ -92,21 +92,21 @@ Please note: the diagrams on this page show all twists between stitches.
 
 [t-ec021]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=crct&n1=ctctt&c1=ctc&b1=clct&a1=ctctctct&n2=ctctctct&c2=ctc&b2=crct&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[t-ec022]: /GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=clct&n1=ctctt&c1=ctc&b1=crct&a1=ctctctct&n2=ctctctct&c2=ctc&b2=clct&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-ec022]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=clct&n1=ctctt&c1=ctc&b1=crct&a1=ctctctct&n2=ctctctct&c2=ctc&b2=clct&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ### 2 columns, 2 rows, offset 1
 
 [basic pattern][b-221]
 
-[b-221]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=cc&n1=ctc&c1=ctc&b1=cc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=ct&a2=-c&&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
+[b-221]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=cc&n1=ctc&c1=ctc&b1=cc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=ct&a2=-&&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
 
 ## 3 columns
 
 ### 3 columns, 2 rows
 
 [![EC-014][p-ec014]][t-ec014]       
-[EC-023][t-ec023]  
-[EC-025][t-ec025]  
+[EC-023][t-ec023] 
+[EC-025][t-ec025]     
   
 [p-ec014]: ../images/ec/EC014.png "EC-014, extended meander"
 
@@ -139,7 +139,7 @@ Please note: the diagrams on this page show all twists between stitches.
 
 #### 4 columns, 2 rows
 
-[EC-0254][t-ec024]  
+[EC-024][t-ec024]  
 
 [t-ec024]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=crcl&n1=ctc&e1=ctc&d1=crcl&c1=ctc&b1=clcr&a1=ctctctct&n2=ctctctct&e2=ctc&d2=crcl&c2=ctc&b2=clcr&a2=-&footside=r,1&tile=8888,1111&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=2
 
