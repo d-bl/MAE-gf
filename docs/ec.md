@@ -37,7 +37,7 @@ Please note: the diagrams on this page show all twists between stitches.
 ### 1 column, 2 rows
 
 [![EC-001][p-ec001]][t-ec001] 
-[![EC-002][p-ec002]][t-ec002] 
+[![EC-002][p-ec002]][t-ec002]  
 [![EC-003][p-ec003]][t-ec003] 
 
 [p-ec001]: ../images/ec/EC001.png "EC-001, &-ground" 
@@ -58,8 +58,11 @@ Please note: the diagrams on this page show all twists between stitches.
 
 [![meander][p-ec008]][t-ec008] 
 [![EC-009][p-ec009]][t-ec009] 
+[![EC-010][p-ec010]][t-ec010] 
 [![EC-011][p-ec011]][t-ec011] 
-[![EC-010][p-ec010]][t-ec010]        
+[![EC-018][p-ec018]][t-ec018] 
+[![EC-027][p-ec027]][t-ec027]
+      
 [EC-016][t-ec016] 
 [EC-017][t-ec017] 
 [EC-018][t-ec018] 
@@ -67,13 +70,13 @@ Please note: the diagrams on this page show all twists between stitches.
 [EC-020][t-ec020] 
 [EC-021][t-ec021] 
 [EC-022][t-ec022] 
-[EC-027][t-ec027]
-
 
 [p-ec008]: ../images/ec/EC008.png "Meander, EC-008"
 [p-ec009]: ../images/ec/EC009.png "EC-009"
-[p-ec010]: ../images/ec/EC010.png "EC-010"
+[p-ec010]: ../images/ec/EC010.png "Earth, EC-010"
 [p-ec011]: ../images/ec/EC011.png "EC-011" 
+[p-ec018]: ../images/ec/EC018.png "Fire, EC-018"
+[p-ec027]: ../images/ec/EC027.png "Sky, EC-027"
 
 [t-ec008]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=clcr&b1=crcl&a1=ctctctct&n2=ctctctct&c2=clcr&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
@@ -109,7 +112,8 @@ Please note: the diagrams on this page show all twists between stitches.
 
 ### 3 columns, 2 rows
 
-[![EC-014][p-ec014]][t-ec014]       
+[![EC-014][p-ec014]][t-ec014] 
+    
 [EC-023][t-ec023] 
 [EC-025][t-ec025]     
   
@@ -124,11 +128,12 @@ Please note: the diagrams on this page show all twists between stitches.
 ### 3 columns, 2 rows, offset 1
 
 [![EC-012][p-ec012]][t-ec012] 
-[![EC-013][p-ec013]][t-ec013]       
-[EC-026 M.Thoman][t-ec026]   
+[![EC-013][p-ec013]][t-ec013] 
+[![EC-026][p-ec026]][t-ec026] 
 
 [p-ec012]: ../images/ec/EC012.png "EC-012"
 [p-ec013]: ../images/ec/EC013.png "EC-013" 
+[p-ec026]: ../images/ec/EC026.png "by M. Thoman, EC-026"
 
 [t-ec012]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=clc&n1=ctctt&d1=clc&c1=ct&b1=ctc&a1=ctctctct&n2=ctctctct&d2=clc&c2=ctc&b2=ct&a2=-&footside=r,1&tile=888,111&headside=8,r&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
 
@@ -138,7 +143,7 @@ Please note: the diagrams on this page show all twists between stitches.
 
 ### 3 columns, 6 rows
 
-[EC-015][t-ec015]
+[EC-015][t-ec015]  
 
 [t-ec015]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=clct&n1=ctc&d1=crcl&c1=ct&b1=clcr&a1=ctctctct&n2=ctctctct&d2=ct&c2=clc&b2=crct&a2=-&d3=clcr&c3=crc&b3=ct&d4=clcr&c4=crcl&b4=ct&d5=ct&c5=clct&b5=crc&d6=crcl&c6=ct&b6=clc&footside=r,1&tile=888,111,888,111,888,111&headside=8,r&shiftColsSW=-3&shiftRowsSW=6&shiftColsSE=0&shiftRowsSE=6
 
@@ -146,7 +151,11 @@ Please note: the diagrams on this page show all twists between stitches.
 
 ### 4 columns, 2 rows
 
-[EC-024][t-ec024] [EC-028][t-ec028]
+[![EC-028][p-ec028]][t-ec028] 
+   
+[EC-024][t-ec024] 
+
+[p-ec028]: ../images/ec/EC028.png "Water, EC028"
 
 [t-ec024]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=crcl&n1=ctc&e1=ctc&d1=crcl&c1=ctc&b1=clcr&a1=ctctctct&n2=ctctctct&e2=ctc&d2=crcl&c2=ctc&b2=clcr&a2=-&footside=r,1&tile=8888,1111&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=2
 
