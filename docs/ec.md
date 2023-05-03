@@ -37,7 +37,7 @@ Please note: the diagrams on this page show all twists between stitches.
 ### 1 column, 2 rows
 
 [![EC-001][p-ec001]][t-ec001] 
-[![EC-002][p-ec002]][t-ec002]  
+[![EC-002][p-ec002]][t-ec002] 
 [![EC-003][p-ec003]][t-ec003] 
 
 [p-ec001]: ../images/ec/EC001.png "EC-001, &-ground" 
@@ -65,7 +65,6 @@ Please note: the diagrams on this page show all twists between stitches.
       
 [EC-016][t-ec016] 
 [EC-017][t-ec017] 
-[EC-018][t-ec018] 
 [EC-019][t-ec019] 
 [EC-020][t-ec020] 
 [EC-021][t-ec021] 
@@ -155,7 +154,7 @@ Please note: the diagrams on this page show all twists between stitches.
    
 [EC-024][t-ec024] 
 
-[p-ec028]: ../images/ec/EC028.png "Water, EC028"
+[p-ec028]: ../images/ec/EC028.png "Water, EC-028"
 
 [t-ec024]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=crcl&n1=ctc&e1=ctc&d1=crcl&c1=ctc&b1=clcr&a1=ctctctct&n2=ctctctct&e2=ctc&d2=crcl&c2=ctc&b2=clcr&a2=-&footside=r,1&tile=8888,1111&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=2
 
