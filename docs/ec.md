@@ -22,10 +22,9 @@ An explanation of the color code used on this page can be found on _<a href="/Gr
 
 [![p-meander]][t-ec008]
 Please note: for most of the horizontal nets, the footsides on the left and right are best made like <span class="stch">(t)ctPctctPc(t)</span> covering two rows as shown in the picture on the right.    
-Pleae note: if the ground is made with asymmetric stitches like <span class="stch">crcl</span>, the ground might benefit if a pin is put in every stitch, like <span class="stch">cr-P-cl</span> and even <span class="stch">ct-P-c</span>.
+Pleae note: if the ground is made with asymmetric stitches like <span class="stch">crcl</span>, the ground might benefit if a pin is put in every stitch, like <span class="stch">cr-P-cl</span> and even <span class="stch">ct-P-c</span>.   
+Please note: the diagrams on this page show all twists between stitches.
 <p style="clear: both"></p>
-
-Please note: the diagrams on this page show all twists between stitches.       
 
 If you hoover with your mouse over a picture on this page, a number is displayed. These numbers have no specific meaning, but can be used for reference. Sometimes, a name is displayed. This refers to the name of the work where this variations was used for the first time (to our knowlegde).      
 
