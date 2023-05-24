@@ -15,8 +15,7 @@ title: Embellished clothwork
 
 ## Introduction
 
-<span class="b-red">UNDER CONSTRUCTION   
-The text-links will be replace by pictures. </span>      
+Usually, a clothwork area is made in one stitch (cloth stitch, half stitch or whole stitch) going more or less horizontally from left to right and back again. In Embellished Clothwork different, asymmetric stitches are applied in one area, going strictly horizontally from left to right and back on the next row.     
 
 For embellished clothwork with one stitch and its mirrored versions only, see _<a href="/GroundForge/nets" target="_blank">net variations</a>_.       
 An explanation of the color code used on this page can be found on _<a href="/GroundForge-help/color-rules" target="_blank">color rules</a>_.   
@@ -26,7 +25,9 @@ Please note: for most of the horizontal nets, the footsides on the left and righ
 Pleae note: if the ground is made with asymmetric stitches like <span class="stch">crcl</span>, the ground might benefit if a pin is put in every stitch, like <span class="stch">cr-P-cl</span> and even <span class="stch">ct-P-c</span>.
 <p style="clear: both"></p>
 
-Please note: the diagrams on this page show all twists between stitches.
+Please note: the diagrams on this page show all twists between stitches.       
+
+If you hoover with your mouse over a picture on this page, a number is displayed. These numbers have no specific meaning, but can be used for reference. Sometimes, a name is displayed. This refers to the name of the work where this variations was used for the first time (to our knowlegde).      
 
 [p-meander]: ../images/ec/f-ec-008.png?align=right "Meander, EC-008" 
 
@@ -63,12 +64,12 @@ Please note: the diagrams on this page show all twists between stitches.
 [![EC-018][p-ec018]][t-ec018] 
 [![EC-027][p-ec027]][t-ec027]
       
-[EC-016][t-ec016] 
-[EC-017][t-ec017] 
-[EC-019][t-ec019] 
-[EC-020][t-ec020] 
-[EC-021][t-ec021] 
-[EC-022][t-ec022] 
+[![EC-016][p-ec016]][t-ec016] 
+[![EC-017][p-ec017]][t-ec017] 
+[![EC-019][p-ec019]][t-ec019] 
+[![EC-020][p-ec020]][t-ec020] 
+[![EC-021][p-ec021]][t-ec021] 
+[![EC-022][p-ec022]][t-ec022] 
 
 [p-ec008]: ../images/ec/EC008.png "Meander, EC-008"
 [p-ec009]: ../images/ec/EC009.png "EC-009"
@@ -76,6 +77,12 @@ Please note: the diagrams on this page show all twists between stitches.
 [p-ec011]: ../images/ec/EC011.png "EC-011" 
 [p-ec018]: ../images/ec/EC018.png "Fire, EC-018"
 [p-ec027]: ../images/ec/EC027.png "Sky, EC-027"
+[p-ec016]: ../images/ec/EC016.png "EC-016"
+[p-ec017]: ../images/ec/EC017.png "EC-017"
+[p-ec019]: ../images/ec/EC019.png "EC-019"
+[p-ec020]: ../images/ec/EC020.png "EC-020"
+[p-ec021]: ../images/ec/EC021.png "EC-021"
+[p-ec022]: ../images/ec/EC022.png "EC-022"
 
 [t-ec008]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=clcr&b1=crcl&a1=ctctctct&n2=ctctctct&c2=clcr&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
@@ -103,20 +110,24 @@ Please note: the diagrams on this page show all twists between stitches.
 
 ### 2 columns, 2 rows, offset 1
 
-[basic pattern][b-221]
+[![EC-029][p-ec029]][t-ec029] 
 
-[b-221]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=cc&n1=ctc&c1=ctc&b1=cc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=ct&a2=-&&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
+[p-ec029]: ../images/ec/EC029.png "EC-029"
+
+[t-ec029]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2&n1=ctc&c1=ct&b1=clcrrclc&a1=ctctctct&n2=ctctctct&c2=crcllcrc&b2=ct&a2=-
+
 
 ## 3 columns
 
 ### 3 columns, 2 rows
 
 [![EC-014][p-ec014]][t-ec014] 
-    
-[EC-023][t-ec023] 
-[EC-025][t-ec025]     
+[![EC-023][p-ec023]][t-ec023] 
+[![EC-025][p-ec025]][t-ec025] 
   
 [p-ec014]: ../images/ec/EC014.png "EC-014, extended meander"
+[p-ec023]: ../images/ec/EC023.png "EC-023"
+[p-ec025]: ../images/ec/EC025.png "EC-025"
 
 [t-ec014]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=ctctctct&n1=ctctt&d1=crcl&c1=ct&b1=clcr&a1=ctctctct&n2=ctctctct&d2=crcl&c2=ct&b2=clcr&a2=-&footside=r,1&tile=888,111&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=3&shiftRowsSE=2
 
@@ -142,7 +153,9 @@ Please note: the diagrams on this page show all twists between stitches.
 
 ### 3 columns, 6 rows
 
-[EC-015][t-ec015]  
+[![EC-015][p-ec015]][t-ec015] 
+
+[p-ec015]: ../images/ec/EC015.png "EC-015"
 
 [t-ec015]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=clct&n1=ctc&d1=crcl&c1=ct&b1=clcr&a1=ctctctct&n2=ctctctct&d2=ct&c2=clc&b2=crct&a2=-&d3=clcr&c3=crc&b3=ct&d4=clcr&c4=crcl&b4=ct&d5=ct&c5=clct&b5=crc&d6=crcl&c6=ct&b6=clc&footside=r,1&tile=888,111,888,111,888,111&headside=8,r&shiftColsSW=-3&shiftRowsSW=6&shiftColsSE=0&shiftRowsSE=6
 
@@ -151,10 +164,10 @@ Please note: the diagrams on this page show all twists between stitches.
 ### 4 columns, 2 rows
 
 [![EC-028][p-ec028]][t-ec028] 
+[![EC-024][p-ec024]][t-ec024] 
    
-[EC-024][t-ec024] 
-
 [p-ec028]: ../images/ec/EC028.png "Water, EC-028"
+[p-ec024]: ../images/ec/EC024.png "EC-024"
 
 [t-ec024]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=crcl&n1=ctc&e1=ctc&d1=crcl&c1=ctc&b1=clcr&a1=ctctctct&n2=ctctctct&e2=ctc&d2=crcl&c2=ctc&b2=clcr&a2=-&footside=r,1&tile=8888,1111&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=2
 
