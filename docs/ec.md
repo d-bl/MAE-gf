@@ -26,7 +26,7 @@ Pleae note: if the ground is made with asymmetric stitches like <span class="stc
 Please note: the diagrams on this page show all twists between stitches.
 <p style="clear: both"></p>
 
-If you hoover with your mouse over a picture on this page, a number is displayed. These numbers have no specific meaning, but can be used for reference. Sometimes, a name is displayed. This refers to the name of the work where this variations was used for the first time (to our knowlegde).      
+If you hoover with your mouse over a picture on this page, a number is displayed. These numbers have no specific meaning, but can be used for reference. Sometimes, a name is displayed. This refers to the name of the work where this variation was used for the first time (to our knowlegde).      
 
 [p-meander]: ../images/ec/f-ec-008.png?align=right "Meander, EC-008" 
 
