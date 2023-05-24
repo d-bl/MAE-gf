@@ -61,8 +61,7 @@ If you hoover with your mouse over a picture on this page, a number is displayed
 [![EC-010][p-ec010]][t-ec010] 
 [![EC-011][p-ec011]][t-ec011] 
 [![EC-018][p-ec018]][t-ec018] 
-[![EC-027][p-ec027]][t-ec027]
-      
+[![EC-027][p-ec027]][t-ec027]       
 [![EC-016][p-ec016]][t-ec016] 
 [![EC-017][p-ec017]][t-ec017] 
 [![EC-019][p-ec019]][t-ec019] 
