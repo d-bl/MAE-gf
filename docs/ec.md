@@ -69,12 +69,12 @@ If you hoover with your mouse over a picture on this page, a number is displayed
 [![EC-021][p-ec021]][t-ec021] 
 [![EC-022][p-ec022]][t-ec022] 
 
-[p-ec008]: ../images/ec/EC008.png "Meander, EC-008"
+[p-ec008]: ../images/ec/EC008.png "EC-008, Meander"
 [p-ec009]: ../images/ec/EC009.png "EC-009"
-[p-ec010]: ../images/ec/EC010.png "Earth, EC-010"
+[p-ec010]: ../images/ec/EC010.png "EC-010, Earth"
 [p-ec011]: ../images/ec/EC011.png "EC-011" 
-[p-ec018]: ../images/ec/EC018.png "Fire, EC-018"
-[p-ec027]: ../images/ec/EC027.png "Sky, EC-027"
+[p-ec018]: ../images/ec/EC018.png "EC-018, Fire"
+[p-ec027]: ../images/ec/EC027.png "EC-027, Sky"
 [p-ec016]: ../images/ec/EC016.png "EC-016"
 [p-ec017]: ../images/ec/EC017.png "EC-017"
 [p-ec019]: ../images/ec/EC019.png "EC-019"
@@ -163,14 +163,17 @@ If you hoover with your mouse over a picture on this page, a number is displayed
 
 [![EC-028][p-ec028]][t-ec028] 
 [![EC-024][p-ec024]][t-ec024] 
+[![EC-030][p-ec030]][t-ec030]
    
-[p-ec028]: ../images/ec/EC028.png "Water, EC-028"
+[p-ec028]: ../images/ec/EC028.png "EC-028, Water"
 [p-ec024]: ../images/ec/EC024.png "EC-024"
+[p-ec030]: ../images/ec/EC030.png "EC-030, double meander"
 
 [t-ec024]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=crcl&n1=ctc&e1=ctc&d1=crcl&c1=ctc&b1=clcr&a1=ctctctct&n2=ctctctct&e2=ctc&d2=crcl&c2=ctc&b2=clcr&a2=-&footside=r,1&tile=8888,1111&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=2
 
 [t-ec028]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&footside=r,1&tile=8888,1111&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=2&n1=ctctt&e1=clcr&d1=ctc&c1=crcl&b1=ct&a1=ctctctct&n2=ctctctct&e2=clcr&d2=ct&c2=crcl&b2=ctc&a2=-
 
+[t-ec030]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&footside=r,1&tile=8888,1111&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=2&n1=ctc&e1=ctc&d1=crrcl&c1=ctc&b1=cllc&a1=ctctctct&n2=ctctctct&e2=ctc&d2=crrc&c2=ctc&b2=cllcr&a2=-
 
 ***
 [&uArr;]()
