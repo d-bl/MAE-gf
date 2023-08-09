@@ -1,4 +1,6 @@
 @import "{{ site.theme }}";
+header a{color: #fff}
+header a:hover {color: #9ddcff}
 .deprecated { background: darkorange; padding: 2px; }
 
 Header { background: #2e7bcf url(../images/header-bg-left.png) top right repeat; padding: 0; }
