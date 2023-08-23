@@ -42,7 +42,7 @@ There are several ways of making three-paired joins. As Groundforge does not do 
 * Fish and snowflake       
 [![p-3pr-fh-h]][t-3pr-fh-h] [![p-3pr-sn-v]][t-3pr-sn-v] [![p-3pr-sn-d]][t-3pr-sn-d]
 * Other examples        
-[![p-3pr-132]][t-3pr-132]  [![p-3pr-123]][t-3pr-123]         
+[![p-3pr-132]][t-3pr-132] [![p-3pr-123]][t-3pr-123]         
 <p style="clear: both"></p>   
 
 This [rose ground variant][T-3cc] looks like a three paired join, but has crossings instead of twists.   
