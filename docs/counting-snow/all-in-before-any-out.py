@@ -58,4 +58,4 @@ for perm_nr in range(len(perms)):
     print('</g>')
 for perm in perms:
     s = {perm, flip_bd(perm), flip_bq(perm), flip_bd(flip_bq(perm))}
-    print(' '.join(s))
+    print(' '.join(sorted(s)))

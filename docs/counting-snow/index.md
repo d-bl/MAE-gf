@@ -11,43 +11,52 @@ Intro
 
 ...
 
+Thread diagrams for 2,3,4,5 pairs can be used as pair diagrams for 4,6,8,10 pairs. 
+So when analyzing how threads/pairs can get reordered at the end of some manipulation,
+we get tweo for the price of 1.
+
+...
+
 ### Reading guide
 
-Python script(s) renders permutations of pairs changing positions and filters reflections.
-You can run (and modify) the script with various offline and online environments such as
-https://www.online-python.com/
-The output of the scripts are hacked into SVG documents mentioned/shown on this page.
+Python script(s) render permutations of pairs changing positions and filter reflections.
+You can run (and modify) a script with various offline and online environments such as
+[online-python.com](https://www.online-python.com/)
+The output of the scripts is hacked into SVG documents mentioned/shown on this page.
+The numbers show the order of the pairs at the end. Those marked with a `*` and/or `+` have an internal reflection.
 
-You can  use a vector editor like Inkscape to apply changes to the downloads. 
-For example bend the straight lines in into workable pair diagrams.
-The numbers show the order of the pairs at the end. Those marked with a `*` or `+` have an internal reflection.
+You can  use a vector editor (like Inkscape) to apply changes to the downloads. 
+For example bend the straight lines into workable pair diagrams.
 
-### Generate thread diagrams
+All permutations are provided as text, grouped by reflections. 
+Only the smallest number in each group is presented as a diagram.
+When you find a snowflake in the wild, write down how the reordering of the pairs
+and look up the number in this list to identify the family.
 
-... pros and cons of droste ...
-
-Six pairs
+3/6 pairs
 ---------
+
+### All pairs entering before any pair leaves
+
+With six pairs we have 6x5x4x3x2=720 permutations.
+After filtering reflections with we still have 230 options.
+
+You can [download](654321.svg) this not-exhaustive family.
+It is created from one of the generated permutations,
+which happens to be workable by itself.
+![](654321.svg)  
+
+Challenge: a generic recipe using thread diagrams as pair diagrams. 
+Apply blobs (rc,ctc,lc,lc,ctc,cl) to a [3-pair plait](/GroundForge/stitches?patchWidth=11&patchHeight=12&tile=5-C-B-,-5-5-5,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C,--C-B-,-B---C,&shiftColsSW=0&shiftRowsSW=10&shiftColsSE=6&shiftRowsSE=10&e1=ctctt&c1=ctctt&a1=ctctt&f2=ctctt&d2=ctctt&b2=ctctt&e3=ctctt&c3=ctctt&a3=ctctt&f4=ctc&d4=ctctt&b4=ctc&e5=ctc&c5=ctc&f6=ctc&b6=ctc&e7=ctc&c7=ctc&f8=ctc&b8=ctc&e9=ctc&c9=ctc&f10=ctctt&b10=ctctt)  
+
+[download](all-in-before-any-out.svg) the following filtered permutations,
+or examine the full [list](all-in-before-any-out.txt)
+generated with this [script](all-in-before-any-out.py).    
+![](all-in-before-any-out.svg)  
+
 
 ### Pairs leaving before the last enters
 
 Composition requirements: ... next to cloth stitch ... side by side ...
 
 ...
-
-### All pairs entering before any leaves
-
-With six pairs we have 6x5x4x3x2=720 permutations.
-After filtering reflections with this [script](all-in-before-any-out.py) we still have 230 options.
-
-Just one example (which happens to be workable by itself) with four of many more options to bend the pairs,
-and a [pattern definition] for the last variant to choose stitches for thread diagrams.
-
-![](654321.svg)  
-[download](654321.svg) the family
-
-[download](all-in-before-any-out.svg) the collection:  
-![](all-in-before-any-out.svg)  
-
-
-[pattern definition]: /GroundForge/droste?patchWidth=12&patchHeight=16&b1=clcrc&a1=c&d3=clcrclll&a3=cttt&c4=c&b4=crclc&d6=crclcrrr&c6=cttt&tile=76x-,yxxy,6-x4,x24-,xxww,x-27,,,&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6#
