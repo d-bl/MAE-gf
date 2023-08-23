@@ -50,10 +50,10 @@ Another kind of three pair join can be made with a [_half little snowflake_][pg-
 
 [p-3pr-st-h]: ../images/misca/3pr-st-h.png "horizontal star, family 321"
 [p-3pr-st-v]: ../images/misca/3pr-st-v.png "vertical star, family 321"
-[p-3pr-tr-h]: ../images/misca/3pr-tr-h.png "horizontal triangle, family 231"
-[p-3pr-tr-v]: ../images/misca/3pr-tr-v.png "vertical triangle, family 321"
-[p-3pr-fh-h]: ../images/misca/3pr-fh-h.png "fish, family 321"
 [p-3pr-s2-v]: ../images/misca/3pr-s2-v.png "vertical star 2, family 231"
+[p-3pr-tr-h]: ../images/misca/3pr-tr-h.png "horizontal triangle, family 321"
+[p-3pr-tr-v]: ../images/misca/3pr-tr-v.png "vertical triangle, family 321"
+[p-3pr-fh-h]: ../images/misca/3pr-fh-h.png "fish, family 231"
 [p-3pr-sn-v]: ../images/misca/3pr-sn-v.png "snowflake, family 321"
 [p-3pr-sn-d]: ../images/misca/3pr-sn-d.png "diagonal snowflake, family 321"
 [p-3pr-132]: ../images/misca/3pr-132.png "half little snowflake, familie 132"
