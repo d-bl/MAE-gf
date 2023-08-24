@@ -13,7 +13,7 @@ Intro
 
 Thread diagrams for 2,3,4,5 pairs can be used as pair diagrams for 4,6,8,10 pairs. 
 So when analyzing how threads/pairs can get reordered at the end of some manipulation,
-we get tweo for the price of 1.
+we get two for the price of 1.
 
 ...
 
@@ -42,14 +42,15 @@ With six pairs we have 6x5x4x3x2=720 permutations.
 After filtering reflections with we still have 230 options.
 
 You can [download](654321.svg) this not-exhaustive family.
-It is created from one of the generated permutations,
+This example is created manually from one of the generated permutations,
 which happens to be workable by itself.
 ![](654321.svg)  
 
-Challenge: a generic recipe using thread diagrams as pair diagrams. 
-Apply blobs (rc,ctc,lc,lc,ctc,cl) to a [3-pair plait](/GroundForge/stitches?patchWidth=11&patchHeight=12&tile=5-C-B-,-5-5-5,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C,--C-B-,-B---C,&shiftColsSW=0&shiftRowsSW=10&shiftColsSE=6&shiftRowsSE=10&e1=ctctt&c1=ctctt&a1=ctctt&f2=ctctt&d2=ctctt&b2=ctctt&e3=ctctt&c3=ctctt&a3=ctctt&f4=ctc&d4=ctctt&b4=ctc&e5=ctc&c5=ctc&f6=ctc&b6=ctc&e7=ctc&c7=ctc&f8=ctc&b8=ctc&e9=ctc&c9=ctc&f10=ctctt&b10=ctctt)  
+An example with the blobs applied to a [3-pair plait](/GroundForge/stitches.html?patchWidth=7&patchHeight=13&tile=5-C-B-,-5-5-5,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C,--C-B-,-B---C,&shiftColsSW=0&shiftRowsSW=10&shiftColsSE=6&shiftRowsSE=10&e1=llctctt&c1=ctctt&a1=ctctt&f2=ctctt&d2=ctctt&b2=ctctt&e3=ctctt&c3=ctctt&a3=ctctt&f4=rclc&d4=ctctt&b4=ctc&e5=cr&c5=ctc&f6=cr&b6=ctc&e7=lcr&c7=ctc&f8=c&b8=ctc&e9=crcl&c9=ctc&f10=rttctctt&b10=ctc)
+using thread diagrams as pair diagrams.  
+Challenge: a generic recipe 
 
-[download](all-in-before-any-out.svg) the following filtered permutations,
+You can [download](all-in-before-any-out.svg) the following filtered permutations,
 or examine the full [list](all-in-before-any-out.txt)
 generated with this [script](all-in-before-any-out.py).    
 ![](all-in-before-any-out.svg)  
