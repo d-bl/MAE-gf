@@ -6,9 +6,9 @@ def flip_bd(s: str):
 
 
 def flip_bq(s: str):
-    result = ["","","","","",""]
-    for i in range(6):
-        result[int(s[i])-1] = f"{i+1}"
+    result = [""] * len(s)
+    for i in range(len(s)):
+        result[int(s[i]) - 1] = f"{i + 1}"
     return ''.join(result)
 
 
@@ -19,6 +19,12 @@ def filtered_permutations(s):
         if {p, flip_bd(p), flip_bq(p), flip_bd(flip_bq(p))}.isdisjoint(perm_set):
             perm_set.add(p)
     return sorted(perm_set)
+
+
+def print_perms(s):
+    for perm in filtered_permutations(s):
+        s = {perm, flip_bd(perm), flip_bq(perm), flip_bd(flip_bq(perm))}
+        print(' '.join(sorted(s)))
 
 
 points = [[[12.124356, 9], [12.124356, 12]],
@@ -56,6 +62,10 @@ for perm_nr in range(len(perms)):
               f' id="{end_order_of_pairs}_{end_order_of_pairs[i]}"'
               f' d="M {start_x},{start_y} {end_x},{end_y}" />')
     print('</g>')
-for perm in perms:
-    s = {perm, flip_bd(perm), flip_bq(perm), flip_bd(flip_bq(perm))}
-    print(' '.join(sorted(s)))
+
+
+print_perms("123456")
+print("--------")
+print_perms("12345")
+print("--------")
+print_perms("1234")

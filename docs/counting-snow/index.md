@@ -38,20 +38,23 @@ and look up the number in this list to identify the family.
 
 ### All pairs entering before any pair leaves
 
-With six pairs we have 6x5x4x3x2=720 permutations.
-After filtering reflections with we still have 230 options.
+With six threads or pairs we have 6x5x4x3x2=720 permutations.
+After filtering reflections with we still have [230 options](permutations-for-6.txt).
+20 have internal bdpq reflections, 28 have bd and 28 have bp.
 
 You can [download](654321.svg) this not-exhaustive family.
 This example is created manually from one of the generated permutations,
 which happens to be workable by itself.
+The pairs are just bent, start and end stayed put.
 ![](654321.svg)  
 
-An example with the blobs applied to a [3-pair plait](/GroundForge/stitches.html?patchWidth=7&patchHeight=13&tile=5-C-B-,-5-5-5,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C,--C-B-,-B---C,&shiftColsSW=0&shiftRowsSW=10&shiftColsSE=6&shiftRowsSE=10&e1=llctctt&c1=ctctt&a1=ctctt&f2=ctctt&d2=ctctt&b2=ctctt&e3=ctctt&c3=ctctt&a3=ctctt&f4=rclc&d4=ctctt&b4=ctc&e5=cr&c5=ctc&f6=cr&b6=ctc&e7=lcr&c7=ctc&f8=c&b8=ctc&e9=crcl&c9=ctc&f10=rttctctt&b10=ctc)
-using thread diagrams as pair diagrams.  
-Challenge: a generic recipe 
+One example has blobs to identify stitches.
+Each blob covers 4 threads. The blobs share two threads with one previous blob and two with another. 
+Only some of the threads in a blob may be used.
+The stitches are applied to a [3-pair plait](/GroundForge/stitches.html?patchWidth=7&patchHeight=13&tile=5-C-B-,-5-5-5,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C,--C-B-,-B---C,&shiftColsSW=0&shiftRowsSW=10&shiftColsSE=6&shiftRowsSE=10&e1=llctctt&c1=ctctt&a1=ctctt&f2=ctctt&d2=ctctt&b2=ctctt&e3=ctctt&c3=ctctt&a3=ctctt&f4=rclc&d4=ctctt&b4=ctc&e5=cr&c5=ctc&f6=cr&b6=ctc&e7=lcr&c7=ctc&f8=c&b8=ctc&e9=crcl&c9=ctc&f10=rttctctt&b10=ctc).  
+TO DO: a generic recipe 
 
-You can [download](all-in-before-any-out.svg) the following filtered permutations,
-or examine the full [list](all-in-before-any-out.txt)
+You can [download](all-in-before-any-out.svg) the following filtered permutations
 generated with this [script](all-in-before-any-out.py).    
 ![](all-in-before-any-out.svg)  
 
@@ -61,3 +64,13 @@ generated with this [script](all-in-before-any-out.py).
 Composition requirements: ... next to cloth stitch ... side by side ...
 
 ...
+
+With one pair going out and in again we have (5x4x3x2 - reflections) = 
+[45 options](permutations-for-5.txt), 5 options each to pull one  pair out gives 225 options.
+6 options have bdpq reflection, 21 have either bd or bp reflection.
+
+With two pars going out and in we have (4x3x2 - reflections) =
+[13 options](permutations-for-4.txt), 4x3 options each to pull two pairs out gives 156 options.
+6 have bdpq reflections, 5 have either bd or pq reflections.
+
+The two groups add up to 381 options.
