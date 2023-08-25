@@ -46,16 +46,16 @@ With six threads or pairs we have 6x5x4x3x2=720 permutations.
 After filtering reflections with we still have [230 options](permutations-for-6.txt).
 20 have internal bdpq reflections, 28 have bd and 28 have bp.
 
-The following example is created manually from one of the generated permutations,
+The following set is a family, created manually from one of the generated permutations,
 which happens to be workable by itself.
-The pairs are just bent, when swapping starts and/or ends you end up in another family.  
+The pairs are just bent, when swapping starts and/or ends you would end up in another family.  
 You can [download](654321.svg) this not-exhaustive family.  
 ![](654321.svg)  
 
 One example has blobs to identify stitches.
-Each blob covers 4 threads. Each blob shares two threads with each adjacent blob. 
+Requirements for the blobs: span 4 threads, share two threads with each adjacent blob. 
 Only some of the threads in a blob may be used.
-You can assign the thus discovered stitches to one of templates for 
+You can assign the thus discovered stitches to one of the templates for 
 [4](/GroundForge/stitches?patchWidth=7&patchHeight=9&tile=5-C-B-,-5-5-5,5-5-5-,-5-5-5,--5-5-,-B---C,&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6&e1=ct&c1=ct&a1=rrctctt&f2=llctctt&d2=ttctctt&b2=rrctctt&e3=ctctt&c3=ctctt&a3=ctctt&f4=ct&d4=ctctt&b4=ct&e5=ct&c5=ct&f6=ct&b6=ct),
 [5](/GroundForge/stitches?patchWidth=7&patchHeight=9&tile=-B-5-C,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6&f1=ct&d1=ttctctt&b1=ct&e2=rrctctt&c2=llctctt&a2=ttctctt&f3=ct&d3=ctctt&b3=ct&e4=ct&c4=ct&f5=ct&b5=ct&e6=ct&c6=ct),
 [6](/GroundForge/stitches?patchWidth=7&patchHeight=11&tile=5-C-B-,-5-5-5,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C,&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=6&shiftRowsSE=8&e1=ct&c1=ct&a1=rrctctt&f2=llctctt&d2=ttctctt&b2=rrctctt&e3=ctctt&c3=ctctt&a3=ctctt&f4=ct&d4=ctctt&b4=ct&e5=ct&c5=ct&f6=ct&b6=ct&e7=ct&c7=ct&f8=ct&b8=ct),
@@ -88,3 +88,7 @@ With two pars going out and in we have (4x3x2 - reflections) =
 6 have bdpq reflections, 5 have either bd or pq reflections.
 
 The two groups add up to 381 options.
+
+Challenge: bd reflections for the following set of diagrams
+[download](one-out-before-in.svg)  
+![](one-out-before-in.svg)
