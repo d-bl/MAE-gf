@@ -79,15 +79,19 @@ Composition requirements: ... next to cloth stitch ... side by side ...
 
 ...
 
-With one pair going out and in again we have (5x4x3x2 - reflections) = 
-[45 options](permutations-for-5.txt) (or 73 if we should not omit bd), 5 options each to pull one  pair out gives 225 options.
-6 options have bdpq reflection, 21 (or 365) have either bd or bp reflection.
-
 With two pars going out and in we have (4x3x2 - reflections) =
-[13 options](permutations-for-4.txt), 4x3 options each to pull two pairs out gives 156 options.
-6 have bdpq reflections, 5 have either bd or pq reflections.
+[13 options](permutations-for-4.txt),
+2 have bdpq reflections, 5 have either bd or pq reflections.
+4x3 options for each one to pull two pairs out gives 156 options.
 
-The two groups add up to 381 (or 521) options.
+With one pair going out and in again we have (5x4x3x2 - reflections) = 
+73 options (or [45](permutations-for-5.txt) if we can omit bd), 
+5 options each to pull one  pair out gives 365 (or 225) options.
+
+[download](pull-out.svg)  
+![](pull-out.svg)
+
+The two groups add up to 521 (or 381) options.
 
 [download](one-out-before-in.svg)  
 ![](one-out-before-in.svg)

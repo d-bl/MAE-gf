@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.70110129"
-     inkscape:cx="396.51902"
-     inkscape:cy="561.25984"
+     inkscape:zoom="5.6088103"
+     inkscape:cx="35.301604"
+     inkscape:cy="897.78397"
      inkscape:window-width="1680"
      inkscape:window-height="990"
      inkscape:window-x="0"
@@ -86,36 +86,38 @@
 
 
 <g
-   id="g6549"
-   transform="translate(16.454481,-4.5)"><g
-     id="g25750"
-     transform="translate(201.78392,4.5)"><path
-       style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="M 12.124356,7 V 7"
-       id="path3078"
-       sodipodi:nodetypes="cc" /><path
-       style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m 12.124356,14 v 0"
-       id="path3636"
-       sodipodi:nodetypes="cc" /><path
-       style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m 18.186534,3.5 v 0"
-       id="path3638"
-       sodipodi:nodetypes="cc" /><path
-       style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m 24.248711,14 v 0"
-       id="path3640"
-       sodipodi:nodetypes="cc" /><path
-       style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="M 24.248711,7 V 7"
-       id="path3642"
-       sodipodi:nodetypes="cc" /><path
-       style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m 18.186534,17.5 v 0"
-       id="path3644"
-       sodipodi:nodetypes="cc" /></g><g
-     id="12345"
-     transform="translate(201.78392,4.5)">
+   id="g16321"
+   transform="translate(-224.30058,276.5)"><g
+     id="g6549"
+     transform="translate(16.454481,-4.5)"><g
+       id="g25750"
+       transform="translate(201.78392,4.5)"><path
+         style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 12.124356,7 V 7"
+         id="path3078"
+         sodipodi:nodetypes="cc" /><path
+         style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 12.124356,14 v 0"
+         id="path3636"
+         sodipodi:nodetypes="cc" /><path
+         style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 18.186534,3.5 v 0"
+         id="path3638"
+         sodipodi:nodetypes="cc" /><path
+         style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 24.248711,14 v 0"
+         id="path3640"
+         sodipodi:nodetypes="cc" /><path
+         style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 24.248711,7 V 7"
+         id="path3642"
+         sodipodi:nodetypes="cc" /><path
+         style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 18.186534,17.5 v 0"
+         id="path3644"
+         sodipodi:nodetypes="cc" /></g><g
+       id="12345"
+       transform="translate(201.78392,4.5)">
 <text
    x="12"
    y="21"
@@ -143,8 +145,8 @@
    id="12345_5"
    d="m 22.516661,6 v 9" />
 </g><g
-     id="12354"
-     transform="translate(201.78392,4.5)">
+       id="12354"
+       transform="translate(201.78392,4.5)">
 <text
    x="12"
    y="42"
@@ -172,8 +174,8 @@
    id="12354_4"
    d="M 19.918584,25.5 22.516661,36" />
 </g><g
-     id="12435"
-     transform="translate(201.78392,4.5)">
+       id="12435"
+       transform="translate(201.78392,4.5)">
 <text
    x="12"
    y="63"
@@ -201,8 +203,8 @@
    id="12435_5"
    d="m 22.516661,48 v 9" />
 </g><g
-     id="12453"
-     transform="translate(201.78392,4.5)">
+       id="12453"
+       transform="translate(201.78392,4.5)">
 <text
    x="12"
    y="84"
@@ -230,8 +232,8 @@
    id="12453_3"
    d="M 16.454483,67.5 22.516661,78" />
 </g><g
-     id="12543"
-     transform="translate(201.78392,4.5)">
+       id="12543"
+       transform="translate(201.78392,4.5)">
 <text
    x="12"
    y="105"
@@ -259,8 +261,8 @@
    id="12543_3"
    d="M 16.454483,88.5 22.516661,99" />
 </g><g
-     id="13254"
-     transform="translate(201.78392,4.5)">
+       id="13254"
+       transform="translate(201.78392,4.5)">
 <text
    x="12"
    y="126"
@@ -288,8 +290,8 @@
    id="13254_4"
    d="M 19.918584,109.5 22.516661,120" />
 </g><g
-     id="13425"
-     transform="translate(201.78392,4.5)">
+       id="13425"
+       transform="translate(201.78392,4.5)">
 <text
    x="12"
    y="147"
@@ -317,8 +319,8 @@
    id="13425_5"
    d="m 22.516661,132 v 9" />
 </g><g
-     id="13452"
-     transform="translate(201.78392,4.5)">
+       id="13452"
+       transform="translate(201.78392,4.5)">
 <text
    x="12"
    y="168"
@@ -346,8 +348,8 @@
    id="13452_2"
    d="m 13.856407,153 8.660254,9" />
 </g><g
-     id="13524"
-     transform="translate(201.78392,4.5)">
+       id="13524"
+       transform="translate(201.78392,4.5)">
 <text
    x="12"
    y="189"
@@ -375,8 +377,8 @@
    id="13524_4"
    d="M 19.918584,172.5 22.516661,183" />
 </g><g
-     id="13542"
-     transform="translate(201.78392,4.5)">
+       id="13542"
+       transform="translate(201.78392,4.5)">
 <text
    x="12"
    y="210"
@@ -404,8 +406,8 @@
    id="13542_2"
    d="m 13.856407,195 8.660254,9" />
 </g><g
-     id="14325"
-     transform="translate(201.78392,4.5)">
+       id="14325"
+       transform="translate(201.78392,4.5)">
 <text
    x="36.25"
    y="21"
@@ -433,8 +435,8 @@
    id="14325_5"
    d="m 46.766661,6 v 9" />
 </g><g
-     id="14352"
-     transform="translate(201.78392,4.5)">
+       id="14352"
+       transform="translate(201.78392,4.5)">
 <text
    x="36.25"
    y="42"
@@ -462,8 +464,8 @@
    id="14352_2"
    d="m 38.106407,27 8.660254,9" />
 </g><g
-     id="14523"
-     transform="translate(201.78392,4.5)">
+       id="14523"
+       transform="translate(201.78392,4.5)">
 <text
    x="36.25"
    y="63"
@@ -491,8 +493,8 @@
    id="14523_3"
    d="M 40.704483,46.5 46.766661,57" />
 </g><g
-     id="14532"
-     transform="translate(201.78392,4.5)">
+       id="14532"
+       transform="translate(201.78392,4.5)">
 <text
    x="36.25"
    y="84"
@@ -520,8 +522,8 @@
    id="14532_2"
    d="m 38.106407,69 8.660254,9" />
 </g><g
-     id="15342"
-     transform="translate(201.78392,4.5)">
+       id="15342"
+       transform="translate(201.78392,4.5)">
 <text
    x="36.25"
    y="105"
@@ -549,8 +551,8 @@
    id="15342_2"
    d="m 38.106407,90 8.660254,9" />
 </g><g
-     id="15432"
-     transform="translate(201.78392,4.5)">
+       id="15432"
+       transform="translate(201.78392,4.5)">
 <text
    x="36.25"
    y="126"
@@ -578,8 +580,8 @@
    id="15432_2"
    d="m 38.106407,111 8.660254,9" />
 </g><g
-     id="21354"
-     transform="translate(201.78392,4.5)">
+       id="21354"
+       transform="translate(201.78392,4.5)">
 <text
    x="36.25"
    y="147"
@@ -607,8 +609,8 @@
    id="21354_4"
    d="M 44.168584,130.5 46.766661,141" />
 </g><g
-     id="21453"
-     transform="translate(201.78392,4.5)">
+       id="21453"
+       transform="translate(201.78392,4.5)">
 <text
    x="36.25"
    y="168"
@@ -636,8 +638,8 @@
    id="21453_3"
    d="M 40.704483,151.5 46.766661,162" />
 </g><g
-     id="21543"
-     transform="translate(201.78392,4.5)">
+       id="21543"
+       transform="translate(201.78392,4.5)">
 <text
    x="36.25"
    y="189"
@@ -665,8 +667,8 @@
    id="21543_3"
    d="M 40.704483,172.5 46.766661,183" />
 </g><g
-     id="23451"
-     transform="translate(201.78392,4.5)">
+       id="23451"
+       transform="translate(201.78392,4.5)">
 <text
    x="36.25"
    y="210"
@@ -694,8 +696,8 @@
    id="23451_1"
    d="m 36.374356,198 10.392305,6" />
 </g><g
-     id="23514"
-     transform="translate(201.78392,4.5)">
+       id="23514"
+       transform="translate(201.78392,4.5)">
 <text
    x="60.5"
    y="21"
@@ -723,8 +725,8 @@
    id="23514_4"
    d="M 68.418584,4.5 71.016661,15" />
 </g><g
-     id="23541"
-     transform="translate(201.78392,4.5)">
+       id="23541"
+       transform="translate(201.78392,4.5)">
 <text
    x="60.5"
    y="42"
@@ -752,8 +754,8 @@
    id="23541_1"
    d="m 60.624356,30 10.392305,6" />
 </g><g
-     id="24153"
-     transform="translate(201.78392,4.5)">
+       id="24153"
+       transform="translate(201.78392,4.5)">
 <text
    x="60.5"
    y="63"
@@ -781,8 +783,8 @@
    id="24153_3"
    d="M 64.954483,46.5 71.016661,57" />
 </g><g
-     id="24351"
-     transform="translate(201.78392,4.5)">
+       id="24351"
+       transform="translate(201.78392,4.5)">
 <text
    x="60.5"
    y="84"
@@ -810,8 +812,8 @@
    id="24351_1"
    d="m 60.624356,72 10.392305,6" />
 </g><g
-     id="24513"
-     transform="translate(201.78392,4.5)">
+       id="24513"
+       transform="translate(201.78392,4.5)">
 <text
    x="60.5"
    y="105"
@@ -839,8 +841,8 @@
    id="24513_3"
    d="M 64.954483,88.5 71.016661,99" />
 </g><g
-     id="24531"
-     transform="translate(201.78392,4.5)">
+       id="24531"
+       transform="translate(201.78392,4.5)">
 <text
    x="60.5"
    y="126"
@@ -868,8 +870,8 @@
    id="24531_1"
    d="m 60.624356,114 10.392305,6" />
 </g><g
-     id="25143"
-     transform="translate(201.78392,4.5)">
+       id="25143"
+       transform="translate(201.78392,4.5)">
 <text
    x="60.5"
    y="147"
@@ -897,8 +899,8 @@
    id="25143_3"
    d="M 64.954483,130.5 71.016661,141" />
 </g><g
-     id="25314"
-     transform="translate(201.78392,4.5)">
+       id="25314"
+       transform="translate(201.78392,4.5)">
 <text
    x="60.5"
    y="168"
@@ -926,8 +928,8 @@
    id="25314_4"
    d="M 68.418584,151.5 71.016661,162" />
 </g><g
-     id="25341"
-     transform="translate(201.78392,4.5)">
+       id="25341"
+       transform="translate(201.78392,4.5)">
 <text
    x="60.5"
    y="189"
@@ -955,8 +957,8 @@
    id="25341_1"
    d="m 60.624356,177 10.392305,6" />
 </g><g
-     id="25413"
-     transform="translate(201.78392,4.5)">
+       id="25413"
+       transform="translate(201.78392,4.5)">
 <text
    x="60.5"
    y="210"
@@ -984,8 +986,8 @@
    id="25413_3"
    d="M 64.954483,193.5 71.016661,204" />
 </g><g
-     id="25431"
-     transform="translate(201.78392,4.5)">
+       id="25431"
+       transform="translate(201.78392,4.5)">
 <text
    x="84.75"
    y="21"
@@ -1013,8 +1015,8 @@
    id="25431_1"
    d="m 84.874356,9 10.392305,6" />
 </g><g
-     id="32541"
-     transform="translate(201.78392,4.5)">
+       id="32541"
+       transform="translate(201.78392,4.5)">
 <text
    x="84.75"
    y="42"
@@ -1042,8 +1044,8 @@
    id="32541_1"
    d="m 84.874356,30 10.392305,6" />
 </g><g
-     id="34512"
-     transform="translate(201.78392,4.5)">
+       id="34512"
+       transform="translate(201.78392,4.5)">
 <text
    x="84.75"
    y="63"
@@ -1071,8 +1073,8 @@
    id="34512_2"
    d="m 86.606407,48 8.660254,9" />
 </g><g
-     id="34521"
-     transform="translate(201.78392,4.5)">
+       id="34521"
+       transform="translate(201.78392,4.5)">
 <text
    x="84.75"
    y="84"
@@ -1100,8 +1102,8 @@
    id="34521_1"
    d="m 84.874356,72 10.392305,6" />
 </g><g
-     id="35142"
-     transform="translate(201.78392,4.5)">
+       id="35142"
+       transform="translate(201.78392,4.5)">
 <text
    x="84.75"
    y="105"
@@ -1129,8 +1131,8 @@
    id="35142_2"
    d="m 86.606407,90 8.660254,9" />
 </g><g
-     id="35241"
-     transform="translate(201.78392,4.5)">
+       id="35241"
+       transform="translate(201.78392,4.5)">
 <text
    x="84.75"
    y="126"
@@ -1158,8 +1160,8 @@
    id="35241_1"
    d="m 84.874356,114 10.392305,6" />
 </g><g
-     id="35412"
-     transform="translate(201.78392,4.5)">
+       id="35412"
+       transform="translate(201.78392,4.5)">
 <text
    x="84.75"
    y="147"
@@ -1187,8 +1189,8 @@
    id="35412_2"
    d="m 86.606407,132 8.660254,9" />
 </g><g
-     id="35421"
-     transform="translate(201.78392,4.5)">
+       id="35421"
+       transform="translate(201.78392,4.5)">
 <text
    x="84.75"
    y="168"
@@ -1216,8 +1218,8 @@
    id="35421_1"
    d="m 84.874356,156 10.392305,6" />
 </g><g
-     id="45231"
-     transform="translate(201.78392,4.5)">
+       id="45231"
+       transform="translate(201.78392,4.5)">
 <text
    x="84.75"
    y="189"
@@ -1245,8 +1247,8 @@
    id="45231_1"
    d="m 84.874356,177 10.392305,6" />
 </g><g
-     id="45312"
-     transform="translate(201.78392,4.5)">
+       id="45312"
+       transform="translate(201.78392,4.5)">
 <text
    x="84.75"
    y="210"
@@ -1274,8 +1276,8 @@
    id="45312_2"
    d="m 86.606407,195 8.660254,9" />
 </g><g
-     id="45321"
-     transform="translate(201.78392,4.5)">
+       id="45321"
+       transform="translate(201.78392,4.5)">
 <text
    x="109"
    y="21"
@@ -1303,8 +1305,8 @@
    id="45321_1"
    d="m 109.12436,9 10.3923,6" />
 </g><g
-     id="52341"
-     transform="translate(201.78392,4.5)">
+       id="52341"
+       transform="translate(201.78392,4.5)">
 <text
    x="109"
    y="42"
@@ -1332,8 +1334,8 @@
    id="52341_1"
    d="m 109.12436,30 10.3923,6" />
 </g><g
-     id="52431"
-     transform="translate(201.78392,4.5)">
+       id="52431"
+       transform="translate(201.78392,4.5)">
 <text
    x="109"
    y="63"
@@ -1361,8 +1363,8 @@
    id="52431_1"
    d="m 109.12436,51 10.3923,6" />
 </g><g
-     id="53421"
-     transform="translate(201.78392,4.5)">
+       id="53421"
+       transform="translate(201.78392,4.5)">
 <text
    x="109"
    y="84"
@@ -1390,8 +1392,8 @@
    id="53421_1"
    d="m 109.12436,72 10.3923,6" />
 </g><g
-     id="54321"
-     transform="translate(201.78392,4.5)">
+       id="54321"
+       transform="translate(201.78392,4.5)">
 <text
    x="109"
    y="105"
@@ -1418,7 +1420,7 @@
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="54321_1"
    d="m 109.12436,93 10.3923,6" />
-</g></g>
+</g></g></g>
 /usr/bin/python3.9 /home/jokep/git/d-bl/MAE-gf/docs/counting-snow/permutations.py
 <g
    id="g5077">
