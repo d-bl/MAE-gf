@@ -21,13 +21,22 @@ def filtered_permutations(s):
     return sorted(perm_set)
 
 
+def filtered_bp_only(s):
+    full_set = sorted(''.join(p) for p in itertools.permutations(s))
+    perm_set = {s}
+    for p in full_set:
+        if {p, flip_bq(p)}.isdisjoint(perm_set):
+            perm_set.add(p)
+    return sorted(perm_set)
+
+
 def print_perms(s):
     for perm in filtered_permutations(s):
         s = {perm, flip_bd(perm), flip_bq(perm), flip_bd(flip_bq(perm))}
         print(' '.join(sorted(s)))
 
 
-def draw_perms(nr_of_rows, start_order_of_pairs):
+def draw_perms(nr_of_rows, start_order_of_pairs, perms):
     points = [[[12.124356, 9], [12.124356, 12]],
               [[13.856407, 6], [13.856407, 15]],
               [[16.454483, 4.5], [16.454483, 16.5]],
@@ -36,7 +45,6 @@ def draw_perms(nr_of_rows, start_order_of_pairs):
               [[24.248711, 9], [24.248711, 12]]]
     colors = ["#000000", "#0000FF", "#00FF00", "#FF0000"]
     nr_of_pairs = len(start_order_of_pairs)  # should match nr of lines in points
-    perms = filtered_permutations(start_order_of_pairs)
     for perm_nr in range(len(perms)):
         end_order_of_pairs = perms[perm_nr]
         print(f'<g id="{end_order_of_pairs}">')
@@ -63,12 +71,13 @@ def draw_perms(nr_of_rows, start_order_of_pairs):
         print('</g>')
 
 
-draw_perms(10,'12345')
-# draw_perms(25,'123456')
+draw_perms(10, '12345', filtered_bp_only('12345'))
+# draw_perms(10,'12345',filtered_permutations('12345'))
+# draw_perms(25,'123456'`,filtered_permutations('123456')`)
 # not applicable for other values
 
-print_perms("123456")
-print("--------")
-print_perms("12345")
-print("--------")
-print_perms("1234")
+# print_perms("123456")
+# print("--------")
+# print_perms("12345")
+# print("--------")
+# print_perms("1234")
