@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 420 594"
+   width="102mm"
+   height="109mm"
+   viewBox="0 0 204 218"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="5.6088103"
-     inkscape:cx="35.301604"
-     inkscape:cy="897.78397"
+     inkscape:zoom="1.4232848"
+     inkscape:cx="198.83582"
+     inkscape:cy="201.99752"
      inkscape:window-width="1680"
      inkscape:window-height="990"
      inkscape:window-x="0"
@@ -36,7 +36,9 @@
        type="axonomgrid"
        id="grid2793"
        empspacing="7"
-       spacingy="1" /></sodipodi:namedview><defs
+       spacingy="1"
+       originx="0"
+       originy="0" /></sodipodi:namedview><defs
      id="defs2" /><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -85,39 +87,52 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <g
-   id="g16321"
-   transform="translate(-224.30058,276.5)"><g
-     id="g6549"
-     transform="translate(16.454481,-4.5)"><g
-       id="g25750"
-       transform="translate(201.78392,4.5)"><path
-         style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-         d="M 12.124356,7 V 7"
-         id="path3078"
-         sodipodi:nodetypes="cc" /><path
-         style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-         d="m 12.124356,14 v 0"
-         id="path3636"
-         sodipodi:nodetypes="cc" /><path
-         style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-         d="m 18.186534,3.5 v 0"
-         id="path3638"
-         sodipodi:nodetypes="cc" /><path
-         style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-         d="m 24.248711,14 v 0"
-         id="path3640"
-         sodipodi:nodetypes="cc" /><path
-         style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-         d="M 24.248711,7 V 7"
-         id="path3642"
-         sodipodi:nodetypes="cc" /><path
-         style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-         d="m 18.186534,17.5 v 0"
-         id="path3644"
-         sodipodi:nodetypes="cc" /></g><g
-       id="12345"
-       transform="translate(201.78392,4.5)">
+   id="g25750"><path
+     style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     d="M 12.124356,7 V 7"
+     id="path3078"
+     sodipodi:nodetypes="cc" /><path
+     style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     d="m 12.124356,14 v 0"
+     id="path3636"
+     sodipodi:nodetypes="cc" /><path
+     style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     d="m 18.186534,3.5 v 0"
+     id="path3638"
+     sodipodi:nodetypes="cc" /><path
+     style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     d="m 24.248711,14 v 0"
+     id="path3640"
+     sodipodi:nodetypes="cc" /><path
+     style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     d="M 24.248711,7 V 7"
+     id="path3642"
+     sodipodi:nodetypes="cc" /><path
+     style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     d="m 18.186534,17.5 v 0"
+     id="path3644"
+     sodipodi:nodetypes="cc" /></g><g
+   id="12345">
 <text
    x="12"
    y="21"
@@ -145,1316 +160,9 @@
    id="12345_5"
    d="m 22.516661,6 v 9" />
 </g><g
-       id="12354"
-       transform="translate(201.78392,4.5)">
-<text
-   x="12"
-   y="42"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text1785"><tspan
-     id="tspan1783">12354 +</tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="12354_1"
-   d="m 12.124356,30 v 3" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="12354_2"
-   d="m 13.856407,27 v 9" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="12354_3"
-   d="m 16.454483,25.5 v 12" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="12354_5"
-   d="M 22.516661,27 19.918584,37.5" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="12354_4"
-   d="M 19.918584,25.5 22.516661,36" />
-</g><g
-       id="12435"
-       transform="translate(201.78392,4.5)">
-<text
-   x="12"
-   y="63"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text1795"><tspan
-     id="tspan1793">12435 +</tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="12435_1"
-   d="m 12.124356,51 v 3" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="12435_2"
-   d="m 13.856407,48 v 9" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="12435_4"
-   d="m 19.918584,46.5 -3.464101,12" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="12435_3"
-   d="m 16.454483,46.5 3.464101,12" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="12435_5"
-   d="m 22.516661,48 v 9" />
-</g><g
-       id="12453"
-       transform="translate(201.78392,4.5)">
-<text
-   x="12"
-   y="84"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text1805"><tspan
-     id="tspan1803">12453 </tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="12453_1"
-   d="m 12.124356,72 v 3" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="12453_2"
-   d="m 13.856407,69 v 9" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="12453_4"
-   d="m 19.918584,67.5 -3.464101,12" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="12453_5"
-   d="M 22.516661,69 19.918584,79.5" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="12453_3"
-   d="M 16.454483,67.5 22.516661,78" />
-</g><g
-       id="12543"
-       transform="translate(201.78392,4.5)">
-<text
-   x="12"
-   y="105"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text1815"><tspan
-     id="tspan1813">12543 +</tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="12543_1"
-   d="m 12.124356,93 v 3" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="12543_2"
-   d="m 13.856407,90 v 9" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="12543_5"
-   d="m 22.516661,90 -6.062178,10.5" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="12543_4"
-   d="m 19.918584,88.5 v 12" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="12543_3"
-   d="M 16.454483,88.5 22.516661,99" />
-</g><g
-       id="13254"
-       transform="translate(201.78392,4.5)">
-<text
-   x="12"
-   y="126"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text1825"><tspan
-     id="tspan1823">13254 +</tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="13254_1"
-   d="m 12.124356,114 v 3" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="13254_3"
-   d="M 16.454483,109.5 13.856407,120" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="13254_2"
-   d="m 13.856407,111 2.598076,10.5" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="13254_5"
-   d="m 22.516661,111 -2.598077,10.5" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="13254_4"
-   d="M 19.918584,109.5 22.516661,120" />
-</g><g
-       id="13425"
-       transform="translate(201.78392,4.5)">
-<text
-   x="12"
-   y="147"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text1835"><tspan
-     id="tspan1833">13425 </tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="13425_1"
-   d="m 12.124356,135 v 3" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="13425_3"
-   d="M 16.454483,130.5 13.856407,141" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="13425_4"
-   d="m 19.918584,130.5 -3.464101,12" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="13425_2"
-   d="m 13.856407,132 6.062177,10.5" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="13425_5"
-   d="m 22.516661,132 v 9" />
-</g><g
-       id="13452"
-       transform="translate(201.78392,4.5)">
-<text
-   x="12"
-   y="168"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text1845"><tspan
-     id="tspan1843">13452 </tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="13452_1"
-   d="m 12.124356,156 v 3" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="13452_3"
-   d="M 16.454483,151.5 13.856407,162" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="13452_4"
-   d="m 19.918584,151.5 -3.464101,12" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="13452_5"
-   d="m 22.516661,153 -2.598077,10.5" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="13452_2"
-   d="m 13.856407,153 8.660254,9" />
-</g><g
-       id="13524"
-       transform="translate(201.78392,4.5)">
-<text
-   x="12"
-   y="189"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text1855"><tspan
-     id="tspan1853">13524 </tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="13524_1"
-   d="m 12.124356,177 v 3" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="13524_3"
-   d="M 16.454483,172.5 13.856407,183" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="13524_5"
-   d="m 22.516661,174 -6.062178,10.5" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="13524_2"
-   d="m 13.856407,174 6.062177,10.5" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="13524_4"
-   d="M 19.918584,172.5 22.516661,183" />
-</g><g
-       id="13542"
-       transform="translate(201.78392,4.5)">
-<text
-   x="12"
-   y="210"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text1865"><tspan
-     id="tspan1863">13542 </tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="13542_1"
-   d="m 12.124356,198 v 3" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="13542_3"
-   d="M 16.454483,193.5 13.856407,204" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="13542_5"
-   d="m 22.516661,195 -6.062178,10.5" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="13542_4"
-   d="m 19.918584,193.5 v 12" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="13542_2"
-   d="m 13.856407,195 8.660254,9" />
-</g><g
-       id="14325"
-       transform="translate(201.78392,4.5)">
-<text
-   x="36.25"
-   y="21"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text1875"><tspan
-     id="tspan1873">14325 *+</tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="14325_1"
-   d="m 36.374356,9 v 3" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="14325_4"
-   d="M 44.168584,4.5 38.106407,15" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="14325_3"
-   d="m 40.704483,4.5 v 12" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="14325_2"
-   d="m 38.106407,6 6.062177,10.5" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="14325_5"
-   d="m 46.766661,6 v 9" />
-</g><g
-       id="14352"
-       transform="translate(201.78392,4.5)">
-<text
-   x="36.25"
-   y="42"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text1885"><tspan
-     id="tspan1883">14352 </tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="14352_1"
-   d="m 36.374356,30 v 3" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="14352_4"
-   d="M 44.168584,25.5 38.106407,36" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="14352_3"
-   d="m 40.704483,25.5 v 12" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="14352_5"
-   d="M 46.766661,27 44.168584,37.5" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="14352_2"
-   d="m 38.106407,27 8.660254,9" />
-</g><g
-       id="14523"
-       transform="translate(201.78392,4.5)">
-<text
-   x="36.25"
-   y="63"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text1895"><tspan
-     id="tspan1893">14523 +</tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="14523_1"
-   d="m 36.374356,51 v 3" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="14523_4"
-   d="M 44.168584,46.5 38.106407,57" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="14523_5"
-   d="M 46.766661,48 40.704483,58.5" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="14523_2"
-   d="m 38.106407,48 6.062177,10.5" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="14523_3"
-   d="M 40.704483,46.5 46.766661,57" />
-</g><g
-       id="14532"
-       transform="translate(201.78392,4.5)">
-<text
-   x="36.25"
-   y="84"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text1905"><tspan
-     id="tspan1903">14532 </tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="14532_1"
-   d="m 36.374356,72 v 3" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="14532_4"
-   d="M 44.168584,67.5 38.106407,78" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="14532_5"
-   d="M 46.766661,69 40.704483,79.5" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="14532_3"
-   d="m 40.704483,67.5 3.464101,12" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="14532_2"
-   d="m 38.106407,69 8.660254,9" />
-</g><g
-       id="15342"
-       transform="translate(201.78392,4.5)">
-<text
-   x="36.25"
-   y="105"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text1915"><tspan
-     id="tspan1913">15342 +</tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="15342_1"
-   d="m 36.374356,93 v 3" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="15342_5"
-   d="m 46.766661,90 -8.660254,9" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="15342_3"
-   d="m 40.704483,88.5 v 12" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="15342_4"
-   d="m 44.168584,88.5 v 12" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="15342_2"
-   d="m 38.106407,90 8.660254,9" />
-</g><g
-       id="15432"
-       transform="translate(201.78392,4.5)">
-<text
-   x="36.25"
-   y="126"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text1925"><tspan
-     id="tspan1923">15432 +</tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="15432_1"
-   d="m 36.374356,114 v 3" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="15432_5"
-   d="m 46.766661,111 -8.660254,9" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="15432_4"
-   d="m 44.168584,109.5 -3.464101,12" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="15432_3"
-   d="m 40.704483,109.5 3.464101,12" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="15432_2"
-   d="m 38.106407,111 8.660254,9" />
-</g><g
-       id="21354"
-       transform="translate(201.78392,4.5)">
-<text
-   x="36.25"
-   y="147"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text1935"><tspan
-     id="tspan1933">21354 *+</tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="21354_2"
-   d="m 38.106407,132 -1.732051,6" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="21354_1"
-   d="m 36.374356,135 1.732051,6" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="21354_3"
-   d="m 40.704483,130.5 v 12" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="21354_5"
-   d="m 46.766661,132 -2.598077,10.5" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="21354_4"
-   d="M 44.168584,130.5 46.766661,141" />
-</g><g
-       id="21453"
-       transform="translate(201.78392,4.5)">
-<text
-   x="36.25"
-   y="168"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text1945"><tspan
-     id="tspan1943">21453 </tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="21453_2"
-   d="m 38.106407,153 -1.732051,6" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="21453_1"
-   d="m 36.374356,156 1.732051,6" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="21453_4"
-   d="m 44.168584,151.5 -3.464101,12" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="21453_5"
-   d="m 46.766661,153 -2.598077,10.5" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="21453_3"
-   d="M 40.704483,151.5 46.766661,162" />
-</g><g
-       id="21543"
-       transform="translate(201.78392,4.5)">
-<text
-   x="36.25"
-   y="189"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text1955"><tspan
-     id="tspan1953">21543 +</tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="21543_2"
-   d="m 38.106407,174 -1.732051,6" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="21543_1"
-   d="m 36.374356,177 1.732051,6" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="21543_5"
-   d="m 46.766661,174 -6.062178,10.5" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="21543_4"
-   d="m 44.168584,172.5 v 12" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="21543_3"
-   d="M 40.704483,172.5 46.766661,183" />
-</g><g
-       id="23451"
-       transform="translate(201.78392,4.5)">
-<text
-   x="36.25"
-   y="210"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text1965"><tspan
-     id="tspan1963">23451 </tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="23451_2"
-   d="m 38.106407,195 -1.732051,6" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="23451_3"
-   d="M 40.704483,193.5 38.106407,204" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="23451_4"
-   d="m 44.168584,193.5 -3.464101,12" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="23451_5"
-   d="m 46.766661,195 -2.598077,10.5" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="23451_1"
-   d="m 36.374356,198 10.392305,6" />
-</g><g
-       id="23514"
-       transform="translate(201.78392,4.5)">
-<text
-   x="60.5"
-   y="21"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text1975"><tspan
-     id="tspan1973">23514 </tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="23514_2"
-   d="m 62.356407,6 -1.732051,6" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="23514_3"
-   d="M 64.954483,4.5 62.356407,15" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="23514_5"
-   d="M 71.016661,6 64.954483,16.5" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="23514_1"
-   d="m 60.624356,9 7.794228,7.5" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="23514_4"
-   d="M 68.418584,4.5 71.016661,15" />
-</g><g
-       id="23541"
-       transform="translate(201.78392,4.5)">
-<text
-   x="60.5"
-   y="42"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text1985"><tspan
-     id="tspan1983">23541 </tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="23541_2"
-   d="m 62.356407,27 -1.732051,6" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="23541_3"
-   d="M 64.954483,25.5 62.356407,36" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="23541_5"
-   d="M 71.016661,27 64.954483,37.5" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="23541_4"
-   d="m 68.418584,25.5 v 12" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="23541_1"
-   d="m 60.624356,30 10.392305,6" />
-</g><g
-       id="24153"
-       transform="translate(201.78392,4.5)">
-<text
-   x="60.5"
-   y="63"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text1995"><tspan
-     id="tspan1993">24153 </tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="24153_2"
-   d="m 62.356407,48 -1.732051,6" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="24153_4"
-   d="M 68.418584,46.5 62.356407,57" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="24153_1"
-   d="m 60.624356,51 4.330127,7.5" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="24153_5"
-   d="M 71.016661,48 68.418584,58.5" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="24153_3"
-   d="M 64.954483,46.5 71.016661,57" />
-</g><g
-       id="24351"
-       transform="translate(201.78392,4.5)">
-<text
-   x="60.5"
-   y="84"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text2005"><tspan
-     id="tspan2003">24351 </tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="24351_2"
-   d="m 62.356407,69 -1.732051,6" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="24351_4"
-   d="M 68.418584,67.5 62.356407,78" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="24351_3"
-   d="m 64.954483,67.5 v 12" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="24351_5"
-   d="M 71.016661,69 68.418584,79.5" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="24351_1"
-   d="m 60.624356,72 10.392305,6" />
-</g><g
-       id="24513"
-       transform="translate(201.78392,4.5)">
-<text
-   x="60.5"
-   y="105"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text2015"><tspan
-     id="tspan2013">24513 </tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="24513_2"
-   d="m 62.356407,90 -1.732051,6" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="24513_4"
-   d="M 68.418584,88.5 62.356407,99" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="24513_5"
-   d="m 71.016661,90 -6.062178,10.5" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="24513_1"
-   d="m 60.624356,93 7.794228,7.5" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="24513_3"
-   d="M 64.954483,88.5 71.016661,99" />
-</g><g
-       id="24531"
-       transform="translate(201.78392,4.5)">
-<text
-   x="60.5"
-   y="126"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text2025"><tspan
-     id="tspan2023">24531 </tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="24531_2"
-   d="m 62.356407,111 -1.732051,6" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="24531_4"
-   d="M 68.418584,109.5 62.356407,120" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="24531_5"
-   d="m 71.016661,111 -6.062178,10.5" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="24531_3"
-   d="m 64.954483,109.5 3.464101,12" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="24531_1"
-   d="m 60.624356,114 10.392305,6" />
-</g><g
-       id="25143"
-       transform="translate(201.78392,4.5)">
-<text
-   x="60.5"
-   y="147"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text2035"><tspan
-     id="tspan2033">25143 </tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="25143_2"
-   d="m 62.356407,132 -1.732051,6" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="25143_5"
-   d="m 71.016661,132 -8.660254,9" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="25143_1"
-   d="m 60.624356,135 4.330127,7.5" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="25143_4"
-   d="m 68.418584,130.5 v 12" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="25143_3"
-   d="M 64.954483,130.5 71.016661,141" />
-</g><g
-       id="25314"
-       transform="translate(201.78392,4.5)">
-<text
-   x="60.5"
-   y="168"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text2045"><tspan
-     id="tspan2043">25314 *</tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="25314_2"
-   d="m 62.356407,153 -1.732051,6" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="25314_5"
-   d="m 71.016661,153 -8.660254,9" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="25314_3"
-   d="m 64.954483,151.5 v 12" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="25314_1"
-   d="m 60.624356,156 7.794228,7.5" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="25314_4"
-   d="M 68.418584,151.5 71.016661,162" />
-</g><g
-       id="25341"
-       transform="translate(201.78392,4.5)">
-<text
-   x="60.5"
-   y="189"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text2055"><tspan
-     id="tspan2053">25341 </tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="25341_2"
-   d="m 62.356407,174 -1.732051,6" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="25341_5"
-   d="m 71.016661,174 -8.660254,9" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="25341_3"
-   d="m 64.954483,172.5 v 12" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="25341_4"
-   d="m 68.418584,172.5 v 12" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="25341_1"
-   d="m 60.624356,177 10.392305,6" />
-</g><g
-       id="25413"
-       transform="translate(201.78392,4.5)">
-<text
-   x="60.5"
-   y="210"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text2065"><tspan
-     id="tspan2063">25413 </tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="25413_2"
-   d="m 62.356407,195 -1.732051,6" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="25413_5"
-   d="m 71.016661,195 -8.660254,9" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="25413_4"
-   d="m 68.418584,193.5 -3.464101,12" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="25413_1"
-   d="m 60.624356,198 7.794228,7.5" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="25413_3"
-   d="M 64.954483,193.5 71.016661,204" />
-</g><g
-       id="25431"
-       transform="translate(201.78392,4.5)">
-<text
-   x="84.75"
-   y="21"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text2075"><tspan
-     id="tspan2073">25431 </tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="25431_2"
-   d="m 86.606407,6 -1.732051,6" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="25431_5"
-   d="m 95.266661,6 -8.660254,9" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="25431_4"
-   d="m 92.668584,4.5 -3.464101,12" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="25431_3"
-   d="m 89.204483,4.5 3.464101,12" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="25431_1"
-   d="m 84.874356,9 10.392305,6" />
-</g><g
-       id="32541"
-       transform="translate(201.78392,4.5)">
-<text
-   x="84.75"
-   y="42"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text2085"><tspan
-     id="tspan2083">32541 </tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="32541_3"
-   d="M 89.204483,25.5 84.874356,33" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="32541_2"
-   d="m 86.606407,27 v 9" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="32541_5"
-   d="M 95.266661,27 89.204483,37.5" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="32541_4"
-   d="m 92.668584,25.5 v 12" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="32541_1"
-   d="m 84.874356,30 10.392305,6" />
-</g><g
-       id="34512"
-       transform="translate(201.78392,4.5)">
-<text
-   x="84.75"
-   y="63"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text2095"><tspan
-     id="tspan2093">34512 </tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="34512_3"
-   d="M 89.204483,46.5 84.874356,54" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="34512_4"
-   d="M 92.668584,46.5 86.606407,57" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="34512_5"
-   d="M 95.266661,48 89.204483,58.5" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="34512_1"
-   d="m 84.874356,51 7.794228,7.5" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="34512_2"
-   d="m 86.606407,48 8.660254,9" />
-</g><g
-       id="34521"
-       transform="translate(201.78392,4.5)">
-<text
-   x="84.75"
-   y="84"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text2105"><tspan
-     id="tspan2103">34521 </tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="34521_3"
-   d="M 89.204483,67.5 84.874356,75" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="34521_4"
-   d="M 92.668584,67.5 86.606407,78" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="34521_5"
-   d="M 95.266661,69 89.204483,79.5" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="34521_2"
-   d="m 86.606407,69 6.062177,10.5" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="34521_1"
-   d="m 84.874356,72 10.392305,6" />
-</g><g
-       id="35142"
-       transform="translate(201.78392,4.5)">
-<text
-   x="84.75"
-   y="105"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text2115"><tspan
-     id="tspan2113">35142 +</tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="35142_3"
-   d="M 89.204483,88.5 84.874356,96" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="35142_5"
-   d="m 95.266661,90 -8.660254,9" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="35142_1"
-   d="m 84.874356,93 4.330127,7.5" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="35142_4"
-   d="m 92.668584,88.5 v 12" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="35142_2"
-   d="m 86.606407,90 8.660254,9" />
-</g><g
-       id="35241"
-       transform="translate(201.78392,4.5)">
-<text
-   x="84.75"
-   y="126"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text2125"><tspan
-     id="tspan2123">35241 </tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="35241_3"
-   d="M 89.204483,109.5 84.874356,117" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="35241_5"
-   d="m 95.266661,111 -8.660254,9" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="35241_2"
-   d="m 86.606407,111 2.598076,10.5" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="35241_4"
-   d="m 92.668584,109.5 v 12" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="35241_1"
-   d="m 84.874356,114 10.392305,6" />
-</g><g
-       id="35412"
-       transform="translate(201.78392,4.5)">
-<text
-   x="84.75"
-   y="147"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text2135"><tspan
-     id="tspan2133">35412 </tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="35412_3"
-   d="M 89.204483,130.5 84.874356,138" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="35412_5"
-   d="m 95.266661,132 -8.660254,9" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="35412_4"
-   d="m 92.668584,130.5 -3.464101,12" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="35412_1"
-   d="m 84.874356,135 7.794228,7.5" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="35412_2"
-   d="m 86.606407,132 8.660254,9" />
-</g><g
-       id="35421"
-       transform="translate(201.78392,4.5)">
-<text
-   x="84.75"
-   y="168"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text2145"><tspan
-     id="tspan2143">35421 </tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="35421_3"
-   d="M 89.204483,151.5 84.874356,159" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="35421_5"
-   d="m 95.266661,153 -8.660254,9" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="35421_4"
-   d="m 92.668584,151.5 -3.464101,12" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="35421_2"
-   d="m 86.606407,153 6.062177,10.5" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="35421_1"
-   d="m 84.874356,156 10.392305,6" />
-</g><g
-       id="45231"
-       transform="translate(201.78392,4.5)">
-<text
-   x="84.75"
-   y="189"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text2155"><tspan
-     id="tspan2153">45231 </tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="45231_4"
-   d="M 92.668584,172.5 84.874356,180" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="45231_5"
-   d="m 95.266661,174 -8.660254,9" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="45231_2"
-   d="m 86.606407,174 2.598076,10.5" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="45231_3"
-   d="m 89.204483,172.5 3.464101,12" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="45231_1"
-   d="m 84.874356,177 10.392305,6" />
-</g><g
-       id="45312"
-       transform="translate(201.78392,4.5)">
-<text
-   x="84.75"
-   y="210"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text2165"><tspan
-     id="tspan2163">45312 *+</tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="45312_4"
-   d="M 92.668584,193.5 84.874356,201" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="45312_5"
-   d="m 95.266661,195 -8.660254,9" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="45312_3"
-   d="m 89.204483,193.5 v 12" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="45312_1"
-   d="m 84.874356,198 7.794228,7.5" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="45312_2"
-   d="m 86.606407,195 8.660254,9" />
-</g><g
-       id="45321"
-       transform="translate(201.78392,4.5)">
-<text
-   x="109"
-   y="21"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text2175"><tspan
-     id="tspan2173">45321 </tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="45321_4"
-   d="M 116.91858,4.5 109.12436,12" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="45321_5"
-   d="m 119.51666,6 -8.66025,9" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="45321_3"
-   d="m 113.45448,4.5 v 12" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="45321_2"
-   d="m 110.85641,6 6.06217,10.5" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="45321_1"
-   d="m 109.12436,9 10.3923,6" />
-</g><g
-       id="52341"
-       transform="translate(201.78392,4.5)">
-<text
-   x="109"
-   y="42"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text2185"><tspan
-     id="tspan2183">52341 *+</tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="52341_5"
-   d="m 119.51666,27 -10.3923,6" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="52341_2"
-   d="m 110.85641,27 v 9" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="52341_3"
-   d="m 113.45448,25.5 v 12" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="52341_4"
-   d="m 116.91858,25.5 v 12" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="52341_1"
-   d="m 109.12436,30 10.3923,6" />
-</g><g
-       id="52431"
-       transform="translate(201.78392,4.5)">
-<text
-   x="109"
-   y="63"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text2195"><tspan
-     id="tspan2193">52431 +</tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="52431_5"
-   d="m 119.51666,48 -10.3923,6" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="52431_2"
-   d="m 110.85641,48 v 9" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="52431_4"
-   d="m 116.91858,46.5 -3.4641,12" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="52431_3"
-   d="m 113.45448,46.5 3.4641,12" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="52431_1"
-   d="m 109.12436,51 10.3923,6" />
-</g><g
-       id="53421"
-       transform="translate(201.78392,4.5)">
-<text
-   x="109"
-   y="84"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text2205"><tspan
-     id="tspan2203">53421 </tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="53421_5"
-   d="m 119.51666,69 -10.3923,6" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="53421_3"
-   d="M 113.45448,67.5 110.85641,78" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="53421_4"
-   d="m 116.91858,67.5 -3.4641,12" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="53421_2"
-   d="m 110.85641,69 6.06217,10.5" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="53421_1"
-   d="m 109.12436,72 10.3923,6" />
-</g><g
-       id="54321"
-       transform="translate(201.78392,4.5)">
-<text
-   x="109"
-   y="105"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text2215"><tspan
-     id="tspan2213">54321 *+</tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="54321_5"
-   d="m 119.51666,90 -10.3923,6" />
-<path
-   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
-   id="54321_4"
-   d="M 116.91858,88.5 110.85641,99" />
-<path
-   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
-   id="54321_3"
-   d="m 113.45448,88.5 v 12" />
-<path
-   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
-   id="54321_2"
-   d="m 110.85641,90 6.06217,10.5" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="54321_1"
-   d="m 109.12436,93 10.3923,6" />
-</g></g></g>
-/usr/bin/python3.9 /home/jokep/git/d-bl/MAE-gf/docs/counting-snow/permutations.py
-<g
-   id="g5077">
-<text
-   x="12.0"
-   y="21"
-   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-   id="text5065"><tspan
-     id="tspan5063">12345 *+</tspan></text>
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="path5067"
-   d="M 12.124356,9 12.124356,12" />
-<path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
-   id="path5069"
-   d="M 13.856407,6 13.856407,15" />
-<path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
-   id="path5071"
-   d="M 16.454483,4.5 16.454483,16.5" />
-<path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
-   id="path5073"
-   d="M 19.918584,4.5 19.918584,16.5" />
-<path
-   style="fill:none;stroke:#000000;stroke-width:0.3px"
-   id="path5075"
-   d="M 22.516661,6 22.516661,15" />
-</g>
-<g
    id="g5093">
 <text
-   x="12.0"
+   x="12"
    y="42"
    style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
    id="text5081"><tspan
@@ -1462,28 +170,27 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5083"
-   d="M 12.124356,30 12.124356,33" />
+   d="m 12.124356,30 v 3" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5085"
-   d="M 13.856407,27 13.856407,36" />
+   d="m 13.856407,27 v 9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5087"
-   d="M 16.454483,25.5 16.454483,37.5" />
+   d="m 16.454483,25.5 v 12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5089"
    d="M 22.516661,27 19.918584,37.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5091"
    d="M 19.918584,25.5 22.516661,36" />
-</g>
-<g
+</g><g
    id="g5109">
 <text
-   x="12.0"
+   x="12"
    y="63"
    style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
    id="text5097"><tspan
@@ -1491,28 +198,27 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5099"
-   d="M 12.124356,51 12.124356,54" />
+   d="m 12.124356,51 v 3" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5101"
-   d="M 13.856407,48 13.856407,57" />
+   d="m 13.856407,48 v 9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5103"
-   d="M 19.918584,46.5 16.454483,58.5" />
+   d="m 19.918584,46.5 -3.464101,12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5105"
-   d="M 16.454483,46.5 19.918584,58.5" />
+   d="m 16.454483,46.5 3.464101,12" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5107"
-   d="M 22.516661,48 22.516661,57" />
-</g>
-<g
+   d="m 22.516661,48 v 9" />
+</g><g
    id="g5125">
 <text
-   x="12.0"
+   x="12"
    y="84"
    style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
    id="text5113"><tspan
@@ -1520,28 +226,27 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5115"
-   d="M 12.124356,72 12.124356,75" />
+   d="m 12.124356,72 v 3" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5117"
-   d="M 13.856407,69 13.856407,78" />
+   d="m 13.856407,69 v 9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5119"
-   d="M 19.918584,67.5 16.454483,79.5" />
+   d="m 19.918584,67.5 -3.464101,12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5121"
    d="M 22.516661,69 19.918584,79.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5123"
    d="M 16.454483,67.5 22.516661,78" />
-</g>
-<g
+</g><g
    id="g5141">
 <text
-   x="12.0"
+   x="12"
    y="105"
    style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
    id="text5129"><tspan
@@ -1549,28 +254,27 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5131"
-   d="M 12.124356,93 12.124356,96" />
+   d="m 12.124356,93 v 3" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5133"
-   d="M 13.856407,90 13.856407,99" />
+   d="m 13.856407,90 v 9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5135"
-   d="M 22.516661,90 16.454483,100.5" />
+   d="m 22.516661,90 -6.062178,10.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5137"
-   d="M 19.918584,88.5 19.918584,100.5" />
+   d="m 19.918584,88.5 v 12" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5139"
    d="M 16.454483,88.5 22.516661,99" />
-</g>
-<g
+</g><g
    id="13245">
 <text
-   x="12.0"
+   x="12"
    y="126"
    style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
    id="text5145"><tspan
@@ -1578,28 +282,27 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="13245_1"
-   d="M 12.124356,114 12.124356,117" />
+   d="m 12.124356,114 v 3" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="13245_3"
    d="M 16.454483,109.5 13.856407,120" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="13245_2"
-   d="M 13.856407,111 16.454483,121.5" />
+   d="m 13.856407,111 2.598076,10.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="13245_4"
-   d="M 19.918584,109.5 19.918584,121.5" />
+   d="m 19.918584,109.5 v 12" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="13245_5"
-   d="M 22.516661,111 22.516661,120" />
-</g>
-<g
+   d="m 22.516661,111 v 9" />
+</g><g
    id="g5167">
 <text
-   x="12.0"
+   x="12"
    y="147"
    style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
    id="text5155"><tspan
@@ -1607,28 +310,27 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5157"
-   d="M 12.124356,135 12.124356,138" />
+   d="m 12.124356,135 v 3" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5159"
    d="M 16.454483,130.5 13.856407,141" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5161"
-   d="M 13.856407,132 16.454483,142.5" />
+   d="m 13.856407,132 2.598076,10.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5163"
-   d="M 22.516661,132 19.918584,142.5" />
+   d="m 22.516661,132 -2.598077,10.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5165"
    d="M 19.918584,130.5 22.516661,141" />
-</g>
-<g
+</g><g
    id="g5183">
 <text
-   x="12.0"
+   x="12"
    y="168"
    style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
    id="text5171"><tspan
@@ -1636,28 +338,27 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5173"
-   d="M 12.124356,156 12.124356,159" />
+   d="m 12.124356,156 v 3" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5175"
    d="M 16.454483,151.5 13.856407,162" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5177"
-   d="M 19.918584,151.5 16.454483,163.5" />
+   d="m 19.918584,151.5 -3.464101,12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5179"
-   d="M 13.856407,153 19.918584,163.5" />
+   d="m 13.856407,153 6.062177,10.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5181"
-   d="M 22.516661,153 22.516661,162" />
-</g>
-<g
+   d="m 22.516661,153 v 9" />
+</g><g
    id="g5199">
 <text
-   x="12.0"
+   x="12"
    y="189"
    style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
    id="text5187"><tspan
@@ -1665,28 +366,27 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5189"
-   d="M 12.124356,177 12.124356,180" />
+   d="m 12.124356,177 v 3" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5191"
    d="M 16.454483,172.5 13.856407,183" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5193"
-   d="M 19.918584,172.5 16.454483,184.5" />
+   d="m 19.918584,172.5 -3.464101,12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5195"
-   d="M 22.516661,174 19.918584,184.5" />
+   d="m 22.516661,174 -2.598077,10.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5197"
-   d="M 13.856407,174 22.516661,183" />
-</g>
-<g
+   d="m 13.856407,174 8.660254,9" />
+</g><g
    id="g5215">
 <text
-   x="12.0"
+   x="12"
    y="210"
    style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
    id="text5203"><tspan
@@ -1694,25 +394,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5205"
-   d="M 12.124356,198 12.124356,201" />
+   d="m 12.124356,198 v 3" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5207"
    d="M 16.454483,193.5 13.856407,204" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5209"
-   d="M 22.516661,195 16.454483,205.5" />
+   d="m 22.516661,195 -6.062178,10.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5211"
-   d="M 13.856407,195 19.918584,205.5" />
+   d="m 13.856407,195 6.062177,10.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5213"
    d="M 19.918584,193.5 22.516661,204" />
-</g>
-<g
+</g><g
    id="g5231">
 <text
    x="36.25"
@@ -1723,25 +422,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5221"
-   d="M 36.374356,9 36.374356,12" />
+   d="m 36.374356,9 v 3" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5223"
-   d="M 40.704482999999996,4.5 38.106407000000004,15" />
+   d="M 40.704483,4.5 38.106407,15" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5225"
-   d="M 46.766661,6 40.704482999999996,16.5" />
+   d="M 46.766661,6 40.704483,16.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5227"
-   d="M 44.168583999999996,4.5 44.168583999999996,16.5" />
+   d="m 44.168584,4.5 v 12" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5229"
-   d="M 38.106407000000004,6 46.766661,15" />
-</g>
-<g
+   d="m 38.106407,6 8.660254,9" />
+</g><g
    id="g5247">
 <text
    x="36.25"
@@ -1752,25 +450,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5237"
-   d="M 36.374356,30 36.374356,33" />
+   d="m 36.374356,30 v 3" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5239"
-   d="M 44.168583999999996,25.5 38.106407000000004,36" />
+   d="M 44.168584,25.5 38.106407,36" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5241"
-   d="M 40.704482999999996,25.5 40.704482999999996,37.5" />
+   d="m 40.704483,25.5 v 12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5243"
-   d="M 38.106407000000004,27 44.168583999999996,37.5" />
+   d="m 38.106407,27 6.062177,10.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5245"
-   d="M 46.766661,27 46.766661,36" />
-</g>
-<g
+   d="m 46.766661,27 v 9" />
+</g><g
    id="g5263">
 <text
    x="36.25"
@@ -1781,25 +478,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5253"
-   d="M 36.374356,51 36.374356,54" />
+   d="m 36.374356,51 v 3" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5255"
-   d="M 44.168583999999996,46.5 38.106407000000004,57" />
+   d="M 44.168584,46.5 38.106407,57" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5257"
-   d="M 40.704482999999996,46.5 40.704482999999996,58.5" />
+   d="m 40.704483,46.5 v 12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5259"
-   d="M 46.766661,48 44.168583999999996,58.5" />
+   d="M 46.766661,48 44.168584,58.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5261"
-   d="M 38.106407000000004,48 46.766661,57" />
-</g>
-<g
+   d="m 38.106407,48 8.660254,9" />
+</g><g
    id="g5279">
 <text
    x="36.25"
@@ -1810,25 +506,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5269"
-   d="M 36.374356,72 36.374356,75" />
+   d="m 36.374356,72 v 3" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5271"
-   d="M 44.168583999999996,67.5 38.106407000000004,78" />
+   d="M 44.168584,67.5 38.106407,78" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5273"
-   d="M 46.766661,69 40.704482999999996,79.5" />
+   d="M 46.766661,69 40.704483,79.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5275"
-   d="M 38.106407000000004,69 44.168583999999996,79.5" />
+   d="m 38.106407,69 6.062177,10.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5277"
-   d="M 40.704482999999996,67.5 46.766661,78" />
-</g>
-<g
+   d="M 40.704483,67.5 46.766661,78" />
+</g><g
    id="g5295">
 <text
    x="36.25"
@@ -1839,25 +534,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5285"
-   d="M 36.374356,93 36.374356,96" />
+   d="m 36.374356,93 v 3" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5287"
-   d="M 44.168583999999996,88.5 38.106407000000004,99" />
+   d="M 44.168584,88.5 38.106407,99" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5289"
-   d="M 46.766661,90 40.704482999999996,100.5" />
+   d="m 46.766661,90 -6.062178,10.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5291"
-   d="M 40.704482999999996,88.5 44.168583999999996,100.5" />
+   d="m 40.704483,88.5 3.464101,12" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5293"
-   d="M 38.106407000000004,90 46.766661,99" />
-</g>
-<g
+   d="m 38.106407,90 8.660254,9" />
+</g><g
    id="g5311">
 <text
    x="36.25"
@@ -1868,25 +562,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5301"
-   d="M 36.374356,114 36.374356,117" />
+   d="m 36.374356,114 v 3" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5303"
-   d="M 46.766661,111 38.106407000000004,120" />
+   d="m 46.766661,111 -8.660254,9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5305"
-   d="M 40.704482999999996,109.5 40.704482999999996,121.5" />
+   d="m 40.704483,109.5 v 12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5307"
-   d="M 44.168583999999996,109.5 44.168583999999996,121.5" />
+   d="m 44.168584,109.5 v 12" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5309"
-   d="M 38.106407000000004,111 46.766661,120" />
-</g>
-<g
+   d="m 38.106407,111 8.660254,9" />
+</g><g
    id="g5327">
 <text
    x="36.25"
@@ -1897,25 +590,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5317"
-   d="M 36.374356,135 36.374356,138" />
+   d="m 36.374356,135 v 3" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5319"
-   d="M 46.766661,132 38.106407000000004,141" />
+   d="m 46.766661,132 -8.660254,9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5321"
-   d="M 44.168583999999996,130.5 40.704482999999996,142.5" />
+   d="m 44.168584,130.5 -3.464101,12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5323"
-   d="M 40.704482999999996,130.5 44.168583999999996,142.5" />
+   d="m 40.704483,130.5 3.464101,12" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5325"
-   d="M 38.106407000000004,132 46.766661,141" />
-</g>
-<g
+   d="m 38.106407,132 8.660254,9" />
+</g><g
    id="21345">
 <text
    x="36.25"
@@ -1926,25 +618,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="21345_2"
-   d="M 38.106407000000004,153 36.374356,159" />
+   d="m 38.106407,153 -1.732051,6" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="21345_1"
-   d="M 36.374356,156 38.106407000000004,162" />
+   d="m 36.374356,156 1.732051,6" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="21345_3"
-   d="M 40.704482999999996,151.5 40.704482999999996,163.5" />
+   d="m 40.704483,151.5 v 12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="21345_4"
-   d="M 44.168583999999996,151.5 44.168583999999996,163.5" />
+   d="m 44.168584,151.5 v 12" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="21345_5"
-   d="M 46.766661,153 46.766661,162" />
-</g>
-<g
+   d="m 46.766661,153 v 9" />
+</g><g
    id="g5353">
 <text
    x="36.25"
@@ -1955,25 +646,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5343"
-   d="M 38.106407000000004,174 36.374356,180" />
+   d="m 38.106407,174 -1.732051,6" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5345"
-   d="M 36.374356,177 38.106407000000004,183" />
+   d="m 36.374356,177 1.732051,6" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5347"
-   d="M 40.704482999999996,172.5 40.704482999999996,184.5" />
+   d="m 40.704483,172.5 v 12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5349"
-   d="M 46.766661,174 44.168583999999996,184.5" />
+   d="m 46.766661,174 -2.598077,10.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5351"
-   d="M 44.168583999999996,172.5 46.766661,183" />
-</g>
-<g
+   d="M 44.168584,172.5 46.766661,183" />
+</g><g
    id="21435">
 <text
    x="36.25"
@@ -1984,25 +674,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="21435_2"
-   d="M 38.106407000000004,195 36.374356,201" />
+   d="m 38.106407,195 -1.732051,6" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="21435_1"
-   d="M 36.374356,198 38.106407000000004,204" />
+   d="m 36.374356,198 1.732051,6" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="21435_4"
-   d="M 44.168583999999996,193.5 40.704482999999996,205.5" />
+   d="m 44.168584,193.5 -3.464101,12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="21435_3"
-   d="M 40.704482999999996,193.5 44.168583999999996,205.5" />
+   d="m 40.704483,193.5 3.464101,12" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="21435_5"
-   d="M 46.766661,195 46.766661,204" />
-</g>
-<g
+   d="m 46.766661,195 v 9" />
+</g><g
    id="g5379">
 <text
    x="60.5"
@@ -2013,25 +702,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5369"
-   d="M 62.356407000000004,6 60.624356,12" />
+   d="m 62.356407,6 -1.732051,6" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5371"
-   d="M 60.624356,9 62.356407000000004,15" />
+   d="m 60.624356,9 1.732051,6" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5373"
-   d="M 68.418584,4.5 64.954483,16.5" />
+   d="m 68.418584,4.5 -3.464101,12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5375"
    d="M 71.016661,6 68.418584,16.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5377"
    d="M 64.954483,4.5 71.016661,15" />
-</g>
-<g
+</g><g
    id="g5395">
 <text
    x="60.5"
@@ -2042,25 +730,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5385"
-   d="M 62.356407000000004,27 60.624356,33" />
+   d="m 62.356407,27 -1.732051,6" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5387"
-   d="M 60.624356,30 62.356407000000004,36" />
+   d="m 60.624356,30 1.732051,6" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5389"
    d="M 71.016661,27 64.954483,37.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5391"
-   d="M 68.418584,25.5 68.418584,37.5" />
+   d="m 68.418584,25.5 v 12" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5393"
    d="M 64.954483,25.5 71.016661,36" />
-</g>
-<g
+</g><g
    id="23145">
 <text
    x="60.5"
@@ -2071,25 +758,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="23145_2"
-   d="M 62.356407000000004,48 60.624356,54" />
+   d="m 62.356407,48 -1.732051,6" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="23145_3"
-   d="M 64.954483,46.5 62.356407000000004,57" />
+   d="M 64.954483,46.5 62.356407,57" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="23145_1"
-   d="M 60.624356,51 64.954483,58.5" />
+   d="m 60.624356,51 4.330127,7.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="23145_4"
-   d="M 68.418584,46.5 68.418584,58.5" />
+   d="m 68.418584,46.5 v 12" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="23145_5"
-   d="M 71.016661,48 71.016661,57" />
-</g>
-<g
+   d="m 71.016661,48 v 9" />
+</g><g
    id="23154">
 <text
    x="60.5"
@@ -2100,25 +786,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="23154_2"
-   d="M 62.356407000000004,69 60.624356,75" />
+   d="m 62.356407,69 -1.732051,6" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="23154_3"
-   d="M 64.954483,67.5 62.356407000000004,78" />
+   d="M 64.954483,67.5 62.356407,78" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="23154_1"
-   d="M 60.624356,72 64.954483,79.5" />
+   d="m 60.624356,72 4.330127,7.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="23154_5"
    d="M 71.016661,69 68.418584,79.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="23154_4"
    d="M 68.418584,67.5 71.016661,78" />
-</g>
-<g
+</g><g
    id="23415">
 <text
    x="60.5"
@@ -2129,25 +814,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="23415_2"
-   d="M 62.356407000000004,90 60.624356,96" />
+   d="m 62.356407,90 -1.732051,6" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="23415_3"
-   d="M 64.954483,88.5 62.356407000000004,99" />
+   d="M 64.954483,88.5 62.356407,99" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="23415_4"
-   d="M 68.418584,88.5 64.954483,100.5" />
+   d="m 68.418584,88.5 -3.464101,12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="23415_1"
-   d="M 60.624356,93 68.418584,100.5" />
+   d="m 60.624356,93 7.794228,7.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="23415_5"
-   d="M 71.016661,90 71.016661,99" />
-</g>
-<g
+   d="m 71.016661,90 v 9" />
+</g><g
    id="g5441">
 <text
    x="60.5"
@@ -2158,25 +842,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5431"
-   d="M 62.356407000000004,111 60.624356,117" />
+   d="m 62.356407,111 -1.732051,6" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5433"
-   d="M 64.954483,109.5 62.356407000000004,120" />
+   d="M 64.954483,109.5 62.356407,120" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5435"
-   d="M 68.418584,109.5 64.954483,121.5" />
+   d="m 68.418584,109.5 -3.464101,12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5437"
-   d="M 71.016661,111 68.418584,121.5" />
+   d="m 71.016661,111 -2.598077,10.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5439"
-   d="M 60.624356,114 71.016661,120" />
-</g>
-<g
+   d="m 60.624356,114 10.392305,6" />
+</g><g
    id="g5457">
 <text
    x="60.5"
@@ -2187,25 +870,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5447"
-   d="M 62.356407000000004,132 60.624356,138" />
+   d="m 62.356407,132 -1.732051,6" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5449"
-   d="M 64.954483,130.5 62.356407000000004,141" />
+   d="M 64.954483,130.5 62.356407,141" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5451"
-   d="M 71.016661,132 64.954483,142.5" />
+   d="m 71.016661,132 -6.062178,10.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5453"
-   d="M 60.624356,135 68.418584,142.5" />
+   d="m 60.624356,135 7.794228,7.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5455"
    d="M 68.418584,130.5 71.016661,141" />
-</g>
-<g
+</g><g
    id="g5473">
 <text
    x="60.5"
@@ -2216,25 +898,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5463"
-   d="M 62.356407000000004,153 60.624356,159" />
+   d="m 62.356407,153 -1.732051,6" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5465"
-   d="M 64.954483,151.5 62.356407000000004,162" />
+   d="M 64.954483,151.5 62.356407,162" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5467"
-   d="M 71.016661,153 64.954483,163.5" />
+   d="m 71.016661,153 -6.062178,10.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5469"
-   d="M 68.418584,151.5 68.418584,163.5" />
+   d="m 68.418584,151.5 v 12" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5471"
-   d="M 60.624356,156 71.016661,162" />
-</g>
-<g
+   d="m 60.624356,156 10.392305,6" />
+</g><g
    id="24135">
 <text
    x="60.5"
@@ -2245,25 +926,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="24135_2"
-   d="M 62.356407000000004,174 60.624356,180" />
+   d="m 62.356407,174 -1.732051,6" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="24135_4"
-   d="M 68.418584,172.5 62.356407000000004,183" />
+   d="M 68.418584,172.5 62.356407,183" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="24135_1"
-   d="M 60.624356,177 64.954483,184.5" />
+   d="m 60.624356,177 4.330127,7.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="24135_3"
-   d="M 64.954483,172.5 68.418584,184.5" />
+   d="m 64.954483,172.5 3.464101,12" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="24135_5"
-   d="M 71.016661,174 71.016661,183" />
-</g>
-<g
+   d="m 71.016661,174 v 9" />
+</g><g
    id="g5499">
 <text
    x="60.5"
@@ -2274,25 +954,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5489"
-   d="M 62.356407000000004,195 60.624356,201" />
+   d="m 62.356407,195 -1.732051,6" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5491"
-   d="M 68.418584,193.5 62.356407000000004,204" />
+   d="M 68.418584,193.5 62.356407,204" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5493"
-   d="M 60.624356,198 64.954483,205.5" />
+   d="m 60.624356,198 4.330127,7.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5495"
-   d="M 71.016661,195 68.418584,205.5" />
+   d="m 71.016661,195 -2.598077,10.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5497"
    d="M 64.954483,193.5 71.016661,204" />
-</g>
-<g
+</g><g
    id="24315">
 <text
    x="84.75"
@@ -2303,25 +982,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="24315_2"
-   d="M 86.606407,6 84.874356,12" />
+   d="m 86.606407,6 -1.732051,6" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="24315_4"
    d="M 92.668584,4.5 86.606407,15" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="24315_3"
-   d="M 89.204483,4.5 89.204483,16.5" />
+   d="m 89.204483,4.5 v 12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="24315_1"
-   d="M 84.874356,9 92.668584,16.5" />
+   d="m 84.874356,9 7.794228,7.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="24315_5"
-   d="M 95.266661,6 95.266661,15" />
-</g>
-<g
+   d="m 95.266661,6 v 9" />
+</g><g
    id="g5525">
 <text
    x="84.75"
@@ -2332,25 +1010,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5515"
-   d="M 86.606407,27 84.874356,33" />
+   d="m 86.606407,27 -1.732051,6" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5517"
    d="M 92.668584,25.5 86.606407,36" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5519"
-   d="M 89.204483,25.5 89.204483,37.5" />
+   d="m 89.204483,25.5 v 12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5521"
    d="M 95.266661,27 92.668584,37.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5523"
-   d="M 84.874356,30 95.266661,36" />
-</g>
-<g
+   d="m 84.874356,30 10.392305,6" />
+</g><g
    id="g5541">
 <text
    x="84.75"
@@ -2361,25 +1038,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5531"
-   d="M 86.606407,48 84.874356,54" />
+   d="m 86.606407,48 -1.732051,6" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5533"
    d="M 92.668584,46.5 86.606407,57" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5535"
    d="M 95.266661,48 89.204483,58.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5537"
-   d="M 84.874356,51 92.668584,58.5" />
+   d="m 84.874356,51 7.794228,7.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5539"
    d="M 89.204483,46.5 95.266661,57" />
-</g>
-<g
+</g><g
    id="g5557">
 <text
    x="84.75"
@@ -2390,25 +1066,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5547"
-   d="M 86.606407,69 84.874356,75" />
+   d="m 86.606407,69 -1.732051,6" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5549"
    d="M 92.668584,67.5 86.606407,78" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5551"
    d="M 95.266661,69 89.204483,79.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5553"
-   d="M 89.204483,67.5 92.668584,79.5" />
+   d="m 89.204483,67.5 3.464101,12" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5555"
-   d="M 84.874356,72 95.266661,78" />
-</g>
-<g
+   d="m 84.874356,72 10.392305,6" />
+</g><g
    id="25134">
 <text
    x="84.75"
@@ -2419,25 +1094,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="25134_2"
-   d="M 86.606407,90 84.874356,96" />
+   d="m 86.606407,90 -1.732051,6" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="25134_5"
-   d="M 95.266661,90 86.606407,99" />
+   d="m 95.266661,90 -8.660254,9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="25134_1"
-   d="M 84.874356,93 89.204483,100.5" />
+   d="m 84.874356,93 4.330127,7.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="25134_3"
-   d="M 89.204483,88.5 92.668584,100.5" />
+   d="m 89.204483,88.5 3.464101,12" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="25134_4"
    d="M 92.668584,88.5 95.266661,99" />
-</g>
-<g
+</g><g
    id="g5583">
 <text
    x="84.75"
@@ -2448,25 +1122,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5573"
-   d="M 86.606407,111 84.874356,117" />
+   d="m 86.606407,111 -1.732051,6" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5575"
-   d="M 95.266661,111 86.606407,120" />
+   d="m 95.266661,111 -8.660254,9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5577"
-   d="M 84.874356,114 89.204483,121.5" />
+   d="m 84.874356,114 4.330127,7.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5579"
-   d="M 92.668584,109.5 92.668584,121.5" />
+   d="m 92.668584,109.5 v 12" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5581"
    d="M 89.204483,109.5 95.266661,120" />
-</g>
-<g
+</g><g
    id="g5599">
 <text
    x="84.75"
@@ -2477,25 +1150,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5589"
-   d="M 86.606407,132 84.874356,138" />
+   d="m 86.606407,132 -1.732051,6" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5591"
-   d="M 95.266661,132 86.606407,141" />
+   d="m 95.266661,132 -8.660254,9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5593"
-   d="M 89.204483,130.5 89.204483,142.5" />
+   d="m 89.204483,130.5 v 12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5595"
-   d="M 84.874356,135 92.668584,142.5" />
+   d="m 84.874356,135 7.794228,7.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5597"
    d="M 92.668584,130.5 95.266661,141" />
-</g>
-<g
+</g><g
    id="g5615">
 <text
    x="84.75"
@@ -2506,25 +1178,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5605"
-   d="M 86.606407,153 84.874356,159" />
+   d="m 86.606407,153 -1.732051,6" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5607"
-   d="M 95.266661,153 86.606407,162" />
+   d="m 95.266661,153 -8.660254,9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5609"
-   d="M 89.204483,151.5 89.204483,163.5" />
+   d="m 89.204483,151.5 v 12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5611"
-   d="M 92.668584,151.5 92.668584,163.5" />
+   d="m 92.668584,151.5 v 12" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5613"
-   d="M 84.874356,156 95.266661,162" />
-</g>
-<g
+   d="m 84.874356,156 10.392305,6" />
+</g><g
    id="g5631">
 <text
    x="84.75"
@@ -2535,25 +1206,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5621"
-   d="M 86.606407,174 84.874356,180" />
+   d="m 86.606407,174 -1.732051,6" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5623"
-   d="M 95.266661,174 86.606407,183" />
+   d="m 95.266661,174 -8.660254,9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5625"
-   d="M 92.668584,172.5 89.204483,184.5" />
+   d="m 92.668584,172.5 -3.464101,12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5627"
-   d="M 84.874356,177 92.668584,184.5" />
+   d="m 84.874356,177 7.794228,7.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5629"
    d="M 89.204483,172.5 95.266661,183" />
-</g>
-<g
+</g><g
    id="g5647">
 <text
    x="84.75"
@@ -2564,28 +1234,27 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5637"
-   d="M 86.606407,195 84.874356,201" />
+   d="m 86.606407,195 -1.732051,6" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5639"
-   d="M 95.266661,195 86.606407,204" />
+   d="m 95.266661,195 -8.660254,9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5641"
-   d="M 92.668584,193.5 89.204483,205.5" />
+   d="m 92.668584,193.5 -3.464101,12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5643"
-   d="M 89.204483,193.5 92.668584,205.5" />
+   d="m 89.204483,193.5 3.464101,12" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5645"
-   d="M 84.874356,198 95.266661,204" />
-</g>
-<g
+   d="m 84.874356,198 10.392305,6" />
+</g><g
    id="32145">
 <text
-   x="109.0"
+   x="109"
    y="21"
    style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
    id="text5651"><tspan
@@ -2593,28 +1262,27 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="32145_3"
-   d="M 113.454483,4.5 109.124356,12" />
+   d="M 113.45448,4.5 109.12436,12" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="32145_2"
-   d="M 110.856407,6 110.856407,15" />
+   d="m 110.85641,6 v 9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="32145_1"
-   d="M 109.124356,9 113.454483,16.5" />
+   d="m 109.12436,9 4.33012,7.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="32145_4"
-   d="M 116.918584,4.5 116.918584,16.5" />
+   d="m 116.91858,4.5 v 12" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="32145_5"
-   d="M 119.516661,6 119.516661,15" />
-</g>
-<g
+   d="m 119.51666,6 v 9" />
+</g><g
    id="32154">
 <text
-   x="109.0"
+   x="109"
    y="42"
    style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
    id="text5661"><tspan
@@ -2622,28 +1290,27 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="32154_3"
-   d="M 113.454483,25.5 109.124356,33" />
+   d="M 113.45448,25.5 109.12436,33" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="32154_2"
-   d="M 110.856407,27 110.856407,36" />
+   d="m 110.85641,27 v 9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="32154_1"
-   d="M 109.124356,30 113.454483,37.5" />
+   d="m 109.12436,30 4.33012,7.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="32154_5"
-   d="M 119.516661,27 116.918584,37.5" />
+   d="m 119.51666,27 -2.59808,10.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="32154_4"
-   d="M 116.918584,25.5 119.516661,36" />
-</g>
-<g
+   d="M 116.91858,25.5 119.51666,36" />
+</g><g
    id="32415">
 <text
-   x="109.0"
+   x="109"
    y="63"
    style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
    id="text5671"><tspan
@@ -2651,28 +1318,27 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="32415_3"
-   d="M 113.454483,46.5 109.124356,54" />
+   d="M 113.45448,46.5 109.12436,54" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="32415_2"
-   d="M 110.856407,48 110.856407,57" />
+   d="m 110.85641,48 v 9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="32415_4"
-   d="M 116.918584,46.5 113.454483,58.5" />
+   d="m 116.91858,46.5 -3.4641,12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="32415_1"
-   d="M 109.124356,51 116.918584,58.5" />
+   d="m 109.12436,51 7.79422,7.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="32415_5"
-   d="M 119.516661,48 119.516661,57" />
-</g>
-<g
+   d="m 119.51666,48 v 9" />
+</g><g
    id="32451">
 <text
-   x="109.0"
+   x="109"
    y="84"
    style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
    id="text5681"><tspan
@@ -2680,28 +1346,27 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="32451_3"
-   d="M 113.454483,67.5 109.124356,75" />
+   d="M 113.45448,67.5 109.12436,75" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="32451_2"
-   d="M 110.856407,69 110.856407,78" />
+   d="m 110.85641,69 v 9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="32451_4"
-   d="M 116.918584,67.5 113.454483,79.5" />
+   d="m 116.91858,67.5 -3.4641,12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="32451_5"
-   d="M 119.516661,69 116.918584,79.5" />
+   d="m 119.51666,69 -2.59808,10.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="32451_1"
-   d="M 109.124356,72 119.516661,78" />
-</g>
-<g
+   d="m 109.12436,72 10.3923,6" />
+</g><g
    id="32514">
 <text
-   x="109.0"
+   x="109"
    y="105"
    style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
    id="text5691"><tspan
@@ -2709,28 +1374,27 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="32514_3"
-   d="M 113.454483,88.5 109.124356,96" />
+   d="M 113.45448,88.5 109.12436,96" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="32514_2"
-   d="M 110.856407,90 110.856407,99" />
+   d="m 110.85641,90 v 9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="32514_5"
-   d="M 119.516661,90 113.454483,100.5" />
+   d="m 119.51666,90 -6.06218,10.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="32514_1"
-   d="M 109.124356,93 116.918584,100.5" />
+   d="m 109.12436,93 7.79422,7.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="32514_4"
-   d="M 116.918584,88.5 119.516661,99" />
-</g>
-<g
+   d="M 116.91858,88.5 119.51666,99" />
+</g><g
    id="g5713">
 <text
-   x="109.0"
+   x="109"
    y="126"
    style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
    id="text5701"><tspan
@@ -2738,28 +1402,27 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5703"
-   d="M 113.454483,109.5 109.124356,117" />
+   d="m 113.45448,109.5 -4.33012,7.5" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5705"
-   d="M 110.856407,111 110.856407,120" />
+   d="m 110.85641,111 v 9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5707"
-   d="M 119.516661,111 113.454483,121.5" />
+   d="m 119.51666,111 -6.06218,10.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5709"
-   d="M 116.918584,109.5 116.918584,121.5" />
+   d="m 116.91858,109.5 v 12" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5711"
-   d="M 109.124356,114 119.516661,120" />
-</g>
-<g
+   d="m 109.12436,114 10.3923,6" />
+</g><g
    id="34125">
 <text
-   x="109.0"
+   x="109"
    y="147"
    style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
    id="text5717"><tspan
@@ -2767,28 +1430,27 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="34125_3"
-   d="M 113.454483,130.5 109.124356,138" />
+   d="m 113.45448,130.5 -4.33012,7.5" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="34125_4"
-   d="M 116.918584,130.5 110.856407,141" />
+   d="M 116.91858,130.5 110.85641,141" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="34125_1"
-   d="M 109.124356,135 113.454483,142.5" />
+   d="m 109.12436,135 4.33012,7.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="34125_2"
-   d="M 110.856407,132 116.918584,142.5" />
+   d="m 110.85641,132 6.06217,10.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="34125_5"
-   d="M 119.516661,132 119.516661,141" />
-</g>
-<g
+   d="m 119.51666,132 v 9" />
+</g><g
    id="34152">
 <text
-   x="109.0"
+   x="109"
    y="168"
    style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
    id="text5727"><tspan
@@ -2796,28 +1458,27 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="34152_3"
-   d="M 113.454483,151.5 109.124356,159" />
+   d="m 113.45448,151.5 -4.33012,7.5" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="34152_4"
-   d="M 116.918584,151.5 110.856407,162" />
+   d="M 116.91858,151.5 110.85641,162" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="34152_1"
-   d="M 109.124356,156 113.454483,163.5" />
+   d="m 109.12436,156 4.33012,7.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="34152_5"
-   d="M 119.516661,153 116.918584,163.5" />
+   d="m 119.51666,153 -2.59808,10.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="34152_2"
-   d="M 110.856407,153 119.516661,162" />
-</g>
-<g
+   d="m 110.85641,153 8.66025,9" />
+</g><g
    id="34215">
 <text
-   x="109.0"
+   x="109"
    y="189"
    style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
    id="text5737"><tspan
@@ -2825,28 +1486,27 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="34215_3"
-   d="M 113.454483,172.5 109.124356,180" />
+   d="m 113.45448,172.5 -4.33012,7.5" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="34215_4"
-   d="M 116.918584,172.5 110.856407,183" />
+   d="M 116.91858,172.5 110.85641,183" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="34215_2"
-   d="M 110.856407,174 113.454483,184.5" />
+   d="m 110.85641,174 2.59807,10.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="34215_1"
-   d="M 109.124356,177 116.918584,184.5" />
+   d="m 109.12436,177 7.79422,7.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="34215_5"
-   d="M 119.516661,174 119.516661,183" />
-</g>
-<g
+   d="m 119.51666,174 v 9" />
+</g><g
    id="34251">
 <text
-   x="109.0"
+   x="109"
    y="210"
    style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
    id="text5747"><tspan
@@ -2854,25 +1514,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="34251_3"
-   d="M 113.454483,193.5 109.124356,201" />
+   d="m 113.45448,193.5 -4.33012,7.5" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="34251_4"
-   d="M 116.918584,193.5 110.856407,204" />
+   d="M 116.91858,193.5 110.85641,204" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="34251_2"
-   d="M 110.856407,195 113.454483,205.5" />
+   d="m 110.85641,195 2.59807,10.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="34251_5"
-   d="M 119.516661,195 116.918584,205.5" />
+   d="m 119.51666,195 -2.59808,10.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="34251_1"
-   d="M 109.124356,198 119.516661,204" />
-</g>
-<g
+   d="m 109.12436,198 10.3923,6" />
+</g><g
    id="g5769">
 <text
    x="133.25"
@@ -2883,25 +1542,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5759"
-   d="M 137.704483,4.5 133.374356,12" />
+   d="M 137.70448,4.5 133.37436,12" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5761"
-   d="M 141.168584,4.5 135.106407,15" />
+   d="M 141.16858,4.5 135.10641,15" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5763"
-   d="M 143.766661,6 137.704483,16.5" />
+   d="m 143.76666,6 -6.06218,10.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5765"
-   d="M 133.374356,9 141.168584,16.5" />
+   d="m 133.37436,9 7.79422,7.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5767"
-   d="M 135.106407,6 143.766661,15" />
-</g>
-<g
+   d="m 135.10641,6 8.66025,9" />
+</g><g
    id="g5785">
 <text
    x="133.25"
@@ -2912,25 +1570,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5775"
-   d="M 137.704483,25.5 133.374356,33" />
+   d="M 137.70448,25.5 133.37436,33" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5777"
-   d="M 141.168584,25.5 135.106407,36" />
+   d="M 141.16858,25.5 135.10641,36" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5779"
-   d="M 143.766661,27 137.704483,37.5" />
+   d="m 143.76666,27 -6.06218,10.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5781"
-   d="M 135.106407,27 141.168584,37.5" />
+   d="m 135.10641,27 6.06217,10.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5783"
-   d="M 133.374356,30 143.766661,36" />
-</g>
-<g
+   d="m 133.37436,30 10.3923,6" />
+</g><g
    id="g5801">
 <text
    x="133.25"
@@ -2941,25 +1598,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5791"
-   d="M 137.704483,46.5 133.374356,54" />
+   d="M 137.70448,46.5 133.37436,54" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5793"
-   d="M 143.766661,48 135.106407,57" />
+   d="m 143.76666,48 -8.66025,9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5795"
-   d="M 133.374356,51 137.704483,58.5" />
+   d="m 133.37436,51 4.33012,7.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5797"
-   d="M 141.168584,46.5 141.168584,58.5" />
+   d="m 141.16858,46.5 v 12" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5799"
-   d="M 135.106407,48 143.766661,57" />
-</g>
-<g
+   d="m 135.10641,48 8.66025,9" />
+</g><g
    id="35214">
 <text
    x="133.25"
@@ -2970,25 +1626,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="35214_3"
-   d="M 137.704483,67.5 133.374356,75" />
+   d="M 137.70448,67.5 133.37436,75" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="35214_5"
-   d="M 143.766661,69 135.106407,78" />
+   d="m 143.76666,69 -8.66025,9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="35214_2"
-   d="M 135.106407,69 137.704483,79.5" />
+   d="m 135.10641,69 2.59807,10.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="35214_1"
-   d="M 133.374356,72 141.168584,79.5" />
+   d="m 133.37436,72 7.79422,7.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="35214_4"
-   d="M 141.168584,67.5 143.766661,78" />
-</g>
-<g
+   d="M 141.16858,67.5 143.76666,78" />
+</g><g
    id="g5827">
 <text
    x="133.25"
@@ -2999,25 +1654,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5817"
-   d="M 137.704483,88.5 133.374356,96" />
+   d="M 137.70448,88.5 133.37436,96" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5819"
-   d="M 143.766661,90 135.106407,99" />
+   d="m 143.76666,90 -8.66025,9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5821"
-   d="M 135.106407,90 137.704483,100.5" />
+   d="m 135.10641,90 2.59807,10.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5823"
-   d="M 141.168584,88.5 141.168584,100.5" />
+   d="m 141.16858,88.5 v 12" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5825"
-   d="M 133.374356,93 143.766661,99" />
-</g>
-<g
+   d="m 133.37436,93 10.3923,6" />
+</g><g
    id="g5843">
 <text
    x="133.25"
@@ -3028,25 +1682,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5833"
-   d="M 137.704483,109.5 133.374356,117" />
+   d="m 137.70448,109.5 -4.33012,7.5" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5835"
-   d="M 143.766661,111 135.106407,120" />
+   d="m 143.76666,111 -8.66025,9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5837"
-   d="M 141.168584,109.5 137.704483,121.5" />
+   d="m 141.16858,109.5 -3.4641,12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5839"
-   d="M 133.374356,114 141.168584,121.5" />
+   d="m 133.37436,114 7.79422,7.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5841"
-   d="M 135.106407,111 143.766661,120" />
-</g>
-<g
+   d="m 135.10641,111 8.66025,9" />
+</g><g
    id="g5859">
 <text
    x="133.25"
@@ -3057,25 +1710,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5849"
-   d="M 137.704483,130.5 133.374356,138" />
+   d="m 137.70448,130.5 -4.33012,7.5" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5851"
-   d="M 143.766661,132 135.106407,141" />
+   d="m 143.76666,132 -8.66025,9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5853"
-   d="M 141.168584,130.5 137.704483,142.5" />
+   d="m 141.16858,130.5 -3.4641,12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5855"
-   d="M 135.106407,132 141.168584,142.5" />
+   d="m 135.10641,132 6.06217,10.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5857"
-   d="M 133.374356,135 143.766661,141" />
-</g>
-<g
+   d="m 133.37436,135 10.3923,6" />
+</g><g
    id="42315">
 <text
    x="133.25"
@@ -3086,25 +1738,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="42315_4"
-   d="M 141.168584,151.5 133.374356,159" />
+   d="m 141.16858,151.5 -7.79422,7.5" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="42315_2"
-   d="M 135.106407,153 135.106407,162" />
+   d="m 135.10641,153 v 9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="42315_3"
-   d="M 137.704483,151.5 137.704483,163.5" />
+   d="m 137.70448,151.5 v 12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="42315_1"
-   d="M 133.374356,156 141.168584,163.5" />
+   d="m 133.37436,156 7.79422,7.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="42315_5"
-   d="M 143.766661,153 143.766661,162" />
-</g>
-<g
+   d="m 143.76666,153 v 9" />
+</g><g
    id="42351">
 <text
    x="133.25"
@@ -3115,25 +1766,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="42351_4"
-   d="M 141.168584,172.5 133.374356,180" />
+   d="m 141.16858,172.5 -7.79422,7.5" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="42351_2"
-   d="M 135.106407,174 135.106407,183" />
+   d="m 135.10641,174 v 9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="42351_3"
-   d="M 137.704483,172.5 137.704483,184.5" />
+   d="m 137.70448,172.5 v 12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="42351_5"
-   d="M 143.766661,174 141.168584,184.5" />
+   d="m 143.76666,174 -2.59808,10.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="42351_1"
-   d="M 133.374356,177 143.766661,183" />
-</g>
-<g
+   d="m 133.37436,177 10.3923,6" />
+</g><g
    id="42513">
 <text
    x="133.25"
@@ -3144,25 +1794,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="42513_4"
-   d="M 141.168584,193.5 133.374356,201" />
+   d="m 141.16858,193.5 -7.79422,7.5" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="42513_2"
-   d="M 135.106407,195 135.106407,204" />
+   d="m 135.10641,195 v 9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="42513_5"
-   d="M 143.766661,195 137.704483,205.5" />
+   d="m 143.76666,195 -6.06218,10.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="42513_1"
-   d="M 133.374356,198 141.168584,205.5" />
+   d="m 133.37436,198 7.79422,7.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="42513_3"
-   d="M 137.704483,193.5 143.766661,204" />
-</g>
-<g
+   d="m 137.70448,193.5 6.06218,10.5" />
+</g><g
    id="42531">
 <text
    x="157.5"
@@ -3173,25 +1822,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="42531_4"
-   d="M 165.418584,4.5 157.624356,12" />
+   d="M 165.41858,4.5 157.62436,12" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="42531_2"
-   d="M 159.356407,6 159.356407,15" />
+   d="m 159.35641,6 v 9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="42531_5"
-   d="M 168.016661,6 161.954483,16.5" />
+   d="m 168.01666,6 -6.06218,10.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="42531_3"
-   d="M 161.954483,4.5 165.418584,16.5" />
+   d="m 161.95448,4.5 3.4641,12" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="42531_1"
-   d="M 157.624356,9 168.016661,15" />
-</g>
-<g
+   d="m 157.62436,9 10.3923,6" />
+</g><g
    id="43215">
 <text
    x="157.5"
@@ -3202,25 +1850,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="43215_4"
-   d="M 165.418584,25.5 157.624356,33" />
+   d="M 165.41858,25.5 157.62436,33" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="43215_3"
-   d="M 161.954483,25.5 159.356407,36" />
+   d="M 161.95448,25.5 159.35641,36" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="43215_2"
-   d="M 159.356407,27 161.954483,37.5" />
+   d="m 159.35641,27 2.59807,10.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="43215_1"
-   d="M 157.624356,30 165.418584,37.5" />
+   d="m 157.62436,30 7.79422,7.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="43215_5"
-   d="M 168.016661,27 168.016661,36" />
-</g>
-<g
+   d="m 168.01666,27 v 9" />
+</g><g
    id="43251">
 <text
    x="157.5"
@@ -3231,25 +1878,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="43251_4"
-   d="M 165.418584,46.5 157.624356,54" />
+   d="M 165.41858,46.5 157.62436,54" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="43251_3"
-   d="M 161.954483,46.5 159.356407,57" />
+   d="M 161.95448,46.5 159.35641,57" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="43251_2"
-   d="M 159.356407,48 161.954483,58.5" />
+   d="m 159.35641,48 2.59807,10.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="43251_5"
-   d="M 168.016661,48 165.418584,58.5" />
+   d="m 168.01666,48 -2.59808,10.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="43251_1"
-   d="M 157.624356,51 168.016661,57" />
-</g>
-<g
+   d="m 157.62436,51 10.3923,6" />
+</g><g
    id="43512">
 <text
    x="157.5"
@@ -3260,25 +1906,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="43512_4"
-   d="M 165.418584,67.5 157.624356,75" />
+   d="M 165.41858,67.5 157.62436,75" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="43512_3"
-   d="M 161.954483,67.5 159.356407,78" />
+   d="M 161.95448,67.5 159.35641,78" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="43512_5"
-   d="M 168.016661,69 161.954483,79.5" />
+   d="m 168.01666,69 -6.06218,10.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="43512_1"
-   d="M 157.624356,72 165.418584,79.5" />
+   d="m 157.62436,72 7.79422,7.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="43512_2"
-   d="M 159.356407,69 168.016661,78" />
-</g>
-<g
+   d="m 159.35641,69 8.66025,9" />
+</g><g
    id="43521">
 <text
    x="157.5"
@@ -3289,25 +1934,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="43521_4"
-   d="M 165.418584,88.5 157.624356,96" />
+   d="M 165.41858,88.5 157.62436,96" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="43521_3"
-   d="M 161.954483,88.5 159.356407,99" />
+   d="M 161.95448,88.5 159.35641,99" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="43521_5"
-   d="M 168.016661,90 161.954483,100.5" />
+   d="m 168.01666,90 -6.06218,10.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="43521_2"
-   d="M 159.356407,90 165.418584,100.5" />
+   d="m 159.35641,90 6.06217,10.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="43521_1"
-   d="M 157.624356,93 168.016661,99" />
-</g>
-<g
+   d="m 157.62436,93 10.3923,6" />
+</g><g
    id="g5955">
 <text
    x="157.5"
@@ -3318,25 +1962,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5945"
-   d="M 165.418584,109.5 157.624356,117" />
+   d="m 165.41858,109.5 -7.79422,7.5" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5947"
-   d="M 168.016661,111 159.356407,120" />
+   d="m 168.01666,111 -8.66025,9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5949"
-   d="M 159.356407,111 161.954483,121.5" />
+   d="m 159.35641,111 2.59807,10.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5951"
-   d="M 161.954483,109.5 165.418584,121.5" />
+   d="m 161.95448,109.5 3.4641,12" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5953"
-   d="M 157.624356,114 168.016661,120" />
-</g>
-<g
+   d="m 157.62436,114 10.3923,6" />
+</g><g
    id="g5971">
 <text
    x="157.5"
@@ -3347,25 +1990,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5961"
-   d="M 165.418584,130.5 157.624356,138" />
+   d="m 165.41858,130.5 -7.79422,7.5" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5963"
-   d="M 168.016661,132 159.356407,141" />
+   d="m 168.01666,132 -8.66025,9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5965"
-   d="M 161.954483,130.5 161.954483,142.5" />
+   d="m 161.95448,130.5 v 12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5967"
-   d="M 157.624356,135 165.418584,142.5" />
+   d="m 157.62436,135 7.79422,7.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5969"
-   d="M 159.356407,132 168.016661,141" />
-</g>
-<g
+   d="m 159.35641,132 8.66025,9" />
+</g><g
    id="g5987">
 <text
    x="157.5"
@@ -3376,25 +2018,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5977"
-   d="M 165.418584,151.5 157.624356,159" />
+   d="m 165.41858,151.5 -7.79422,7.5" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5979"
-   d="M 168.016661,153 159.356407,162" />
+   d="m 168.01666,153 -8.66025,9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5981"
-   d="M 161.954483,151.5 161.954483,163.5" />
+   d="m 161.95448,151.5 v 12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5983"
-   d="M 159.356407,153 165.418584,163.5" />
+   d="m 159.35641,153 6.06217,10.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5985"
-   d="M 157.624356,156 168.016661,162" />
-</g>
-<g
+   d="m 157.62436,156 10.3923,6" />
+</g><g
    id="g6003">
 <text
    x="157.5"
@@ -3405,25 +2046,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path5993"
-   d="M 168.016661,174 157.624356,180" />
+   d="m 168.01666,174 -10.3923,6" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path5995"
-   d="M 159.356407,174 159.356407,183" />
+   d="m 159.35641,174 v 9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path5997"
-   d="M 161.954483,172.5 161.954483,184.5" />
+   d="m 161.95448,172.5 v 12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path5999"
-   d="M 165.418584,172.5 165.418584,184.5" />
+   d="m 165.41858,172.5 v 12" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path6001"
-   d="M 157.624356,177 168.016661,183" />
-</g>
-<g
+   d="m 157.62436,177 10.3923,6" />
+</g><g
    id="g6019">
 <text
    x="157.5"
@@ -3434,25 +2074,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path6009"
-   d="M 168.016661,195 157.624356,201" />
+   d="m 168.01666,195 -10.3923,6" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path6011"
-   d="M 159.356407,195 159.356407,204" />
+   d="m 159.35641,195 v 9" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path6013"
-   d="M 165.418584,193.5 161.954483,205.5" />
+   d="m 165.41858,193.5 -3.4641,12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path6015"
-   d="M 161.954483,193.5 165.418584,205.5" />
+   d="m 161.95448,193.5 3.4641,12" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path6017"
-   d="M 157.624356,198 168.016661,204" />
-</g>
-<g
+   d="m 157.62436,198 10.3923,6" />
+</g><g
    id="53241">
 <text
    x="181.75"
@@ -3463,25 +2102,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="53241_5"
-   d="M 192.266661,6 181.874356,12" />
+   d="m 192.26666,6 -10.3923,6" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="53241_3"
-   d="M 186.204483,4.5 183.606407,15" />
+   d="M 186.20448,4.5 183.60641,15" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="53241_2"
-   d="M 183.606407,6 186.204483,16.5" />
+   d="m 183.60641,6 2.59807,10.5" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="53241_4"
-   d="M 189.668584,4.5 189.668584,16.5" />
+   d="m 189.66858,4.5 v 12" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="53241_1"
-   d="M 181.874356,9 192.266661,15" />
-</g>
-<g
+   d="m 181.87436,9 10.3923,6" />
+</g><g
    id="g6045">
 <text
    x="181.75"
@@ -3492,25 +2130,24 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path6035"
-   d="M 192.266661,27 181.874356,33" />
+   d="m 192.26666,27 -10.3923,6" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path6037"
-   d="M 186.204483,25.5 183.606407,36" />
+   d="M 186.20448,25.5 183.60641,36" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path6039"
-   d="M 189.668584,25.5 186.204483,37.5" />
+   d="m 189.66858,25.5 -3.4641,12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path6041"
-   d="M 183.606407,27 189.668584,37.5" />
+   d="m 183.60641,27 6.06217,10.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path6043"
-   d="M 181.874356,30 192.266661,36" />
-</g>
-<g
+   d="m 181.87436,30 10.3923,6" />
+</g><g
    id="g6061">
 <text
    x="181.75"
@@ -3521,24 +2158,21 @@
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path6051"
-   d="M 192.266661,48 181.874356,54" />
+   d="m 192.26666,48 -10.3923,6" />
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.3px"
+   style="fill:none;stroke:#0000ff;stroke-width:0.3px"
    id="path6053"
-   d="M 189.668584,46.5 183.606407,57" />
+   d="M 189.66858,46.5 183.60641,57" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.3px"
+   style="fill:none;stroke:#00ff00;stroke-width:0.3px"
    id="path6055"
-   d="M 186.204483,46.5 186.204483,58.5" />
+   d="m 186.20448,46.5 v 12" />
 <path
-   style="fill:none;stroke:#FF0000;stroke-width:0.3px"
+   style="fill:none;stroke:#ff0000;stroke-width:0.3px"
    id="path6057"
-   d="M 183.606407,48 189.668584,58.5" />
+   d="m 183.60641,48 6.06217,10.5" />
 <path
    style="fill:none;stroke:#000000;stroke-width:0.3px"
    id="path6059"
-   d="M 181.874356,51 192.266661,57" />
-</g>
-
-Process finished with exit code 0
-  </g></svg>
+   d="m 181.87436,51 10.3923,6" />
+</g></g></svg>

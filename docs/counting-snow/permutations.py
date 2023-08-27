@@ -5,7 +5,7 @@ def flip_bd(s: str):
     return ''.join(map(lambda c: f"{len(s) + 1 - int(c)}", reversed(s)))
 
 
-def flip_bq(s: str):
+def flip_bp(s: str):
     result = [""] * len(s)
     for i in range(len(s)):
         result[int(s[i]) - 1] = f"{i + 1}"
@@ -16,7 +16,7 @@ def filtered_permutations(s):
     full_set = sorted(''.join(p) for p in itertools.permutations(s))
     perm_set = {s}
     for p in full_set:
-        if {p, flip_bd(p), flip_bq(p), flip_bd(flip_bq(p))}.isdisjoint(perm_set):
+        if {p, flip_bd(p), flip_bp(p), flip_bd(flip_bp(p))}.isdisjoint(perm_set):
             perm_set.add(p)
     return sorted(perm_set)
 
@@ -25,14 +25,23 @@ def filtered_bp_only(s):
     full_set = sorted(''.join(p) for p in itertools.permutations(s))
     perm_set = {s}
     for p in full_set:
-        if {p, flip_bq(p)}.isdisjoint(perm_set):
+        if {p, flip_bp(p)}.isdisjoint(perm_set):
+            perm_set.add(p)
+    return sorted(perm_set)
+
+
+def filtered_4():
+    full_set = filtered_permutations('123456')
+    perm_set = {'123456'}
+    for p in full_set:
+        if p.startswith('1') and p.endswith('6'):
             perm_set.add(p)
     return sorted(perm_set)
 
 
 def print_perms(s):
     for perm in filtered_permutations(s):
-        s = {perm, flip_bd(perm), flip_bq(perm), flip_bd(flip_bq(perm))}
+        s = {perm, flip_bd(perm), flip_bp(perm), flip_bd(flip_bp(perm))}
         print(' '.join(sorted(s)))
 
 
@@ -43,18 +52,18 @@ def draw_perms(nr_of_rows, start_order_of_pairs, perms):
               [[19.918584, 4.5], [19.918584, 16.5]],
               [[22.516661, 6], [22.516661, 15]],
               [[24.248711, 9], [24.248711, 12]]]
-    colors = ["#000000", "#0000FF", "#00FF00", "#FF0000"]
+    colors = ["#0000FF", "#00FF00", "#FF0000", "#000000", "#FF00FF", "#FFFF00"]
     nr_of_pairs = len(start_order_of_pairs)  # should match nr of lines in points
     for perm_nr in range(len(perms)):
         end_order_of_pairs = perms[perm_nr]
-        print(f'<g id="{end_order_of_pairs}">')
         offset_x = int(perm_nr / nr_of_rows) * 24.25
         offset_y = (perm_nr % nr_of_rows) * 21
         txt = end_order_of_pairs + ' '
         if end_order_of_pairs == flip_bd(end_order_of_pairs):
             txt = txt + '*'
-        if end_order_of_pairs == flip_bq(end_order_of_pairs):
+        if end_order_of_pairs == flip_bp(end_order_of_pairs):
             txt = txt + '+'
+        print(f'<g id="{end_order_of_pairs}">')
         print(f'<svg:text x="{12 + offset_x}" y="{21 + offset_y}"'
               f' style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"'
               f'><svg:tspan>{txt}</svg:tspan></svg:text>')
@@ -65,12 +74,13 @@ def draw_perms(nr_of_rows, start_order_of_pairs, perms):
             start_y = point_start[1] + offset_y
             end_x = point_end[0] + offset_x
             end_y = point_end[1] + offset_y
-            print(f'<path style="fill:none;stroke:{colors[i % 4]};stroke-width:0.3px"'
+            print(f'<path style="fill:none;stroke:{colors[i % 6]};stroke-width:0.3px"'
                   f' id="{end_order_of_pairs}_{end_order_of_pairs[i]}"'
                   f' d="M {start_x},{start_y} {end_x},{end_y}" />')
         print('</g>')
 
 
+# draw_perms(25, '123456', filtered_4())
 draw_perms(10, '12345', filtered_bp_only('12345'))
 # draw_perms(10,'12345',filtered_permutations('12345'))
 # draw_perms(25,'123456'`,filtered_permutations('123456')`)
