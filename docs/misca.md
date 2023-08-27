@@ -46,7 +46,8 @@ There are several ways of making three-paired joins. As Groundforge does not do 
 <p style="clear: both"></p>   
 
 This [rose ground variant][T-3cc] looks like a three paired join, but has crossings instead of twists.   
-Another kind of three pair join can be made with a [_half little snowflake_][pg-half-sn].
+A three-paired join can be made with a half little snowflake. See [_half little snowflake_][pg-half-sn] for more configurations with half little snowflakes.   
+See also page [_Counting snowflake families_][count-page].  
 
 [p-3pr-st-h]: ../images/misca/3pr-st-h.png "horizontal star, family 321"
 [p-3pr-st-v]: ../images/misca/3pr-st-v.png "vertical star, family 321"
@@ -60,6 +61,7 @@ Another kind of three pair join can be made with a [_half little snowflake_][pg-
 [p-3pr-123]: ../images/misca/3pr-123.png "familie 123"
 
 [pg-half-sn]: ../docs/snowflakes#half-little-snowflake
+[count-page]: ../docs/counting-snow/
 
 [t-3pr-st-h]: /GroundForge/stitches?patchWidth=8&patchHeight=12&d1=c&b1=ctct&l2=ctctrrr&d2=crclcrrr&c2=crclc&b2=ctcttt&a2=ctctl&d3=cttt&k4=ctct&c4=c&l5=ctctrr&k5=ctctrr&d5=clcrc&c5=clcrclll&a5=ctctll&c6=cttt&footside=x4,48,xx,x-,1z,xw&tile=-5,68,-7,5-,12,4-&headside=-x,V8,YX,7X,17,XX&footsideStitch=ctct&tileStitch=ctc&headsideStitch=ctct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6
 
