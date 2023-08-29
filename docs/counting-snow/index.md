@@ -85,7 +85,7 @@ With two pairs going out and in we have (4x3x2 - reflections) =
 We have 10 swapped pairs in patterns marked with a `+`. 
 These cause duplicates, so we have to subtract at least 10.
 
-The [download](two-out-before-in.svg) has some examples with pulled out examples beyond the visible area.
+The [download](two-out-before-in.svg) has some examples with pulled out pairs beyond the visible area.
 ![](two-out-before-in.svg)
 
 With one pair going out and in again we have (5x4x3x2 - reflections) = 73 options, 
