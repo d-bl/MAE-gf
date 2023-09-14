@@ -42,7 +42,7 @@ The numbers show the order of the pairs at the end. Those marked with a `*` and/
 
 ### All pairs entering before any pair leaves
 
-With six threads or pairs we have 6x5x4x3x2=720 permutations.
+With six threads or pairs we have 6x5x4x3x2=720 permutations for the order of pairs at the end.
 After filtering reflections with we still have [230 options](permutations-for-6.txt).
 20 have internal bdpq reflections, 28 have bd and 28 have bp.
 
