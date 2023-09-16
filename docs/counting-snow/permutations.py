@@ -52,7 +52,7 @@ def draw_perms(nr_of_rows, start_order_of_pairs, perms):
               [[19.918584, 4.5], [19.918584, 16.5]],
               [[22.516661, 6], [22.516661, 15]],
               [[24.248711, 9], [24.248711, 12]]]
-    colors = ["#0000FF", "#00FF00", "#FF0000", "#000000", "#FF00FF", "#FFFF00"]
+    colors = ["#0000FF", "#00FF00", "#FF0000", "#000000", "#9955FF", "#EEEE00"]
     nr_of_pairs = len(start_order_of_pairs)  # should match nr of lines in points
     for perm_nr in range(len(perms)):
         end_order_of_pairs = perms[perm_nr]
@@ -74,15 +74,15 @@ def draw_perms(nr_of_rows, start_order_of_pairs, perms):
             start_y = point_start[1] + offset_y
             end_x = point_end[0] + offset_x
             end_y = point_end[1] + offset_y
-            print(f'<path style="fill:none;stroke:{colors[i % 6]};stroke-width:0.3px"'
+            print(f'<path style="fill:none;stroke:{colors[i % 6]};stroke-width:0.8px"'
                   f' id="{end_order_of_pairs}_{end_order_of_pairs[i]}"'
                   f' d="M {start_x},{start_y} {end_x},{end_y}" />')
         print('</g>')
 
 
 # draw_perms(25, '123456', filtered_4())
-draw_perms(10, '12345', filtered_bp_only('12345'))
-# draw_perms(10,'12345',filtered_permutations('12345'))
+# draw_perms(10, '12345', filtered_bp_only('12345'))
+draw_perms(7,'12345',filtered_bp_only('12345')) # filters too much
 # draw_perms(25,'123456'`,filtered_permutations('123456')`)
 # not applicable for other values
 
