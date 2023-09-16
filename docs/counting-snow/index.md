@@ -25,16 +25,17 @@ The numbers for 4 and 5 pairs are part of the numbers for
 You can  use a vector editor (like Inkscape) to apply changes to the downloads. 
 For example bend the straight lines into workable pair diagrams.
 
-All permutations are provided as text, grouped by reflections. 
+Some sets of permutations are provided as text, grouped by reflections. 
 Only the smallest number in each group is presented as a diagram.
-When you find a snowflake in the wild, write down how the reordering of the pairs
+When you find a snowflake somewhere else, write down how the pairs reorder
 and look up the number in this list to identify the family.
 
-Python script(s) render permutations of pairs changing positions and filter reflections.
+A Python [script](permutations.py) renders permutations of pairs changing positions and filter reflections.
 You can run (and modify) a script with various offline and online environments such as
 [online-python.com](https://www.online-python.com/)
 The output of the scripts is hacked into SVG documents mentioned/shown on this page.
 The numbers show the order of the pairs at the end. Those marked with a `*` and/or `+` have an internal reflection.
+By switching comment on or off for the last few lines you can choose what to generate.
 
 
 6 pairs / threads
@@ -51,7 +52,7 @@ You can [download](654321.svg) this not-exhaustive family created manually from 
 The source of this family happens to be workable by itself.
 The pairs are just bent, when swapping starts and/or ends you would end up in another family.  
 
-One example has blobs to identify stitches.
+One of the examples has blobs to identify stitches.
 Requirements for the blobs: span 4 threads, share two threads with each adjacent blob. 
 Only some of the threads in a blob may be used.
 You can assign the thus discovered stitches to one of the templates for 
@@ -67,8 +68,7 @@ Next step: follow the link "_thread diagram as pair diagram_" for a thread diagr
 The given [example](/GroundForge/droste.html?patchWidth=7&patchHeight=11&tile=5-C-B-,-5-5-5,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=6&shiftRowsSE=8&e1=crcl&c1=ctctt&a1=ttctctt&f2=llctctt&d2=rrctctt&b2=ctctt&e3=ctctt&c3=ctctt&a3=ctctt&f4=rclc&d4=ctctt&b4=ctc&e5=cr&c5=ctc&f6=cr&b6=ctc&e7=lcr&c7=ctc&f8=c&b8=ctc&droste2=ctct,a34=f41=f42=f43=e50=e51=f60=f61=e70=e71=e72=f80=e90=e91=e92=e93=e11=e10=e12=e13=ctc)
 with cloth stitches at the droste page.
 
-You can [download](all-in-before-any-out.svg) the following filtered permutations
-generated with this [script](permutations.py).    
+You can [download](all-in-before-any-out.svg) the following filtered permutations.    
 ![](all-in-before-any-out.svg)  
 
 
@@ -78,25 +78,28 @@ Composition requirements: ... next to cloth stitch ... side by side ...
 
 ...
 
-With two pairs going out and in we have (4x3x2 - reflections) =
-[13 options](permutations-for-4.txt),
-2 have bdpq reflections, 2 only bd and 1 a pq reflection.
-4x3 options for each one to pull two pairs out gives 156 options.
-We have 10 swapped pairs in patterns marked with a `+`. 
-These cause duplicates, so we have to subtract at least 10.
-
-The [download](two-out-before-in.svg) has some examples with pulled out pairs beyond the visible area.
-![](two-out-before-in.svg)
-
-With one pair going out and in again we have (5x4x3x2 - reflections) = 73 options, 
-5 options each to pull one  pair out gives 365 options. 
+With one pair going out and back in again we have (5x4x3x2 - reflections) = 73 options,
+5 options each to pull one  pair out gives 365 options.
 However, the permutations marked with `+` cause duplicates by swapped pairs.
-So we end up with 365-40=325.
+So we expect to end up with 365-40=325.
 
-The two groups add up to 471 options.
-
-[download](pull-out.svg) this example of pulling out pairs from one permutation.  
+You can [download](pull-out.svg) this example of pulling out pairs from one permutation.  
 ![](pull-out.svg)
 
-[download](one-out-before-in.svg) the permutations for one pair returning.  
+You can [download](one-out-before-in.svg) the permutations for one pair returning.  
 ![](one-out-before-in.svg)
+
+With two pairs going out and back in we start with (4x3x2 - reflections) =
+[13 options](permutations-for-4.txt). These are show on the grey ribbon.
+2 have bdpq reflections, 2 only bd and 1 a pq reflection.
+
+Above the ribbon we have 4x3 options for each one to pull out two pairs out gives 156 options.
+Removing duplicates leaves 100. 
+
+Below the ribbon we have 4x2 options to pull out one pair to both sides.
+That gives another 58, unless someone can still spot duplicates when flipping horizontally and/or vertically.
+
+The three groups added up give 325+100+58=483
+
+You can [download](two-out-before-in.svg) the collection below.
+![](two-out-before-in.svg)
