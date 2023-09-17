@@ -20,17 +20,17 @@ The numbers for 4 and 5 pairs are part of the numbers for
 
 ...
 
-### Reading guide
+### Reading hints
 
-You can  use a vector editor (like Inkscape) to apply changes to the downloads. 
-For example bend the straight lines into workable pair diagrams or make visible what is beyond the visible area. 
+You can  use a vector editor (like Inkscape) to apply changes to the **downloads**. 
+For example bend the straight lines into workable pair diagrams or show what is beyond the visible area. 
 
-Some sets of permutations are provided as text, grouped by reflections. 
+Some sets of permutations are provided as **text files**, grouped by reflections. 
 Only the smallest number in each group is presented as a diagram.
 When you find a snowflake somewhere else, write down how the pairs reorder
 and look up the number in this list to identify the family.
 
-A Python [script](permutations.py) renders permutations of pairs changing positions and filter reflections.
+**A Python [script](permutations.py)** renders permutations of pairs changing positions and filter reflections.
 You can run (and modify) a script with various offline and online environments such as
 [online-python.com](https://www.online-python.com/)
 The output of the scripts is hacked into SVG documents mentioned/shown on this page.
@@ -41,15 +41,19 @@ By switching comment on or off for the last few lines you can choose what to gen
 6 pairs / threads
 -----------------
 
+Research tells us we have 230+325+100+58=713 families of pair diagrams for six pair snowflakes. Details follow.
+Varying stitches for each family member gives an ocean of options.
+
+
 ### All pairs entering before any pair leaves
 
-With six threads or pairs we have 6x5x4x3x2=720 permutations for the order of pairs at the end.
-After filtering reflections we still have [230 options](permutations-for-6.txt).
-20 have internal bdpq reflections, 28 have bd (marked with a +) and 28 have bp (marked with a *).
+With six threads or pairs we have 6x5x4x3x2=720 permutations for the order of pairs after completing a snowflake.
+After filtering reflected versions we still have [230 options](permutations-for-6.txt).
+20 have internal bdpq reflections, another 28 have only bd reflections (marked with a +) an           d 28 have bp (marked with a *).
 
 These permutations are heads of families. Only sometimes this family-head is a workable diagram.
 Workable or not, you can bend the pairs of a permutation into (more) workable diagrams.
-When swapping starts and/or ends you would end up in another family. 
+When swapping starts and/or ends you are interfering with another family. 
 The not-exhaustive families below are created manually from some of the generated permutations.
 
 ![](654321.svg)  
@@ -57,7 +61,7 @@ The [download](654321.svg) contains a few more examples beyond the visible area.
 
 One of the examples has blobs to identify stitches.
 Requirements for the blobs: span 4 threads, share two threads with each adjacent blob. 
-Only some of the threads in a blob may be used.
+Not all blobs use all of its four threads.
 You can assign the thus discovered stitches to one of the templates for 
 [4](/GroundForge/stitches?patchWidth=7&patchHeight=9&tile=5-C-B-,-5-5-5,5-5-5-,-5-5-5,--5-5-,-B---C,&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6&e1=ct&c1=ct&a1=rrctctt&f2=llctctt&d2=ttctctt&b2=rrctctt&e3=ctctt&c3=ctctt&a3=ctctt&f4=ct&d4=ctctt&b4=ct&e5=ct&c5=ct&f6=ct&b6=ct),
 [5](/GroundForge/stitches?patchWidth=7&patchHeight=9&tile=-B-5-C,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6&f1=ct&d1=ttctctt&b1=ct&e2=rrctctt&c2=llctctt&a2=ttctctt&f3=ct&d3=ctctt&b3=ct&e4=ct&c4=ct&f5=ct&b5=ct&e6=ct&c6=ct),
@@ -75,7 +79,7 @@ You can [download](all-in-before-any-out.svg) the following filtered permutation
 ![](all-in-before-any-out.svg)  
 
 
-### Pairs leaving before the last enters
+### One pair leaves before the last one enters
 
 Composition requirements: ... next to cloth stitch ... side by side ...
 
@@ -87,22 +91,29 @@ However, the permutations marked with `+` cause duplicates by swapped pairs.
 So we expect to end up with 365-40=325.
 
 You can [download](pull-out.svg) this example of pulling out pairs from one permutation.  
-![](pull-out.svg)
+![](pull-out.svg)  
+Note that two pairs within each snowflake prototype have the same color.
+The dashed line outside the snowflake suggests it is the same pair.
+That might not be the case, depending on what happens outside the spider.
+However, it helps to understand that you should not bend the lines in such a way
+that two lines of the same color should not intersect one another.
 
 You can [download](one-out-before-in.svg) the permutations for one pair returning.  
 ![](one-out-before-in.svg)
 
-With two pairs going out and back in we start with (4x3x2 - reflections) =
-[13 options](permutations-for-4.txt). These are show on the grey ribbon.
-2 have bdpq reflections, 2 only bd and 1 a pq reflection.
+### Two pairs leave before the last ones enter
 
-Above the ribbon we have 4x3 options for each one to pull out two pairs out gives 156 options.
+Composition requirements: ...
+
+With two pairs going out and back in we start with (4x3x2 - bp and bd reflections) =
+[13 options](permutations-for-4.txt). These are shown on the grey ribbon.
+2 have bdpq reflections, 2 only bd and 1 a bp reflection.
+
+Above the ribbon we have 4x3 options for each one to pull out two pairs what gives 156 options.
 Removing duplicates leaves 100. 
 
-Below the ribbon we have 4x2 options to pull out one pair to both sides.
+Below the ribbon we have 4x2 options to pull out one pair to both sides, two because we can start pulling to the right or start to the left.
 That gives another 58, unless someone can still spot duplicates when flipping horizontally and/or vertically.
-
-The three groups added up give 325+100+58=483
 
 You can [download](two-out-before-in.svg) the collection below.
 ![](two-out-before-in.svg)
