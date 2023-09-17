@@ -44,13 +44,16 @@ By switching comment on or off for the last few lines you can choose what to gen
 ### All pairs entering before any pair leaves
 
 With six threads or pairs we have 6x5x4x3x2=720 permutations for the order of pairs at the end.
-After filtering reflections with we still have [230 options](permutations-for-6.txt).
-20 have internal bdpq reflections, 28 have bd and 28 have bp.
+After filtering reflections we still have [230 options](permutations-for-6.txt).
+20 have internal bdpq reflections, 28 have bd (marked with a +) and 28 have bp (marked with a *).
 
-You can [download](654321.svg) this not-exhaustive family created manually from one of the generated permutations.   
+These permutations are heads of families. Only sometimes this family-head is a workable diagram.
+Workable or not, you can bend the pairs of a permutation into (more) workable diagrams.
+When swapping starts and/or ends you would end up in another family. 
+The not-exhaustive families below are created manually from some of the generated permutations.
+
 ![](654321.svg)  
-The source of this family happens to be workable by itself.
-The pairs are just bent, when swapping starts and/or ends you would end up in another family.  
+The [download](654321.svg) contains a few more examples beyond the visible area.
 
 One of the examples has blobs to identify stitches.
 Requirements for the blobs: span 4 threads, share two threads with each adjacent blob. 
@@ -65,7 +68,7 @@ You can assign the thus discovered stitches to one of the templates for
 ...
 stitches/blobs. Is the first blob on the right? Then replace the half stitches in the right plait. Vice versa for left.
 Next step: follow the link "_thread diagram as pair diagram_" for a thread diagram of the snowflake with stitches of your choice.
-The given [example](/GroundForge/droste.html?patchWidth=7&patchHeight=11&tile=5-C-B-,-5-5-5,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=6&shiftRowsSE=8&e1=crcl&c1=ctctt&a1=ttctctt&f2=llctctt&d2=rrctctt&b2=ctctt&e3=ctctt&c3=ctctt&a3=ctctt&f4=rclc&d4=ctctt&b4=ctc&e5=cr&c5=ctc&f6=cr&b6=ctc&e7=lcr&c7=ctc&f8=c&b8=ctc&droste2=ctct,a34=f41=f42=f43=e50=e51=f60=f61=e70=e71=e72=f80=e90=e91=e92=e93=e11=e10=e12=e13=ctc)
+The analysed [example](/GroundForge/droste.html?patchWidth=7&patchHeight=11&tile=5-C-B-,-5-5-5,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=6&shiftRowsSE=8&e1=crcl&c1=ctctt&a1=ttctctt&f2=llctctt&d2=rrctctt&b2=ctctt&e3=ctctt&c3=ctctt&a3=ctctt&f4=rclc&d4=ctctt&b4=ctc&e5=cr&c5=ctc&f6=cr&b6=ctc&e7=lcr&c7=ctc&f8=c&b8=ctc&droste2=ctct,a34=f41=f42=f43=e50=e51=f60=f61=e70=e71=e72=f80=e90=e91=e92=e93=e11=e10=e12=e13=ctc)
 with cloth stitches at the droste page.
 
 You can [download](all-in-before-any-out.svg) the following filtered permutations.    
@@ -78,7 +81,7 @@ Composition requirements: ... next to cloth stitch ... side by side ...
 
 ...
 
-With one pair going out and back in again we have (5x4x3x2 - reflections) = 73 options,
+With one pair going out and back in again we have (5x4x3x2 - bp reflections) = 73 options,
 5 options each to pull one  pair out gives 365 options.
 However, the permutations marked with `+` cause duplicates by swapped pairs.
 So we expect to end up with 365-40=325.
