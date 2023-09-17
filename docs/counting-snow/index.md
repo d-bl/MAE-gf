@@ -23,7 +23,7 @@ The numbers for 4 and 5 pairs are part of the numbers for
 ### Reading guide
 
 You can  use a vector editor (like Inkscape) to apply changes to the downloads. 
-For example bend the straight lines into workable pair diagrams.
+For example bend the straight lines into workable pair diagrams or make visible what is beyond the visible area. 
 
 Some sets of permutations are provided as text, grouped by reflections. 
 Only the smallest number in each group is presented as a diagram.
