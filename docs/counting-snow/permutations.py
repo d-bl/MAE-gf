@@ -80,10 +80,10 @@ def draw_perms(nr_of_rows, start_order_of_pairs, perms):
         print('</g>')
 
 
-# draw_perms(25, '123456', filtered_4())
+# draw_perms(1, '123456', filtered_4())
 # draw_perms(10, '12345', filtered_bp_only('12345'))
-draw_perms(7,'12345',filtered_bp_only('12345')) # filters too much
-# draw_perms(25,'123456'`,filtered_permutations('123456')`)
+# draw_perms(5,'12345',filtered_bp_only('12345')) # filters too much
+draw_perms(15,'123456', filtered_permutations('123456'))
 # not applicable for other values
 
 # print_perms("123456")

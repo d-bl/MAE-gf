@@ -95,8 +95,8 @@ You can [download](pull-out.svg) this example of pulling out pairs from one perm
 Note that two pairs within each snowflake prototype have the same color.
 The dashed line outside the snowflake suggests it is the same pair.
 That might not be the case, depending on what happens outside the spider.
-However, it helps to understand that you should not bend the lines in such a way
-that two lines of the same color should not intersect one another.
+It is a reminder that you should not bend the lines in such a way
+that two lines of the same color intersect one another.
 
 You can [download](one-out-before-in.svg) the permutations for one pair returning.  
 ![](one-out-before-in.svg)
