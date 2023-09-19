@@ -41,7 +41,7 @@ By switching comment on or off for the last few lines you can choose what to gen
 6 pairs / threads
 -----------------
 
-Research tells us we have 230+325+100+58=713 families of pair diagrams for six pair snowflakes. Details follow.
+Research tells us we have 230+325+99+56=710 families of pair diagrams for six pair snowflakes. Details follow.
 Varying stitches for each family member gives an ocean of options.
 
 
@@ -110,10 +110,10 @@ With two pairs going out and back in we start with (4x3x2 - bp and bd reflection
 2 have bdpq reflections, 2 only bd and 1 a bp reflection.
 
 Above the ribbon we have 4x3 options for each one to pull out two pairs what gives 156 options.
-Removing duplicates leaves 100. 
+Removing duplicates leaves 99. 
 
 Below the ribbon we have 4x2 options to pull out one pair to both sides, two because we can start pulling to the right or start to the left.
-That gives another 58, unless someone can still spot duplicates when flipping horizontally and/or vertically.
+That gives another 56, unless someone can still spot duplicates when flipping horizontally and/or vertically.
 
 You can [download](two-out-before-in.svg) the collection below.
 ![](two-out-before-in.svg)
