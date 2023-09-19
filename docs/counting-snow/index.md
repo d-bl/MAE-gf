@@ -41,6 +41,10 @@ By switching comment on or off for the last few lines you can choose what to gen
 6 pairs / threads
 -----------------
 
+We have three main groups shown by the diagrams below. The last group is in turn divided in two groups.
+
+![](compose.svg)
+
 Research tells us we have 230+325+99+56=710 families of pair diagrams for six pair snowflakes. Details follow.
 Varying stitches for each family member gives an ocean of options.
 
