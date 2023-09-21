@@ -82,19 +82,17 @@ You can assign the thus discovered stitches to one of the templates for
 [9](/GroundForge/stitches?patchWidth=7&patchHeight=13&tile=-B-5-C,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C,--C-B-,-B---C,--C-B-,&shiftColsSW=0&shiftRowsSW=10&shiftColsSE=6&shiftRowsSE=10&f1=ct&d1=ttctctt&b1=ct&e2=rrctctt&c2=llctctt&a2=ttctctt&f3=ct&d3=ctctt&b3=ct&e4=ct&c4=ct&f5=ct&b5=ct&e6=ct&c6=ct&f7=ct&b7=ct&e8=ct&c8=ct&f9=ct&b9=ct&e10=ct&c10=ct),
 ...
 stitches/blobs. Is the first blob on the right? Then replace the half stitches in the right plait. Vice versa for left.
-Next step: follow the link "_thread diagram as pair diagram_" for a thread diagram of the snowflake with stitches of your choice.
-The analysed [example](/GroundForge/droste.html?patchWidth=7&patchHeight=11&tile=5-C-B-,-5-5-5,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=6&shiftRowsSE=8&e1=crcl&c1=ctctt&a1=ttctctt&f2=llctctt&d2=rrctctt&b2=ctctt&e3=ctctt&c3=ctctt&a3=ctctt&f4=rclc&d4=ctctt&b4=ctc&e5=cr&c5=ctc&f6=cr&b6=ctc&e7=lcr&c7=ctc&f8=c&b8=ctc&droste2=ctct,a34=f41=f42=f43=e50=e51=f60=f61=e70=e71=e72=f80=e90=e91=e92=e93=e11=e10=e12=e13=ctc)
-with cloth stitches at the droste page.
+Next step: follow the link "_thread diagram as pair diagram_" for a thread diagram of the snowflake with stitches of your choice.  
+
+The [blobs](/GroundForge/droste.html?patchWidth=7&patchHeight=11&tile=5-C-B-,-5-5-5,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=6&shiftRowsSE=8&e1=crcl&c1=ctctt&a1=ttctctt&f2=llctctt&d2=rrctctt&b2=ctctt&e3=ctctt&c3=ctctt&a3=ctctt&f4=rclc&d4=ctctt&b4=ctc&e5=cr&c5=ctc&f6=cr&b6=ctc&e7=lcr&c7=ctc&f8=c&b8=ctc&droste2=ctct,a34=f41=f42=f43=e50=e51=f60=f61=e70=e71=e72=f80=e90=e91=e92=e93=e11=e10=e12=e13=ctc)
+with cloth stitches at the droste page:  
+![](droste.png)  
 
 You can [download](all-in-before-any-out.svg) the following filtered permutations.    
 ![](all-in-before-any-out.svg)  
 
 
 ### One pair leaves before the last one enters
-
-Composition requirements: ... next to cloth stitch ... side by side ...
-
-...
 
 With one pair going out and back in again we have (5x4x3x2 - bp reflections) = 73 options,
 5 options each to pull one  pair out gives 365 options.
@@ -114,8 +112,6 @@ You can [download](one-out-before-in.svg) the permutations for one pair returnin
 
 ### Two pairs leave before the last ones enter
 
-Composition requirements: ...
-
 With two pairs going out and back in we start with (4x3x2 - bp and bd reflections) =
 [13 options](permutations-for-4.txt). These are shown on the grey ribbon.
 2 have bdpq reflections, 2 only bd and 1 a bp reflection.
@@ -126,7 +122,7 @@ Removing duplicates leaves 93.
 Below the ribbon we have 4x2 options to pull out one pair to both sides, two because we can start pulling to the right or start to the left.
 That gives another 56, unless someone can still spot duplicates when flipping horizontally and/or vertically.
 
-both group s add up to 149.
+Both groups add up to 149.
 
 You can [download](two-out-before-in.svg) the collection below.
 ![](two-out-before-in.svg)
