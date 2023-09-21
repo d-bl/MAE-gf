@@ -31,7 +31,7 @@ When you find a snowflake somewhere else, write down how the pairs reorder
 and look up the number in this list to identify the family.
 
 **A Python [script](permutations.py)** renders permutations of pairs changing positions and filter reflections.
-You can run (and modify) a script with various offline and online environments such as
+You can run (and modify) the script with various offline and online environments such as
 [online-python.com](https://www.online-python.com/)
 The output of the scripts is hacked into SVG documents mentioned/shown on this page.
 The numbers show the order of the pairs at the end. Those marked with a `*` and/or `+` have an internal reflection.
@@ -41,14 +41,19 @@ By switching comment on or off for the last few lines you can choose what to gen
 6 pairs / threads
 -----------------
 
-We have three main groups shown by the diagrams below, black goes in, grey goes out.
-Sorry, problems with SVG arrows in HTML.
-The last group is in turn divided in two groups.
+We have three main groups of snowflakes shown by the diagrams below. Pairs start at black lines and end at grey lines.
+Please note the difference in the horizontal marks.
 
 ![](compose.svg)
 
-Research tells us we have 230+325+(98+56=154)=709 families of pair diagrams for six pair snowflakes. Details follow.
-Varying stitches for each family member gives an ocean of options.
+There are many ways how the pairs can get reordered after making a snowflake,
+or in other words: how we can draw straight lines connecting each black line 
+in a hexagon with a grey line within the same hexagon.
+The same reordering might be achieved in multiple ways of curved lines that form valid pair diagrams,
+we call these groups a family.
+
+The details that follow per group tell us we have 230+325+149=704 families. 
+Varying stitches for each family-member gives an ocean of options.
 
 
 ### All pairs entering before any pair leaves
@@ -116,10 +121,12 @@ With two pairs going out and back in we start with (4x3x2 - bp and bd reflection
 2 have bdpq reflections, 2 only bd and 1 a bp reflection.
 
 Above the ribbon we have 4x3 options for each one to pull out two pairs what gives 156 options.
-Removing duplicates leaves 99. 
+Removing duplicates leaves 93. 
 
 Below the ribbon we have 4x2 options to pull out one pair to both sides, two because we can start pulling to the right or start to the left.
 That gives another 56, unless someone can still spot duplicates when flipping horizontally and/or vertically.
+
+both group s add up to 149.
 
 You can [download](two-out-before-in.svg) the collection below.
 ![](two-out-before-in.svg)
