@@ -68,8 +68,8 @@ Please note the difference in the horizontal marks.
 ![](compose.svg)
 
 There are many ways how the pairs can get reordered after making a snowflake,
-or in other words: how we can draw straight lines connecting each black line 
-in a hexagon with a grey line within the same hexagon.
+or in other words: how we can draw straight lines connecting each red mark (incoming pairs)
+in a hexagon with a blue mark (outgoing pair) within the same hexagon.
 The same reordering might be achieved in multiple ways of curved lines that form valid pair diagrams,
 we call these groups a family.
 
