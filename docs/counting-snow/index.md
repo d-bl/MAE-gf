@@ -11,32 +11,44 @@ Intro
 
 ...
 
+### Pairs or threads
+
 Thread diagrams for 2,3,4,5 pairs can be used as pair diagrams for 4,6,8,10 pairs. 
 So when analyzing how threads/pairs can get reordered at the end of some manipulation,
 we get two for the price of 1.
 
-The numbers for 4 and 5 pairs are part of the numbers for 
-6 pairs with a pair leaving before the last enters.
-
-...
-
-### Reading hints
+### Vector editors for the downloads
 
 You can  use a vector editor (like Inkscape) to apply changes to the **downloads**. 
 For example bend the straight lines into workable pair diagrams or show what is beyond the visible area. 
 
-Some sets of permutations are provided as **text files**, grouped by reflections. 
+### Text files
+
+Some sets of permutations are provided as text files, grouped by reflections. 
 Only the smallest number in each group is presented as a diagram.
 When you find a snowflake somewhere else, write down how the pairs reorder
 and look up the number in this list to identify the family.
 
-**A Python [script](permutations.py)** renders permutations of pairs changing positions and filter reflections.
+### Generate Diagrams
+
+A Python [script](permutations.py) renders permutations of pairs changing positions and filter reflections.
 You can run (and modify) the script with various offline and online environments such as
 [online-python.com](https://www.online-python.com/)
 The output of the scripts is hacked into SVG documents mentioned/shown on this page.
 The numbers show the order of the pairs at the end. Those marked with a `*` and/or `+` have an internal reflection.
 By switching comment on or off for the last few lines you can choose what to generate.
 
+
+4 pairs / threads
+-----------------
+
+![](4-pair-permutations.svg)
+
+
+5 pairs / threads
+-----------------
+
+![](5-pair-permutations.svg)
 
 6 pairs / threads
 -----------------

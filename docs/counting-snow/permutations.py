@@ -45,13 +45,7 @@ def print_perms(s):
         print(' '.join(sorted(s)))
 
 
-def draw_perms(nr_of_rows, start_order_of_pairs, perms):
-    points = [[[12.124356, 9], [12.124356, 12]],
-              [[13.856407, 6], [13.856407, 15]],
-              [[16.454483, 4.5], [16.454483, 16.5]],
-              [[19.918584, 4.5], [19.918584, 16.5]],
-              [[22.516661, 6], [22.516661, 15]],
-              [[24.248711, 9], [24.248711, 12]]]
+def draw_perms(nr_of_rows, start_order_of_pairs, perms, points):
     colors = ["#0000FF", "#00FF00", "#FF0000", "#000000", "#9955FF", "#EEEE00"]
     nr_of_pairs = len(start_order_of_pairs)  # should match nr of lines in points
     for perm_nr in range(len(perms)):
@@ -78,13 +72,24 @@ def draw_perms(nr_of_rows, start_order_of_pairs, perms):
                   f' id="{end_order_of_pairs}_{end_order_of_pairs[i]}"'
                   f' d="M {start_x},{start_y} {end_x},{end_y}" />')
         print('</g>')
+pointsFor5 = [[[12.124356, 9], [12.124356, 12]],
+          [[13.856407, 6], [13.856407, 15]],
+          [[18.1865335, 4.5], [18.1865335, 16.5]],
+          [[22.516661, 6], [22.516661, 15]],
+          [[24.248711, 9], [24.248711, 12]]]
+pointsFor6 = [[[12.124356, 9], [12.124356, 12]],
+          [[13.856407, 6], [13.856407, 15]],
+          [[16.454483, 4.5], [16.454483, 16.5]],
+          [[19.918584, 4.5], [19.918584, 16.5]],
+          [[22.516661, 6], [22.516661, 15]],
+          [[24.248711, 9], [24.248711, 12]]]
 
 
-# draw_perms(1, '123456', filtered_4())
-# draw_perms(10, '12345', filtered_bp_only('12345'))
-# draw_perms(5,'12345',filtered_bp_only('12345')) # filters too much
-draw_perms(15,'123456', filtered_permutations('123456'))
-# not applicable for other values
+# draw_perms(1, '123456', filtered_4(), pointsFor6)
+# draw_perms(10, '12345', filtered_bp_only('12345'), pointsFor6)
+# draw_perms(5,'12345',filtered_bp_only('12345'), pointsFor6)
+# draw_perms(15,'123456', filtered_permutations('123456'), pointsFor6)
+draw_perms(5,'12345', filtered_permutations('12345'), pointsFor5)
 
 # print_perms("123456")
 # print("--------")
