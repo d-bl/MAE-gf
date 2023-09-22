@@ -44,7 +44,7 @@ By switching comment on or off for the last few lines you can choose what to gen
 
 With 4 pairs we have 4x3x2=24 ways to reorder them. We generated 13 permutations in the top row.
 Each permutation without bd and/or bp has flipped/rotated versions that are not generated.
-What remains are 13 family heads. By bending the generated pairs we can create valid pair diagrams.
+What remains are 13 family heads. By bending the generated pairs we can create valid pair diagrams as family members.
 Swapping starts and/or ends means interfering with another family. 
 So far we show only some members for some families.
 
@@ -54,7 +54,8 @@ So far we show only some members for some families.
 5 pairs / threads
 -----------------
 
-With 5 pais we have 5x4x3x2=120 permutations, minus duplicates we have 45.
+With 5 pais we have 5x4x3x2=120 permutations, minus duplicates we have 45 family heads.
+Use your own creativity to explore the generated family heads like the other sets or into whatever you fancy.
 
 ![](5-pair-permutations.svg)
 
