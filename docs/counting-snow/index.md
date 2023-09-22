@@ -132,7 +132,7 @@ Above the ribbon we have 4x3 options for each one to pull out two pairs what giv
 Removing duplicates leaves 93. 
 
 Below the ribbon we have 4x2 options to pull out one pair to both sides, two because we can start pulling to the right or start to the left.
-That gives another 56, unless someone can still spot duplicates when flipping horizontally and/or vertically.
+That gives another 56.
 
 Both groups add up to 149.
 
