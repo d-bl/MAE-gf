@@ -2,14 +2,33 @@
 layout: default
 title: snowflake families
 ---
-
+<!-- TOC -->
+* [Counting n-pair connections, such as snowflakes](#counting-n-pair-connections-such-as-snowflakes)
+  * [Bouncing pairs and numbering](#bouncing-pairs-and-numbering)
+  * [Notes](#notes)
+    * [Pairs or threads](#pairs-or-threads)
+    * [Save and edit images](#save-and-edit-images)
+    * [Text files](#text-files)
+    * [Generate Diagrams](#generate-diagrams)
+  * [2 pairs](#2-pairs)
+  * [3 pairs](#3-pairs)
+  * [4 pairs / threads](#4-pairs--threads)
+  * [5 pairs / threads](#5-pairs--threads)
+  * [6 pairs / threads](#6-pairs--threads)
+    * [All pairs entering before any pair leaves](#all-pairs-entering-before-any-pair-leaves)
+    * [One pair leaves before the last one enters](#one-pair-leaves-before-the-last-one-enters)
+    * [Two pairs leave before the last ones enter](#two-pairs-leave-before-the-last-ones-enter)
+  * [Exploring families](#exploring-families)
+    * [Valid pair diagrams](#valid-pair-diagrams)
+    * [Choose stitches](#choose-stitches)
+<!-- TOC -->
 Counting n-pair connections, such as snowflakes
 ===============================================
 
 From [literature](literature) like "Naar de Bron" and "Viele gute Gründe"
 we can collect dozens of pair diagrams for snowflakes. 
 That made us curious to explore the number of ways we can make n-pair connections.
-Typical spiders are connections with an even number of pairs, 
+Traditional spiders are connections with an even number of pairs, 
 snowflakes in Binche are usually 4-pair or 6-pair connections.
 
 To start the exploration we calculate the number of ways 
@@ -22,11 +41,11 @@ the calculations:
 These numbers can be reduced by filtering "duplicates": 
 options that are the same after mirroring horizontally, vertically or rotating upside down.
 
-Because of the large numbers, we only give some examples or hints for the next step: 
+Because of the large numbers, we only give some examples or hints for the next steps: 
 creating valid pair diagrams and choosing stitches.
 
-Bouncing and numbering
-----------------------
+Bouncing pairs and numbering
+----------------------------
 
 A pair that bounces along the perimeter of an n-pair connection
 can take a detour in the surrounding lace.
@@ -38,8 +57,7 @@ As the initial curiosity was about 6-pair snowflakes, we only explored
 The following images illustrate how the numbering works. 
 The basic numbers show the order of the pairs at the end.
 A prefix and/or suffix indicates bouncing.
-An S or Z is used to indicate to which side a twice bouncing pair bounces first.
-The text files do not include the bouncing prefixes and suffixes.
+An S or Z is used to indicate to which side a twice bouncing pair travels first.
 
 ![](numbering-method.svg)
 
@@ -65,6 +83,7 @@ Some sets of permutations are provided as text files, grouped by reflections.
 Only the smallest number in each group is presented as a diagram.
 When you find a snowflake somewhere else, write down how the pairs reorder
 and look up the number in the text file to identify the family.
+The files do not include the bouncing prefixes and suffixes.
 
 ### Generate Diagrams
 
@@ -82,8 +101,8 @@ By switching comment on or off for the last few lines of the script you can choo
 Bobbin lace makers are used to call two pair connections stitches,
 these are explored on [Listing & counting stitches](counting).
 
-3 pairs / threads
------------------
+3 pairs
+-------
 
 With 3 pairs we have 3x2=6 ways to reorder them. The faint permutations are mirrored duplicates.
 Thus, we get 4 families. By bending the generated pairs we can create valid pair diagrams as family members.
