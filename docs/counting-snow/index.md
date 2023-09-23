@@ -22,6 +22,7 @@ title: snowflake families
     * [Valid pair diagrams](#valid-pair-diagrams)
     * [Choose stitches](#choose-stitches)
 <!-- TOC -->
+
 Counting n-pair connections, such as snowflakes
 ===============================================
 
@@ -227,6 +228,6 @@ You can assign the thus discovered stitches to one of the templates for
 stitches/blobs. Is the first blob on the right? Then replace the half stitches in the right plait. Vice versa for left.
 Next step: follow the link "_thread diagram as pair diagram_" for a thread diagram of the snowflake and choose your stitches.  
 
-The [blobs](/GroundForge/droste.html?patchWidth=7&patchHeight=11&tile=5-C-B-,-5-5-5,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=6&shiftRowsSE=8&e1=crcl&c1=ctctt&a1=ttctctt&f2=llctctt&d2=rrctctt&b2=ctctt&e3=ctctt&c3=ctctt&a3=ctctt&f4=rclc&d4=ctctt&b4=ctc&e5=cr&c5=ctc&f6=cr&b6=ctc&e7=lcr&c7=ctc&f8=c&b8=ctc&droste2=ctct,a34=f41=f42=f43=e50=e51=f60=f61=e70=e71=e72=f80=e90=e91=e92=e93=e11=e10=e12=e13=ctc)
+The [blobs](blobs.pdf)
 with cloth stitches at the droste page:  
 ![](droste.png)  
