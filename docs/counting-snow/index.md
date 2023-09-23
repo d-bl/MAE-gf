@@ -90,7 +90,7 @@ Thus, we get 4 families. By bending the generated pairs we can create valid pair
 Swapping starts and/or ends means interfering with another family. 
 So far we show at most three members per family. 
 Note that the red pair intersects the two other pairs three times each in the bottom case of 231.
-Use your own creativity to create more family members.
+Use your own creativity to create more family members. [More...](misca#3-paired-join) 
 
 ![](3-pair-permutations.svg)
 
