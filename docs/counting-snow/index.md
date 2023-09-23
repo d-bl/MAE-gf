@@ -17,9 +17,9 @@ snowflakes in Binche are usually 4-pair or 6-pair connections.
 To start the exploration we calculate the number of ways 
 the pairs get reordered after completing the connection. 
 The maximum number can be calculated with the mathematical concept called permutations,
-the calculation is: n x (n-1) ... 1. 
+the calculations: 
 
-    2->2, 3->6, 4->24, 5->120, 6->720.
+    n x (n-1) ... x 1       2->2, 3->6, 4->24, 5->120, 6->720.
 
 These numbers can be reduced by filtering "duplicates": 
 options that are the same after mirroring horizontally, vertically or rotating upside down.
@@ -49,19 +49,30 @@ Some sets of permutations are provided as text files, grouped by reflections.
 Only the smallest number in each group is presented as a diagram.
 When you find a snowflake somewhere else, write down how the pairs reorder
 and look up the number in the text file to identify the family.
-The following image illustrates how the basic numbering works.
+
+A pair that bounces along the perimeter of an n-pair connection
+can take a detour in the surrounding lace.
+This turns an n-pair connections into an n+1-pair connection, 
+it can even happen with two pairs, or one pair bouncing to both sides.
+As the initial curiosity was about 6-pair snowflakes, we only explored
+5-pair connections and 4-pair connections turned into six pair connections. 
+
+The following images illustrate how the numbering works. 
+The basic numbers show the order of the pairs at the end.
+A prefix and/or suffix indicates bouncing.
+An S or Z is used to indicate to which side a twice bouncing pair bounces first.
+The text files do not include the bouncing prefixes and suffixes.
 
 ![](numbering-method.svg)
-
 
 ### Generate Diagrams
 
 A Python [script](permutations.py) renders permutations of pairs changing positions and filter reflections.
 You can run (and modify) the script with various offline and online environments such as
 [online-python.com](https://www.online-python.com/)
-The output of the scripts is hacked into SVG documents mentioned/shown on this page.
-The numbers show the order of the pairs at the end. Those marked with a `*` a bd reflection and/or those with a `+` a bp reflection.
-By switching comment on or off for the last few lines you can choose what to generate.
+The output of the scripts is hacked into SVG images shown on this page.
+Numbers marked with a `*` a bd reflection, those marked with a `+` a bp reflection.
+By switching comment on or off for the last few lines of the script you can choose what to generate.
 
 
 4 pairs / threads
@@ -71,8 +82,9 @@ With 4 pairs we have 4x3x2=24 ways to reorder them. We generated 13 permutations
 Each permutation without bd and/or bp has flipped/rotated versions that are not generated.
 What remains are 13 family heads. By bending the generated pairs we can create valid pair diagrams as family members.
 Swapping starts and/or ends means interfering with another family. 
-So far we show only some members for some families. Use your own creativity to create more.
+So far we show only one or two members per family. Use your own creativity to create more.
 
+[text](permutations-for-4.txt)  
 ![](4-pair-permutations.svg)
 
 
@@ -80,8 +92,9 @@ So far we show only some members for some families. Use your own creativity to c
 -----------------
 
 With 5 pais we have 5x4x3x2=120 permutations, minus duplicates we have 45 family heads.
-Use your own creativity to explore the generated family heads like the other sets or into whatever you fancy.
+Use your own creativity to figure out members of these families.
 
+[text](permutations-for-5.txt)    
 ![](5-pair-permutations.svg)
 
 6 pairs / threads
@@ -114,29 +127,22 @@ After filtering reflected versions we still have 230 options.
 
 ### One pair leaves before the last one enters
 
-With one pair going out and back in again we have (5x4x3x2 - bp reflections) = 73 options,
-5 options each to pull one  pair out gives 365 options.
+With one pair going making a detour in the surrounding lace we have (5x4x3x2 - bp reflections) = 73 options,
+5 options each to let one  pair bounce gives 365 options.
 However, the permutations marked with `+` cause duplicates by swapped pairs.
 So we expect to end up with 365-40=325.
-
-![](pull-out.svg)  
-Note that two pairs within each snowflake prototype have the same color.
-The dashed line outside the snowflake suggests it is the same pair.
-That might not be the case, depending on what happens outside the spider.
-It is a reminder that you should not bend the lines in such a way
-that two lines of the same color intersect one another.
 
 ![](one-out-before-in.svg)
 
 ### Two pairs leave before the last ones enter
 
-With two pairs going out and back in we start with (4x3x2 - bp and bd reflections) =
-[13 options](permutations-for-4.txt). These are shown on the grey ribbon.
+With two pairs bouncing, we can start with the permutations for four pairs.
+These are repeated on the grey ribbon below.
 2 have bdpq reflections, 2 only bd and 1 a bp reflection.
 
-Above the ribbon we have 4x3 options for each one to pull out two pairs what gives 156 options.
+Above the ribbon we have 4x3 options for each one with two pairs bouncing pairs what gives 156 options.
 Removing duplicates leaves 93. 
-Below the ribbon we have 4x2 options to pull out one pair to both sides, two because we can start pulling to the right or start to the left.
+Below the ribbon we have 4x2 options of a pair bouncing to both sides, x2 because we can start bouncing to the right or start to the left.
 That gives another 56.
 Both groups add up to 149.
 
@@ -146,6 +152,8 @@ Both groups add up to 149.
 Exploring families
 ------------------
 
+### Valid pair diagrams
+
 The permutations given above are only heads of families. Only sometimes this family-head is a workable diagram.
 Workable or not, you can bend the pairs of a permutation into (more) workable diagrams.
 When swapping starts and/or ends you are interfering with another family. 
@@ -154,6 +162,17 @@ The not-exhaustive families below are created manually from some of the generate
 
 ![](654321.svg)  
 The image contains a few more examples beyond the visible area.
+
+With bouncing pairs two or three pairs in a snowflake prototype (or family head) have the same color.
+The dashed line outside the snowflake suggests it is the same pair.
+That might not be the case, depending on what happens outside the snowflake.
+It is a reminder that you should not bend the lines in such a way
+that two lines of the same color intersect one another.
+
+![](numbering-method.svg)
+
+
+### Choose stitches
 
 The last step is choose stitches for a thread diagram. 
 For that purpose we can use the droste page of GroundForge and have to interpret the diagrams as thread diagrams. 
