@@ -76,8 +76,8 @@ Numbers marked with a `*` a bd reflection, those marked with a `+` a bp reflecti
 By switching comment on or off for the last few lines of the script you can choose what to generate.
 
 
-2 pairs / threads
------------------
+2 pairs
+-------
 
 Bobbin lace makers are used to call two pair connections stitches,
 these are explored on [Listing & counting stitches](counting).
