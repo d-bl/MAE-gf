@@ -56,7 +56,7 @@ As the initial curiosity was about 6-pair snowflakes, we only explored
 
 The following images illustrate how the numbering works. 
 The basic numbers show the order of the pairs at the end.
-A prefix and/or suffix indicates bouncing.
+A prefix and/or suffix indicates which pair bounces.
 An S or Z is used to indicate to which side a twice bouncing pair travels first.
 
 ![](numbering-method.svg)
