@@ -9,8 +9,6 @@ Counting n-pair connections, such as snowflakes
 From [literature](literature) like "Naar de Bron" and "Viele gute Gründe"
 we can collect dozens of pair diagrams for snowflakes. 
 That made us curious to explore the number of ways we can make n-pair connections.
-Bobbin lace makers are used to call two pair connections stitches, 
-These are explored on [Listing & counting stitches](counting). 
 Typical spiders are connections with an even number of pairs, 
 snowflakes in Binche are usually 4-pair or 6-pair connections.
 
@@ -27,6 +25,24 @@ options that are the same after mirroring horizontally, vertically or rotating u
 Because of the large numbers, we only give some examples or hints for the next step: 
 creating valid pair diagrams and choosing stitches.
 
+Bouncing and numbering
+----------------------
+
+A pair that bounces along the perimeter of an n-pair connection
+can take a detour in the surrounding lace.
+This turns an n-pair connection into an (n+1)-pair connection, 
+it can even happen with two pairs, or one pair bouncing between both sides.
+As the initial curiosity was about 6-pair snowflakes, we only explored
+5-pair connections and 4-pair connections turned into 6-pair connections. 
+
+The following images illustrate how the numbering works. 
+The basic numbers show the order of the pairs at the end.
+A prefix and/or suffix indicates bouncing.
+An S or Z is used to indicate to which side a twice bouncing pair bounces first.
+The text files do not include the bouncing prefixes and suffixes.
+
+![](numbering-method.svg)
+
 
 Notes
 -----
@@ -40,7 +56,7 @@ we get two for the price of 1.
 ### Save and edit images
 
 With main stream browsers you can right-click the images on this page to save them.
-You can modify images with extension SVG with a vector editor like Inkscape, Adobe Illustrator and many others. 
+You can use  a vector editor like Inkscape, Adobe Illustrator and many others, to modify images with extension SVG. 
 For example to bend the straight lines into workable pair diagrams or show what is beyond the visible area. 
 
 ### Text files
@@ -49,21 +65,6 @@ Some sets of permutations are provided as text files, grouped by reflections.
 Only the smallest number in each group is presented as a diagram.
 When you find a snowflake somewhere else, write down how the pairs reorder
 and look up the number in the text file to identify the family.
-
-A pair that bounces along the perimeter of an n-pair connection
-can take a detour in the surrounding lace.
-This turns an n-pair connections into an n+1-pair connection, 
-it can even happen with two pairs, or one pair bouncing to both sides.
-As the initial curiosity was about 6-pair snowflakes, we only explored
-5-pair connections and 4-pair connections turned into six pair connections. 
-
-The following images illustrate how the numbering works. 
-The basic numbers show the order of the pairs at the end.
-A prefix and/or suffix indicates bouncing.
-An S or Z is used to indicate to which side a twice bouncing pair bounces first.
-The text files do not include the bouncing prefixes and suffixes.
-
-![](numbering-method.svg)
 
 ### Generate Diagrams
 
@@ -75,14 +76,30 @@ Numbers marked with a `*` a bd reflection, those marked with a `+` a bp reflecti
 By switching comment on or off for the last few lines of the script you can choose what to generate.
 
 
+2 pairs / threads
+-----------------
+
+Bobbin lace makers are used to call two pair connections stitches,
+these are explored on [Listing & counting stitches](counting).
+
+3 pairs / threads
+-----------------
+
+With 3 pairs we have 3x2=6 ways to reorder them. The faint permutations are mirrored duplicates.
+Thus, we get 4 families. By bending the generated pairs we can create valid pair diagrams as family members.
+Swapping starts and/or ends means interfering with another family. 
+So far we show at most three members per family. 
+Note that the red pair intersects the two other pairs three times each in the bottom case of 231.
+Use your own creativity to create more family members.
+
+![](3-pair-permutations.svg)
+
+
 4 pairs / threads
 -----------------
 
-With 4 pairs we have 4x3x2=24 ways to reorder them. We generated 13 permutations in the top row.
-Each permutation without bd and/or bp has flipped/rotated versions that are not generated.
-What remains are 13 family heads. By bending the generated pairs we can create valid pair diagrams as family members.
-Swapping starts and/or ends means interfering with another family. 
-So far we show only one or two members per family. Use your own creativity to create more.
+With 4 pairs we have 4x3x2=24 minus duplicates gives 13 families.
+The number of family members are not exhaustive.
 
 [text](permutations-for-4.txt)  
 ![](4-pair-permutations.svg)
@@ -91,7 +108,7 @@ So far we show only one or two members per family. Use your own creativity to cr
 5 pairs / threads
 -----------------
 
-With 5 pais we have 5x4x3x2=120 permutations, minus duplicates we have 45 family heads.
+With 5 pais we have 5x4x3x2=120 permutations, minus bd and/or bp duplicates we have 45 family heads.
 Use your own creativity to figure out members of these families.
 
 [text](permutations-for-5.txt)    
@@ -127,10 +144,11 @@ After filtering reflected versions we still have 230 options.
 
 ### One pair leaves before the last one enters
 
-With one pair going making a detour in the surrounding lace we have (5x4x3x2 - bp reflections) = 73 options,
-5 options each to let one  pair bounce gives 365 options.
+With one bouncing pair we have (5x4x3x2 - bp reflections) = 73 options.
+Note that this is more than for the plain 5-pair connections. 
+5 options for each option to let one pair bounce gives 365 options.
 However, the permutations marked with `+` cause duplicates by swapped pairs.
-So we expect to end up with 365-40=325.
+We expect to end up with 365-40=325.
 
 ![](one-out-before-in.svg)
 
@@ -163,7 +181,7 @@ The not-exhaustive families below are created manually from some of the generate
 ![](654321.svg)  
 The image contains a few more examples beyond the visible area.
 
-With bouncing pairs two or three pairs in a snowflake prototype (or family head) have the same color.
+With bouncing pairs two or three pairs in a family-head have the same color.
 The dashed line outside the snowflake suggests it is the same pair.
 That might not be the case, depending on what happens outside the snowflake.
 It is a reminder that you should not bend the lines in such a way

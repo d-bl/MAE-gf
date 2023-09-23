@@ -72,6 +72,10 @@ def draw_perms(nr_of_rows, start_order_of_pairs, perms, points):
                   f' id="{end_order_of_pairs}_{end_order_of_pairs[i]}"'
                   f' d="M {start_x},{start_y} {end_x},{end_y}" />')
         print('</g>')
+pointsFor3 = [
+          [[13.856407, 6], [13.856407, 15]],
+          [[18.1865335, 4.5], [18.1865335, 16.5]],
+          [[22.516661, 6], [22.516661, 15]],]
 pointsFor5 = [[[12.124356, 9], [12.124356, 12]],
           [[13.856407, 6], [13.856407, 15]],
           [[18.1865335, 4.5], [18.1865335, 16.5]],
@@ -85,11 +89,12 @@ pointsFor6 = [[[12.124356, 9], [12.124356, 12]],
           [[24.248711, 9], [24.248711, 12]]]
 
 
+draw_perms(1, '123', sorted(''.join(p) for p in itertools.permutations('123')), pointsFor3)
 # draw_perms(1, '123456', filtered_4(), pointsFor6)
 # draw_perms(10, '12345', filtered_bp_only('12345'), pointsFor6)
 # draw_perms(5,'12345',filtered_bp_only('12345'), pointsFor6)
 # draw_perms(15,'123456', filtered_permutations('123456'), pointsFor6)
-draw_perms(5,'12345', filtered_permutations('12345'), pointsFor5)
+# draw_perms(5,'12345', filtered_permutations('12345'), pointsFor5)
 
 # print_perms("123456")
 # print("--------")
