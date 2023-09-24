@@ -214,9 +214,17 @@ that two lines of the same color intersect one another.
 
 The last step is choose stitches for a thread diagram. 
 For that purpose we can use the droste page of GroundForge and have to interpret the diagrams as thread diagrams. 
-One of the examples has blobs that identify the stitches.
+Some examples with blobs that identify the stitches.
+
+![](blobs.svg)  
+As PDF:
+[4-blobs](4-blobs.p),
+[6-blobs](6-blobs.pdf).
+a simple and complex solution for the same result.  
+![](droste.png)
+
 Requirements for the blobs: span 4 threads, share two threads with each adjacent blob. 
-Not all blobs use all of its four threads.
+Not all blobs use all of its four threads as shown in the complex solution.
 You can assign the thus discovered stitches to one of the templates for 
 [4](/GroundForge/stitches?patchWidth=7&patchHeight=9&tile=5-C-B-,-5-5-5,5-5-5-,-5-5-5,--5-5-,-B---C,&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6&e1=ct&c1=ct&a1=rrctctt&f2=llctctt&d2=ttctctt&b2=rrctctt&e3=ctctt&c3=ctctt&a3=ctctt&f4=ct&d4=ctctt&b4=ct&e5=ct&c5=ct&f6=ct&b6=ct),
 [5](/GroundForge/stitches?patchWidth=7&patchHeight=9&tile=-B-5-C,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6&f1=ct&d1=ttctctt&b1=ct&e2=rrctctt&c2=llctctt&a2=ttctctt&f3=ct&d3=ctctt&b3=ct&e4=ct&c4=ct&f5=ct&b5=ct&e6=ct&c6=ct),
@@ -226,8 +234,5 @@ You can assign the thus discovered stitches to one of the templates for
 [9](/GroundForge/stitches?patchWidth=7&patchHeight=13&tile=-B-5-C,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C,--C-B-,-B---C,--C-B-,&shiftColsSW=0&shiftRowsSW=10&shiftColsSE=6&shiftRowsSE=10&f1=ct&d1=ttctctt&b1=ct&e2=rrctctt&c2=llctctt&a2=ttctctt&f3=ct&d3=ctctt&b3=ct&e4=ct&c4=ct&f5=ct&b5=ct&e6=ct&c6=ct&f7=ct&b7=ct&e8=ct&c8=ct&f9=ct&b9=ct&e10=ct&c10=ct),
 ...
 stitches/blobs. Is the first blob on the right? Then replace the half stitches in the right plait. Vice versa for left.
-Next step: follow the link "_thread diagram as pair diagram_" for a thread diagram of the snowflake and choose your stitches.  
+Last step: follow the link "_thread diagram as pair diagram_" for a thread diagram of the snowflake and choose your stitches.  
 
-The [blobs](blobs.pdf)
-with cloth stitches at the droste page:  
-![](droste.png)  
