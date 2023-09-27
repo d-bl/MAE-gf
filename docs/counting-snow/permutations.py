@@ -53,10 +53,14 @@ def draw_perms(nr_of_rows, start_order_of_pairs, perms, points):
         offset_x = int(perm_nr / nr_of_rows) * 24.25
         offset_y = (perm_nr % nr_of_rows) * 21
         txt = end_order_of_pairs + ' '
-        if end_order_of_pairs == flip_bd(end_order_of_pairs):
-            txt = txt + '*'
-        if end_order_of_pairs == flip_bp(end_order_of_pairs):
-            txt = txt + '+'
+        id_bd = end_order_of_pairs == flip_bd(end_order_of_pairs)
+        is_bp = end_order_of_pairs == flip_bp(end_order_of_pairs)
+        if id_bd and is_bp:
+            txt = txt + 'bdpq'
+        elif id_bd:
+            txt = txt + 'bd'
+        elif is_bp:
+            txt = txt + 'bp'
         print(f'<g id="{end_order_of_pairs}">')
         print(f'<svg:text x="{12 + offset_x}" y="{21 + offset_y}"'
               f' style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"'
@@ -76,11 +80,11 @@ pointsFor3 = [
           [[13.856407, 6], [13.856407, 15]],
           [[18.1865335, 4.5], [18.1865335, 16.5]],
           [[22.516661, 6], [22.516661, 15]],]
-pointsFor5 = [[[12.124356, 9], [12.124356, 12]],
-          [[13.856407, 6], [13.856407, 15]],
-          [[18.1865335, 4.5], [18.1865335, 16.5]],
-          [[22.516661, 6], [22.516661, 15]],
-          [[24.248711, 9], [24.248711, 12]]]
+pointsFor5 = [[[12, 4], [12, 16]],
+          [[15, 4], [15, 16]],
+          [[18, 4], [18, 16]],
+          [[21, 4], [21, 16]],
+          [[24, 4], [24, 16]]]
 pointsFor6 = [[[12.124356, 9], [12.124356, 12]],
           [[13.856407, 6], [13.856407, 15]],
           [[16.454483, 4.5], [16.454483, 16.5]],
@@ -89,15 +93,16 @@ pointsFor6 = [[[12.124356, 9], [12.124356, 12]],
           [[24.248711, 9], [24.248711, 12]]]
 
 
-draw_perms(1, '123', sorted(''.join(p) for p in itertools.permutations('123')), pointsFor3)
+# draw_perms(1, '123', sorted(''.join(p) for p in itertools.permutations('123')), pointsFor3)
 # draw_perms(1, '123456', filtered_4(), pointsFor6)
-# draw_perms(10, '12345', filtered_bp_only('12345'), pointsFor6)
+# draw_perms(5, '12345', filtered_bp_only('12345'), pointsFor6)
 # draw_perms(5,'12345',filtered_bp_only('12345'), pointsFor6)
 # draw_perms(15,'123456', filtered_permutations('123456'), pointsFor6)
 # draw_perms(5,'12345', filtered_permutations('12345'), pointsFor5)
 
+print (len(filtered_permutations('1234567')))
+print (len(filtered_permutations('12345678')))
+print (len(filtered_permutations('123456789')))
 # print_perms("123456")
-# print("--------")
 # print_perms("12345")
-# print("--------")
 # print_perms("1234")
