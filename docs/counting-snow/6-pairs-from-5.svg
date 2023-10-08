@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
-   sodipodi:docname="one-out-before-in.svg"
+   sodipodi:docname="5-pairs-to-bounce-into-6.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,15 +24,15 @@
    inkscape:deskcolor="#d1d1d1"
    inkscape:document-units="mm"
    showgrid="true"
-   inkscape:zoom="1.4232848"
-   inkscape:cx="277.17573"
-   inkscape:cy="203.40272"
-   inkscape:window-width="1680"
-   inkscape:window-height="990"
+   inkscape:zoom="5.6931392"
+   inkscape:cx="369.21634"
+   inkscape:cy="204.89575"
+   inkscape:window-width="1920"
+   inkscape:window-height="1140"
    inkscape:window-x="0"
    inkscape:window-y="36"
    inkscape:window-maximized="1"
-   inkscape:current-layer="layer1"><inkscape:grid
+   inkscape:current-layer="25431"><inkscape:grid
      type="axonomgrid"
      id="grid2793"
      empspacing="7"
@@ -52,11 +52,11 @@
    id="text16869"><tspan
      id="tspan16867">12345 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="12345_1"
    d="M 12.124356,9 12.124356,12" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="12345_2"
    d="M 13.856407,6 13.856407,15" />
 <path
@@ -81,11 +81,11 @@
    id="text16879"><tspan
      id="tspan16877">12354 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="12354_1"
    d="M 12.124356,30 12.124356,33" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="12354_2"
    d="M 13.856407,27 13.856407,36" />
 <path
@@ -110,11 +110,11 @@
    id="text16889"><tspan
      id="tspan16887">12435 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="12435_1"
    d="M 12.124356,51 12.124356,54" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="12435_2"
    d="M 13.856407,48 13.856407,57" />
 <path
@@ -139,11 +139,11 @@
    id="text16899"><tspan
      id="tspan16897">12453 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="12453_1"
    d="M 12.124356,72 12.124356,75" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="12453_2"
    d="M 13.856407,69 13.856407,78" />
 <path
@@ -168,11 +168,11 @@
    id="text16909"><tspan
      id="tspan16907">12543 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="12543_1"
    d="M 12.124356,93 12.124356,96" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="12543_2"
    d="M 13.856407,90 13.856407,99" />
 <path
@@ -197,11 +197,11 @@
    id="text16919"><tspan
      id="tspan16917">13245 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="13245_1"
    d="M 36.374356,9 36.374356,12" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="13245_3"
    d="M 40.704482999999996,4.5 38.106407000000004,15" />
 <path
@@ -226,11 +226,11 @@
    id="text16929"><tspan
      id="tspan16927">13254 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="13254_1"
    d="M 36.374356,30 36.374356,33" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="13254_3"
    d="M 40.704482999999996,25.5 38.106407000000004,36" />
 <path
@@ -255,11 +255,11 @@
    id="text16939"><tspan
      id="tspan16937">13425 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="13425_1"
    d="M 36.374356,51 36.374356,54" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="13425_3"
    d="M 40.704482999999996,46.5 38.106407000000004,57" />
 <path
@@ -284,11 +284,11 @@
    id="text16949"><tspan
      id="tspan16947">13452 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="13452_1"
    d="M 36.374356,72 36.374356,75" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="13452_3"
    d="M 40.704482999999996,67.5 38.106407000000004,78" />
 <path
@@ -313,11 +313,11 @@
    id="text16959"><tspan
      id="tspan16957">13524 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="13524_1"
    d="M 36.374356,93 36.374356,96" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="13524_3"
    d="M 40.704482999999996,88.5 38.106407000000004,99" />
 <path
@@ -342,11 +342,11 @@
    id="text16969"><tspan
      id="tspan16967">13542 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="13542_1"
    d="M 60.624356,9 60.624356,12" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="13542_3"
    d="M 64.954483,4.5 62.356407000000004,15" />
 <path
@@ -371,11 +371,11 @@
    id="text16979"><tspan
      id="tspan16977">14325 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="14325_1"
    d="M 60.624356,30 60.624356,33" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="14325_4"
    d="M 68.418584,25.5 62.356407000000004,36" />
 <path
@@ -400,11 +400,11 @@
    id="text16989"><tspan
      id="tspan16987">14352 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="14352_1"
    d="M 60.624356,51 60.624356,54" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="14352_4"
    d="M 68.418584,46.5 62.356407000000004,57" />
 <path
@@ -429,11 +429,11 @@
    id="text16999"><tspan
      id="tspan16997">14523 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="14523_1"
    d="M 60.624356,72 60.624356,75" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="14523_4"
    d="M 68.418584,67.5 62.356407000000004,78" />
 <path
@@ -458,11 +458,11 @@
    id="text17009"><tspan
      id="tspan17007">14532 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="14532_1"
    d="M 60.624356,93 60.624356,96" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="14532_4"
    d="M 68.418584,88.5 62.356407000000004,99" />
 <path
@@ -487,11 +487,11 @@
    id="text17019"><tspan
      id="tspan17017">15342 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="15342_1"
    d="M 84.874356,9 84.874356,12" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="15342_5"
    d="M 95.266661,6 86.606407,15" />
 <path
@@ -516,11 +516,11 @@
    id="text17029"><tspan
      id="tspan17027">15432 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="15432_1"
    d="M 84.874356,30 84.874356,33" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="15432_5"
    d="M 95.266661,27 86.606407,36" />
 <path
@@ -545,11 +545,11 @@
    id="text17039"><tspan
      id="tspan17037">21345 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="21345_2"
    d="M 86.606407,48 84.874356,54" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="21345_1"
    d="M 84.874356,51 86.606407,57" />
 <path
@@ -574,11 +574,11 @@
    id="text17049"><tspan
      id="tspan17047">21354 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="21354_2"
    d="M 86.606407,69 84.874356,75" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="21354_1"
    d="M 84.874356,72 86.606407,78" />
 <path
@@ -603,11 +603,11 @@
    id="text17059"><tspan
      id="tspan17057">21435 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="21435_2"
    d="M 86.606407,90 84.874356,96" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="21435_1"
    d="M 84.874356,93 86.606407,99" />
 <path
@@ -632,11 +632,11 @@
    id="text17069"><tspan
      id="tspan17067">21453 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="21453_2"
    d="M 110.856407,6 109.124356,12" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="21453_1"
    d="M 109.124356,9 110.856407,15" />
 <path
@@ -661,11 +661,11 @@
    id="text17079"><tspan
      id="tspan17077">21543 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="21543_2"
    d="M 110.856407,27 109.124356,33" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="21543_1"
    d="M 109.124356,30 110.856407,36" />
 <path
@@ -690,11 +690,11 @@
    id="text17089"><tspan
      id="tspan17087">23145 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="23145_2"
    d="M 110.856407,48 109.124356,54" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="23145_3"
    d="M 113.454483,46.5 110.856407,57" />
 <path
@@ -719,11 +719,11 @@
    id="text17099"><tspan
      id="tspan17097">23154 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="23154_2"
    d="M 110.856407,69 109.124356,75" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="23154_3"
    d="M 113.454483,67.5 110.856407,78" />
 <path
@@ -748,11 +748,11 @@
    id="text17109"><tspan
      id="tspan17107">23415 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="23415_2"
    d="M 110.856407,90 109.124356,96" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="23415_3"
    d="M 113.454483,88.5 110.856407,99" />
 <path
@@ -777,11 +777,11 @@
    id="text17119"><tspan
      id="tspan17117">23451 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="23451_2"
    d="M 135.106407,6 133.374356,12" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="23451_3"
    d="M 137.704483,4.5 135.106407,15" />
 <path
@@ -806,11 +806,11 @@
    id="text17129"><tspan
      id="tspan17127">23514 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="23514_2"
    d="M 135.106407,27 133.374356,33" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="23514_3"
    d="M 137.704483,25.5 135.106407,36" />
 <path
@@ -835,11 +835,11 @@
    id="text17139"><tspan
      id="tspan17137">23541 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="23541_2"
    d="M 135.106407,48 133.374356,54" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="23541_3"
    d="M 137.704483,46.5 135.106407,57" />
 <path
@@ -864,11 +864,11 @@
    id="text17149"><tspan
      id="tspan17147">24135 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="24135_2"
    d="M 135.106407,69 133.374356,75" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="24135_4"
    d="M 141.168584,67.5 135.106407,78" />
 <path
@@ -893,11 +893,11 @@
    id="text17159"><tspan
      id="tspan17157">24153 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="24153_2"
    d="M 135.106407,90 133.374356,96" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="24153_4"
    d="M 141.168584,88.5 135.106407,99" />
 <path
@@ -922,11 +922,11 @@
    id="text17169"><tspan
      id="tspan17167">24315 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="24315_2"
    d="M 159.356407,6 157.624356,12" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="24315_4"
    d="M 165.418584,4.5 159.356407,15" />
 <path
@@ -951,11 +951,11 @@
    id="text17179"><tspan
      id="tspan17177">24351 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="24351_2"
    d="M 159.356407,27 157.624356,33" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="24351_4"
    d="M 165.418584,25.5 159.356407,36" />
 <path
@@ -980,11 +980,11 @@
    id="text17189"><tspan
      id="tspan17187">24513 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="24513_2"
    d="M 159.356407,48 157.624356,54" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="24513_4"
    d="M 165.418584,46.5 159.356407,57" />
 <path
@@ -1009,11 +1009,11 @@
    id="text17199"><tspan
      id="tspan17197">24531 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="24531_2"
    d="M 159.356407,69 157.624356,75" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="24531_4"
    d="M 165.418584,67.5 159.356407,78" />
 <path
@@ -1038,11 +1038,11 @@
    id="text17209"><tspan
      id="tspan17207">25134 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="25134_2"
    d="M 159.356407,90 157.624356,96" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="25134_5"
    d="M 168.016661,90 159.356407,99" />
 <path
@@ -1067,11 +1067,11 @@
    id="text17219"><tspan
      id="tspan17217">25143 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="25143_2"
    d="M 183.606407,6 181.874356,12" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="25143_5"
    d="M 192.266661,6 183.606407,15" />
 <path
@@ -1096,11 +1096,11 @@
    id="text17229"><tspan
      id="tspan17227">25314 bd</tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="25314_2"
    d="M 183.606407,27 181.874356,33" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="25314_5"
    d="M 192.266661,27 183.606407,36" />
 <path
@@ -1125,11 +1125,11 @@
    id="text17239"><tspan
      id="tspan17237">25341 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="25341_2"
    d="M 183.606407,48 181.874356,54" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="25341_5"
    d="M 192.266661,48 183.606407,57" />
 <path
@@ -1154,11 +1154,11 @@
    id="text17249"><tspan
      id="tspan17247">25413 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="25413_2"
    d="M 183.606407,69 181.874356,75" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="25413_5"
    d="M 192.266661,69 183.606407,78" />
 <path
@@ -1183,11 +1183,11 @@
    id="text17259"><tspan
      id="tspan17257">25431 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="25431_2"
    d="M 183.606407,90 181.874356,96" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="25431_5"
    d="M 192.266661,90 183.606407,99" />
 <path
@@ -1212,11 +1212,11 @@
    id="text17269"><tspan
      id="tspan17267">32145 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="32145_3"
    d="M 210.454483,4.5 206.124356,12" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="32145_2"
    d="M 207.856407,6 207.856407,15" />
 <path
@@ -1241,11 +1241,11 @@
    id="text17279"><tspan
      id="tspan17277">32154 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="32154_3"
    d="M 210.454483,25.5 206.124356,33" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="32154_2"
    d="M 207.856407,27 207.856407,36" />
 <path
@@ -1270,11 +1270,11 @@
    id="text17289"><tspan
      id="tspan17287">32415 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="32415_3"
    d="M 210.454483,46.5 206.124356,54" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="32415_2"
    d="M 207.856407,48 207.856407,57" />
 <path
@@ -1299,11 +1299,11 @@
    id="text17299"><tspan
      id="tspan17297">32451 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="32451_3"
    d="M 210.454483,67.5 206.124356,75" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="32451_2"
    d="M 207.856407,69 207.856407,78" />
 <path
@@ -1328,11 +1328,11 @@
    id="text17309"><tspan
      id="tspan17307">32514 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="32514_3"
    d="M 210.454483,88.5 206.124356,96" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="32514_2"
    d="M 207.856407,90 207.856407,99" />
 <path
@@ -1357,11 +1357,11 @@
    id="text17319"><tspan
      id="tspan17317">32541 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="32541_3"
    d="M 234.704483,4.5 230.374356,12" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="32541_2"
    d="M 232.106407,6 232.106407,15" />
 <path
@@ -1386,11 +1386,11 @@
    id="text17329"><tspan
      id="tspan17327">34125 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="34125_3"
    d="M 234.704483,25.5 230.374356,33" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="34125_4"
    d="M 238.168584,25.5 232.106407,36" />
 <path
@@ -1415,11 +1415,11 @@
    id="text17339"><tspan
      id="tspan17337">34152 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="34152_3"
    d="M 234.704483,46.5 230.374356,54" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="34152_4"
    d="M 238.168584,46.5 232.106407,57" />
 <path
@@ -1444,11 +1444,11 @@
    id="text17349"><tspan
      id="tspan17347">34215 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="34215_3"
    d="M 234.704483,67.5 230.374356,75" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="34215_4"
    d="M 238.168584,67.5 232.106407,78" />
 <path
@@ -1473,11 +1473,11 @@
    id="text17359"><tspan
      id="tspan17357">34251 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="34251_3"
    d="M 234.704483,88.5 230.374356,96" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="34251_4"
    d="M 238.168584,88.5 232.106407,99" />
 <path
@@ -1502,11 +1502,11 @@
    id="text17369"><tspan
      id="tspan17367">34512 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="34512_3"
    d="M 258.954483,4.5 254.624356,12" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="34512_4"
    d="M 262.418584,4.5 256.356407,15" />
 <path
@@ -1531,11 +1531,11 @@
    id="text17379"><tspan
      id="tspan17377">34521 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="34521_3"
    d="M 258.954483,25.5 254.624356,33" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="34521_4"
    d="M 262.418584,25.5 256.356407,36" />
 <path
@@ -1560,11 +1560,11 @@
    id="text17389"><tspan
      id="tspan17387">35142 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="35142_3"
    d="M 258.954483,46.5 254.624356,54" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="35142_5"
    d="M 265.016661,48 256.356407,57" />
 <path
@@ -1589,11 +1589,11 @@
    id="text17399"><tspan
      id="tspan17397">35214 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="35214_3"
    d="M 258.954483,67.5 254.624356,75" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="35214_5"
    d="M 265.016661,69 256.356407,78" />
 <path
@@ -1618,11 +1618,11 @@
    id="text17409"><tspan
      id="tspan17407">35241 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="35241_3"
    d="M 258.954483,88.5 254.624356,96" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="35241_5"
    d="M 265.016661,90 256.356407,99" />
 <path
@@ -1647,11 +1647,11 @@
    id="text17419"><tspan
      id="tspan17417">35412 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="35412_3"
    d="M 283.204483,4.5 278.874356,12" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="35412_5"
    d="M 289.266661,6 280.606407,15" />
 <path
@@ -1676,11 +1676,11 @@
    id="text17429"><tspan
      id="tspan17427">35421 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="35421_3"
    d="M 283.204483,25.5 278.874356,33" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="35421_5"
    d="M 289.266661,27 280.606407,36" />
 <path
@@ -1705,11 +1705,11 @@
    id="text17439"><tspan
      id="tspan17437">42315 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="42315_4"
    d="M 286.668584,46.5 278.874356,54" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="42315_2"
    d="M 280.606407,48 280.606407,57" />
 <path
@@ -1734,11 +1734,11 @@
    id="text17449"><tspan
      id="tspan17447">42351 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="42351_4"
    d="M 286.668584,67.5 278.874356,75" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="42351_2"
    d="M 280.606407,69 280.606407,78" />
 <path
@@ -1763,11 +1763,11 @@
    id="text17459"><tspan
      id="tspan17457">42513 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="42513_4"
    d="M 286.668584,88.5 278.874356,96" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="42513_2"
    d="M 280.606407,90 280.606407,99" />
 <path
@@ -1792,11 +1792,11 @@
    id="text17469"><tspan
      id="tspan17467">42531 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="42531_4"
    d="M 310.918584,4.5 303.124356,12" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="42531_2"
    d="M 304.856407,6 304.856407,15" />
 <path
@@ -1821,11 +1821,11 @@
    id="text17479"><tspan
      id="tspan17477">43215 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="43215_4"
    d="M 310.918584,25.5 303.124356,33" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="43215_3"
    d="M 307.454483,25.5 304.856407,36" />
 <path
@@ -1850,11 +1850,11 @@
    id="text17489"><tspan
      id="tspan17487">43251 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="43251_4"
    d="M 310.918584,46.5 303.124356,54" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="43251_3"
    d="M 307.454483,46.5 304.856407,57" />
 <path
@@ -1879,11 +1879,11 @@
    id="text17499"><tspan
      id="tspan17497">43512 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="43512_4"
    d="M 310.918584,67.5 303.124356,75" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="43512_3"
    d="M 307.454483,67.5 304.856407,78" />
 <path
@@ -1908,11 +1908,11 @@
    id="text17509"><tspan
      id="tspan17507">43521 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="43521_4"
    d="M 310.918584,88.5 303.124356,96" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="43521_3"
    d="M 307.454483,88.5 304.856407,99" />
 <path
@@ -1937,11 +1937,11 @@
    id="text17519"><tspan
      id="tspan17517">45231 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="45231_4"
    d="M 335.168584,4.5 327.374356,12" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="45231_5"
    d="M 337.766661,6 329.106407,15" />
 <path
@@ -1966,11 +1966,11 @@
    id="text17529"><tspan
      id="tspan17527">45312 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="45312_4"
    d="M 335.168584,25.5 327.374356,33" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="45312_5"
    d="M 337.766661,27 329.106407,36" />
 <path
@@ -1995,11 +1995,11 @@
    id="text17539"><tspan
      id="tspan17537">45321 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="45321_4"
    d="M 335.168584,46.5 327.374356,54" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="45321_5"
    d="M 337.766661,48 329.106407,57" />
 <path
@@ -2024,11 +2024,11 @@
    id="text17549"><tspan
      id="tspan17547">52341 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="52341_5"
    d="M 337.766661,69 327.374356,75" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="52341_2"
    d="M 329.106407,69 329.106407,78" />
 <path
@@ -2053,11 +2053,11 @@
    id="text17559"><tspan
      id="tspan17557">52431 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="52431_5"
    d="M 337.766661,90 327.374356,96" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="52431_2"
    d="M 329.106407,90 329.106407,99" />
 <path
@@ -2082,11 +2082,11 @@
    id="text17569"><tspan
      id="tspan17567">53241 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="53241_5"
    d="M 362.016661,6 351.624356,12" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="53241_3"
    d="M 355.954483,4.5 353.356407,15" />
 <path
@@ -2111,11 +2111,11 @@
    id="text17579"><tspan
      id="tspan17577">53421 </tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="53421_5"
    d="M 362.016661,27 351.624356,33" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="53421_3"
    d="M 355.954483,25.5 353.356407,36" />
 <path
@@ -2140,11 +2140,11 @@
    id="text17589"><tspan
      id="tspan17587">54321 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0000FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="54321_5"
    d="M 362.016661,48 351.624356,54" />
 <path
-   style="fill:none;stroke:#00FF00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="54321_4"
    d="M 359.418584,46.5 353.356407,57" />
 <path

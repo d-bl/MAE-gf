@@ -42,20 +42,19 @@ snowflakes in Binche are usually 4-pair or 6-pair crossings.
 
 To start the exploration we calculate the number of ways 
 the sequence of pairs can change after completing a crossing. 
-Mathematicians call that permutations. The bouncing is explained in another section.
-The calculation/counting results: 
+Mathematicians call that permutations. 
+The following table shows the number of options for different numbers of pairs involved in a crossing. 
+Reflections are options that are the same after mirroring horizontally, vertically or rotating upside down.
+The bouncing and other details are explained in following sections.
 
-|                   pairs |    2 |    3 |  4 |   5 |   6 |    7 |     8 |      9 |
-|------------------------:|-----:|-----:|---:|----:|----:|-----:|------:|-------:|
-|       factorial or _n!_ |    2 |    6 | 24 | 120 | 720 | 5040 | 40320 | 362880 | 
-|       minus reflections |    1 |    4 | 13 |  45 | 230 | 1388 | 10558 |  92126 |
-|  one pair bouncing once | n.a. |    3 | 12 | 281 | 325 |    ? |     ? |      ? |
-|      two bouncing pairs | n.a. | n.a. |  4 |   ? |  93 |    ? |     ? |      ? |
-| one pair bouncing twice | n.a. | n.a. |  2 |   ? |  56 |    ? |     ? |      ? |
+|                   pairs |    2 |    3 |                 4 |   5 |   6 |    7 |     8 |      9 |
+|------------------------:|-----:|-----:|------------------:|----:|----:|-----:|------:|-------:|
+|       factorial or _n!_ |    2 |    6 |                24 | 120 | 720 | 5040 | 40320 | 362880 | 
+|       minus reflections |    1 |    4 |                13 |  45 | 230 | 1388 | 10558 |  92126 |
+|  one pair bouncing once | n.a. |    3 |                12 | 281 | 325 |    ? |     ? |      ? |
+|      two bouncing pairs | n.a. | n.a. | ~~&nbsp;4&nbsp;~~ |   ? |  93 |    ? |     ? |      ? |
+| one pair bouncing twice | n.a. | n.a. |                 2 |   ? |  56 |    ? |     ? |      ? |
 
-
-Reflections: 
-options that are the same after mirroring horizontally, vertically or rotating upside down.
 
 The same changed sequence of pairs can be achieved in many ways by pairs taking other routes than straight ones.
 We call it a family of crossings when the pairs end and start in the same sequence.
@@ -129,7 +128,7 @@ After filtering reflected versions we still have 230 options.
 20 have internal bdpq reflections, another 28 have only bd reflections and 28 have bp.
 
 [text](permutations-for-6.txt)  
-![](all-in-before-any-out.svg)  
+![](6-pair-permutations.svg)  
 
 
 ### Bouncing once
@@ -140,7 +139,7 @@ Five options for each option to let one pair bounce gives 365 options.
 However, swapped pairs in permutations marked with `bp` cause duplicates.
 We expect to end up with 365-40=325, a challenge left for you, please share your results.
 
-![](5-pairs-to-bounce-into-6.svg)
+![](6-pairs-from-5.svg)
 
 ### Bouncing twice
 
@@ -154,7 +153,7 @@ Below the ribbon we have 4x2 options of a pair bouncing to both sides, x2 becaus
 That gives another 56.
 The groups add up to 149.
 
-![](two-out-before-in.svg)
+![](6-pairs-from-4.svg)
 
 5 pairs / threads
 -----------------
@@ -168,7 +167,7 @@ With one bouncing pair we have (4x3x2 - bp reflections) = 17 options.
 Each having 4 pairs to bounce minus 11 
 swapped pairs in bp tagged options we expect 281 family heads.
 
-![](4-pairs-to-bounce-into-5.svg)
+![](5-prairs-from4.svg)
 
 For two bouncing pairs we can use the plain family heads for 3 pairs. 
 Again the challenge to explore the bouncing and eliminate duplicates is left to you.
@@ -191,10 +190,13 @@ With one bouncing pair we have (3x2 - bp reflections) = 5 options
 as shown on the left in the grey ribbon.
 Each having 3 pairs to bounce minus 3 
 swapped pairs in bp tagged options we expect 12 family heads.
-On the right 2 pairs are turned into 4 pair crossing using bouncing.
-Below the ribbon we have the family heads.
+On the right side of the ribbon 2 pairs are turned into 4 pair crossing using bouncing.
+Below the ribbon we have the family heads. 
+Beyond the ribbon we try some family members, with two bouncing pairs
+we can only create a sequence of (Brussels) stitches, so we have to dismiss these permutations as family heads.
+The dismissed and duplicate-by-reflection options are shown faint. We may have to dismiss more.
 
-![](3-pairs-to-bounce-into-4.svg)
+![](4-pairs-from-3.svg)
 
 
 3 pairs
@@ -246,36 +248,7 @@ that two lines of the same color cross one another.
 ![](numbering-method.svg)
 
 
-### Choose stitches
-
-The last step is choose stitches for a thread diagram. 
-For that purpose we can interpret the diagrams as thread diagrams and use the droste page of GroundForge. 
-We can analyse the stitches by marking them with blobs. Below two solutions for one snowflake:
-
-![](blobs.svg)  
-
-Requirements for the blobs: span 4 threads, threads flow two by two into adjacent blobs. 
-Not all blobs need to have a crossing for all of its four threads as shown in the 6-blobs solution.
-
-The diagrams below as PDF-s:
-with [4-blobs](4-blobs.pdf),
-with [6-blobs](6-blobs.pdf).  
-![](droste.png)
-
-You can assign the thus discovered stitches to one of the templates for 
-[2](/GroundForge/stitches?patchWidth=7&patchHeight=9&tile=-5-5-5,5-5-5-,-5-5-5,5-5-5-,&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=6&shiftRowsSE=4&f1=ctc&d1=ctc&b1=ctc&e2=ctc&c2=ctc&a2=ctc&f3=tct&d3=ctc&b3=tct&e4=lct&c4=rct&a4=ctc&droste2=),
-[4](/GroundForge/stitches?patchWidth=7&patchHeight=9&tile=5-C-B-,-5-5-5,5-5-5-,-5-5-5,--5-5-,-B---C,&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6&e1=ct&c1=ct&a1=rrctctt&f2=llctctt&d2=ttctctt&b2=rrctctt&e3=ctctt&c3=ctctt&a3=ctctt&f4=ct&d4=ctctt&b4=ct&e5=ct&c5=ct&f6=ct&b6=ct),
-[5](/GroundForge/stitches?patchWidth=7&patchHeight=9&tile=-B-5-C,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6&f1=ct&d1=ttctctt&b1=ct&e2=rrctctt&c2=llctctt&a2=ttctctt&f3=ct&d3=ctctt&b3=ct&e4=ct&c4=ct&f5=ct&b5=ct&e6=ct&c6=ct),
-[6](/GroundForge/stitches?patchWidth=7&patchHeight=11&tile=5-C-B-,-5-5-5,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C,&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=6&shiftRowsSE=8&e1=ct&c1=ct&a1=rrctctt&f2=llctctt&d2=ttctctt&b2=rrctctt&e3=ctctt&c3=ctctt&a3=ctctt&f4=ct&d4=ctctt&b4=ct&e5=ct&c5=ct&f6=ct&b6=ct&e7=ct&c7=ct&f8=ct&b8=ct),
-[7](/GroundForge/stitches?patchWidth=7&patchHeight=13&tile=-B-5-C,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C,--C-B-,&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=6&shiftRowsSE=8&f1=ct&d1=ttctctt&b1=ct&e2=rrctctt&c2=llctctt&a2=rrctctt&f3=ct&d3=ctctt&b3=ct&e4=ct&c4=ct&f5=ct&b5=ct&e6=ct&c6=ct&f7=ct&b7=ct&e8=ct&c8=ct),
-[8](/GroundForge/stitches?patchWidth=7&patchHeight=13&tile=5-C-B-,-5-5-5,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C,--C-B-,-B---C,&shiftColsSW=0&shiftRowsSW=10&shiftColsSE=6&shiftRowsSE=10&e1=ct&c1=ct&a1=llctctt&f2=llctctt&d2=ttctctt&b2=rrctctt&e3=ctctt&c3=ctctt&a3=ctctt&f4=ct&d4=ctctt&b4=ct&e5=ct&c5=ct&f6=ct&b6=ct&e7=ct&c7=ct&f8=ct&b8=ct&e9=ct&c9=ct&f10=ct&b10=ct),
-[9](/GroundForge/stitches?patchWidth=7&patchHeight=13&tile=-B-5-C,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C,--C-B-,-B---C,--C-B-,&shiftColsSW=0&shiftRowsSW=10&shiftColsSE=6&shiftRowsSE=10&f1=ct&d1=ttctctt&b1=ct&e2=rrctctt&c2=llctctt&a2=ttctctt&f3=ct&d3=ctctt&b3=ct&e4=ct&c4=ct&f5=ct&b5=ct&e6=ct&c6=ct&f7=ct&b7=ct&e8=ct&c8=ct&f9=ct&b9=ct&e10=ct&c10=ct),
-...
-stitches/blobs. Is the first blob on the right? Then replace the half stitches in the right plait. Vice versa for left.
-Last step: follow the link "_thread diagram as pair diagram_" for a thread diagram of the snowflake and choose your stitches.  
-
-Compose grounds
----------------
+### Compose grounds
 
 A bit beyond the subject of counting snowflakes is assembling grounds. 
 Our focus is on 6-pair snowflakes. They can be connected directly, via plaits, framed in Paris grounds or whatever.
@@ -292,3 +265,33 @@ The bouncing variations can also be represented as follows:
 Red are incoming pairs, blue are leaving pairs. 
 Above we counted in how many ways we can connect each red line to a blue line within the same circle. 
 Outside the circles we also should not connect red with red or blue with blue without some exchange.
+
+### Choose stitches
+
+The last step is choose stitches for a thread diagram. 
+To prepare for tha step we can interpret the diagrams as thread diagrams and use the droste page of GroundForge. 
+We can analyse the stitches by marking them with blobs. Below two solutions for one snowflake:
+
+![](blobs.svg)  
+
+Requirements for the blobs: span 4 threads, threads flow two by two into adjacent blobs. 
+Not all blobs need to have an interaction for all of its four threads as shown in the 6-blobs solution.
+
+The screenshot below as [PDF](blobs-6.pdf) and also a variant with [4 blobs](blobs-4.pdf).
+Note that the line per blob may vary in length, depending on the number of actions in a blob,
+a twist counts as two actions.
+The tooltip helps to change the applicable cloth stitches into something else.   
+![](droste.png)
+
+You can assign the thus discovered stitches to one of the templates for 
+[2](/GroundForge/stitches.html?patchWidth=7&patchHeight=6&tile=-5-5-5,5-5-5-,-5-5-5,5-5-5-,&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=6&shiftRowsSE=4&f1=ctctt&d1=ctctt&b1=ctctt&e2=ctctt&c2=ctctt&a2=ctctt&f3=ctr&d3=ctctt&b3=ctl&e4=ctt&c4=ctt&a4=ctctt&droste2=ctct,b30=b31=b32=c40=c41=c42=ctc,f30=f31=f32=e40=e41=e42=ctc),
+[3](/GroundForge/stitches.html?patchWidth=7&patchHeight=7&tile=5-5-5-,-5-5-5,5-5-5-,-5---5,5-C-B-,-5-5-5,&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6&e1=ctctt&c1=ctctt&a1=ctctt&f2=ctctt&d2=ctctt&b2=ctctt&e3=ct&c3=ct&a3=ctctt&f4=ctr&b4=ctl&e5=ctt&c5=ctt&a5=ctctt&f6=ctctt&d6=ctctt&b6=ctctt&droste2=ctct,c30=c31=c32=b40=b41=b42=c50=c51=c52=ctc,e30=e31=e32=f40=f41=f42=e50=e51=e52=ctc,c51=c52=ctct,b40=ctcl),
+[4](/GroundForge/stitches?patchWidth=7&patchHeight=9&tile=5-C-B-,-5-5-5,5-5-5-,-5-5-5,--5-5-,-B---C,&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6&e1=ct&c1=ct&a1=rrctctt&f2=llctctt&d2=ttctctt&b2=rrctctt&e3=ctctt&c3=ctctt&a3=ctctt&f4=ct&d4=ctctt&b4=ct&e5=ct&c5=ct&f6=ct&b6=ct),
+[5](/GroundForge/stitches?patchWidth=7&patchHeight=9&tile=-B-5-C,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6&f1=ct&d1=ttctctt&b1=ct&e2=rrctctt&c2=llctctt&a2=ttctctt&f3=ct&d3=ctctt&b3=ct&e4=ct&c4=ct&f5=ct&b5=ct&e6=ct&c6=ct),
+[6](/GroundForge/stitches?patchWidth=7&patchHeight=11&tile=5-C-B-,-5-5-5,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C,&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=6&shiftRowsSE=8&e1=ct&c1=ct&a1=rrctctt&f2=llctctt&d2=ttctctt&b2=rrctctt&e3=ctctt&c3=ctctt&a3=ctctt&f4=ct&d4=ctctt&b4=ct&e5=ct&c5=ct&f6=ct&b6=ct&e7=ct&c7=ct&f8=ct&b8=ct),
+[7](/GroundForge/stitches?patchWidth=7&patchHeight=13&tile=-B-5-C,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C,--C-B-,&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=6&shiftRowsSE=8&f1=ct&d1=ttctctt&b1=ct&e2=rrctctt&c2=llctctt&a2=rrctctt&f3=ct&d3=ctctt&b3=ct&e4=ct&c4=ct&f5=ct&b5=ct&e6=ct&c6=ct&f7=ct&b7=ct&e8=ct&c8=ct),
+[8](/GroundForge/stitches?patchWidth=7&patchHeight=13&tile=5-C-B-,-5-5-5,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C,--C-B-,-B---C,&shiftColsSW=0&shiftRowsSW=10&shiftColsSE=6&shiftRowsSE=10&e1=ct&c1=ct&a1=llctctt&f2=llctctt&d2=ttctctt&b2=rrctctt&e3=ctctt&c3=ctctt&a3=ctctt&f4=ct&d4=ctctt&b4=ct&e5=ct&c5=ct&f6=ct&b6=ct&e7=ct&c7=ct&f8=ct&b8=ct&e9=ct&c9=ct&f10=ct&b10=ct),
+[9](/GroundForge/stitches?patchWidth=7&patchHeight=13&tile=-B-5-C,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C,--C-B-,-B---C,--C-B-,&shiftColsSW=0&shiftRowsSW=10&shiftColsSE=6&shiftRowsSE=10&f1=ct&d1=ttctctt&b1=ct&e2=rrctctt&c2=llctctt&a2=ttctctt&f3=ct&d3=ctctt&b3=ct&e4=ct&c4=ct&f5=ct&b5=ct&e6=ct&c6=ct&f7=ct&b7=ct&e8=ct&c8=ct&f9=ct&b9=ct&e10=ct&c10=ct),
+...
+stitches/blobs. Is the first blob on the right? Then replace the half stitches in the right plait. Vice versa for left.
+Last step: follow the link "_thread diagram as pair diagram_" for a thread diagram of the snowflake and choose your stitches.  

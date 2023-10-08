@@ -24,15 +24,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.6010883"
-     inkscape:cx="222.97333"
-     inkscape:cy="44.032549"
-     inkscape:window-width="1680"
-     inkscape:window-height="990"
+     inkscape:zoom="2.8601442"
+     inkscape:cx="217.12192"
+     inkscape:cy="43.878906"
+     inkscape:window-width="1920"
+     inkscape:window-height="1140"
      inkscape:window-x="0"
      inkscape:window-y="36"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="1234"
      showguides="true"
      inkscape:pageshadow="2"><inkscape:grid
    type="axonomgrid"
@@ -61,11 +61,11 @@
    id="text1839"><tspan
      id="tspan1837">1234 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0000ff;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="1234_1"
    d="M 12,4 V 16" />
 <path
-   style="fill:none;stroke:#00ff00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="1234_2"
    d="M 15,4 V 16" />
 <path
@@ -86,11 +86,11 @@
    id="text1848"><tspan
      id="tspan1846">1243 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0000ff;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="1243_1"
    d="M 12,25 V 37" />
 <path
-   style="fill:none;stroke:#00ff00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="1243_2"
    d="M 15,25 V 37" />
 <path
@@ -111,11 +111,11 @@
    id="text1857"><tspan
      id="tspan1855">1324 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0000ff;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="1324_1"
    d="M 36.25,4 V 16" />
 <path
-   style="fill:none;stroke:#00ff00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="1324_3"
    d="m 42.25,4 -3,12" />
 <path
@@ -136,11 +136,11 @@
    id="text1866"><tspan
      id="tspan1864">1342 </tspan></text>
 <path
-   style="fill:none;stroke:#0000ff;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="1342_1"
    d="M 36.25,25 V 37" />
 <path
-   style="fill:none;stroke:#00ff00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="1342_3"
    d="m 42.25,25 -3,12" />
 <path
@@ -161,11 +161,11 @@
    id="text1875"><tspan
      id="tspan1873">1432 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0000ff;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="1432_1"
    d="M 60.5,4 V 16" />
 <path
-   style="fill:none;stroke:#00ff00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="1432_4"
    d="m 69.5,4 -6,12" />
 <path
@@ -186,11 +186,11 @@
    id="text1884"><tspan
      id="tspan1882">2134 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0000ff;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="2134_2"
    d="m 63.5,25 -3,12" />
 <path
-   style="fill:none;stroke:#00ff00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="2134_1"
    d="m 60.5,25 3,12" />
 <path
@@ -211,11 +211,11 @@
    id="text1893"><tspan
      id="tspan1891">2143 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0000ff;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="2143_2"
    d="m 87.75,4 -3,12" />
 <path
-   style="fill:none;stroke:#00ff00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="2143_1"
    d="m 84.75,4 3,12" />
 <path
@@ -236,11 +236,11 @@
    id="text1902"><tspan
      id="tspan1900">2314 </tspan></text>
 <path
-   style="fill:none;stroke:#0000ff;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="2314_2"
    d="m 87.75,25 -3,12" />
 <path
-   style="fill:none;stroke:#00ff00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="2314_3"
    d="m 90.75,25 -3,12" />
 <path
@@ -261,11 +261,11 @@
    id="text1911"><tspan
      id="tspan1909">2341 </tspan></text>
 <path
-   style="fill:none;stroke:#0000ff;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="2341_2"
    d="m 112,4 -3,12" />
 <path
-   style="fill:none;stroke:#00ff00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="2341_3"
    d="m 115,4 -3,12" />
 <path
@@ -286,11 +286,11 @@
    id="text1920"><tspan
      id="tspan1918">2413 bd</tspan></text>
 <path
-   style="fill:none;stroke:#0000ff;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="2413_2"
    d="m 112,25 -3,12" />
 <path
-   style="fill:none;stroke:#00ff00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="2413_4"
    d="m 118,25 -6,12" />
 <path
@@ -311,11 +311,11 @@
    id="text1929"><tspan
      id="tspan1927">2431 </tspan></text>
 <path
-   style="fill:none;stroke:#0000ff;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="2431_2"
    d="m 136.25,4 -3,12" />
 <path
-   style="fill:none;stroke:#00ff00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="2431_4"
    d="m 142.25,4 -6,12" />
 <path
@@ -336,11 +336,11 @@
    id="text1938"><tspan
      id="tspan1936">3214 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0000ff;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="3214_3"
    d="m 139.25,25 -6,12" />
 <path
-   style="fill:none;stroke:#00ff00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="3214_2"
    d="M 136.25,25 V 37" />
 <path
@@ -361,11 +361,11 @@
    id="text1947"><tspan
      id="tspan1945">3241 </tspan></text>
 <path
-   style="fill:none;stroke:#0000ff;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="3241_3"
    d="m 163.5,4 -6,12" />
 <path
-   style="fill:none;stroke:#00ff00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="3241_2"
    d="M 160.5,4 V 16" />
 <path
@@ -386,11 +386,11 @@
    id="text1956"><tspan
      id="tspan1954">3412 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0000ff;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="3412_3"
    d="m 163.5,25 -6,12" />
 <path
-   style="fill:none;stroke:#00ff00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="3412_4"
    d="m 166.5,25 -6,12" />
 <path
@@ -411,11 +411,11 @@
    id="text1965"><tspan
      id="tspan1963">3421 </tspan></text>
 <path
-   style="fill:none;stroke:#0000ff;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="3421_3"
    d="m 187.75,4 -6,12" />
 <path
-   style="fill:none;stroke:#00ff00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="3421_4"
    d="m 190.75,4 -6,12" />
 <path
@@ -436,11 +436,11 @@
    id="text1974"><tspan
      id="tspan1972">4231 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0000ff;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="4231_4"
    d="m 190.75,25 -9,12" />
 <path
-   style="fill:none;stroke:#00ff00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="4231_2"
    d="M 184.75,25 V 37" />
 <path
@@ -461,11 +461,11 @@
    id="text1983"><tspan
      id="tspan1981">4321 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0000ff;stroke-width:0.8px"
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
    id="4321_4"
    d="m 215,4 -9,12" />
 <path
-   style="fill:none;stroke:#00ff00;stroke-width:0.8px"
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
    id="4321_3"
    d="m 212,4 -3,12" />
 <path

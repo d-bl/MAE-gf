@@ -46,7 +46,7 @@ def print_perms(s):
 
 
 def draw_perms(nr_of_rows, start_order_of_pairs, perms, points):
-    colors = ["#0000FF", "#00FF00", "#FF0000", "#000000", "#9955FF", "#EEEE00"]
+    colors = ["#0080FF", "#2CA02C", "#FF0000", "#000000", "#9955FF", "#FFB380"]
     nr_of_pairs = len(start_order_of_pairs)  # should match nr of lines in points
     for perm_nr in range(len(perms)):
         end_order_of_pairs = perms[perm_nr]
