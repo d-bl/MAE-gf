@@ -277,12 +277,6 @@ We can analyse the stitches by marking them with blobs. Below two solutions for 
 Requirements for the blobs: span 4 threads, threads flow two by two into adjacent blobs. 
 Not all blobs need to have an interaction for all of its four threads as shown in the 6-blobs solution.
 
-The screenshot below as [PDF](blobs-6.pdf) and also a variant with [4 blobs](blobs-4.pdf).
-Note that the line per blob may vary in length, depending on the number of actions in a blob,
-a twist counts as two actions.
-The tooltip helps to change the applicable cloth stitches into something else.   
-![](droste.png)
-
 You can assign the thus discovered stitches to one of the templates for 
 [2](/GroundForge/stitches.html?patchWidth=7&patchHeight=6&tile=-5-5-5,5-5-5-,-5-5-5,5-5-5-,&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=6&shiftRowsSE=4&f1=ctctt&d1=ctctt&b1=ctctt&e2=ctctt&c2=ctctt&a2=ctctt&f3=ctr&d3=ctctt&b3=ctl&e4=ctt&c4=ctt&a4=ctctt&droste2=ctct,b30=b31=b32=c40=c41=c42=ctc,f30=f31=f32=e40=e41=e42=ctc),
 [3](/GroundForge/stitches.html?patchWidth=7&patchHeight=7&tile=5-5-5-,-5-5-5,5-5-5-,-5---5,5-C-B-,-5-5-5,&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6&e1=ctctt&c1=ctctt&a1=ctctt&f2=ctctt&d2=ctctt&b2=ctctt&e3=ct&c3=ct&a3=ctctt&f4=ctr&b4=ctl&e5=ctt&c5=ctt&a5=ctctt&f6=ctctt&d6=ctctt&b6=ctctt&droste2=ctct,c30=c31=c32=b40=b41=b42=c50=c51=c52=ctc,e30=e31=e32=f40=f41=f42=e50=e51=e52=ctc,c51=c52=ctct,b40=ctcl),
@@ -292,6 +286,12 @@ You can assign the thus discovered stitches to one of the templates for
 [7](/GroundForge/stitches?patchWidth=7&patchHeight=13&tile=-B-5-C,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C,--C-B-,&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=6&shiftRowsSE=8&f1=ct&d1=ttctctt&b1=ct&e2=rrctctt&c2=llctctt&a2=rrctctt&f3=ct&d3=ctctt&b3=ct&e4=ct&c4=ct&f5=ct&b5=ct&e6=ct&c6=ct&f7=ct&b7=ct&e8=ct&c8=ct),
 [8](/GroundForge/stitches?patchWidth=7&patchHeight=13&tile=5-C-B-,-5-5-5,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C,--C-B-,-B---C,&shiftColsSW=0&shiftRowsSW=10&shiftColsSE=6&shiftRowsSE=10&e1=ct&c1=ct&a1=llctctt&f2=llctctt&d2=ttctctt&b2=rrctctt&e3=ctctt&c3=ctctt&a3=ctctt&f4=ct&d4=ctctt&b4=ct&e5=ct&c5=ct&f6=ct&b6=ct&e7=ct&c7=ct&f8=ct&b8=ct&e9=ct&c9=ct&f10=ct&b10=ct),
 [9](/GroundForge/stitches?patchWidth=7&patchHeight=13&tile=-B-5-C,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C,--C-B-,-B---C,--C-B-,&shiftColsSW=0&shiftRowsSW=10&shiftColsSE=6&shiftRowsSE=10&f1=ct&d1=ttctctt&b1=ct&e2=rrctctt&c2=llctctt&a2=ttctctt&f3=ct&d3=ctctt&b3=ct&e4=ct&c4=ct&f5=ct&b5=ct&e6=ct&c6=ct&f7=ct&b7=ct&e8=ct&c8=ct&f9=ct&b9=ct&e10=ct&c10=ct),
-...
-stitches/blobs. Is the first blob on the right? Then replace the half stitches in the right plait. Vice versa for left.
+... stitches/blobs.
+Is the first blob on the right? Then replace the half stitches in the right plait. Vice versa for left.
 Last step: follow the link "_thread diagram as pair diagram_" for a thread diagram of the snowflake and choose your stitches.  
+
+The screenshot below as [PDF](blobs-6.pdf) and also a variant with [4 blobs](blobs-4.pdf).
+Note that the line per blob may vary in length, depending on the number of actions in a blob,
+a twist counts as two actions.
+The tooltip helps to change the applicable cloth stitches into something else.   
+![](droste.png)
