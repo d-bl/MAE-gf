@@ -269,7 +269,7 @@ Outside the circles we also should not connect red with red or blue with blue wi
 ### Choose stitches
 
 The last step is choose stitches for a thread diagram. 
-To prepare for tha step we can interpret the diagrams as thread diagrams and use the droste page of GroundForge. 
+To prepare for that step we can interpret the diagrams as thread diagrams and use the droste page of GroundForge. 
 We can analyse the stitches by marking them with blobs. Below two solutions for one snowflake:
 
 ![](blobs.svg)  
@@ -285,13 +285,17 @@ You can assign the thus discovered stitches to one of the templates for
 [6](/GroundForge/stitches?patchWidth=7&patchHeight=11&tile=5-C-B-,-5-5-5,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C,&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=6&shiftRowsSE=8&e1=ct&c1=ct&a1=rrctctt&f2=llctctt&d2=ttctctt&b2=rrctctt&e3=ctctt&c3=ctctt&a3=ctctt&f4=ct&d4=ctctt&b4=ct&e5=ct&c5=ct&f6=ct&b6=ct&e7=ct&c7=ct&f8=ct&b8=ct),
 [7](/GroundForge/stitches?patchWidth=7&patchHeight=13&tile=-B-5-C,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C,--C-B-,&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=6&shiftRowsSE=8&f1=ct&d1=ttctctt&b1=ct&e2=rrctctt&c2=llctctt&a2=rrctctt&f3=ct&d3=ctctt&b3=ct&e4=ct&c4=ct&f5=ct&b5=ct&e6=ct&c6=ct&f7=ct&b7=ct&e8=ct&c8=ct),
 [8](/GroundForge/stitches?patchWidth=7&patchHeight=13&tile=5-C-B-,-5-5-5,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C,--C-B-,-B---C,&shiftColsSW=0&shiftRowsSW=10&shiftColsSE=6&shiftRowsSE=10&e1=ct&c1=ct&a1=llctctt&f2=llctctt&d2=ttctctt&b2=rrctctt&e3=ctctt&c3=ctctt&a3=ctctt&f4=ct&d4=ctctt&b4=ct&e5=ct&c5=ct&f6=ct&b6=ct&e7=ct&c7=ct&f8=ct&b8=ct&e9=ct&c9=ct&f10=ct&b10=ct),
-[9](/GroundForge/stitches?patchWidth=7&patchHeight=13&tile=-B-5-C,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C,--C-B-,-B---C,--C-B-,&shiftColsSW=0&shiftRowsSW=10&shiftColsSE=6&shiftRowsSE=10&f1=ct&d1=ttctctt&b1=ct&e2=rrctctt&c2=llctctt&a2=ttctctt&f3=ct&d3=ctctt&b3=ct&e4=ct&c4=ct&f5=ct&b5=ct&e6=ct&c6=ct&f7=ct&b7=ct&e8=ct&c8=ct&f9=ct&b9=ct&e10=ct&c10=ct),
-... stitches/blobs.
-Is the first blob on the right? Then replace the half stitches in the right plait. Vice versa for left.
-Last step: follow the link "_thread diagram as pair diagram_" for a thread diagram of the snowflake and choose your stitches.  
+[9](/GroundForge/stitches.html?patchWidth=7&patchHeight=13&tile=-B-5-C,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C,--C-B-,-B---C,--C-B-,&shiftColsSW=0&shiftRowsSW=10&shiftColsSE=6&shiftRowsSE=10&f1=cl&d1=ttctc&b1=cr&e2=rctcrr&c2=lctcll&a2=ttctctt&f3=ct&d3=ctctt&b3=ct&e4=ct&c4=ct&f5=ct&b5=ct&e6=ct&c6=ct&f7=ct&b7=ct&e8=ct&c8=ct&f9=ct&b9=ct&e10=cr&c10=cl),
+... stitches/blobs, see figure (a). 
+Is the first blob on the right? Then replace the half stitches in the right plait as in figure (b). Vice versa for left.
 
-The screenshot below as [PDF](blobs-6.pdf) and also a variant with [4 blobs](blobs-4.pdf).
+Last step: follow the link "_thread diagram as pair diagram_" for a thread diagram of the snowflake and choose your stitches as shown in figure (c).
 Note that the line per blob may vary in length, depending on the number of actions in a blob,
 a twist counts as two actions.
 The tooltip helps to change the applicable cloth stitches into something else.   
-![](droste.png)
+
+|   ![](drosteA.png) |     ![](drosteB.png) |                          ![](drosteC.png) |
+|-------------------:|---------------------:|------------------------------------------:|
+|           figure a |             figure b |  figure c (droste; as [PDF](blobs-6.pdf)) |
+
+Variant of figure (c) with [4 blobs](blobs-4.pdf).
