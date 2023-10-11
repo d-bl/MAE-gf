@@ -291,9 +291,9 @@ Is the first blob on the right? Then replace the half stitches in the right plai
 Last step: follow the link "_thread diagram as pair diagram_" for a thread diagram of the snowflake and choose your stitches as shown in figure (c).
 
 
-| ![](droste-A.png) | ![](droste-B.png) |                       ![](droste-C4.png) |
-|------------------:|------------------:|-----------------------------------------:|
-|          figure a |          figure b |         figure c (as [PDF](blobs-4.pdf)) |
+| ![](droste-A.png)  | ![](droste-B.png)  | ![](droste-C4.png)                        |
+|:-------------------|:-------------------|:------------------------------------------|
+| figure a           | figure b           | figure c (as [PDF](blobs-4.pdf))          |
 
 Below a screenshot of a [PDF](blobs-6.pdf) for 6 blobs.
 
