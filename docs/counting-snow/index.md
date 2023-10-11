@@ -28,8 +28,8 @@ Contents
   * [2 pairs](#2-pairs)
   * [Exploring families](#exploring-families)
     * [Pair diagrams](#pair-diagrams)
+    * [Compose grounds](#compose-grounds)
     * [Choose stitches](#choose-stitches)
-  * [Compose grounds](#compose-grounds)
 
 Introduction
 ------------
