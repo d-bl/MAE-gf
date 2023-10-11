@@ -220,7 +220,6 @@ Use your own creativity to create more family members. [More...](../misca#3-pair
 Bobbin lace makers are used to call two pair crossings stitches,
 these are explored on [Listing & counting stitches](../counting).
 
-
 Exploring families
 ------------------
 
