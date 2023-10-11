@@ -97,6 +97,8 @@ With main stream browsers you can right-click the images on this page to save th
 You can use  a vector editor like Inkscape, Adobe Illustrator and many others, to modify images with extension SVG. 
 For example to make the straight lines squiggle into different pair diagrams or show what is beyond the visible area. 
 
+Another option after right-click is _open in new tab_, that would allow you to select and copy text from the image.
+
 ### Look up of snowflakes
 
 Some sets of permutations are also provided as text files, grouped by reflections. 
@@ -182,6 +184,8 @@ Without any pretension to be exhaustive,
 we show one or two members for each family by squiggling pairs.
 Some of these members are common in traditional lace.
 Swapping starts and/or ends means dealing with another family. 
+The captions of family members interpret the diagrams as thread diagrams,
+so you can as well turn to  [Listing & counting stitches](../counting) to explore options.
 
 [text](permutations-for-4.txt)  
 ![](4-pair-permutations.svg)
@@ -269,8 +273,34 @@ Outside the circles we also should not connect red with red or blue with blue wi
 ### Choose stitches
 
 The last step is choose stitches for a thread diagram. 
-To prepare for that step we can interpret the diagrams as thread diagrams and use the droste page of GroundForge. 
-We can analyse the stitches by marking them with blobs. Below two solutions for one snowflake:
+To prepare for that step we can interpret the diagrams of family members as thread diagrams 
+and use the droste page of GroundForge. 
+So far no recipes for bouncing pairs.
+
+#### 3 pairs
+
+Just an example: member 
+[lclclc](/GroundForge/droste.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=https://d-bl.github.io/GroundForge/droste.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=lclclc&droste2=ctc&droste2=ctc)
+of the family 123.
+
+Stitches with three pairs are not very logical for a seasoned bobbin lace maker,
+It means consistently either no right twists or no left twists. 
+GroundForge can handle it, it shows starting pins for each 4th thread but no thread.
+Using these basic thread diagrams as pair diagrams (droste effect) is explained in more detail for six pairs. 
+
+#### 4 pairs
+
+The two examples are chosen because one has two twists were the other has just one.
+The pair diagrams for [ctcttctc](/GroundForge/stitches.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=ctcttctc)
+and [ctctctc](/GroundForge/stitches.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=ctctctc)
+lead to identical diagrams at the droste page.
+This is because GroundForge considers anything done with just two pairs (like ctc-pin-ctc) as a single stitch.
+
+![](same-drostes.svg)
+
+#### 6 pairs
+
+We can analyse stitches by marking them with blobs in a diagram. Below two solutions for one snowflake:
 
 ![](blobs.svg)  
 
