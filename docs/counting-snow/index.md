@@ -271,21 +271,55 @@ Outside the circles we also should not connect red with red or blue with blue wi
 
 ### Choose stitches
 
-The last step is choose stitches for a thread diagram. 
+The last step to explore snowflakes and other crossings is to choose stitches for a thread diagram. 
 To prepare for that step we can interpret the diagrams of family members as thread diagrams 
 and use the droste page of GroundForge. 
-So far no recipes for bouncing pairs.
+So far only recipes without bouncing pairs.
 
-#### 3 pairs
+#### 6 pairs
 
-Just an example: member 
-[lclclc](/GroundForge/droste.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=https://d-bl.github.io/GroundForge/droste.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=lclclc&droste2=ctc&droste2=ctc)
-of the family 123.
+![](blobs.svg?align=right)  
 
-Stitches with three pairs are not very logical for a seasoned bobbin lace maker,
-It means consistently either no right twists or no left twists. 
-GroundForge can handle it, it shows starting pins for each 4th thread but no thread.
-Using these basic thread diagrams as pair diagrams (droste effect) is explained in more detail for six pairs. 
+We can analyse stitches in a diagram by marking them with blobs. 
+On the right a solution for one snowflake of the 563412 family.
+
+Requirements for the blobs: span 4 threads, threads flow two by two into adjacent blobs. 
+Not all blobs need to have an interaction for all of its four threads as shown in the 6-blobs solution.
+
+Start with a template from the table below that corresponds with the set of blobs.
+Giving stitches a color in the first thread diagram (as shown in the screenshot below the table) 
+can help to compare distorted diagrams and detect possible mistakes in your analysis.
+The tooltips in the second pair diagram helps to fill in the text box with desired stitches.
+The identifiers in the last thread diagram have an extra digit, 
+those tooltips can also help to apply corrections. 
+PLease don't rely on twist marks in the pair diagrams, they are buggy.
+
+
+| first blob on the ... | number of blobs                                                        |
+|----------------------:|:-----------------------------------------------------------------------|
+|                 right | [2][r2], [3][r3], [4][r4], [5][r5], [6][r6], [7][r7], [8][r8], [9][r9] | 
+|                  left | [2][l2], [3][l3], [4][l4], [5][l5], [6][l6], [7][l7], [8][l8], [9][l9] | 
+
+
+![](blobs-drostes.png?align=right)
+
+[l2]: GroundForge/droste?b1=lc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
+[r2]: GroundForge/droste?b1=rc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
+[l3]: GroundForge/droste?b1=lcl&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
+[r3]: GroundForge/droste?b1=rcr&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
+[l4]: GroundForge/droste?b1=lclc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
+[r4]: GroundForge/droste?b1=rcrc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
+[l5]: GroundForge/droste?b1=lclc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
+[r5]: GroundForge/droste?b1=rcrc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
+[l6]: GroundForge/droste?b1=lclc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
+[r6]: GroundForge/droste?b1=rcrc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
+[l7]: GroundForge/droste?b1=lclc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
+[r7]: GroundForge/droste?b1=rcrc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
+[l8]: GroundForge/droste?b1=lclc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
+[r8]: GroundForge/droste?b1=rcrc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
+[l9]: GroundForge/droste?b1=lclc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
+[r9]: GroundForge/droste?b1=rcrc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
+
 
 #### 4 pairs
 
@@ -297,44 +331,13 @@ This is because GroundForge considers anything done with just two pairs (like ct
 
 ![](same-drostes.svg)
 
-#### 6 pairs
+#### 3 pairs
 
-We can analyse stitches by marking them with blobs in a diagram. Below two solutions for one snowflake:
+Just an example: member 
+[lclclc](/GroundForge/droste.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=https://d-bl.github.io/GroundForge/droste.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=lclclc&droste2=ctc&droste2=ctc)
+of the family 123.
 
-![](blobs.svg)  
-
-Requirements for the blobs: span 4 threads, threads flow two by two into adjacent blobs. 
-Not all blobs need to have an interaction for all of its four threads as shown in the 6-blobs solution.
-
-You can assign the thus discovered stitches to one of the templates for 
-[2](/GroundForge/stitches.html?patchWidth=7&patchHeight=6&tile=-5-5-5,5-5-5-,-5-5-5,5-5-5-,&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=6&shiftRowsSE=4&f1=ctctt&d1=ctctt&b1=ctctt&e2=ctctt&c2=ctctt&a2=ctctt&f3=ctr&d3=ctctt&b3=ctl&e4=ctt&c4=ctt&a4=ctctt&droste2=ctct,b30=b31=b32=c40=c41=c42=ctc,f30=f31=f32=e40=e41=e42=ctc),
-[3](/GroundForge/stitches.html?patchWidth=7&patchHeight=7&tile=5-5-5-,-5-5-5,5-5-5-,-5---5,5-C-B-,-5-5-5,&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6&e1=ctctt&c1=ctctt&a1=ctctt&f2=ctctt&d2=ctctt&b2=ctctt&e3=ct&c3=ct&a3=ctctt&f4=ctr&b4=ctl&e5=ctt&c5=ctt&a5=ctctt&f6=ctctt&d6=ctctt&b6=ctctt&droste2=ctct,c30=c31=c32=b40=b41=b42=c50=c51=c52=ctc,e30=e31=e32=f40=f41=f42=e50=e51=e52=ctc,c51=c52=ctct,b40=ctcl),
-[4](/GroundForge/stitches?patchWidth=7&patchHeight=9&tile=5-C-B-,-5-5-5,5-5-5-,-5-5-5,--5-5-,-B---C,&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6&e1=ct&c1=ct&a1=rrctctt&f2=llctctt&d2=ttctctt&b2=rrctctt&e3=ctctt&c3=ctctt&a3=ctctt&f4=ct&d4=ctctt&b4=ct&e5=ct&c5=ct&f6=ct&b6=ct),
-[5](/GroundForge/stitches?patchWidth=7&patchHeight=9&tile=-B-5-C,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6&f1=ct&d1=ttctctt&b1=ct&e2=rrctctt&c2=llctctt&a2=ttctctt&f3=ct&d3=ctctt&b3=ct&e4=ct&c4=ct&f5=ct&b5=ct&e6=ct&c6=ct),
-[6](/GroundForge/stitches?patchWidth=7&patchHeight=11&tile=5-C-B-,-5-5-5,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C,&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=6&shiftRowsSE=8&e1=ct&c1=ct&a1=rrctctt&f2=llctctt&d2=ttctctt&b2=rrctctt&e3=ctctt&c3=ctctt&a3=ctctt&f4=ct&d4=ctctt&b4=ct&e5=ct&c5=ct&f6=ct&b6=ct&e7=ct&c7=ct&f8=ct&b8=ct),
-[7](/GroundForge/stitches?patchWidth=7&patchHeight=13&tile=-B-5-C,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C,--C-B-,&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=6&shiftRowsSE=8&f1=ct&d1=ttctctt&b1=ct&e2=rrctctt&c2=llctctt&a2=rrctctt&f3=ct&d3=ctctt&b3=ct&e4=ct&c4=ct&f5=ct&b5=ct&e6=ct&c6=ct&f7=ct&b7=ct&e8=ct&c8=ct),
-[8](/GroundForge/stitches?patchWidth=7&patchHeight=13&tile=5-C-B-,-5-5-5,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C,--C-B-,-B---C,&shiftColsSW=0&shiftRowsSW=10&shiftColsSE=6&shiftRowsSE=10&e1=ct&c1=ct&a1=llctctt&f2=llctctt&d2=ttctctt&b2=rrctctt&e3=ctctt&c3=ctctt&a3=ctctt&f4=ct&d4=ctctt&b4=ct&e5=ct&c5=ct&f6=ct&b6=ct&e7=ct&c7=ct&f8=ct&b8=ct&e9=ct&c9=ct&f10=ct&b10=ct),
-[9](/GroundForge/stitches.html?patchWidth=7&patchHeight=13&tile=-B-5-C,5-5-5-,-5-5-5,--5-5-,-B---C,--C-B-,-B---C,--C-B-,-B---C,--C-B-,&shiftColsSW=0&shiftRowsSW=10&shiftColsSE=6&shiftRowsSE=10&f1=cl&d1=ttctc&b1=cr&e2=rctcrr&c2=lctcll&a2=ttctctt&f3=ct&d3=ctctt&b3=ct&e4=ct&c4=ct&f5=ct&b5=ct&e6=ct&c6=ct&f7=ct&b7=ct&e8=ct&c8=ct&f9=ct&b9=ct&e10=cr&c10=cl),
-... stitches/blobs, figure (a) shows 4. 
-Is the first blob on the right? Then replace the half stitches in the right plait as in figure (b). Vice versa for left.
-Last step: follow the link "_thread diagram as pair diagram_" for a thread diagram of the snowflake and choose your stitches as shown in figure (c).
-
-
-| ![](droste-A.png)  | ![](droste-B.png)  | ![](droste-C4.png)                        |
-|:-------------------|:-------------------|:------------------------------------------|
-| figure a           | figure b           | figure c (as [PDF](blobs-4.pdf))          |
-
-Below a screenshot of a [PDF](blobs-6.pdf) for 6 blobs.
-
-The tooltips in figure (b) show which lines we need in figure (c) for an all cloth-stitch snowflake.
-The lines after the white space reassign some stitches for trailing twists.
-
-Note below that the line per blob may vary in length, depending on the number of actions in a blob.
-A `t` counts as two actions: left twist + right twist. Repeated twists count as one.
-This causes the starting twist of `f4` to get combined with the trailing twists of `a3`.
-Therefore, we need `a34` were we might expect `f40`.
-
-The tooltips in figure (c) help to change the applicable cloth stitches into something else.   
-
-
-![](droste-C6.png) 
+Stitches with three pairs are not very logical for a seasoned bobbin lace maker,
+It means consistently either no right twists or no left twists. 
+GroundForge can handle it, it shows starting pins for each 4th thread but no thread.
+Using these basic thread diagrams as pair diagrams (droste effect) is explained in more detail for six pairs. 
