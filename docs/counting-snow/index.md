@@ -292,7 +292,7 @@ Not all blobs need to have an interaction for all of its four threads.
 Start with a template from the table below that corresponds with the set of blobs.
 Giving stitches a color in the first thread diagram (as shown in the screenshot below the table) 
 can help to compare distorted diagrams and detect possible mistakes in your analysis.
-The tooltips in the second pair diagram helps to fill in the text box with desired stitches.
+The tooltips in the second pair diagram help to fill in the text box with desired stitches.
 The identifiers in the last thread diagram have an extra digit, 
 those tooltips can also help to apply corrections. 
 PLease don't rely on twist marks in the pair diagrams, they are buggy.
