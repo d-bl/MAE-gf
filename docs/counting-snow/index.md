@@ -30,6 +30,9 @@ Contents
     * [Pair diagrams](#pair-diagrams)
     * [Compose grounds](#compose-grounds)
     * [Choose stitches](#choose-stitches)
+      * [6 pairs](#6-pairs)
+      * [4 pairs](#4-pairs)
+      * [3 pairs](#3-pairs-1)
 
 Introduction
 ------------
@@ -296,9 +299,10 @@ PLease don't rely on twist marks in the pair diagrams, they are buggy.
 
 
 | first blob on the ... | number of blobs                                                        |
-|----------------------:|:-----------------------------------------------------------------------|
+|----------------------:|------------------------------------------------------------------------|
 |                 right | [2][r2], [3][r3], [4][r4], [5][r5], [6][r6], [7][r7], [8][r8], [9][r9] | 
 |                  left | [2][l2], [3][l3], [4][l4], [5][l5], [6][l6], [7][l7], [8][l8], [9][l9] | 
+
 
 
 ![](blobs-drostes.png?align=right)
