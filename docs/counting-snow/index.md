@@ -287,7 +287,7 @@ We can analyse stitches in a diagram by marking them with blobs.
 On the right a solution for one snowflake of the 563412 family.
 
 Requirements for the blobs: span 4 threads, threads flow two by two into adjacent blobs. 
-Not all blobs need to have an interaction for all of its four threads as shown in the 6-blobs solution.
+Not all blobs need to have an interaction for all of its four threads.
 
 Start with a template from the table below that corresponds with the set of blobs.
 Giving stitches a color in the first thread diagram (as shown in the screenshot below the table) 
@@ -304,7 +304,7 @@ PLease don't rely on twist marks in the pair diagrams, they are buggy.
 |                  left | [2][l2], [3][l3], [4][l4], [5][l5], [6][l6], [7][l7], [8][l8], [9][l9] | 
 
 
-Screenshot:  
+&nbsp;
 
 ![](blobs-drostes.png?align=right)
 
