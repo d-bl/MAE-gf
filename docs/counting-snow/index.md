@@ -290,9 +290,11 @@ Requirements for the blobs: span 4 threads, threads flow two by two into adjacen
 Not all blobs need to have an interaction for all of its four threads.
 
 Start with a template from the table below that corresponds with the set of blobs.
-Giving stitches a color in the first thread diagram (as shown in the screenshot below the table) 
+An empty version of the screenshot below will appear.
+Fill out the text box of the first step with the set of blobs. 
+Giving stitches a color in the first thread diagram 
 can help to compare distorted diagrams and detect possible mistakes in your analysis.
-The tooltips in the second pair diagram help to fill in the text box with desired stitches.
+The tooltips in the second pair diagram help to fill in the text box of the second step with desired stitches.
 The identifiers in the last thread diagram have an extra digit, 
 those tooltips can also help to apply corrections. 
 
