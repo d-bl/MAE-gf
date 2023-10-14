@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="51mm"
-   height="58mm"
-   viewBox="0 0 102 116"
+   width="49mm"
+   height="60mm"
+   viewBox="0 0 98 120"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
@@ -25,12 +25,12 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="2.4141311"
-     inkscape:cx="137.73071"
-     inkscape:cy="143.11567"
-     inkscape:window-width="1920"
-     inkscape:window-height="1140"
+     inkscape:cx="137.93783"
+     inkscape:cy="143.5299"
+     inkscape:window-width="2256"
+     inkscape:window-height="1480"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"><inkscape:grid
        type="axonomgrid"
@@ -121,12 +121,17 @@
        transform="matrix(4,0,0,4,-818.43526,-1011.5)"><g
          id="g5850" /></g><text
        xml:space="preserve"
-       style="font-size:9.87778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.529167"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.529167"
        x="16.003506"
-       y="108.24133"
+       y="107.183"
        id="text21042"><tspan
          sodipodi:role="line"
          id="tspan21040"
-         style="font-size:9.87778px;stroke-width:0.529167"
+         style="font-size:7.05556px;stroke-width:0.529167"
          x="16.003506"
-         y="108.24133">rclc,ctc,ctc,crcl</tspan></text></g></svg>
+         y="107.183">family 563412</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;stroke-width:0.529167"
+         x="16.003506"
+         y="116.00245"
+         id="tspan665">rclc,ctc,ctc,crcl</tspan></text></g></svg>

@@ -284,7 +284,7 @@ So far only recipes without bouncing pairs.
 ![](blobs.svg?align=right)  
 
 We can analyse stitches in a diagram by marking them with blobs. 
-On the right a solution for one snowflake of the 563412 family.
+On the right a solution for one snowflake.
 
 Requirements for the blobs: span 4 threads, threads flow two by two into adjacent blobs. 
 Not all blobs need to have an interaction for all of its four threads.
