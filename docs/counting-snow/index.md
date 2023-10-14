@@ -332,13 +332,17 @@ PLease don't rely on twist marks in the pair diagrams, they are buggy.
 
 #### 4 pairs
 
-The two examples are chosen because one has two twists were the other has just one.
-The pair diagrams for [ctcttctc](/GroundForge/stitches.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=ctcttctc)
-and [ctctctc](/GroundForge/stitches.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=ctctctc)
-lead to identical diagrams at the droste page.
+The process starts at another page than for six pairs.
+For the two examples below: 
+[ctcttctc](/GroundForge/stitches.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=ctcttctc)
+and [ctctctc](/GroundForge/stitches.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=ctctctc).
+These are chosen because one has two twists were the other has just one.
+Follow the link to "_thread diagram as pair diagram_" to select your stitches for the snowflake.
+The pair diagrams will be the same for both examples.
 This is because GroundForge considers anything done with just two pairs (like ctc-pin-ctc) as a single stitch.
 
 ![](same-drostes.svg)
+
 
 #### 3 pairs
 
