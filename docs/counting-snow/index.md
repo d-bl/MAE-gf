@@ -276,7 +276,7 @@ Choose stitches
 ---------------
 
 The last step to explore snowflakes and other crossings is to choose stitches for a thread diagram. 
-To prepare for that step we can interpret the diagrams of family members as thread diagrams 
+To prepare for that step we can interpret the pair diagrams of family members as thread diagrams 
 and use the droste page of GroundForge. 
 So far only recipes without bouncing pairs.
 
