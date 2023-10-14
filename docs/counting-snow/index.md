@@ -27,12 +27,11 @@ Contents
   * [3 pairs](#3-pairs)
   * [2 pairs](#2-pairs)
   * [Exploring families](#exploring-families)
-    * [Pair diagrams](#pair-diagrams)
-    * [Compose grounds](#compose-grounds)
   * [Choose stitches](#choose-stitches)
     * [6 pairs](#6-pairs)
     * [4 pairs](#4-pairs)
     * [3 pairs](#3-pairs-1)
+  * [Compose grounds](#compose-grounds)
 
 Introduction
 ------------
@@ -226,8 +225,6 @@ these are explored on [Listing & counting stitches](../counting).
 Exploring families
 ------------------
 
-### Pair diagrams
-
 So far we mainly explored how pairs changed position after making a crossing.
 
 A pair (or groups of pairs) not touching remaining pairs turns a given permutation into separate crossings.
@@ -242,6 +239,7 @@ Note that swapping starts and/or ends means dealing with another family.
 
 The following not-exhaustive families are created manually from some of the generated permutations.
 The figure below contains a few more examples beyond the visible area.
+The captions for the family members are explained later.
 
 ![](654321.svg)  
 
@@ -253,24 +251,6 @@ that two lines of the same color cross one another.
 
 ![](numbering-method.svg)
 
-
-### Compose grounds
-
-A bit beyond the subject of counting snowflakes is assembling grounds. 
-Our focus is on 6-pair snowflakes. They can be connected directly, via plaits, framed in Paris grounds or whatever.
-It needs some attention to prevent loops.
-
-When the number start with 1 and ends with 6
-you can't repeat them next to one another without further interaction.
-The second family explored above shows you would get loops.
-
-The bouncing variations can also be represented as follows:
-
-![](compose.svg)
-
-Red are incoming pairs, blue are leaving pairs. 
-Above we counted in how many ways we can connect each red line to a blue line within the same circle. 
-Outside the circles we also should not connect red with red or blue with blue without some exchange.
 
 Choose stitches
 ---------------
@@ -286,6 +266,8 @@ So far only recipes without bouncing pairs.
 
 We can analyse stitches in a diagram by marking them with blobs. 
 On the right a solution for one snowflake.
+The capital R indicates that the first blob is on the right side,
+in other words the first stitch would be made with the two pairs on the right.
 
 Requirements for the blobs: span 4 threads, threads flow two by two into adjacent blobs. 
 Not all blobs need to have an interaction for all of its four threads.
@@ -308,8 +290,9 @@ PLease don't rely on twist marks in the pair diagrams, they are buggy.
 |          right          | [2][r2], [3][r3], [4][r4], [5][r5], [6][r6], [7][r7], [8][r8], [9][r9] | 
 |          left           | [2][l2], [3][l3], [4][l4], [5][l5], [6][l6], [7][l7], [8][l8], [9][l9] | 
 
+&nbsp;  
 
-&nbsp;
+[//]: # (https://d-bl.github.io/GroundForge/droste.html?patchWidth=5&patchHeight=7&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&b1=rcrc&droste2=b10=rclc,b11=ctc,b12=ctc,b13=lcrc&droste3=b100=ctcttctc,b122=b123=b132=b133=ctcrr#)
 
 ![](blobs-drostes.png?align=right)
 
@@ -319,16 +302,16 @@ PLease don't rely on twist marks in the pair diagrams, they are buggy.
 [r3]: /GroundForge/droste?b1=rcr&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
 [l4]: /GroundForge/droste?b1=lclc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
 [r4]: /GroundForge/droste?b1=rcrc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
-[l5]: /GroundForge/droste?b1=lclc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
-[r5]: /GroundForge/droste?b1=rcrc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
-[l6]: /GroundForge/droste?b1=lclc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
-[r6]: /GroundForge/droste?b1=rcrc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
-[l7]: /GroundForge/droste?b1=lclc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
-[r7]: /GroundForge/droste?b1=rcrc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
-[l8]: /GroundForge/droste?b1=lclc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
-[r8]: /GroundForge/droste?b1=rcrc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
-[l9]: /GroundForge/droste?b1=lclc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
-[r9]: /GroundForge/droste?b1=rcrc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
+[l5]: /GroundForge/droste?b1=lclcl&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
+[r5]: /GroundForge/droste?b1=rcrcr&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
+[l6]: /GroundForge/droste?b1=lclclc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
+[r6]: /GroundForge/droste?b1=rcrcrc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
+[l7]: /GroundForge/droste?b1=lclclcl&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
+[r7]: /GroundForge/droste?b1=rcrcrcr&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
+[l8]: /GroundForge/droste?b1=lclclclc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
+[r8]: /GroundForge/droste?b1=rcrcrcrc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
+[l9]: /GroundForge/droste?b1=lclclclcl&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
+[r9]: /GroundForge/droste?b1=rcrcrcrcr&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
 
 
 ### 4 pairs
@@ -355,3 +338,22 @@ Stitches with three pairs are not very logical for a seasoned bobbin lace maker,
 It means consistently either no right twists or no left twists. 
 GroundForge can handle it, it shows starting pins for each 4th thread but no thread.
 Using these basic thread diagrams as pair diagrams (droste effect) is explained in more detail for six pairs. 
+
+Compose grounds
+---------------
+
+A bit beyond the subject of counting snowflakes is assembling grounds. 
+Our focus is on 6-pair snowflakes. They can be connected directly, via plaits, framed in Paris grounds or whatever.
+It needs some attention to prevent loops.
+
+When the number start with 1 and ends with 6
+you can't repeat them next to one another without further interaction.
+The second family explored above shows you would get loops.
+
+The bouncing variations can also be represented as follows:
+
+![](compose.svg)
+
+Red are incoming pairs, blue are leaving pairs. 
+Above we counted in how many ways we can connect each red line to a blue line within the same circle. 
+Outside the circles we also should not connect red with red or blue with blue without some exchange.

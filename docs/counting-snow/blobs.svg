@@ -25,12 +25,12 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="2.4141311"
-     inkscape:cx="137.93783"
-     inkscape:cy="143.5299"
-     inkscape:window-width="2256"
-     inkscape:window-height="1480"
+     inkscape:cx="23.61098"
+     inkscape:cy="144.35836"
+     inkscape:window-width="2560"
+     inkscape:window-height="1380"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="36"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"><inkscape:grid
        type="axonomgrid"
@@ -134,4 +134,4 @@
          style="font-size:7.05556px;stroke-width:0.529167"
          x="16.003506"
          y="116.00245"
-         id="tspan665">rclc,ctc,ctc,crcl</tspan></text></g></svg>
+         id="tspan665">R-rclc,ctc,ctc,crcl</tspan></text></g></svg>
