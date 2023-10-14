@@ -295,13 +295,15 @@ can help to compare distorted diagrams and detect possible mistakes in your anal
 The tooltips in the second pair diagram help to fill in the text box with desired stitches.
 The identifiers in the last thread diagram have an extra digit, 
 those tooltips can also help to apply corrections. 
+
+Note that a trailing twist in the last blob gets combined with a leading twist of the first blob.
+This is counteracted with a ctct(pin)tctc, pins frequently get misplaced, so we leave them out.
 PLease don't rely on twist marks in the pair diagrams, they are buggy.
 
-
-| first blob on the ... | number of blobs                                                        |
-|----------------------:|------------------------------------------------------------------------|
-|                 right | [2][r2], [3][r3], [4][r4], [5][r5], [6][r6], [7][r7], [8][r8], [9][r9] | 
-|                  left | [2][l2], [3][l3], [4][l4], [5][l5], [6][l6], [7][l7], [8][l8], [9][l9] | 
+|  first blob on the ...  |                            number of blobs                             |
+|:-----------------------:|:----------------------------------------------------------------------:|
+|          right          | [2][r2], [3][r3], [4][r4], [5][r5], [6][r6], [7][r7], [8][r8], [9][r9] | 
+|          left           | [2][l2], [3][l3], [4][l4], [5][l5], [6][l6], [7][l7], [8][l8], [9][l9] | 
 
 
 &nbsp;
