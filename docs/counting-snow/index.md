@@ -29,10 +29,10 @@ Contents
   * [Exploring families](#exploring-families)
     * [Pair diagrams](#pair-diagrams)
     * [Compose grounds](#compose-grounds)
-    * [Choose stitches](#choose-stitches)
-      * [6 pairs](#6-pairs)
-      * [4 pairs](#4-pairs)
-      * [3 pairs](#3-pairs-1)
+  * [Choose stitches](#choose-stitches)
+    * [6 pairs](#6-pairs)
+    * [4 pairs](#4-pairs)
+    * [3 pairs](#3-pairs-1)
 
 Introduction
 ------------
@@ -272,14 +272,15 @@ Red are incoming pairs, blue are leaving pairs.
 Above we counted in how many ways we can connect each red line to a blue line within the same circle. 
 Outside the circles we also should not connect red with red or blue with blue without some exchange.
 
-### Choose stitches
+Choose stitches
+---------------
 
 The last step to explore snowflakes and other crossings is to choose stitches for a thread diagram. 
 To prepare for that step we can interpret the diagrams of family members as thread diagrams 
 and use the droste page of GroundForge. 
 So far only recipes without bouncing pairs.
 
-#### 6 pairs
+### 6 pairs
 
 ![](blobs.svg?align=right)  
 
@@ -330,7 +331,7 @@ PLease don't rely on twist marks in the pair diagrams, they are buggy.
 [r9]: GroundForge/droste?b1=rcrc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
 
 
-#### 4 pairs
+### 4 pairs
 
 The process starts at another page than for six pairs.
 For the two examples below: 
@@ -344,7 +345,7 @@ This is because GroundForge considers anything done with just two pairs (like ct
 ![](same-drostes.svg)
 
 
-#### 3 pairs
+### 3 pairs
 
 Just an example: member 
 [lclclc](/GroundForge/droste.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=https://d-bl.github.io/GroundForge/droste.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=lclclc&droste2=ctc&droste2=ctc)
