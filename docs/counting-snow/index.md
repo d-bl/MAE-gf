@@ -315,7 +315,7 @@ PLease don't rely on twist marks in the pair diagrams, they are buggy.
 
 ### 6 pairs with 2 bouncing pairs
 
-Recipes for the [left example](GroundForge/stitches.html?patchWidth=10&patchHeight=10&tile=-5-5,5-5-,-5-5,5-5-,-5-5,5-5-&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6&d1=ctctttt&b1=ctctttt&c2=ctctttt&a2=ctctttt&d3=lct&b3=ctctttt&c4=ctlll&a4=crcrrrr&d5=rct&b5=ctctttt&c6=ctctttt&a6=ctctttt)
+Recipes for the [left example](/GroundForge/stitches.html?patchWidth=10&patchHeight=10&tile=-5-5,5-5-,-5-5,5-5-,-5-5,5-5-&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6&d1=ctctttt&b1=ctctttt&c2=ctctttt&a2=ctctttt&d3=lct&b3=ctctttt&c4=ctlll&a4=crcrrrr&d5=rct&b5=ctctttt&c6=ctctttt&a6=ctctttt&droste2=ct,c25=d31=d32=d33=d50=d53=d51=c42=ctc,c40=rcrct,d52=tct,a40=a60=a61=lct)
 and the [right example](/GroundForge/stitches.html?patchWidth=10&patchHeight=10&tile=-5-5,5-5-,-5-5,5-5-,-5-5,5-5-,-5-5,5-5-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=4&shiftRowsSE=8&d1=ctctttt&b1=ctctttt&c2=ctctttt&a2=ctctttt&d3=lcr&b3=ctctttt&c4=-&a4=crcrrrr&d5=rccl&b5=ctctttt&c6=clcllll&a6=-&d7=lcrllll&b7=ctctttt&c8=ctctttt&a8=ctctttt).
 Follow the link to "_thread diagram as pair diagram_" to select your stitches for the snowflake.
 
@@ -331,7 +331,7 @@ Two stitches on each side of that column also need attention for the finishing t
 The process starts at another page than for six pairs.
 For the two examples below:
 [ctcttctc](/GroundForge/stitches.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=ctcttctc)
-and [ctctctc](/GroundForge/stitches.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=ctctctc).
+and [ctctctc](/GroundForge/stitches.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=ctctctc&droste2=ct,c25=d31=d32=d50=d51=d53=d70=d71=d73=ctc,d32=ctcr,d73=ctct,d53=d70=d71=ctcl).
 These examples are chosen because one has two twists were the other has just one.
 Follow the link to "_thread diagram as pair diagram_" to select your stitches for the snowflake.
 The pair diagrams will be the same for both examples.
