@@ -28,7 +28,8 @@ Contents
   * [2 pairs](#2-pairs)
   * [Exploring families](#exploring-families)
   * [Choose stitches](#choose-stitches)
-    * [6 pairs](#6-pairs)
+    * [6 pairs without bouncing](#6-pairs-without-bouncing)
+    * [6 pairs with 2 bouncing pairs](#6-pairs-with-2-bouncing-pairs)
     * [4 pairs](#4-pairs)
     * [3 pairs](#3-pairs-1)
   * [Compose grounds](#compose-grounds)
@@ -258,9 +259,8 @@ Choose stitches
 The last step to explore snowflakes and other crossings is to choose stitches for a thread diagram. 
 To prepare for that step we can interpret the pair diagrams of family members as thread diagrams 
 and use the droste page of GroundForge. 
-So far only recipes without bouncing pairs.
 
-### 6 pairs
+### 6 pairs without bouncing
 
 ![](blobs.svg?align=right)  
 
@@ -313,6 +313,18 @@ PLease don't rely on twist marks in the pair diagrams, they are buggy.
 [l9]: /GroundForge/droste?b1=lclclclcl&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
 [r9]: /GroundForge/droste?b1=rcrcrcrcr&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
 
+### 6 pairs with 2 bouncing pairs
+
+
+The recipe for the [left example](/GroundForge/stitches.html?patchWidth=10&patchHeight=10&tile=-5-5,5-5-,-5-5,5-5-,-5-5,5-5-&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6&d1=ctc&b1=ctc&c2=lct&a2=ctc&d3=ctc&b3=ctc&c4=rct&a4=ctc&d5=ctc&b5=ctc&c6=ctc&a6=ctc)
+in the screenshot below requires to think the green stitches outward and the red ones together. 
+This becomes awkward when following the link to "_thread diagram as pair diagram_".
+When sampling you might add twists between red and green, but GroundForge would only push the reds away from one another.
+The recipe for the [right example](/GroundForge/stitches.html?patchWidth=10&patchHeight=10&tile=-5-5,5-5-,-5-5,5-5-,-5-5,5-5-,-5-5,5-5-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=4&shiftRowsSE=8&d1=ctctttt&b1=ctctttt&c2=ctctttt&a2=ctctttt&d3=lcr&b3=ctctttt&c4=-&a4=crcrrrr&d5=rccl&b5=ctctttt&c6=clcllll&a6=-&d7=lcrllll&b7=ctctttt&c8=ctctttt&a8=ctctttt) 
+looks much better. This leads to the conclusion we have to dismiss the left variant 
+(like we had to dismiss options for 4 pairs above), it is not a coherent crossing.
+
+![](blobs-2-bouncing.png)
 
 ### 4 pairs
 
