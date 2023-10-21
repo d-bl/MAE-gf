@@ -323,7 +323,8 @@ Follow the link to "_thread diagram as pair diagram_" to select your stitches fo
 ![](blobs-2-bouncing.png)
 
 The main parts of the recipes are two or three stitches in a column, those are highlighted in the thread diagrams.
-Two stitches on each side of that column also need attention for the finishing touch.
+Two the sides of this column we seem to need either `clcllll` respectively `crcrrrr` or `cllll` respectively `crrrr`.
+The left example shows a mix of the choices.
 
 ### 4 pairs
 
