@@ -342,18 +342,19 @@ Using these basic thread diagrams as pair diagrams (droste effect) is explained 
 Compose grounds
 ---------------
 
-A bit beyond the subject of counting snowflakes is assembling grounds. 
-Our focus is on 6-pair snowflakes. They can be connected directly, via plaits, framed in Paris grounds or whatever.
-It needs some attention to prevent loops.
+Composing grounds is beyond the scope of counting snowflakes,
+so we limit the story here to a few notes on 6-pair snowflakes.
+They can be connected directly, via plaits, framed in Paris grounds or whatever.
+We need some attention to prevent loops.
 
-When the number start with 1 and ends with 6
-you can't repeat them next to one another without further interaction.
-The second family explored above shows you would get loops.
-
-The bouncing variations can also be represented as follows:
+The (non) bouncing variations can also be represented as follows:
 
 ![](compose.svg)
 
 Red are incoming pairs, blue are leaving pairs. 
-Above we counted in how many ways we can connect each red line to a blue line within the same circle. 
-Outside the circles we also should not connect red with red or blue with blue without some exchange.
+Above we counted in how many ways we can connect each red line to a blue line within a circle. 
+Outside the circles we should also connect red with blue.
+
+Another caveat is a family number that starts with 1 and ends with 6
+you can't repeat them next to one another without further interaction.
+The second family explored above shows you would get loops.
