@@ -315,21 +315,21 @@ PLease don't rely on twist marks in the pair diagrams, they are buggy.
 
 ### 6 pairs with 2 bouncing pairs
 
-
-The recipe for the [left example](/GroundForge/stitches.html?patchWidth=10&patchHeight=10&tile=-5-5,5-5-,-5-5,5-5-,-5-5,5-5-&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6&d1=ctc&b1=ctc&c2=lct&a2=ctc&d3=ctc&b3=ctc&c4=rct&a4=ctc&d5=ctc&b5=ctc&c6=ctc&a6=ctc)
-in the screenshot below requires to think the green stitches outward and the red ones together. 
-This becomes awkward when following the link to "_thread diagram as pair diagram_".
-When sampling you might add twists between red and green, but GroundForge would only push the reds away from one another.
-The recipe for the [right example](/GroundForge/stitches.html?patchWidth=10&patchHeight=10&tile=-5-5,5-5-,-5-5,5-5-,-5-5,5-5-,-5-5,5-5-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=4&shiftRowsSE=8&d1=ctctttt&b1=ctctttt&c2=ctctttt&a2=ctctttt&d3=lcr&b3=ctctttt&c4=-&a4=crcrrrr&d5=rccl&b5=ctctttt&c6=clcllll&a6=-&d7=lcrllll&b7=ctctttt&c8=ctctttt&a8=ctctttt) 
-looks much better. This leads to the conclusion we have to dismiss the left variant 
-(like we had to dismiss options for 4 pairs above), it is not a coherent crossing.
+Recipes for the [left example](GroundForge/stitches.html?patchWidth=10&patchHeight=10&tile=-5-5,5-5-,-5-5,5-5-,-5-5,5-5-&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6&d1=ctctttt&b1=ctctttt&c2=ctctttt&a2=ctctttt&d3=lct&b3=ctctttt&c4=ctlll&a4=crcrrrr&d5=rct&b5=ctctttt&c6=ctctttt&a6=ctctttt)
+and the [right example](/GroundForge/stitches.html?patchWidth=10&patchHeight=10&tile=-5-5,5-5-,-5-5,5-5-,-5-5,5-5-,-5-5,5-5-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=4&shiftRowsSE=8&d1=ctctttt&b1=ctctttt&c2=ctctttt&a2=ctctttt&d3=lcr&b3=ctctttt&c4=-&a4=crcrrrr&d5=rccl&b5=ctctttt&c6=clcllll&a6=-&d7=lcrllll&b7=ctctttt&c8=ctctttt&a8=ctctttt).
+Follow the link to "_thread diagram as pair diagram_" to select your stitches for the snowflake.
 
 ![](blobs-2-bouncing.png)
+
+In both cases the highlighted stitches have one or more twists beyond the desired diagrams,
+in the left case a twist is not highlighted that is part of the desired diagram.  
+The crucial parts are two or three stitches in a column, those are highlighted in the thread diagrams.
+Two stitches on each side of that column also need attention for the finishing touch.
 
 ### 4 pairs
 
 The process starts at another page than for six pairs.
-For the two examples below: 
+For the two examples below:
 [ctcttctc](/GroundForge/stitches.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=ctcttctc)
 and [ctctctc](/GroundForge/stitches.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=ctctctc).
 These examples are chosen because one has two twists were the other has just one.
