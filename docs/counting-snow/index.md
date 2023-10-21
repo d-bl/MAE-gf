@@ -315,15 +315,14 @@ PLease don't rely on twist marks in the pair diagrams, they are buggy.
 
 ### 6 pairs with 2 bouncing pairs
 
-Recipes for the [left example](/GroundForge/stitches.html?patchWidth=10&patchHeight=10&tile=-5-5,5-5-,-5-5,5-5-,-5-5,5-5-&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6&d1=ctctttt&b1=ctctttt&c2=ctctttt&a2=ctctttt&d3=lct&b3=ctctttt&c4=ctlll&a4=crcrrrr&d5=rct&b5=ctctttt&c6=ctctttt&a6=ctctttt&droste2=ct,c25=d31=d32=d33=d50=d53=d51=c42=ctc,c40=rcrct,d52=tct,a40=a60=a61=lct)
-and the [right example](/GroundForge/stitches.html?patchWidth=10&patchHeight=10&tile=-5-5,5-5-,-5-5,5-5-,-5-5,5-5-,-5-5,5-5-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=4&shiftRowsSE=8&d1=ctctttt&b1=ctctttt&c2=ctctttt&a2=ctctttt&d3=lcr&b3=ctctttt&c4=-&a4=crcrrrr&d5=rccl&b5=ctctttt&c6=clcllll&a6=-&d7=lcrllll&b7=ctctttt&c8=ctctttt&a8=ctctttt).
+Recipes for the [left example](/GroundForge/stitches.html?patchWidth=10&patchHeight=10&tile=-5-5,5-5-,-5-5,5-5-,-5-5,5-5-&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6&d1=ctctttt&b1=ctctttt&c2=ctctttt&a2=ctctttt&d3=lct&b3=ctctttt&c4=cllll&a4=crcrrrr&d5=tcr&b5=ctctttt&c6=rrrrctctttt&a6=llllctctttt&droste2=ct,c25=d31=d32=d33=d50=d53=d51=d52=ctc,c40=rcrct,a40=a61=a62=lct,c60=tct)
+and the [right example](/GroundForge/stitches.html?patchWidth=10&patchHeight=10&tile=-5-5,5-5-,-5-5,5-5-,-5-5,5-5-,-5-5,5-5-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=4&shiftRowsSE=8&d1=ctctttt&b1=ctctttt&c2=ctctttt&a2=ctctttt&d3=lcr&b3=ctctttt&c4=-&a4=crcrrrr&d5=rccl&b5=ctctttt&c6=clcllll&a6=-&d7=lcrllll&b7=ctctttt&c8=ctctttt&a8=ctctttt)
+in the screenshot below.
 Follow the link to "_thread diagram as pair diagram_" to select your stitches for the snowflake.
 
 ![](blobs-2-bouncing.png)
 
-In both cases the highlighted stitches have one or more twists beyond the desired diagrams,
-in the left case a twist is not highlighted that is part of the desired diagram.  
-The crucial parts are two or three stitches in a column, those are highlighted in the thread diagrams.
+The main parts of the recipes are two or three stitches in a column, those are highlighted in the thread diagrams.
 Two stitches on each side of that column also need attention for the finishing touch.
 
 ### 4 pairs
