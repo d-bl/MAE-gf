@@ -239,7 +239,7 @@ to make them cross other pairs as we see fit.
 Note that swapping starts and/or ends means dealing with another family. 
 
 The following not-exhaustive families are created manually from some of the generated permutations.
-The figure below contains a few more examples beyond the visible area.
+The figure below contains a few more examples beyond the [visible area](#save-and-edit-images).
 The captions for the family members are explained later.
 
 ![](654321.svg)  
@@ -315,15 +315,24 @@ PLease don't rely on twist marks in the pair diagrams, they are buggy.
 
 ### 6 pairs with 2 bouncing pairs
 
-Recipes for the [left example](/GroundForge/stitches.html?patchWidth=10&patchHeight=10&tile=-5-5,5-5-,-5-5,5-5-,-5-5,5-5-&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6&d1=ctctttt&b1=ctctttt&c2=ctctttt&a2=ctctttt&d3=lct&b3=ctctttt&c4=cllll&a4=crcrrrr&d5=tcr&b5=ctctttt&c6=rrrrctctttt&a6=llllctctttt&droste2=ct,c25=d31=d32=d33=d50=d53=d51=d52=ctc,c40=rcrct,a40=a61=a62=lct,c60=tct)
-and the [right example](/GroundForge/stitches.html?patchWidth=10&patchHeight=10&tile=-5-5,5-5-,-5-5,5-5-,-5-5,5-5-,-5-5,5-5-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=4&shiftRowsSE=8&d1=ctctttt&b1=ctctttt&c2=ctctttt&a2=ctctttt&d3=lcr&b3=ctctttt&c4=-&a4=crcrrrr&d5=rccl&b5=ctctttt&c6=clcllll&a6=-&d7=lcrllll&b7=ctctttt&c8=ctctttt&a8=ctctttt)
-in the screenshot below.
+We explore two members of a family to demonstrate the two templates.
+Beyond the [visible area](#save-and-edit-images) we have a few more examples.
+
+![](4-3254-2.svg?align-right)
+
+In the first example (the third diagram above) each bouncing pair section interacts with just onde other bouncing pair section.
+In the second example we see more interactions between the bouncing pairs.
+The first example requires two stitches to define a thread diagram to be used as pair diagram, the second one requires three stitches.
+
+The recipes for [lct-tcr](/GroundForge/stitches.html?patchWidth=7&patchHeight=7&tile=-5-5-5,5-5-5-,-5-5-5,5-5-5-,-5-5-5,5-5-5-&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6&f1=ctcttttt&d1=ctctttt&b1=ctctttt&e2=ctcttttt&c2=ctctttt&a2=ctctttt&f3=ctcttttt&d3=lct&b3=ctctttt&e4=crcrrrrr&c4=clclllll&a4=ctctttt&f5=ctcttttt&d5=tcr&b5=ctctttt&e6=lllllctcttttt&c6=rrrrctctttt&a6=llllctctttt&droste2=ct,c25=d31=d32=d33=d51=d53=d52=d50=ctc,c40=rct,c60=tct,e40=e61=e62=lct)
+and [lcr-rccl-lcr](GroundForge/stitches.html?patchWidth=7&patchHeight=9&tile=-5-5,5-5-,-5-5,5-5-,-5-5,5-5-,-5-5,5-5-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=4&shiftRowsSE=8&d1=ctctttt&b1=ctctttt&c2=ctctttt&a2=ctctttt&d3=lcr&b3=ctctttt&c4=-&a4=crcrrrr&d5=rccl&b5=ctctttt&c6=clcllll&a6=-&d7=lcr&b7=ctctttt&c8=rrrrctctttt&a8=llllctctttt&droste2=ct,c25=d31=d32=d53=d51=d50=d72=d71=d70=ctc,c80=tct,c60=rct,a81=a82=a40=lct)
+are shown in the screenshots below. The right example is shown twice: it is connected in different ways with the ground.
 Follow the link to "_thread diagram as pair diagram_" to select your stitches for the snowflake.
 
-![](blobs-2-bouncing.png)
+![](4-3254-2.png)
 
 The main parts of the recipes are two or three stitches in a column, those are highlighted in the thread diagrams.
-To the sides of this column we seem to need either `clcllll` respectively `crcrrrr` or `cllll` respectively `crrrr`.
+To the sides of this column we have either `clcllll` respectively `crcrrrr` or `cllll` respectively `crrrr`.
 The left example shows a mix of the choices.
 
 ### 4 pairs
@@ -337,7 +346,7 @@ Follow the link to "_thread diagram as pair diagram_" to select your stitches fo
 The pair diagrams will be the same for both examples.
 This is because GroundForge considers anything done with just two pairs (like ctc-pin-ctc) as a single stitch.
 
-![](same-drostes.svg)
+![](same-drostes.svg) 
 
 
 ### 3 pairs
