@@ -325,7 +325,7 @@ In the second example we see more interactions between the bouncing pairs.
 The first example requires two stitches to define a thread diagram to be used as pair diagram, the second one requires three stitches.
 
 The solutions for [lct-tcr](/GroundForge/stitches.html?patchWidth=7&patchHeight=7&tile=-5-5-5,5-5-5-,-5-5-5,5-5-5-,-5-5-5,5-5-5-&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6&f1=ctcttttt&d1=ctctttt&b1=ctctttt&e2=ctcttttt&c2=ctctttt&a2=ctctttt&f3=ctcttttt&d3=lct&b3=ctctttt&e4=crcrrrrr&c4=clclllll&a4=ctctttt&f5=ctcttttt&d5=tcr&b5=ctctttt&e6=lllllctcttttt&c6=rrrrctctttt&a6=llllctctttt&droste2=ct,c25=d31=d32=d33=d51=d53=d52=d50=ctc,c40=rct,c60=tct,e40=e61=e62=lct)
-and [lcr-rccl-lcr](GroundForge/stitches.html?patchWidth=7&patchHeight=9&tile=-5-5,5-5-,-5-5,5-5-,-5-5,5-5-,-5-5,5-5-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=4&shiftRowsSE=8&d1=ctctttt&b1=ctctttt&c2=ctctttt&a2=ctctttt&d3=lcr&b3=ctctttt&c4=-&a4=crcrrrr&d5=rccl&b5=ctctttt&c6=clcllll&a6=-&d7=lcr&b7=ctctttt&c8=rrrrctctttt&a8=llllctctttt&droste2=ct,c25=d31=d32=d53=d51=d50=d72=d71=d70=ctc,c80=tct,c60=rct,a81=a82=a40=lct)
+and [lcr-rccl-lcr](/GroundForge/stitches.html?patchWidth=7&patchHeight=9&tile=-5-5,5-5-,-5-5,5-5-,-5-5,5-5-,-5-5,5-5-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=4&shiftRowsSE=8&d1=ctctttt&b1=ctctttt&c2=ctctttt&a2=ctctttt&d3=lcr&b3=ctctttt&c4=-&a4=crcrrrr&d5=rccl&b5=ctctttt&c6=clcllll&a6=-&d7=lcr&b7=ctctttt&c8=rrrrctctttt&a8=llllctctttt&droste2=ct,c25=d31=d32=d53=d51=d50=d72=d71=d70=ctc,c80=tct,c60=rct,a81=a82=a40=lct)
 are shown in the screenshots below. 
 These solutions also serve as templates for other families.
 
