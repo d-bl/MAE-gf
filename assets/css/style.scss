@@ -4,10 +4,6 @@ Header { background: #2e7bcf url(../images/header-bg-left.png) top right repeat;
 .outer { background: url(../images/header-bg-right.png) top right repeat-y; padding-top: 40px; padding-bottom: 40px; }
 header a.button { background-color: #2e7bcf; }
 
-header h1 a{color: #fff}
-header h1 a:hover {color: #9ddcff}
-.deprecated { background: darkorange; padding: 2px; }
-
 #sidebar ul { padding-left: 0; margin-bottom: 0px; font-weight: bold; font-size: 12px; color: #474747; }
 #sidebar ul { font-weight: normal; }
 #sidebar sub { font-weight: normal; }
@@ -18,17 +14,17 @@ header h1 a:hover {color: #9ddcff}
 .elem {border: 1px solid #DBE7F3;}
 .b-whit {color: #FFFFFF; font-weight: bold;}
 .b-grey {color: #808080; font-weight: bold;}
-.b-gree {color: #008000; font-weight: bold;} 
-.b-purp {color: #800080; font-weight: bold;} 
-.b-red  {color: #FF0000; font-weight: bold;} 
-.b-blue {color: #0000FF; font-weight: bold;} 
-.b-blck {color: #000000; font-weight: bold;} 
+.b-gree {color: #008000; font-weight: bold;}
+.b-purp {color: #800080; font-weight: bold;}
+.b-red  {color: #FF0000; font-weight: bold;}
+.b-blue {color: #0000FF; font-weight: bold;}
+.b-blck {color: #000000; font-weight: bold;}
 .b-orng {color: #FF6600; font-weight: bold;}
 .b-yell {color: #FFFF00; font-weight: bold;}
 
 /* copied from Jo Pol */
 #sidebar hr { height: 12px; border: 0; box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.2); }
-#sidebar h2, h3 { margin-bottom: 1px; margin-top: 3px; } 
+#sidebar h2, h3 { margin-bottom: 1px; margin-top: 3px; }
 
 /* pictures */
 figure { display: block; margin:0; }
@@ -54,6 +50,3 @@ img[src$="x=button"] {box-shadow: 3px 3px #ebebeb;}
 /*.cctt td,th {text-align:left; padding:5px}*/
 .cctt td {text-align:left; padding:5px}
 .cctt th {text-align:center; padding:5px; font-weight:bold;}
-
-
-
