@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="115mm"
+   height="23mm"
+   viewBox="0 0 230 46"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   sodipodi:docname="4-pairs-to-bounce-into-5.svg"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="2.8601442"
+     inkscape:cx="217.12192"
+     inkscape:cy="43.878906"
+     inkscape:window-width="1920"
+     inkscape:window-height="1140"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="1234"
+     showguides="true"
+     inkscape:pageshadow="2"><inkscape:grid
+   type="axonomgrid"
+   id="grid2793"
+   empspacing="7"
+   spacingy="1"
+   originx="0"
+   originy="0" />
+</sodipodi:namedview><defs
+     id="defs2"><rect
+   x="-11.456084"
+   y="59.527561"
+   width="22.912169"
+   height="92.598427"
+   id="rect14527" />
+</defs><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+<g
+   id="1234">
+<text
+   x="12"
+   y="21"
+   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+   id="text1839"><tspan
+     id="tspan1837">1234 bdpq</tspan></text>
+<path
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   id="1234_1"
+   d="M 12,4 V 16" />
+<path
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
+   id="1234_2"
+   d="M 15,4 V 16" />
+<path
+   style="fill:none;stroke:#ff0000;stroke-width:0.8px"
+   id="1234_3"
+   d="M 18,4 V 16" />
+<path
+   style="fill:none;stroke:#000000;stroke-width:0.8px"
+   id="1234_4"
+   d="M 21,4 V 16" />
+</g>
+<g
+   id="1243">
+<text
+   x="12"
+   y="42"
+   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+   id="text1848"><tspan
+     id="tspan1846">1243 bp</tspan></text>
+<path
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   id="1243_1"
+   d="M 12,25 V 37" />
+<path
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
+   id="1243_2"
+   d="M 15,25 V 37" />
+<path
+   style="fill:none;stroke:#ff0000;stroke-width:0.8px"
+   id="1243_4"
+   d="M 21,25 18,37" />
+<path
+   style="fill:none;stroke:#000000;stroke-width:0.8px"
+   id="1243_3"
+   d="m 18,25 3,12" />
+</g>
+<g
+   id="1324">
+<text
+   x="36.25"
+   y="21"
+   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+   id="text1857"><tspan
+     id="tspan1855">1324 bdpq</tspan></text>
+<path
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   id="1324_1"
+   d="M 36.25,4 V 16" />
+<path
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
+   id="1324_3"
+   d="m 42.25,4 -3,12" />
+<path
+   style="fill:none;stroke:#ff0000;stroke-width:0.8px"
+   id="1324_2"
+   d="m 39.25,4 3,12" />
+<path
+   style="fill:none;stroke:#000000;stroke-width:0.8px"
+   id="1324_4"
+   d="M 45.25,4 V 16" />
+</g>
+<g
+   id="1342">
+<text
+   x="36.25"
+   y="42"
+   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+   id="text1866"><tspan
+     id="tspan1864">1342 </tspan></text>
+<path
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   id="1342_1"
+   d="M 36.25,25 V 37" />
+<path
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
+   id="1342_3"
+   d="m 42.25,25 -3,12" />
+<path
+   style="fill:none;stroke:#ff0000;stroke-width:0.8px"
+   id="1342_4"
+   d="m 45.25,25 -3,12" />
+<path
+   style="fill:none;stroke:#000000;stroke-width:0.8px"
+   id="1342_2"
+   d="m 39.25,25 6,12" />
+</g>
+<g
+   id="1432">
+<text
+   x="60.5"
+   y="21"
+   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+   id="text1875"><tspan
+     id="tspan1873">1432 bp</tspan></text>
+<path
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   id="1432_1"
+   d="M 60.5,4 V 16" />
+<path
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
+   id="1432_4"
+   d="m 69.5,4 -6,12" />
+<path
+   style="fill:none;stroke:#ff0000;stroke-width:0.8px"
+   id="1432_3"
+   d="M 66.5,4 V 16" />
+<path
+   style="fill:none;stroke:#000000;stroke-width:0.8px"
+   id="1432_2"
+   d="m 63.5,4 6,12" />
+</g>
+<g
+   id="2134">
+<text
+   x="60.5"
+   y="42"
+   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+   id="text1884"><tspan
+     id="tspan1882">2134 bp</tspan></text>
+<path
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   id="2134_2"
+   d="m 63.5,25 -3,12" />
+<path
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
+   id="2134_1"
+   d="m 60.5,25 3,12" />
+<path
+   style="fill:none;stroke:#ff0000;stroke-width:0.8px"
+   id="2134_3"
+   d="M 66.5,25 V 37" />
+<path
+   style="fill:none;stroke:#000000;stroke-width:0.8px"
+   id="2134_4"
+   d="M 69.5,25 V 37" />
+</g>
+<g
+   id="2143">
+<text
+   x="84.75"
+   y="21"
+   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+   id="text1893"><tspan
+     id="tspan1891">2143 bdpq</tspan></text>
+<path
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   id="2143_2"
+   d="m 87.75,4 -3,12" />
+<path
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
+   id="2143_1"
+   d="m 84.75,4 3,12" />
+<path
+   style="fill:none;stroke:#ff0000;stroke-width:0.8px"
+   id="2143_4"
+   d="m 93.75,4 -3,12" />
+<path
+   style="fill:none;stroke:#000000;stroke-width:0.8px"
+   id="2143_3"
+   d="m 90.75,4 3,12" />
+</g>
+<g
+   id="2314">
+<text
+   x="84.75"
+   y="42"
+   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+   id="text1902"><tspan
+     id="tspan1900">2314 </tspan></text>
+<path
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   id="2314_2"
+   d="m 87.75,25 -3,12" />
+<path
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
+   id="2314_3"
+   d="m 90.75,25 -3,12" />
+<path
+   style="fill:none;stroke:#ff0000;stroke-width:0.8px"
+   id="2314_1"
+   d="m 84.75,25 6,12" />
+<path
+   style="fill:none;stroke:#000000;stroke-width:0.8px"
+   id="2314_4"
+   d="M 93.75,25 V 37" />
+</g>
+<g
+   id="2341">
+<text
+   x="109"
+   y="21"
+   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+   id="text1911"><tspan
+     id="tspan1909">2341 </tspan></text>
+<path
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   id="2341_2"
+   d="m 112,4 -3,12" />
+<path
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
+   id="2341_3"
+   d="m 115,4 -3,12" />
+<path
+   style="fill:none;stroke:#ff0000;stroke-width:0.8px"
+   id="2341_4"
+   d="m 118,4 -3,12" />
+<path
+   style="fill:none;stroke:#000000;stroke-width:0.8px"
+   id="2341_1"
+   d="m 109,4 9,12" />
+</g>
+<g
+   id="2413">
+<text
+   x="109"
+   y="42"
+   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+   id="text1920"><tspan
+     id="tspan1918">2413 bd</tspan></text>
+<path
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   id="2413_2"
+   d="m 112,25 -3,12" />
+<path
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
+   id="2413_4"
+   d="m 118,25 -6,12" />
+<path
+   style="fill:none;stroke:#ff0000;stroke-width:0.8px"
+   id="2413_1"
+   d="m 109,25 6,12" />
+<path
+   style="fill:none;stroke:#000000;stroke-width:0.8px"
+   id="2413_3"
+   d="m 115,25 3,12" />
+</g>
+<g
+   id="2431">
+<text
+   x="133.25"
+   y="21"
+   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+   id="text1929"><tspan
+     id="tspan1927">2431 </tspan></text>
+<path
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   id="2431_2"
+   d="m 136.25,4 -3,12" />
+<path
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
+   id="2431_4"
+   d="m 142.25,4 -6,12" />
+<path
+   style="fill:none;stroke:#ff0000;stroke-width:0.8px"
+   id="2431_3"
+   d="M 139.25,4 V 16" />
+<path
+   style="fill:none;stroke:#000000;stroke-width:0.8px"
+   id="2431_1"
+   d="m 133.25,4 9,12" />
+</g>
+<g
+   id="3214">
+<text
+   x="133.25"
+   y="42"
+   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+   id="text1938"><tspan
+     id="tspan1936">3214 bp</tspan></text>
+<path
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   id="3214_3"
+   d="m 139.25,25 -6,12" />
+<path
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
+   id="3214_2"
+   d="M 136.25,25 V 37" />
+<path
+   style="fill:none;stroke:#ff0000;stroke-width:0.8px"
+   id="3214_1"
+   d="m 133.25,25 6,12" />
+<path
+   style="fill:none;stroke:#000000;stroke-width:0.8px"
+   id="3214_4"
+   d="M 142.25,25 V 37" />
+</g>
+<g
+   id="3241">
+<text
+   x="157.5"
+   y="21"
+   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+   id="text1947"><tspan
+     id="tspan1945">3241 </tspan></text>
+<path
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   id="3241_3"
+   d="m 163.5,4 -6,12" />
+<path
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
+   id="3241_2"
+   d="M 160.5,4 V 16" />
+<path
+   style="fill:none;stroke:#ff0000;stroke-width:0.8px"
+   id="3241_4"
+   d="m 166.5,4 -3,12" />
+<path
+   style="fill:none;stroke:#000000;stroke-width:0.8px"
+   id="3241_1"
+   d="m 157.5,4 9,12" />
+</g>
+<g
+   id="3412">
+<text
+   x="157.5"
+   y="42"
+   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+   id="text1956"><tspan
+     id="tspan1954">3412 bdpq</tspan></text>
+<path
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   id="3412_3"
+   d="m 163.5,25 -6,12" />
+<path
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
+   id="3412_4"
+   d="m 166.5,25 -6,12" />
+<path
+   style="fill:none;stroke:#ff0000;stroke-width:0.8px"
+   id="3412_1"
+   d="m 157.5,25 6,12" />
+<path
+   style="fill:none;stroke:#000000;stroke-width:0.8px"
+   id="3412_2"
+   d="m 160.5,25 6,12" />
+</g>
+<g
+   id="3421">
+<text
+   x="181.75"
+   y="21"
+   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+   id="text1965"><tspan
+     id="tspan1963">3421 </tspan></text>
+<path
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   id="3421_3"
+   d="m 187.75,4 -6,12" />
+<path
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
+   id="3421_4"
+   d="m 190.75,4 -6,12" />
+<path
+   style="fill:none;stroke:#ff0000;stroke-width:0.8px"
+   id="3421_2"
+   d="m 184.75,4 3,12" />
+<path
+   style="fill:none;stroke:#000000;stroke-width:0.8px"
+   id="3421_1"
+   d="m 181.75,4 9,12" />
+</g>
+<g
+   id="4231">
+<text
+   x="181.75"
+   y="42"
+   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+   id="text1974"><tspan
+     id="tspan1972">4231 bdpq</tspan></text>
+<path
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   id="4231_4"
+   d="m 190.75,25 -9,12" />
+<path
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
+   id="4231_2"
+   d="M 184.75,25 V 37" />
+<path
+   style="fill:none;stroke:#ff0000;stroke-width:0.8px"
+   id="4231_3"
+   d="M 187.75,25 V 37" />
+<path
+   style="fill:none;stroke:#000000;stroke-width:0.8px"
+   id="4231_1"
+   d="m 181.75,25 9,12" />
+</g>
+<g
+   id="4321">
+<text
+   x="206"
+   y="21"
+   style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+   id="text1983"><tspan
+     id="tspan1981">4321 bdpq</tspan></text>
+<path
+   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   id="4321_4"
+   d="m 215,4 -9,12" />
+<path
+   style="fill:none;stroke:#2ca02c;stroke-width:0.8px;stroke-opacity:1"
+   id="4321_3"
+   d="m 212,4 -3,12" />
+<path
+   style="fill:none;stroke:#ff0000;stroke-width:0.8px"
+   id="4321_2"
+   d="m 209,4 3,12" />
+<path
+   style="fill:none;stroke:#000000;stroke-width:0.8px"
+   id="4321_1"
+   d="m 206,4 9,12" />
+</g>
+
+</g></svg>
