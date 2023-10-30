@@ -1,15 +1,11 @@
 @import "{{ site.theme }}";
-header a{color: #fff}
-header a:hover {color: #9ddcff}
-
-.deprecated { background: darkorange; padding: 2px; }
 
 Header { background: #2e7bcf url(../images/header-bg-left.png) top right repeat; padding: 0; }
 .outer { background: url(../images/header-bg-right.png) top right repeat-y; padding-top: 40px; padding-bottom: 40px; }
 header a.button { background-color: #2e7bcf; }
 
-header a{color: #fff}
-header a:hover {color: #9ddcff}
+header h1 a{color: #fff}
+header h1 a:hover {color: #9ddcff}
 .deprecated { background: darkorange; padding: 2px; }
 
 #sidebar ul { padding-left: 0; margin-bottom: 0px; font-weight: bold; font-size: 12px; color: #474747; }
