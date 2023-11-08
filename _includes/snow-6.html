@@ -19,7 +19,8 @@
         else {
             href += "lc".repeat(nrOfBlobs).substring(0,nrOfBlobs)
         }
-        document.getElementById("link").href = href + "&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&droste3=ctc,b100=ctcttctc"
+        href += `&droste3=ctc,b1${nrOfBlobs-1}${blobs[nrOfBlobs-1].length-1}=ctcttctc`
+        document.getElementById("link").href = href + "&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1"
     }
     update()
     </script>
