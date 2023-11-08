@@ -1,0 +1,27 @@
+<form>
+    First blob starts
+    <input type="radio" name="firstBlob" value="l" id="firstBlobLeft"><label for="firstBlobLeft">left</label>
+    <input type="radio" name="firstBlob" value="r" id="firstBlobRight" checked><label for="firstBlobRight">right</label>
+    <textarea id="blobs" name="blobs" rows="1" cols="50" spellcheck="false">rclc,ctc,ctc,crcl</textarea>
+    <a id="link" href="#"><button type="button">Go</button></a>
+    <script>
+    function update(){
+        const blobs = document.getElementById('blobs').value.split(",");
+        let q = "patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&b1=";
+        const nrOfBlobs = blobs.length;
+        if (document.getElementById("firstBlobRight").checked) {
+            q += "rc".repeat(nrOfBlobs).substring(0,nrOfBlobs)
+        }
+        else {
+            q += "lc".repeat(nrOfBlobs).substring(0,nrOfBlobs)
+        }
+        q += "&droste2="
+        for (let i = 0; i < nrOfBlobs; i++) {
+            q += `b1${i}=${blobs[i]},`
+        }
+        console.log(nrOfBlobs+"========"+q)
+        document.getElementById("link").href = "/GroundForge/droste?"+q
+    }
+    update()
+    </script>
+</form>
