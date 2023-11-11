@@ -8,6 +8,7 @@ title: Embellished clothwork
 ## Contents
 
 * [Introduction](#introduction)
+* [A note on footsides](#a-note-on-footsides)
 * [1 column](#1-column)
 * [2 columns](#2-columns)
 * [3 columns](#3-columns)
@@ -20,17 +21,26 @@ Usually, a clothwork area is made in one stitch (cloth stitch, half stitch or wh
 For embellished clothwork with one stitch and its mirrored versions only, see _<a href="/GroundForge/nets" target="_blank">net variations</a>_.       
 An explanation of the color code used on this page can be found on _<a href="/GroundForge-help/color-rules" target="_blank">color rules</a>_.   
 
-[![p-meander]][t-ec008]
-Please note: for most of the horizontal nets, the footsides on the left and right are best made like <span class="stch">(t)ctPctctPc(t)</span> covering two rows as shown in the picture on the right.    
-Pleae note: if the ground is made with asymmetric stitches like <span class="stch">crcl</span>, the ground might benefit if a pin is put in every stitch, like <span class="stch">cr-P-cl</span> and even <span class="stch">ct-P-c</span>.   
-Please note: the diagrams on this page show all twists between stitches.
-<p style="clear: both"></p>
-
 If you hoover with your mouse over a picture on this page, a number is displayed. These numbers have no specific meaning, but can be used for reference. Sometimes, a name is displayed. This refers to the name of the work where this variation was used for the first time (to our knowlegde).      
 
-[p-meander]: ../images/ec/f-ec-008.png?align=right "Meander, EC-008" 
+Pleae note: if the ground is made with asymmetric stitches like <span class="stch">crcl</span>, the ground might benefit if a pin is put in every stitch, like <span class="stch">cr-P-cl</span> and even <span class="stch">ct-P-c</span>.   
+Please note: the diagrams on this page show all twists between stitches.    
 
 [pg-stitches]: ../docs/stitches
+
+## A note on footsides
+
+[![p-meander]][t-ec008]    
+[![p-ec010]][t-ex010]
+
+For most of the horizontal nets, the footsides on the left and right are best made with stitches like <span class="stch">(t)ctPctctPc(t)</span> or <span class="stch">cllPcrcllPcr on the left footside and crrPclcrrPcl</span> on the right covering two rows as shown in the picture on the right.    
+
+<p style="clear: both"></p>
+
+[p-meander]: ../images/ec/f-ec-008.png?align=right "Meander, EC-008" 
+[p-ec010]: ../images/ec/f-ec-010.png?align=right "EC-010"
+
+[t-ex010]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&n1=ctctt&c1=clcr&b1=ctc&a1=cllcrcllcr&n2=crrclcrrcl&c2=ctc&b2=clcr&a2=-
 
 ## 1 column
 
