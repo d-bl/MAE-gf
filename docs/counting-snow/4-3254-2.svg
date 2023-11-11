@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1.9072395"
-     inkscape:cx="349.98226"
-     inkscape:cy="146.54688"
+     inkscape:cx="350.24442"
+     inkscape:cy="147.0712"
      inkscape:window-width="2560"
      inkscape:window-height="1380"
      inkscape:window-x="0"
@@ -349,7 +349,7 @@
          id="tspan12202"
          x="227.98726"
          y="74.47493"
-         style="stroke-width:0.793748">lcr-rccl-lcr</tspan></text><text
+         style="stroke-width:0.793748">lcr,rccl,lcr</tspan></text><text
        x="165.65651"
        y="74.47493"
        style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.793748"
@@ -358,7 +358,7 @@
          id="tspan12206"
          x="165.65651"
          y="74.47493"
-         style="stroke-width:0.793748">lct-tcr</tspan></text><g
+         style="stroke-width:0.793748">lct,tcr</tspan></text><g
        id="g12890"
        transform="matrix(0.75,0,0,0.75,-109.30589,10.500019)"><path
          style="fill:none;stroke:#2ca02c;stroke-width:2.8;stroke-dasharray:none"
