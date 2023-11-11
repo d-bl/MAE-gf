@@ -38,7 +38,7 @@ For most of the horizontal nets, the footsides on the left and right are best ma
 
 [![p-earth]][t-ex010]  
 
-Or stitches like <span class="stch">cllPcrcllPcr on the left footside and crrPclcrrPcl</span> on the right footside.          
+Or stitches like <span class="stch">cllPcrcllPcr</span> on the left footside and <span class="stch">crrPclcrrPcl</span> on the right footside.          
 
 <p style="clear: both"></p>
 
