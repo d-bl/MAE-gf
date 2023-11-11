@@ -30,8 +30,8 @@ Please note: the diagrams on this page show all twists between stitches.
 
 ## A note on footsides
 
+[![p-earth]][t-ex010]  
 [![p-meander]][t-ec008] 
-[![p-earth]][t-ex010]
 
 For most of the horizontal nets, the footsides on the left and right are best made with stitches like <span class="stch">(t)ctPctctPc(t)</span> or <span class="stch">cllPcrcllPcr on the left footside and crrPclcrrPcl</span> on the right covering two rows as shown in the pictures on the right.    
 
