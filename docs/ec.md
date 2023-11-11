@@ -30,15 +30,15 @@ Please note: the diagrams on this page show all twists between stitches.
 
 ## A note on footsides
 
-[![p-meander]][t-ec008]    
+[![p-meander]][t-ec008] 
 [![p-ec010]][t-ex010]
 
-For most of the horizontal nets, the footsides on the left and right are best made with stitches like <span class="stch">(t)ctPctctPc(t)</span> or <span class="stch">cllPcrcllPcr on the left footside and crrPclcrrPcl</span> on the right covering two rows as shown in the picture on the right.    
+For most of the horizontal nets, the footsides on the left and right are best made with stitches like <span class="stch">(t)ctPctctPc(t)</span> or <span class="stch">cllPcrcllPcr on the left footside and crrPclcrrPcl</span> on the right covering two rows as shown in the pictures on the right.    
 
 <p style="clear: both"></p>
 
-[p-meander]: ../images/ec/f-ec-008.png?align=right "Meander, EC-008" 
-[p-ec010]: ../images/ec/f-ec-010.png?align=right "EC-010"
+[p-meander]: ../images/ec/f-ec-008.png?align=right "Meander, EC-008"  
+[p-ec010]: ../images/ec/f-ec-010.png?align=right "f-ec-010"
 
 [t-ex010]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&n1=ctctt&c1=clcr&b1=ctc&a1=cllcrcllcr&n2=crrclcrrcl&c2=ctc&b2=clcr&a2=-
 
