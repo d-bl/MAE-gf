@@ -21,13 +21,11 @@
         <button type="button">Go</button>
     </a>
     <script>
-        function validate(){
-            return /[ctlr]+(,[ctlr]+)+/.test(document.getElementById('blobs').value)
-        }
         function update() {
             const blobs = document.getElementById('blobs').value.split(",");
             const nrOfBlobs = blobs.length;
             let href = "https://d-bl.github.io/GroundForge/stitches?";
+            console.log('nr of blobs = '+nrOfBlobs)
             if (nrOfBlobs == 2) {
                 href += "d3=" + blobs[0]
                 href += "&d5=" + blobs[1]
@@ -36,13 +34,14 @@
                 } else {
                     href += "&e4=crrrr&c4=cllll"
                 }
+                console.log(href)
                 href += "&patchWidth=7&patchHeight=7&tile=-5-5-5,5-5-5-,-5-5-5,5-5-5-,-5-5-5,5-5-5-&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6"
                 href += "&b1=ctctttt&d1=ctctttt&f1=ctctttt&a2=ctctttt&c2=ctctttt&e2=ctctttt&b3=ctctttt&f3=ctctttt&a4=ctctttt&b5=ctctttt&f5=ctctttt&a6=ctctttt&c6=rrrrctctttt&e6=llllctctttt"
-            }
-            else if (nrOfBlobs >= 3) {
+            } else if (nrOfBlobs >= 3) {
                 href += "d3=" + blobs[0]
                 href += "&d5=" + blobs[1]
                 href += "&d7=" + blobs[2]
+                console.log(href)
                 if (document.getElementById("first-bounce-right").checked) {
                     if (document.getElementById("conn-open").checked) {
                         href += "&a4=crcrrrr&c6=clcllll"
@@ -58,9 +57,11 @@
                     }
                     href += "&a4=-&c6=-"
                 }
+                console.log(href)
                 href += "&patchWidth=7&patchHeight=9&tile=-5-5,5-5-,-5-5,5-5-,-5-5,5-5-,-5-5,5-5-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=4&shiftRowsSE=8"
                 href += "&d1=ctctttt&b1=ctctttt&c2=ctctttt&a2=ctctttt&b3=ctctttt&c4=-&b5=ctctttt&a6=-&b7=ctctttt&c8=rrrrctctttt&a8=llllctctttt"
             }
+            console.log(href)
             document.getElementById("link").href = href
         }
         update()
