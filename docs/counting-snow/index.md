@@ -305,7 +305,7 @@ The form below generates the diagrams show below the form.
 Note the subtle difference for the open and closed connection in diagram variations for the three-stitch example.
 Follow the link to "_thread diagram as pair diagram_" to select your stitches for the snowflake.
 
-{% include snow-6.html %}
+{% include snow-6-bounce2.html %}
 
 ![](4-3254-2.png)
 
