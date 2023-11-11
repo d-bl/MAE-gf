@@ -16,13 +16,13 @@
         <input type="radio" name="conn" value="r" id="conn-open" onchange="update()" checked>
         <label for="conn-open">open</label>
     </span>
-    <input type="text" id="blobs" name="blobs" width="35" spellcheck="false" onchange="update()" value="lcr,rccl,lcr">
+    <input type="text" id="bounce-blobs" name="blobs" width="35" spellcheck="false" onchange="update()" value="lcr,rccl,lcr">
     <a id="bounce-link" href="#" target="_blank">
         <button type="button">Go</button>
     </a>
     <script>
         function update() {
-            const blobs = document.getElementById('blobs').value.split(",");
+            const blobs = document.getElementById('bounce-blobs').value.split(",");
             const nrOfBlobs = blobs.length;
             let href = "https://d-bl.github.io/GroundForge/stitches?";
             if (nrOfBlobs == 2) {
