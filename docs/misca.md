@@ -134,6 +134,4 @@ The windmills are a special kind of snowflake, and moved to page _[snowflakes][p
 
 [pg-snow]: ../docs/snowflakes#windmill-snowflakes
 
-***
-[&uArr;]()
 
