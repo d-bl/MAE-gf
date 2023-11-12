@@ -107,7 +107,8 @@ The samples and photo's are made by S. Babbs. Clicking on the photo shows a larg
   {% include ctrl.html s1="crrcllcrrcllcrrcllctt" name="tally (to fit)" %}
     
 </table>
-
+     
+    
 
 
 
