@@ -51,5 +51,3 @@ This section is moved to page [_Misscelaneous_][p-wind].
 
 [p-wind]: ../docs/misca#windmills
 
-***
-[&uArr;]()
