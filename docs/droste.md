@@ -130,5 +130,4 @@ The following examples use a stitch like <span class="stch">crctclcr</span> in t
 [p-damp2]: ../images/droste/damp2.png "droste-ll-2"
 [p-damp3]: ../images/droste/damp3.png "droste-ll-3"
 
-***
-[&uArr;]()
+
