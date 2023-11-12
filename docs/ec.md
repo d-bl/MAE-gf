@@ -32,7 +32,7 @@ Please note: the diagrams on this page show all twists between stitches.
 
 [![p-meander]][t-ec008]     
 
-For most of the horizontal nets, the footsides on the left and right are best made with stitches like <span class="stch">(t)ctPctctPc(t)</span> covering two rows as shown in the pictures on the right.    
+For most of the horizontal nets, the footsides on the left and right are best made with stitches like <span class="stch">(t)ctPctctPc(t)</span> covering two rows as shown in the picture on the right.    
 
 <p style="clear: both"></p>
 
