@@ -26,9 +26,9 @@ We have learned, that the figure on the left is called a [_snowflake_][t-snowfla
 
 [p-rs-sl]: ../images/tricks/w-vierge.png?align=right "slavic rose ground"
 [p-sn-sp]: ../images/tricks/g-snowspin.png?align=right "snowflake &amp; spider"
-[t-rs-sl]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&b1=ct&c1=ctct&d1=ct&b2=ct&d2=ct&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=5831,-4-7
-[t-snowflake]: /GroundForge/tiles?patchWidth=16&patchHeight=16&b1=ctc&a2=ctc&c2=ctc&b3=ctcttt&d3=tttctc&a4=ctc&c4=ctc&shiftColsSE=2&shiftRowsSE=4&shiftColsSW=-2&shiftRowsSW=4&tile=-5--,B-C-,-5-5,5-5-
-[t-spider]: /GroundForge/tiles?patchWidth=16&patchHeight=16&b1=ctcctc&a2=ctc&c2=ctc&b3=ctcttt&d3=tttctc&a4=ctc&c4=ctc&shiftColsSE=2&shiftRowsSE=4&shiftColsSW=-2&shiftRowsSW=4&tile=-5--,B-C-,-5-5,5-5-
+[t-rs-sl]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctct&b1=ct&c1=ctct&d1=ct&b2=ct&d2=ct&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=5831,-4-7
+[t-snowflake]: /GroundForge/stitches?patchWidth=16&patchHeight=16&b1=ctc&a2=ctc&c2=ctc&b3=ctcttt&d3=tttctc&a4=ctc&c4=ctc&shiftColsSE=2&shiftRowsSE=4&shiftColsSW=-2&shiftRowsSW=4&tile=-5--,B-C-,-5-5,5-5-
+[t-spider]: /GroundForge/stitches?patchWidth=16&patchHeight=16&b1=ctcctc&a2=ctc&c2=ctc&b3=ctcttt&d3=tttctc&a4=ctc&c4=ctc&shiftColsSE=2&shiftRowsSE=4&shiftColsSW=-2&shiftRowsSW=4&tile=-5--,B-C-,-5-5,5-5-
 
 ## Color code
 
@@ -58,7 +58,7 @@ The specified twists in some stitch definitions may not be according to the expe
 {% include p-l-c.html
      alt="mt-0306"
      src="/MAE-gf/images/tricks/w-picts.png"
-     lnk="/GroundForge/tiles?patchWidth=24&patchHeight=24&c1=c&e1=c&b2=c&d2=tctc&f2=c&h2=ctct&a3=cr&g3=cl&h4=tct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=--B-C---,-E-5-O-K,5-----5-,-------5"
+     lnk="/GroundForge/stitches?patchWidth=24&patchHeight=24&c1=c&e1=c&b2=c&d2=tctc&f2=c&h2=ctct&a3=cr&g3=cl&h4=tct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=--B-C---,-E-5-O-K,5-----5-,-------5"
      title="0306-K"
  %}   
 
