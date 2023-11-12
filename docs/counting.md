@@ -342,5 +342,3 @@ b. Keep the lexicographycally lowest word
 
 Typically, the doubles are the words where p (quartet 1) = b (quartet 2) or q (quartet 1) = b (quartet 2).         
 
-***
-[&uArr;]()
