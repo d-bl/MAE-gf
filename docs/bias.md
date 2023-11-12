@@ -239,6 +239,5 @@ The one on the left is a bias ground, stretched vertically, as found in the Whit
 [T-0759]: /GroundForge/stitches?patchWidth=12&patchHeight=20&b1=ctc&a2=ctctctc&c2=tct&b3=ctc&a4=tct&c4=ctctctc&b5=ctc&a6=ctc&c6=ctc&tile=-5--,B-C-,-5--,B-C-,-5--,B-C-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6
 [T-0775]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctc&b1=ctc&c1=tctct&d1=ctc&a2=ctcl&b2=ctc&a3=ctc&b3=ctc&c3=ctc&b4=ctc&c4=rctc&tile=83A4,48--,48D-,-48-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 
-***
-[&uArr;]()
+
 
