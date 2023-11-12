@@ -19,7 +19,7 @@ On this page, several grounds are made with the "Droste-effect": reuse thread di
 
 See the Groundforge help-page [_Droste-effect_][pg-droste] for more information.  
 
-Some of the examples have forms to make playing easier. Other examples only have plain links for multi-step patterns, you need to click the ![](../images/wand.png) in the "Thread diagram as pair diagram" section for the diagrams of the second (or even third) step.                  
+Some of the examples have forms to make playing easier. Other examples only have plain links for multi-step patterns, you need to click the ![](../images/wand.png) on the "Threads" section for the diagrams of the fist (or even second) step.                  
 
 {% include stitches.html %}
 
@@ -27,14 +27,13 @@ Some of the examples have forms to make playing easier. Other examples only have
 
 ## Fish
 
-_Double fish B2,S2,W3_ (see page [_fish_][fish-page])
-also can be defined in [two steps][F3-223] using the thread diagram of the first step as pair diagram for the second step. Please replace <span class="elem">cross b102</span> in the thread diagram of step-2 with a <span class="stch">half knot</span> or two to mimic a twisted pair.       
+_Double fish B2,S2,W3_ (see page [_fish_][fish-page]) also can be defined as [first-step-Droste][F3-223] using the thread diagram as pair diagram. Please replace <span class="elem">cross b102</span> in the thread diagram of this first step with a <span class="stch">half knot</span> or two to mimic a twisted pair.       
 
-The thread diagram of the second step can reused again: click the ![](../images/wand.png) below the second step fish.       
-The same result as this 3-step fish can be achieved in [two steps][F2-223].          
+The first-step-Droste diagram can reused again: click the ![](../images/wand.png) on the second step diagrams. Please note: you might have to scroll the diagram to see the result.             
+The same result as this second-steps-Droste fish can be achieved with [first-step-Droste][F2-223].          
 
 Defining a footside will become problematic, as we have four workers going into the same direction before returning. In practice you can bend this rule and change direction every other row, provided that plain twists separate the fish. Note that in both cases it can take a while for the last steps to appear.    
-Please note the resemblance of the 3-step fish with the [narrow eyed spider][ne-spiders-page]. 
+Please note the resemblance of the second-step fish with the [narrow eyed spider][ne-spiders-page]. 
 
 [ne-spiders-page]: ../docs/spiders#spiders-with-a-narrow-eye
 [fish-page]: ../docs/fish#fish-notation
@@ -55,14 +54,14 @@ This ground uses the thread diagram of alternating <span class="stch">ct/ctct</s
 
 The pricking on the left is generated with one of the "ground from template" [tools](/inkscape-bobbinlace/Ground-from-Template) and a plain text file (<a href="../data/wobble.txt" download>download</a>). The changing angle of the rose ground units inspired the name.
                 
-On the right a distorted version that matches a Torchon grid. The units of the rose-ground are placed in different directions, indicated with blue arrows. These units can be replaced with units of a bias ground The green arrows indicate the working order inherited from the first pair diagram.
+On the right a distorted version that matches a Torchon grid. The units of the rose-ground are placed in different directions, indicated with blue arrows. These units can be replaced with units of a bias ground. The green arrows indicate the working order inherited from the original pair diagram.
 
 [p-wobble-0]: ../images/droste/wobble.svg?align=right "wobble, distorted" 
 [p-wobble-2]: ../images/droste/wobble2.svg?align=left "wobble"
 
 ### Generate diagrams (color coded / threads)
 
-After completing the stitches for the second step in the form below, click on the button of the desired type of rose-ground units. In the page that will appear next, click the ![](../images/wand.png) in the "Thread diagram as pair diagram" section for the thread diagram.
+After completing the stitches for the first step in the form below, click on the button of the desired type of rose-ground units. In the page that will appear next, click the ![](../images/wand.png) in the "threads" section for the thread diagram.
 
 {% include wobble.html %}
 
@@ -88,7 +87,7 @@ The picture on the right shows another general scheme also based on the Paris gr
 [![rcl][p-paris-rcl]][T-paris-rcl] 
 <p style="clear: both"></p>
 
-Mrs. V. Irvine has worked an example using the left pricking. See [_Favourite Flaveolate_][p-VI-001] for a photo, and [here][t-VI-001] for how she made it (one step definition). Pins where used to get the triangle shape at the "joints" of the hexagons.      
+Mrs. V. Irvine has worked an example using the left pricking. See [_Favourite Flaveolate_][p-VI-001] for a photo, and [here][t-VI-001] for how she made it. Pins where used to get the triangle shape at the "joints" of the hexagons.      
 
 [p-paris-droste]: ../images/droste/paris-droste-0.svg?align=right "variation on fancy Zeccatello"
 [p-fancy-z]: ../images/droste/paris-droste-f12.svg?align=right "fancy Zeccatello"
@@ -119,7 +118,7 @@ Mrs. V. Irvine has worked an example using the left pricking. See [_Favourite Fl
 
 ### &quot;&amp;&quot; ground
 
-The following examples use a stitch like <span class="stch">crctclcr</span> in the first step. The first step of example 1 is interesting: every single tread takes the same path!   
+The following examples use a stitch like <span class="stch">crctclcr</span> in the original thread diagram.        
 [![example 1][p-damp1]][D-LL-1]  [![example 2][p-damp2]][D-LL-2]  [![example 3][p-damp3]][D-LL-3]     
 
 [D-LL-1]: /GroundForge/droste?patchWidth=8&patchHeight=8&a1=crctclcr&a2=clctcrcl&droste2=ctct&tile=1,8&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
