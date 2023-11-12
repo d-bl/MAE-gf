@@ -109,9 +109,5 @@ The samples and photo's are made by S. Babbs. Clicking on the photo shows a larg
 </table>
 
 
-***
-[&uArr;]()
-
-
 
 
