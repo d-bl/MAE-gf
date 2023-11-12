@@ -127,6 +127,4 @@ The following example shows three different matrix-scheme's to obtain the same g
 [T-0404-P]: /GroundForge/tiles?patchWidth=12&patchHeight=16&a1=cr&c1=cl&d2=ctctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0404-T]: /GroundForge/tiles?patchWidth=12&patchHeight=16&b1=ctc&d1=ctct&a2=cr&c2=cl&tile=-5-5,5-5-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
         
-***
-[&uArr;]()
 
