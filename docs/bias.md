@@ -75,23 +75,23 @@ Sometimes, the bias ground is referred to as [_rose ground_][page-rose], especia
 [P-0236-Ld]: ../images/bias/0236-Ld.png "0236-L"
 [P-0254-Kd]: ../images/bias/0254-Kd.png "0254-K"
 
-[T-0221-N]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ct&c1=ctct&a1=ctct&d2=ctct&b2=ctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0246-N]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ct&c1=ctcr&a1=ctct&d2=ctcr&b2=ctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0212-K]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=cl&c1=ctctc&a1=ctctct&d2=ctctc&b2=ctctct&a2=cl&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0214-N]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ct&c1=ctctc&a1=ctctct&d2=ctctc&b2=ctctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0245-Ld]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=lctcr&c1=tctcl&a1=ctct&d2=ctcl&b2=ctc&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0274-Kd]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=cl&c1=ctcl&a1=ctct&d2=ctcl&b2=ctct&a2=cl&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0277-Kd]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=cr&c1=ctct&a1=ctct&d2=ctcl&b2=ctcl&a2=cl&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0250-L]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=lctcr&c1=ctc&a1=ctcl&d2=ctcr&b2=ctcl&a2=ctcr&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0279-K]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=cr&c1=ctcr&a1=ctcl&d2=ctcr&b2=ctcl&a2=cr&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0228-N]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=tct&c1=ctc&a1=ctc&d2=ctc&b2=ctc&a2=tct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0255-Kd]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=cr&c1=ctct&a1=ctc&d2=ctct&b2=ctc&a2=cr&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0257-Ld]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctcr&c1=ctct&a1=ctc&d2=ctct&b2=ctc&a2=ctcr&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0265-Nd]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ct&c1=ctct&a1=ctcl&d2=ctcl&b2=ctct&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0268-Ld]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&c1=ctcl&a1=ctcl&d2=ctcl&b2=ctcl&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0229-Kd]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ct&c1=ctcl&a1=ctct&d2=ctct&b2=ctc&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0236-Ld]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&c1=ctcl&a1=ctc&d2=ctcl&b2=ctc&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0254-Kd]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=c&c1=ctcl&a1=ctcl&d2=ctcl&b2=ctcl&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0221-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=ctct&a1=ctct&d2=ctct&b2=ctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0246-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=ctcr&a1=ctct&d2=ctcr&b2=ctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0212-K]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=cl&c1=ctctc&a1=ctctct&d2=ctctc&b2=ctctct&a2=cl&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0214-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=ctctc&a1=ctctct&d2=ctctc&b2=ctctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0245-Ld]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=lctcr&c1=tctcl&a1=ctct&d2=ctcl&b2=ctc&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0274-Kd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=cl&c1=ctcl&a1=ctct&d2=ctcl&b2=ctct&a2=cl&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0277-Kd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=cr&c1=ctct&a1=ctct&d2=ctcl&b2=ctcl&a2=cl&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0250-L]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=lctcr&c1=ctc&a1=ctcl&d2=ctcr&b2=ctcl&a2=ctcr&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0279-K]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=cr&c1=ctcr&a1=ctcl&d2=ctcr&b2=ctcl&a2=cr&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0228-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=tct&c1=ctc&a1=ctc&d2=ctc&b2=ctc&a2=tct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0255-Kd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=cr&c1=ctct&a1=ctc&d2=ctct&b2=ctc&a2=cr&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0257-Ld]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctcr&c1=ctct&a1=ctc&d2=ctct&b2=ctc&a2=ctcr&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0265-Nd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=ctct&a1=ctcl&d2=ctcl&b2=ctct&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0268-Ld]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctc&c1=ctcl&a1=ctcl&d2=ctcl&b2=ctcl&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0229-Kd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=ctcl&a1=ctct&d2=ctct&b2=ctc&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0236-Ld]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctc&c1=ctcl&a1=ctc&d2=ctcl&b2=ctc&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0254-Kd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=c&c1=ctcl&a1=ctcl&d2=ctcl&b2=ctcl&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ### examples with two different middle stitches
 
@@ -115,15 +115,15 @@ Sometimes, the bias ground is referred to as [_rose ground_][page-rose], especia
 [P-0235-Nd]: ../images/bias/0235-Nd.png "0235-NL"
 [P-0238-R]: ../images/bias/0238-R.png "0238-RK"
 
-[T-0223-N]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctct&c1=ctct&a1=ctct&d2=ctct&b2=ctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0224-K]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=tctct&c1=ctc&a1=ctcl&d2=ctc&b2=ctcl&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0204-Kd]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=c&c1=ctctcl&a1=ctctct&d2=ctct&b2=ctcl&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0247-Dd]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctct&c1=ctct&a1=ctct&d2=ctcl&b2=ctct&a2=ctcl&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0250-Kd]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=lcr&c1=ctcl&a1=ctcl&d2=ctct&b2=ctcl&a2=ctcr&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0259-Nd]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ct&c1=ctct&a1=ctcr&d2=ctct&b2=ctcr&a2=ctct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0233-Nd]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=tct&c1=ctcl&a1=ctc&d2=ctcl&b2=ctc&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0235-Nd]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=tct&c1=ctcl&a1=ctc&d2=ctcl&b2=ctc&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0238-R]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctctc&c1=ctc&a1=ctc&d2=ctc&b2=ctc&a2=ctctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0223-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctct&c1=ctct&a1=ctct&d2=ctct&b2=ctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0224-K]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=tctct&c1=ctc&a1=ctcl&d2=ctc&b2=ctcl&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0204-Kd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=c&c1=ctctcl&a1=ctctct&d2=ctct&b2=ctcl&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0247-Dd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctct&c1=ctct&a1=ctct&d2=ctcl&b2=ctct&a2=ctcl&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0250-Kd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=lcr&c1=ctcl&a1=ctcl&d2=ctct&b2=ctcl&a2=ctcr&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0259-Nd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=ctct&a1=ctcr&d2=ctct&b2=ctcr&a2=ctct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0233-Nd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=tct&c1=ctcl&a1=ctc&d2=ctcl&b2=ctc&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0235-Nd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=tct&c1=ctcl&a1=ctc&d2=ctcl&b2=ctc&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0238-R]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctctc&c1=ctc&a1=ctc&d2=ctc&b2=ctc&a2=ctctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ##  Bias Ground crossed rose style
 
@@ -134,7 +134,7 @@ See also [mrs Whiting's index][L-whiting]: D6 and F4.
 
 [P-bias-at]: ../images/bias/g-bias-at.svg "tradtional bias crossed, 0278-KK"
 
-[T-0278-KK]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=c&a2=c&b2=ctct&c2=c&d2=tctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=8-48,8314
+[T-0278-KK]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=c&a2=c&b2=ctct&c2=c&d2=tctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=8-48,8314
 
 [L-whiting]: /gw-lace-to-gf/
 
@@ -144,7 +144,7 @@ See also [mrs Whiting's index][L-whiting]: D6 and F4.
 See also [mrs Whiting's index][L-whiting]: E6.   
 
 [p-bias-aa]: ../images/bias/g-bias-aa.svg "alternated bias crossing, 0280-LL"
-[t-0280-LLh]: /GroundForge/tiles?patchWidth=12&patchHeight=12&h1=ctc&g1=lcr&f1=ctc&d1=ctc&c1=lctcr&b1=ctc&a1=rctcl&h2=lctcr&g2=ctc&f2=rctcl&e2=ctc&d2=lcr&c2=ctc&a2=ctc&h3=ctc&f3=ctc&e3=lctcr&d3=ctc&c3=rctcl&b3=ctc&a3=lcr&h4=rctcl&g4=ctc&f4=lcr&e4=ctc&c4=ctc&b4=lctcr&a4=ctc&tile=1488-483,8-483148,831488-4,488-4831&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[t-0280-LLh]: /GroundForge/stitches?patchWidth=12&patchHeight=12&h1=ctc&g1=lcr&f1=ctc&d1=ctc&c1=lctcr&b1=ctc&a1=rctcl&h2=lctcr&g2=ctc&f2=rctcl&e2=ctc&d2=lcr&c2=ctc&a2=ctc&h3=ctc&f3=ctc&e3=lctcr&d3=ctc&c3=rctcl&b3=ctc&a3=lcr&h4=rctcl&g4=ctc&f4=lcr&e4=ctc&c4=ctc&b4=lctcr&a4=ctc&tile=1488-483,8-483148,831488-4,488-4831&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Bias Ground with a diagonal in between
 
@@ -153,29 +153,29 @@ See also [mrs Whiting's index][L-whiting]: E6.
 
 [p-bias-vg]: ../images/bias/g-bias-vg.svg "bias with diagonal, 0221-N"
 [p-bias-sq]: ../images/bias/g-bias-in-sqr.svg "bias in diamond, 0236-L"
-[t-bias-vg]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&d1=ct&e1=ctct&b2=ctct&d2=ctct&e2=ct&f2=ctct&a3=ctct&c3=ctct&e3=ctct&f3=ct&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5-486-,-5-486,6-5-48
-[t-bias-sq]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&d1=ctc&e1=ctc&b2=ctct&d2=ctcl&e2=ctc&f2=ctc&a3=ctct&c3=ctct&e3=ctcl&f3=ctct&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5-486-,-5-486,6-5-48
+[t-bias-vg]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&d1=ct&e1=ctct&b2=ctct&d2=ctct&e2=ct&f2=ctct&a3=ctct&c3=ctct&e3=ctct&f3=ct&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5-486-,-5-486,6-5-48
+[t-bias-sq]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&d1=ctc&e1=ctc&b2=ctct&d2=ctcl&e2=ctc&f2=ctc&a3=ctct&c3=ctct&e3=ctcl&f3=ctct&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5-486-,-5-486,6-5-48
    
 ## Bias Ground crossed and a diagonal in between
 
 [![][p-bias-av]][t-bias-av]
 
 [p-bias-av]: ../images/bias/g-bias-av.svg "bias crossed with diagonal, 0221-N"
-[t-bias-av]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&e1=ctct&f1=ct&a2=ctct&b2=ctct&c2=ctct&d2=ctct&e2=ctct&f2=ctct&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-4&shiftRowsSW=2&tile=8-7-48,831214
+[t-bias-av]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&e1=ctct&f1=ct&a2=ctct&b2=ctct&c2=ctct&d2=ctct&e2=ctct&f2=ctct&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-4&shiftRowsSW=2&tile=8-7-48,831214
 
 ## Unit bias in a diamond
 
 [![][p-bias-uni]][t-bias-uni]
 
 [p-bias-uni]: ../images/bias/g-sh-bias-in-sqr.svg "one bias unit in diamond, 0235-L"
-[t-bias-uni]: /GroundForge/tiles?patchWidth=12&patchHeight=12&b1=ctct&d1=ctct&f1=ctct&a2=ctc&c2=ctct&e2=ctct&a3=ctc&b3=ctcr&d3=ctct&f3=ctcl&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=-5-4-5,5-5-5-,86-5-5
+[t-bias-uni]: /GroundForge/stitches?patchWidth=12&patchHeight=12&b1=ctct&d1=ctct&f1=ctct&a2=ctc&c2=ctct&e2=ctct&a3=ctc&b3=ctcr&d3=ctct&f3=ctcl&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=-5-4-5,5-5-5-,86-5-5
 
 ## Bias Ground crossed and in a diamond
 
 [![][p-bias-unx]][t-bias-unx]
 
 [p-bias-unx]: ../images/bias/g-bias-x-in-sqr.svg "one crossed bias unit in diamond, 0221-N"
-[t-bias-unx]: /GroundForge/tiles?patchWidth=12&patchHeight=12&b1=ctct&c1=ct&d1=ctct&e1=ct&f1=ctct&a2=ctct&b2=ct&c2=ctct&e2=ctct&f2=ct&a3=ct&b3=ctct&d3=ctct&f3=ctct&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=-21486,317-48,88-5-4
+[t-bias-unx]: /GroundForge/stitches?patchWidth=12&patchHeight=12&b1=ctct&c1=ct&d1=ctct&e1=ct&f1=ctct&a2=ctct&b2=ct&c2=ctct&e2=ctct&f2=ct&a3=ct&b3=ctct&d3=ctct&f3=ctct&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=-21486,317-48,88-5-4
 
 ## Short Bias
 
@@ -192,9 +192,9 @@ Take just one unit of the Bias ground and place them all in the same direction, 
 [pic-0228-OG]: ../images/bias/g-0228-OG.svg "units in same direction, 0228-N"
 [pic-0228-OGy]: ../images/bias/g-0228-OGy.svg "units in alternating directions, 0228-N"
 [foto-0228-OGy]: ../images/bias/g-0228-foto.jpg?align=right "solo units placed in alternating directions, 0228-N"
-[T-0228-OG]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=tct&b1=ctc&d1=ctc&a2=ctc&c2=ctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=86-5,4-5-
-[T-0228-OGy]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=tct&b1=ctc&d1=ctc&a2=ctc&c2=ctc&b3=ctc&c3=tct&d3=ctc&a4=ctc&c4=ctc&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=0&shiftRowsSW=4&tile=15-2,7-5-,-586,5-4-
-[T-0267-OGy]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctcr&d1=ctct&a2=ctct&c2=ctcl&b3=ctcl&c3=ctc&d3=ctct&a4=ctcr&c4=ctct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=0&shiftRowsSW=4&tile=15-2,7-5-,-586,5-4-
+[T-0228-OG]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=tct&b1=ctc&d1=ctc&a2=ctc&c2=ctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=86-5,4-5-
+[T-0228-OGy]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=tct&b1=ctc&d1=ctc&a2=ctc&c2=ctc&b3=ctc&c3=tct&d3=ctc&a4=ctc&c4=ctc&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=0&shiftRowsSW=4&tile=15-2,7-5-,-586,5-4-
+[T-0267-OGy]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctc&b1=ctcr&d1=ctct&a2=ctct&c2=ctcl&b3=ctcl&c3=ctc&d3=ctct&a4=ctcr&c4=ctct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=0&shiftRowsSW=4&tile=15-2,7-5-,-586,5-4-
 
 ### Crossed
 
@@ -203,7 +203,7 @@ Take one unit of the Bias ground, place them in alternating directions, and cros
 <p style="clear: both"></p>
 
 [p-0248]: ../images/bias/g-02YQ2.svg?align=left "alternating and crossed, 0248-N"
-[t-0248]: /GroundForge/tiles?patchWidth=12&patchHeight=12&d1=ctc&b1=ctc&a1=tct&d2=c&c2=ctc&b2=c&a2=ctc&d3=ctc&c3=tct&b3=ctc&d4=c&c4=ctc&b4=c&a4=ctc&tile=88-4,4831,-117,3178,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[t-0248]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctc&b1=ctc&a1=tct&d2=c&c2=ctc&b2=c&a2=ctc&d3=ctc&c3=tct&b3=ctc&d4=c&c4=ctc&b4=c&a4=ctc&tile=88-4,4831,-117,3178,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Double bias
 
@@ -212,7 +212,7 @@ Of course, this pull-back through two can be extended further: pull-back through
 <p style="clear: both"></p>
 
 [p-doublebias]: ../images/bias/g-doublebias.svg?align=left "double bias"
-[t-doublebias]: /GroundForge/tiles?patchWidth=15&patchHeight=15&d1=rctcr&c1=ctc&b1=ctc&a1=lctcl&b2=ctc&tile=2A1C,-7--&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=1
+[t-doublebias]: /GroundForge/stitches?patchWidth=15&patchHeight=15&d1=rctcr&c1=ctc&b1=ctc&a1=lctcl&b2=ctc&tile=2A1C,-7--&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=1
 
 ## Bias with vertical
 
@@ -220,7 +220,7 @@ Of course, this pull-back through two can be extended further: pull-back through
 <p style="clear: both"></p>
 
 [p-3228]: ../images/bias/G32.svg?align=left "bias with vertical, 3228"
-[t-3228]: /GroundForge/tiles?patchWidth=12&patchHeight=20&b1=ctc&c1=ctc&d1=ctc&b2=ctc&c2=ctctc&d2=ctc&b3=ctcr&c3=ctc&d3=ctcl&a4=ttctctt&tile=-C3B,-488,-148,5---&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[t-3228]: /GroundForge/stitches?patchWidth=12&patchHeight=20&b1=ctc&c1=ctc&d1=ctc&b2=ctc&c2=ctctc&d2=ctc&b3=ctcr&c3=ctc&d3=ctcl&a4=ttctctt&tile=-C3B,-488,-148,5---&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Stretched
 
@@ -235,10 +235,9 @@ The one on the left is a bias ground, stretched vertically, as found in the Whit
 [p-stretched-73]: ../images/bias/w-stretched-73.png "0759"
 [p-stretched-74]: ../images/bias/w-stretched-74.png "0775"
 
-[T-0714]: /GroundForge/tiles?patchWidth=12&patchHeight=20&a1=ctctctc&b1=tct&c1=ctctctc&b2=ctc&a3=ctc&c3=ctc&d4=ctc&tile=B8D-,-4--,B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
-[T-0759]: /GroundForge/tiles?patchWidth=12&patchHeight=20&b1=ctc&a2=ctctctc&c2=tct&b3=ctc&a4=tct&c4=ctctctc&b5=ctc&a6=ctc&c6=ctc&tile=-5--,B-C-,-5--,B-C-,-5--,B-C-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6
-[T-0775]: /GroundForge/tiles?patchWidth=12&patchHeight=12&a1=ctc&b1=ctc&c1=tctct&d1=ctc&a2=ctcl&b2=ctc&a3=ctc&b3=ctc&c3=ctc&b4=ctc&c4=rctc&tile=83A4,48--,48D-,-48-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
+[T-0714]: /GroundForge/stitches?patchWidth=12&patchHeight=20&a1=ctctctc&b1=tct&c1=ctctctc&b2=ctc&a3=ctc&c3=ctc&d4=ctc&tile=B8D-,-4--,B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
+[T-0759]: /GroundForge/stitches?patchWidth=12&patchHeight=20&b1=ctc&a2=ctctctc&c2=tct&b3=ctc&a4=tct&c4=ctctctc&b5=ctc&a6=ctc&c6=ctc&tile=-5--,B-C-,-5--,B-C-,-5--,B-C-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6
+[T-0775]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctc&b1=ctc&c1=tctct&d1=ctc&a2=ctcl&b2=ctc&a3=ctc&b3=ctc&c3=ctc&b4=ctc&c4=rctc&tile=83A4,48--,48D-,-48-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 
-***
-[&uArr;]()
+
 

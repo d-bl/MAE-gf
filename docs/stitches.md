@@ -8,7 +8,7 @@ title: Catalogue of stitches
 {% include p-l-c.html
   src="/MAE-gf/images/ctrl/crct.jpg"
   alt="crct"
-  lnk="/GroundForge/tiles?patchWidth=12&patchHeight=12&paintStitches=crct&c1=crct&a1=crct&n2=crct&d2=crct&b2=crct&c3=crct&footside=4,x&tile=-5-,5-5,-5-&headside=x,7&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2"
+  lnk="/GroundForge/stitches?patchWidth=12&patchHeight=12&paintStitches=crct&c1=crct&a1=crct&n2=crct&d2=crct&b2=crct&c3=crct&footside=4,x&tile=-5-,5-5,-5-&headside=x,7&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2"
   title="crct, lacework and photo: C. Pröfrock"
 %}  
 
@@ -107,11 +107,8 @@ The samples and photo's are made by S. Babbs. Clicking on the photo shows a larg
   {% include ctrl.html s1="crrcllcrrcllcrrcllctt" name="tally (to fit)" %}
     
 </table>
-
-
-***
-[&uArr;]()
-
+     
+    
 
 
 

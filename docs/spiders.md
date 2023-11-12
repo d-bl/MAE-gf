@@ -144,5 +144,4 @@ See also page [_Counting snowflake families_][count-page].
 [p-sp-sa1]: ../images/spiders/g-sa1.svg "stacked spider"
 [t-sp-sa1]: /GroundForge/tiles?patchWidth=15&patchHeight=15&b1=ctc&a2=ctcll&c2=ctcrr&b3=ctctt&d3=ctc&a4=ctc&c4=ctc&d5=ctc&a6=ctcrr&c6=ctcll&b7=ctctt&d7=ctc&a8=ctc&c8=ctc&tile=-5--,B-C-,-5-5,5-5-,---5,C-B-,-5-5,5-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=8&shiftColsSE=2&shiftRowsSE=8
 
-***
-[&uArr;]()  
+

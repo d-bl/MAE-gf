@@ -67,6 +67,4 @@ Several grounds have more than one working prototype, as is explained in de Grou
 
 The example is a variation on a 's Gravenmoers snowflake ground. Click on the picture to see how the thread-diagram looks like.      
 
-***
-[&uArr;]()
 
