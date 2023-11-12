@@ -190,5 +190,4 @@ Or stitches like <span class="stch">cllPcrcllPcr</span> on the left footside and
 
 [t-ec030]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&footside=r,1&tile=8888,1111&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=2&n1=ctc&e1=ctc&d1=crrcl&c1=ctc&b1=cllc&a1=ctctctct&n2=ctctctct&e2=ctc&d2=crrc&c2=ctc&b2=cllcr&a2=-
 
-***
-[&uArr;]()
+
