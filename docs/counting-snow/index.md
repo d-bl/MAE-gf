@@ -272,9 +272,8 @@ in other words the first stitch would be made with the two pairs on the right.
 Requirements for the blobs: span 4 threads, threads flow two by two into adjacent blobs. 
 Not all blobs need to have an interaction for all of its four threads.
 
-Start with a template from the table below that corresponds with the set of blobs.
-An almost empty version of the screenshot below will appear.
-Fill out the text box of the first step with the set of blobs and click wands to generate the diagrams. 
+The form below initialises the page shown in te screenshot below the form.
+Click wands to generate diagrams. 
 Giving stitches a color in the first thread diagram 
 can help to compare distorted diagrams and detect possible mistakes in your analysis.
 The tooltips in the second pair diagram help to fill in the text box of the second step with desired stitches.
@@ -285,33 +284,11 @@ Note that a trailing twist in the last blob gets combined with a leading twist o
 This is counteracted with a ctct(pin)tctc, pins frequently get misplaced, so we leave them out.
 PLease don't rely on twist marks in the pair diagrams, they are buggy.
 
-|  first blob on the ...  |                            number of blobs                             |
-|:-----------------------:|:----------------------------------------------------------------------:|
-|          right          | [2][r2], [3][r3], [4][r4], [5][r5], [6][r6], [7][r7], [8][r8], [9][r9] | 
-|          left           | [2][l2], [3][l3], [4][l4], [5][l5], [6][l6], [7][l7], [8][l8], [9][l9] | 
-
-&nbsp;  
-
-[//]: # (https://d-bl.github.io/GroundForge/droste.html?patchWidth=5&patchHeight=7&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&b1=rcrc&droste2=b10=rclc,b11=ctc,b12=ctc,b13=lcrc&droste3=b100=ctcttctc,b122=b123=b132=b133=ctcrr#)
+{% include snow-6.html %}
 
 ![](blobs-drostes.png?align=right)
 
-[l2]: /GroundForge/droste?b1=lc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
-[r2]: /GroundForge/droste?b1=rc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
-[l3]: /GroundForge/droste?b1=lcl&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
-[r3]: /GroundForge/droste?b1=rcr&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
-[l4]: /GroundForge/droste?b1=lclc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
-[r4]: /GroundForge/droste?b1=rcrc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
-[l5]: /GroundForge/droste?b1=lclcl&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
-[r5]: /GroundForge/droste?b1=rcrcr&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
-[l6]: /GroundForge/droste?b1=lclclc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
-[r6]: /GroundForge/droste?b1=rcrcrc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
-[l7]: /GroundForge/droste?b1=lclclcl&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
-[r7]: /GroundForge/droste?b1=rcrcrcr&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
-[l8]: /GroundForge/droste?b1=lclclclc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
-[r8]: /GroundForge/droste?b1=rcrcrcrc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
-[l9]: /GroundForge/droste?b1=lclclclcl&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
-[r9]: /GroundForge/droste?b1=rcrcrcrcr&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&
+&nbsp;
 
 ### 6 pairs with 2 bouncing pairs
 
@@ -324,19 +301,11 @@ In the first example above (lct-tcr), each bouncing pair section interacts with 
 In the second example we see more interactions between the bouncing pairs.
 The first example requires two stitches to define a thread diagram to be used as pair diagram, the second one requires three stitches.
 
-The solutions for [lct-tcr](/GroundForge/stitches.html?patchWidth=7&patchHeight=7&tile=-5-5-5,5-5-5-,-5-5-5,5-5-5-,-5-5-5,5-5-5-&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6&f1=ctcttttt&d1=ctctttt&b1=ctctttt&e2=ctcttttt&c2=ctctttt&a2=ctctttt&f3=ctcttttt&d3=lct&b3=ctctttt&e4=crcrrrrr&c4=clclllll&a4=ctctttt&f5=ctcttttt&d5=tcr&b5=ctctttt&e6=lllllctcttttt&c6=rrrrctctttt&a6=llllctctttt&droste2=ct,c25=d31=d32=d33=d51=d53=d52=d50=ctc,c40=rct,c60=tct,e40=e61=e62=lct)
-and [lcr-rccl-lcr](/GroundForge/stitches.html?patchWidth=7&patchHeight=9&tile=-5-5,5-5-,-5-5,5-5-,-5-5,5-5-,-5-5,5-5-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=4&shiftRowsSE=8&d1=ctctttt&b1=ctctttt&c2=ctctttt&a2=ctctttt&d3=lcr&b3=ctctttt&c4=-&a4=crcrrrr&d5=rccl&b5=ctctttt&c6=clcllll&a6=-&d7=lcr&b7=ctctttt&c8=rrrrctctttt&a8=llllctctttt&droste2=ct,c25=d31=d32=d53=d51=d50=d72=d71=d70=ctc,c80=tct,c60=rct,a81=a82=a40=lct)
-are shown in the screenshots below. 
-These solutions also serve as templates for other families.
-
-The lcr-rccl-lcr example is shown twice below: 
-the snowflake is connected in different ways with the ground.
-We have either `clcllll` respectively `crcrrrr` or `cllll` respectively `crrrr`.
-The important parts of the templates are two or three stitches in a column, those are highlighted in the thread diagrams.
+The form below generates the diagrams show below the form. 
+Note the subtle difference for the open and closed connection in diagram variations for the three-stitch example.
 Follow the link to "_thread diagram as pair diagram_" to select your stitches for the snowflake.
-The holes in the three-stitch template may need to flip sides. 
-Use the "_assign to ignored_" button to reveal the dropped stitches, 
-then assign [-] to the stitches to drop for the new holes.
+
+{% include snow-6-bounce2.html %}
 
 ![](4-3254-2.png)
 
