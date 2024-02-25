@@ -83,6 +83,7 @@ Or stitches like <span class="stch">cllPcrcllPcr</span> on the left footside and
 [![EC-020][p-ec020]][t-ec020] 
 [![EC-021][p-ec021]][t-ec021] 
 [![EC-022][p-ec022]][t-ec022] 
+[![EC-031][p-ec031]][t-ec031]
 
 [p-ec008]: ../images/ec/EC008.png "EC-008, Meander"
 [p-ec009]: ../images/ec/EC009.png "EC-009"
@@ -96,6 +97,7 @@ Or stitches like <span class="stch">cllPcrcllPcr</span> on the left footside and
 [p-ec020]: ../images/ec/EC020.png "EC-020"
 [p-ec021]: ../images/ec/EC021.png "EC-021"
 [p-ec022]: ../images/ec/EC022.png "EC-022"
+[p-ec031]: ../images/ec/EC031.png "EC-031"
 
 [t-ec008]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=clcr&b1=crcl&a1=ctctctct&n2=ctctctct&c2=clcr&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
@@ -120,6 +122,8 @@ Or stitches like <span class="stch">cllPcrcllPcr</span> on the left footside and
 [t-ec022]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=clct&n1=ctctt&c1=ctc&b1=crct&a1=ctctctct&n2=ctctctct&c2=ctc&b2=clct&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 [t-ec027]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=ct&b1=crcl&a1=ctctctct&n2=ctctctct&c2=ct&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+
+[t-ec031]: ../GroundForge/stitches?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=cct&b1=ctct&a1=ctctctct&n2=ctctctct&c2=ctct&b2=cct&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ### 2 columns, 2 rows, offset 1
 
