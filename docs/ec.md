@@ -123,7 +123,7 @@ Or stitches like <span class="stch">cllPcrcllPcr</span> on the left footside and
 
 [t-ec027]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=ct&b1=crcl&a1=ctctctct&n2=ctctctct&c2=ct&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[t-ec031]: ../GroundForge/stitches?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=cct&b1=ctct&a1=ctctctct&n2=ctctctct&c2=ctct&b2=cct&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-ec031]: /GroundForge/stitches?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=cct&b1=ctct&a1=ctctctct&n2=ctctctct&c2=ctct&b2=cct&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ### 2 columns, 2 rows, offset 1
 
