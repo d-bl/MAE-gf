@@ -54,6 +54,13 @@ test include met zonder erin, huh?
 %} 
 </table>
 
+picture test     
+![][e-a]
+![][e-b]
+
+[e-a]: ../images/EC031-a.png
+[e-b]: ../images/EC031-b.png
+
 
 ***
 [&uArr;]()
