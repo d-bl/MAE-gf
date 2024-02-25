@@ -56,14 +56,15 @@ test include met zonder erin, huh?
 
 picture test     
 ![][e-a]
-![][e-b]
 ![][e-c]
 ![][e-d]
+![][e-f]
 
 [e-a]: ../images/EC031-a.png
 [e-b]: ../images/EC031-b.png
 [e-c]: ../images/EC031-c.png
 [e-d]: ../images/EC031-d.png
+[e-f]: ../images/ec/EC031.png
 
 
 ***
