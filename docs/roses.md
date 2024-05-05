@@ -235,6 +235,6 @@ Take a non-symmetrical rose ground unit, move one of the pins to the middle, and
 [P-jp-1]: ../images/roses/w-jp-1.png "(not numbered)"
 [P-jp-2]: ../images/roses/w-jp-2.png "(not numbered)"
 
-[T-jp-1]: /GroundForge/tiles.html?patchWidth=16&patchHeight=14&h1=ct&g1=ct&f1=ct&e1=ctct&c1=ctct&b1=ct&a1=ct&g2=ct&f2=ctct&b2=ctct&a2=ct&h3=ct&g3=ct&f3=ct&e3=ctct&c3=ctct&b3=ct&a3=ct&h4=ctct&g4=ct&e4=ct&d4=ctct&c4=ct&a4=ct&tile=834-7315,44---77-,179-0483,7-158-43&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
-[T-jp-2]: /GroundForge/tiles.html?patchWidth=16&patchHeight=14&h1=ct&g1=ct&f1=ctct&e1=ctttct&c1=ctttct&b1=ctct&a1=ct&g2=ct&f2=ctct&b2=ctct&a2=ct&h3=ct&g3=ct&f3=ctct&e3=ctttct&c3=ctttct&b3=ctct&a3=ct&h4=ctct&g4=ctct&e4=ctct&d4=ctct&c4=ctct&a4=ctct&tile=834-7315,44---77-,179-0483,7-158-43&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[T-jp-1]: /GroundForge/stitches.html?patchWidth=16&patchHeight=14&h1=ct&g1=ct&f1=ct&e1=ctct&c1=ctct&b1=ct&a1=ct&g2=ct&f2=ctct&b2=ctct&a2=ct&h3=ct&g3=ct&f3=ct&e3=ctct&c3=ctct&b3=ct&a3=ct&h4=ctct&g4=ct&e4=ct&d4=ctct&c4=ct&a4=ct&tile=834-7315,44---77-,179-0483,7-158-43&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[T-jp-2]: /GroundForge/stitches.html?patchWidth=16&patchHeight=14&h1=ct&g1=ct&f1=ctct&e1=ctttct&c1=ctttct&b1=ctct&a1=ct&g2=ct&f2=ctct&b2=ctct&a2=ct&h3=ct&g3=ct&f3=ctct&e3=ctttct&c3=ctttct&b3=ctct&a3=ct&h4=ctct&g4=ctct&e4=ctct&d4=ctct&c4=ctct&a4=ctct&tile=834-7315,44---77-,179-0483,7-158-43&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
