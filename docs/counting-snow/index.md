@@ -301,7 +301,7 @@ In the first example above (lct-tcr), each bouncing pair section interacts with 
 In the second example we see more interactions between the bouncing pairs.
 The first example requires two stitches to define a thread diagram to be used as pair diagram, the second one requires three stitches.
 
-The form below generates the diagrams show below the form. 
+The form below generates the diagrams shown below the form. 
 Note the subtle difference for the open and closed connection in diagram variations for the three-stitch example.
 Follow the link to "_thread diagram as pair diagram_" to select your stitches for the snowflake.
 

@@ -17,6 +17,21 @@ header h1, header h2 {width:100%}
 #sidebar sub { font-weight: normal; }
 #sidebar li { list-style-type: none; padding-bottom: 0; }
 
+#hamburger-menu {
+    display: none;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+    width: 30px;
+    height: 30px;
+}
+@media (max-width: 767px) {
+    #hamburger-menu {
+        display: block;
+    }
+}
+
 /* stitches & elements */
 .stch {border: 1px solid #DBE7F3; background-color: #F2F8FC;}
 .elem {border: 1px solid #DBE7F3;}
