@@ -6,19 +6,19 @@
             const nrOfBlobs = blobs.length;
             let href = "/GroundForge/droste?droste2=";
             for (let i = 0; i < nrOfBlobs; i++) {
-                href += `b1${i}=${blobs[i]},`
+                href += `b1${i}=${blobs[i]},`;
             }
-            href += "&b1="
+            href += "&b1=";
             if (document.getElementById("firstBlobRight").checked) {
-                href += "rc".repeat(nrOfBlobs).substring(0,nrOfBlobs)
+                href += "rc".repeat(nrOfBlobs).substring(0,nrOfBlobs);
             }
             else {
-                href += "lc".repeat(nrOfBlobs).substring(0,nrOfBlobs)
+                href += "lc".repeat(nrOfBlobs).substring(0,nrOfBlobs);
             }
-            href += `&droste3=ctc,b1${nrOfBlobs-1}${blobs[nrOfBlobs-1].length-1}=ctcttctc`
-            document.getElementById("link").href = href + "&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1"
+            href += `&droste3=ctc,b1${nrOfBlobs-1}${blobs[nrOfBlobs-1].length-1}=ctcttctc`;
+            document.getElementById("link").href = href + "&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1";
         }
-        update()
+        update();
     </script>
     <input type="radio" name="firstBlob" value="l" id="firstBlobLeft" onchange="update()"> <label for="firstBlobLeft">left</label>
     <input type="radio" name="firstBlob" value="r" id="firstBlobRight" checked onchange="update()"> <label for="firstBlobRight">right</label>
