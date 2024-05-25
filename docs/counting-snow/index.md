@@ -273,7 +273,8 @@ Requirements for the blobs: span 4 threads, either the first four or the last fo
 Threads flow two by two into adjacent blobs. 
 Not all threads in a blob need to have an interaction with other threads.
 
-The form below initialises the page shown in te screenshot below the form.
+We can now type the recipe in the form below. 
+The initial values initialises the page as shown in te screenshot below the form.
 
 {% include snow-6.html %}
 
