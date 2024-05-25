@@ -269,7 +269,7 @@ On the right a solution for one snowflake.
 The capital R indicates that the first blob is on the right side,
 in other words the first stitch would be made with the two pairs on the right.
 
-Requirements for the blobs: span 4 threads, either the first four or the last four
+Requirements for the blobs: span 4 threads, either the first four or the last four.
 Threads flow two by two into adjacent blobs. 
 Not all threads in a blob need to have an interaction with other threads.
 
