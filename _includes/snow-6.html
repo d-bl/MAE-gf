@@ -3,10 +3,10 @@
     <input type="radio" name="firstBlob" value="l" id="firstBlobLeft" onchange="update()"> <label for="firstBlobLeft">left</label>
     <input type="radio" name="firstBlob" value="r" id="firstBlobRight" checked onchange="update()"> <label for="firstBlobRight">right</label>
     <input type="text" id="no-bounce-blobs" name="blobs" width="35" spellcheck="false" onchange="update()" value="rclc,ctc,ctc,crcl">
-    <a id="link" href="#" target="_blank"><button type="button">Go</button></a>
+    <a id="no-bounce-link" href="#" target="_blank"><button type="button">Go</button></a>
 </form>
 <script>
-    function update(){
+    function update_no_bounce(){
         const blobs = document.getElementById('no-bounce-blobs').value.split(",");
         const nrOfBlobs = blobs.length;
         let href = "/GroundForge/droste?droste2=";
@@ -21,8 +21,7 @@
             href += "lc".repeat(nrOfBlobs).substring(0,nrOfBlobs);
         }
         href += `&droste3=ctc,b1${nrOfBlobs-1}${blobs[nrOfBlobs-1].length-1}=ctcttctc`;
-        document.getElementById("link").href = href + "&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1";
+        document.getElementById("no-bounce-link").href = href + "&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1";
     }
-    update();
-    update();
+    update_no_bounce();
 </script>

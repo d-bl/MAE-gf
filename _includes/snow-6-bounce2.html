@@ -21,7 +21,7 @@
         <button type="button">Go</button>
     </a>
     <script>
-        function update() {
+        function update_bounce() {
             const blobs = document.getElementById('bounce-blobs').value.split(",");
             const nrOfBlobs = blobs.length;
             let href = "/GroundForge/stitches?";
@@ -59,6 +59,6 @@
             }
             document.getElementById("bounce-link").href = href
         }
-        update()
+        update_bounce()
     </script>
 </form>
