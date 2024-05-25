@@ -10,18 +10,18 @@
     &nbsp;
     Connection
     <span style="display: inline-block">
-        <input type="radio" name="conn" value="l" id="conn-closed" onchange="update()">
+        <input type="radio" name="conn" value="l" id="conn-closed" onchange="update_bounce()">
         <label for="conn-closed">closed</label>
         <br>
-        <input type="radio" name="conn" value="r" id="conn-open" onchange="update()" checked>
+        <input type="radio" name="conn" value="r" id="conn-open" onchange="update_bounce()" checked>
         <label for="conn-open">open</label>
     </span>
-    <input type="text" id="bounce-blobs" name="blobs" width="35" spellcheck="false" onchange="update()" value="lcr,rccl,lcr">
+    <input type="text" id="bounce-blobs" name="blobs" width="35" spellcheck="false" onchange="update_bounce()" value="lcr,rccl,lcr">
     <a id="bounce-link" href="#" target="_blank">
         <button type="button">Go</button>
     </a>
     <script>
-        function update() {
+        function update_bounce() {
             const blobs = document.getElementById('bounce-blobs').value.split(",");
             const nrOfBlobs = blobs.length;
             let href = "/GroundForge/stitches?";
@@ -59,6 +59,6 @@
             }
             document.getElementById("bounce-link").href = href
         }
-        update()
+        update_bounce()
     </script>
 </form>

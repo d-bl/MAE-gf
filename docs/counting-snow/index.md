@@ -256,8 +256,8 @@ that two lines of the same color cross one another.
 Choose stitches
 ---------------
 
-The last step to explore snowflakes and other crossings is to choose stitches for a thread diagram. 
-To prepare for that step we can interpret the pair diagrams of family members as thread diagrams 
+As last step to explore snowflakes and other crossings we choose stitches for a thread diagram. 
+To prepare for that step we can interpret a pair diagram as a thread diagram 
 and use the droste page of GroundForge. 
 
 ### 6 pairs without bouncing
@@ -269,26 +269,27 @@ On the right a solution for one snowflake.
 The capital R indicates that the first blob is on the right side,
 in other words the first stitch would be made with the two pairs on the right.
 
-Requirements for the blobs: span 4 threads, threads flow two by two into adjacent blobs. 
-Not all blobs need to have an interaction for all of its four threads.
+Requirements for the blobs: span 4 threads, either the first four or the last four
+Threads flow two by two into adjacent blobs. 
+Not all threads in a blob need to have an interaction with other threads.
 
-The form below initialises the page shown in te screenshot below the form.
-Click wands to generate diagrams. 
-Giving stitches a color in the first thread diagram 
-can help to compare distorted diagrams and detect possible mistakes in your analysis.
-The tooltips in the second pair diagram help to fill in the text box of the second step with desired stitches.
-The identifiers in the last thread diagram have an extra digit, 
-those tooltips can also help to apply corrections. 
-
-Note that a trailing twist in the last blob gets combined with a leading twist of the first blob.
-This is counteracted with a ctct(pin)tctc, pins frequently get misplaced, so we leave them out.
-PLease don't rely on twist marks in the pair diagrams, they are buggy.
+We can now type the recipe in the form below. 
+The initial values initialises the page as shown in te screenshot below the form.
 
 {% include snow-6.html %}
 
 ![](blobs-drostes.png?align=right)
 
-&nbsp;
+Click wands to generate diagrams.
+Giving stitches a color in the first thread diagram
+can help to compare distorted diagrams and detect possible mistakes in your analysis.
+The tooltips in the second pair diagram help to fill in the text box of the second step with desired stitches.
+The identifiers in the last thread diagram have an extra digit,
+those tooltips can also help to apply corrections.
+
+Note that a trailing twist in the last blob gets combined with a leading twist of the first blob.
+This is counteracted with a ctct(pin)tctc, pins frequently get misplaced, so we leave them out.
+PLease don't rely on twist marks in the pair diagrams, they are buggy.
 
 ### 6 pairs with 2 bouncing pairs
 
@@ -296,6 +297,8 @@ We explore two members of a family to demonstrate the two templates.
 Beyond the [visible area](#save-and-edit-images) we have a few more family members.
 
 ![](4-3254-2.svg?align-right)
+
+&nbsp;
 
 In the first example above (lct-tcr), each bouncing pair section interacts with just one other bouncing pair section.
 In the second example we see more interactions between the bouncing pairs.
