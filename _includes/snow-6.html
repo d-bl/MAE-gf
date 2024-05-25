@@ -1,8 +1,8 @@
 <form>
     First blob starts
-    <input type="radio" name="firstBlob" value="l" id="firstBlobLeft" onchange="update()"> <label for="firstBlobLeft">left</label>
-    <input type="radio" name="firstBlob" value="r" id="firstBlobRight" checked onchange="update()"> <label for="firstBlobRight">right</label>
-    <input type="text" id="no-bounce-blobs" name="blobs" width="35" spellcheck="false" onchange="update()" value="rclc,ctc,ctc,crcl">
+    <input type="radio" name="firstBlob" value="l" id="firstBlobLeft" onchange="update_no_bounce()"> <label for="firstBlobLeft">left</label>
+    <input type="radio" name="firstBlob" value="r" id="firstBlobRight" checked onchange="update_no_bounce()"> <label for="firstBlobRight">right</label>
+    <input type="text" id="no-bounce-blobs" name="blobs" width="35" spellcheck="false" onchange="update_no_bounce()" value="rclc,ctc,ctc,crcl">
     <a id="no-bounce-link" href="#" target="_blank"><button type="button">Go</button></a>
 </form>
 <script>
