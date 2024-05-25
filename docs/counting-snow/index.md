@@ -297,6 +297,8 @@ Beyond the [visible area](#save-and-edit-images) we have a few more family membe
 
 ![](4-3254-2.svg?align-right)
 
+&nbsp;
+
 In the first example above (lct-tcr), each bouncing pair section interacts with just one other bouncing pair section.
 In the second example we see more interactions between the bouncing pairs.
 The first example requires two stitches to define a thread diagram to be used as pair diagram, the second one requires three stitches.
