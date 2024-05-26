@@ -63,9 +63,10 @@ PLease don't rely on twist marks in the pair diagrams, they are buggy.
 
 ### under construction
 
+The form above supports a less traditional constellation of snowflakes.
+
 ![](snow-in-paris.png?align=right)
 
-The form above supports a less traditional constellation of snowflakes.
 This [recipe](/GroundForge/stitches.html?patchWidth=19&patchHeight=16&tile=-5-,5-5,-5-,5-5,-5-,5-5&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=3&shiftRowsSE=3&b1=ct&c2=ct&a2=cllcr&b3=cl&c4=ctc&a4=ct&b5=crrcl&c6=ctc&a6=cr&droste2=ctc,c20=c21=b30=b31=c22=a60=a61=a42=b11=ctct,b53=b10=b12=rctct,a23=a40=a41=lctct)
 supports snowflakes in a Paris ground. 
 It allows more variations of snowflakes than the [tutorial] but still less than the form above.
