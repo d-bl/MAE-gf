@@ -16,9 +16,9 @@ As of this writing, the tutorial is still based on a deprecated page.
 Two approaches
 --------------
 
-Without the Droste approach you have to distort the pair diagram as shown: connect the dots.
+![](connect-dots.svg?align=right)
 
-![](connect-dots.svg)
+Without the Droste approach you have to distort the pair diagram as shown: connect the dots.
 
 The [tutorial] explains how to choose stitches.
 Many variations or combinations require a complete new capture. 
