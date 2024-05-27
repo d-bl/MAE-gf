@@ -3,12 +3,24 @@ layout: default
 title: stitches for snowflakes
 ---
 
+Contents
+--------
+
+- [Two approaches](#two-approaches)
+- [6 pairs with all pairs entering before leaving](#6-pairs-with-all-pairs-entering-before-leaving)
+  - [Two worker pairs](#two-worker-pairs)
+    - [Two passive pairs](#two-passive-pairs)
+    - [In a Paris ground (under construction)](#in-a-paris-ground-under-construction)
+- [6 pairs, on both sides a pair leaves before the last enters](#6-pairs-on-both-sides-a-pair-leaves-before-the-last-enters)
+- [4 pairs](#4-pairs)
+- [3 pairs](#3-pairs)
+
 Stitches for snowflakes
 =======================
 
 A [tutorial] explains how to choose stitches in GroundForge.
-A 6-pair snowflake alias spider embedded in a Paris ground happens to be the used example.
-Dropping stitches can alter the pair diagram for the snowflake only in a limited way.
+This tutorial uses a versatile Binche pattern as an example. 
+This happens to be a 6-pair snowflake alias spider embedded in a Paris ground.
 As of this writing, the tutorial is still based on a deprecated page. 
 
 [tutorial]: /GroundForge-help/Binche
@@ -21,11 +33,11 @@ Two approaches
 Without the Droste approach you have to distort the pair diagram as shown: connect the dots.
 
 The [tutorial] explains how to choose stitches.
-Many variations or combinations require a complete new capture. 
+Many variations or combinations of pair diagrams require a complete new capture. 
 
-This page explores recipes for more pair diagrams using the Droste technique:
+This page explores recipes for more pair diagram variations using the Droste technique:
 * interpret pair diagrams as thread diagrams
-* apply the resulting stitches to a generic recipe
+* apply the resulting stitches to a generic recipe variation
 * use the resulting thread diagram as pair diagram
 * choose stitches
 
@@ -43,6 +55,8 @@ Not all threads in a blob need to have an interaction with other threads.
 6 pairs with all pairs entering before leaving
 ----------------------------------------------
 
+### Two worker pairs
+
 The form below requires the blobs to use either the most left four pairs or the most right four pairs.
 The initial values of the form initialises the page as shown in te screenshots below the form.
 
@@ -50,7 +64,7 @@ The initial values of the form initialises the page as shown in te screenshots b
 
 ![](blobs-drostes.png)
 
-Click wands to generate diagrams. Generate a thread diagram after the pair diagram.
+Click wands to generate diagrams. Generate a thread diagram after refreshing the pair diagram.
 Giving stitches a color in the first thread diagram
 can help to compare distorted diagrams and detect possible mistakes in your analysis.
 The tooltips in the second pair diagram help to fill in the text box of the second step with desired stitches.
@@ -61,16 +75,32 @@ Note that a trailing twist in the last blob gets combined with a leading twist o
 This is counteracted with a ctct(pin)tctc, pins frequently get misplaced, so we leave them out.
 PLease don't rely on twist marks in the pair diagrams, they are buggy.
 
-### under construction
+### Two passive pairs
 
-The form above supports a less traditional constellation of snowflakes.
+The form for two worker pairs assigns the blobs at the first _threads as pairs_ step, that allows more blobs.
+
+![](fish-base-for-star.png?align=right)
+
+Though distorted, we recognize similar elements for the blobs in this 
+[three pair join](/GroundForge/stitches?patchWidth=12&patchHeight=20&b1=clcrc&a1=c&d3=clcrclll&a3=cttt&c4=c&b4=crclc&d6=crclcrrr&c6=cttt&tile=76x-,yxxy,6-x4,x24-,xxww,x-27&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6)
+pattern. This pattern works only for four blobs but provides a traditional constellation of snowflakes.
+
+### In a Paris ground (under construction)
 
 ![](snow-in-paris.png?align=right)
 
-This [recipe](/GroundForge/stitches.html?patchWidth=19&patchHeight=16&tile=-5-,5-5,-5-,5-5,-5-,5-5&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=3&shiftRowsSE=3&b1=ct&c2=ct&a2=cllcr&b3=cl&c4=ctc&a4=ct&b5=crrcl&c6=ctc&a6=cr&droste2=ctc,c20=c21=b30=b31=c22=a60=a61=a42=b11=ctct,b53=b10=b12=rctct,a23=a40=a41=lctct)
-supports snowflakes in a Paris ground. 
-It allows more variations of snowflakes than the [tutorial] but still less than the form above.
-The highlighted stitches represent the blobs.
+This [pattern](/GroundForge/stitches.html?patchWidth=19&patchHeight=16&tile=-5-,6-5,-5-,5-5,-58,5-4&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=3&shiftRowsSE=3&b1=ct&c2=ct&a2=cllcr&b3=cl&c4=ctc&a4=ct&c5=-&b5=crrcl&c6=ctc&a6=cr&droste2=ctc,c20=c21=b30=b31=c22=a60=a61=a42=b11=ctct,b53=b10=b12=rctct,a23=a40=a41=lctct)
+supports snowflakes in a Paris ground as in the [tutorial] but using the Droste technique. Definition for the ring pair at the first _threads as pairs_ step:
+
+    ctc
+    c20=c21=b30=b31=c22=a60=a61=a42=b11=ctct
+    b53=b10=b12=rctct
+    a23=a40=a41=lctct
+
+The screenshot dropped the stitch marked with a grey `+`,
+you can restore the stitch with the button `assign to ignored`.
+The highlighted stitches in the thread diagram represent the blobs.
+The configuration of blobs is not as versatile as for the form above.
 
 6 pairs, on both sides a pair leaves before the last enters
 -----------------------------------------------------------
