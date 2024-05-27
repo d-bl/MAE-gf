@@ -8,9 +8,8 @@ Contents
 
 - [Two approaches](#two-approaches)
 - [6 pairs with all pairs entering before leaving](#6-pairs-with-all-pairs-entering-before-leaving)
-  - [Two worker pairs](#two-worker-pairs)
-    - [Two passive pairs](#two-passive-pairs)
-    - [In a Paris ground (under construction)](#in-a-paris-ground-under-construction)
+  - [Two passive pairs](#two-passive-pairs)
+  - [In a Paris ground (under construction)](#in-a-paris-ground-under-construction)
 - [6 pairs, on both sides a pair leaves before the last enters](#6-pairs-on-both-sides-a-pair-leaves-before-the-last-enters)
 - [4 pairs](#4-pairs)
 - [3 pairs](#3-pairs)
