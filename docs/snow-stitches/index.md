@@ -8,11 +8,13 @@ Contents
 
 - [Two approaches](#two-approaches)
 - [6 pairs with all pairs entering before leaving](#6-pairs-with-all-pairs-entering-before-leaving)
-  - [Two passive pairs](#two-passive-pairs)
+  - [Diamond arrangement](#diamond-arrangement)
+  - [Honeycomb arrangement (under construction)](#honeycomb-arrangement-under-construction)
   - [In a Paris ground (under construction)](#in-a-paris-ground-under-construction)
 - [6 pairs, on both sides a pair leaves before the last enters](#6-pairs-on-both-sides-a-pair-leaves-before-the-last-enters)
 - [4 pairs](#4-pairs)
 - [3 pairs](#3-pairs)
+- [Pairs as threads page](#threads-as-pairs-page)
 
 Stitches for snowflakes
 =======================
@@ -46,43 +48,37 @@ We can analyse stitches in a diagram by marking them with blobs.
 On the right a solution for one snowflake.
 The capital R indicates that the first blob is on the right side,
 in other words the first stitch would be made with the two pairs on the right.
+These two pairs become four after a _threads as pairs_ step.
 
 Requirements for the blobs: span 4 threads, 
 the threads flow two by two into adjacent blobs.
 Not all threads in a blob need to have an interaction with other threads.
 
+
 6 pairs with all pairs entering before leaving
 ----------------------------------------------
 
-### Two worker pairs
+### Diamond arrangement
 
 The form below requires the blobs to use either the most left four pairs or the most right four pairs.
-The initial values of the form initialises the page as shown in te screenshots below the form.
+The initial values of the form initialises the page as shown in the [screenshots](#threads-as-pairs-page) when explaining the .
+You can copy-paste the strings for more examples from 
+<a href="../counting-sow/654321.svg" target="_blank">this set</a>.
+Due to the vast [numbers](../counting-snow) of possible snowflakes we can´t be exhaustive.
 
 {% include snow-6.html %}
 
-![](blobs-drostes.png)
+### Honeycomb arrangement (under construction)
 
-Click wands to generate diagrams. Generate a thread diagram after refreshing the pair diagram.
-Giving stitches a color in the first thread diagram
-can help to compare distorted diagrams and detect possible mistakes in your analysis.
-The tooltips in the second pair diagram help to fill in the text box of the second step with desired stitches.
-The identifiers in the last thread diagram have an extra digit,
-those tooltips can also help to apply corrections.
-
-Note that a trailing twist in the last blob gets combined with a leading twist of the first blob.
-This is counteracted with a ctct(pin)tctc, pins frequently get misplaced, so we leave them out.
-PLease don't rely on twist marks in the pair diagrams, they are buggy.
-
-### Two passive pairs
-
-The form for two worker pairs assigns the blobs at the first _threads as pairs_ step, that allows more blobs.
+The form for diamond arrangement assigns the blobs at the first [threads as pairs](#threads-as-pairs-page) step,
+this approach allows another number of blobs.
 
 ![](fish-base-for-star.png?align=right)
 
-Though distorted, we recognize similar elements for the blobs in this 
-[three pair join](/GroundForge/stitches?patchWidth=12&patchHeight=20&b1=clcrc&a1=c&d3=clcrclll&a3=cttt&c4=c&b4=crclc&d6=crclcrrr&c6=cttt&tile=76x-,yxxy,6-x4,x24-,xxww,x-27&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6)
-pattern. This pattern works only for four blobs but provides a traditional constellation of snowflakes.
+Though distorted, we recognize similar elements for the blobs in [three pair join](../misca#3-paired-join) patterns:
+on a [single tip](/GroundForge/stitches?patchWidth=12&patchHeight=20&b1=clcrc&a1=c&d3=clcrclll&a3=cttt&c4=c&b4=crclc&d6=crclcrrr&c6=cttt&tile=76x-,yxxy,6-x4,x24-,xxww,x-27&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6)
+or on [two tips](/GroundForge/stitches?patchWidth=8&patchHeight=12&d1=c&b1=ctct&l2=ctctrrr&d2=crclcrrr&c2=crclc&b2=ctcttt&a2=ctctl&d3=cttt&k4=ctct&c4=c&l5=ctctrr&k5=ctctrr&d5=clcrc&c5=clcrclll&a5=ctctll&c6=cttt&footside=x4,48,xx,x-,1z,xw&tile=-5,68,-7,5-,12,4-&headside=-x,V8,YX,7X,17,XX&footsideStitch=ctct&tileStitch=ctc&headsideStitch=ctct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6).
+These patterns work only for four blobs.
 
 ### In a Paris ground (under construction)
 
@@ -145,7 +141,30 @@ Just an example: member
 [lclclc](/GroundForge/droste.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=https://d-bl.github.io/GroundForge/droste.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=lclclc&droste2=ctc&droste2=ctc)
 of the family 123.
 
-Stitches with three pairs are not very logical for a seasoned bobbin lace maker,
+Stitches with three pairs can defy the muscle memory for a seasoned bobbin lace maker.
 It means consistently either no right twists or no left twists.
 GroundForge can handle it, it shows starting pins for each 4th thread but no thread.
-Using these basic thread diagrams as pair diagrams (droste effect) is explained in more detail for six pairs. 
+Using these basic thread diagrams as pair diagrams (Droste effect) is explained in more detail for six pairs. 
+
+Threads as pairs page
+---------------------
+
+Many recipes above use at least one step of the _threads as pairs_ page.
+So here are some hints on using the page.
+The example is geared to the two-step method for a varying number of blobs for siz pairs.
+
+![](blobs-drostes.png)
+
+Click wands to generate diagrams. Generate a thread diagram after refreshing the pair diagram.
+Giving stitches a color in the first thread diagram
+can help to compare distorted diagrams and detect possible mistakes in your analysis.
+The tooltips in the second pair diagram help to fill in the text box of the second step with desired stitches.
+The identifiers in the last thread diagram have an extra digit,
+those tooltips can also help to apply corrections.
+
+Note that a trailing twist in the last blob gets combined with a leading twist of the first blob.
+This is counteracted with a ctct(pin)tctc, pins frequently get misplaced, so we leave them out.
+PLease don't rely on twist marks in the pair diagrams, they are buggy.
+
+You are invited to fix the problem with the spider legs in the last [diagram](/GroundForge/droste?droste2=b10=rclc,b11=ctc,b12=ctc,b13=crcl,&b1=rcrc&droste3=ctc,b133=ctcttctc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1#).
+Hint: the screenshots are assembled from different definitions. Ignore the twist marks on the pair diagrams: they are buggy.
