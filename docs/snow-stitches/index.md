@@ -31,24 +31,26 @@ Two approaches
 
 ![](connect-dots.svg?align=right)
 
-Without the Droste approach you have to distort the pair diagram as shown: connect the dots.
+Without the Droste approach you have to distort a pair diagram in GroundForge.
+As the image shows: distort until each stitch matches a dot on a square grid.
 
-The [tutorial] explains how to choose stitches.
-Many variations or combinations of pair diagrams require a complete new capture. 
+This way many variations or combinations of pair diagrams require a complete new capture. 
 
-This page explores recipes for more pair diagram variations using the Droste technique:
+This page explores recipes for more pair diagram variations with a single distortion step using the Droste technique:
 * interpret pair diagrams as thread diagrams
-* apply the resulting stitches to a generic recipe variation
-* use the resulting thread diagram as pair diagram
+* apply the stitches resulting from this interpretation to generic recipe variations
+* use the resulting thread diagrams as pair diagram
 * choose stitches
 
 ![](blobs.svg?align=right)
 
 We can analyse stitches in a diagram by marking them with blobs.
 On the right a solution for one snowflake.
+The top line of the caption refers to the page [counting snowflake famiies](../counting-snow).
+The bottom line describes the blob sequence.
 The capital R indicates that the first blob is on the right side,
 in other words the first stitch would be made with the two pairs on the right.
-These two pairs become four after a _threads as pairs_ step.
+These two pairs become four pairs after a _threads as pairs_ step.
 
 Requirements for the blobs: span 4 threads, 
 the threads flow two by two into adjacent blobs.
@@ -61,9 +63,8 @@ Not all threads in a blob need to have an interaction with other threads.
 ### Diamond arrangement
 
 The form below requires the blobs to use either the most left four pairs or the most right four pairs.
-The initial values of the form initialises the page as shown in the [screenshots](#threads-as-pairs-page) when explaining the .
 You can copy-paste the strings for more examples from 
-<a href="../counting-sow/654321.svg" target="_blank">this set</a>.
+<a href="../counting-snow/654321.svg" target="_blank">this set</a>.
 Due to the vast [numbers](../counting-snow) of possible snowflakes we can´t be exhaustive.
 
 {% include snow-6.html %}
@@ -151,7 +152,8 @@ Threads as pairs page
 
 Many recipes above use at least one step of the _threads as pairs_ page.
 So here are some hints on using the page.
-The example is geared to the two-step method for a varying number of blobs for siz pairs.
+The screenshots are generated with the initial values for the form for six pairs with diamond arrangement.
+The example is geared to the two-step method for a varying number of blobs for six pairs.
 
 ![](blobs-drostes.png)
 
@@ -167,4 +169,4 @@ This is counteracted with a ctct(pin)tctc, pins frequently get misplaced, so we 
 PLease don't rely on twist marks in the pair diagrams, they are buggy.
 
 You are invited to fix the problem with the spider legs in the last [diagram](/GroundForge/droste?droste2=b10=rclc,b11=ctc,b12=ctc,b13=crcl,&b1=rcrc&droste3=ctc,b133=ctcttctc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1#).
-Hint: the screenshots are assembled from different definitions. Ignore the twist marks on the pair diagrams: they are buggy.
+Hints: the screenshots are assembled from slightly different definitions. Ignore the twist marks on the pair diagrams: they are buggy.
