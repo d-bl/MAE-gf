@@ -3,8 +3,8 @@
 
 <svg
    width="49mm"
-   height="60mm"
-   viewBox="0 0 98 120"
+   height="56mm"
+   viewBox="0 0 98 112"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
@@ -32,7 +32,7 @@
      inkscape:window-x="0"
      inkscape:window-y="41"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g30441"
+     inkscape:current-layer="layer1"
      inkscape:pageshadow="2"><inkscape:grid
        type="axonomgrid"
        id="grid2793"
@@ -127,12 +127,7 @@
        y="107.183"
        id="text21042"><tspan
          sodipodi:role="line"
-         id="tspan21040"
          style="font-size:7.05556px;stroke-width:0.529167"
          x="16.003506"
-         y="107.183">family 563412</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:7.05556px;stroke-width:0.529167"
-         x="16.003506"
-         y="116.00245"
+         y="107.183"
          id="tspan665">R-rclc,ctc,ctc,crcl</tspan></text></g></svg>

@@ -182,8 +182,6 @@ Without any pretension to be exhaustive,
 we show one or two members for each family by squiggling pairs.
 Some of these members are common in traditional lace.
 Swapping starts and/or ends means dealing with another family. 
-The captions of family members interpret the diagrams as thread diagrams,
-so you can as well turn to  [Listing & counting stitches](../counting) to explore options.
 
 [text](permutations-for-4.txt)  
 ![](4-pair-permutations.svg)
@@ -235,9 +233,8 @@ Note that swapping starts and/or ends means dealing with another family.
 
 The following not-exhaustive families are created manually from some of the generated permutations.
 The figure below contains a few more examples beyond the [visible area](#save-and-edit-images).
-The captions for the family members are explained later.
 
-![](654321.svg)  
+![](563412-145236.svg)  
 
 With bouncing pairs two or three pairs in a family-head have the same color.
 The dashed line outside the snowflake suggests it is the same pair.
