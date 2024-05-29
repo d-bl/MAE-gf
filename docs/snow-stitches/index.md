@@ -72,14 +72,14 @@ Due to the vast [numbers](../counting-snow) of possible snowflakes we can´t be 
 ### Honeycomb arrangement (under construction)
 
 The form for diamond arrangement assigns the blobs at the first [threads as pairs](#threads-as-pairs-page) step,
-this approach allows another number of blobs.
+this approach allows any number of blobs.
 
 ![](fish-base-for-star.png?align=right)
 
-Though distorted, we recognize similar elements for the blobs in [three pair join](../misca#3-paired-join) patterns:
+When we focus on four blobs, we can recognize `<|>` shapes, these occur in many patterns.
+For example in these [three pair join](../misca#3-paired-join) patterns:
 on a [single tip](/GroundForge/stitches?patchWidth=12&patchHeight=20&b1=clcrc&a1=c&d3=clcrclll&a3=cttt&c4=c&b4=crclc&d6=crclcrrr&c6=cttt&tile=76x-,yxxy,6-x4,x24-,xxww,x-27&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6)
 or on [two tips](/GroundForge/stitches?patchWidth=8&patchHeight=12&d1=c&b1=ctct&l2=ctctrrr&d2=crclcrrr&c2=crclc&b2=ctcttt&a2=ctctl&d3=cttt&k4=ctct&c4=c&l5=ctctrr&k5=ctctrr&d5=clcrc&c5=clcrclll&a5=ctctll&c6=cttt&footside=x4,48,xx,x-,1z,xw&tile=-5,68,-7,5-,12,4-&headside=-x,V8,YX,7X,17,XX&footsideStitch=ctct&tileStitch=ctc&headsideStitch=ctct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6).
-These patterns work only for four blobs.
 
 ### In a Paris ground (under construction)
 
