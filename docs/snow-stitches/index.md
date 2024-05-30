@@ -7,9 +7,8 @@ Contents
 --------
 
 - [Two approaches](#two-approaches)
+- [Blobs to interpret pair diagrams as thread diagrams](#blobs-to-interpret-pair-diagrams-as-thread-diagrams)
 - [6 pairs with all pairs entering before leaving](#6-pairs-with-all-pairs-entering-before-leaving)
-  - [Diamond arrangement](#diamond-arrangement)
-  - [Honeycomb arrangement (under construction)](#honeycomb-arrangement-under-construction)
   - [In a Paris ground (under construction)](#in-a-paris-ground-under-construction)
 - [6 pairs, on both sides a pair leaves before the last enters](#6-pairs-on-both-sides-a-pair-leaves-before-the-last-enters)
 - [4 pairs](#4-pairs)
@@ -69,6 +68,8 @@ in another tab to copy-paste a caption.
 ----------------------------------------------
 
 {% include snow-6.html %}
+
+&nbsp;
 
 The form starts with three thread plaits. The length of the plaits is determined by the number of blobs.
 
