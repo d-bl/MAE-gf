@@ -6,8 +6,8 @@ title: stitches for snowflakes
 Contents
 --------
 
-- [Two approaches](#two-approaches)
-- [Blobs to interpret pair diagrams as thread diagrams](#blobs-to-interpret-pair-diagrams-as-thread-diagrams)
+- [Two approaches](#capture-snowflaes)
+- [Blobs to interpret pair diagrams as thread diagrams](#pair-diagrams-interpreted-as-thread-diagrams-with-blobs)
 - [6 pairs with all pairs entering before leaving](#6-pairs-with-all-pairs-entering-before-leaving)
   - [In a Paris ground (under construction)](#in-a-paris-ground-under-construction)
 - [6 pairs, on both sides a pair leaves before the last enters](#6-pairs-on-both-sides-a-pair-leaves-before-the-last-enters)
@@ -23,26 +23,27 @@ This tutorial uses a versatile Binche pattern as an example.
 This happens to be a 6-pair snowflake alias spider embedded in a Paris ground.
 As of this writing, the tutorial is still based on a deprecated page. 
 
+However, before we can play with stitches, we need to capture the pair diagram.
+
 [tutorial]: /GroundForge-help/Binche
 
-Two approaches
---------------
+Capture snowflaes
+-----------------
 
 ![](connect-dots.svg?align=right)
 
-Without the Droste approach you have to distort a pair diagram in GroundForge.
-As the image shows: distort until each stitch matches a dot on a square grid.
+To capture a pair diagram in GroundForge, you have to distort it until each stitch matches a dot on a square grid.
+Variations or combinations of pair diagrams require new captures. 
 
-This way many variations or combinations of pair diagrams require a complete new capture. 
-
-This page explores recipes for more pair diagram variations with a single distortion step using the Droste technique:
+This page explores recipes for snowflakes with the aim to apply them in multiple frames.
+For this purpose we use the Droste technique:
 * interpret pair diagrams as thread diagrams
 * apply the stitches resulting from this interpretation to generic recipe variations
 * use the resulting thread diagrams as pair diagram
 * choose stitches
 
-Blobs to interpret pair diagrams as thread diagrams
----------------------------------------------------
+Pair diagrams interpreted as thread diagrams with blobs
+-------------------------------------------------------
 
 ![](blobs.svg?align=right)
 
@@ -75,19 +76,21 @@ The form starts with three thread plaits. The length of the plaits is determined
 
 ![3-pair-plaits.png](3-pair-plaits.png)
 
-The form then jumps to the _thread as pairs_ to show you diagrams as shown below. 
+The form then jumps to _thread as pairs_ to show you diagrams as shown below as the first step. 
 Well, we cheated a little: some additional `rr`'s are added manually for the legs.
+At the second step you can finally choose your stitches.
 
 ![rclc-ctc-ctc-crcl.png](rclc-ctc-ctc-crcl.png)
+
+### Frames
 
 ![](fish-base-for-star.png?align=right)
 
 When we focus on four blobs, we can recognize `<|>` shapes in the pair diagram of the first step.
 These shapes occur in many patterns.
-For example in these [three pair join](../misca#3-paired-join) patterns:
-on a [single tip](/GroundForge/stitches?patchWidth=12&patchHeight=20&b1=clcrc&a1=c&d3=clcrclll&a3=cttt&c4=c&b4=crclc&d6=crclcrrr&c6=cttt&tile=76x-,yxxy,6-x4,x24-,xxww,x-27&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6)
-or on [two tips](/GroundForge/stitches?patchWidth=8&patchHeight=12&d1=c&b1=ctct&l2=ctctrrr&d2=crclcrrr&c2=crclc&b2=ctcttt&a2=ctctl&d3=cttt&k4=ctct&c4=c&l5=ctctrr&k5=ctctrr&d5=clcrc&c5=clcrclll&a5=ctctll&c6=cttt&footside=x4,48,xx,x-,1z,xw&tile=-5,68,-7,5-,12,4-&headside=-x,V8,YX,7X,17,XX&footsideStitch=ctct&tileStitch=ctc&headsideStitch=ctct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6).
-You can try to use such patterns as a prototype.
+This means we can use three pair joins in these patterns, or snowflakes when using the thread diagram as pair diagram.
+
+![](tl-123.png) &nbsp; ![](tl-551.png) &nbsp; ![](tl-561.png)
 
 ### In a Paris ground (under construction)
 
@@ -165,7 +168,7 @@ The example is geared to the two-step method for a varying number of blobs for s
 
 ![](blobs-drostes.png)
 
-Click wands to generate diagrams. Generate a thread diagram after refreshing the pair diagram.
+Click wands to generate or refresh diagrams. Generate a thread diagram after refreshing the pair diagram.
 Giving stitches a color in the first thread diagram
 can help to compare distorted diagrams and detect possible mistakes in your analysis.
 The tooltips in the second pair diagram help to fill in the text box of the second step with desired stitches.
