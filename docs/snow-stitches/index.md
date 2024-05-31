@@ -7,12 +7,12 @@ Contents
 --------
 
 - [Stitches for snowflakes](#stitches-for-snowflakes)
-- [Capture thread diagrams](#capture-thread-diagrams)
+- [Capture thread diagrams](#capture-pair-diagrams)
 - [Pair diagrams interpreted as thread diagrams with blobs](#pair-diagrams-interpreted-as-thread-diagrams-with-blobs)
 - [6 pairs with all pairs entering before leaving](#6-pairs-with-all-pairs-entering-before-leaving)
   - [Frames](#frames)
   - [In a Paris ground (under construction)](#in-a-paris-ground-under-construction)
-- [6 pairs, on both sides a pair leaves before the last enters (under construction)](#6-pairs-on-both-sides-a-pair-leaves-before-the-last-enters)
+- [6 pairs, on both sides a pair leaves before the last enters](#6-pairs-on-both-sides-a-pair-leaves-before-the-last-enters)
 - [4 pairs](#4-pairs)
 - [3 pairs](#3-pairs)
 
@@ -28,13 +28,13 @@ However, before we can play with stitches, we need to capture the pair diagram.
 
 [tutorial]: /GroundForge-help/Binche
 
-Capture thread diagrams
+Capture pair diagrams
 -----------------------
 
 ![](connect-dots.svg?align=right)
 
 To capture a pair diagram in GroundForge, you have to distort it until each stitch matches a dot on a square grid.
-Variations or combinations of pair diagrams require new captures. 
+Variations or combinations require new captures. 
 
 This page explores other types of recipes for snowflakes with the aim to apply them in multiple frames.
 For this purpose we use the Droste technique:
@@ -62,14 +62,14 @@ Not all threads in a blob need to have an interaction with other threads.
 We figured out some  blob recipes as test cases.
 Due to the vast [numbers](../counting-snow) of possible snowflakes we can´t be exhaustive.
 <a href="654321.svg" target="_blank">Show</a>
-the collection of samples in another tab to copy-paste the recipes in the captions.
+the collection of samples in another tab to copy the recipes in the captions.
 
 ![](563412-145236.svg)
 
 6 pairs with all pairs entering before leaving
 ----------------------------------------------
 
-Try the blob recipes above in the following form, the go button leads you to the interactive diagrams.
+Try the blob recipes copied above in the following form, the buttons leads you to the interactive diagrams.
 
 {% include snow-6.html %}
 
@@ -80,7 +80,7 @@ The form starts under the hood with three thread plaits. The length of the plait
 ![](3-pair-plaits.png?align=right)
 
 The form then jumps to _pairs from threads_ to show you diagrams as shown below at the first step. 
-Well, we cheated a little: some additional twists are added manually for the legs.
+Well, we cheated a little: some additional twists are added manually for the legs of the spider.
 
 ![rclc-ctc-ctc-crcl.png](rclc-ctc-ctc-crcl.png)
 
@@ -89,7 +89,7 @@ At the last step you can finally choose your stitches.
 ![](last-step.png)
 
 Note that a trailing twist in the last blob gets combined with a leading twist of the first blob.
-This is counteracted with a ctct(pin)tctc, pins usually get misplaced, so we leave them out.
+This is counteracted with a ctct(pin)tctc. Pins usually get misplaced, so we leave them out.
 
 Hover with your mouse over stitches. Highlights can show you all parts of a stitch.
 Note that each thread diagram adds a digit to stitch id in the tooltips.
@@ -103,7 +103,7 @@ PLease don't rely on twist marks in the pair diagrams, they are buggy in this st
 
 ![](fish-base-for-star.png?align=right)
 
-When we focus on four blobs, we can recognize `<|>` shapes in the pair diagram of the first step.
+When we focus on recipes with four blobs, we can recognize `<|>` shapes in the pair diagram of the first step.
 These shapes occur in many patterns.
 This means we can use three pair joins in these patterns, or snowflakes when using the thread diagram as pair diagram.
 
@@ -132,7 +132,7 @@ The configuration of blobs is not as versatile as for the form above.
 From [counting snow](../counting-snow), we explore two members of a family to demonstrate the two templates.
 Beyond the [visible area](#save-and-edit-images) we have a few more family members.
 
-![](4-3254-2.svg?align-right)
+![](4-3254-2.svg)
 
 &nbsp;
 
@@ -140,13 +140,18 @@ In the first example above (lct-tcr), each bouncing pair section (the dashed lin
 In the second example we see more interactions between the bouncing pairs.
 The first example requires two stitches to define a thread diagram to be used as pair diagram, the second one requires three stitches.
 
-The form below generates the diagrams shown below the form.
+The following form generates the diagrams shown below the form.
 Note the subtle difference for the open and closed connection in diagram variations for the three-stitch example.
 Follow the link to "_thread diagram as pair diagram_" to select your stitches for the snowflake.
 
 {% include snow-6-bounce2.html %}
 
 ![](4-3254-2.png)
+
+![](bouncing.png?align=right)
+The number of legs is deceptive, caused by the bouncing pairs. 
+We can get more realistic lengths for the legs at the next step.
+
 
 4 pairs
 -------
