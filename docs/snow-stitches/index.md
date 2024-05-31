@@ -27,15 +27,15 @@ However, before we can play with stitches, we need to capture the pair diagram.
 
 [tutorial]: /GroundForge-help/Binche
 
-Capture snowflaes
------------------
+Capture thread diagrams
+-----------------------
 
 ![](connect-dots.svg?align=right)
 
 To capture a pair diagram in GroundForge, you have to distort it until each stitch matches a dot on a square grid.
 Variations or combinations of pair diagrams require new captures. 
 
-This page explores recipes for snowflakes with the aim to apply them in multiple frames.
+This page explores other types of recipes for snowflakes with the aim to apply them in multiple frames.
 For this purpose we use the Droste technique:
 * interpret pair diagrams as thread diagrams
 * apply the stitches resulting from this interpretation to generic recipe variations
@@ -61,23 +61,25 @@ Not all threads in a blob need to have an interaction with other threads.
 We figured out some  blob recipes as test cases.
 Due to the vast [numbers](../counting-snow) of possible snowflakes we can´t be exhaustive.
 <a href="654321.svg" target="_blank">Show</a>
-in another tab to copy-paste a caption.
+the collection of samples in another tab to copy-paste the recipes in the captions.
 
 ![](563412-145236.svg)
 
 6 pairs with all pairs entering before leaving
 ----------------------------------------------
 
+Try the blob recipes above in the following form, the go button leads you to the interactive diagrams.
+
 {% include snow-6.html %}
 
 &nbsp;
 
-The form starts with three thread plaits. The length of the plaits is determined by the number of blobs.
+The form starts under the hood with three thread plaits. The length of the plaits are determined by the number of blobs.
 
 ![3-pair-plaits.png](3-pair-plaits.png)
 
 The form then jumps to _thread as pairs_ to show you diagrams as shown below as the first step. 
-Well, we cheated a little: some additional `rr`'s are added manually for the legs.
+Well, we cheated a little: some additional twists are added manually for the legs.
 At the second step you can finally choose your stitches.
 
 ![rclc-ctc-ctc-crcl.png](rclc-ctc-ctc-crcl.png)
