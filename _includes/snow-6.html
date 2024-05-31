@@ -10,16 +10,16 @@
         const nrOfBlobs = blobs.length;
         let href = "/GroundForge/droste?droste2=";
         for (let i = 0; i < nrOfBlobs; i++) {
-            href += `b2${i}=${blobs[i]},`
+            href += `c1${i}=${blobs[i]},`
         }
-        href += "&b2="
+        href += "&c1="
         if (document.getElementById("firstBlobRight").checked) {
             href += "rc".repeat(nrOfBlobs).substring(0,nrOfBlobs)
         }
         else {
             href += "lc".repeat(nrOfBlobs).substring(0,nrOfBlobs)
         }
-        href += `&droste3=ctc,b2${nrOfBlobs-1}${blobs[nrOfBlobs-1].length-1}=ctcttctc`
+        href += `&droste3=ctc,c1${nrOfBlobs-1}${blobs[nrOfBlobs-1].length-1}=ctcttctc`
         document.getElementById("link").href = href + "&patchWidth=4&patchHeight=6&paintStitches=rcrc&footside=b,-&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1"
     }
     update()
