@@ -6,14 +6,15 @@ title: stitches for snowflakes
 Contents
 --------
 
-- [Two approaches](#capture-snowflaes)
-- [Blobs to interpret pair diagrams as thread diagrams](#pair-diagrams-interpreted-as-thread-diagrams-with-blobs)
+- [Stitches for snowflakes](#stitches-for-snowflakes)
+- [Capture thread diagrams](#capture-thread-diagrams)
+- [Pair diagrams interpreted as thread diagrams with blobs](#pair-diagrams-interpreted-as-thread-diagrams-with-blobs)
 - [6 pairs with all pairs entering before leaving](#6-pairs-with-all-pairs-entering-before-leaving)
+  - [Frames](#frames)
   - [In a Paris ground (under construction)](#in-a-paris-ground-under-construction)
-- [6 pairs, on both sides a pair leaves before the last enters](#6-pairs-on-both-sides-a-pair-leaves-before-the-last-enters)
+- [6 pairs, on both sides a pair leaves before the last enters (under construction)](#6-pairs-on-both-sides-a-pair-leaves-before-the-last-enters)
 - [4 pairs](#4-pairs)
 - [3 pairs](#3-pairs)
-- [Pairs as threads page](#threads-as-pairs-page)
 
 Stitches for snowflakes
 =======================
@@ -52,7 +53,7 @@ On the right a solution for one snowflake.
 The caption describes the blob sequence.
 The capital R indicates that the first blob is on the right side,
 in other words the first stitch would be made with the two pairs on the right.
-These two pairs become four pairs after a _threads as pairs_ step.
+These two pairs become four pairs after a _pairs from threads_ step.
 
 Requirements for the blobs: span 4 threads, 
 the threads flow two by two into adjacent blobs.
@@ -76,13 +77,27 @@ Try the blob recipes above in the following form, the go button leads you to the
 
 The form starts under the hood with three thread plaits. The length of the plaits are determined by the number of blobs.
 
-![3-pair-plaits.png](3-pair-plaits.png)
+![](3-pair-plaits.png?align=right)
 
-The form then jumps to _thread as pairs_ to show you diagrams as shown below as the first step. 
+The form then jumps to _pairs from threads_ to show you diagrams as shown below at the first step. 
 Well, we cheated a little: some additional twists are added manually for the legs.
-At the second step you can finally choose your stitches.
 
 ![rclc-ctc-ctc-crcl.png](rclc-ctc-ctc-crcl.png)
+
+At the last step you can finally choose your stitches.
+
+![](last-step.png)
+
+Note that a trailing twist in the last blob gets combined with a leading twist of the first blob.
+This is counteracted with a ctct(pin)tctc, pins usually get misplaced, so we leave them out.
+
+Hover with your mouse over stitches. Highlights can show you all parts of a stitch.
+Note that each thread diagram adds a digit to stitch id in the tooltips.
+
+Both can help to fix mistakes as the leg inside the spider in this example.
+Click wands to generate or refresh diagrams. 
+Refresh a thread diagram after refreshing the pair diagram.
+PLease don't rely on twist marks in the pair diagrams, they are buggy in this style of pair diagrams.
 
 ### Frames
 
@@ -99,7 +114,7 @@ This means we can use three pair joins in these patterns, or snowflakes when usi
 ![](snow-in-paris.png?align=right)
 
 This [pattern](/GroundForge/stitches.html?patchWidth=19&patchHeight=16&tile=-5-,6-5,-5-,5-5,-58,5-4&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=3&shiftRowsSE=3&b1=ct&c2=ct&a2=cllcr&b3=cl&c4=ctc&a4=ct&c5=-&b5=crrcl&c6=ctc&a6=cr&droste2=ctc,c20=c21=b30=b31=c22=a60=a61=a42=b11=ctct,b53=b10=b12=rctct,a23=a40=a41=lctct)
-supports snowflakes in a Paris ground as in the [tutorial] but using the Droste technique. Definition for the ring pair at the first _threads as pairs_ step:
+supports snowflakes in a Paris ground as in the [tutorial] but using the Droste technique. Definition for the ring pair at the first _pairs from threads_ step:
 
     ctc
     c20=c21=b30=b31=c22=a60=a61=a42=b11=ctct
@@ -111,8 +126,8 @@ you can restore the stitch with the button `assign to ignored`.
 The highlighted stitches in the thread diagram represent the blobs.
 The configuration of blobs is not as versatile as for the form above.
 
-6 pairs, on both sides a pair leaves before the last enters
------------------------------------------------------------
+6 pairs, on both sides a pair leaves before the last enters (under construction)
+--------------------------------------------------------------------------------
 
 From [counting snow](../counting-snow), we explore two members of a family to demonstrate the two templates.
 Beyond the [visible area](#save-and-edit-images) we have a few more family members.
@@ -159,27 +174,3 @@ Stitches with three pairs can defy the muscle memory for a seasoned bobbin lace 
 It means consistently either no right twists or no left twists.
 GroundForge can handle it, it shows starting pins for each 4th thread but no thread.
 Using these basic thread diagrams as pair diagrams (Droste effect) is explained in more detail for six pairs. 
-
-Threads as pairs page
----------------------
-
-Many recipes above use at least one step of the _threads as pairs_ page.
-So here are some hints on using the page.
-The screenshots are generated with the initial values for the form for six pairs with diamond arrangement.
-The example is geared to the two-step method for a varying number of blobs for six pairs.
-
-![](blobs-drostes.png)
-
-Click wands to generate or refresh diagrams. Generate a thread diagram after refreshing the pair diagram.
-Giving stitches a color in the first thread diagram
-can help to compare distorted diagrams and detect possible mistakes in your analysis.
-The tooltips in the second pair diagram help to fill in the text box of the second step with desired stitches.
-The identifiers in the last thread diagram have an extra digit,
-those tooltips can also help to apply corrections.
-
-Note that a trailing twist in the last blob gets combined with a leading twist of the first blob.
-This is counteracted with a ctct(pin)tctc, pins frequently get misplaced, so we leave them out.
-PLease don't rely on twist marks in the pair diagrams, they are buggy.
-
-You are invited to fix the problem with the spider legs in the last [diagram](/GroundForge/droste?droste2=b10=rclc,b11=ctc,b12=ctc,b13=crcl,&b1=rcrc&droste3=ctc,b133=ctcttctc&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1#).
-Hints: the screenshots are assembled from slightly different definitions. Ignore the twist marks on the pair diagrams: they are buggy.

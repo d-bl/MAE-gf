@@ -1,27 +1,40 @@
 <form>
-    First blob starts
-    <input type="radio" name="firstBlob" value="l" id="firstBlobLeft" onchange="update()"> <label for="firstBlobLeft">left</label>
-    <input type="radio" name="firstBlob" value="r" id="firstBlobRight" checked onchange="update()"> <label for="firstBlobRight">right</label>
+    <label for="blobs">Blobs</label>
     <input type="text" id="blobs" name="blobs" width="35" spellcheck="false" onchange="update()" value="rclc,ctc,ctc,crcl">
-    <a id="link" href="#" target="_blank"><button type="button">Go</button></a>
+    first starts
+    <input type="radio" name="firstBlob" value="l" id="firstBlobLeft" onchange="update()"> <label for="firstBlobLeft">left</label>
+    <input type="radio" name="firstBlob" value="r" id="firstBlobRight" checked onchange="update()"> <label for="firstBlobRight">right</label>.
+    Variant
+    <a id="hex_blobs_a" href="#" target="_blank"><button type="button">a</button></a>
+    <a id="hex_blobs_b" href="#" target="_blank"><button type="button">b</button></a>
+    <a id="hex_blobs_c" href="#" target="_blank"><button type="button">c</button></a>
     <script>
-    function update(){
-        const blobs = document.getElementById('blobs').value.split(",");
-        const nrOfBlobs = blobs.length;
-        let href = "/GroundForge/droste?droste2=";
-        for (let i = 0; i < nrOfBlobs; i++) {
-            href += `b1${i}=${blobs[i]},`
+        function update(){
+            const blobs = document.getElementById('blobs').value.split(",");
+            const nrOfBlobs = blobs.length;
+            function joinBlobs(prefix){
+                return blobs.map((item, i) => `${prefix}${i}=${item}`).join(",")
+            }
+            let hrefA = "/GroundForge/droste?droste2="+joinBlobs('b1');
+            let hrefB = "/GroundForge/droste?droste2="+joinBlobs('a1')+","+joinBlobs('a2');
+            if (document.getElementById("firstBlobRight").checked) {
+                stitches = "rc".repeat(nrOfBlobs).substring(0,nrOfBlobs)
+            }
+            else {
+                stitches = "lc".repeat(nrOfBlobs).substring(0,nrOfBlobs)
+            }
+            const flippedStitches = stitches.replace(/r/g, "L").replace(/l/g, "R").toLowerCase()
+            const spiderTip = `${nrOfBlobs-1}${blobs[nrOfBlobs-1].length-1}=ctcttctc`
+            hrefA += "&patchWidth=4&patchHeight=6&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1"
+            hrefB += "&patchWidth=4&patchHeight=6&tile=1,8&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2"
+            hrefA += `&droste3=ctc,b1${spiderTip}`
+            hrefB += `&droste3=ctc,a1${spiderTip},a2${spiderTip}`
+            hrefA += "&b1=" + stitches
+            hrefB += "&a1=" + stitches + "&a2=" + stitches.replace(/r/g, "L").replace(/l/g, "R").toLowerCase()
+            document.getElementById("hex_blobs_a").href = hrefA + "&b1=" + stitches
+            document.getElementById("hex_blobs_b").href = hrefB + "&a1=" + stitches + "&a2=" + flippedStitches
+            document.getElementById("hex_blobs_c").href = hrefB + "&a2=" + stitches + "&a1=" + flippedStitches
         }
-        href += "&b1="
-        if (document.getElementById("firstBlobRight").checked) {
-            href += "rc".repeat(nrOfBlobs).substring(0,nrOfBlobs)
-        }
-        else {
-            href += "lc".repeat(nrOfBlobs).substring(0,nrOfBlobs)
-        }
-        href += `&droste3=ctc,b1${nrOfBlobs-1}${blobs[nrOfBlobs-1].length-1}=ctcttctc`
-        document.getElementById("link").href = href + "&patchWidth=4&patchHeight=6&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1"
-    }
-    update()
+        update()
     </script>
 </form>
