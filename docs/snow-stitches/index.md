@@ -3,10 +3,14 @@ layout: default
 title: stitches for snowflakes
 ---
 
+Stitches for snowflakes
+=======================
+
+**... and crossings with fewer pairs**
+
 Contents
 --------
 
-- [Stitches for snowflakes](#stitches-for-snowflakes)
 - [Capture thread diagrams](#capture-pair-diagrams)
 - [Pair diagrams interpreted as thread diagrams with blobs](#pair-diagrams-interpreted-as-thread-diagrams-with-blobs)
 - [6 pairs with all pairs entering before leaving](#6-pairs-with-all-pairs-entering-before-leaving)
@@ -16,15 +20,10 @@ Contents
 - [4 pairs](#4-pairs)
 - [3 pairs](#3-pairs)
 
-Stitches for snowflakes
-=======================
-
 A [tutorial] explains how to choose stitches in GroundForge.
-This tutorial uses a versatile Binche pattern as an example. 
+That tutorial uses a versatile Binche pattern as an example. 
 This happens to be a 6-pair snowflake alias spider embedded in a Paris ground.
-As of this writing, the tutorial is still based on a deprecated page. 
-
-However, before we can play with stitches, we need to capture the pair diagram.
+However, playing requires some preparation.
 
 [tutorial]: /GroundForge-help/Binche
 
@@ -33,7 +32,8 @@ Capture pair diagrams
 
 ![](connect-dots.svg?align=right)
 
-To capture a pair diagram in GroundForge, you have to distort it until each stitch matches a dot on a square grid.
+Before we can play with stitches, we need to capture the pair diagram.
+To start the capture, we have to distort it until each stitch matches a dot on a square grid.
 Variations or combinations require new captures. 
 
 This page explores other types of recipes for snowflakes with the aim to apply them in multiple frames.
