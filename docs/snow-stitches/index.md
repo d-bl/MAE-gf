@@ -69,7 +69,7 @@ the collection of samples in another tab to copy the recipes in the captions.
 6 pairs with all pairs entering before leaving
 ----------------------------------------------
 
-Try the blob recipes copied above in the following form, the buttons leads you to the interactive diagrams.
+Try the blob recipes copied above in the following form.
 
 {% include snow-6.html %}
 
