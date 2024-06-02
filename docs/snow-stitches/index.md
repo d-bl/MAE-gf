@@ -81,7 +81,7 @@ _Do nothing_ for the footside means: the pairs turn as a rainbow around the pin,
 The form starts under the hood with three thread plaits. The length of the plaits are determined by the number of blobs.
 
 The form then jumps to _pairs from threads_ to show you diagrams as shown below at the first step. 
-Well, we cheated a little: some additional twists are added manually for the legs of the spider.
+Well, we cheated a little: some twists are added manually for the legs of the spider.
 
 ![rclc-ctc-ctc-crcl.png](rclc-ctc-ctc-crcl.png)
 
