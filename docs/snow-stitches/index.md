@@ -70,6 +70,7 @@ the collection of samples in another tab to copy the recipes in the captions.
 ----------------------------------------------
 
 Try the blob recipes copied above in the following form.
+_Do nothing_ for the footside means: the pairs turn as a rainbow around the pin, without twists
 
 {% include snow-6.html %}
 
