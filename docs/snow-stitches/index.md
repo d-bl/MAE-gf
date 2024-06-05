@@ -20,10 +20,11 @@ Contents
 - [4 pairs](#4-pairs)
 - [3 pairs](#3-pairs)
 
-A [tutorial] explains how to choose stitches in GroundForge.
-That tutorial uses a versatile Binche pattern as an example. 
+We have a [tutorial] that explains how to choose stitches in GroundForge.
+However, playing requires some preparation: capture the pair diagram.
+The tutorial uses a versatile Binche pattern as an example. 
 This happens to be a 6-pair snowflake alias spider embedded in a Paris ground.
-However, playing requires some preparation.
+On this page we explore another method to capture snowflakes than used for the tutorial.
 
 [tutorial]: /GroundForge-help/Binche
 
@@ -33,15 +34,15 @@ Capture pair diagrams
 ![](connect-dots.svg?align=right)
 
 Before we can play with stitches, we need to capture the pair diagram.
-To start the capture, we have to distort it until each stitch matches a dot on a square grid.
-Variations or combinations require new captures. 
+Most captures start with a distorted pair diagram. Each stitch should match a dot on a square grid.
+Variations or combinations require new distorted captures. 
 
 This page explores other types of recipes for snowflakes with the aim to apply them in multiple frames.
 For this purpose we use the Droste technique in both directions:
 * interpret pair diagrams as thread diagrams
 * a form applies the stitches resulting from this interpretation to a recipe of your choice
-* tweak the first step that uses the resulting thread diagrams as pair diagram
-* choose stitches in the last step
+* the form leads to a page with two steps that uses thread diagrams as pair diagram
+* in the second step you can choose stitches for the intended snowflake
 
 Pair diagrams interpreted as thread diagrams with blobs
 -------------------------------------------------------
@@ -69,7 +70,7 @@ the collection of samples in another tab to copy the recipes in the captions.
 6 pairs with all pairs entering before leaving
 ----------------------------------------------
 
-Try the blob recipes copied above in the following form.
+Try a blob recipe copied above in the following form.
 _Do nothing_ for the footside means: the pairs turn as a rainbow around the pin, without twists.
 
 {% include snow-6.html %}
@@ -78,14 +79,15 @@ _Do nothing_ for the footside means: the pairs turn as a rainbow around the pin,
 
 ![](3-pair-plaits.png?align=right)
 
-The form starts under the hood with three thread plaits. The length of the plaits are determined by the number of blobs.
+The form starts under the hood with plaits of three threds. The length of the plaits are determined by the number of blobs.
 
 The form then jumps to _pairs from threads_ to generate diagrams as shown below at the first step. 
-Well, we cheated a little: some twists are added manually for the legs of the spider.
+Well, we cheated a little: some twists are added manually for the legs to make the snowflake stand out more clearly.
+If you want parallel legs: don´t add the twists. If your want crossed legs: add the twists.
 
 ![rclc-ctc-ctc-crcl.png](rclc-ctc-ctc-crcl.png)
 
-At the last step you can finally choose your stitches.
+At the second step on the page _pair from threads_ you can finally choose your stitches.
 
 ![](last-step.png)
 
