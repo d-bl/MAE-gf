@@ -48,7 +48,7 @@
                 if (patternType == "b") {
                     q += `b1=${plait}&b2=${flippedPlait}`
                 } else {
-                    q += `b2=${plait}&b1=${flippedPlait}`
+                    q += `b2=${plait}&b1=${plait}`
                 }
                 q += "&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2"
                 droste2 = `&droste2=${assignBlobsToPlait('b1')},${assignBlobsToPlait('b2')}`
