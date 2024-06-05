@@ -37,11 +37,11 @@ To start the capture, we have to distort it until each stitch matches a dot on a
 Variations or combinations require new captures. 
 
 This page explores other types of recipes for snowflakes with the aim to apply them in multiple frames.
-For this purpose we use the Droste technique:
+For this purpose we use the Droste technique in both directions:
 * interpret pair diagrams as thread diagrams
-* apply the stitches resulting from this interpretation to generic recipe variations
-* use the resulting thread diagrams as pair diagram
-* choose stitches
+* a form applies the stitches resulting from this interpretation to a recipe of your choice
+* tweak the first step that uses the resulting thread diagrams as pair diagram
+* choose stitches in the last step
 
 Pair diagrams interpreted as thread diagrams with blobs
 -------------------------------------------------------
@@ -61,7 +61,7 @@ Not all threads in a blob need to have an interaction with other threads.
 
 We figured out some  blob recipes as test cases.
 Due to the vast [numbers](../counting-snow) of possible snowflakes we can´t be exhaustive.
-<a href="654321.svg" target="_blank">Show</a>
+<a href="563412-145236.svg" target="_blank">Show</a>
 the collection of samples in another tab to copy the recipes in the captions.
 
 ![](563412-145236.svg)
@@ -98,7 +98,7 @@ Note that each thread diagram adds a digit to stitch id in the tooltips.
 Both can help to fix mistakes as the leg inside the spider in this example.
 Click wands to generate or refresh diagrams. 
 Refresh a thread diagram after refreshing the pair diagram.
-PLease don't rely on twist marks in the pair diagrams, they are buggy in this style of pair diagrams.
+Please don't rely on twist marks in the pair diagrams, they are buggy in this style of pair diagrams.
 
 ### Frames
 
@@ -131,7 +131,7 @@ The configuration of blobs is not as versatile as for the form above.
 --------------------------------------------------------------------------------
 
 From [counting snow](../counting-snow), we explore two members of a family to demonstrate the two templates.
-Beyond the [visible area](#save-and-edit-images) we have a few more family members.
+Beyond the [visible area](GroundForge-help#save-and-edit-images) we have a few more family members.
 
 ![](4-3254-2.svg)
 
@@ -152,6 +152,7 @@ Follow the link to "_thread diagram as pair diagram_" to select your stitches fo
 ![](bouncing.png?align=right)
 The number of legs is deceptive, caused by the bouncing pairs. 
 We can get more realistic lengths for the legs at the next step.
+The screenshot on the right shows manually added red pins to indicate the actual legs.
 
 
 4 pairs
