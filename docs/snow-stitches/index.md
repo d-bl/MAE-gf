@@ -37,7 +37,7 @@ Before we can play with stitches, we need to capture the pair diagram.
 Most captures start with a distorted pair diagram. Each stitch should match a dot on a square grid.
 Variations or combinations require new distorted captures. 
 
-This page explores other types of recipes for snowflakes with the aim to apply them in multiple frames.
+This page explores other types of recipes for snowflakes with the aim to apply them in multiple patterns used as templates.
 For this purpose we use the Droste technique in both directions:
 * interpret pair diagrams as thread diagrams
 * a form applies the stitches resulting from this interpretation to a recipe of your choice
@@ -53,12 +53,17 @@ We can analyse stitches in a diagram by marking them with blobs.
 On the right a solution for one snowflake.
 The caption describes the blob sequence.
 The capital R indicates that the first blob is on the right side,
-in other words the first stitch would be made with the two pairs on the right.
-These two pairs become four pairs after a _pairs from threads_ step.
+in other words the first stitch would be made with the middle pair and right pair.
 
-Requirements for the blobs: span 4 threads, 
-the threads flow two by two into adjacent blobs.
-Not all threads in a blob need to have an interaction with other threads.
+![](too-complicated-blobs.svg?align=left)
+
+On the left another (too complicated) solution for the same snowflake.
+It illustrates requirements for the blobs:
+* Span 4 threads. 
+* The threads flow two by two into adjacent blobs. For example red and orange flow from two to three and blue and purple from two to four.
+  This can be deceptive: five may seem to receive black from one while it actually goes via three.
+* Not all threads in a blob need to have an interaction with other threads.
+  For example: the black and blue pairs in the third blob do nothing, like the read and green pairs in the fifth.
 
 We figured out some  blob recipes as test cases.
 Due to the vast [numbers](../counting-snow) of possible snowflakes we can´t be exhaustive.
@@ -132,12 +137,12 @@ The configuration of blobs is not as versatile as for the form above.
 6 pairs, on both sides a pair leaves before the last enters (under construction)
 --------------------------------------------------------------------------------
 
-From [counting snow](../counting-snow), we explore two members of a family to demonstrate the two templates.
-Beyond the [visible area](GroundForge-help#save-and-edit-images) we have a few more family members.
+We explore two snowflakes to demonstrate the two templates. The dashed lines indicate bouncing pairs:
+these pairs leave the snowflake before last pair enters. 
+It might be a bit confusing, but the snowflake is still a 6-pair snowflake.
+In reality the pairs might not return but play another role in the rest of the lace while another pair "returns".
 
-![](4-3254-2.svg)
-
-&nbsp;
+![](4-3254-2.svg) <!-- TODO content beyond the visible area is more related to the counting-snow page -->
 
 In the first example above (lct-tcr), each bouncing pair section (the dashed lines) interacts with just one other bouncing pair section.
 In the second example we see more interactions between the bouncing pairs.
