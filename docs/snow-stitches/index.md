@@ -63,7 +63,7 @@ It illustrates requirements for the blobs:
 * The threads flow two by two into adjacent blobs. For example red and orange flow from two to three and blue and purple from two to four.
   This can be deceptive: five may seem to receive black from one while it actually goes via three.
 * Not all threads in a blob need to have an interaction with other threads.
-  For example: the black and blue pairs in the third blob do nothing, like the read and green pairs in the fifth.
+  For example: the black and blue pairs in the third blob do nothing, like the green pair in the fifth.
 
 We figured out some  blob recipes as test cases.
 Due to the vast [numbers](../counting-snow) of possible snowflakes we can´t be exhaustive.
@@ -84,7 +84,7 @@ _Do nothing_ for the footside means: the pairs turn as a rainbow around the pin,
 
 ![](3-pair-plaits.png?align=right)
 
-The form starts under the hood with plaits of three threds. The length of the plaits are determined by the number of blobs.
+The form starts under the hood with plaits of three threads. The length of the plaits are determined by the number of blobs.
 
 The form then jumps to _pairs from threads_ to generate diagrams as shown below at the first step. 
 Well, we cheated a little: some twists are added manually for the legs to make the snowflake stand out more clearly.
