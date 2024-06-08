@@ -129,9 +129,10 @@ or snowflakes when using the thread diagram as pair diagram. Just some examples:
 
 ![](snow-in-paris.png?align=right)
 
-This [pattern](/GroundForge/stitches.html?patchWidth=19&patchHeight=16&tile=-5-,6-5,-5-,5-5,-58,5-4&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=3&shiftRowsSE=3&b1=ct&c2=ct&a2=cllcr&b3=cl&c4=ctc&a4=ct&c5=-&b5=crrcl&c6=ctc&a6=cr&droste2=ctc,c20=c21=b30=b31=c22=a60=a61=a42=b11=ctct,b53=b10=b12=rctct,a23=a40=a41=lctct)
-supports snowflakes in a Paris ground as in the [tutorial] but using the Droste technique.
-In this case you only need the first step of the _pairs from threads_ page.
+The [tutorial] for choosing stitches captured the pair diagram directly.
+When using the thread diagram of this [pattern](/GroundForge/stitches.html?patchWidth=19&patchHeight=16&tile=-5-,6-5,-5-,5-5,-58,5-4&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=3&shiftRowsSE=3&b1=ct&c2=ct&a2=cllcr&b3=cl&c4=ctc&a4=ct&c5=-&b5=crrcl&c6=ctc&a6=cr&droste2=ctc,c20=c21=b30=b31=c22=a60=a61=a42=b11=ctct,b53=b10=b12=rctct,a23=a40=a41=lctct)
+we also get snowflakes in a Paris ground. 
+You only need the first step of the _pairs from threads_ page.
 Definition for the ring pair at the first _pairs from threads_ step:
 
     ctc
@@ -140,7 +141,7 @@ Definition for the ring pair at the first _pairs from threads_ step:
     a23=a40=a41=lctct
 
 The screenshot dropped the stitch marked with a grey `+`,
-you can restore the stitch with the button `assign to ignored`.
+for more variations you can restore the stitch with the button `assign to ignored`.
 The highlighted stitches in the thread diagram represent the blobs.
 The configuration of blobs is not as versatile as for the form above.
 
