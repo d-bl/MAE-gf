@@ -61,15 +61,9 @@
                     q += `&a1=-&${headsideCol}2=-`
                     break
                 case "twist":
-                    if (patternType == "diamond") {
-                        q += `&a1=ttt&${headsideCol}2=ttt`
-                        droste2 += `,a10=${headsideCol}20=tttt,a11=rrcttll`
-                        droste3 += `,a112=a113=a114=${headsideCol}201=ttttttttt`
-                    } else {
-                        q += `&a1=ttt&${headsideCol}2=ttt`
-                        droste2 += `,a10=a11=${headsideCol}20=tttt`
-                        droste3 += `,a110=${headsideCol}200=${headsideCol}201=ttttttt`
-                    }
+                    q += `&a1=ttt&${headsideCol}2=ttt`
+                    droste2 += `,a10=a11=${headsideCol}20=tttt`
+                    droste3 += `,a110=${headsideCol}200=${headsideCol}201=ttttttt`
                     break
                 default:
                     q += `&a1=rct&${headsideCol}2=lct`

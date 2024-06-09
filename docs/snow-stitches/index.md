@@ -100,12 +100,15 @@ At the second step on the page _pair from threads_ you can finally choose your s
 
 ![](combined-twist.png?align=right)
 
-The twists shown on the right are combined into stitch b133 above.
+The twists of the first step thread diagram shown on the right are combined into stitch b133 above.
 These twists are the trailing twist in the last blob and the leading twist of the first blob.
 The combining is counteracted with a ctct(pin)tctc. Pins usually get misplaced, so we leave them out.
+This counteraction also defines the number of twists in the left footside for the _just twist_ option of variant _a_.
 
 Hover with your mouse over stitches. Highlights can show you all parts of a stitch.
-Note that each thread diagram adds a digit to stitch id in the tooltips.
+Note that each thread diagram adds a digit to stitch id in the tooltips:
+B13 in the step one pair diagram becomes b130,b131,... in the step one thread diagram.
+We see b133 reappearing in the step two pair diagram resulting in b1330,b1331,... in the step two thread diagram.
 
 Both can help to fix mistakes as the leg inside the spider in this example.
 Click wands to generate or refresh diagrams. 
@@ -117,8 +120,8 @@ Please don't rely on twist marks in the pair diagrams, they are buggy in this st
 ![](fish-base-for-star.png?align=right)
 
 When we focus on recipes with four blobs, the plaits are reduced to two triangles with a shared side.
-The image on the right shows variations of these shapes. These shapes occur in many patterns.
-Wherever we discover these shapes, we can use three pair joins in these patterns,
+The image on the right shows variations of these figures. These figures occur in many patterns.
+Wherever we discover these figures, we can use three pair joins in these patterns,
 or snowflakes when using the thread diagram as pair diagram. Just some examples:
 
 [![tesselace topo 502](tl-502.png)](/GroundForge/stitches.html?tile=5-L-K-E-,-L-L-O-O,K-H-5-L-,-5-K-E-E&patchHeight=12&patchWidth=24&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4) &nbsp;
@@ -191,11 +194,4 @@ This is because GroundForge considers anything done with just two pairs (like ct
 3 pairs
 -------
 
-Just an example: member
-[lclclc](/GroundForge/droste.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=https://d-bl.github.io/GroundForge/droste.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=lclclc&droste2=ctc&droste2=ctc)
-of the family 123.
-
-Stitches with three pairs can defy the muscle memory for a seasoned bobbin lace maker.
-It means consistently either no right twists or no left twists.
-GroundForge can handle it, it shows starting pins for each 4th thread but no thread.
-Using these basic thread diagrams as pair diagrams (Droste effect) is explained in more detail for six pairs. 
+For the snowflakes of six pairs, we start with three pair stitches. Just skip the last step.
