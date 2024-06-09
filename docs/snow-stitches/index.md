@@ -67,8 +67,7 @@ It illustrates requirements for the blobs:
 
 We figured out some  blob recipes as test cases.
 Due to the vast [numbers](../counting-snow) of possible snowflakes we can´t be exhaustive.
-<a href="563412-145236.svg" target="_blank">Show</a>
-the collection of samples in another tab to copy the recipes in the captions.
+Show the collection of samples in <a href="563412-145236.svg" target="_blank">another tab</a> to copy the recipes in the captions.
 
 ![](563412-145236.svg)
 
