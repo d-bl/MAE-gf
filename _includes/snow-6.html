@@ -12,6 +12,7 @@
     <br>
     Footside
     <input type="radio" name="no-bounce-footside" value="nothing" id="no-bounce-no-footside-stitch" onchange="no_bounce_update()" checked> <label for="no-bounce-no-footside-stitch">do nothing</label>
+    <input type="radio" name="no-bounce-footside" value="twist" id="no-bounce-footside-twist" onchange="no_bounce_update()"> <label for="no-bounce-footside-twist">just twist</label>
     <input type="radio" name="no-bounce-footside" value="uc" id="no-bounce-footside-stitch" onchange="no_bounce_update()"> <label for="no-bounce-footside-stitch">under construction</label>
     <br>
     Swatch size:
@@ -29,7 +30,6 @@
             else {
                 plait = "lc".repeat(nrOfBlobs).substring(0,nrOfBlobs)
             }
-            const flippedPlait = plait.replace(/r/g, "L").replace(/l/g, "R").toLowerCase()
             function assignBlobsToPlait(prefix){
                 return blobs.map((item, i) => `${prefix}${i}=${item}`).join(",")
             }
@@ -45,22 +45,36 @@
                 droste2 = `&droste2=${assignBlobsToPlait('c1')}`
                 droste3 = `&droste3=ctc,c1${spiderTip}`
             } else {
+                const flippedPlait = plait.replace(/r/g, "L").replace(/l/g, "R").toLowerCase()
                 if (patternType == "b") {
                     q += `b1=${plait}&b2=${flippedPlait}`
                 } else {
-                    q += `b2=${plait}&b1=${plait}`
+                    q += `b2=${flippedPlait}&b1=${flippedPlait}`
                 }
                 q += "&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2"
                 droste2 = `&droste2=${assignBlobsToPlait('b1')},${assignBlobsToPlait('b2')}`
                 droste3 = `&droste3=ctc,b1${spiderTip},b2${spiderTip}`
             }
             q += "&footside=b,-&headside=-,c"
-            if (footsideType == "nothing") {
-                q += `&a1=-&${headsideCol}2=-`
-            } else {
-                q += `&a1=rct&${headsideCol}2=lct`
-                droste2 += `,${headsideCol}22=${blobs[0]},,a13=crrr,a10=a11=a12=${headsideCol}11=ttt,${headsideCol}20=rrr,${headsideCol}12=ttttc,${headsideCol}10=ttttcllll,${headsideCol}21=${headsideCol}23=llctt,${headsideCol}23=tttt`
-                droste3 += `,${headsideCol}213=ctcttctc,,a110=a120=cr,a100=a111=a107=a108=a130=ttttct,a131=ttctctt,c134=c124=a100=ttttttttttt,${headsideCol}212=llctt,${headsideCol}200=tt,${headsideCol}214=ttctt`
+            switch (footsideType) {
+                case "nothing":
+                    q += `&a1=-&${headsideCol}2=-`
+                    break
+                case "twist":
+                    if (patternType == "diamond") {
+                        q += `&a1=ttt&${headsideCol}2=ttt`
+                        droste2 += `,a10=${headsideCol}20=tttt,a11=rrcttll`
+                        droste3 += `,a112=a113=a114=${headsideCol}201=ttttttttt`
+                    } else {
+                        q += `&a1=ttt&${headsideCol}2=ttt`
+                        droste2 += `,a10=a11=${headsideCol}20=tttt`
+                        droste3 += `,a110=${headsideCol}200=${headsideCol}201=ttttttt`
+                    }
+                    break
+                default:
+                    q += `&a1=rct&${headsideCol}2=lct`
+                    droste2 += `,${headsideCol}22=${blobs[0]},,a13=crrr,a10=a11=a12=${headsideCol}11=ttt,${headsideCol}20=rrr,${headsideCol}12=ttttc,${headsideCol}10=ttttcllll,${headsideCol}21=${headsideCol}23=llctt,${headsideCol}23=tttt`
+                    droste3 += `,${headsideCol}213=ctcttctc,,a110=a120=cr,a100=a111=a107=a108=a130=ttttct,a131=ttctctt,c134=c124=a100=ttttttttttt,${headsideCol}212=llctt,${headsideCol}200=tt,${headsideCol}214=ttctt`
             }
             q += `&patchWidth=${width}&patchHeight=${height}`
             document.getElementById("hex_no_bounce_link").href = "https://d-bl.github.io/GroundForge/droste" + q + droste2 + droste3
