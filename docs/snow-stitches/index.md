@@ -6,7 +6,7 @@ title: stitches for snowflakes
 Stitches for snowflakes
 =======================
 
-**... and crossings with fewer pairs**
+**... or three pair crossings**
 
 Contents
 --------
@@ -14,11 +14,9 @@ Contents
 - [Capture thread diagrams](#capture-pair-diagrams)
 - [Pair diagrams interpreted as thread diagrams with blobs](#pair-diagrams-interpreted-as-thread-diagrams-with-blobs)
 - [6 pairs with all pairs entering before leaving](#6-pairs-with-all-pairs-entering-before-leaving)
-  - [Frames](#other-patterns-than-supplied-by-the-form)
+  - [Other patterns than supplied by the form](#other-patterns-than-supplied-by-the-form)
   - [In a Paris ground (under construction)](#in-a-paris-ground-under-construction)
 - [6 pairs, on both sides a pair leaves before the last enters](#6-pairs-on-both-sides-a-pair-leaves-before-the-last-enters)
-- [4 pairs](#4-pairs)
-- [3 pairs](#3-pairs)
 
 We have a [tutorial] that explains how to choose stitches in GroundForge.
 However, playing requires some preparation: capture the pair diagram.
@@ -173,24 +171,3 @@ Follow the link to "_thread diagram as pair diagram_" to select your stitches fo
 The number of legs is deceptive, caused by the bouncing pairs. 
 We can get more realistic lengths for the legs at the next step.
 The screenshot on the right shows manually added red pins to indicate the actual legs.
-
-
-4 pairs
--------
-
-The process starts at another page than for six pairs.
-For the two examples below:
-[ctcttctc](/GroundForge/stitches.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=ctcttctc)
-and [ctctctc](/GroundForge/stitches.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=ctctctc&droste2=ct,c25=d31=d32=d50=d51=d53=d70=d71=d73=ctc,d32=ctcr,d73=ctct,d53=d70=d71=ctcl).
-These examples are chosen because one has two twists were the other has just one.
-Follow the link to "_thread diagram as pair diagram_" to select your stitches for the snowflake.
-The pair diagrams will be the same for both examples.
-This is because GroundForge considers anything done with just two pairs (like ctc-pin-ctc) as a single stitch.
-
-![](same-drostes.svg)
-
-
-3 pairs
--------
-
-For the snowflakes of six pairs, we start with three pair stitches. Just skip the last step.
