@@ -27,11 +27,6 @@ Contents
   * [3 pairs](#3-pairs)
   * [2 pairs](#2-pairs)
   * [Exploring families](#exploring-families)
-  * [Choose stitches](#choose-stitches)
-    * [6 pairs without bouncing](#6-pairs-without-bouncing)
-    * [6 pairs with 2 bouncing pairs](#6-pairs-with-2-bouncing-pairs)
-    * [4 pairs](#4-pairs)
-    * [3 pairs](#3-pairs-1)
   * [Compose grounds](#compose-grounds)
 
 Introduction
@@ -187,8 +182,6 @@ Without any pretension to be exhaustive,
 we show one or two members for each family by squiggling pairs.
 Some of these members are common in traditional lace.
 Swapping starts and/or ends means dealing with another family. 
-The captions of family members interpret the diagrams as thread diagrams,
-so you can as well turn to  [Listing & counting stitches](../counting) to explore options.
 
 [text](permutations-for-4.txt)  
 ![](4-pair-permutations.svg)
@@ -240,9 +233,8 @@ Note that swapping starts and/or ends means dealing with another family.
 
 The following not-exhaustive families are created manually from some of the generated permutations.
 The figure below contains a few more examples beyond the [visible area](#save-and-edit-images).
-The captions for the family members are explained later.
 
-![](654321.svg)  
+![](563412-145236.svg)  
 
 With bouncing pairs two or three pairs in a family-head have the same color.
 The dashed line outside the snowflake suggests it is the same pair.
@@ -253,99 +245,15 @@ that two lines of the same color cross one another.
 ![](numbering-method.svg)
 
 
-Choose stitches
----------------
-
-As last step to explore snowflakes and other crossings we choose stitches for a thread diagram. 
-To prepare for that step we can interpret a pair diagram as a thread diagram 
-and use the droste page of GroundForge. 
-
-### 6 pairs without bouncing
-
-![](blobs.svg?align=right)  
-
-We can analyse stitches in a diagram by marking them with blobs. 
-On the right a solution for one snowflake.
-The capital R indicates that the first blob is on the right side,
-in other words the first stitch would be made with the two pairs on the right.
-
-Requirements for the blobs: span 4 threads, either the first four or the last four.
-Threads flow two by two into adjacent blobs. 
-Not all threads in a blob need to have an interaction with other threads.
-
-We can now type the recipe in the form below. 
-The initial values initialises the page as shown in te screenshot below the form.
-
-{% include snow-6.html %}
-
-![](blobs-drostes.png?align=right)
-
-Click wands to generate diagrams.
-Giving stitches a color in the first thread diagram
-can help to compare distorted diagrams and detect possible mistakes in your analysis.
-The tooltips in the second pair diagram help to fill in the text box of the second step with desired stitches.
-The identifiers in the last thread diagram have an extra digit,
-those tooltips can also help to apply corrections.
-
-Note that a trailing twist in the last blob gets combined with a leading twist of the first blob.
-This is counteracted with a ctct(pin)tctc, pins frequently get misplaced, so we leave them out.
-PLease don't rely on twist marks in the pair diagrams, they are buggy.
-
-### 6 pairs with 2 bouncing pairs
-
-We explore two members of a family to demonstrate the two templates.
-Beyond the [visible area](#save-and-edit-images) we have a few more family members.
-
-![](4-3254-2.svg?align-right)
-
-&nbsp;
-
-In the first example above (lct-tcr), each bouncing pair section interacts with just one other bouncing pair section.
-In the second example we see more interactions between the bouncing pairs.
-The first example requires two stitches to define a thread diagram to be used as pair diagram, the second one requires three stitches.
-
-The form below generates the diagrams shown below the form. 
-Note the subtle difference for the open and closed connection in diagram variations for the three-stitch example.
-Follow the link to "_thread diagram as pair diagram_" to select your stitches for the snowflake.
-
-{% include snow-6-bounce2.html %}
-
-![](4-3254-2.png)
-
-### 4 pairs
-
-The process starts at another page than for six pairs.
-For the two examples below:
-[ctcttctc](/GroundForge/stitches.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=ctcttctc)
-and [ctctctc](/GroundForge/stitches.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=ctctctc&droste2=ct,c25=d31=d32=d50=d51=d53=d70=d71=d73=ctc,d32=ctcr,d73=ctct,d53=d70=d71=ctcl).
-These examples are chosen because one has two twists were the other has just one.
-Follow the link to "_thread diagram as pair diagram_" to select your stitches for the snowflake.
-The pair diagrams will be the same for both examples.
-This is because GroundForge considers anything done with just two pairs (like ctc-pin-ctc) as a single stitch.
-
-![](same-drostes.svg) 
-
-
-### 3 pairs
-
-Just an example: member 
-[lclclc](/GroundForge/droste.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=https://d-bl.github.io/GroundForge/droste.html?patchWidth=7&patchHeight=9&tile=5-&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&a1=lclclc&droste2=ctc&droste2=ctc)
-of the family 123.
-
-Stitches with three pairs are not very logical for a seasoned bobbin lace maker,
-It means consistently either no right twists or no left twists. 
-GroundForge can handle it, it shows starting pins for each 4th thread but no thread.
-Using these basic thread diagrams as pair diagrams (droste effect) is explained in more detail for six pairs. 
-
 Compose grounds
 ---------------
 
 Composing grounds is beyond the scope of counting snowflakes,
-so we limit the story here to a few notes on 6-pair snowflakes.
+just a few notes on 6-pair snowflakes.
 They can be connected directly, via plaits, framed in Paris grounds or whatever.
 We need some attention to prevent loops.
 
-The (non) bouncing variations can also be represented as follows:
+The three types of bouncing variations (none, once, twice) can also be represented as follows:
 
 ![](compose.svg)
 

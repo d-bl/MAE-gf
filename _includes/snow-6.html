@@ -1,27 +1,79 @@
 <form>
-    First blob starts
-    <input type="radio" name="firstBlob" value="l" id="firstBlobLeft" onchange="update()"> <label for="firstBlobLeft">left</label>
-    <input type="radio" name="firstBlob" value="r" id="firstBlobRight" checked onchange="update()"> <label for="firstBlobRight">right</label>
-    <input type="text" id="blobs" name="blobs" width="35" spellcheck="false" onchange="update()" value="rclc,ctc,ctc,crcl">
-    <a id="link" href="#" target="_blank"><button type="button">Go</button></a>
+    <label for="no-bounce-blobs">Blobs</label>
+    <input type="text" id="no-bounce-blobs" name="no-bounce-blobs" width="35" spellcheck="false" onchange="no_bounce_update()" value="rclc,ctc,ctc,crcl">
+    starts
+    <input type="radio" name="no_bounce_first_blob" value="l" id="no_bounce_first_blobLeft" onchange="no_bounce_update()"> <label for="no_bounce_first_blobLeft">left</label>
+    <input type="radio" name="no_bounce_first_blob" value="r" id="no_bounce_first_blobRight" checked onchange="no_bounce_update()"> <label for="no_bounce_first_blobRight">right</label>.
+    <br>
+    Variant
+    <input type="radio" name="no-bounce-pattern" value="diamond" id="no-bounce-pattern-a" onchange="no_bounce_update()" checked> <label for="no-bounce-pattern-a">a</label>
+    <input type="radio" name="no-bounce-pattern" value="b" id="no-bounce-pattern-b" onchange="no_bounce_update()"> <label for="no-bounce-pattern-b">b</label>
+    <input type="radio" name="no-bounce-pattern" value="c" id="no-bounce-pattern-c" onchange="no_bounce_update()"> <label for="no-bounce-pattern-c">c</label>
+    <br>
+    Footside
+    <input type="radio" name="no-bounce-footside" value="nothing" id="no-bounce-no-footside-stitch" onchange="no_bounce_update()" checked> <label for="no-bounce-no-footside-stitch">do nothing</label>
+    <input type="radio" name="no-bounce-footside" value="twist" id="no-bounce-footside-twist" onchange="no_bounce_update()"> <label for="no-bounce-footside-twist">just twist</label>
+    <input type="radio" name="no-bounce-footside" value="uc" id="no-bounce-footside-stitch" onchange="no_bounce_update()"> <label for="no-bounce-footside-stitch">under construction</label>
+    <br>
+    Swatch size:
+    <label for="no-bounce-patch-width">columns</label>&nbsp;<input type="number" name="no-bounce-patch-height" id="no-bounce-patch-width" min="2" max="10" value="4" onchange="no_bounce_update()" step="2" style="width:3em">
+    <label for="no-bounce-patch-height">rows</label>&nbsp;<input type="number" name="no-bounce-patch-width" id="no-bounce-patch-height" min="3" max="10" value="6" onchange="no_bounce_update()" style="width:3em">
+    <br>
+    <a id="hex_no_bounce_link" href="#" target="_blank"><button type="button">show diagrams</button></a>
     <script>
-    function update(){
-        const blobs = document.getElementById('blobs').value.split(",");
-        const nrOfBlobs = blobs.length;
-        let href = "/GroundForge/droste?droste2=";
-        for (let i = 0; i < nrOfBlobs; i++) {
-            href += `b1${i}=${blobs[i]},`
+        function no_bounce_update(){
+            const blobs = document.getElementById('no-bounce-blobs').value.split(",");
+            const nrOfBlobs = blobs.length;
+            if (document.getElementById("no_bounce_first_blobRight").checked) {
+                plait = "rc".repeat(nrOfBlobs).substring(0,nrOfBlobs)
+            }
+            else {
+                plait = "lc".repeat(nrOfBlobs).substring(0,nrOfBlobs)
+            }
+            function assignBlobsToPlait(prefix){
+                return blobs.map((item, i) => `${prefix}${i}=${item}`).join(",")
+            }
+            const spiderTip = `${nrOfBlobs-1}${blobs[nrOfBlobs-1].length-1}=ctcttctc`
+            const width = document.getElementById("no-bounce-patch-width").value
+            const height = document.getElementById("no-bounce-patch-height").value
+            const headsideCol = 'abcdefghijklmnopqrstuvwxyz'[width*1+1]
+            const patternType = document.querySelector('input[name="no-bounce-pattern"]:checked').value
+            const footsideType = document.querySelector('input[name="no-bounce-footside"]:checked').value
+            let q = "?"
+            if (patternType == "diamond") {
+                q += `c1=${plait}` + "&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1"
+                droste2 = `&droste2=${assignBlobsToPlait('c1')}`
+                droste3 = `&droste3=ctc,c1${spiderTip}`
+            } else {
+                const flippedPlait = plait.replace(/r/g, "L").replace(/l/g, "R").toLowerCase()
+                if (patternType == "b") {
+                    q += `b1=${plait}&b2=${flippedPlait}`
+                } else {
+                    q += `b2=${flippedPlait}&b1=${flippedPlait}`
+                }
+                q += "&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2"
+                droste2 = `&droste2=${assignBlobsToPlait('b1')},${assignBlobsToPlait('b2')}`
+                droste3 = `&droste3=ctc,b1${spiderTip},b2${spiderTip}`
+            }
+            q += "&footside=b,-&headside=-,c"
+            switch (footsideType) {
+                case "nothing":
+                    q += `&a1=-&${headsideCol}2=-`
+                    break
+                case "twist":
+                    q += `&a1=ttt&${headsideCol}2=ttt`
+                    droste2 += `,a10=a11=${headsideCol}20=tttt`
+                    droste3 += `,a110=${headsideCol}200=${headsideCol}201=ttttttt`
+                    break
+                default:
+                    q += `&a1=rct&${headsideCol}2=lct`
+                    droste2 += `,${headsideCol}22=${blobs[0]},,a13=crrr,a10=a11=a12=${headsideCol}11=ttt,${headsideCol}20=rrr,${headsideCol}12=ttttc,${headsideCol}10=ttttcllll,${headsideCol}21=${headsideCol}23=llctt,${headsideCol}23=tttt`
+                    droste3 += `,${headsideCol}213=ctcttctc,,a110=a120=cr,a100=a111=a107=a108=a130=ttttct,a131=ttctctt,c134=c124=a100=ttttttttttt,${headsideCol}212=llctt,${headsideCol}200=tt,${headsideCol}214=ttctt`
+            }
+            q += `&patchWidth=${width}&patchHeight=${height}`
+            document.getElementById("hex_no_bounce_link").href = "https://d-bl.github.io/GroundForge/droste" + q + droste2 + droste3
+            console.log(q)
         }
-        href += "&b1="
-        if (document.getElementById("firstBlobRight").checked) {
-            href += "rc".repeat(nrOfBlobs).substring(0,nrOfBlobs)
-        }
-        else {
-            href += "lc".repeat(nrOfBlobs).substring(0,nrOfBlobs)
-        }
-        href += `&droste3=ctc,b1${nrOfBlobs-1}${blobs[nrOfBlobs-1].length-1}=ctcttctc`
-        document.getElementById("link").href = href + "&patchWidth=3&patchHeight=5&paintStitches=rcrc&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1"
-    }
-    update()
+        no_bounce_update()
     </script>
 </form>
