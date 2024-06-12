@@ -11,8 +11,9 @@ Stitches for snowflakes
 Contents
 --------
 
-- [Capture thread diagrams](#capture-pair-diagrams)
-- [Pair diagrams interpreted as thread diagrams with blobs](#pair-diagrams-interpreted-as-thread-diagrams-with-blobs)
+- [Prepartions](#preparations)
+  - [Capture thread diagrams](#capture-pair-diagrams)
+  - [Pair diagrams interpreted as thread diagrams with blobs](#pair-diagrams-interpreted-as-thread-diagrams-with-blobs)
 - [6 pairs with all pairs entering before leaving](#6-pairs-with-all-pairs-entering-before-leaving)
   - [Other patterns than supplied by the form](#other-patterns-than-supplied-by-the-form)
   - [In a Paris ground (under construction)](#in-a-paris-ground-under-construction)
@@ -26,8 +27,10 @@ On this page we explore another method to capture snowflakes than used for the t
 
 [tutorial]: /GroundForge-help/Binche
 
-Capture pair diagrams
------------------------
+Preparations
+------------
+
+### Capture pair diagrams
 
 ![](connect-dots.svg?align=right)
 
@@ -42,8 +45,7 @@ For this purpose we use the Droste technique in both directions:
 * the form leads to a page with two steps that uses thread diagrams as pair diagram
 * in the second step you can choose stitches for the intended snowflake
 
-Pair diagrams interpreted as thread diagrams with blobs
--------------------------------------------------------
+### Pair diagrams interpreted as thread diagrams with blobs
 
 ![](blobs.svg?align=right)
 
