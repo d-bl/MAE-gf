@@ -76,6 +76,7 @@ Show the collection of samples in <a href="563412-145236.svg" target="_blank">an
 
 Try a blob recipe copied above in the following form.
 _Do nothing_ for the footside means: the pairs turn as a rainbow around the pin, without twists.
+The form jumps to the _pairs from threads_ page where you can choose your stitches in the second step.
 
 {% include snow-6.html %}
 
