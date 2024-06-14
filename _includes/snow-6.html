@@ -1,3 +1,10 @@
+<head>
+    <script src="snow-6.js" type="text/javascript"></script>
+    <!-- dirty trick to test stand alone,
+     included in markdown you still need to include the script
+     -->
+</head>
+
 <form>
     <label for="no-bounce-blobs">Blobs</label>
     <input type="text" id="no-bounce-blobs" name="no-bounce-blobs" width="35" spellcheck="false" onchange="no_bounce_update()" value="rclc,ctc,ctc,crcl">
@@ -19,54 +26,5 @@
     <label for="no-bounce-patch-height">rows</label>&nbsp;<input type="number" name="no-bounce-patch-width" id="no-bounce-patch-height" min="3" max="10" value="6" onchange="no_bounce_update()" style="width:3em">
     <br>
     <a id="hex_no_bounce_link" href="#" target="_blank"><button type="button">show diagrams</button></a>
-    <script>
-        function assignToPlait(prefix, blobs){
-            return blobs.map((item, i) => `${prefix}${i}=${item}`).join(",")
-        }
-        function no_bounce_update(){
-            const blobs = document.getElementById('no-bounce-blobs').value.toLowerCase().split(",");
-            const nrOfBlobs = blobs.length;
-            const right = document.getElementById("no_bounce_first_blobRight").checked
-            const plait = (right ? "rc": "lc").repeat(nrOfBlobs).substring(0,nrOfBlobs)
-            const spiderTip = `${nrOfBlobs-1}${blobs[nrOfBlobs-1].length-1}=ctcttctc`
-            const width = document.getElementById("no-bounce-patch-width").value
-            const height = document.getElementById("no-bounce-patch-height").value
-            const headsideCol = 'abcdefghijklmnopqrstuvwxyz'[width*1+1]
-            const patternType = document.querySelector('input[name="no-bounce-pattern"]:checked').value
-            const footsideType = document.querySelector('input[name="no-bounce-footside"]:checked').value
-            let q = "?"
-            if (patternType == "diamond") {
-                q += `c1=${plait}`
-                q += "&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1"
-                droste2 = `&droste2=${assignToPlait('c1', blobs)}`
-                droste3 = `&droste3=ctc,c1${spiderTip}`
-            } else {
-                const flippedPlait = plait.replace(/r/g, "L").replace(/l/g, "R").toLowerCase()
-                const flippedBlobs = blobs.map(str => str.replace(/r/g, "L") .replace(/l/g, "R") .toLowerCase())
-                q += `b1=${plait}&b2=${flippedPlait}`
-                q += "&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2"
-                droste2 = `&droste2=${assignToPlait('b1', blobs)},${assignToPlait('b2',flippedBlobs)}`
-                droste3 = `&droste3=ctc,b1${spiderTip},b2${spiderTip}`
-            }
-            q += "&footside=b,-&headside=-,c"
-            switch (footsideType) {
-                case "nothing":
-                    q += `&a1=-&${headsideCol}2=-`
-                    break
-                case "twist":
-                    q += `&a1=ttt&${headsideCol}2=ttt`
-                    droste2 += `,a10=a11=${headsideCol}20=tttt`
-                    droste3 += `,a110=${headsideCol}200=${headsideCol}201=ttttttt`
-                    break
-                default:
-                    q += `&a1=rct&${headsideCol}2=lct`
-                    droste2 += `,${headsideCol}22=${blobs[0]},,a13=crrr,a10=a11=a12=${headsideCol}11=ttt,${headsideCol}20=rrr,${headsideCol}12=ttttc,${headsideCol}10=ttttcllll,${headsideCol}21=${headsideCol}23=llctt,${headsideCol}23=tttt`
-                    droste3 += `,${headsideCol}213=ctcttctc,,a110=a120=cr,a100=a111=a107=a108=a130=ttttct,a131=ttctctt,c134=c124=a100=ttttttttttt,${headsideCol}212=llctt,${headsideCol}200=tt,${headsideCol}214=ttctt`
-            }
-            q += `&patchWidth=${width}&patchHeight=${height}`
-            document.getElementById("hex_no_bounce_link").href = "https://d-bl.github.io/GroundForge/droste" + q + droste2 + droste3
-            console.log(q)
-        }
-        no_bounce_update()
-    </script>
 </form>
+<script>no_bounce_update();</script>

@@ -75,22 +75,26 @@ Show the collection of samples in <a href="563412-145236.svg" target="_blank">an
 ----------------------------------------------
 
 Try a blob recipe copied above in the following form.
-_Do nothing_ for the footside means: the pairs turn as a rainbow around the pin, without twists.
 The form jumps to the _pairs from threads_ page where you can choose your stitches in the second step.
 
+<script>{% include snow-6.js %}</script>
 {% include snow-6.html %}
 
 &nbsp;
 
 ![](3-pair-plaits.png?align=right)
 
-The form starts with plaits of three threads, in a diamond mesh or a square mesh.
+**Do nothing** for the footside means: the pairs turn as a rainbow around the pin, without twists. 
+Even the _just twist_ option is under construction, it interferes with the adjacent snowflake.
+
+**Variants:** The form starts with plaits of three threads, in a diamond mesh or a square mesh.
 The length of the plaits are determined by the number of blobs.
 On the right screenshots for the exercise above:
 four blobs on a diamond mesh respectively six blobs on a square mesh.
 With a square mesh you will have two pairs going horizontally back and forth through the snowflakes
+The form doesn't show you the step with these screenshots.
 
-The form doesn't show you these screenshots, it jumps immediately to the _pairs from threads_ page to generate diagrams as shown below at the first step. 
+**Steps:** The form jumps immediately to the _pairs from threads_ page to generate diagrams as shown below at the first step. 
 Well, we cheated a little: some twists are added manually for the legs to make the snowflake stand out more clearly.
 If you want parallel legs: don´t add the twists. If your want crossed legs: add the twists. 
 The number of twists is not relevant for the next step. 
