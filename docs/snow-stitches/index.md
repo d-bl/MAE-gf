@@ -6,29 +6,29 @@ title: stitches for snowflakes
 Stitches for snowflakes
 =======================
 
-**... or three pair crossings**
-
 Contents
 --------
 
-- [Prepartions](#preparations)
-  - [Capture thread diagrams](#capture-pair-diagrams)
+- [Preparations](#preparations)
+  - [Capture pair diagrams](#capture-pair-diagrams)
   - [Pair diagrams interpreted as thread diagrams with blobs](#pair-diagrams-interpreted-as-thread-diagrams-with-blobs)
+- [Examples](#examples)
 - [6 pairs with all pairs entering before leaving](#6-pairs-with-all-pairs-entering-before-leaving)
   - [Other patterns than supplied by the form](#other-patterns-than-supplied-by-the-form)
   - [In a Paris ground (under construction)](#in-a-paris-ground-under-construction)
 - [6 pairs, on both sides a pair leaves before the last enters](#6-pairs-on-both-sides-a-pair-leaves-before-the-last-enters)
 
+Preparations
+------------
+
 We have a [tutorial] that explains how to choose stitches in GroundForge.
 However, these experiments require some preparation: capture the pair diagram.
-The tutorial uses a versatile Binche pattern as an example. 
+
+The tutorial uses a versatile Binche pattern as an example.
 This happens to be a 6-pair snowflake alias spider embedded in a Paris ground.
 On this page we explore more fun with snowflakes.
 
 [tutorial]: /GroundForge-help/Binche
-
-Preparations
-------------
 
 ### Capture pair diagrams
 
@@ -65,9 +65,13 @@ It illustrates requirements for the blobs:
 * Not all threads in a blob need to have an interaction with other threads.
   For example: the black and blue pairs in the third blob do nothing, like the green pair in the fifth.
 
-We figured out some  blob recipes as test cases.
+Examples
+--------
+
+The meaning of the captions and how to create them is explained above with blobs.
+How to use them is explained below.
+Download the image or show in another tab to copy the recipes in the captions.
 Due to the vast [numbers](../counting-snow) of possible snowflakes we can´t be exhaustive.
-Show the collection of samples in <a href="563412-145236.svg" target="_blank">another tab</a> to copy the recipes in the captions.
 
 ![](563412-145236.svg)
 
