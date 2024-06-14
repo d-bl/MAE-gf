@@ -20,10 +20,10 @@ Contents
 - [6 pairs, on both sides a pair leaves before the last enters](#6-pairs-on-both-sides-a-pair-leaves-before-the-last-enters)
 
 We have a [tutorial] that explains how to choose stitches in GroundForge.
-However, playing requires some preparation: capture the pair diagram.
+However, these experiments require some preparation: capture the pair diagram.
 The tutorial uses a versatile Binche pattern as an example. 
 This happens to be a 6-pair snowflake alias spider embedded in a Paris ground.
-On this page we explore another method to capture snowflakes than used for the tutorial.
+On this page we explore more fun with snowflakes.
 
 [tutorial]: /GroundForge-help/Binche
 
@@ -40,7 +40,7 @@ Variations or combinations require new distorted captures.
 
 This page explores other types of recipes for snowflakes with the aim to apply them in multiple patterns used as templates.
 For this purpose we use the Droste technique in both directions:
-* interpret pair diagrams as thread diagrams
+* interpret pair diagrams of snowflakes as thread diagrams
 * a form applies the stitches resulting from this interpretation to a recipe of your choice
 * the form leads to a page with two steps that uses thread diagrams as pair diagram
 * in the second step you can choose stitches for the intended snowflake
@@ -84,10 +84,13 @@ The form jumps to the _pairs from threads_ page where you can choose your stitch
 
 ![](3-pair-plaits.png?align=right)
 
-The form starts with plaits of three threads. The length of the plaits are determined by the number of blobs.
-On the right a screenshot of for four respectively six blobs as in the exercise above.
+The form starts with plaits of three threads, in a diamond mesh or a square mesh.
+The length of the plaits are determined by the number of blobs.
+On the right screenshots for the exercise above:
+four blobs on a diamond mesh respectively six blobs on a square mesh.
+With a square mesh you will have two pairs going horizontally back and forth through the snowflakes
 
-The form jumps immediately to the _pairs from threads_ page to generate diagrams as shown below at the first step. 
+The form doesn't show you these screenshots, it jumps immediately to the _pairs from threads_ page to generate diagrams as shown below at the first step. 
 Well, we cheated a little: some twists are added manually for the legs to make the snowflake stand out more clearly.
 If you want parallel legs: don´t add the twists. If your want crossed legs: add the twists. 
 The number of twists is not relevant for the next step. 
@@ -95,6 +98,7 @@ The number of twists is not relevant for the next step.
 ![rclc-ctc-ctc-crcl.png](rclc-ctc-ctc-crcl.png)
 
 At the second step on the page _pair from threads_ you can finally choose your stitches.
+When you opted for the square mesh, you have to apply stitches to two snowflakes.
 
 ![](last-step.png)
 
@@ -124,9 +128,9 @@ The image on the right shows variations of these figures. These figures occur in
 Wherever we discover these figures, we can use three pair joins in these patterns,
 or snowflakes when using the thread diagram as pair diagram. Just some examples:
 
-[![tesselace topo 502](tl-502.png)](/GroundForge/stitches.html?tile=5-L-K-E-,-L-L-O-O,K-H-5-L-,-5-K-E-E&patchHeight=12&patchWidth=24&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4) &nbsp;
-[![tesselace topo 551](tl-551.png)](/GroundForge/stitches.html?tile=5-L-K-H-,-L-L-O-O,5-L-K-H-,-E-E-H-H&patchHeight=12&patchWidth=24&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4) &nbsp;
-[![tesselace topo 576](tl-576.png)](/GroundForge/stitches.html?tile=5-L---H-,-L-O-L-O,--5-K-5-,-E-E-H-H&patchHeight=12&patchWidth=24&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4) &nbsp;
+[![](tl-502.png)](/GroundForge/stitches.html?tile=5-L-K-E-,-L-L-O-O,K-H-5-L-,-5-K-E-E&patchHeight=12&patchWidth=24&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4) &nbsp;
+[![](tl-551.png)](/GroundForge/stitches.html?tile=5-L-K-H-,-L-L-O-O,5-L-K-H-,-E-E-H-H&patchHeight=12&patchWidth=24&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4) &nbsp;
+[![](tl-576.png)](/GroundForge/stitches.html?tile=5-L---H-,-L-O-L-O,--5-K-5-,-E-E-H-H&patchHeight=12&patchWidth=24&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4) &nbsp;
 
 ### In a Paris ground (under construction)
 

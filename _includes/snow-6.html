@@ -6,9 +6,8 @@
     <input type="radio" name="no_bounce_first_blob" value="r" id="no_bounce_first_blobRight" checked onchange="no_bounce_update()"> <label for="no_bounce_first_blobRight">right</label>.
     <br>
     Variant
-    <input type="radio" name="no-bounce-pattern" value="diamond" id="no-bounce-pattern-a" onchange="no_bounce_update()" checked> <label for="no-bounce-pattern-a">a</label>
-    <input type="radio" name="no-bounce-pattern" value="b" id="no-bounce-pattern-b" onchange="no_bounce_update()"> <label for="no-bounce-pattern-b">b</label>
-    <input type="radio" name="no-bounce-pattern" value="c" id="no-bounce-pattern-c" onchange="no_bounce_update()"> <label for="no-bounce-pattern-c">c</label>
+    <input type="radio" name="no-bounce-pattern" value="diamond" id="no-bounce-pattern-diamond" onchange="no_bounce_update()" checked> <label for="no-bounce-pattern-diamond">diamond</label>
+    <input type="radio" name="no-bounce-pattern" value="square" id="no-bounce-pattern-square" onchange="no_bounce_update()"> <label for="no-bounce-pattern-square">square</label>
     <br>
     Footside
     <input type="radio" name="no-bounce-footside" value="nothing" id="no-bounce-no-footside-stitch" onchange="no_bounce_update()" checked> <label for="no-bounce-no-footside-stitch">do nothing</label>
@@ -21,18 +20,14 @@
     <br>
     <a id="hex_no_bounce_link" href="#" target="_blank"><button type="button">show diagrams</button></a>
     <script>
+        function assignToPlait(prefix, blobs){
+            return blobs.map((item, i) => `${prefix}${i}=${item}`).join(",")
+        }
         function no_bounce_update(){
-            const blobs = document.getElementById('no-bounce-blobs').value.split(",");
+            const blobs = document.getElementById('no-bounce-blobs').value.toLowerCase().split(",");
             const nrOfBlobs = blobs.length;
-            if (document.getElementById("no_bounce_first_blobRight").checked) {
-                plait = "rc".repeat(nrOfBlobs).substring(0,nrOfBlobs)
-            }
-            else {
-                plait = "lc".repeat(nrOfBlobs).substring(0,nrOfBlobs)
-            }
-            function assignBlobsToPlait(prefix){
-                return blobs.map((item, i) => `${prefix}${i}=${item}`).join(",")
-            }
+            const right = document.getElementById("no_bounce_first_blobRight").checked
+            const plait = (right ? "rc": "lc").repeat(nrOfBlobs).substring(0,nrOfBlobs)
             const spiderTip = `${nrOfBlobs-1}${blobs[nrOfBlobs-1].length-1}=ctcttctc`
             const width = document.getElementById("no-bounce-patch-width").value
             const height = document.getElementById("no-bounce-patch-height").value
@@ -41,18 +36,16 @@
             const footsideType = document.querySelector('input[name="no-bounce-footside"]:checked').value
             let q = "?"
             if (patternType == "diamond") {
-                q += `c1=${plait}` + "&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1"
-                droste2 = `&droste2=${assignBlobsToPlait('c1')}`
+                q += `c1=${plait}`
+                q += "&tile=-5&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1"
+                droste2 = `&droste2=${assignToPlait('c1', blobs)}`
                 droste3 = `&droste3=ctc,c1${spiderTip}`
             } else {
                 const flippedPlait = plait.replace(/r/g, "L").replace(/l/g, "R").toLowerCase()
-                if (patternType == "b") {
-                    q += `b1=${plait}&b2=${flippedPlait}`
-                } else {
-                    q += `b2=${flippedPlait}&b1=${flippedPlait}`
-                }
+                const flippedBlobs = blobs.map(str => str.replace(/r/g, "L") .replace(/l/g, "R") .toLowerCase())
+                q += `b1=${plait}&b2=${flippedPlait}`
                 q += "&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2"
-                droste2 = `&droste2=${assignBlobsToPlait('b1')},${assignBlobsToPlait('b2')}`
+                droste2 = `&droste2=${assignToPlait('b1', blobs)},${assignToPlait('b2',flippedBlobs)}`
                 droste3 = `&droste3=ctc,b1${spiderTip},b2${spiderTip}`
             }
             q += "&footside=b,-&headside=-,c"
