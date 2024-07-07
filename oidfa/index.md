@@ -23,8 +23,6 @@ title: links OIDFA Bulletin
 [Many attractive examples](https://d-bl.github.io/MAE-gf/)    
 [Tesselace](https://d-bl.github.io/tesselace-to-gf/)    
 
-<p style="clear: both"></p>
-
 ## Groundforge main address
 
 [GroundForge](https://d-bl.github.io/GroundForge/stitches)    
@@ -39,9 +37,9 @@ title: links OIDFA Bulletin
 <img src="earth.png" alt="Earth" width="200" height="200">  
 </a>
 
-
 [t-ec008]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=clcr&b1=crcl&a1=ctctctct&n2=ctctctct&c2=clcr&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 [t-ec010]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=ctctctct&n1=ctctt&c1=clcr&b1=ctc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=clcr&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
+<p style="clear: both"></p>
 
