@@ -5,7 +5,8 @@ title: links OIDFA Bulletin
 
 # Links with article in OIFDA Bulletin
 
-![][(IMG_9479.JPG?align=right)  
+<img src="IMG_9479.JPG" alt="sampler" width="346" height="518" align="right">
+
 
 ## Websites of persons and organisations mentioned
 [The Adventurous Lacemakers](https://www.theadventurouslacemakers.com/)    
@@ -23,11 +24,14 @@ title: links OIDFA Bulletin
 ## Groundforge main address
 [GroundForge](https://d-bl.github.io/GroundForge/stitches)    
 
-[![meander][p-ec008]][t-ec008] 
-[![EC-010][p-ec010]][t-ec010] 
 
-[p-ec008]: meander.png "EC-008, Meander"
-[p-ec010]: earth.png "EC-010, Earth"
+<a href="/GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=clcr&b1=crcl&a1=ctctctct&n2=ctctctct&c2=clcr&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2">
+<img src="meander.png" alt="Meander" width="200" height="200">  
+</a>   
+<a href="/GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=ctctctct&n1=ctctt&c1=clcr&b1=ctc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=clcr&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2">
+<img src="earth.png" alt="Earth" width="200" height="200">  
+</a>
+
 
 [t-ec008]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=clcr&b1=crcl&a1=ctctctct&n2=ctctctct&c2=clcr&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
