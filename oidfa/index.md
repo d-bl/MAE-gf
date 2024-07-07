@@ -11,7 +11,7 @@ title: links OIDFA Bulletin
 
 [The Adventurous Lacemakers](https://www.theadventurouslacemakers.com/)    
 [Pierre Fouché](http://www.pierrefouche.net/)    
-[Madeline Thomann](https://www.madelinethoman.com/)    
+[Madeline Thoman](https://www.madelinethoman.com/)    
 
 ## Counting stitches
 
