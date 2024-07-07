@@ -5,7 +5,7 @@ title: links OIDFA Bulletin
 
 # Links with article in OIFDA Bulletin
 
-<img src="IMG_9479.JPG" alt="sampler" width="346" height="518" align="right">
+![](sampler.JPG?align=right)
 
 ## Websites of persons and organisations mentioned
 
