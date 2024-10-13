@@ -25,6 +25,7 @@ function no_bounce_update(){
         droste2 = `&droste2=${assignToPlait(`b1=d1=${g}2=`, blobs)}`
         droste3 = '&droste3=ctc' + spiderTips('b1=d1=${g}2=', blobs)
     } else {
+        // flip snowflakes on the returning row
         const flippedPlait = plait.replace(/r/g, "L").replace(/l/g, "R").toLowerCase()
         const flippedBlobs = blobs.map(str => str.replace(/r/g, "L") .replace(/l/g, "R") .toLowerCase())
         q += `b1=${plait}&b2=${flippedPlait}&c1=${plait}&c2=${flippedPlait}&${g}1=${plait}&${g}2=${flippedPlait}`

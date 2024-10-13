@@ -89,7 +89,7 @@ The form jumps to the _pairs from threads_ page where you can choose your stitch
 ![](3-pair-plaits.png?align=right)
 
 **Do nothing** for the footside means: the pairs turn as a rainbow around the pin, without twists. 
-Even the _just twist_ option is under construction, it interferes with the adjacent snowflake.
+The _just twist_ option is under construction, a proper footside interferes with the adjacent snowflake.
 
 **Variants:** 
 The form jumps straight to the _pairs from threads_ page were you can generate the final diagrams.
@@ -101,6 +101,7 @@ The length of the plaits are determined by the number of blobs.
 With a square mesh you will have two pairs going horizontally back and forth through the snowflakes
 The pattern definitions shows that both variants have the same footsides. 
 The footsides have additional columns with snowflakes, these interfere with the footsides.
+Note that the square variant flips the snowflakes on the returning rows.
 
 **Steps:** The form jumps immediately to the _pairs from threads_ page to generate diagrams as shown below at the first step. 
 Well, we cheated a little: some twists are added manually for the legs to make the snowflake stand out more clearly.
