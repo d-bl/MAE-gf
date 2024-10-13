@@ -91,12 +91,16 @@ The form jumps to the _pairs from threads_ page where you can choose your stitch
 **Do nothing** for the footside means: the pairs turn as a rainbow around the pin, without twists. 
 Even the _just twist_ option is under construction, it interferes with the adjacent snowflake.
 
-**Variants:** The form starts with plaits of three threads, in a diamond mesh or a square mesh.
+**Variants:** 
+The form jumps straight to the _pairs from threads_ page were you can generate the final diagrams.
+When following the link _Back to the initial pair diagram_ and subsequently _pattern definition_, 
+you will see diagrams as on the right:
+Short plaits of three threads for each snowflake. 
+Depending on your choice, these plaits are arranged in a diamond mesh or a square mesh.
 The length of the plaits are determined by the number of blobs.
-On the right screenshots for the exercise above:
-four blobs on a diamond mesh respectively six blobs on a square mesh.
 With a square mesh you will have two pairs going horizontally back and forth through the snowflakes
-The form doesn't show you the step with these screenshots.
+The pattern definitions shows that both variants have the same footsides. 
+The footsides have additional columns with snowflakes, these interfere with the footsides.
 
 **Steps:** The form jumps immediately to the _pairs from threads_ page to generate diagrams as shown below at the first step. 
 Well, we cheated a little: some twists are added manually for the legs to make the snowflake stand out more clearly.
