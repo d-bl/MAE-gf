@@ -3,7 +3,7 @@ layout: default
 title: links OIDFA Bulletin
 ---
 
-# Links with article in OIFDA Bulletin
+# Links for article in OIFDA Bulletin no 4, 2024
 
 ![](sampler.JPG?align=right)
 
@@ -11,6 +11,7 @@ title: links OIDFA Bulletin
 
 [The Adventurous Lacemakers](https://www.theadventurouslacemakers.com/)    
 [Pierre Fouché](http://www.pierrefouche.net/)    
+[Veronika Irvine](https://linktr.ee/tesselace)       
 [Madeline Thoman](https://www.madelinethoman.com/)    
 
 ## Counting stitches
@@ -28,6 +29,8 @@ title: links OIDFA Bulletin
 [GroundForge](https://d-bl.github.io/GroundForge/stitches)    
 
 ### Meander and Earth
+
+Please click on the picture to see how to make these grounds.    
 
 <a href="/GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=clcr&b1=crcl&a1=ctctctct&n2=ctctctct&c2=clcr&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2">
 <img src="meander.png" alt="Meander" width="200" height="200">  
