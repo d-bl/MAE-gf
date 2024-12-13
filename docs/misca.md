@@ -36,18 +36,35 @@ Miscellaneous examples, collected on this page.
 There are several ways of making three-paired joins. As Groundforge does not do real three-paired joins, we decomposed the join in several 2-paired joins, and show approximately how the stitch looks like. We would like to thank Gibritte for inspiring us. She discovered, that you can make a star-join on the fish-scheme! Please click on the picture of the join you wish to see.  
 
 * Star   
-[![p-3pr-st-h]][t-3pr-st-h] [![p-3pr-st-v]][t-3pr-st-v] [![p-3pr-s2-v]][t-3pr-s2-v]          
+1: [![p-3pr-st-h]][t-3pr-st-h] 2: [![p-3pr-st-v]][t-3pr-st-v] 3: [![p-3pr-s2-v]][t-3pr-s2-v]          
 * Triangle       
-[![p-3pr-tr-h]][t-3pr-tr-h] [![p-3pr-tr-v]][t-3pr-tr-v]    
+1: [![p-3pr-tr-h]][t-3pr-tr-h] 2: [![p-3pr-tr-v]][t-3pr-tr-v]    
 * Fish and snowflake       
-[![p-3pr-fh-h]][t-3pr-fh-h] [![p-3pr-sn-v]][t-3pr-sn-v] [![p-3pr-sn-d]][t-3pr-sn-d]
+1a: [![p-3pr-fh-h]][t-3pr-fh-h] 2b: [![p-3pr-sn-v]][t-3pr-sn-v] 3: [![p-3pr-sn-d]][t-3pr-sn-d]
 * Other examples        
-[![p-3pr-132]][t-3pr-132] [![p-3pr-123]][t-3pr-123]         
+1: [![p-3pr-132]][t-3pr-132] 2: [![p-3pr-123]][t-3pr-123]         
 <p style="clear: both"></p>   
+
+Babette inspired us to make a page where you can mix up 3 paired joins to create a ground. A column in the table below lists the recipes for that page. The default diagram on the page mixes fish 2a-c (without the italic twists for the legs) and star-2. Weaving pairs are not possible on this page. The family column refers to the page [_Counting snowflake families_][count-page]. The numbers show how the pairs get reordered. 
+
+| Example    | [mix up]                              | [family][count-page] |
+|:-----------|:--------------------------------------|:---------------------|
+| star 1     | Left - tc,rclcrc,clcrcl,ct            | 321                  |
+| star 2     | Right - c,ct,rc*rrr*,c*ttt*           | 231                  |
+| triangle 2 | Left - ctc,ctc,ctc*l*,_t_             | 321                  |
+| fish 1b    | Left - ctc,ctc,ctc*r*,ctc*t*          | 312                  |
+| fish 2a    | Left - cr,ctc,ctc*r*,lc*t*            | 321                  |
+| fish 2b    | Right - cr,ctc,ctc*r*,lc*t*           | 321                  |
+| fish 2c    | Right - cl,ctc,ctc*r*,rc*t*           | 321                  |
+| other 1    | Right - ctc,ctc,ctc,ctc,ctc*r*,_t_    | 132                  |
+| other 2    | Right - ctc,ctc,ctc,ctc,ctc*r*,ctc*t* | 123                  |
+
+[mix up]: /GroundForge/snow-stitches
+
 
 This [rose ground variant][T-3cc] looks like a three paired join, but has crossings instead of twists.   
 A three-paired join can be made with a half little snowflake. See [_half little snowflake_][pg-half-sn] for more configurations with half little snowflakes.   
-See also page [_Counting snowflake families_][count-page].  
+ 
 
 [p-3pr-st-h]: ../images/misca/3pr-st-h.png "horizontal star, family 321"
 [p-3pr-st-v]: ../images/misca/3pr-st-v.png "vertical star, family 321"
