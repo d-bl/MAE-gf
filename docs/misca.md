@@ -61,6 +61,7 @@ Babette inspired us to make a page where you can mix up 3 paired joins to create
 
 [mix up]: /GroundForge/snow-stitches
 
+&nbsp;
 
 This [rose ground variant][T-3cc] looks like a three paired join, but has crossings instead of twists.   
 A three-paired join can be made with a half little snowflake. See [_half little snowflake_][pg-half-sn] for more configurations with half little snowflakes.   
