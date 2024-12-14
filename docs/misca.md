@@ -58,7 +58,7 @@ Babette inspired us to make a page where you can mix up 3 paired joins to create
 |                      |           | triangle 2 |         | Left - ctc,ctc,ctc*lll*,_ttt_             |
 |                      |           | star 1     |         | Left - tc,rclcrc,clcrcl,ct                |
 |                      |           | fish 2     |   `/`   | Right - cl,ctc,ctc*rrr*,rc*ttt*           |
-|                      |           |            |  `\| `  | Right - cr,ctc,ctc*rtt*,lc*ttt*           |
+|                      |           |            |  `| `   | Right - cr,ctc,ctc*rtt*,lc*ttt*           |
 |                      |           |            |   `\`   | Left - cr,ctc,ctc*lll*,lc*ttt*            |
 
 [mix up]: /GroundForge/snow-stitches
