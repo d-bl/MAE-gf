@@ -40,26 +40,29 @@ There are several ways of making three-paired joins. As Groundforge does not do 
 * Triangle       
 1: [![p-3pr-tr-h]][t-3pr-tr-h] 2: [![p-3pr-tr-v]][t-3pr-tr-v]    
 * Fish and snowflake       
-1a: [![p-3pr-fh-h]][t-3pr-fh-h] 2b: [![p-3pr-sn-v]][t-3pr-sn-v] 3: [![p-3pr-sn-d]][t-3pr-sn-d]
+1: [![p-3pr-fh-h]][t-3pr-fh-h] 2: [![p-3pr-sn-v]][t-3pr-sn-v] 3: [![p-3pr-sn-d]][t-3pr-sn-d]
 * Other examples        
 1: [![p-3pr-132]][t-3pr-132] 2: [![p-3pr-123]][t-3pr-123]         
 <p style="clear: both"></p>   
 
-Babette inspired us to make a page where you can mix up 3 paired joins to create a ground. A column in the table below lists the recipes for that page. The default diagram on the page mixes fish 2a-c (without the italic twists for the legs) and star-2. Weaving pairs are not possible on this page. The family column refers to the page [_Counting snowflake families_][count-page]. The numbers show how the pairs get reordered. 
+Babette inspired us to make a page where you can mix up 3 paired joins to create a ground. A column in the table below lists the recipes for that page. The default diagram on the mix-up page mixes the 3 variants of fish-2 (without the italic twists for the legs) and star-2. Variants with weaving pairs are not possible on the mix-up page. The family column refers to the page [_Counting snowflake families_][count-page]. The numbers show how the pairs (or threads) get reordered. 
 
-| Example    | [mix up]                              | [family][count-page] |
-|:-----------|:--------------------------------------|:---------------------|
-| star 1     | Left - tc,rclcrc,clcrcl,ct            | 321                  |
-| star 2     | Right - c,ct,rc*rrr*,c*ttt*           | 231                  |
-| triangle 2 | Left - ctc,ctc,ctc*l*,_t_             | 321                  |
-| fish 1b    | Left - ctc,ctc,ctc*r*,ctc*t*          | 312                  |
-| fish 2a    | Left - cr,ctc,ctc*r*,lc*t*            | 321                  |
-| fish 2b    | Right - cr,ctc,ctc*r*,lc*t*           | 321                  |
-| fish 2c    | Right - cl,ctc,ctc*r*,rc*t*           | 321                  |
-| other 1    | Right - ctc,ctc,ctc,ctc,ctc*r*,_t_    | 132                  |
-| other 2    | Right - ctc,ctc,ctc,ctc,ctc*r*,ctc*t* | 123                  |
+| [family][count-page] | [mirrors] | example    | variant | [mix up]                                  |
+|:---------------------|:----------|:-----------|:-------:|:------------------------------------------|
+| 123                  |           | other 2    |         | Right - ctc,ctc,ctc,ctc,ctc*rrr*,ctc*ttt* |
+| 132                  | 213       | other 1    |         | Right - ctc,ctc,ctc,ctc,ctc*rrr*,_ttt_    |
+| 213                  | 132       |            |         |                                           |
+| 231  - 456123        | 312       | star 3     |         | Left - rcl,ctc,cr*lll*,_ttt_              |
+| 312                  | 231       | fish 1     |   `\`   | Left - ctc,ctc,ctc*rrr*,ctc*ttt*          |
+| 321                  |           | star 2     |         | Right - c,ct,rc*rrr*,c*ttt*               |
+|                      |           | triangle 2 |         | Left - ctc,ctc,ctc*lll*,_ttt_             |
+|                      |           | star 1     |         | Left - tc,rclcrc,clcrcl,ct                |
+|                      |           | fish 2     |   `/`   | Right - cl,ctc,ctc*rrr*,rc*ttt*           |
+|                      |           |            |  `\| `  | Right - cr,ctc,ctc*rtt*,lc*ttt*           |
+|                      |           |            |   `\`   | Left - cr,ctc,ctc*lll*,lc*ttt*            |
 
 [mix up]: /GroundForge/snow-stitches
+[mirrors]: /MAE-gf/docs/counting-snow/3-pair-permutations.svg
 
 &nbsp;
 
