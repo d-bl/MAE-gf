@@ -45,16 +45,16 @@ There are several ways of making three-paired joins. As Groundforge does not do 
 1: [![p-3pr-132]][t-3pr-132] 2: [![p-3pr-123]][t-3pr-123]         
 <p style="clear: both"></p>   
 
-Babette inspired us to make a page where you can mix up 3 paired joins to create a ground. A column in the table below lists the recipes for that page. The default diagram on the mix-up page mixes the 3 variants of fish-2 (without the italic twists for the legs) and star-2. Variants with weaving pairs are not possible on the mix-up page. The family column refers to the page [_Counting snowflake families_][count-page]. The numbers show how the pairs (3-digits) or threads (6 digits) get reordered. 
+Babette inspired us to make a page where you can mix up 3 paired joins to create a ground. The default diagram on the mix-up page mixes the 3 variants of fish-2 (without the italic twists for the legs) and star-2. Variants with weaving pairs are not possible on the mix-up page. The family column refers to the page [_Counting snowflake families_][count-page]. The numbers show how the pairs (3-digits) or threads (6 digits) get reordered. 
 
-| [family][count-page] | [mirrors] | example    | variant | [mix up]                                  |
+| [family][count-page] | [mirrors] | example    | variant | recipes for form on [mix up] page         |
 |:---------------------|:----------|:-----------|:-------:|:------------------------------------------|
 | 456123               |           | star 3     |         | Left - rcl,ctc,cr*lll*,_ttt_              |
 |                      |           |            |         | Right - c,ct,rc*rrr*,c*ttt*               |
 | 123                  |           | other 2    |         | Right - ctc,ctc,ctc,ctc,ctc*rrr*,ctc*ttt* |
-| 132                  | 132       | other 1    |         | Right - ctc,ctc,ctc,ctc,ctc*rrr*,_ttt_    |
+| 132                  | 132       | other 1    |         | Right - ctc,ctc,ctc,ctc,ctcr*rr*,t_tt_    |
 | 312                  | 231       | fish 1     |    ╱    | Left - ctc,ctc,ctc*rrr*,ctc*ttt*          |
-| 321                  |           | triangle 2 |         | Left - ctc,ctc,ctc*lll*,_ttt_             |
+| 321                  |           | triangle 2 |         | Left - ctc,ctc,ctcl*ll*,t_tt_             |
 |                      |           | star 2     |         | Left - tc,rclcrc,clcrcl,ct                |
 |                      |           | fish 2     |    ╱    | Right - cl,ctc,ctc*rrr*,rc*ttt*           |
 |                      |           |            |   │     | Right - cr,ctc,ctc*rtt*,lc*ttt*           |
