@@ -54,10 +54,14 @@ Babette inspired us to make a page where you can mix up 3 paired joins to create
 | 123                  |           | other 2    |         | Right - ctc,ctc,ctc,ctc,ctc*rrr*,ctc*ttt* |
 | 132                  | 132       | other 1    |         | Right - ctc,ctc,ctc,ctc,ctcr*rr*,t_tt_    |
 | 312                  | 231       | fish 1     |    ╱    | Left - ctc,ctc,ctc*rrr*,ctc*ttt*          |
-| 321                  |           | triangle 2 |         | Left - ctc,ctc,ctcl*ll*,t_tt_             |
+|                      |           | fish 3     |         | not supported                             |
+| 321                  |           | triangle 1 |         | not supported                             |
+|                      |           | triangle 2 |         | Left - ctc,ctc,ctcl*ll*,t_tt_             |
+|                      |           | star 1     |         | not supported                             |
 |                      |           | star 2     |         | Left - tc,rclcrc,clcrcl,ct                |
+|                      |           | fish 1     |         | not supported                             |
 |                      |           | fish 2     |    ╱    | Right - cl,ctc,ctc*rrr*,rc*ttt*           |
-|                      |           |            |   │     | Right - cr,ctc,ctc*rtt*,lc*ttt*           |
+|                      |           |            |    │    | Right - cr,ctc,ctc*rtt*,lc*ttt*           |
 |                      |           |            |    ╲    | Left - cr,ctc,ctc*lll*,lc*ttt*            |
 
 [mix up]: /GroundForge/snow-stitches
