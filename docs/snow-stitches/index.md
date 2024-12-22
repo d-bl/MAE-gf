@@ -9,16 +9,16 @@ Stitches for snowflakes
 Contents
 --------
 
-- [Preparations](#preparations)
+- [Introduction](#introduction)
   - [Capture pair diagrams](#capture-pair-diagrams)
-  - [Pair diagrams interpreted as thread diagrams with blobs](#pair-diagrams-interpreted-as-thread-diagrams-with-blobs)
+  - [Alternative](#alternative)
 - [Examples](#examples)
 - [6 pairs with all pairs entering before leaving](#6-pairs-with-all-pairs-entering-before-leaving)
   - [Other patterns than supplied by the form](#other-patterns-than-supplied-by-the-form)
   - [In a Paris ground (under construction)](#in-a-paris-ground-under-construction)
 - [6 pairs, on both sides a pair leaves before the last enters](#6-pairs-on-both-sides-a-pair-leaves-before-the-last-enters)
 
-Preparations
+Introduction
 ------------
 
 We have a [tutorial] that explains how to choose stitches in GroundForge.
@@ -38,47 +38,17 @@ Before we can play with stitches, we need to capture the pair diagram.
 Most captures start with a distorted pair diagram. Each stitch should match a dot on a square grid.
 Variations or combinations require new distorted captures. 
 
-This page explores other types of recipes for snowflakes with the aim to apply them in multiple patterns used as templates.
-For this purpose we use the Droste technique in both directions:
-* interpret pair diagrams of snowflakes as thread diagrams
-* a form applies the stitches resulting from this interpretation to a recipe of your choice
-* the form leads to a page with two steps that uses thread diagrams as pair diagram
-* in the second step you can choose stitches for the intended snowflake
+### Alternative
 
-### Pair diagrams interpreted as thread diagrams with blobs
-
-![](blobs.svg?align=right)
-
-We can analyse stitches in a diagram by marking them with blobs.
-On the right a solution for one snowflake.
-The caption describes the blob sequence.
-The capital R indicates that the first blob is on the right side,
-in other words the first stitch would be made with the middle pair and right pair.
-
-![](too-complicated-blobs.svg?align=left)
-
-On the left another (too complicated) solution for the same snowflake.
-It illustrates requirements for the blobs:
-* Span 4 threads. 
-* The threads flow two by two into adjacent blobs. For example red and orange flow from two to three and blue and purple from two to four.
-  This can be deceptive: five may seem to receive black from one while it actually goes via three.
-* Not all threads in a blob need to have an interaction with other threads.
-  For example: the black and blue pairs in the third blob do nothing, like the green pair in the fifth.
-
-Examples
---------
-
-The meaning of the captions and how to create them is explained above with blobs.
-How to use them is explained below.
-Download the image or show in another tab to copy the recipes in the captions.
-Due to the vast [numbers](../counting-snow) of possible snowflakes we can´t be exhaustive.
-
-![](563412-145236.svg)
+Based on experiments on this page, a new versatile [snow mixer](/GroundForge/mix4snow) has been developed. 
+This mixer displays inline diagrams to avoid switching between pages for each attempt.
+[Its tutorial](/GroundForge-help/snow-mix) explains recipes that also work in form fields on this page.  
 
 6 pairs with all pairs entering before leaving
 ----------------------------------------------
 
-Try a blob recipe copied above in the following form.
+Unlike the snow mixer mentioned above, the form below is limited to a single snowflake but in two arrangements. 
+More importantly it supports odd numbers of stitches in a recipe and a theoretically unlimited number.
 The form jumps to the _pairs from threads_ page where you can choose your stitches in the second step.
 
 <script>{% include snow-6.js %}</script>
