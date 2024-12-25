@@ -49,7 +49,7 @@ This mixer displays inline diagrams to avoid switching between pages for each at
 
 Unlike the snow mixer mentioned above, the form below is limited to a single snowflake but in two arrangements. 
 More importantly it supports odd numbers of stitches in a recipe and a theoretically unlimited number.
-The form jumps to the _pairs from threads_ page where you can choose your stitches in the second step.
+The form jumps to the _pair diagrams from thread diagrams_ page where you can choose your stitches in the second step.
 
 <script>{% include snow-6.js %}</script>
 {% include snow-6.html %}
@@ -62,7 +62,7 @@ The form jumps to the _pairs from threads_ page where you can choose your stitch
 The _just twist_ option is under construction, a proper footside interferes with the adjacent snowflake.
 
 **Variants:** 
-The form jumps straight to the _pairs from threads_ page were you can generate the final diagrams.
+The form jumps straight to the _pair diagrams from thread diagrams_ page were you can generate the final diagrams.
 When following the link _Back to the initial pair diagram_ and subsequently _pattern definition_, 
 you will see diagrams as on the right:
 Short plaits of three threads for each snowflake. 
@@ -73,7 +73,7 @@ The pattern definitions shows that both variants have the same footsides.
 The footsides have additional columns with snowflakes, these interfere with the footsides.
 Note that the square variant flips the snowflakes on the returning rows.
 
-**Steps:** The form jumps immediately to the _pairs from threads_ page to generate diagrams as shown below at the first step. 
+**Steps:** The form jumps immediately to the _pair diagrams from thread diagrams_ page to generate diagrams as shown below at the first step. 
 Well, we cheated a little: some twists are added manually for the legs to make the snowflake stand out more clearly.
 If you want parallel legs: don´t add the twists. If your want crossed legs: add the twists. 
 The number of twists is not relevant for the next step. 
@@ -122,8 +122,8 @@ or snowflakes when using the thread diagram as pair diagram. Just some examples:
 The [tutorial] for choosing stitches captured the pair diagram directly.
 When using the thread diagram of this [pattern](/GroundForge/stitches.html?patchWidth=19&patchHeight=16&tile=-5-,6-5,-5-,5-5,-58,5-4&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=3&shiftRowsSE=3&b1=ct&c2=ct&a2=cllcr&b3=cl&c4=ctc&a4=ct&c5=-&b5=crrcl&c6=ctc&a6=cr&droste2=ctc,c20=c21=b30=b31=c22=a60=a61=a42=b11=ctct,b53=b10=b12=rctct,a23=a40=a41=lctct)
 we also get snowflakes in a Paris ground. 
-You only need the first step of the _pairs from threads_ page.
-Definition for the ring pair at the first _pairs from threads_ step:
+You only need the first step of the _pair diagrams from thread diagrams_ page.
+Definition for the ring pair at the first _pair diagrams from thread diagrams_ step:
 
     ctc
     c20=c21=b30=b31=c22=a60=a61=a42=b11=ctct
