@@ -38,11 +38,11 @@ Before we can play with stitches, we need to capture the pair diagram.
 Most captures start with a distorted pair diagram. Each stitch should match a dot on a square grid.
 Variations or combinations require new distorted captures. 
 
-### Alternative
+### Experiments and spin off
 
 Based on experiments on this page, a new versatile [snow mixer](/GroundForge/mix4snow) has been developed. 
-This mixer displays inline diagrams to avoid switching between pages for each attempt.
-[Its tutorial](/GroundForge-help/snow-mix) explains recipes that also work in form fields on this page.  
+Unlike the forms on this page, the mixer displays inline diagrams to avoid switching between pages for each attempt.
+[Its tutorial](/GroundForge-help/snow-mix) explains recipes that also work in forms on this page.  
 
 6 pairs with all pairs entering before leaving
 ----------------------------------------------
