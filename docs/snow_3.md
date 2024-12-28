@@ -9,11 +9,11 @@ title: 3 pair join
 
 * [Introduction](#introduction)
 * [Star](#star)
-* [Triangle](#Triangle)
+* [Triangle](#triangle)
 * [Fish](#fish)
 * [Snowflake](#snowflake)
-* [Other examples](#other_examples)
-* [Half little snowflake](#half_little_snowflake)
+* [Other examples](#other-examples)
+* [Half little snowflake](#half-little-snowflake)
 
 ## Introduction
 
@@ -46,7 +46,7 @@ This [rose ground variant][T-3cc] looks like a three paired join, but has crossi
 <p style="clear: both"></p> 
 
 [p-3pr-tr-h]: ../images/snow_3/3pr-tr-h.png "horizontal triangle, family 321"
-[p-3pr-tr-v]: ../images/snpw_3/3pr-tr-v.png "vertical triangle, family 321"
+[p-3pr-tr-v]: ../images/snow_3/3pr-tr-v.png "vertical triangle, family 321"
 
 [t-3pr-tr-h]: /GroundForge/stitches?patchWidth=12&patchHeight=12&b1=ctcttt&b2=ctc&a2=ctcrrr&a3=ctcttt&b4=ctclll&a4=ctc&tile=-4,68,7-,12&tileStitch=ctc&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 
@@ -66,7 +66,7 @@ This [rose ground variant][T-3cc] looks like a three paired join, but has crossi
 1: [![p-3pr-sn-v]][t-3pr-sn-v] 2: [![p-3pr-sn-d]][t-3pr-sn-d]  
 <p style="clear: both"></p> 
 
-[p-3pr-sn-v]: ../images/snpw_3/3pr-sn-v.png "snowflake, family 321"
+[p-3pr-sn-v]: ../images/snow_3/3pr-sn-v.png "snowflake, family 321"
 [p-3pr-sn-d]: ../images/snow_3/3pr-sn-d.png "diagonal snowflake, family 321"
 
 [t-3pr-sn-v]: /GroundForge/stitches?patchWidth=12&patchHeight=20&b1=ctcr&a1=cl&d3=ctclll&a3=cttt&c4=cr&b4=ctcl&d6=ctcrrr&c6=cttt&tile=76x-,yxxy,6-x4,x24-,xxww,x-27&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6
@@ -79,7 +79,7 @@ This [rose ground variant][T-3cc] looks like a three paired join, but has crossi
 <p style="clear: both"></p>   
 
 [p-3pr-132]: ../images/snow_3/3pr-132.png "half little snowflake, familie 132"
-[p-3pr-123]: ../images/snpw_3/3pr-123.png "familie 123"
+[p-3pr-123]: ../images/snow_3/3pr-123.png "familie 123"
 
 [t-3pr-132]: /GroundForge/stitches?patchWidth=17&patchHeight=20&paintStitches=ctcl&e1=ctcr&d1=ctct&b1=ctc&a1=ctc&f2=ctct&b2=ctc&e3=ctc&d3=ctc&b3=ctct&a3=ctcl&d4=ctc&tile=21z17-,x7-x-5,48v86-,-x-4x-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=6&shiftRowsSE=2
 
@@ -87,16 +87,14 @@ This [rose ground variant][T-3cc] looks like a three paired join, but has crossi
  
 ## Half little snowflake
 
-![half little snowflake][p-half-snowflake]
-
 A three-paired join can be made with a half little snowflake. This can be used in several configurations.        
 The pricking of the first example is equivalent to no 47 from _Moderne Torchonspitze_, where it is presented rose-ground style.                  
 <p style="clear: both"></p>
 
-[![half little snowflake 1][p-sn-half-1]][t-sn-half-1]
-[![half little snowflake 2][p-sn-half-2]][t-sn-half-2]
-[![half little snowflake 3][p-sn-half-3]][t-sn-half-3]
-[![half little snowflake 4][p-sn-half-4]][t-sn-half-4]
+[![half little snowflake 1][p-sn-half-1]][t-sn-half-1]    
+[![half little snowflake 2][p-sn-half-2]][t-sn-half-2]  
+[![half little snowflake 3][p-sn-half-3]][t-sn-half-3]  
+[![half little snowflake 4][p-sn-half-4]][t-sn-half-4]  
 
 [p-sn-half-1]: ../images/snow_3/g-sn-half-60-1.svg "h366, topologically equivalent to Moderne Torchonspitze no 47"
 [p-sn-half-2]: ../images/snow_3/g-sn-half-60-2.svg "h305"
@@ -109,7 +107,7 @@ The pricking of the first example is equivalent to no 47 from _Moderne Torchonsp
 
 [t-sn-half-3]: /GroundForge/stitches?patchWidth=30&patchHeight=30&paintStitches=cttctt&i1=ctctt&g1=ctc&c1=ctc&a1=ctctt&j2=cttctt&f2=ctc&d2=ctc&i3=ctc&g3=ctcrr&c3=ctcll&a3=ctc&h4=ctc&f4=ctctt&d4=ctctt&b4=ctc&i5=ctc&e5=cttctt&a5=ctc&h6=ctcll&f6=ctc&d6=ctc&b6=ctcrr&tile=4-5x-x5-7-,x-x7-4x-x5,7-4x-x7-4-,x5-7-4-5x-,4x-x5x-x7-,x7-4-7-4x-&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=10&shiftRowsSE=6
 
-[t-sn-half-4]: /GroundForge/stitches?patchWidth=15&patchHeight=20&paintStitches=tctct&g1=ctc&c1=ctc&a1=tctct&h2=ctc&g2=ctc&f2=ctc&d2=ctc&c2=ctc&b2=ctc&tile=5-4---7-,-21C-B86&shiftColsSW=-4&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=2
+[t-sn-half-4]: /GroundForge/stitches?patchWidth=15&patchHeight=20&paintStitches=tctct&g1=ctc&c1=ctc&a1=tctct&h2=ctc&g2=ctc&f2=ctc&d2=ctc&c2=ctc&b2=ctc&tile=5-4---7-,-21C-B86&shiftColsSW=-4&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=2     
 
 
 
