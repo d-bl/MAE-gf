@@ -76,15 +76,15 @@ This [rose ground variant][T-3cc] looks like a three paired join, but has crossi
 ## Half little snowflake
 
 A three-paired join can be made with a half little snowflake. This can be used in several configurations.        
-The pricking of the first example is equivalent to no 47 from _Moderne Torchonspitze_, where it is presented rose-ground style. 
+The pricking of example a) is equivalent to no 47 from _Moderne Torchonspitze_, where it is presented rose-ground style. 
 
 1: [![p-3pr-132]][t-3pr-132]  
 <p style="clear: both"></p>
 
-[![half little snowflake 1][p-sn-half-1]][t-sn-half-1]
-[![half little snowflake 2][p-sn-half-2]][t-sn-half-2]
-[![half little snowflake 3][p-sn-half-3]][t-sn-half-3]
-[![half little snowflake 4][p-sn-half-4]][t-sn-half-4]   
+a: [![half little snowflake 1][p-sn-half-1]][t-sn-half-1]
+b: [![half little snowflake 2][p-sn-half-2]][t-sn-half-2]
+c: [![half little snowflake 3][p-sn-half-3]][t-sn-half-3]
+d: [![half little snowflake 4][p-sn-half-4]][t-sn-half-4]   
 <p style="clear: both"></p>
 
 [p-sn-half-1]: ../images/snow_3/g-sn-half-60-1.svg "h366, topologically equivalent to Moderne Torchonspitze no 47"
