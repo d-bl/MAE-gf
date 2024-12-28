@@ -1,1 +1,1 @@
-Images for the little snowflake
+Images for the little snowflake, 4 pairs coming in.
