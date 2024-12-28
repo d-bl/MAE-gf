@@ -12,8 +12,8 @@ title: 3 pair join
 * [Triangle](#triangle)
 * [Fish](#fish)
 * [Snowflake](#snowflake)
-* [Other examples](#other-examples)
 * [Half little snowflake](#half-little-snowflake)
+* [Other examples](#other-examples)
 
 ## Introduction
 
@@ -71,35 +71,30 @@ This [rose ground variant][T-3cc] looks like a three paired join, but has crossi
 
 [t-3pr-sn-v]: /GroundForge/stitches?patchWidth=12&patchHeight=20&b1=ctcr&a1=cl&d3=ctclll&a3=cttt&c4=cr&b4=ctcl&d6=ctcrrr&c6=cttt&tile=76x-,yxxy,6-x4,x24-,xxww,x-27&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6
 
-[t-3pr-sn-d]: /GroundForge/stitches?patchWidth=17&patchHeight=20&e1=cl&a1=cr&e2=ctctrr&d2=ctc&b2=ctcrrr&a2=ctcl&d3=cttt&b3=cttt&c4=ctcttt&d5=cr&b5=cl&e6=ctc&d6=ctctll&b6=ctcr&a6=ctclll&e7=cttt&a7=cttt&f8=ctcttt&tile=c---b-,m9-l8-,-7-4--,--5---,-b-c--,0f-1h-,4---7-,-----5&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=6&shiftRowsSE=8
+[t-3pr-sn-d]: /GroundForge/stitches?patchWidth=17&patchHeight=20&e1=cl&a1=cr&e2=ctctrr&d2=ctc&b2=ctcrrr&a2=ctcl&d3=cttt&b3=cttt&c4=ctcttt&d5=cr&b5=cl&e6=ctc&d6=ctctll&b6=ctcr&a6=ctclll&e7=cttt&a7=cttt&f8=ctcttt&tile=c---b-,m9-l8-,-7-4--,--5---,-b-c--,0f-1h-,4---7-,-----5&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=6&shiftRowsSE=8   
 
-## Other examples        
-
-1: [![p-3pr-132]][t-3pr-132] 2: [![p-3pr-123]][t-3pr-123]         
-<p style="clear: both"></p>   
-
-[p-3pr-132]: ../images/snow_3/3pr-132.png "half little snowflake, familie 132"
-[p-3pr-123]: ../images/snow_3/3pr-123.png "familie 123"
-
-[t-3pr-132]: /GroundForge/stitches?patchWidth=17&patchHeight=20&paintStitches=ctcl&e1=ctcr&d1=ctct&b1=ctc&a1=ctc&f2=ctct&b2=ctc&e3=ctc&d3=ctc&b3=ctct&a3=ctcl&d4=ctc&tile=21z17-,x7-x-5,48v86-,-x-4x-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=6&shiftRowsSE=2
-
-[t-3pr-123]: /GroundForge/stitches?patchWidth=17&patchHeight=20&paintStitches=ctct&b1=ctc&b2=ctc&a2=ctc&c3=ctcr&b3=ctc&b4=ctct&tile=-1z,58-,-79,z4-,-x-&shiftColsSW=0&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=2
- 
 ## Half little snowflake
+
+1: [![p-3pr-132]][t-3pr-132]        
 
 A three-paired join can be made with a half little snowflake. This can be used in several configurations.        
 The pricking of the first example is equivalent to no 47 from _Moderne Torchonspitze_, where it is presented rose-ground style.                  
 <p style="clear: both"></p>
 
-[![half little snowflake 1][p-sn-half-1]][t-sn-half-1]    
-[![half little snowflake 2][p-sn-half-2]][t-sn-half-2]  
-[![half little snowflake 3][p-sn-half-3]][t-sn-half-3]  
-[![half little snowflake 4][p-sn-half-4]][t-sn-half-4]  
+[![half little snowflake 1][p-sn-half-1]][t-sn-half-1]  
+[![half little snowflake 2][p-sn-half-2]][t-sn-half-2]    
+[![half little snowflake 3][p-sn-half-3]][t-sn-half-3]   
+[![half little snowflake 4][p-sn-half-4]][t-sn-half-4]   
+<p style="clear: both"></p>
 
 [p-sn-half-1]: ../images/snow_3/g-sn-half-60-1.svg "h366, topologically equivalent to Moderne Torchonspitze no 47"
 [p-sn-half-2]: ../images/snow_3/g-sn-half-60-2.svg "h305"
 [p-sn-half-3]: ../images/snow_3/g-sn-half-60-3.svg "h362 honeycomb by P. Fouché"
 [p-sn-half-4]: ../images/snow_3/g-sn-half-45-4.svg "hw362"
+
+[p-3pr-132]: ../images/snow_3/3pr-132.png "half little snowflake, familie 132"
+
+[t-3pr-132]: /GroundForge/stitches?patchWidth=17&patchHeight=20&paintStitches=ctcl&e1=ctcr&d1=ctct&b1=ctc&a1=ctc&f2=ctct&b2=ctc&e3=ctc&d3=ctc&b3=ctct&a3=ctcl&d4=ctc&tile=21z17-,x7-x-5,48v86-,-x-4x-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=6&shiftRowsSE=2
 
 [t-sn-half-1]: /GroundForge/stitches?patchWidth=15&patchHeight=20&paintStitches=tctct&a1=ctc&b2=ctc&a3=tctct&b4=ctcrr&a5=ctctt&tile=7-,-5,B-,-C,B-,x-,x-,x-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=2&shiftRowsSE=4
 
@@ -109,7 +104,17 @@ The pricking of the first example is equivalent to no 47 from _Moderne Torchonsp
 
 [t-sn-half-4]: /GroundForge/stitches?patchWidth=15&patchHeight=20&paintStitches=tctct&g1=ctc&c1=ctc&a1=tctct&h2=ctc&g2=ctc&f2=ctc&d2=ctc&c2=ctc&b2=ctc&tile=5-4---7-,-21C-B86&shiftColsSW=-4&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=2     
 
+## Other examples        
 
+1: [![p-3pr-123]][t-3pr-123]         
+<p style="clear: both"></p>   
+
+[p-3pr-123]: ../images/snow_3/3pr-123.png "familie 123"
+
+[t-3pr-123]: /GroundForge/stitches?patchWidth=17&patchHeight=20&paintStitches=ctct&b1=ctc&b2=ctc&a2=ctc&c3=ctcr&b3=ctc&b4=ctct&tile=-1z,58-,-79,z4-,-x-&shiftColsSW=0&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=2
+
+
+ 
 
 
 
