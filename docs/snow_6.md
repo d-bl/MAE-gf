@@ -7,6 +7,7 @@ title: Snowflakes
 * [Introduction](#introduction)
 * [Binche snowflakes](#binche-snowflakes)
 * [Snowflakes with an eye](#snowflakes-with-an-eye)
+* [More snowflakes](#more-snowflakes)
 
 ## Introduction
 On this pages examples of snowflakes with 6 pairs coming in and going out.
@@ -56,3 +57,12 @@ These snowflakes can also be found on page [_Spiders with an eye_][page_sp_eye] 
 
 [t-sp-narrow-eye]: /GroundForge/stitches?patchWidth=16&patchHeight=16&a1=ctc&b1=ctc&d1=ctc&e1=ctc&f1=ctc&a2=ctc&e2=ctc&a3=ctc&b3=ctc&d3=ctc&e3=ctc&f3=ctc&a4=ctcrr&c4=ttctc&e4=ctcll&b5=ctc&d5=ctc&f5=ctctt&tile=86-215,4---7-,1C-B83,7-5-4-,-5-5-5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=5
 
+## More snowflakes
+
+More snowflakes with six pairs can be found on other pages:  
+
+* [_triangular grounds kissing_][page_pg_kiss]
+* [_bigger triangular ground_][page_pg_bigg]
+
+[page_pg_kiss]: ../docs/tria#pagodas-kissing
+[page_pg_bigg]: ../docs/tria#bigger-pagodas
