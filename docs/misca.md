@@ -82,8 +82,8 @@ As the "another fish" pattern, the pattern in Groundforge is turned one quarter.
 
 ## Windmills
 
-The windmills are a special kind of snowflake, and moved to page _[snowflakes][pg-snow]_.
+The windmills are a special kind of snowflake, and moved to page _[snowflakes][pg-wind]_.
 
-[pg-snow]: ../docs/snowflakes#windmill-snowflakes
+[pg-wind]: ../MAE-gf/docs/windmills 
 
 
