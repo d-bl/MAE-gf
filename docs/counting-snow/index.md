@@ -206,7 +206,8 @@ With 3 pairs we have 3x2=6 ways to reorder them. The faint permutations in the i
 
 Note the bottom member of the 231 family. 
 The red pair intersects the two other pairs three times each.
-Use your own creativity to create more family members. [More...](../docs/snow_3)   
+Use your own creativity to create more family members. [More...](../snow_3)     
+   
 ![](3-pair-permutations.svg)
 
 2 pairs
