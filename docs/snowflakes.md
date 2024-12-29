@@ -207,6 +207,7 @@ The name of these snowflakes is based on origami.
 
 If the stitches indicated in white in the picture on the right are omitted, we get a half little snowflake. This can be used in several configurations.  
 The examples are moved to a [_page with other 3 paired joins_][page-snow-3].
+<p style="clear: both"></p>
 
 [p-half-snowflake]: ../images/snow/half-snowflake.png?align=right "half little snowflake"
 
