@@ -8,9 +8,9 @@ title: Windmills
 ## Contents
 * [Introduction](#introduction)
 * [Windmills](#windmills)
-* [Windmill snowflakes framed with a Paris ground](#windmill_snowflakes_framed_with_a_paris_ground)
-* [Ringed paired windmills snowflakes](#ringed_paired_windmill_snowflakes)
-* [Windmill snowflakes in a diamond](#windmill_snowflakes_in_a_diamond)  
+* [Windmill snowflakes framed with a Paris ground](#windmill-snowflakes-framed-with-a-paris-ground)
+* [Ringed paired windmills snowflakes](#ringed-paired-windmill-snowflakes)
+* [Windmill snowflakes in a diamond](#windmill-snowflakes-in-a-diamond)  
 
 ## Introduction
 
