@@ -6,7 +6,7 @@ title: Snowflakes
 # Contents
 * [Introduction](#introduction)
 * [Binche snowflakes](#binche-snowflakes)
-* [Snowflakes with an eye](#snowflakes with an eye)
+* [Snowflakes with an eye](#snowflakes-with-an-eye)
 
 ## Introduction
 On this pages examples of snowflakes with 6 pairs coming in and going out.
