@@ -16,7 +16,8 @@ Also know as "Bolletje".
 There are many ways of making a binche snowflake. Below are given some examples.    
 See also page [_Counting snowflake families_][count-page].        
 
-[![binche snow][p-binche-snow]][t-binche-snow] 
+[![binche snow][p-binche-snow]][t-binche-snow]     
+
 [![family 563412][P-SP-BB1]][T-SP-BB1] 
 [![family 623451][P-SP-BB2]][T-SP-BB2] 
 [![family 123654][P-SP-BB3]][T-SP-BB3] 
