@@ -43,6 +43,7 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 ## Little Snowflake
 
 ![little snowflake][p-little-snow]
+
 [![0345-og][P-0345-og]][T-0345-og] 
 [![0347-og][P-0347-og]][T-0347-og] 
 [![0381-og][P-0381-og]][T-0381-og] 
@@ -78,6 +79,7 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 ## Little snowflake, crossed
 
 ![little snowflake crossed][p-sn-cr]
+
 [![0306-kg][P-0306-kg]][T-0306-kg] 
 [![0356-kg][P-0356-kg]][T-0356-kg] 
 [![0381-ng][P-0381-ng]][T-0381-ng] 
@@ -116,7 +118,9 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 ## Snowflake in a diamond
 
 ![snowflake in diamond][p-snow-diamond]
-[![0305-oiv][P-0305-oiv]][T-0305-oiv]  [![0366-oiv][P-0366-oiv]][T-0366-oiv]
+
+[![0305-oiv][P-0305-oiv]][T-0305-oiv] 
+[![0366-oiv][P-0366-oiv]][T-0366-oiv]
 <p style="clear: both"></p>
 
 [p-snow-diamond]: ../images/snow/g-sn-uni-sq.svg?align=right "snowflake in a diamond"
@@ -129,6 +133,7 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 ## Snowflake in a diamond, crossed
 
 ![snowflake diamond crossed][p-snow-diax]
+
 [![0341-div][P-0341-div]][T-0341-div] 
 [![0356-kio][P-0356-kio]][T-0356-kio]   
 <p style="clear: both"></p>
@@ -149,7 +154,7 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 
 ## Other arrangements
 
-[![offset snowflake][p-G63]][t-63-43]
+[![offset snowflake][p-G63]][t-63-43] 
 [![37-01][P-G37]][T-37-01] 
 [![38-01][P-G38]][T-38-01] 
 
@@ -166,7 +171,9 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 The name of these snowflakes is based on origami.
 
 ### Windmill snowflakes framed with a Paris ground
-[![windmill in paris ground][p-43wmp1]][t-43wmp1]    [variant][t-43wmp2]
+[![windmill in paris ground][p-43wmp1]][t-43wmp1]    
+[variant][t-43wmp2]
+<p style="clear: both"></p>
 
 [p-43wmp1]: ../images/snow/G43p.svg "windmill in paris ground"
 [t-43wmp1]: /GroundForge/stitches?patchWidth=20&patchHeight=30&paintStitches=ctctrr&f1=ctct&d1=ctcttt&b1=ctcttt&e2=ctct&a2=ctct&f3=ctctrr&d3=ctct&b3=ctct&c4=ctct&f5=ctct&d5=ctctll&b5=ctctrr&e6=ctctll&a6=ctctrr&f7=ctct&d7=ctc&b7=ctc&c8=ctc&f9=ctctll&d9=ctc&c9=ctc&b9=ctc&e10=ctcrrr&d10=ctc&c10=ctc&b10=ctc&a10=ctclll&f11=ctct&d11=ctc&c11=ctc&b11=ctc&c12=ctc&tile=-4-7-4,5x-x5x,-7-4-7,-x5x-x,-4-7-4,5x-x5x,-7-4-7,-x5x-x,-117-4,58886x,-114-7,-x7x-x&shiftColsSW=0&shiftRowsSW=12&shiftColsSE=6&shiftRowsSE=18
@@ -196,35 +203,19 @@ The name of these snowflakes is based on origami.
 ## Half little snowflake
 
 ![half little snowflake][p-half-snowflake]
-
-If the stitches indicated in white in the picture on the right are omitted, we get a half little snowflake. This can be used in several configurations.        
-The pricking of the first example is equivalent to no 47 from _Moderne Torchonspitze_, where it is presented rose-ground style.                  
 <p style="clear: both"></p>
 
-[![half little snowflake 1][p-sn-half-1]][t-sn-half-1]
-[![half little snowflake 2][p-sn-half-2]][t-sn-half-2]
-[![half little snowflake 3][p-sn-half-3]][t-sn-half-3]
-[![half little snowflake 4][p-sn-half-4]][t-sn-half-4]
-
+If the stitches indicated in white in the picture on the right are omitted, we get a half little snowflake. This can be used in several configurations.  
+The examples are moved to a [_page with other 3 paired joins_][page-snow-3].
 
 [p-half-snowflake]: ../images/snow/half-snowflake.png?align=right "half little snowflake"
-[p-sn-half-1]: ../images/snow/g-sn-half-60-1.svg "h366, topologically equivalent to Moderne Torchonspitze no 47"
-[p-sn-half-2]: ../images/snow/g-sn-half-60-2.svg "h305"
-[p-sn-half-3]: ../images/snow/g-sn-half-60-3.svg "h362 honeycomb by P. Fouché"
-[p-sn-half-4]: ../images/snow/g-sn-half-45-4.svg "hw362"
-
-[t-sn-half-1]: /GroundForge/stitches?patchWidth=15&patchHeight=20&paintStitches=tctct&a1=ctc&b2=ctc&a3=tctct&b4=ctcrr&a5=ctctt&tile=7-,-5,B-,-C,B-,x-,x-,x-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=2&shiftRowsSE=4
-
-[t-sn-half-2]: /GroundForge/stitches?patchWidth=15&patchHeight=20&paintStitches=ctctt&c1=ctctt&a1=ctct&b2=ct&a3=ct&b4=ctr&c5=ctct&a5=ctctt&b6=ct&c7=ct&b8=ctl&tile=6-C,-5-,B--,-C-,B-2,-5-,--C,-B-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=3&shiftRowsSE=8
-
-[t-sn-half-3]: /GroundForge/stitches?patchWidth=30&patchHeight=30&paintStitches=cttctt&i1=ctctt&g1=ctc&c1=ctc&a1=ctctt&j2=cttctt&f2=ctc&d2=ctc&i3=ctc&g3=ctcrr&c3=ctcll&a3=ctc&h4=ctc&f4=ctctt&d4=ctctt&b4=ctc&i5=ctc&e5=cttctt&a5=ctc&h6=ctcll&f6=ctc&d6=ctc&b6=ctcrr&tile=4-5x-x5-7-,x-x7-4x-x5,7-4x-x7-4-,x5-7-4-5x-,4x-x5x-x7-,x7-4-7-4x-&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=10&shiftRowsSE=6
-
-[t-sn-half-4]: /GroundForge/stitches?patchWidth=15&patchHeight=20&paintStitches=tctct&g1=ctc&c1=ctc&a1=tctct&h2=ctc&g2=ctc&f2=ctc&d2=ctc&c2=ctc&b2=ctc&tile=5-4---7-,-21C-B86&shiftColsSW=-4&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=2
 
 ## Making of
 
 Some of the grounds can be made either as a crossed snowflake or as a rose ground. See the example below: the result is the same.  
-[![as snowflake][pp-0356-kg]][tt-0356-kg]  [![as rose ground][pp-0116-kg]][tt-0116-kg]
+[![as snowflake][pp-0356-kg]][tt-0356-kg] 
+[![as rose ground][pp-0116-kg]][tt-0116-kg]
+<p style="clear: both"></p>
    
 [pp-0116-kg]: ../images/roses/0116-kg.png "0116-K and 0356-K as a rose ground"
 [pp-0356-kg]: ../images/snow/0356-kg.png "0356-K and 0116-K as a crossed snowflake ground"
@@ -236,5 +227,6 @@ Some of the grounds can be made either as a crossed snowflake or as a rose groun
 [page-spiders]: ../docs/spiders#binche-spiders
 [page-tips]: ../docs/tricks#ground-names
 [page-rose]: ../docs/roses#rose-ground-in-a-diamond
+[page-snow-3]: ../docs/snow_3#half_little_snowflake
 
 
