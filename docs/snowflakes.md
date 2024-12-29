@@ -1,27 +1,27 @@
 ---
 layout: default
-title: Snowflakes
+title: Little snowflakes
 ---
 
-# Snowflakes
+# Little snowflakes
 
 ## Contents
 
 * [Introduction](#introduction)
-* [Binche snowflake](#binche-snowflake)
 * [Little snowflake](#little-snowflake)
 * [Little snowflake, crossed](#little-snowflake-crossed)
 * [Snowflake in a diamond](#snowflake-in-a-diamond)
 * [Snowflake in a diamond, crossed](#snowflake-in-a-diamond-crossed)
 * [Snowflakes diagonal](#snowflakes-diagonal)
 * [Other arrangements](#other-arrangements)
-* [Windmill snowflakes](#windmill-snowflakes)
+* [Binche snowflake](#binche-snowflake)
 * [Half little snowflake](#half-little-snowflake)
+* [Windmill snowflakes](#windmill-snowflakes)
 * [Making of](#making-of)
 
 ## Introduction
 
-On this page several snowflake-grounds are collected.     
+On this page several snowflake-grounds with 4 pairs are collected.     
 Please see the discussion on the [_Notes_][page-tips] page about the difference between spiders and snowflakes.     
 
 ![Snowflake 60][p-snow-60]
@@ -30,15 +30,6 @@ Usually, the little snowflake is drawn as picture on the left, on a 60 degree gr
 <p style="clear: both"></p>
 
 [p-snow-60]: ../images/snow/w-little-snow.png?align=right "snowflake drawing"
-
-## Binche Snowflake
-
-[![binche snow][p-binche-snow]][t-binche-snow]
-For the Binche spiders see page [_Spiders_][page-spiders].
-<p style="clear: both"></p>
-
-[p-binche-snow]: ../images/snow/g-binche-snow.svg?align=left "binche snowflake"
-[t-binche-snow]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=ctcll&f1=ctcrr&g1=ctc&b2=ctc&e2=ctctctc&h2=ctc&a3=ctc&c3=ctcrr&d3=ctc&f3=ctc&g3=ctcll&shiftColsSE=4&shiftRowsSE=3&shiftColsSW=-4&shiftRowsSW=3&tile=5-25-56-,-5--5--5,5-C6-2B-
 
 ## Little Snowflake
 
@@ -166,9 +157,9 @@ For the Binche spiders see page [_Spiders_][page-spiders].
 [T-37-01]: /GroundForge/stitches?patchWidth=20&patchHeight=20&c1=ctc&a1=ctc&b2=tctct&c3=ctc&a3=ctc&d4=-&b4=-&d5=ctctctc&b5=ctctctc&tile=5-5-,x5x-,4-7-,-5-5,-r-r&footsideStitch=ctctt&tileStitch=ctctctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=5&shiftColsSE=2&shiftRowsSE=5
 [T-38-01]: /GroundForge/stitches?patchWidth=20&patchHeight=20&e1=-&c1=ctc&a1=ctc&e2=-&b2=tctct&e3=ctctctc&c3=ctc&a3=ctc&tile=5-5-5-,x5x-r-,4-7-r-&footsideStitch=ctctt&tileStitch=ctctctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
-## Windmill snowflakes
+## Binche Snowflake
 
-The name of these snowflakes is based on origami. The examples are moved to their [_own page_][page_wind].
+The six-pair snowflake is moved to its [_own page_][page_snow_6].
 
 ## Half little snowflake
 
@@ -179,6 +170,10 @@ The examples are moved to a [_page with other 3 paired joins_][page-snow-3].
 <p style="clear: both"></p>
 
 [p-half-snowflake]: ../images/snow/half-snowflake.png?align=right "half little snowflake"
+
+## Windmill snowflakes
+
+The name of these snowflakes is based on origami. The examples are moved to their [_own page_][page_wind].
 
 ## Making of
 
@@ -198,6 +193,7 @@ Some of the grounds can be made either as a crossed snowflake or as a rose groun
 [page-tips]: ../docs/tricks#ground-names
 [page-rose]: ../docs/roses#rose-ground-in-a-diamond
 [page-snow-3]: ../docs/snow_3#half_little_snowflake
+[page_snow_6]: ../docs/snow_6#binche-snowflakes
 [page_wind]: ../docs/windmills
 
 
