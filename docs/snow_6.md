@@ -6,17 +6,17 @@ title: Snowflakes
 # Contents
 * [Introduction](#introduction)
 * [Binche snowflakes](#binche-snowflakes)
+* [Snowflakes with an eye](#snowflakes with an eye)
 
-# Introduction
+## Introduction
 On this pages examples of snowflakes with 6 pairs coming in and going out.
 
 ## Binche snowflakes
-Also know as "Bolletje".    
 
 There are many ways of making a binche snowflake. Below are given some examples.    
 See also page [_Counting snowflake families_][count-page].        
 
-[![binche snow][p-binche-snow]][t-binche-snow]     
+[![binche snow][p-binche-snow]][t-binche-snow]  Also know as "Bolletje".            
 
 [![family 563412][P-SP-BB1]][T-SP-BB1] 
 [![family 623451][P-SP-BB2]][T-SP-BB2] 
@@ -38,9 +38,21 @@ See also page [_Counting snowflake families_][count-page].
 
 [count-page]: ../docs/counting-snow/
 
+## Snowflakes with an eye
 
+These snowflakes can also be found on page [_Spiders with an eye_][page_sp_eye] and [_Spiders with a narrow eye_][page_sp_nrw].
 
+[![4x3 legs][p-se-4x3]][T-SH3] 
+[![spider with narrow eye][p-sp-narrow-eye]][t-sp-narrow-eye] 
+<p style="clear: both"></p>
 
+[page_sp_eye]: ../docs/spiders#spiders-with-an-eye
+[page_sp_nrw]: ../docs/spiders#spiders-with-a-narrow-eye
 
+[p-se-4x3]: ../images/spiders/se-4x3.png "snowflake with eye"
+[p-sp-narrow-eye]: ../images/spiders/g-sn3.svg?align=left "snowflake with a narrow eye" 
 
+[T-SH3]: /GroundForge/stitches?patchWidth=16&patchHeight=16&a1=ctc&c1=ctc&e1=ctc&b2=ctclctc&f2=ctcrctc&a3=ctc&c3=ctcrr&e3=ctcll&b4=ctcrr&d4=ctc&f4=ctcll&a5=ctctt&c5=ctc&e5=ctc&tile=5-5-5-,-5---5,5-C-B-,-5-5-5,5-5-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=5
+
+[t-sp-narrow-eye]: /GroundForge/stitches?patchWidth=16&patchHeight=16&a1=ctc&b1=ctc&d1=ctc&e1=ctc&f1=ctc&a2=ctc&e2=ctc&a3=ctc&b3=ctc&d3=ctc&e3=ctc&f3=ctc&a4=ctcrr&c4=ttctc&e4=ctcll&b5=ctc&d5=ctc&f5=ctctt&tile=86-215,4---7-,1C-B83,7-5-4-,-5-5-5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=5
 
