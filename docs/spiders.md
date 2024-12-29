@@ -105,9 +105,9 @@ Spiders with a narrow eye also can be achieved using <span class="elem">step 2</
 
 ## Binche spiders
 
-The Binche spiders are move to page [_Snowflakes_][snow-page_6] and [_Counting snowflake families_][count-page]. .   
+The Binche spiders are move to page [_Snowflakes_][page_snow_6] and [_Counting snowflake families_][count-page]. .   
 
-[snow-page_6]: ../docs/snow_6#binche-snowflakes
+[page_snow_6]: ../docs/snow_6#binche-snowflakes
 [count-page]: ../docs/counting-snow/
 
 ### traditional spider, on a Binche pricking
