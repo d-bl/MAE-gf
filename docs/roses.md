@@ -128,7 +128,7 @@ This stitch is created with a little loop at the sides of the rose ground. To ob
 ## Ants
 
 ![Ants][pic-ants]
-Ants came to life as a variation of the Slavic ground. The result looks like ants. Please note that in some exampels there are no twists between the <span class="stch">cross only</span> and <span class="stch">whole stitch</span> at the pins.     
+Ants came to life as a variation of the Slavic ground. The result looks like ants. Please note that in some examples there are no twists between the <span class="stch">cross only</span> and <span class="stch">whole stitch</span> at the pins.     
 
 <p style="clear: both"></p>
 
