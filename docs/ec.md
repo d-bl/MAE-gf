@@ -43,7 +43,7 @@ Or stitches like <span class="stch">cllPcrcllPcr</span> on the left footside and
 <p style="clear: both"></p>
 
 [p-meander]: ../images/ec/f-ec-008.png?align=right "Meander, EC-008"  
-[p-earth]: ../images/ec/f-ec-010.png?align=right "f-ec-010"
+[p-earth]: ../images/ec/f-ec-010.png?align=right "Earth, EC-010"
 
 [t-ex010]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&n1=ctctt&c1=clcr&b1=ctc&a1=cllcrcllcr&n2=crrclcrrcl&c2=ctc&b2=clcr&a2=-
 
