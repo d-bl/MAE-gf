@@ -10,12 +10,10 @@ title: Snowflakes
 * [More snowflakes](#more-snowflakes)
 
 ## Introduction
-On this pages examples of snowflakes with 6 pairs coming in and going out.
+On this pages examples of snowflakes with 6 pairs coming in and going out.   
+There are many ways of making snowflakes. See page [_Counting snowflake families_][count-page].     
 
 ## Binche snowflakes
-
-There are many ways of making a binche snowflake. Below are given some examples.    
-See also page [_Counting snowflake families_][count-page].        
 
 [![binche snow][p-binche-snow]][t-binche-snow]  Also know as "Bolletje".            
 
