@@ -39,21 +39,21 @@ There are many ways of making snowflakes. See page [_Counting snowflake families
 
 ## Snowflakes with an eye
 
-These snowflakes can also be found on page [_Spiders with an eye_][page_sp_eye] and [_Spiders with a narrow eye_][page_sp_nrw].
+These snowflakes can also be found on page [_Spiders with an eye_][page_sp_eye] and [_Spiders with a narrow eye_][page_sp_nrw], where they are connected as spiders.     
 
-[![4x3 legs][p-se-4x3]][T-SH3] 
-[![spider with narrow eye][p-sp-narrow-eye]][t-sp-narrow-eye] 
+[![spider with eye][P-SEB3]][T-SEB3] 
+[![spider with narrow eye][P-SNB3]][T_SNB3] 
 <p style="clear: both"></p>
 
 [page_sp_eye]: ../docs/spiders#spiders-with-an-eye
 [page_sp_nrw]: ../docs/spiders#spiders-with-a-narrow-eye
 
-[p-se-4x3]: ../images/snow_6/g-seb3.svg "snowflake with eye"
-[p-sp-narrow-eye]: ../images/snow_6/g-snb3.svg "snowflake with a narrow eye" 
+[P-SEB3]: ../images/snow_6/g-seb3.svg "snowflake with eye"
+[P-SNB3]: ../images/snow_6/g-snb3.svg "snowflake with a narrow eye" 
 
-[T-SH3]: /GroundForge/stitches?patchWidth=16&patchHeight=16&a1=ctc&c1=ctc&e1=ctc&b2=ctclctc&f2=ctcrctc&a3=ctc&c3=ctcrr&e3=ctcll&b4=ctcrr&d4=ctc&f4=ctcll&a5=ctctt&c5=ctc&e5=ctc&tile=5-5-5-,-5---5,5-C-B-,-5-5-5,5-5-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=5
+[T-SEB3]: ../GroundForge/stitches.html?patchWidth=24&patchHeight=24&tile=7-r-4-5-,-5-5-5-5,5-5-5-5-,x5-5x-r-&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4&g1=ctc&e1=ctcll&c1=ctctctc&a1=ctcrr&h2=ctcrr&f2=ctcll&d2=ctc&b2=ctc&g3=ctc&e3=ctc&c3=ctc&a3=ctc&g4=ctc&d4=ctclctc&b4=ctcrctc
 
-[t-sp-narrow-eye]: /GroundForge/stitches?patchWidth=16&patchHeight=16&a1=ctc&b1=ctc&d1=ctc&e1=ctc&f1=ctc&a2=ctc&e2=ctc&a3=ctc&b3=ctc&d3=ctc&e3=ctc&f3=ctc&a4=ctcrr&c4=ttctc&e4=ctcll&b5=ctc&d5=ctc&f5=ctctt&tile=86-215,4---7-,1C-B83,7-5-4-,-5-5-5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=5
+[T_SNB3]: ../GroundForge/stitches.html?patchWidth=24&patchHeight=24&tile=86-5,4x-r,17-r,7-5-,-215,-x7-,-483,5-4-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=4&shiftRowsSE=4&d1=ctc&b1=ctc&a1=ctc&d2=ctc&a2=ctc&d3=ctctctc&b3=ctcr&a3=ctc&c4=ctc&a4=ctcr&d5=ctc&c5=ctc&b5=ctc&c6=ctc&d7=ctc&c7=ctc&b7=ctcl&c8=ctcl&a8=ctc
 
 ## More snowflakes
 
