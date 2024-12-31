@@ -2,8 +2,9 @@
 layout: default
 title: Snowflakes
 ---
+# Snowflakes
 
-# Contents
+## Contents
 * [Introduction](#introduction)
 * [Binche snowflakes](#binche-snowflakes)
 * [Snowflakes with an eye](#snowflakes-with-an-eye)
