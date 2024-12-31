@@ -58,24 +58,29 @@ These snowflakes can also be found on page [_Spiders with an eye_][page_sp_eye] 
 
 ## Stars
 
+The stars are also published in the following books:
+* Bobbin Lace, by E. Kortelahti: "mirror ground", "star ground I" and "star ground II".
+* Viele gute Gründe, by U. Löhr: B3.47 to B3.51.    
+
+Please note: GroundForge doesn't make a difference between star I and star II.
+
 ### Binche style
 
-[![ster m][p-st-kh-M]][t-st-kh-m-b] [![ster I & II][p-st-kh-I]][t-st-kh-i-b]
- 
+[![star mirror][p-st-kh-M]][t-st-kh-m-b] [![star I and II][p-st-kh-I]][t-st-kh-i-b]
+<p style="clear: both"></p>
 
+[![star from narrow eyed spider][p-sna3]][t-sna3]   
+This star is a variant on the _snowflake with a narrow eye_ above.
+<p style="clear: both"></p>
 
-[![alter][p-sna3]][t-sna3]
+### Spider style
 
-### Torchon style
+[![star mirror][p-st-kh-M]][t-st-kh-m-a] [![star I and II][p-st-kh-I]][t-st-kh-i-a]
+<p style="clear: both"></p>
 
-[![ster m][p-st-kh-M]][t-st-kh-m-a] [![ster I & II][p-st-kh-I]][t-st-kh-i-a]
-
-
-
-
-[p-sna3]: ../images/snow_6/g-sna3.svg
-[p-st-kh-I]: /images/snow_6/ST-KH-I.png
-[p-st-kh-M]: ../images/snow_6/ST-KH-M.png
+[p-sna3]: ../images/snow_6/g-sna3.svg?aling=left "star from narrow eyed spider"
+[p-st-kh-I]: /images/snow_6/ST-KH-I.png "star I and II" 
+[p-st-kh-M]: ../images/snow_6/ST-KH-M.png "star mirror"
 
 [t-sna3]: /GroundForge/stitches.html?patchWidth=24&patchHeight=24&tile=8-4-,x5-5,4-5-,7-15,-5x-,5-73&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=3&c1=ctc&a1=ctc&d2=ctctc&b2=rrctctcrr&c3=ctc&a3=ctc&d4=ctc&c4=ctc&a4=ctc&b5=llctctcll&d6=ctc&c6=ctc&a6=ctc
 
@@ -86,7 +91,6 @@ These snowflakes can also be found on page [_Spiders with an eye_][page_sp_eye] 
 [t-st-kh-m-b]: /GroundForge/stitches.html?patchWidth=24&patchHeight=24&tile=x-r-x734,86-214-7,x158x-5-,4x-x7-r-&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4&h1=ctc&g1=ctc&f1=ctc&c1=ctctctc&h2=ctc&f2=ctc&e2=ctctctc&d2=ctc&b2=ctc&a2=ctctctc&g3=ctc&d3=ctc&c3=ctc&b3=ctc&g4=ctc&e4=ctc&a4=ctc
 
 [t-st-kh-m-a]: /GroundForge/stitches.html?patchWidth=24&patchHeight=24&tile=y-5-w5,76-24-,x158x-,4x-x7-,x734x-,14-78-,&shiftColsSW=-3&shiftRowsSW=6&shiftColsSE=3&shiftRowsSE=6&f1=ctctt&c1=ctc&e2=ctc&d2=ctc&b2=ctc&a2=ctc&d3=ctc&c3=ctc&b3=ctc&e4=ctc&a4=ctc&d5=ctc&c5=ctc&b5=ctc&e6=ctctt&d6=ctc&b6=ctc&a6=ctctt
-
 
 ## More snowflakes
 
