@@ -17,7 +17,8 @@ There are many ways of making snowflakes. See page [_Counting snowflake families
 
 ## Binche snowflakes
 
-[![binche snow][p-binche-snow]][t-binche-snow]  Also know as "Bolletje".            
+[![binche snow][p-binche-snow]][t-binche-snow]
+Also know as "Bolletje".            
 
 [![family 563412][P-SP-BB1]][T-SP-BB1] 
 [![family 623451][P-SP-BB2]][T-SP-BB2] 
@@ -32,7 +33,7 @@ There are many ways of making snowflakes. See page [_Counting snowflake families
 
 [T-SP-BB3]: /GroundForge/stitches?patchWidth=21&patchHeight=14&i1=ctctt&h1=ctc&f1=ctc&e1=ctc&d1=ctc&b1=ctc&a1=ctctt&g2=ctc&i3=ctctt&h3=ctcrr&f3=ctc&e3=ctc&d3=ctc&b3=ctcll&a3=ctctt&n4=ctctt&l4=ctctt&j4=ctctt&h4=ctctt&f4=ctt&d4=ctcll&c4=ctcll&b4=ctctt&g5=ctctt&c5=ctctt&n6=ctctt&j6=ctctt&m7=c&k7=ctc&j7=ctc&i7=ctctt&g7=ctctt&e7=ctctt&c7=ctctt&a7=ctctt&tile=56-o98-j5-----,------5-------,ag-aae-cd-----,-256-m-l-o-k-e,--5---5---y-w-,---w-y---b---c,h-g-5-n-l3h-e-,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-7&shiftRowsSW=7&shiftColsSE=7&shiftRowsSE=7
 
-[p-binche-snow]: ../images/snow_6/g-binche-snow.svg "binche snowflake"
+[p-binche-snow]: ../images/snow_6/g-binche-snow.svg?align=left "binche snowflake"
 [P-SP-BB3]: ../images/snow_6/bs-123654.png "family 123654"
 [P-SP-BB2]: ../images/snow_6/bs-623451.png "family 623451"
 [P-SP-BB1]: ../images/snow_6/bs-563412.png "family 563412"
