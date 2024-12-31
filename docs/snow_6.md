@@ -70,7 +70,7 @@ Please note: GroundForge doesn't make a difference between star I and star II.
 [![star mirror][p-st-kh-M]][t-st-kh-m-b] [![star I and II][p-st-kh-I]][t-st-kh-i-b]
 <p style="clear: both"></p>
 
-[![star from narrow eyed spider][p-sna3]][t-sna3]   
+[![star from narrow eyed spider][p-sna3]][t-sna3]
 This star is a variant on the _snowflake with a narrow eye_ above.
 <p style="clear: both"></p>
 
@@ -79,7 +79,7 @@ This star is a variant on the _snowflake with a narrow eye_ above.
 [![star mirror][p-st-kh-M]][t-st-kh-m-a] [![star I and II][p-st-kh-I]][t-st-kh-i-a]
 <p style="clear: both"></p>
 
-[p-sna3]: ../images/snow_6/g-sna3.svg?aling=left "star from narrow eyed spider"
+[p-sna3]: ../images/snow_6/g-sna3.svg?align=left "star from narrow eyed spider"
 [p-st-kh-I]: ../images/snow_6/ST-KH-I.png "star I and II" 
 [p-st-kh-M]: ../images/snow_6/ST-KH-M.png "star mirror"
 
