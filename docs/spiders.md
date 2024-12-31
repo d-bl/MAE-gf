@@ -85,8 +85,12 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 ## Spiders with a narrow eye
 
 [![spider with narrow eye][p-sp-narrow-eye]][t-sp-narrow-eye]
-Spiders with a narrow eye also can be achieved using <span class="elem">step 2</span> or <span class="elem">step 3</span> on a [_fish_][page-dr-fish] in <span class="stch">half stitch</span>.
+Spiders with a narrow eye also can be achieved using <span class="elem">step 2</span> or <span class="elem">step 3</span> on a [_fish_][page-dr-fish] in <span class="stch">half stitch</span>.    
+For a Binche style spider with narrow eye, please see page [_snowflakes_][page-snb3].     
 <p style="clear: both"></p>
+
+[page-snb3]: ../docs/snow_6#snowflakes-with-an-eye
+[page-dr-fish]: ../docs/droste#fish
 
 ### in a diamond
 
@@ -101,7 +105,6 @@ Spiders with a narrow eye also can be achieved using <span class="elem">step 2</
 [t-snq3st]: /GroundForge/stitches?patchWidth=16&patchHeight=16&h1=clc&f1=crc&c1=ctct&h2=ctt&g2=ctc&f2=ctt&e2=rcl&d2=rctct&c2=ctc&b2=lctct&a2=lcr&h3=ctc&f3=ctc&e3=rctct&d3=ctc&b3=ctc&a3=lctct&h4=lctct&g4=ctc&f4=rctct&e4=rrclcrc&d4=ttc&c4=ctc&b4=ttc&a4=llcrclc&tile=--5--7-4,C632B831,66-224-7,31583256&tileStitch=ctc&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 [t-sp-narrow-eye]: /GroundForge/stitches?patchWidth=16&patchHeight=16&a1=ctc&b1=ctc&d1=ctc&e1=ctc&f1=ctc&a2=ctc&e2=ctc&a3=ctc&b3=ctc&d3=ctc&e3=ctc&f3=ctc&a4=ctcrr&c4=ttctc&e4=ctcll&b5=ctc&d5=ctc&f5=ctctt&tile=86-215,4---7-,1C-B83,7-5-4-,-5-5-5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=5
-[page-dr-fish]: ../docs/droste#fish
 
 ## Binche spiders
 
