@@ -69,12 +69,16 @@ Please note: GroundForge doesn't make a difference between star I and star II.
 
 ### Binche style
 
-[![star mirror][p-st-kh-M]][t-st-kh-m-b] [![star I and II][p-st-kh-I]][t-st-kh-i-b]
+[![star mirror][p-st-kh-M]][t-st-kh-m-b] [![star I and II][p-st-kh-I]][t-st-kh-i-b]     
 <p style="clear: both"></p>
+
+For the 3-pairs version of these stars, please see [_3-pair stars_][page-3-star].      
 
 [![star from narrow eyed spider][p-sna3]][t-sna3]
 This star is a variant on the _snowflake with a narrow eye_ above.
 <p style="clear: both"></p>
+
+[page-3-star]: ../docs/snow_3#stars
 
 ### Spider style
 
