@@ -32,7 +32,7 @@ This [rose ground variant][T-3cc] looks like a three paired join, but has crossi
 4: [![p-3pr-hlf-st]][t-3pr-hlf-st]
 <p style="clear: both"></p> 
 
-Please note: star 4 uses the same GroundForge schema as half little snowflake 1. For the 6 pairs version of star 2 and 4 see [_stars with 6 pairs_][page-6-stars].     
+Please note: star 4 uses the same GroundForge schema as half little snowflake a). For the 6 pairs version of star 2 and 4 see [_stars with 6 pairs_][page-6-stars].     
 
 [p-3pr-st-h]: ../images/snow_3/3pr-st-h.png "horizontal star, family 321"
 [p-3pr-st-v]: ../images/snow_3/3pr-st-v.png "vertical star, family 321"
@@ -98,12 +98,12 @@ A three-paired join can be made with a half little snowflake. See also page [_Li
 <p style="clear: both"></p>
 
 This snowflake can be used in several configurations.        
-The pricking of the first example is equivalent to no 47 from _Moderne Torchonspitze_, where it is presented rose-ground style. 
+The pricking of example a) is equivalent to no 47 from _Moderne Torchonspitze_, where it is presented rose-ground style. 
 
-[![half little snowflake 1][p-sn-half-1]][t-sn-half-1] 
-[![half little snowflake 2][p-sn-half-2]][t-sn-half-2] 
-[![half little snowflake 3][p-sn-half-3]][t-sn-half-3] 
-[![half little snowflake 4][p-sn-half-4]][t-sn-half-4]   
+a: [![half little snowflake 1][p-sn-half-1]][t-sn-half-1] 
+b: [![half little snowflake 2][p-sn-half-2]][t-sn-half-2] 
+c: [![half little snowflake 3][p-sn-half-3]][t-sn-half-3] 
+d: [![half little snowflake 4][p-sn-half-4]][t-sn-half-4] 
 <p style="clear: both"></p>
 
 [p-sn-half-1]: ../images/snow_3/g-sn-half-60-1.svg "h366, topologically equivalent to Moderne Torchonspitze no 47"
