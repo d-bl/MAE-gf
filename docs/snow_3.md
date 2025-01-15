@@ -65,8 +65,6 @@ Please note: star 4 uses the same GroundForge schema as half little snowflake a)
 ## Fishes       
 
 1: [![p-3pr-fh-h]][t-3pr-fh-h] 
-2: [![p-3pr-sn-v]][t-3pr-sn-v] 
-3: [![p-3pr-sn-d]][t-3pr-sn-d]  
 <p style="clear: both"></p> 
 
 [p-3pr-fh-h]: ../images/snow_3/3pr-fh-h.png "fish, family 231"
