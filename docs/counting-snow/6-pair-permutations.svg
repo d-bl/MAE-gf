@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="202mm"
-   height="160mm"
-   viewBox="0 0 404 320"
+   width="602.4671mm"
+   height="488.125mm"
+   viewBox="0 0 1204.9342 976.25"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
-   sodipodi:docname="all-in-before-any-out.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="6-pair-permutations.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,27 +24,34 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="8.1039002"
-     inkscape:cx="378.08955"
-     inkscape:cy="311.64007"
-     inkscape:window-width="1920"
-     inkscape:window-height="1140"
+     inkscape:zoom="0.9983453"
+     inkscape:cx="1177.4483"
+     inkscape:cy="1224.0254"
+     inkscape:window-width="2256"
+     inkscape:window-height="1435"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="41"
      inkscape:window-maximized="1"
-     inkscape:current-layer="251634"><inkscape:grid
+     inkscape:current-layer="layer1"
+     inkscape:pageshadow="2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"><inkscape:grid
        type="axonomgrid"
        id="grid2793"
        empspacing="7"
        spacingy="1"
-       originx="0"
-       originy="0" /></sodipodi:namedview><defs
+       originx="386.54025"
+       originy="339.50004" /></sodipodi:namedview><defs
      id="defs2" /><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(386.54026,339.5)">
 <g
-   id="123456">
+   id="123456"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="12"
    y="21"
@@ -52,7 +59,7 @@
    id="text6455"><tspan
      id="tspan6453">123456 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="123456_1"
    d="m 12.124356,9 v 3" />
 <path
@@ -77,7 +84,8 @@
    d="m 24.248711,9 v 3" />
 </g>
 <g
-   id="123465">
+   id="123465"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="12"
    y="42"
@@ -85,7 +93,7 @@
    id="text6466"><tspan
      id="tspan6464">123465 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="123465_1"
    d="m 12.124356,30 v 3" />
 <path
@@ -110,7 +118,8 @@
    d="m 22.516661,27 1.73205,6" />
 </g>
 <g
-   id="123546">
+   id="123546"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="12"
    y="63"
@@ -118,7 +127,7 @@
    id="text6477"><tspan
      id="tspan6475">123546 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="123546_1"
    d="m 12.124356,51 v 3" />
 <path
@@ -143,7 +152,8 @@
    d="m 24.248711,51 v 3" />
 </g>
 <g
-   id="123564">
+   id="123564"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="12"
    y="84"
@@ -151,7 +161,7 @@
    id="text6488"><tspan
      id="tspan6486">123564 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="123564_1"
    d="m 12.124356,72 v 3" />
 <path
@@ -176,7 +186,8 @@
    d="M 19.918584,67.5 24.248711,75" />
 </g>
 <g
-   id="123654">
+   id="123654"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="12"
    y="105"
@@ -184,7 +195,7 @@
    id="text6499"><tspan
      id="tspan6497">123654 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="123654_1"
    d="m 12.124356,93 v 3" />
 <path
@@ -209,7 +220,8 @@
    d="M 19.918584,88.5 24.248711,96" />
 </g>
 <g
-   id="124356">
+   id="124356"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="12"
    y="126"
@@ -217,7 +229,7 @@
    id="text6510"><tspan
      id="tspan6508">124356 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="124356_1"
    d="m 12.124356,114 v 3" />
 <path
@@ -242,7 +254,8 @@
    d="m 24.248711,114 v 3" />
 </g>
 <g
-   id="124365">
+   id="124365"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="12"
    y="147"
@@ -250,7 +263,7 @@
    id="text6521"><tspan
      id="tspan6519">124365 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="124365_1"
    d="m 12.124356,135 v 3" />
 <path
@@ -275,7 +288,8 @@
    d="m 22.516661,132 1.73205,6" />
 </g>
 <g
-   id="124536">
+   id="124536"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="12"
    y="168"
@@ -283,7 +297,7 @@
    id="text6532"><tspan
      id="tspan6530">124536 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="124536_1"
    d="m 12.124356,156 v 3" />
 <path
@@ -308,7 +322,8 @@
    d="m 24.248711,156 v 3" />
 </g>
 <g
-   id="124563">
+   id="124563"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="12"
    y="189"
@@ -316,7 +331,7 @@
    id="text6543"><tspan
      id="tspan6541">124563 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="124563_1"
    d="m 12.124356,177 v 3" />
 <path
@@ -341,7 +356,8 @@
    d="m 16.454483,172.5 7.794228,7.5" />
 </g>
 <g
-   id="124635">
+   id="124635"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="12"
    y="210"
@@ -349,7 +365,7 @@
    id="text6554"><tspan
      id="tspan6552">124635 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="124635_1"
    d="m 12.124356,198 v 3" />
 <path
@@ -374,7 +390,8 @@
    d="m 22.516661,195 1.73205,6" />
 </g>
 <g
-   id="124653">
+   id="124653"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="12"
    y="231"
@@ -382,7 +399,7 @@
    id="text6565"><tspan
      id="tspan6563">124653 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="124653_1"
    d="m 12.124356,219 v 3" />
 <path
@@ -407,7 +424,8 @@
    d="m 16.454483,214.5 7.794228,7.5" />
 </g>
 <g
-   id="125436">
+   id="125436"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="12"
    y="252"
@@ -415,7 +433,7 @@
    id="text6576"><tspan
      id="tspan6574">125436 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="125436_1"
    d="m 12.124356,240 v 3" />
 <path
@@ -440,7 +458,8 @@
    d="m 24.248711,240 v 3" />
 </g>
 <g
-   id="125463">
+   id="125463"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="12"
    y="273"
@@ -448,7 +467,7 @@
    id="text6587"><tspan
      id="tspan6585">125463 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="125463_1"
    d="m 12.124356,261 v 3" />
 <path
@@ -473,7 +492,8 @@
    d="m 16.454483,256.5 7.794228,7.5" />
 </g>
 <g
-   id="125634">
+   id="125634"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="12"
    y="294"
@@ -481,7 +501,7 @@
    id="text6598"><tspan
      id="tspan6596">125634 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="125634_1"
    d="m 12.124356,282 v 3" />
 <path
@@ -506,7 +526,8 @@
    d="m 19.918584,277.5 4.330127,7.5" />
 </g>
 <g
-   id="125643">
+   id="125643"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="12"
    y="315"
@@ -514,7 +535,7 @@
    id="text6609"><tspan
      id="tspan6607">125643 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="125643_1"
    d="m 12.124356,303 v 3" />
 <path
@@ -539,7 +560,8 @@
    d="m 16.454483,298.5 7.794228,7.5" />
 </g>
 <g
-   id="126453">
+   id="126453"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="36.25"
    y="21"
@@ -547,7 +569,7 @@
    id="text6620"><tspan
      id="tspan6618">126453 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="126453_1"
    d="m 36.374356,9 v 3" />
 <path
@@ -572,7 +594,8 @@
    d="M 40.704483,4.5 48.498711,12" />
 </g>
 <g
-   id="126543">
+   id="126543"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="36.25"
    y="42"
@@ -580,7 +603,7 @@
    id="text6631"><tspan
      id="tspan6629">126543 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="126543_1"
    d="m 36.374356,30 v 3" />
 <path
@@ -605,7 +628,8 @@
    d="M 40.704483,25.5 48.498711,33" />
 </g>
 <g
-   id="132465">
+   id="132465"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="36.25"
    y="63"
@@ -613,7 +637,7 @@
    id="text6642"><tspan
      id="tspan6640">132465 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="132465_1"
    d="m 36.374356,51 v 3" />
 <path
@@ -638,7 +662,8 @@
    d="m 46.766661,48 1.73205,6" />
 </g>
 <g
-   id="132546">
+   id="132546"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="36.25"
    y="84"
@@ -646,7 +671,7 @@
    id="text6653"><tspan
      id="tspan6651">132546 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="132546_1"
    d="m 36.374356,72 v 3" />
 <path
@@ -671,7 +696,8 @@
    d="m 48.498711,72 v 3" />
 </g>
 <g
-   id="132564">
+   id="132564"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="36.25"
    y="105"
@@ -679,7 +705,7 @@
    id="text6664"><tspan
      id="tspan6662">132564 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="132564_1"
    d="m 36.374356,93 v 3" />
 <path
@@ -704,7 +730,8 @@
    d="M 44.168584,88.5 48.498711,96" />
 </g>
 <g
-   id="132654">
+   id="132654"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="36.25"
    y="126"
@@ -712,7 +739,7 @@
    id="text6675"><tspan
      id="tspan6673">132654 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="132654_1"
    d="m 36.374356,114 v 3" />
 <path
@@ -737,7 +764,8 @@
    d="m 44.168584,109.5 4.330127,7.5" />
 </g>
 <g
-   id="134265">
+   id="134265"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="36.25"
    y="147"
@@ -745,7 +773,7 @@
    id="text6686"><tspan
      id="tspan6684">134265 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="134265_1"
    d="m 36.374356,135 v 3" />
 <path
@@ -770,7 +798,8 @@
    d="m 46.766661,132 1.73205,6" />
 </g>
 <g
-   id="134526">
+   id="134526"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="36.25"
    y="168"
@@ -778,7 +807,7 @@
    id="text6697"><tspan
      id="tspan6695">134526 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="134526_1"
    d="m 36.374356,156 v 3" />
 <path
@@ -803,7 +832,8 @@
    d="m 48.498711,156 v 3" />
 </g>
 <g
-   id="134562">
+   id="134562"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="36.25"
    y="189"
@@ -811,7 +841,7 @@
    id="text6708"><tspan
      id="tspan6706">134562 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="134562_1"
    d="m 36.374356,177 v 3" />
 <path
@@ -836,7 +866,8 @@
    d="m 38.106407,174 10.392304,6" />
 </g>
 <g
-   id="134625">
+   id="134625"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="36.25"
    y="210"
@@ -844,7 +875,7 @@
    id="text6719"><tspan
      id="tspan6717">134625 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="134625_1"
    d="m 36.374356,198 v 3" />
 <path
@@ -869,7 +900,8 @@
    d="m 46.766661,195 1.73205,6" />
 </g>
 <g
-   id="134652">
+   id="134652"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="36.25"
    y="231"
@@ -877,7 +909,7 @@
    id="text6730"><tspan
      id="tspan6728">134652 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="134652_1"
    d="m 36.374356,219 v 3" />
 <path
@@ -902,7 +934,8 @@
    d="m 38.106407,216 10.392304,6" />
 </g>
 <g
-   id="135246">
+   id="135246"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="36.25"
    y="252"
@@ -910,7 +943,7 @@
    id="text6741"><tspan
      id="tspan6739">135246 bd</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="135246_1"
    d="m 36.374356,240 v 3" />
 <path
@@ -935,7 +968,8 @@
    d="m 48.498711,240 v 3" />
 </g>
 <g
-   id="135264">
+   id="135264"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="36.25"
    y="273"
@@ -943,7 +977,7 @@
    id="text6752"><tspan
      id="tspan6750">135264 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="135264_1"
    d="m 36.374356,261 v 3" />
 <path
@@ -968,7 +1002,8 @@
    d="m 44.168584,256.5 4.330127,7.5" />
 </g>
 <g
-   id="135426">
+   id="135426"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="36.25"
    y="294"
@@ -976,7 +1011,7 @@
    id="text6763"><tspan
      id="tspan6761">135426 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="135426_1"
    d="m 36.374356,282 v 3" />
 <path
@@ -1001,7 +1036,8 @@
    d="m 48.498711,282 v 3" />
 </g>
 <g
-   id="135462">
+   id="135462"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="36.25"
    y="315"
@@ -1009,7 +1045,7 @@
    id="text6774"><tspan
      id="tspan6772">135462 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="135462_1"
    d="m 36.374356,303 v 3" />
 <path
@@ -1034,7 +1070,8 @@
    d="m 38.106407,300 10.392304,6" />
 </g>
 <g
-   id="135624">
+   id="135624"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="60.5"
    y="21"
@@ -1042,7 +1079,7 @@
    id="text6785"><tspan
      id="tspan6783">135624 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="135624_1"
    d="m 60.624356,9 v 3" />
 <path
@@ -1067,7 +1104,8 @@
    d="M 68.418584,4.5 72.748711,12" />
 </g>
 <g
-   id="135642">
+   id="135642"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="60.5"
    y="42"
@@ -1075,7 +1113,7 @@
    id="text6796"><tspan
      id="tspan6794">135642 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="135642_1"
    d="m 60.624356,30 v 3" />
 <path
@@ -1100,7 +1138,8 @@
    d="m 62.356407,27 10.392304,6" />
 </g>
 <g
-   id="136245">
+   id="136245"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="60.5"
    y="63"
@@ -1108,7 +1147,7 @@
    id="text6807"><tspan
      id="tspan6805">136245 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="136245_1"
    d="m 60.624356,51 v 3" />
 <path
@@ -1133,7 +1172,8 @@
    d="m 71.016661,48 1.73205,6" />
 </g>
 <g
-   id="136254">
+   id="136254"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="60.5"
    y="84"
@@ -1141,7 +1181,7 @@
    id="text6818"><tspan
      id="tspan6816">136254 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="136254_1"
    d="m 60.624356,72 v 3" />
 <path
@@ -1166,7 +1206,8 @@
    d="M 68.418584,67.5 72.748711,75" />
 </g>
 <g
-   id="136425">
+   id="136425"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="60.5"
    y="105"
@@ -1174,7 +1215,7 @@
    id="text6829"><tspan
      id="tspan6827">136425 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="136425_1"
    d="m 60.624356,93 v 3" />
 <path
@@ -1199,7 +1240,8 @@
    d="m 71.016661,90 1.73205,6" />
 </g>
 <g
-   id="136452">
+   id="136452"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="60.5"
    y="126"
@@ -1207,7 +1249,7 @@
    id="text6840"><tspan
      id="tspan6838">136452 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="136452_1"
    d="m 60.624356,114 v 3" />
 <path
@@ -1232,7 +1274,8 @@
    d="m 62.356407,111 10.392304,6" />
 </g>
 <g
-   id="136524">
+   id="136524"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="60.5"
    y="147"
@@ -1240,7 +1283,7 @@
    id="text6851"><tspan
      id="tspan6849">136524 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="136524_1"
    d="m 60.624356,135 v 3" />
 <path
@@ -1265,7 +1308,8 @@
    d="m 68.418584,130.5 4.330127,7.5" />
 </g>
 <g
-   id="136542">
+   id="136542"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="60.5"
    y="168"
@@ -1273,7 +1317,7 @@
    id="text6862"><tspan
      id="tspan6860">136542 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="136542_1"
    d="m 60.624356,156 v 3" />
 <path
@@ -1298,7 +1342,8 @@
    d="m 62.356407,153 10.392304,6" />
 </g>
 <g
-   id="143265">
+   id="143265"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="60.5"
    y="189"
@@ -1306,7 +1351,7 @@
    id="text6873"><tspan
      id="tspan6871">143265 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="143265_1"
    d="m 60.624356,177 v 3" />
 <path
@@ -1331,7 +1376,8 @@
    d="m 71.016661,174 1.73205,6" />
 </g>
 <g
-   id="143562">
+   id="143562"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="60.5"
    y="210"
@@ -1339,7 +1385,7 @@
    id="text6884"><tspan
      id="tspan6882">143562 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="143562_1"
    d="m 60.624356,198 v 3" />
 <path
@@ -1364,7 +1410,8 @@
    d="m 62.356407,195 10.392304,6" />
 </g>
 <g
-   id="143625">
+   id="143625"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="60.5"
    y="231"
@@ -1372,7 +1419,7 @@
    id="text6895"><tspan
      id="tspan6893">143625 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="143625_1"
    d="m 60.624356,219 v 3" />
 <path
@@ -1397,7 +1444,8 @@
    d="m 71.016661,216 1.73205,6" />
 </g>
 <g
-   id="143652">
+   id="143652"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="60.5"
    y="252"
@@ -1405,7 +1453,7 @@
    id="text6906"><tspan
      id="tspan6904">143652 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="143652_1"
    d="m 60.624356,240 v 3" />
 <path
@@ -1430,7 +1478,8 @@
    d="m 62.356407,237 10.392304,6" />
 </g>
 <g
-   id="145236">
+   id="145236"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="60.5"
    y="273"
@@ -1438,7 +1487,7 @@
    id="text6917"><tspan
      id="tspan6915">145236 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="145236_1"
    d="m 60.624356,261 v 3" />
 <path
@@ -1463,7 +1512,8 @@
    d="m 72.748711,261 v 3" />
 </g>
 <g
-   id="145263">
+   id="145263"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="60.5"
    y="294"
@@ -1471,7 +1521,7 @@
    id="text6928"><tspan
      id="tspan6926">145263 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="145263_1"
    d="m 60.624356,282 v 3" />
 <path
@@ -1496,7 +1546,8 @@
    d="m 64.954483,277.5 7.794228,7.5" />
 </g>
 <g
-   id="145326">
+   id="145326"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="60.5"
    y="315"
@@ -1504,7 +1555,7 @@
    id="text6939"><tspan
      id="tspan6937">145326 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="145326_1"
    d="m 60.624356,303 v 3" />
 <path
@@ -1529,7 +1580,8 @@
    d="m 72.748711,303 v 3" />
 </g>
 <g
-   id="145362">
+   id="145362"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="84.75"
    y="21"
@@ -1537,7 +1589,7 @@
    id="text6950"><tspan
      id="tspan6948">145362 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="145362_1"
    d="m 84.874356,9 v 3" />
 <path
@@ -1562,7 +1614,8 @@
    d="m 86.606407,6 10.392304,6" />
 </g>
 <g
-   id="145623">
+   id="145623"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="84.75"
    y="42"
@@ -1570,7 +1623,7 @@
    id="text6961"><tspan
      id="tspan6959">145623 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="145623_1"
    d="m 84.874356,30 v 3" />
 <path
@@ -1595,7 +1648,8 @@
    d="M 89.204483,25.5 96.998711,33" />
 </g>
 <g
-   id="145632">
+   id="145632"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="84.75"
    y="63"
@@ -1603,7 +1657,7 @@
    id="text6972"><tspan
      id="tspan6970">145632 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="145632_1"
    d="m 84.874356,51 v 3" />
 <path
@@ -1628,7 +1682,8 @@
    d="m 86.606407,48 10.392304,6" />
 </g>
 <g
-   id="146253">
+   id="146253"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="84.75"
    y="84"
@@ -1636,7 +1691,7 @@
    id="text6983"><tspan
      id="tspan6981">146253 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="146253_1"
    d="m 84.874356,72 v 3" />
 <path
@@ -1661,7 +1716,8 @@
    d="M 89.204483,67.5 96.998711,75" />
 </g>
 <g
-   id="146325">
+   id="146325"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="84.75"
    y="105"
@@ -1669,7 +1725,7 @@
    id="text6994"><tspan
      id="tspan6992">146325 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="146325_1"
    d="m 84.874356,93 v 3" />
 <path
@@ -1694,7 +1750,8 @@
    d="m 95.266661,90 1.73205,6" />
 </g>
 <g
-   id="146352">
+   id="146352"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="84.75"
    y="126"
@@ -1702,7 +1759,7 @@
    id="text7005"><tspan
      id="tspan7003">146352 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="146352_1"
    d="m 84.874356,114 v 3" />
 <path
@@ -1727,7 +1784,8 @@
    d="m 86.606407,111 10.392304,6" />
 </g>
 <g
-   id="146523">
+   id="146523"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="84.75"
    y="147"
@@ -1735,7 +1793,7 @@
    id="text7016"><tspan
      id="tspan7014">146523 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="146523_1"
    d="m 84.874356,135 v 3" />
 <path
@@ -1760,7 +1818,8 @@
    d="m 89.204483,130.5 7.794228,7.5" />
 </g>
 <g
-   id="146532">
+   id="146532"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="84.75"
    y="168"
@@ -1768,7 +1827,7 @@
    id="text7027"><tspan
      id="tspan7025">146532 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="146532_1"
    d="m 84.874356,156 v 3" />
 <path
@@ -1793,7 +1852,8 @@
    d="m 86.606407,153 10.392304,6" />
 </g>
 <g
-   id="153426">
+   id="153426"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="84.75"
    y="189"
@@ -1801,7 +1861,7 @@
    id="text7038"><tspan
      id="tspan7036">153426 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="153426_1"
    d="m 84.874356,177 v 3" />
 <path
@@ -1826,7 +1886,8 @@
    d="m 96.998711,177 v 3" />
 </g>
 <g
-   id="153462">
+   id="153462"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="84.75"
    y="210"
@@ -1834,7 +1895,7 @@
    id="text7049"><tspan
      id="tspan7047">153462 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="153462_1"
    d="m 84.874356,198 v 3" />
 <path
@@ -1859,7 +1920,8 @@
    d="m 86.606407,195 10.392304,6" />
 </g>
 <g
-   id="153624">
+   id="153624"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="84.75"
    y="231"
@@ -1867,7 +1929,7 @@
    id="text7060"><tspan
      id="tspan7058">153624 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="153624_1"
    d="m 84.874356,219 v 3" />
 <path
@@ -1892,7 +1954,8 @@
    d="m 92.668584,214.5 4.330127,7.5" />
 </g>
 <g
-   id="153642">
+   id="153642"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="84.75"
    y="252"
@@ -1900,7 +1963,7 @@
    id="text7071"><tspan
      id="tspan7069">153642 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="153642_1"
    d="m 84.874356,240 v 3" />
 <path
@@ -1925,7 +1988,8 @@
    d="m 86.606407,237 10.392304,6" />
 </g>
 <g
-   id="154326">
+   id="154326"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="84.75"
    y="273"
@@ -1933,7 +1997,7 @@
    id="text7082"><tspan
      id="tspan7080">154326 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="154326_1"
    d="m 84.874356,261 v 3" />
 <path
@@ -1958,7 +2022,8 @@
    d="m 96.998711,261 v 3" />
 </g>
 <g
-   id="154362">
+   id="154362"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="84.75"
    y="294"
@@ -1966,7 +2031,7 @@
    id="text7093"><tspan
      id="tspan7091">154362 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="154362_1"
    d="m 84.874356,282 v 3" />
 <path
@@ -1991,7 +2056,8 @@
    d="m 86.606407,279 10.392304,6" />
 </g>
 <g
-   id="154623">
+   id="154623"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="84.75"
    y="315"
@@ -1999,7 +2065,7 @@
    id="text7104"><tspan
      id="tspan7102">154623 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="154623_1"
    d="m 84.874356,303 v 3" />
 <path
@@ -2024,7 +2090,8 @@
    d="m 89.204483,298.5 7.794228,7.5" />
 </g>
 <g
-   id="154632">
+   id="154632"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="109"
    y="21"
@@ -2032,7 +2099,7 @@
    id="text7115"><tspan
      id="tspan7113">154632 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="154632_1"
    d="m 109.12436,9 v 3" />
 <path
@@ -2057,7 +2124,8 @@
    d="m 110.85641,6 10.3923,6" />
 </g>
 <g
-   id="156342">
+   id="156342"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="109"
    y="42"
@@ -2065,7 +2133,7 @@
    id="text7126"><tspan
      id="tspan7124">156342 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="156342_1"
    d="m 109.12436,30 v 3" />
 <path
@@ -2090,7 +2158,8 @@
    d="m 110.85641,27 10.3923,6" />
 </g>
 <g
-   id="156423">
+   id="156423"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="109"
    y="63"
@@ -2098,7 +2167,7 @@
    id="text7137"><tspan
      id="tspan7135">156423 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="156423_1"
    d="m 109.12436,51 v 3" />
 <path
@@ -2123,7 +2192,8 @@
    d="m 113.45448,46.5 7.79423,7.5" />
 </g>
 <g
-   id="156432">
+   id="156432"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="109"
    y="84"
@@ -2131,7 +2201,7 @@
    id="text7148"><tspan
      id="tspan7146">156432 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="156432_1"
    d="m 109.12436,72 v 3" />
 <path
@@ -2156,7 +2226,8 @@
    d="m 110.85641,69 10.3923,6" />
 </g>
 <g
-   id="163452">
+   id="163452"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="109"
    y="105"
@@ -2164,7 +2235,7 @@
    id="text7159"><tspan
      id="tspan7157">163452 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="163452_1"
    d="m 109.12436,93 v 3" />
 <path
@@ -2189,7 +2260,8 @@
    d="m 110.85641,90 10.3923,6" />
 </g>
 <g
-   id="163542">
+   id="163542"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="109"
    y="126"
@@ -2197,7 +2269,7 @@
    id="text7170"><tspan
      id="tspan7168">163542 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="163542_1"
    d="m 109.12436,114 v 3" />
 <path
@@ -2222,7 +2294,8 @@
    d="m 110.85641,111 10.3923,6" />
 </g>
 <g
-   id="164352">
+   id="164352"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="109"
    y="147"
@@ -2230,7 +2303,7 @@
    id="text7181"><tspan
      id="tspan7179">164352 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="164352_1"
    d="m 109.12436,135 v 3" />
 <path
@@ -2255,7 +2328,8 @@
    d="m 110.85641,132 10.3923,6" />
 </g>
 <g
-   id="164532">
+   id="164532"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="109"
    y="168"
@@ -2263,7 +2337,7 @@
    id="text7192"><tspan
      id="tspan7190">164532 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="164532_1"
    d="m 109.12436,156 v 3" />
 <path
@@ -2288,7 +2362,8 @@
    d="m 110.85641,153 10.3923,6" />
 </g>
 <g
-   id="165432">
+   id="165432"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="109"
    y="189"
@@ -2296,7 +2371,7 @@
    id="text7203"><tspan
      id="tspan7201">165432 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="165432_1"
    d="m 109.12436,177 v 3" />
 <path
@@ -2321,7 +2396,8 @@
    d="m 110.85641,174 10.3923,6" />
 </g>
 <g
-   id="213465">
+   id="213465"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="109"
    y="210"
@@ -2329,7 +2405,7 @@
    id="text7214"><tspan
      id="tspan7212">213465 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="213465_2"
    d="m 110.85641,195 -1.73205,6" />
 <path
@@ -2354,7 +2430,8 @@
    d="m 119.51666,195 1.73205,6" />
 </g>
 <g
-   id="213564">
+   id="213564"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="109"
    y="231"
@@ -2362,7 +2439,7 @@
    id="text7225"><tspan
      id="tspan7223">213564 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="213564_2"
    d="m 110.85641,216 -1.73205,6" />
 <path
@@ -2387,7 +2464,8 @@
    d="m 116.91858,214.5 4.33013,7.5" />
 </g>
 <g
-   id="213654">
+   id="213654"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="109"
    y="252"
@@ -2395,7 +2473,7 @@
    id="text7236"><tspan
      id="tspan7234">213654 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="213654_2"
    d="m 110.85641,237 -1.73205,6" />
 <path
@@ -2420,7 +2498,8 @@
    d="m 116.91858,235.5 4.33013,7.5" />
 </g>
 <g
-   id="214365">
+   id="214365"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="109"
    y="273"
@@ -2428,7 +2507,7 @@
    id="text7247"><tspan
      id="tspan7245">214365 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="214365_2"
    d="m 110.85641,258 -1.73205,6" />
 <path
@@ -2453,7 +2532,8 @@
    d="m 119.51666,258 1.73205,6" />
 </g>
 <g
-   id="214563">
+   id="214563"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="109"
    y="294"
@@ -2461,7 +2541,7 @@
    id="text7258"><tspan
      id="tspan7256">214563 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="214563_2"
    d="m 110.85641,279 -1.73205,6" />
 <path
@@ -2486,7 +2566,8 @@
    d="m 113.45448,277.5 7.79423,7.5" />
 </g>
 <g
-   id="214635">
+   id="214635"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="109"
    y="315"
@@ -2494,7 +2575,7 @@
    id="text7269"><tspan
      id="tspan7267">214635 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="214635_2"
    d="m 110.85641,300 -1.73205,6" />
 <path
@@ -2519,7 +2600,8 @@
    d="m 119.51666,300 1.73205,6" />
 </g>
 <g
-   id="214653">
+   id="214653"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="133.25"
    y="21"
@@ -2527,7 +2609,7 @@
    id="text7280"><tspan
      id="tspan7278">214653 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="214653_2"
    d="m 135.10641,6 -1.73205,6" />
 <path
@@ -2552,7 +2634,8 @@
    d="m 137.70448,4.5 7.79423,7.5" />
 </g>
 <g
-   id="215463">
+   id="215463"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="133.25"
    y="42"
@@ -2560,7 +2643,7 @@
    id="text7291"><tspan
      id="tspan7289">215463 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="215463_2"
    d="m 135.10641,27 -1.73205,6" />
 <path
@@ -2585,7 +2668,8 @@
    d="m 137.70448,25.5 7.79423,7.5" />
 </g>
 <g
-   id="215634">
+   id="215634"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="133.25"
    y="63"
@@ -2593,7 +2677,7 @@
    id="text7302"><tspan
      id="tspan7300">215634 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="215634_2"
    d="m 135.10641,48 -1.73205,6" />
 <path
@@ -2618,7 +2702,8 @@
    d="m 141.16858,46.5 4.33013,7.5" />
 </g>
 <g
-   id="215643">
+   id="215643"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="133.25"
    y="84"
@@ -2626,7 +2711,7 @@
    id="text7313"><tspan
      id="tspan7311">215643 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="215643_2"
    d="m 135.10641,69 -1.73205,6" />
 <path
@@ -2651,7 +2736,8 @@
    d="m 137.70448,67.5 7.79423,7.5" />
 </g>
 <g
-   id="216453">
+   id="216453"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="133.25"
    y="105"
@@ -2659,7 +2745,7 @@
    id="text7324"><tspan
      id="tspan7322">216453 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="216453_2"
    d="m 135.10641,90 -1.73205,6" />
 <path
@@ -2684,7 +2770,8 @@
    d="m 137.70448,88.5 7.79423,7.5" />
 </g>
 <g
-   id="216543">
+   id="216543"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="133.25"
    y="126"
@@ -2692,7 +2779,7 @@
    id="text7335"><tspan
      id="tspan7333">216543 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="216543_2"
    d="m 135.10641,111 -1.73205,6" />
 <path
@@ -2717,7 +2804,8 @@
    d="m 137.70448,109.5 7.79423,7.5" />
 </g>
 <g
-   id="231564">
+   id="231564"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="133.25"
    y="147"
@@ -2725,7 +2813,7 @@
    id="text7346"><tspan
      id="tspan7344">231564 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="231564_2"
    d="m 135.10641,132 -1.73205,6" />
 <path
@@ -2750,7 +2838,8 @@
    d="m 141.16858,130.5 4.33013,7.5" />
 </g>
 <g
-   id="231645">
+   id="231645"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="133.25"
    y="168"
@@ -2758,7 +2847,7 @@
    id="text7357"><tspan
      id="tspan7355">231645 bd</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="231645_2"
    d="m 135.10641,153 -1.73205,6" />
 <path
@@ -2783,7 +2872,8 @@
    d="m 143.76666,153 1.73205,6" />
 </g>
 <g
-   id="231654">
+   id="231654"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="133.25"
    y="189"
@@ -2791,7 +2881,7 @@
    id="text7368"><tspan
      id="tspan7366">231654 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="231654_2"
    d="m 135.10641,174 -1.73205,6" />
 <path
@@ -2816,7 +2906,8 @@
    d="m 141.16858,172.5 4.33013,7.5" />
 </g>
 <g
-   id="234561">
+   id="234561"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="133.25"
    y="210"
@@ -2824,7 +2915,7 @@
    id="text7379"><tspan
      id="tspan7377">234561 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="234561_2"
    d="m 135.10641,195 -1.73205,6" />
 <path
@@ -2849,7 +2940,8 @@
    d="m 133.37436,198 12.12435,3" />
 </g>
 <g
-   id="234615">
+   id="234615"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="133.25"
    y="231"
@@ -2857,7 +2949,7 @@
    id="text7390"><tspan
      id="tspan7388">234615 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="234615_2"
    d="m 135.10641,216 -1.73205,6" />
 <path
@@ -2882,7 +2974,8 @@
    d="m 143.76666,216 1.73205,6" />
 </g>
 <g
-   id="234651">
+   id="234651"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="133.25"
    y="252"
@@ -2890,7 +2983,7 @@
    id="text7401"><tspan
      id="tspan7399">234651 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="234651_2"
    d="m 135.10641,237 -1.73205,6" />
 <path
@@ -2915,7 +3008,8 @@
    d="m 133.37436,240 12.12435,3" />
 </g>
 <g
-   id="235164">
+   id="235164"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="133.25"
    y="273"
@@ -2923,7 +3017,7 @@
    id="text7412"><tspan
      id="tspan7410">235164 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="235164_2"
    d="m 135.10641,258 -1.73205,6" />
 <path
@@ -2948,7 +3042,8 @@
    d="m 141.16858,256.5 4.33013,7.5" />
 </g>
 <g
-   id="235461">
+   id="235461"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="133.25"
    y="294"
@@ -2956,7 +3051,7 @@
    id="text7423"><tspan
      id="tspan7421">235461 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="235461_2"
    d="m 135.10641,279 -1.73205,6" />
 <path
@@ -2981,7 +3076,8 @@
    d="m 133.37436,282 12.12435,3" />
 </g>
 <g
-   id="235614">
+   id="235614"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="133.25"
    y="315"
@@ -2989,7 +3085,7 @@
    id="text7434"><tspan
      id="tspan7432">235614 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="235614_2"
    d="m 135.10641,300 -1.73205,6" />
 <path
@@ -3014,7 +3110,8 @@
    d="m 141.16858,298.5 4.33013,7.5" />
 </g>
 <g
-   id="235641">
+   id="235641"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="157.5"
    y="21"
@@ -3022,7 +3119,7 @@
    id="text7445"><tspan
      id="tspan7443">235641 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="235641_2"
    d="m 159.35641,6 -1.73205,6" />
 <path
@@ -3047,7 +3144,8 @@
    d="m 157.62436,9 12.12435,3" />
 </g>
 <g
-   id="236145">
+   id="236145"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="157.5"
    y="42"
@@ -3055,7 +3153,7 @@
    id="text7456"><tspan
      id="tspan7454">236145 bd</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="236145_2"
    d="m 159.35641,27 -1.73205,6" />
 <path
@@ -3080,7 +3178,8 @@
    d="m 168.01666,27 1.73205,6" />
 </g>
 <g
-   id="236154">
+   id="236154"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="157.5"
    y="63"
@@ -3088,7 +3187,7 @@
    id="text7467"><tspan
      id="tspan7465">236154 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="236154_2"
    d="m 159.35641,48 -1.73205,6" />
 <path
@@ -3113,7 +3212,8 @@
    d="m 165.41858,46.5 4.33013,7.5" />
 </g>
 <g
-   id="236415">
+   id="236415"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="157.5"
    y="84"
@@ -3121,7 +3221,7 @@
    id="text7478"><tspan
      id="tspan7476">236415 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="236415_2"
    d="m 159.35641,69 -1.73205,6" />
 <path
@@ -3146,7 +3246,8 @@
    d="m 168.01666,69 1.73205,6" />
 </g>
 <g
-   id="236451">
+   id="236451"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="157.5"
    y="105"
@@ -3154,7 +3255,7 @@
    id="text7489"><tspan
      id="tspan7487">236451 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="236451_2"
    d="m 159.35641,90 -1.73205,6" />
 <path
@@ -3179,7 +3280,8 @@
    d="m 157.62436,93 12.12435,3" />
 </g>
 <g
-   id="236514">
+   id="236514"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="157.5"
    y="126"
@@ -3187,7 +3289,7 @@
    id="text7500"><tspan
      id="tspan7498">236514 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="236514_2"
    d="m 159.35641,111 -1.73205,6" />
 <path
@@ -3212,7 +3314,8 @@
    d="m 165.41858,109.5 4.33013,7.5" />
 </g>
 <g
-   id="236541">
+   id="236541"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="157.5"
    y="147"
@@ -3220,7 +3323,7 @@
    id="text7511"><tspan
      id="tspan7509">236541 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="236541_2"
    d="m 159.35641,132 -1.73205,6" />
 <path
@@ -3245,7 +3348,8 @@
    d="m 157.62436,135 12.12435,3" />
 </g>
 <g
-   id="241635">
+   id="241635"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="157.5"
    y="168"
@@ -3253,7 +3357,7 @@
    id="text7522"><tspan
      id="tspan7520">241635 bd</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="241635_2"
    d="m 159.35641,153 -1.73205,6" />
 <path
@@ -3278,7 +3382,8 @@
    d="m 168.01666,153 1.73205,6" />
 </g>
 <g
-   id="241653">
+   id="241653"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="157.5"
    y="189"
@@ -3286,7 +3391,7 @@
    id="text7533"><tspan
      id="tspan7531">241653 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="241653_2"
    d="m 159.35641,174 -1.73205,6" />
 <path
@@ -3311,7 +3416,8 @@
    d="m 161.95448,172.5 7.79423,7.5" />
 </g>
 <g
-   id="243615">
+   id="243615"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="157.5"
    y="210"
@@ -3319,7 +3425,7 @@
    id="text7544"><tspan
      id="tspan7542">243615 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="243615_2"
    d="m 159.35641,195 -1.73205,6" />
 <path
@@ -3344,7 +3450,8 @@
    d="m 168.01666,195 1.73205,6" />
 </g>
 <g
-   id="243651">
+   id="243651"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="157.5"
    y="231"
@@ -3352,7 +3459,7 @@
    id="text7555"><tspan
      id="tspan7553">243651 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="243651_2"
    d="m 159.35641,216 -1.73205,6" />
 <path
@@ -3377,7 +3484,8 @@
    d="m 157.62436,219 12.12435,3" />
 </g>
 <g
-   id="245163">
+   id="245163"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="157.5"
    y="252"
@@ -3385,7 +3493,7 @@
    id="text7566"><tspan
      id="tspan7564">245163 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="245163_2"
    d="m 159.35641,237 -1.73205,6" />
 <path
@@ -3410,7 +3518,8 @@
    d="m 161.95448,235.5 7.79423,7.5" />
 </g>
 <g
-   id="245361">
+   id="245361"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="157.5"
    y="273"
@@ -3418,7 +3527,7 @@
    id="text7577"><tspan
      id="tspan7575">245361 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="245361_2"
    d="m 159.35641,258 -1.73205,6" />
 <path
@@ -3443,7 +3552,8 @@
    d="m 157.62436,261 12.12435,3" />
 </g>
 <g
-   id="245613">
+   id="245613"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="157.5"
    y="294"
@@ -3451,7 +3561,7 @@
    id="text7588"><tspan
      id="tspan7586">245613 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="245613_2"
    d="m 159.35641,279 -1.73205,6" />
 <path
@@ -3476,7 +3586,8 @@
    d="m 161.95448,277.5 7.79423,7.5" />
 </g>
 <g
-   id="245631">
+   id="245631"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="157.5"
    y="315"
@@ -3484,7 +3595,7 @@
    id="text7599"><tspan
      id="tspan7597">245631 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="245631_2"
    d="m 159.35641,300 -1.73205,6" />
 <path
@@ -3509,7 +3620,8 @@
    d="m 157.62436,303 12.12435,3" />
 </g>
 <g
-   id="246135">
+   id="246135"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="181.75"
    y="21"
@@ -3517,7 +3629,7 @@
    id="text7610"><tspan
      id="tspan7608">246135 bd</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="246135_2"
    d="m 183.60641,6 -1.73205,6" />
 <path
@@ -3542,7 +3654,8 @@
    d="m 192.26666,6 1.73205,6" />
 </g>
 <g
-   id="246153">
+   id="246153"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="181.75"
    y="42"
@@ -3550,7 +3663,7 @@
    id="text7621"><tspan
      id="tspan7619">246153 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="246153_2"
    d="m 183.60641,27 -1.73205,6" />
 <path
@@ -3575,7 +3688,8 @@
    d="m 186.20448,25.5 7.79423,7.5" />
 </g>
 <g
-   id="246315">
+   id="246315"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="181.75"
    y="63"
@@ -3583,7 +3697,7 @@
    id="text7632"><tspan
      id="tspan7630">246315 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="246315_2"
    d="m 183.60641,48 -1.73205,6" />
 <path
@@ -3608,7 +3722,8 @@
    d="m 192.26666,48 1.73205,6" />
 </g>
 <g
-   id="246351">
+   id="246351"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="181.75"
    y="84"
@@ -3616,7 +3731,7 @@
    id="text7643"><tspan
      id="tspan7641">246351 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="246351_2"
    d="m 183.60641,69 -1.73205,6" />
 <path
@@ -3641,7 +3756,8 @@
    d="m 181.87436,72 12.12435,3" />
 </g>
 <g
-   id="246513">
+   id="246513"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="181.75"
    y="105"
@@ -3649,7 +3765,7 @@
    id="text7654"><tspan
      id="tspan7652">246513 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="246513_2"
    d="m 183.60641,90 -1.73205,6" />
 <path
@@ -3674,7 +3790,8 @@
    d="m 186.20448,88.5 7.79423,7.5" />
 </g>
 <g
-   id="246531">
+   id="246531"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="181.75"
    y="126"
@@ -3682,7 +3799,7 @@
    id="text7665"><tspan
      id="tspan7663">246531 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="246531_2"
    d="m 183.60641,111 -1.73205,6" />
 <path
@@ -3707,7 +3824,8 @@
    d="m 181.87436,114 12.12435,3" />
 </g>
 <g
-   id="251364">
+   id="251364"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="181.75"
    y="147"
@@ -3715,7 +3833,7 @@
    id="text7676"><tspan
      id="tspan7674">251364 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="251364_2"
    d="m 183.60641,132 -1.73205,6" />
 <path
@@ -3740,7 +3858,8 @@
    d="m 189.66858,130.5 4.33013,7.5" />
 </g>
 <g
-   id="251463">
+   id="251463"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="181.75"
    y="168"
@@ -3748,7 +3867,7 @@
    id="text7687"><tspan
      id="tspan7685">251463 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="251463_2"
    d="m 183.60641,153 -1.73205,6" />
 <path
@@ -3773,7 +3892,8 @@
    d="m 186.20448,151.5 7.79423,7.5" />
 </g>
 <g
-   id="251634">
+   id="251634"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="181.75"
    y="189"
@@ -3781,7 +3901,7 @@
    id="text7698"><tspan
      id="tspan7696">251634 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="251634_2"
    d="m 183.60641,174 -1.73205,6" />
 <path
@@ -3806,7 +3926,8 @@
    d="m 189.66858,172.5 4.33013,7.5" />
 </g>
 <g
-   id="251643">
+   id="251643"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="181.75"
    y="210"
@@ -3814,7 +3935,7 @@
    id="text7709"><tspan
      id="tspan7707">251643 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="251643_2"
    d="m 183.60641,195 -1.73205,6" />
 <path
@@ -3839,7 +3960,8 @@
    d="m 186.20448,193.5 7.79423,7.5" />
 </g>
 <g
-   id="253461">
+   id="253461"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="181.75"
    y="231"
@@ -3847,7 +3969,7 @@
    id="text7720"><tspan
      id="tspan7718">253461 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="253461_2"
    d="m 183.60641,216 -1.73205,6" />
 <path
@@ -3872,7 +3994,8 @@
    d="m 181.87436,219 12.12435,3" />
 </g>
 <g
-   id="253614">
+   id="253614"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="181.75"
    y="252"
@@ -3880,7 +4003,7 @@
    id="text7731"><tspan
      id="tspan7729">253614 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="253614_2"
    d="m 183.60641,237 -1.73205,6" />
 <path
@@ -3905,7 +4028,8 @@
    d="m 189.66858,235.5 4.33013,7.5" />
 </g>
 <g
-   id="253641">
+   id="253641"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="181.75"
    y="273"
@@ -3913,7 +4037,7 @@
    id="text7742"><tspan
      id="tspan7740">253641 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="253641_2"
    d="m 183.60641,258 -1.73205,6" />
 <path
@@ -3938,7 +4062,8 @@
    d="m 181.87436,261 12.12435,3" />
 </g>
 <g
-   id="254163">
+   id="254163"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="181.75"
    y="294"
@@ -3946,7 +4071,7 @@
    id="text7753"><tspan
      id="tspan7751">254163 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="254163_2"
    d="m 183.60641,279 -1.73205,6" />
 <path
@@ -3971,7 +4096,8 @@
    d="m 186.20448,277.5 7.79423,7.5" />
 </g>
 <g
-   id="254361">
+   id="254361"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="181.75"
    y="315"
@@ -3979,7 +4105,7 @@
    id="text7764"><tspan
      id="tspan7762">254361 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="254361_2"
    d="m 183.60641,300 -1.73205,6" />
 <path
@@ -4004,7 +4130,8 @@
    d="m 181.87436,303 12.12435,3" />
 </g>
 <g
-   id="254613">
+   id="254613"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="206"
    y="21"
@@ -4012,7 +4139,7 @@
    id="text7775"><tspan
      id="tspan7773">254613 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="254613_2"
    d="m 207.85641,6 -1.73205,6" />
 <path
@@ -4037,7 +4164,8 @@
    d="m 210.45448,4.5 7.79423,7.5" />
 </g>
 <g
-   id="254631">
+   id="254631"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="206"
    y="42"
@@ -4045,7 +4173,7 @@
    id="text7786"><tspan
      id="tspan7784">254631 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="254631_2"
    d="m 207.85641,27 -1.73205,6" />
 <path
@@ -4070,7 +4198,8 @@
    d="m 206.12436,30 12.12435,3" />
 </g>
 <g
-   id="256134">
+   id="256134"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="206"
    y="63"
@@ -4078,7 +4207,7 @@
    id="text7797"><tspan
      id="tspan7795">256134 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="256134_2"
    d="m 207.85641,48 -1.73205,6" />
 <path
@@ -4103,7 +4232,8 @@
    d="m 213.91858,46.5 4.33013,7.5" />
 </g>
 <g
-   id="256143">
+   id="256143"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="206"
    y="84"
@@ -4111,7 +4241,7 @@
    id="text7808"><tspan
      id="tspan7806">256143 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="256143_2"
    d="m 207.85641,69 -1.73205,6" />
 <path
@@ -4136,7 +4266,8 @@
    d="m 210.45448,67.5 7.79423,7.5" />
 </g>
 <g
-   id="256314">
+   id="256314"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="206"
    y="105"
@@ -4144,7 +4275,7 @@
    id="text7819"><tspan
      id="tspan7817">256314 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="256314_2"
    d="m 207.85641,90 -1.73205,6" />
 <path
@@ -4169,7 +4300,8 @@
    d="m 213.91858,88.5 4.33013,7.5" />
 </g>
 <g
-   id="256341">
+   id="256341"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="206"
    y="126"
@@ -4177,7 +4309,7 @@
    id="text7830"><tspan
      id="tspan7828">256341 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="256341_2"
    d="m 207.85641,111 -1.73205,6" />
 <path
@@ -4202,7 +4334,8 @@
    d="m 206.12436,114 12.12435,3" />
 </g>
 <g
-   id="256413">
+   id="256413"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="206"
    y="147"
@@ -4210,7 +4343,7 @@
    id="text7841"><tspan
      id="tspan7839">256413 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="256413_2"
    d="m 207.85641,132 -1.73205,6" />
 <path
@@ -4235,7 +4368,8 @@
    d="m 210.45448,130.5 7.79423,7.5" />
 </g>
 <g
-   id="256431">
+   id="256431"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="206"
    y="168"
@@ -4243,7 +4377,7 @@
    id="text7852"><tspan
      id="tspan7850">256431 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="256431_2"
    d="m 207.85641,153 -1.73205,6" />
 <path
@@ -4268,7 +4402,8 @@
    d="m 206.12436,156 12.12435,3" />
 </g>
 <g
-   id="261354">
+   id="261354"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="206"
    y="189"
@@ -4276,7 +4411,7 @@
    id="text7863"><tspan
      id="tspan7861">261354 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="261354_2"
    d="m 207.85641,174 -1.73205,6" />
 <path
@@ -4301,7 +4436,8 @@
    d="m 213.91858,172.5 4.33013,7.5" />
 </g>
 <g
-   id="261453">
+   id="261453"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="206"
    y="210"
@@ -4309,7 +4445,7 @@
    id="text7874"><tspan
      id="tspan7872">261453 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="261453_2"
    d="m 207.85641,195 -1.73205,6" />
 <path
@@ -4334,7 +4470,8 @@
    d="m 210.45448,193.5 7.79423,7.5" />
 </g>
 <g
-   id="261534">
+   id="261534"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="206"
    y="231"
@@ -4342,7 +4479,7 @@
    id="text7885"><tspan
      id="tspan7883">261534 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="261534_2"
    d="m 207.85641,216 -1.73205,6" />
 <path
@@ -4367,7 +4504,8 @@
    d="m 213.91858,214.5 4.33013,7.5" />
 </g>
 <g
-   id="261543">
+   id="261543"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="206"
    y="252"
@@ -4375,7 +4513,7 @@
    id="text7896"><tspan
      id="tspan7894">261543 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="261543_2"
    d="m 207.85641,237 -1.73205,6" />
 <path
@@ -4400,7 +4538,8 @@
    d="m 210.45448,235.5 7.79423,7.5" />
 </g>
 <g
-   id="263154">
+   id="263154"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="206"
    y="273"
@@ -4408,7 +4547,7 @@
    id="text7907"><tspan
      id="tspan7905">263154 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="263154_2"
    d="m 207.85641,258 -1.73205,6" />
 <path
@@ -4433,7 +4572,8 @@
    d="m 213.91858,256.5 4.33013,7.5" />
 </g>
 <g
-   id="263415">
+   id="263415"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="206"
    y="294"
@@ -4441,7 +4581,7 @@
    id="text7918"><tspan
      id="tspan7916">263415 bd</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="263415_2"
    d="m 207.85641,279 -1.73205,6" />
 <path
@@ -4466,7 +4606,8 @@
    d="m 216.51666,279 1.73205,6" />
 </g>
 <g
-   id="263451">
+   id="263451"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="206"
    y="315"
@@ -4474,7 +4615,7 @@
    id="text7929"><tspan
      id="tspan7927">263451 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="263451_2"
    d="m 207.85641,300 -1.73205,6" />
 <path
@@ -4499,7 +4640,8 @@
    d="m 206.12436,303 12.12435,3" />
 </g>
 <g
-   id="263514">
+   id="263514"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="230.25"
    y="21"
@@ -4507,7 +4649,7 @@
    id="text7940"><tspan
      id="tspan7938">263514 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="263514_2"
    d="m 232.10641,6 -1.73205,6" />
 <path
@@ -4532,7 +4674,8 @@
    d="m 238.16858,4.5 4.33013,7.5" />
 </g>
 <g
-   id="263541">
+   id="263541"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="230.25"
    y="42"
@@ -4540,7 +4683,7 @@
    id="text7951"><tspan
      id="tspan7949">263541 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="263541_2"
    d="m 232.10641,27 -1.73205,6" />
 <path
@@ -4565,7 +4708,8 @@
    d="m 230.37436,30 12.12435,3" />
 </g>
 <g
-   id="264153">
+   id="264153"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="230.25"
    y="63"
@@ -4573,7 +4717,7 @@
    id="text7962"><tspan
      id="tspan7960">264153 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="264153_2"
    d="m 232.10641,48 -1.73205,6" />
 <path
@@ -4598,7 +4742,8 @@
    d="m 234.70448,46.5 7.79423,7.5" />
 </g>
 <g
-   id="264315">
+   id="264315"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="230.25"
    y="84"
@@ -4606,7 +4751,7 @@
    id="text7973"><tspan
      id="tspan7971">264315 bd</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="264315_2"
    d="m 232.10641,69 -1.73205,6" />
 <path
@@ -4631,7 +4776,8 @@
    d="m 240.76666,69 1.73205,6" />
 </g>
 <g
-   id="264351">
+   id="264351"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="230.25"
    y="105"
@@ -4639,7 +4785,7 @@
    id="text7984"><tspan
      id="tspan7982">264351 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="264351_2"
    d="m 232.10641,90 -1.73205,6" />
 <path
@@ -4664,7 +4810,8 @@
    d="m 230.37436,93 12.12435,3" />
 </g>
 <g
-   id="264513">
+   id="264513"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="230.25"
    y="126"
@@ -4672,7 +4819,7 @@
    id="text7995"><tspan
      id="tspan7993">264513 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="264513_2"
    d="m 232.10641,111 -1.73205,6" />
 <path
@@ -4697,7 +4844,8 @@
    d="m 234.70448,109.5 7.79423,7.5" />
 </g>
 <g
-   id="264531">
+   id="264531"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="230.25"
    y="147"
@@ -4705,7 +4853,7 @@
    id="text8006"><tspan
      id="tspan8004">264531 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="264531_2"
    d="m 232.10641,132 -1.73205,6" />
 <path
@@ -4730,7 +4878,8 @@
    d="m 230.37436,135 12.12435,3" />
 </g>
 <g
-   id="265134">
+   id="265134"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="230.25"
    y="168"
@@ -4738,7 +4887,7 @@
    id="text8017"><tspan
      id="tspan8015">265134 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="265134_2"
    d="m 232.10641,153 -1.73205,6" />
 <path
@@ -4763,7 +4912,8 @@
    d="m 238.16858,151.5 4.33013,7.5" />
 </g>
 <g
-   id="265143">
+   id="265143"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="230.25"
    y="189"
@@ -4771,7 +4921,7 @@
    id="text8028"><tspan
      id="tspan8026">265143 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="265143_2"
    d="m 232.10641,174 -1.73205,6" />
 <path
@@ -4796,7 +4946,8 @@
    d="m 234.70448,172.5 7.79423,7.5" />
 </g>
 <g
-   id="265314">
+   id="265314"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="230.25"
    y="210"
@@ -4804,7 +4955,7 @@
    id="text8039"><tspan
      id="tspan8037">265314 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="265314_2"
    d="m 232.10641,195 -1.73205,6" />
 <path
@@ -4829,7 +4980,8 @@
    d="m 238.16858,193.5 4.33013,7.5" />
 </g>
 <g
-   id="265341">
+   id="265341"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="230.25"
    y="231"
@@ -4837,7 +4989,7 @@
    id="text8050"><tspan
      id="tspan8048">265341 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="265341_2"
    d="m 232.10641,216 -1.73205,6" />
 <path
@@ -4862,7 +5014,8 @@
    d="m 230.37436,219 12.12435,3" />
 </g>
 <g
-   id="265413">
+   id="265413"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="230.25"
    y="252"
@@ -4870,7 +5023,7 @@
    id="text8061"><tspan
      id="tspan8059">265413 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="265413_2"
    d="m 232.10641,237 -1.73205,6" />
 <path
@@ -4895,7 +5048,8 @@
    d="m 234.70448,235.5 7.79423,7.5" />
 </g>
 <g
-   id="265431">
+   id="265431"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="230.25"
    y="273"
@@ -4903,7 +5057,7 @@
    id="text8072"><tspan
      id="tspan8070">265431 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="265431_2"
    d="m 232.10641,258 -1.73205,6" />
 <path
@@ -4928,7 +5082,8 @@
    d="m 230.37436,261 12.12435,3" />
 </g>
 <g
-   id="321654">
+   id="321654"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="230.25"
    y="294"
@@ -4936,7 +5091,7 @@
    id="text8083"><tspan
      id="tspan8081">321654 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="321654_3"
    d="m 234.70448,277.5 -4.33012,7.5" />
 <path
@@ -4961,7 +5116,8 @@
    d="m 238.16858,277.5 4.33013,7.5" />
 </g>
 <g
-   id="324651">
+   id="324651"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="230.25"
    y="315"
@@ -4969,7 +5125,7 @@
    id="text8094"><tspan
      id="tspan8092">324651 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="324651_3"
    d="m 234.70448,298.5 -4.33012,7.5" />
 <path
@@ -4994,7 +5150,8 @@
    d="m 230.37436,303 12.12435,3" />
 </g>
 <g
-   id="325614">
+   id="325614"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="254.5"
    y="21"
@@ -5002,7 +5159,7 @@
    id="text8105"><tspan
      id="tspan8103">325614 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="325614_3"
    d="M 258.95448,4.5 254.62436,12" />
 <path
@@ -5027,7 +5184,8 @@
    d="m 262.41858,4.5 4.33013,7.5" />
 </g>
 <g
-   id="325641">
+   id="325641"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="254.5"
    y="42"
@@ -5035,7 +5193,7 @@
    id="text8116"><tspan
      id="tspan8114">325641 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="325641_3"
    d="M 258.95448,25.5 254.62436,33" />
 <path
@@ -5060,7 +5218,8 @@
    d="m 254.62436,30 12.12435,3" />
 </g>
 <g
-   id="326154">
+   id="326154"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="254.5"
    y="63"
@@ -5068,7 +5227,7 @@
    id="text8127"><tspan
      id="tspan8125">326154 bd</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="326154_3"
    d="M 258.95448,46.5 254.62436,54" />
 <path
@@ -5093,7 +5252,8 @@
    d="m 262.41858,46.5 4.33013,7.5" />
 </g>
 <g
-   id="326451">
+   id="326451"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="254.5"
    y="84"
@@ -5101,7 +5261,7 @@
    id="text8138"><tspan
      id="tspan8136">326451 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="326451_3"
    d="M 258.95448,67.5 254.62436,75" />
 <path
@@ -5126,7 +5286,8 @@
    d="m 254.62436,72 12.12435,3" />
 </g>
 <g
-   id="326514">
+   id="326514"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="254.5"
    y="105"
@@ -5134,7 +5295,7 @@
    id="text8149"><tspan
      id="tspan8147">326514 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="326514_3"
    d="M 258.95448,88.5 254.62436,96" />
 <path
@@ -5159,7 +5320,8 @@
    d="m 262.41858,88.5 4.33013,7.5" />
 </g>
 <g
-   id="326541">
+   id="326541"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="254.5"
    y="126"
@@ -5167,7 +5329,7 @@
    id="text8160"><tspan
      id="tspan8158">326541 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="326541_3"
    d="m 258.95448,109.5 -4.33012,7.5" />
 <path
@@ -5192,7 +5354,8 @@
    d="m 254.62436,114 12.12435,3" />
 </g>
 <g
-   id="345612">
+   id="345612"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="254.5"
    y="147"
@@ -5200,7 +5363,7 @@
    id="text8171"><tspan
      id="tspan8169">345612 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="345612_3"
    d="m 258.95448,130.5 -4.33012,7.5" />
 <path
@@ -5225,7 +5388,8 @@
    d="m 256.35641,132 10.3923,6" />
 </g>
 <g
-   id="345621">
+   id="345621"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="254.5"
    y="168"
@@ -5233,7 +5397,7 @@
    id="text8182"><tspan
      id="tspan8180">345621 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="345621_3"
    d="m 258.95448,151.5 -4.33012,7.5" />
 <path
@@ -5258,7 +5422,8 @@
    d="m 254.62436,156 12.12435,3" />
 </g>
 <g
-   id="346152">
+   id="346152"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="254.5"
    y="189"
@@ -5266,7 +5431,7 @@
    id="text8193"><tspan
      id="tspan8191">346152 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="346152_3"
    d="m 258.95448,172.5 -4.33012,7.5" />
 <path
@@ -5291,7 +5456,8 @@
    d="m 256.35641,174 10.3923,6" />
 </g>
 <g
-   id="346251">
+   id="346251"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="254.5"
    y="210"
@@ -5299,7 +5465,7 @@
    id="text8204"><tspan
      id="tspan8202">346251 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="346251_3"
    d="m 258.95448,193.5 -4.33012,7.5" />
 <path
@@ -5324,7 +5490,8 @@
    d="m 254.62436,198 12.12435,3" />
 </g>
 <g
-   id="346512">
+   id="346512"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="254.5"
    y="231"
@@ -5332,7 +5499,7 @@
    id="text8215"><tspan
      id="tspan8213">346512 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="346512_3"
    d="m 258.95448,214.5 -4.33012,7.5" />
 <path
@@ -5357,7 +5524,8 @@
    d="m 256.35641,216 10.3923,6" />
 </g>
 <g
-   id="346521">
+   id="346521"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="254.5"
    y="252"
@@ -5365,7 +5533,7 @@
    id="text8226"><tspan
      id="tspan8224">346521 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="346521_3"
    d="m 258.95448,235.5 -4.33012,7.5" />
 <path
@@ -5390,7 +5558,8 @@
    d="m 254.62436,240 12.12435,3" />
 </g>
 <g
-   id="351624">
+   id="351624"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="254.5"
    y="273"
@@ -5398,7 +5567,7 @@
    id="text8237"><tspan
      id="tspan8235">351624 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="351624_3"
    d="m 258.95448,256.5 -4.33012,7.5" />
 <path
@@ -5423,7 +5592,8 @@
    d="m 262.41858,256.5 4.33013,7.5" />
 </g>
 <g
-   id="351642">
+   id="351642"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="254.5"
    y="294"
@@ -5431,7 +5601,7 @@
    id="text8248"><tspan
      id="tspan8246">351642 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="351642_3"
    d="m 258.95448,277.5 -4.33012,7.5" />
 <path
@@ -5456,7 +5626,8 @@
    d="m 256.35641,279 10.3923,6" />
 </g>
 <g
-   id="352641">
+   id="352641"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="254.5"
    y="315"
@@ -5464,7 +5635,7 @@
    id="text8259"><tspan
      id="tspan8257">352641 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="352641_3"
    d="m 258.95448,298.5 -4.33012,7.5" />
 <path
@@ -5489,7 +5660,8 @@
    d="m 254.62436,303 12.12435,3" />
 </g>
 <g
-   id="354612">
+   id="354612"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="278.75"
    y="21"
@@ -5497,7 +5669,7 @@
    id="text8270"><tspan
      id="tspan8268">354612 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="354612_3"
    d="M 283.20448,4.5 278.87436,12" />
 <path
@@ -5522,7 +5694,8 @@
    d="m 280.60641,6 10.3923,6" />
 </g>
 <g
-   id="354621">
+   id="354621"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="278.75"
    y="42"
@@ -5530,7 +5703,7 @@
    id="text8281"><tspan
      id="tspan8279">354621 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="354621_3"
    d="M 283.20448,25.5 278.87436,33" />
 <path
@@ -5555,7 +5728,8 @@
    d="m 278.87436,30 12.12435,3" />
 </g>
 <g
-   id="356124">
+   id="356124"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="278.75"
    y="63"
@@ -5563,7 +5737,7 @@
    id="text8292"><tspan
      id="tspan8290">356124 bd</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="356124_3"
    d="M 283.20448,46.5 278.87436,54" />
 <path
@@ -5588,7 +5762,8 @@
    d="m 286.66858,46.5 4.33013,7.5" />
 </g>
 <g
-   id="356142">
+   id="356142"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="278.75"
    y="84"
@@ -5596,7 +5771,7 @@
    id="text8303"><tspan
      id="tspan8301">356142 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="356142_3"
    d="M 283.20448,67.5 278.87436,75" />
 <path
@@ -5621,7 +5796,8 @@
    d="m 280.60641,69 10.3923,6" />
 </g>
 <g
-   id="356214">
+   id="356214"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="278.75"
    y="105"
@@ -5629,7 +5805,7 @@
    id="text8314"><tspan
      id="tspan8312">356214 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="356214_3"
    d="M 283.20448,88.5 278.87436,96" />
 <path
@@ -5654,7 +5830,8 @@
    d="m 286.66858,88.5 4.33013,7.5" />
 </g>
 <g
-   id="356241">
+   id="356241"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="278.75"
    y="126"
@@ -5662,7 +5839,7 @@
    id="text8325"><tspan
      id="tspan8323">356241 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="356241_3"
    d="m 283.20448,109.5 -4.33012,7.5" />
 <path
@@ -5687,7 +5864,8 @@
    d="m 278.87436,114 12.12435,3" />
 </g>
 <g
-   id="356412">
+   id="356412"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="278.75"
    y="147"
@@ -5695,7 +5873,7 @@
    id="text8336"><tspan
      id="tspan8334">356412 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="356412_3"
    d="m 283.20448,130.5 -4.33012,7.5" />
 <path
@@ -5720,7 +5898,8 @@
    d="m 280.60641,132 10.3923,6" />
 </g>
 <g
-   id="356421">
+   id="356421"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="278.75"
    y="168"
@@ -5728,7 +5907,7 @@
    id="text8347"><tspan
      id="tspan8345">356421 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="356421_3"
    d="m 283.20448,151.5 -4.33012,7.5" />
 <path
@@ -5753,7 +5932,8 @@
    d="m 278.87436,156 12.12435,3" />
 </g>
 <g
-   id="361452">
+   id="361452"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="278.75"
    y="189"
@@ -5761,7 +5941,7 @@
    id="text8358"><tspan
      id="tspan8356">361452 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="361452_3"
    d="m 283.20448,172.5 -4.33012,7.5" />
 <path
@@ -5786,7 +5966,8 @@
    d="m 280.60641,174 10.3923,6" />
 </g>
 <g
-   id="361542">
+   id="361542"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="278.75"
    y="210"
@@ -5794,7 +5975,7 @@
    id="text8369"><tspan
      id="tspan8367">361542 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="361542_3"
    d="m 283.20448,193.5 -4.33012,7.5" />
 <path
@@ -5819,7 +6000,8 @@
    d="m 280.60641,195 10.3923,6" />
 </g>
 <g
-   id="362451">
+   id="362451"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="278.75"
    y="231"
@@ -5827,7 +6009,7 @@
    id="text8380"><tspan
      id="tspan8378">362451 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="362451_3"
    d="m 283.20448,214.5 -4.33012,7.5" />
 <path
@@ -5852,7 +6034,8 @@
    d="m 278.87436,219 12.12435,3" />
 </g>
 <g
-   id="362514">
+   id="362514"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="278.75"
    y="252"
@@ -5860,7 +6043,7 @@
    id="text8391"><tspan
      id="tspan8389">362514 bd</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="362514_3"
    d="m 283.20448,235.5 -4.33012,7.5" />
 <path
@@ -5885,7 +6068,8 @@
    d="m 286.66858,235.5 4.33013,7.5" />
 </g>
 <g
-   id="362541">
+   id="362541"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="278.75"
    y="273"
@@ -5893,7 +6077,7 @@
    id="text8402"><tspan
      id="tspan8400">362541 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="362541_3"
    d="m 283.20448,256.5 -4.33012,7.5" />
 <path
@@ -5918,7 +6102,8 @@
    d="m 278.87436,261 12.12435,3" />
 </g>
 <g
-   id="364152">
+   id="364152"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="278.75"
    y="294"
@@ -5926,7 +6111,7 @@
    id="text8413"><tspan
      id="tspan8411">364152 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="364152_3"
    d="m 283.20448,277.5 -4.33012,7.5" />
 <path
@@ -5951,7 +6136,8 @@
    d="m 280.60641,279 10.3923,6" />
 </g>
 <g
-   id="364251">
+   id="364251"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="278.75"
    y="315"
@@ -5959,7 +6145,7 @@
    id="text8424"><tspan
      id="tspan8422">364251 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="364251_3"
    d="m 283.20448,298.5 -4.33012,7.5" />
 <path
@@ -5984,7 +6170,8 @@
    d="m 278.87436,303 12.12435,3" />
 </g>
 <g
-   id="364512">
+   id="364512"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="303"
    y="21"
@@ -5992,7 +6179,7 @@
    id="text8435"><tspan
      id="tspan8433">364512 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="364512_3"
    d="M 307.45448,4.5 303.12436,12" />
 <path
@@ -6017,7 +6204,8 @@
    d="m 304.85641,6 10.3923,6" />
 </g>
 <g
-   id="364521">
+   id="364521"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="303"
    y="42"
@@ -6025,7 +6213,7 @@
    id="text8446"><tspan
      id="tspan8444">364521 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="364521_3"
    d="M 307.45448,25.5 303.12436,33" />
 <path
@@ -6050,7 +6238,8 @@
    d="m 303.12436,30 12.12435,3" />
 </g>
 <g
-   id="365142">
+   id="365142"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="303"
    y="63"
@@ -6058,7 +6247,7 @@
    id="text8457"><tspan
      id="tspan8455">365142 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="365142_3"
    d="M 307.45448,46.5 303.12436,54" />
 <path
@@ -6083,7 +6272,8 @@
    d="m 304.85641,48 10.3923,6" />
 </g>
 <g
-   id="365214">
+   id="365214"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="303"
    y="84"
@@ -6091,7 +6281,7 @@
    id="text8468"><tspan
      id="tspan8466">365214 bd</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="365214_3"
    d="M 307.45448,67.5 303.12436,75" />
 <path
@@ -6116,7 +6306,8 @@
    d="m 310.91858,67.5 4.33013,7.5" />
 </g>
 <g
-   id="365241">
+   id="365241"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="303"
    y="105"
@@ -6124,7 +6315,7 @@
    id="text8479"><tspan
      id="tspan8477">365241 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="365241_3"
    d="M 307.45448,88.5 303.12436,96" />
 <path
@@ -6149,7 +6340,8 @@
    d="m 303.12436,93 12.12435,3" />
 </g>
 <g
-   id="365412">
+   id="365412"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="303"
    y="126"
@@ -6157,7 +6349,7 @@
    id="text8490"><tspan
      id="tspan8488">365412 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="365412_3"
    d="m 307.45448,109.5 -4.33012,7.5" />
 <path
@@ -6182,7 +6374,8 @@
    d="m 304.85641,111 10.3923,6" />
 </g>
 <g
-   id="365421">
+   id="365421"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="303"
    y="147"
@@ -6190,7 +6383,7 @@
    id="text8501"><tspan
      id="tspan8499">365421 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="365421_3"
    d="m 307.45448,130.5 -4.33012,7.5" />
 <path
@@ -6215,7 +6408,8 @@
    d="m 303.12436,135 12.12435,3" />
 </g>
 <g
-   id="426153">
+   id="426153"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="303"
    y="168"
@@ -6223,7 +6417,7 @@
    id="text8512"><tspan
      id="tspan8510">426153 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="426153_4"
    d="m 310.91858,151.5 -7.79422,7.5" />
 <path
@@ -6248,7 +6442,8 @@
    d="m 307.45448,151.5 7.79423,7.5" />
 </g>
 <g
-   id="426351">
+   id="426351"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="303"
    y="189"
@@ -6256,7 +6451,7 @@
    id="text8523"><tspan
      id="tspan8521">426351 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="426351_4"
    d="m 310.91858,172.5 -7.79422,7.5" />
 <path
@@ -6281,7 +6476,8 @@
    d="m 303.12436,177 12.12435,3" />
 </g>
 <g
-   id="426513">
+   id="426513"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="303"
    y="210"
@@ -6289,7 +6485,7 @@
    id="text8534"><tspan
      id="tspan8532">426513 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="426513_4"
    d="m 310.91858,193.5 -7.79422,7.5" />
 <path
@@ -6314,7 +6510,8 @@
    d="m 307.45448,193.5 7.79423,7.5" />
 </g>
 <g
-   id="426531">
+   id="426531"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="303"
    y="231"
@@ -6322,7 +6519,7 @@
    id="text8545"><tspan
      id="tspan8543">426531 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="426531_4"
    d="m 310.91858,214.5 -7.79422,7.5" />
 <path
@@ -6347,7 +6544,8 @@
    d="m 303.12436,219 12.12435,3" />
 </g>
 <g
-   id="436512">
+   id="436512"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="303"
    y="252"
@@ -6355,7 +6553,7 @@
    id="text8556"><tspan
      id="tspan8554">436512 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="436512_4"
    d="m 310.91858,235.5 -7.79422,7.5" />
 <path
@@ -6380,7 +6578,8 @@
    d="m 304.85641,237 10.3923,6" />
 </g>
 <g
-   id="436521">
+   id="436521"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="303"
    y="273"
@@ -6388,7 +6587,7 @@
    id="text8567"><tspan
      id="tspan8565">436521 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="436521_4"
    d="m 310.91858,256.5 -7.79422,7.5" />
 <path
@@ -6413,7 +6612,8 @@
    d="m 303.12436,261 12.12435,3" />
 </g>
 <g
-   id="456123">
+   id="456123"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="303"
    y="294"
@@ -6421,7 +6621,7 @@
    id="text8578"><tspan
      id="tspan8576">456123 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="456123_4"
    d="m 310.91858,277.5 -7.79422,7.5" />
 <path
@@ -6446,7 +6646,8 @@
    d="m 307.45448,277.5 7.79423,7.5" />
 </g>
 <g
-   id="456132">
+   id="456132"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="303"
    y="315"
@@ -6454,7 +6655,7 @@
    id="text8589"><tspan
      id="tspan8587">456132 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="456132_4"
    d="m 310.91858,298.5 -7.79422,7.5" />
 <path
@@ -6479,7 +6680,8 @@
    d="m 304.85641,300 10.3923,6" />
 </g>
 <g
-   id="456231">
+   id="456231"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="327.25"
    y="21"
@@ -6487,7 +6689,7 @@
    id="text8600"><tspan
      id="tspan8598">456231 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="456231_4"
    d="M 335.16858,4.5 327.37436,12" />
 <path
@@ -6512,7 +6714,8 @@
    d="m 327.37436,9 12.12435,3" />
 </g>
 <g
-   id="456312">
+   id="456312"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="327.25"
    y="42"
@@ -6520,7 +6723,7 @@
    id="text8611"><tspan
      id="tspan8609">456312 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="456312_4"
    d="M 335.16858,25.5 327.37436,33" />
 <path
@@ -6545,7 +6748,8 @@
    d="m 329.10641,27 10.3923,6" />
 </g>
 <g
-   id="456321">
+   id="456321"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="327.25"
    y="63"
@@ -6553,7 +6757,7 @@
    id="text8622"><tspan
      id="tspan8620">456321 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="456321_4"
    d="M 335.16858,46.5 327.37436,54" />
 <path
@@ -6578,7 +6782,8 @@
    d="m 327.37436,51 12.12435,3" />
 </g>
 <g
-   id="462351">
+   id="462351"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="327.25"
    y="84"
@@ -6586,7 +6791,7 @@
    id="text8633"><tspan
      id="tspan8631">462351 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="462351_4"
    d="M 335.16858,67.5 327.37436,75" />
 <path
@@ -6611,7 +6816,8 @@
    d="m 327.37436,72 12.12435,3" />
 </g>
 <g
-   id="462513">
+   id="462513"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="327.25"
    y="105"
@@ -6619,7 +6825,7 @@
    id="text8644"><tspan
      id="tspan8642">462513 bd</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="462513_4"
    d="M 335.16858,88.5 327.37436,96" />
 <path
@@ -6644,7 +6850,8 @@
    d="m 331.70448,88.5 7.79423,7.5" />
 </g>
 <g
-   id="462531">
+   id="462531"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="327.25"
    y="126"
@@ -6652,7 +6859,7 @@
    id="text8655"><tspan
      id="tspan8653">462531 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="462531_4"
    d="m 335.16858,109.5 -7.79422,7.5" />
 <path
@@ -6677,7 +6884,8 @@
    d="m 327.37436,114 12.12435,3" />
 </g>
 <g
-   id="463152">
+   id="463152"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="327.25"
    y="147"
@@ -6685,7 +6893,7 @@
    id="text8666"><tspan
      id="tspan8664">463152 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="463152_4"
    d="m 335.16858,130.5 -7.79422,7.5" />
 <path
@@ -6710,7 +6918,8 @@
    d="m 329.10641,132 10.3923,6" />
 </g>
 <g
-   id="463251">
+   id="463251"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="327.25"
    y="168"
@@ -6718,7 +6927,7 @@
    id="text8677"><tspan
      id="tspan8675">463251 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="463251_4"
    d="m 335.16858,151.5 -7.79422,7.5" />
 <path
@@ -6743,7 +6952,8 @@
    d="m 327.37436,156 12.12435,3" />
 </g>
 <g
-   id="463512">
+   id="463512"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="327.25"
    y="189"
@@ -6751,7 +6961,7 @@
    id="text8688"><tspan
      id="tspan8686">463512 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="463512_4"
    d="m 335.16858,172.5 -7.79422,7.5" />
 <path
@@ -6776,7 +6986,8 @@
    d="m 329.10641,174 10.3923,6" />
 </g>
 <g
-   id="463521">
+   id="463521"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="327.25"
    y="210"
@@ -6784,7 +6995,7 @@
    id="text8699"><tspan
      id="tspan8697">463521 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="463521_4"
    d="m 335.16858,193.5 -7.79422,7.5" />
 <path
@@ -6809,7 +7020,8 @@
    d="m 327.37436,198 12.12435,3" />
 </g>
 <g
-   id="465132">
+   id="465132"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="327.25"
    y="231"
@@ -6817,7 +7029,7 @@
    id="text8710"><tspan
      id="tspan8708">465132 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="465132_4"
    d="m 335.16858,214.5 -7.79422,7.5" />
 <path
@@ -6842,7 +7054,8 @@
    d="m 329.10641,216 10.3923,6" />
 </g>
 <g
-   id="465213">
+   id="465213"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="327.25"
    y="252"
@@ -6850,7 +7063,7 @@
    id="text8721"><tspan
      id="tspan8719">465213 bd</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="465213_4"
    d="m 335.16858,235.5 -7.79422,7.5" />
 <path
@@ -6875,7 +7088,8 @@
    d="m 331.70448,235.5 7.79423,7.5" />
 </g>
 <g
-   id="465231">
+   id="465231"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="327.25"
    y="273"
@@ -6883,7 +7097,7 @@
    id="text8732"><tspan
      id="tspan8730">465231 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="465231_4"
    d="m 335.16858,256.5 -7.79422,7.5" />
 <path
@@ -6908,7 +7122,8 @@
    d="m 327.37436,261 12.12435,3" />
 </g>
 <g
-   id="465312">
+   id="465312"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="327.25"
    y="294"
@@ -6916,7 +7131,7 @@
    id="text8743"><tspan
      id="tspan8741">465312 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="465312_4"
    d="m 335.16858,277.5 -7.79422,7.5" />
 <path
@@ -6941,7 +7156,8 @@
    d="m 329.10641,279 10.3923,6" />
 </g>
 <g
-   id="465321">
+   id="465321"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="327.25"
    y="315"
@@ -6949,7 +7165,7 @@
    id="text8754"><tspan
      id="tspan8752">465321 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="465321_4"
    d="m 335.16858,298.5 -7.79422,7.5" />
 <path
@@ -6974,7 +7190,8 @@
    d="m 327.37436,303 12.12435,3" />
 </g>
 <g
-   id="562341">
+   id="562341"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="351.5"
    y="21"
@@ -6982,7 +7199,7 @@
    id="text8765"><tspan
      id="tspan8763">562341 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="562341_5"
    d="m 362.01666,6 -10.3923,6" />
 <path
@@ -7007,7 +7224,8 @@
    d="m 351.62436,9 12.12435,3" />
 </g>
 <g
-   id="562431">
+   id="562431"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="351.5"
    y="42"
@@ -7015,7 +7233,7 @@
    id="text8776"><tspan
      id="tspan8774">562431 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="562431_5"
    d="m 362.01666,27 -10.3923,6" />
 <path
@@ -7040,7 +7258,8 @@
    d="m 351.62436,30 12.12435,3" />
 </g>
 <g
-   id="563412">
+   id="563412"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="351.5"
    y="63"
@@ -7048,7 +7267,7 @@
    id="text8787"><tspan
      id="tspan8785">563412 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="563412_5"
    d="m 362.01666,48 -10.3923,6" />
 <path
@@ -7073,7 +7292,8 @@
    d="m 353.35641,48 10.3923,6" />
 </g>
 <g
-   id="563421">
+   id="563421"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="351.5"
    y="84"
@@ -7081,7 +7301,7 @@
    id="text8798"><tspan
      id="tspan8796">563421 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="563421_5"
    d="m 362.01666,69 -10.3923,6" />
 <path
@@ -7106,7 +7326,8 @@
    d="m 351.62436,72 12.12435,3" />
 </g>
 <g
-   id="564231">
+   id="564231"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="351.5"
    y="105"
@@ -7114,7 +7335,7 @@
    id="text8809"><tspan
      id="tspan8807">564231 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="564231_5"
    d="m 362.01666,90 -10.3923,6" />
 <path
@@ -7139,7 +7360,8 @@
    d="m 351.62436,93 12.12435,3" />
 </g>
 <g
-   id="564312">
+   id="564312"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="351.5"
    y="126"
@@ -7147,7 +7369,7 @@
    id="text8820"><tspan
      id="tspan8818">564312 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="564312_5"
    d="m 362.01666,111 -10.3923,6" />
 <path
@@ -7172,7 +7394,8 @@
    d="m 353.35641,111 10.3923,6" />
 </g>
 <g
-   id="564321">
+   id="564321"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="351.5"
    y="147"
@@ -7180,7 +7403,7 @@
    id="text8831"><tspan
      id="tspan8829">564321 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="564321_5"
    d="m 362.01666,132 -10.3923,6" />
 <path
@@ -7205,7 +7428,8 @@
    d="m 351.62436,135 12.12435,3" />
 </g>
 <g
-   id="623451">
+   id="623451"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="351.5"
    y="168"
@@ -7213,7 +7437,7 @@
    id="text8842"><tspan
      id="tspan8840">623451 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="623451_6"
    d="m 363.74871,156 -12.12435,3" />
 <path
@@ -7238,7 +7462,8 @@
    d="m 351.62436,156 12.12435,3" />
 </g>
 <g
-   id="623541">
+   id="623541"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="351.5"
    y="189"
@@ -7246,7 +7471,7 @@
    id="text8853"><tspan
      id="tspan8851">623541 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="623541_6"
    d="m 363.74871,177 -12.12435,3" />
 <path
@@ -7271,7 +7496,8 @@
    d="m 351.62436,177 12.12435,3" />
 </g>
 <g
-   id="624351">
+   id="624351"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="351.5"
    y="210"
@@ -7279,7 +7505,7 @@
    id="text8864"><tspan
      id="tspan8862">624351 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="624351_6"
    d="m 363.74871,198 -12.12435,3" />
 <path
@@ -7304,7 +7530,8 @@
    d="m 351.62436,198 12.12435,3" />
 </g>
 <g
-   id="624531">
+   id="624531"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="351.5"
    y="231"
@@ -7312,7 +7539,7 @@
    id="text8875"><tspan
      id="tspan8873">624531 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="624531_6"
    d="m 363.74871,219 -12.12435,3" />
 <path
@@ -7337,10 +7564,11 @@
    d="m 351.62436,219 12.12435,3" />
 </g>
 <g
-   id="625431">
+   id="625431"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <path
    style="fill:none;stroke:#cccccc;stroke-width:0.529167px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   d="m 251.13071,-3.5 v 336"
+   d="M 251.13071,-3.5 V 321.91667"
    id="path9524"
    sodipodi:nodetypes="cc" /><text
    x="351.5"
@@ -7349,7 +7577,7 @@
    id="text8886"><tspan
      id="tspan8884">625431 bp</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="625431_6"
    d="m 363.74871,240 -12.12435,3" />
 <path
@@ -7374,22 +7602,24 @@
    d="m 351.62436,240 12.12435,3" />
 <path
    style="fill:none;stroke:#cccccc;stroke-width:0.529167px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   d="m 129.4224,-3.5 v 336"
+   d="M 129.4224,-3.5 V 321.91667"
    id="path9520"
    sodipodi:nodetypes="cc" /><path
    style="fill:none;stroke:#cccccc;stroke-width:0.529167px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   d="M -6.0621777,213.27497 H 371.78066"
+   d="M 4.5211558,213.27497 H 371.78066"
    id="path9522"
    sodipodi:nodetypes="cc" /><path
    style="fill:none;stroke:#cccccc;stroke-width:0.529167px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   d="m 371.78066,-3.5 v 336"
+   d="M 371.78066,-3.5 V 321.91667"
    id="path9526"
    sodipodi:nodetypes="cc" /><path
    style="fill:none;stroke:#cccccc;stroke-width:0.529167px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   d="M -6.0621777,107.44167 H 406.16591"
-   id="path9528" /></g>
+   d="M 4.5211558,107.44167 H 406.16591"
+   id="path9528"
+   sodipodi:nodetypes="cc" /></g>
 <g
-   id="632541">
+   id="632541"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="351.5"
    y="273"
@@ -7397,7 +7627,7 @@
    id="text8897"><tspan
      id="tspan8895">632541 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="632541_6"
    d="m 363.74871,261 -12.12435,3" />
 <path
@@ -7422,7 +7652,8 @@
    d="m 351.62436,261 12.12435,3" />
 </g>
 <g
-   id="634521">
+   id="634521"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="351.5"
    y="294"
@@ -7430,7 +7661,7 @@
    id="text8908"><tspan
      id="tspan8906">634521 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="634521_6"
    d="m 363.74871,282 -12.12435,3" />
 <path
@@ -7455,7 +7686,8 @@
    d="m 351.62436,282 12.12435,3" />
 </g>
 <g
-   id="635241">
+   id="635241"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="351.5"
    y="315"
@@ -7463,7 +7695,7 @@
    id="text8919"><tspan
      id="tspan8917">635241 bd</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="635241_6"
    d="m 363.74871,303 -12.12435,3" />
 <path
@@ -7488,7 +7720,8 @@
    d="m 351.62436,303 12.12435,3" />
 </g>
 <g
-   id="635421">
+   id="635421"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="375.75"
    y="21"
@@ -7496,7 +7729,7 @@
    id="text8930"><tspan
      id="tspan8928">635421 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="635421_6"
    d="m 387.99871,9 -12.12435,3" />
 <path
@@ -7521,7 +7754,8 @@
    d="m 375.87436,9 12.12435,3" />
 </g>
 <g
-   id="645231">
+   id="645231"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="375.75"
    y="42"
@@ -7529,7 +7763,7 @@
    id="text8941"><tspan
      id="tspan8939">645231 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="645231_6"
    d="m 387.99871,30 -12.12435,3" />
 <path
@@ -7554,7 +7788,8 @@
    d="m 375.87436,30 12.12435,3" />
 </g>
 <g
-   id="645321">
+   id="645321"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="375.75"
    y="63"
@@ -7562,7 +7797,7 @@
    id="text8952"><tspan
      id="tspan8950">645321 </tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="645321_6"
    d="m 387.99871,51 -12.12435,3" />
 <path
@@ -7587,7 +7822,8 @@
    d="m 375.87436,51 12.12435,3" />
 </g>
 <g
-   id="653421">
+   id="653421"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="375.75"
    y="84"
@@ -7595,7 +7831,7 @@
    id="text8963"><tspan
      id="tspan8961">653421 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="653421_6"
    d="m 387.99871,72 -12.12435,3" />
 <path
@@ -7620,7 +7856,8 @@
    d="m 375.87436,72 12.12435,3" />
 </g>
 <g
-   id="654321">
+   id="654321"
+   transform="matrix(3,0,0,3,-400.10373,-329)">
 <text
    x="375.75"
    y="105"
@@ -7628,7 +7865,7 @@
    id="text8974"><tspan
      id="tspan8972">654321 bdpq</tspan></text>
 <path
-   style="fill:none;stroke:#0080FF;stroke-width:0.8px"
+   style="fill:none;stroke:#0080ff;stroke-width:0.8px"
    id="654321_6"
    d="m 387.99871,93 -12.12435,3" />
 <path
