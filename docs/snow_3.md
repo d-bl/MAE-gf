@@ -26,10 +26,10 @@ This [rose ground variant][T-3cc] looks like a three paired join, but has crossi
 
 ## Stars
 
-1: [![p-3pr-st-h]][t-3pr-st-h] 
-2: [![p-3pr-st-v]][t-3pr-st-v] 
-3: [![p-3pr-s2-v]][t-3pr-s2-v] 
-4: [![p-3pr-hlf-st]][t-3pr-hlf-st]
+1:&nbsp;[![p-3pr-st-h]][t-3pr-st-h] 
+2:&nbsp;[![p-3pr-st-v]][t-3pr-st-v] 
+3:&nbsp;[![p-3pr-s2-v]][t-3pr-s2-v] 
+4:&nbsp;[![p-3pr-hlf-st]][t-3pr-hlf-st]
 <p style="clear: both"></p> 
 
 Please note: star 4 uses the same GroundForge schema as half little snowflake a). For the 6 pairs version of star 2 and 4 see [_stars with 6 pairs_][page-6-stars].     
@@ -51,8 +51,8 @@ Please note: star 4 uses the same GroundForge schema as half little snowflake a)
 
 ## Triangles       
 
-1: [![p-3pr-tr-h]][t-3pr-tr-h] 
-2: [![p-3pr-tr-v]][t-3pr-tr-v]    
+1:&nbsp;[![p-3pr-tr-h]][t-3pr-tr-h] 
+2:&nbsp;[![p-3pr-tr-v]][t-3pr-tr-v]    
 <p style="clear: both"></p> 
 
 [p-3pr-tr-h]: ../images/snow_3/3pr-tr-h.png "horizontal triangle, family 321"
@@ -64,7 +64,7 @@ Please note: star 4 uses the same GroundForge schema as half little snowflake a)
 
 ## Fishes       
 
-1: [![p-3pr-fh-h]][t-3pr-fh-h] 
+1:&nbsp;[![p-3pr-fh-h]][t-3pr-fh-h] 
 <p style="clear: both"></p> 
 
 [p-3pr-fh-h]: ../images/snow_3/3pr-fh-h.png "fish, family 231"
@@ -73,9 +73,9 @@ Please note: star 4 uses the same GroundForge schema as half little snowflake a)
 
 ## Snowflakes
 
-1: [![p-3pr-sn-v]][t-3pr-sn-v] 
-2: [![p-3pr-sn-d]][t-3pr-sn-d] 
-3: [![p-3pr-123]][t-3pr-123]         
+1:&nbsp;[![p-3pr-sn-v]][t-3pr-sn-v] 
+2:&nbsp;[![p-3pr-sn-d]][t-3pr-sn-d] 
+3:&nbsp;[![p-3pr-123]][t-3pr-123]         
 <p style="clear: both"></p>   
 
 [p-3pr-sn-v]: ../images/snow_3/3pr-sn-v.png "snowflake, family 321"
@@ -92,16 +92,16 @@ Please note: star 4 uses the same GroundForge schema as half little snowflake a)
 
 A three-paired join can be made with a half little snowflake. See also page [_Little snowflakes_][page-little].     
 
-1: [![p-3pr-132]][t-3pr-132]  
+1:&nbsp;[![p-3pr-132]][t-3pr-132]  
 <p style="clear: both"></p>
 
 This snowflake can be used in several configurations.        
 The pricking of example a) is equivalent to no 47 from _Moderne Torchonspitze_, where it is presented rose-ground style. 
 
-a: [![half little snowflake 1][p-sn-half-1]][t-sn-half-1] 
-b: [![half little snowflake 2][p-sn-half-2]][t-sn-half-2] 
-c: [![half little snowflake 3][p-sn-half-3]][t-sn-half-3] 
-d: [![half little snowflake 4][p-sn-half-4]][t-sn-half-4] 
+a:&nbsp;[![half little snowflake 1][p-sn-half-1]][t-sn-half-1] 
+b:&nbsp;[![half little snowflake 2][p-sn-half-2]][t-sn-half-2] 
+c:&nbsp;[![half little snowflake 3][p-sn-half-3]][t-sn-half-3] 
+d:&nbsp;[![half little snowflake 4][p-sn-half-4]][t-sn-half-4] 
 <p style="clear: both"></p>
 
 [p-sn-half-1]: ../images/snow_3/g-sn-half-60-1.svg "h366, topologically equivalent to Moderne Torchonspitze no 47"
