@@ -101,7 +101,7 @@ The pricking of example a) is equivalent to no 47 from _Moderne Torchonspitze_, 
 a:&nbsp;[![half little snowflake 1][p-sn-half-1]][t-sn-half-1] 
 b:&nbsp;[![half little snowflake 2][p-sn-half-2]][t-sn-half-2] 
 c:&nbsp;[![half little snowflake 3][p-sn-half-3]][t-sn-half-3] 
-d:[![half little snowflake 4][p-sn-half-4]][t-sn-half-4] 
+d:&nbsp;[![half little snowflake 4][p-sn-half-4]][t-sn-half-4] 
 <p style="clear: both"></p>
 
 [p-sn-half-1]: ../images/snow_3/g-sn-half-60-1.svg "h366, topologically equivalent to Moderne Torchonspitze no 47"
