@@ -155,10 +155,10 @@ a:&nbsp;[![offset snowflake][p-G63]][t-63-43]
 b:&nbsp;[![37-01][P-G37]][T-37-01] 
 c:&nbsp;[![38-01][P-G38]][T-38-01] 
 d:&nbsp;[![stacked snowflakes][P-G03DV]][t-sn-st-22] 
-e:&nbsp;[![39-11][P-39v]][T-39-11] 
-<p style="clear: both"></p>
+e:&nbsp;[![39-11][P-39v]][T-39-11]       
 
-Please note the resemblance with [_paris grounds_][page-paris-alt] and ground d) with the [_stacked spiders_][page-st-sp].     
+Please note the resemblance with [_paris grounds_][page-paris-alt] and ground d) with the [_stacked spiders_][page-st-sp]. 
+<p style="clear: both"></p>
 
 [p-G63]: ../images/snow/G63.svg "offset snowflakes, ground 63" 
 [P-G37]: ../images/snow/G37.svg "ground 37"
