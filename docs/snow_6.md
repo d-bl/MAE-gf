@@ -69,7 +69,8 @@ Please note: GroundForge doesn't make a difference between star I and star II.
 
 ### Binche style
 
-[![star mirror][p-st-kh-M]][t-st-kh-m-b] [![star I and II][p-st-kh-I]][t-st-kh-i-b]        
+[![star mirror][p-st-kh-Mb]][t-st-kh-m-b] 
+[![star I and II][p-st-kh-Ib]][t-st-kh-i-b]        
 For the 3-pairs version of these stars, please see [_3-pair stars_][page-3-star].     
 <p style="clear: both"></p>
 
@@ -81,12 +82,15 @@ This star is a variant on the _snowflake with a narrow eye_ above.
 
 ### Spider style
 
-[![star mirror][p-st-kh-M]][t-st-kh-m-a] [![star I and II][p-st-kh-I]][t-st-kh-i-a]
+[![star mirror][p-st-kh-Ms]][t-st-kh-m-a] 
+[![star I and II][p-st-kh-Is]][t-st-kh-i-a] 
 <p style="clear: both"></p>
 
 [p-sna3]: ../images/snow_6/g-sna3.svg?align=left "star from narrow eyed spider"
-[p-st-kh-I]: ../images/snow_6/ST-KH-I.png "star I and II" 
-[p-st-kh-M]: ../images/snow_6/ST-KH-M.png "star mirror"
+[p-st-kh-Ib]: ../images/snow_6/ST-KH-I.png "star I and II" 
+[p-st-kh-Mb]: ../images/snow_6/ST-KH-M.png "star mirror"
+[p-st-kh-Is]: ../images/snow_6/ST-KH-I.png "star I and II" 
+[p-st-kh-Ms]: ../images/snow_6/ST-KH-M.png "star mirror"
 
 [t-sna3]: /GroundForge/stitches.html?patchWidth=24&patchHeight=24&tile=8-4-,x5-5,4-5-,7-15,-5x-,5-73&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=3&c1=ctc&a1=ctc&d2=ctctc&b2=rrctctcrr&c3=ctc&a3=ctc&d4=ctc&c4=ctc&a4=ctc&b5=llctctcll&d6=ctc&c6=ctc&a6=ctc
 
