@@ -111,10 +111,10 @@ d:&nbsp;[![][p-ex-v2]][t-ex-v2]
 
 a:&nbsp;[![swiss cheese][p-g44]][t-swiss] 
 b:&nbsp;[![bias ground][p-g35v]][t-pa3511]
-c:&nbsp;[![paris ground with snowflakes][p-g39v]][t-bs3912]
-<p style="clear: both"></p>
+c:&nbsp;[![paris ground with snowflakes][p-g39v]][t-bs3912]         
 
-Please note the resambles of ground b) with the [_bias ground_][page-bias-trad], ground c) with the [_diagonal placed little snowflakes_][page-snow4-diag] and [_alternative placed little snowflakes_][page-snow4-alt].     
+Please note the resambles of ground b) with the [_bias ground_][page-bias-trad], ground c) with the [_diagonal placed little snowflakes_][page-snow4-diag] and [_alternative placed little snowflakes_][page-snow4-alt].   
+<p style="clear: both"></p>
 
 [p-g44]: ../images/paris/G44.svg "swiss cheese"
 [p-g35v]: ../images/paris/G35v.svg "bias ground"
