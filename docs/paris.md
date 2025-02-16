@@ -70,7 +70,8 @@ This ground is also known as _Copenhagen hole_.
 
 ### Alternative arrangements
 
-[![G54][p-g54]][t-g54-1] [![G64][p-g64]][t-g64-1]
+a:&nbsp;[![G54][p-g54]][t-g54-1] 
+b:&nbsp;[![G64][p-g64]][t-g64-1] 
 
 [p-big-paris]: ../images/paris/g-big-paris.svg?align=left "big paris ground, 3412"
 [p-g54]: ../images/paris/G54.svg "alternative placing big paris ground 1, 5401"
@@ -84,7 +85,10 @@ This ground is also known as _Copenhagen hole_.
 
 ### Extension of big paris ground
 
-[![extension big paris][p-ex-big]][t-ex-big]  [![extension big paris with 3 pair join][p-ex-3p]][t-ex-3p]  [![][p-ex-v1]][t-ex-v1]  [![][p-ex-v2]][t-ex-v2]         
+a:&nbsp;[![extension big paris][p-ex-big]][t-ex-big] 
+b:&nbsp;[![extension big paris with 3 pair join][p-ex-3p]][t-ex-3p] 
+c:&nbsp;[![][p-ex-v1]][t-ex-v1] 
+d:&nbsp;[![][p-ex-v2]][t-ex-v2]         
 <p style="clear: both"></p>
 
 ### Extension of dropped stitch ground
