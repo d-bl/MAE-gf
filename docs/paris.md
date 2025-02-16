@@ -105,11 +105,26 @@ This ground is also known as _Copenhagen hole_.
 
 ## Another arrangement
 
-[![swiss cheese][p-g44]][t-swiss]
+a:&nbsp;[![swiss cheese][p-g44]][t-swiss] 
+b:&nbsp;[![bias ground][p-g35v]][t-pa3511]
+c:&nbsp;[![paris ground with snowflakes][p-g39v]][t-bs3912]
 <p style="clear: both"></p>
 
-[p-g44]: ../images/paris/G44.svg?align=left "swiss cheese"
+Please note the resambles of ground b) with the [_bias ground_][page-bias-trad], ground c) with the [_diagonal placed little snowflakes_][page-snow4-diag] and [_alternative placed little snowflakes_][page-snow4-alt].     
+
+[p-g44]: ../images/paris/G44.svg "swiss cheese"
+[p-g35v]: ../images/paris/G35v.svg "bias ground"
+[p-g39v]: ../images/paris/G39v.svg "paris ground with snowflakes"
+
 [t-swiss]: /GroundForge/stitches?patchWidth=16&patchHeight=16&e1=tctc&c1=ctcl&a1=ctcr&f2=ctc&d2=ctc&e3=ctct&c3=ctc&a3=ctc&tile=5-5-5-,---5-5,C-B-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
+
+[t-pa3511]: /GroundForge/stitches.html?patchWidth=16&patchHeight=16&tile=58-4&shiftColsSW=-3&shiftRowsSW=1&shiftColsSE=2&shiftRowsSE=1&d1=ctc&b1=crc&a1=clcr
+
+[t-bs3912]: /GroundForge/stitches.html?patchWidth=15&patchHeight=15&tile=7-4-,-5-5,5x-x&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=1&shiftRowsSE=3&c1=ctct&a1=ctct&d2=ctc&b2=ctc&a3=ctctc
+
+[page-bias-trad]: ../docs/bias#traditional-bias-ground
+[page-snow4-diag]: ../docs/snowflakes#snowflakes-diagonal
+[page-snow4-alt]: ../docs/snowflakes#other-arrangements
 
 ## Way of making
 
