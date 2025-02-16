@@ -138,24 +138,46 @@ Usually, the little snowflake is drawn as picture on the left, on a 60 degree gr
 
 ## Snowflakes diagonal
 
-[![diagonal snowflake][p-snow-diag]][t-snow-diag]
+a:&nbsp;[![diagonal snowflake][p-snow-diag]][t-snow-diag] 
+b:&nbsp;[![39-13][p-G39d]][t-3913] 
+<p style="clear: both"></p>
 
 [p-snow-diag]: ../images/snow/g-sn-dia.svg "diagonal snowflakes" 
+[p-G39d]: ../images/snow/G39d.svg "diagnonal snowflake"
+
 [t-snow-diag]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctc&c1=ctc&b1=ctc&a1=tctct&c2=ctc&b2=ctc&a2=ctc&tile=1011,114-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+
+[t-3913]: /GroundForge/stitches?patchWidth=30&patchHeight=30&tile=688,14-&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&c1=ct&b1=ctct&a1=ct&b2=ct&a2=ct&
 
 ## Other arrangements
 
-[![offset snowflake][p-G63]][t-63-43] 
-[![37-01][P-G37]][T-37-01] 
-[![38-01][P-G38]][T-38-01] 
+a:&nbsp;[![offset snowflake][p-G63]][t-63-43] 
+b:&nbsp;[![37-01][P-G37]][T-37-01] 
+c:&nbsp;[![38-01][P-G38]][T-38-01] 
+d:&nbsp;[![stacked snowflakes][P-G03DV]][t-sn-st-22] 
+e:&nbsp;[![39-11][P-39v]][T-39-11] 
+<p style="clear: both"></p>
 
-[p-G63]: ../images/snow/G63.svg "offset snowflakes, 6343" 
-[P-G37]: ../images/snow/G37.svg "3701"
-[P-G38]: ../images/snow/G38.svg "3801"
+Please note the resemblance with [_paris grounds_][page-paris-alt] and ground d) with the [_stacked spiders_][page-st-sp].     
+
+[p-G63]: ../images/snow/G63.svg "offset snowflakes, ground 63" 
+[P-G37]: ../images/snow/G37.svg "ground 37"
+[P-G38]: ../images/snow/G38.svg "ground 38"
+[P-G03DV]: ../images/snow/G03DV.svg "stacked snowflakes"
+[P-39v]: ../images/snow/G39v.svg "ground 39"
 
 [t-63-43]: /GroundForge/stitches?patchWidth=15&patchHeight=20&c1=ct&a1=ctct&d2=cl&b2=cr&c3=ctct&d4=ct&b4=ct&c5=ct&a5=ct&tile=5-5-,-5-5,--5-,-b-c,5-5-&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=5
+
 [T-37-01]: /GroundForge/stitches?patchWidth=20&patchHeight=20&c1=ctc&a1=ctc&b2=tctct&c3=ctc&a3=ctc&d4=-&b4=-&d5=ctctctc&b5=ctctctc&tile=5-5-,x5x-,4-7-,-5-5,-r-r&footsideStitch=ctctt&tileStitch=ctctctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=5&shiftColsSE=2&shiftRowsSE=5
+
 [T-38-01]: /GroundForge/stitches?patchWidth=20&patchHeight=20&e1=-&c1=ctc&a1=ctc&e2=-&b2=tctct&e3=ctctctc&c3=ctc&a3=ctc&tile=5-5-5-,x5x-r-,4-7-r-&footsideStitch=ctctt&tileStitch=ctctctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
+
+[T-sn-st-22]: /GroundForge/stitches.html?patchWidth=16&patchHeight=16&tile=5-5-,-5-5,5x-x,-7-4&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=0&shiftRowsSE=4&c1=ctct&a1=ctc&d2=ctc&b2=ctc&a3=ctc&d4=ctcl&b4=ctcr
+
+[T-39-11]: /GroundForge/stitches.html?patchWidth=15&patchHeight=15&tile=7-4-,-5-5,5x-x&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=1&shiftRowsSE=3&c1=ctcl&a1=ctc&d2=ctc&b2=ctc&a3=tctct
+
+[page-st-sp]: ../docs/spiders#stacked-spiders
+[page-paris-alt]: ../docs/paris#another-arrangement
 
 ## Binche Snowflake
 
