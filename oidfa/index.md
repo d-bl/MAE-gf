@@ -48,7 +48,7 @@ Please click on the picture to see how to make these grounds.
 
 ## Where it says that ...
 
-<table>
+<table class="oidfa">
   <tr>
     <th>in the bulletin</th>
     <th>please read</th></tr>
