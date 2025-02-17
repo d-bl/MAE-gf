@@ -53,12 +53,12 @@ Please click on the picture to see how to make these grounds.
     <th>in the bulletin</th>
     <th>please read</th></tr>
   <tr>
-    <td> We defined a stitch as something which starts and ends with a cross. The stitches in between can have no twists or can have one one more twists.</td>
+    <td>We defined a stitch as something which starts and ends with a cross. The stitches in between can have no twists or can have one one more twists.</td>
     <td>We defined a stitch as something which starts and ends with a cross. In between stitches zero, one or more twists can be made.</td>
   </tr>
   <tr>
-    <td>If you like to cover your pricking with a sticky plastic, please use a transparent one</td>
-    <td>if you like to cover your pricking with a sticky plastic, please use an uncoloured one. </td>
+    <td>If you like to cover your pricking with a sticky plastic, please use a transparent one.</td>
+    <td>If you like to cover your pricking with a sticky plastic, please use an uncoloured one.</td>
   </tr>
 </table>
 
