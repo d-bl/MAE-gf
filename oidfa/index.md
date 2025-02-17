@@ -28,7 +28,7 @@ title: links OIDFA Bulletin
 
 [GroundForge](https://d-bl.github.io/GroundForge/stitches)    
 
-### Meander and Earth
+## Meander and Earth
 
 Please click on the picture to see how to make these grounds.    
 
@@ -45,4 +45,20 @@ Please click on the picture to see how to make these grounds.
 [t-ec010]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=ctctctct&n1=ctctt&c1=clcr&b1=ctc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=clcr&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 <p style="clear: both"></p>
+
+## Where it says that ...
+
+<table>
+  <tr>
+    <th>in the bulletin</th>
+    <th>please read</th></tr>
+  <tr>
+    <td> We defined a stitch as something which starts and ends with a cross. The stitches in between can have no twists or can have one one more twists.</td>
+    <td>We defined a stitch as something which starts and ends with a cross. In between stitches zero, one or more twists can be made.</td>
+  </tr>
+  <tr>
+    <td>If you like to cover your pricking with a sticky plastic, please use a transparent one</td>
+    <td>if you like to cover your pricking with a sticky plastic, please use an uncoloured one. </td>
+  </tr>
+</table>
 
