@@ -93,12 +93,12 @@ test include met zonder erin, huh?
  %} 
  <p style="clear: both"></p>
  
-<span>a:&nbsp;</span>[![half little snowflake 1][p-sn-half-1]][t-sn-half-1] 
-<span>b:&nbsp;</span>[![half little snowflake 2][p-sn-half-2]][t-sn-half-2] 
-<span>c:&nbsp;</span>[![half little snowflake 3][p-sn-half-3]][t-sn-half-3] 
-<span>d:&nbsp;</span>[![half little snowflake 4][p-sn-half-4]][t-sn-half-4] 
-<span>e:&nbsp;</span>[![half little snowflake 5][p-sn-half-5]][t-sn-half-5] 
-<span>f:&nbsp;</span>[![half little snowflake 6][p-sn-half-6]][t-sn-half-6] 
+<span>a:&nbsp;[![half little snowflake 1][p-sn-half-1]][t-sn-half-1]</span> 
+<span>b:&nbsp;[![half little snowflake 2][p-sn-half-2]][t-sn-half-2]</span> 
+<span>c:&nbsp;[![half little snowflake 3][p-sn-half-3]][t-sn-half-3]</span>  
+<span>d:&nbsp;[![half little snowflake 4][p-sn-half-4]][t-sn-half-4]</span>  
+<span>e:&nbsp;[![half little snowflake 5][p-sn-half-5]][t-sn-half-5]</span>  
+<span>f:&nbsp;[![half little snowflake 6][p-sn-half-6]][t-sn-half-6]</span>  
 <p style="clear: both"></p>
 
 
@@ -123,7 +123,6 @@ test include met zonder erin, huh?
 [t-sn-half-6]: /GroundForge/stitches.html?patchWidth=15&patchHeight=25&tile=7-4-,x5x-,4xx-,x7x-,4-7-,x-x5,7-xx,x-x4&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=4&shiftRowsSE=8&c1=rctct&a1=ctc&b2=ctc&a3=ctc&b4=ctc&c5=lctct&a5=ctc&d6=ctc&a7=ctc&d8=ctc
 
 [page-little]: ../docs/snowflakes#half-little-snowflake
-
 
 
 ***
