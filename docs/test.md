@@ -60,6 +60,7 @@ test include met zonder erin, huh?
     alt="h366, topologically equivalent to Moderne Torchonspitze no 47"
     src="../images/snow_3/g-sn-half-60-1.svg"
     txt="a:"
+    title="proberen"
 %} 
 {% include numberedfig.html
     lnk="/GroundForge/stitches?patchWidth=15&patchHeight=20&paintStitches=ctctt&c1=ctctt&a1=ctct&b2=ct&a3=ct&b4=ctr&c5=ctct&a5=ctctt&b6=ct&c7=ct&b8=ctl&tile=6-C,-5-,B--,-C-,B-2,-5-,--C,-B-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=3&shiftRowsSE=8"
