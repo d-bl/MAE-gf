@@ -95,10 +95,10 @@ test include met zonder erin, huh?
  
 <span>a:&nbsp;[![half little snowflake 1][p-sn-half-1]][t-sn-half-1]</span> 
 <span>b:&nbsp;[![half little snowflake 2][p-sn-half-2]][t-sn-half-2]</span> 
-<span>c:&nbsp;[![half little snowflake 3][p-sn-half-3]][t-sn-half-3]</span>  
-<span>d:&nbsp;[![half little snowflake 4][p-sn-half-4]][t-sn-half-4]</span>  
-<span>e:&nbsp;[![half little snowflake 5][p-sn-half-5]][t-sn-half-5]</span>  
-<span>f:&nbsp;[![half little snowflake 6][p-sn-half-6]][t-sn-half-6]</span>  
+<span>c:&nbsp;[![half little snowflake 3][p-sn-half-3]][t-sn-half-3]</span> 
+<span>d:&nbsp;[![half little snowflake 4][p-sn-half-4]][t-sn-half-4]</span> 
+<span>e:&nbsp;[![half little snowflake 5][p-sn-half-5]][t-sn-half-5]</span> 
+<span>f:&nbsp;[![half little snowflake 6][p-sn-half-6]][t-sn-half-6]</span> 
 <p style="clear: both"></p>
 
 
