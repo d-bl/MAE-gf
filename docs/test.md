@@ -55,37 +55,37 @@ test include met zonder erin, huh?
 </table>
 
 ****
-{% include test.html
+{% include numberedfig.html
     lnk="/GroundForge/stitches?patchWidth=15&patchHeight=20&paintStitches=tctct&a1=ctc&b2=ctc&a3=tctct&b4=ctcrr&a5=ctctt&tile=7-,-5,B-,-C,B-,x-,x-,x-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=2&shiftRowsSE=4"
     alt="h366, topologically equivalent to Moderne Torchonspitze no 47"
     src="../images/snow_3/g-sn-half-60-1.svg"
     txt="a:"
 %} 
-{% include test.html
+{% include numberedfig.html
     lnk="/GroundForge/stitches?patchWidth=15&patchHeight=20&paintStitches=ctctt&c1=ctctt&a1=ctct&b2=ct&a3=ct&b4=ctr&c5=ctct&a5=ctctt&b6=ct&c7=ct&b8=ctl&tile=6-C,-5-,B--,-C-,B-2,-5-,--C,-B-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=3&shiftRowsSE=8"
     alt="h305"
     src="../images/snow_3/g-sn-half-60-2.svg"
     txt="b:"
 %} 
-{% include test.html
+{% include numberedfig.html
     lnk="/GroundForge/stitches?patchWidth=30&patchHeight=30&paintStitches=cttctt&i1=ctctt&g1=ctc&c1=ctc&a1=ctctt&j2=cttctt&f2=ctc&d2=ctc&i3=ctc&g3=ctcrr&c3=ctcll&a3=ctc&h4=ctc&f4=ctctt&d4=ctctt&b4=ctc&i5=ctc&e5=cttctt&a5=ctc&h6=ctcll&f6=ctc&d6=ctc&b6=ctcrr&tile=4-5x-x5-7-,x-x7-4x-x5,7-4x-x7-4-,x5-7-4-5x-,4x-x5x-x7-,x7-4-7-4x-&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=10&shiftRowsSE=6"
     alt="h362 honeycomb by P. Fouché"
     src="../images/snow_3/g-sn-half-60-3.svg"
     txt="c:"
 %} 
-{% include test.html
+{% include numberedfig.html
     lnk="/GroundForge/stitches?patchWidth=15&patchHeight=20&paintStitches=tctct&g1=ctc&c1=ctc&a1=tctct&h2=ctc&g2=ctc&f2=ctc&d2=ctc&c2=ctc&b2=ctc&tile=5-4---7-,-21C-B86&shiftColsSW=-4&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=2"
     alt="hw362"
     src="../images/snow_3/g-sn-half-45-4.svg"
     txt="d:"
  %} 
-{% include test.html
+{% include numberedfig.html
     lnk="/GroundForge/stitches.html?patchWidth=15&patchHeight=20&tile=834,4x-,173,7-x&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=4&c1=ctcll&b1=ctc&a1=ctc&a2=lctcl&c3=ctc&b3=ctcrr&a3=ctc&a4=rctcr"
     alt="hw365"
     src="../images/snow_3/g-sn-half-45-5.svg"
     txt="e:"   
  %} 
- {% include test.html
+ {% include numberedfig.html
     lnk="/GroundForge/stitches.html?patchWidth=15&patchHeight=25&tile=7-4-,x5x-,4xx-,x7x-,4-7-,x-x5,7-xx,x-x4&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=4&shiftRowsSE=8&c1=rctct&a1=ctc&b2=ctc&a3=ctc&b4=ctc&c5=lctct&a5=ctc&d6=ctc&a7=ctc&d8=ctc"
     alt="h363"
     src="../images/snow_3/g-sn-half-60-6.svg"
