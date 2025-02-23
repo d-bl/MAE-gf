@@ -128,7 +128,7 @@ The pricking of example a) is equivalent to no 47 from _Moderne Torchonspitze_, 
     src="../images/snow_3/g-sn-half-45-5.svg"
     txt="e:"
  %} 
- {% include numberedfig.html
+{% include numberedfig.html
     lnk="/GroundForge/stitches.html?patchWidth=15&patchHeight=25&tile=7-4-,x5x-,4xx-,x7x-,4-7-,x-x5,7-xx,x-x4&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=4&shiftRowsSE=8&c1=rctct&a1=ctc&b2=ctc&a3=ctc&b4=ctc&c5=lctct&a5=ctc&d6=ctc&a7=ctc&d8=ctc"
     title="h363"
     src="../images/snow_3/g-sn-half-60-6.svg"
