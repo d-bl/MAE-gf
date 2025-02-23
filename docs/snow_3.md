@@ -111,7 +111,7 @@ f:&nbsp;[![half little snowflake 6][p-sn-half-6]][t-sn-half-6]
 [p-sn-half-3]: ../images/snow_3/g-sn-half-60-3.svg "h362 honeycomb by P. Fouché"
 [p-sn-half-4]: ../images/snow_3/g-sn-half-45-4.svg "hw362"
 [p-sn-half-5]: ../images/snow_3/g-sn-half-45-5.svg "hw365"
-[p-sn-half-6]: ../images/snow_3/g-sn-half-60-6.svg "hw363"
+[p-sn-half-6]: ../images/snow_3/g-sn-half-60-6.svg "h363"
 
 [p-3pr-132]: ../images/snow_3/3pr-132.png "half little snowflake, familie 132"
 
