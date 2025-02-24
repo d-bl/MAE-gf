@@ -39,7 +39,7 @@ buttons test
   title="ook iets leuks"
 %}  
 
-test include met zonder erin, huh?
+test include tabel
 <table>
  {% include ctrl.html
   s1="ct"
@@ -93,14 +93,7 @@ test include met zonder erin, huh?
  %} 
  <p style="clear: both"></p>
 
-{% include numberedfig.html
-   lnk = [t-sn-half-1]
-   title = "h366"
-   src = [p-sn-half-1]
-   txt="a:"
- %}  
-
- 
+hieronder het origineel     
  
 <span>a:&nbsp;[![half little snowflake 1][p-sn-half-1]][t-sn-half-1]</span> 
 <span>b:&nbsp;[![half little snowflake 2][p-sn-half-2]][t-sn-half-2]</span> 
@@ -109,7 +102,6 @@ test include met zonder erin, huh?
 <span>e:&nbsp;[![half little snowflake 5][p-sn-half-5]][t-sn-half-5]</span> 
 <span>f:&nbsp;[![half little snowflake 6][p-sn-half-6]][t-sn-half-6]</span> 
 <p style="clear: both"></p>
-
 
 [p-sn-half-1]: ../images/snow_3/g-sn-half-60-1.svg "h366, topologically equivalent to Moderne Torchonspitze no 47"
 [p-sn-half-2]: ../images/snow_3/g-sn-half-60-2.svg "h305"
