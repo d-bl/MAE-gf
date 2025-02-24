@@ -94,7 +94,7 @@ test include met zonder erin, huh?
  <p style="clear: both"></p>
 
 {% include numberedfig.html
-   lnk = "[t-sn-half-1]"
+   lnk = [t-sn-half-1]
    title = "h366"
    src = [p-sn-half-1]
    txt="a:"
