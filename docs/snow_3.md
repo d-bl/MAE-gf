@@ -134,6 +134,7 @@ The pricking of example a) is equivalent to no 47 from _Moderne Torchonspitze_, 
     src="../images/snow_3/g-sn-half-60-6.svg"
     txt="f:"
  %} 
+<p style="clear: both"></p>
 
 [p-3pr-132]: ../images/snow_3/3pr-132.png "half little snowflake, familie 132"
 
