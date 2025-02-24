@@ -92,6 +92,15 @@ test include met zonder erin, huh?
     txt="f:"
  %} 
  <p style="clear: both"></p>
+
+{% include numberedfig.html
+   lnk = "[t-sn-half-1]"
+   title = "h366"
+   src = [p-sn-half-1]
+   txt="a:"
+ %}  
+
+ 
  
 <span>a:&nbsp;[![half little snowflake 1][p-sn-half-1]][t-sn-half-1]</span> 
 <span>b:&nbsp;[![half little snowflake 2][p-sn-half-2]][t-sn-half-2]</span> 
