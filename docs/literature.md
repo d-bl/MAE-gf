@@ -4,12 +4,15 @@ title: Literature
 ---
 
 # Literature
-Some of the publications listed here are mentioned on this website. Others are for more inspiration. Of course, this list is incomplete.             
+
+Some of the publications listed here are mentioned on this website. Others are for more inspiration. Of course, this list is incomplete.      
+
 * N. Andries: Naar de bron (Binche)      
 * N. Andries, H. de Kok, G Landuyt and others: Van speldengrond tot Turnhoutse kant    
 * B. Cook and G. Stott: The book of bobbin lace stitches            
-* Deutscher Klöppelverband e.V.: Moderne Gründe           
-* K. Egger: Neue Raster, neue Gründe: Klöppeln für Fortgeschrittene         https://tesselacedotcom.wordpress.com
+* Deutscher Klöppelverband e.V.: Moderne Gründe
+* Deutscher Klöppelverband e.V.: Torchon - Spitzentechnik, die begeistert     
+* K. Egger: Neue Raster, neue Gründe: Klöppeln für Fortgeschrittene      
 * V. Irvine: Developing a Mathematical Model for Bobbin Lace (paper)       
 * V. Irvine: Tesselace. See [Tools / Tessalations from templates](https://tesselacedotcom.wordpress.com/tools/inkscape-extension)
 * M. Kelly: Using modern grounds   
