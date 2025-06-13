@@ -39,10 +39,10 @@ Usually, the little snowflake is drawn as picture on the left, on a 60 degree gr
 [![0347-og][P-0347-og]][T-0347-og] 
 [![0381-og][P-0381-og]][T-0381-og] 
 [![0341-og][P-0341-og]][T-0341-og] 
-[![0304-og][P-0304-og]][T-0304-og] 
 [![0355-og][P-0355-og]][T-0355-og] 
 [![0301-og][P-0301-og]][T-0301-og] 
 [![0307-og][P-0307-og]][T-0307-og] 
+[![0304-og][P-0304-og]][T-0304-og] 
 [![0366-og][P-0366-og]][T-0366-og]
 <p style="clear: both"></p>
 
