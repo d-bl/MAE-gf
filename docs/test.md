@@ -65,7 +65,7 @@ test include tabel
     lnk="/GroundForge/stitches?patchWidth=15&patchHeight=20&paintStitches=ctctt&c1=ctctt&a1=ctct&b2=ct&a3=ct&b4=ctr&c5=ctct&a5=ctctt&b6=ct&c7=ct&b8=ctl&tile=6-C,-5-,B--,-C-,B-2,-5-,--C,-B-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=3&shiftRowsSE=8"
     title="h305"
     src="../images/snow_3/g-sn-half-60-2.svg"
-    txt="b:"
+    txt="wat gebeurt er als ik een hele lange tekst maak die langer is dan het plaatje?"
 %} 
 {% include captionfig.html
     lnk="/GroundForge/stitches?patchWidth=30&patchHeight=30&paintStitches=cttctt&i1=ctctt&g1=ctc&c1=ctc&a1=ctctt&j2=cttctt&f2=ctc&d2=ctc&i3=ctc&g3=ctcrr&c3=ctcll&a3=ctc&h4=ctc&f4=ctctt&d4=ctctt&b4=ctc&i5=ctc&e5=cttctt&a5=ctc&h6=ctcll&f6=ctc&d6=ctc&b6=ctcrr&tile=4-5x-x5-7-,x-x7-4x-x5,7-4x-x7-4-,x5-7-4-5x-,4x-x5x-x7-,x7-4-7-4x-&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=10&shiftRowsSE=6"
