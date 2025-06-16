@@ -181,7 +181,7 @@ Usually, the little snowflake is drawn as picture on the left, on a 60 degree gr
 {% include captionfig.html
     lnk="/GroundForge/stitches.html?patchWidth=15&patchHeight=15&tile=7-4-,-5-5,5x-x&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=1&shiftRowsSE=3&c1=ctcl&a1=ctc&d2=ctc&b2=ctc&a3=tctct"
     title="ground 39"
-    src="./images/snow/G39v.svg"
+    src="../images/snow/G39v.svg"
     txt="other arrangement e"
 %} 
 <p style="clear: both"></p>
