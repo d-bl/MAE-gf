@@ -4,5 +4,5 @@
     <a href="{{ include.lnk }}">  
   <img alt="{{ include.alt }}" src="{{ include.src }}"  title="{{ include.title }}" class="clpic" >
   </a>
-    <figcaption>{{include.txt}}</figcaption>
+  
 </figure>
