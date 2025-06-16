@@ -79,7 +79,7 @@ test include tabel
     src="../images/snow_3/g-sn-half-45-4.svg"
     txt="d:"
  %} 
-{% include numberedfig.html
+{% include captionfig.html
     lnk="/GroundForge/stitches.html?patchWidth=15&patchHeight=20&tile=834,4x-,173,7-x&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=4&c1=ctcll&b1=ctc&a1=ctc&a2=lctcl&c3=ctc&b3=ctcrr&a3=ctc&a4=rctcr"
     title="hw365"
     src="../images/snow_3/g-sn-half-45-5.svg"
