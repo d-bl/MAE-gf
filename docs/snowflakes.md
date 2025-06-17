@@ -71,6 +71,7 @@ Usually, the little snowflake is drawn as picture on the left, on a 60 degree gr
 
 ![little snowflake crossed][p-sn-cr]
 
+[![0305-kg][P-0305-kg]][T-0305-kg]
 [![0306-kg][P-0306-kg]][T-0306-kg] 
 [![0356-kg][P-0356-kg]][T-0356-kg] 
 [![0381-ng][P-0381-ng]][T-0381-ng] 
@@ -84,6 +85,7 @@ Usually, the little snowflake is drawn as picture on the left, on a 60 degree gr
 <p style="clear: both"></p>
 
 [p-sn-cr]: ../images/snow/g-sn-cr.svg?align=right "little snowflake, crossed"
+[P-0305-kg]: ../images/snow/0305-kg.png "0305-K"
 [P-0306-kg]: ../images/snow/0306-kg.png "0306-K"
 [P-0356-kg]: ../images/snow/0356-kg.png "0356-K"
 [P-0381-ng]: ../images/snow/0381-ng.png "0381-N"
@@ -95,7 +97,8 @@ Usually, the little snowflake is drawn as picture on the left, on a 60 degree gr
 [P-0343-dg]: ../images/snow/0343-dg.png "0343-D"
 [P-0366-ng]: ../images/snow/0366-ng.png "0366-N"
 
-[T-0306-kg]: /GroundForge/stitches?patchWidth=24&patchHeight=24&e1=c&c1=c&h2=tctct&f2=c&d2=tctct&b2=c&g3=cl&a3=cr&h4=tct&tile=--B-C---,-E-5-O-K,5-----5-,-------5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[T-0305-kg]: /GroundForge/stitches?patchWidth=24&patchHeight=24&e1=c&c1=c&h2=tctct&f2=c&d2=tctct&b2=c&g3=cl&a3=cr&h4=tct&tile=--B-C---,-E-5-O-K,5-----5-,-------5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[T-0306-kg]: /GroundForge/stitches?patchWidth=24&patchHeight=24&c1=c&e1=c&b2=c&d2=tctc&f2=c&h2=ctct&a3=cr&g3=cl&h4=tct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=--B-C---,-E-5-O-K,5-----5-,-------5
 [T-0356-kg]: /GroundForge/stitches?patchWidth=20&patchHeight=20&e1=c&c1=c&h2=ctct&f2=c&d2=tctc&b2=c&g3=cl&a3=cr&h4=ctc&tile=--B-C---,-E-5-O-K,5-----5-,-------5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [T-0381-ng]: /GroundForge/stitches?patchWidth=20&patchHeight=20&e1=ct&c1=ct&h2=ct&f2=ct&d2=ct&b2=ct&g3=ct&a3=ct&h4=ct&tile=--B-C---,-E-5-O-K,5-----5-,-------5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [T-0309-ng]: /GroundForge/stitches?patchWidth=24&patchHeight=24&e1=c&c1=c&h2=ctc&f2=tct&d2=ctc&b2=tct&g3=cl&a3=cr&h4=tct&tile=--B-C---,-E-5-O-K,5-----5-,-------5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
