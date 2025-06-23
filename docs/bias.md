@@ -185,12 +185,12 @@ See also [mrs Whiting's index][L-whiting]: E6.
 Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter may give nice results in two colours. The placing of the units in alternating directions is also shown in mrs Irvine's paper _Developing a Mathematical Model for Bobbin Lace_. 
 <p style="clear: both"></p>
 
-[![same direction][pic-0228-OG]][T-0228-OG]
-[![alternating][pic-0228-OGy]][T-0228-OGy]  
+[![same direction][pic-02-OG]][T-0228-OG]
+[![alternating][pic-02-OGy]][T-0228-OGy]  
 * [example VI][T-0267-OGy]
 
-[pic-0228-OG]: ../images/bias/g-0228-OG.svg "units in same direction, 0228-N"
-[pic-0228-OGy]: ../images/bias/g-0228-OGy.svg "units in alternating directions, 0228-N"
+[pic-02-OG]: ../images/bias/g-02-OG.svg "units in same direction, 0228-N"
+[pic-02-OGy]: ../images/bias/g-02-OGy.svg "units in alternating directions, 0228-N"
 [foto-0228-OGy]: ../images/bias/g-0228-foto.jpg?align=right "solo units placed in alternating directions, 0228-N"
 [T-0228-OG]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=tct&b1=ctc&d1=ctc&a2=ctc&c2=ctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=86-5,4-5-
 [T-0228-OGy]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=tct&b1=ctc&d1=ctc&a2=ctc&c2=ctc&b3=ctc&c3=tct&d3=ctc&a4=ctc&c4=ctc&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=0&shiftRowsSW=4&tile=15-2,7-5-,-586,5-4-
@@ -198,11 +198,11 @@ Take just one unit of the Bias ground and place them all in the same direction, 
 
 ### Crossed
 
-[![alternating and cross][p-0248]][t-0248]
+[![alternating and cross][p-02-YQ2]][t-0248]
 Take one unit of the Bias ground, place them in alternating directions, and cross at the corners.            
 <p style="clear: both"></p>
 
-[p-0248]: ../images/bias/g-02YQ2.svg?align=left "alternating and crossed, 0248-N"
+[p-02-YQ2]: ../images/bias/g-02-YQ2.svg?align=left "alternating and crossed, 0248-N"
 [t-0248]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctc&b1=ctc&a1=tct&d2=c&c2=ctc&b2=c&a2=ctc&d3=ctc&c3=tct&b3=ctc&d4=c&c4=ctc&b4=c&a4=ctc&tile=88-4,4831,-117,3178,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Double bias
