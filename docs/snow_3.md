@@ -52,7 +52,7 @@ This [rose ground variant][T-3cc] looks like a three paired join, but has crossi
 %} 
 <p style="clear: both"></p> 
 
-Please note: star d uses the same GroundForge schema as half little snowflake a). For the 6 pairs version of star 2 and 4 see [_stars with 6 pairs_][page-6-stars].     
+Please note: star d uses the same GroundForge schema as half little snowflake a). For the 6 pairs version of star b and d see [_stars with 6 pairs_][page-6-stars].     
 
 [page-6-stars]: ../docs/snow_6#stars
 
@@ -111,7 +111,7 @@ A three-paired join can be made with a half little snowflake. See also page [_Li
 <p style="clear: both"></p>
 
 This snowflake can be used in several configurations.        
-The pricking of example a) is equivalent to no 47 from _Moderne Torchonspitze_, where it is presented rose-ground style. 
+The pricking of example a is equivalent to no 47 from _Moderne Torchonspitze_, where it is presented rose-ground style. 
 
 {% include captionfig.html
     lnk="/GroundForge/stitches?patchWidth=15&patchHeight=20&paintStitches=tctct&a1=ctc&b2=ctc&a3=tctct&b4=ctcrr&a5=ctctt&tile=7-,-5,B-,-C,B-,x-,x-,x-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=2&shiftRowsSE=4"
