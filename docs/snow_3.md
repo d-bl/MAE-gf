@@ -30,29 +30,29 @@ This [rose ground variant][T-3cc] looks like a three paired join, but has crossi
     lnk="/GroundForge/stitches?patchWidth=8&patchHeight=12&d1=c&b1=ctct&l2=ctctrrr&d2=crclcrrr&c2=crclc&b2=ctcttt&a2=ctctl&d3=cttt&k4=ctct&c4=c&l5=ctctrr&k5=ctctrr&d5=clcrc&c5=clcrclll&a5=ctctll&c6=cttt&footside=x4,48,xx,x-,1z,xw&tile=-5,68,-7,5-,12,4-&headside=-x,V8,YX,7X,17,XX&footsideStitch=ctct&tileStitch=ctc&headsideStitch=ctct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6"
     title="horizontal star, family 321"
     src="../images/snow_3/3pr-st-h.png"
-    txt="star 1"
+    txt="star a"
 %} 
 {% include captionfig.html
     lnk="/GroundForge/stitches?patchWidth=12&patchHeight=20&b1=clcrc&a1=c&d3=clcrclll&a3=cttt&c4=c&b4=crclc&d6=crclcrrr&c6=cttt&tile=76x-,yxxy,6-x4,x24-,xxww,x-27&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6"
     title="vertical star, family 321"
     src="../images/snow_3/3pr-st-v.png"
-    txt="star 2"
+    txt="star b"
 %} 
 {% include captionfig.html
     lnk="/GroundForge/stitches?patchWidth=12&patchHeight=20&b1=ct&a1=c&d3=lclll&a3=cttt&c4=c&b4=ct&d6=rcrrr&c6=cttt&tile=76x-,yxxy,6-x4,x24-,xxww,x-27&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6"
     title="vertical star 2, family 231"
     src="../images/snow_3/3pr-s2-v.png"
-    txt="star 3"
+    txt="star c"
 %} 
 {% include captionfig.html
     lnk="/GroundForge/stitches.html?patchWidth=15&patchHeight=25&tile=7-,-5,B-,-C,B-,x-,x-,x-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=2&shiftRowsSE=4&a1=c&b2=clcr&a3=ctc&b4=clcrr&a5=ctt"
     title="star with centre stitch, family 123"
     src="../images/snow_3/3pr-hlf-st.png"
-    txt="star 4"
+    txt="star d"
 %} 
 <p style="clear: both"></p> 
 
-Please note: star 4 uses the same GroundForge schema as half little snowflake a). For the 6 pairs version of star 2 and 4 see [_stars with 6 pairs_][page-6-stars].     
+Please note: star d uses the same GroundForge schema as half little snowflake a). For the 6 pairs version of star 2 and 4 see [_stars with 6 pairs_][page-6-stars].     
 
 [page-6-stars]: ../docs/snow_6#stars
 
@@ -62,13 +62,13 @@ Please note: star 4 uses the same GroundForge schema as half little snowflake a)
     lnk="/GroundForge/stitches?patchWidth=12&patchHeight=12&b1=ctcttt&b2=ctc&a2=ctcrrr&a3=ctcttt&b4=ctclll&a4=ctc&tile=-4,68,7-,12&tileStitch=ctc&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4"
     title="horizontal triangle, family 321"
     src="../images/snow_3/3pr-tr-h.png"
-    txt="triangle 1"
+    txt="triangle a"
 %} 
 {% include captionfig.html
     lnk="/GroundForge/stitches?patchWidth=10&patchHeight=10&c1=ctc&a1=ctcttt&d2=ctcrrr&tile=B-C-,---5&tileStitch=ctc&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2"
     title="vertical triangle, family 321"
     src="../images/snow_3/3pr-tr-v.png"
-    txt="triangle 2"
+    txt="triangle b"
 %} 
 <p style="clear: both"></p> 
 
@@ -77,7 +77,7 @@ Please note: star 4 uses the same GroundForge schema as half little snowflake a)
     lnk="/GroundForge/stitches?patchWidth=8&patchHeight=12&d1=ctc&b1=ctct&l2=ctctrrr&d2=ctcrrr&c2=ctc&b2=ctcttt&a2=ctctl&d3=ctcttt&k4=ctct&c4=ctc&l5=ctctrr&k5=ctctrr&d5=ctc&c5=ctclll&a5=ctctll&c6=ctcttt&footside=x4,48,xx,x-,1z,xw&tile=-5,68,-7,5-,12,4-&headside=-x,V8,YX,7X,17,XX&footsideStitch=ctct&tileStitch=ctc&headsideStitch=ctct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6"
     title="fish, family 231"
     src="../images/snow_3/3pr-fh-h.png"
-    txt="fish 1"
+    txt="fish a"
 %} 
 <p style="clear: both"></p> 
 
@@ -87,19 +87,19 @@ Please note: star 4 uses the same GroundForge schema as half little snowflake a)
     lnk="/GroundForge/stitches?patchWidth=12&patchHeight=20&b1=ctcr&a1=cl&d3=ctclll&a3=cttt&c4=cr&b4=ctcl&d6=ctcrrr&c6=cttt&tile=76x-,yxxy,6-x4,x24-,xxww,x-27&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6"
     title="snowflake, family 321"
     src="../images/snow_3/3pr-sn-v.png"
-    txt="snowflake 1"
+    txt="snowflake a"
 %} 
 {% include captionfig.html
     lnk="/GroundForge/stitches?patchWidth=17&patchHeight=20&e1=cl&a1=cr&e2=ctctrr&d2=ctc&b2=ctcrrr&a2=ctcl&d3=cttt&b3=cttt&c4=ctcttt&d5=cr&b5=cl&e6=ctc&d6=ctctll&b6=ctcr&a6=ctclll&e7=cttt&a7=cttt&f8=ctcttt&tile=c---b-,m9-l8-,-7-4--,--5---,-b-c--,0f-1h-,4---7-,-----5&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=6&shiftRowsSE=8"
     title="diagonal snowflake, family 321"
     src="../images/snow_3/3pr-sn-d.png"
-    txt="snowflake 2"
+    txt="snowflake b"
 %} 
 {% include captionfig.html
     lnk="/GroundForge/stitches?patchWidth=17&patchHeight=20&paintStitches=ctct&b1=ctc&b2=ctc&a2=ctc&c3=ctcr&b3=ctc&b4=ctct&tile=-1z,58-,-79,z4-,-x-&shiftColsSW=0&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=2"
     title="familie 123"
     src="../images/snow_3/3pr-123.png"
-    txt="snowflake 3"
+    txt="snowflake c"
 %} 
 <p style="clear: both"></p>   
 
