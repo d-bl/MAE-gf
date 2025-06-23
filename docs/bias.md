@@ -18,6 +18,7 @@ title: Bias grounds
 * [Short bias](#short-bias)         
 ** [Solo](#solo)     
 ** [Crossed](#crossed)
+* [Alternate bias](#alternated-bias)
 * [Double bias](#double-bias)
 * [Bias with vertical](#bias-with-vertical)
 * [Stretched](#stretched)
@@ -185,7 +186,7 @@ See also [mrs Whiting's index][L-whiting]: E6.
 Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter may give nice results in two colours. The placing of the units in alternating directions is also shown in mrs Irvine's paper _Developing a Mathematical Model for Bobbin Lace_. 
 <p style="clear: both"></p>
 
-[![same direction][pic-02-OG]][T-0228-OG]
+[![same direction][pic-02-OG]][T-0228-OG] 
 [![alternating][pic-02-OGy]][T-0228-OGy]  
 * [example VI][T-0267-OGy]
 
@@ -198,12 +199,23 @@ Take just one unit of the Bias ground and place them all in the same direction, 
 
 ### Crossed
 
-[![alternating and cross][p-02-YQ2]][t-0248]
+[![alternating and cross][p-02-YQ2]][t-0248-YQ2]
 Take one unit of the Bias ground, place them in alternating directions, and cross at the corners.            
 <p style="clear: both"></p>
 
 [p-02-YQ2]: ../images/bias/g-02-YQ2.svg?align=left "alternating and crossed, 0248-N"
-[t-0248]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctc&b1=ctc&a1=tct&d2=c&c2=ctc&b2=c&a2=ctc&d3=ctc&c3=tct&b3=ctc&d4=c&c4=ctc&b4=c&a4=ctc&tile=88-4,4831,-117,3178,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[t-0248-YQ2]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctc&b1=ctc&a1=tct&d2=c&c2=ctc&b2=c&a2=ctc&d3=ctc&c3=tct&b3=ctc&d4=c&c4=ctc&b4=c&a4=ctc&tile=88-4,4831,-117,3178,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+
+## Alternated bias
+[![alternated][p-02-Y1a]][t-0221-Y1a] 
+[![alternated places offset][p-02-Y1b]][t-0221-Y1b]
+<p style="clear: both"></p>
+
+[p-02-Y1a]: ../images/bias/g-02-Y1a.svg "alternated, 0221-N"
+[p-02-Y1b]: ../images/bias/g-02-Y1b.svg "alternated and offset, 0221-N"
+
+[t-0221-Y1a]: /GroundForge/stitches.html?patchWidth=15&patchHeight=15&tile=115-,-786,&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&c1=ctct&b1=ct&a1=ctct&d2=ctct&c2=ct&b2=ctct
+[t-0221-Y1b]: /GroundForge/stitches.html?patchWidth=15&patchHeight=15&tile=14-,8-2,-58&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=3&shiftRowsSE=1&b1=ctct&a1=ctct&c2=ctct&a2=ctct&c3=ct&b3=ctct
 
 ## Double bias
 
