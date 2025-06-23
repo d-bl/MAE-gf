@@ -214,7 +214,7 @@ Take one unit of the Bias ground, place them in alternating directions, and cros
 [p-02-Y1a]: ../images/bias/g-02-Y1a.svg "alternated, 0221-N"
 [p-02-Y1b]: ../images/bias/g-02-Y1b.svg "alternated and offset, 0221-N"
 
-[t-0221-Y1a]: /GroundForge/stitches.html?patchWidth=15&patchHeight=15&tile=115-,-786,&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&c1=ctct&b1=ct&a1=ctct&d2=ctct&c2=ct&b2=ctct
+[t-0221-Y1a]: /GroundForge/stitches.html?patchWidth=15&patchHeight=15&tile=14-2,8-58&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=ctct&b1=ctct&a1=ct&d2=ct&c2=ctct&a2=ctct
 [t-0221-Y1b]: /GroundForge/stitches.html?patchWidth=15&patchHeight=15&tile=14-,8-2,-58&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=3&shiftRowsSE=1&b1=ctct&a1=ctct&c2=ctct&a2=ctct&c3=ct&b3=ctct
 
 ## Double bias
