@@ -11,6 +11,7 @@ title: Spiders
 * [Torchon spiders](#torchon-spiders)
 * [Spiders with an eye](#spiders-with-an-eye)
 * [Spiders with a narrow eye](#spiders-with-a-narrow-eye)
+* [Spiders with outgoing pairs](#spiders-with-outgoing-pairs)
 * [Binche spiders](#binche-spiders)
 * [Stacked spiders](#stacked-spiders)
      
@@ -105,6 +106,16 @@ For a Binche style spider with narrow eye, please see page [_snowflakes_][page-s
 [t-snq3st]: /GroundForge/stitches?patchWidth=16&patchHeight=16&h1=clc&f1=crc&c1=ctct&h2=ctt&g2=ctc&f2=ctt&e2=rcl&d2=rctct&c2=ctc&b2=lctct&a2=lcr&h3=ctc&f3=ctc&e3=rctct&d3=ctc&b3=ctc&a3=lctct&h4=lctct&g4=ctc&f4=rctct&e4=rrclcrc&d4=ttc&c4=ctc&b4=ttc&a4=llcrclc&tile=--5--7-4,C632B831,66-224-7,31583256&tileStitch=ctc&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 [t-sp-narrow-eye]: /GroundForge/stitches?patchWidth=16&patchHeight=16&a1=ctc&b1=ctc&d1=ctc&e1=ctc&f1=ctc&a2=ctc&e2=ctc&a3=ctc&b3=ctc&d3=ctc&e3=ctc&f3=ctc&a4=ctcrr&c4=ttctc&e4=ctcll&b5=ctc&d5=ctc&f5=ctctt&tile=86-215,4---7-,1C-B83,7-5-4-,-5-5-5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=5
+
+## Spiders with outgoing pairs
+
+### in a diamond
+
+[![spider with outgoing pairs][p-sbq3]][t-sbq3]
+
+[p-sbq3]: ../images/spiders/g-sbq3.svg "spider with outgoing pairs, in ring"
+
+[t-sbq3]: /GroundForge/stitches.html?patchWidth=25&patchHeight=25&tile=---X-5---5---5-X,---XY-W-Y-W-Y-WX,V3Z4---5---5---7,5-5---Y-W-Y-W---,-5-WV6VV-5-ZZ2ZY,Y-W-Y---5-5---W-,---5---0Z5V9---5,W-Y-W-YX---XW-Y-&shiftColsSW=-8&shiftRowsSW=8&shiftColsSE=8&shiftRowsSE=8&n1=ctc&j1=ttctctt&f1=ctc&p3=ctc&l3=rrctcll&h3=llctcrr&d3=ctc&b3=ctc&c4=ctc&a4=ctc&n5=ttctctt&j5=ctc&f5=ttctctt&b5=ctc&k6=ctc&i6=ctc&p7=rrctcll&l7=ctc&j7=ctc&h7=ctc&d7=llctcrr
 
 ## Binche spiders
 
