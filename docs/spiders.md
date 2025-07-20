@@ -112,7 +112,7 @@ For a Binche style spider with narrow eye, please see page [_snowflakes_][page-s
 
 [p-sb3]: ../images/spiders/g-sb3.svg "spider with outgoing pairs"
 
-[t-sb3]: /GroundForge/pattern.html?patchWidth=16&patchHeight=16&tile=4-5-73,76-24-,-158-5,5x-x5-&shiftColsSW=-3&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=4&f1=tctct&e1=ctc&c1=ctc&a1=ctc&e2=ctcll&d2=ctc&b2=ctc&a2=ctcrr&f3=ctctt&d3=ctc&c3=tctct&b3=ctc&e4=ctcrr&a4=ctcll
+[t-sb3]: /GroundForge/stitches.html?patchWidth=16&patchHeight=16&tile=4-5-73,76-24-,-158-5,5x-x5-&shiftColsSW=-3&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=4&f1=tctct&e1=ctc&c1=ctc&a1=ctc&e2=ctcll&d2=ctc&b2=ctc&a2=ctcrr&f3=ctctt&d3=ctc&c3=tctct&b3=ctc&e4=ctcrr&a4=ctcll
 
 ### in a diamond
 
