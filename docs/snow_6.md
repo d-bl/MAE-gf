@@ -75,7 +75,7 @@ For the 3-pairs version of these stars, please see [_3-pair stars_][page-3-star]
 <p style="clear: both"></p>
 
 [![star from narrow eyed spider][p-sna3]][t-sna3]
-This star is a variant on the _snowflake with a narrow eye_ above. For the spider-style connecting, see page [_spiders with outgoing pairs_][page-SB3].
+This star is a variant on the _snowflake with a narrow eye_ above. For the spider-style connection, see page [_spiders with outgoing pairs_][page-SB3].
 <p style="clear: both"></p>
 
 [page-3-star]: ../docs/snow_3#stars
