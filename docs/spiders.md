@@ -115,7 +115,7 @@ For a Binche style spider with narrow eye, please see page [_snowflakes_][page-s
 
 [p-sbq3]: ../images/spiders/g-sbq3.svg "spider with outgoing pairs, in ring"
 
-[t-sbq3]: /GroundForge/stitches.html?patchWidth=25&patchHeight=25&tile=---X-5---5---5-X,---XY-W-Y-W-Y-WX,V3Z4---5---5---7,5-5---Y-W-Y-W---,-5-WV6VV-5-ZZ2ZY,Y-W-Y---5-5---W-,---5---0Z5V9---5,W-Y-W-YX---XW-Y-&shiftColsSW=-8&shiftRowsSW=8&shiftColsSE=8&shiftRowsSE=8&n1=ctc&j1=ttctctt&f1=ctc&p3=ctc&l3=rrctcll&h3=llctcrr&d3=ctc&b3=ctc&c4=ctc&a4=ctc&n5=ttctctt&j5=ctc&f5=ttctctt&b5=ctc&k6=ctc&i6=ctc&p7=rrctcll&l7=ctc&j7=ctc&h7=ctc&d7=llctcrr
+[t-sbq3]: /GroundForge/stitches.html?patchWidth=16&patchHeight=16&tile=-535-734,66-224-7,-158-256,5x-x5-5-,&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4&h1=ctc&g1=ctc&f1=ctc&d1=ctctl&c1=ctc&b1=ctctr&h2=ctcrr&f2=ctcll&e2=ctctl&d2=ctc&b2=ctc&a2=ctctr&h3=ctctr&g3=ctctt&f3=ctctl&d3=ctc&c3=ctc&b3=ctc&g4=ctct&e4=ctcrr&a4=ctcll
 
 ## Binche spiders
 
