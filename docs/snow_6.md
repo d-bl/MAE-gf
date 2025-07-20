@@ -71,7 +71,7 @@ Please note: GroundForge doesn't make a difference between star I and star II.
 
 [![star mirror][p-st-kh-Mb]][t-st-kh-m-b] 
 [![star I and II][p-st-kh-Ib]][t-st-kh-i-b]        
-For the 3-pairs version of these stars, please see [_3-pair stars_][page-3-star].     
+For the 3-pairs version of these stars, please see [_3-pair stars_][page-3-star].
 <p style="clear: both"></p>
 
 [![star from narrow eyed spider][p-sna3]][t-sna3]
