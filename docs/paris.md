@@ -56,7 +56,7 @@ For the stretched paris ground, see on page [_Rose grounds_][p-rose-paris].
 ## Paris ground in a diamond
 
 [![p-paris-in-sqr]][t-paris-in-sqr]
-This ground is also known as _Dropped stitch ground"_.      
+This ground is also known as _Dropped stitch ground_.      
 <p style="clear: both"></p>
 
 [p-paris-in-sqr]: ../images/paris/g-paris-in-sqr.svg?align=left "dropped stitch ground"
