@@ -70,6 +70,7 @@ A horizontal net ground made with non traditional stitches like <span class="stc
 ### Knitting
 
 The following examples look like a knitwork.   
+
 * [example 1][t-brei1],  [example 2][t-brei2],  [&amp;-ground][t-amp]    
 
 [t-brei1]: /GroundForge/stitches?patchWidth=7&patchHeight=9&i1=ctct&b1=rcl&b2=lcr&a2=ctct&footside=x,4&tile=1,8&headside=7,x&footsideStitch=ctct&tileStitch=ctc&headsideStitch=ctct&shiftColsSW=1&shiftRowsSW=0&shiftColsSE=0&shiftRowsSE=2
@@ -94,7 +95,8 @@ The following examples look like a knitwork.
 
 ### Sprang
 
-The following examples look like sprang plaiting.
+The following examples look like sprang plaiting.    
+
 * [example 1][vi-sprang-1], [example 2][vi-sprang-2]
 
 [vi-sprang-1]: /GroundForge/stitches?patchWidth=14&patchHeight=14&a1=clcl&tile=5-&footsideStitch=ctctt&tileStitch=clcl&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
@@ -102,7 +104,8 @@ The following examples look like sprang plaiting.
 
 ## Honeycomb net Kat
 
-See also [_Paris grounds_][page-paris].           
+See also [_Paris grounds_][page-paris].   
+
 [![p1-net3]][t-net3b]
 
 [p1-net3]: ../images/nets/net3.png "paris ground with double crossing"
@@ -112,7 +115,8 @@ See also [_Paris grounds_][page-paris].
 
 ## Honeycomb net Weaving Paris
 
-See also [_Lattice_][page-lotus].            
+See also [_Lattice_][page-lotus].    
+
 [![p1-net4]][t-net4]
 
 [p1-net4]: ../images/nets/net4.png "knots"
@@ -122,7 +126,7 @@ See also [_Lattice_][page-lotus].
 
 ## Honeycomb net Bias
 
-This scheme is equal to the [_bias ground_][page-bias].
+This scheme is equal to the [_Bias ground_][page-bias].    
 
 [![p1-net5]][t-0204] 
 
