@@ -189,7 +189,7 @@ Take just one unit of the Bias ground and place them all in the same direction, 
 <p style="clear: both"></p>
 
 [![same direction][pic-02-OG]][T-0228-OG] 
-[![alternating][pic-02-OGy]][T-0228-OGy]  
+[![alternating][pic-02-OGy]][T-0228-OGy] 
 [example VI][T-0267-OGy]  
 <p style="clear: both"></p>
 
