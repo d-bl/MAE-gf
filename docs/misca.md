@@ -23,8 +23,8 @@ Miscellaneous examples, collected on this page.
 
 ![vase ground][p-vase]        
 
-* [example 1][t-vase1], [example 2][t-vase2]
-
+* [example 1][t-vase1]
+* [example 2][t-vase2] 
 <p style="clear: both"></p>
 
 [p-vase]: ../images/misca/vase-ground.svg?align=right "vase ground"
@@ -61,8 +61,8 @@ The traditional units separated with plaits. Please note: the plaits should stay
 ![Another fish][P-1111]
 The following grounds were created to work "upwards" from one square to another. As Groundforge does not support going upwards, the pattern in Groundforge is turned one quarter.   
 
-* [example 1][T-1114], [example 2][T-1111]
-
+* [example 1][T-1114]
+* [example 2][T-1111] 
 <p style="clear: both"></p>
 
 [P-1111]: ../images/misca/G-mine2.svg?align=right "working upwards, 1111"
@@ -74,7 +74,6 @@ The following grounds were created to work "upwards" from one square to another.
 
 [![bias and paris][p-2111]][t-2111]
 As the "another fish" pattern, the pattern in Groundforge is turned one quarter.                  
-
 <p style="clear: both"></p>
 
 [p-2111]: ../images/misca/G-mine1.svg?align=left "working upwards, 2111"
