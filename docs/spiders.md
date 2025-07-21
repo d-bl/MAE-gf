@@ -95,9 +95,9 @@ For a Binche style spider with narrow eye, please see page [_snowflakes_][page-s
 
 ### in a diamond
 
-![spider with narrow eye, diamond][p-snq3]
+[![spider with narrow eye, diamond][p-snq3]][t-snq3]
 
-* [example][t-snq3]; [example with stars][t-snq3st]
+* [example with stars][t-snq3st]
 
 [p-snq3]: ../images/spiders/g-snq3.svg "spider with a narrow eye, in ring"
 [p-sp-narrow-eye]: ../images/spiders/g-sn3.svg?align=left "spider with a narrow eye" 
@@ -108,6 +108,7 @@ For a Binche style spider with narrow eye, please see page [_snowflakes_][page-s
 [t-sp-narrow-eye]: /GroundForge/stitches?patchWidth=16&patchHeight=16&a1=ctc&b1=ctc&d1=ctc&e1=ctc&f1=ctc&a2=ctc&e2=ctc&a3=ctc&b3=ctc&d3=ctc&e3=ctc&f3=ctc&a4=ctcrr&c4=ttctc&e4=ctcll&b5=ctc&d5=ctc&f5=ctctt&tile=86-215,4---7-,1C-B83,7-5-4-,-5-5-5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=5
 
 ## Spiders with outgoing pairs
+
 [![spider with outgoing pairs][p-sb3]][t-sb3]
 
 [p-sb3]: ../images/spiders/g-sb3.svg "spider with outgoing pairs"
