@@ -25,7 +25,7 @@ The name of these snowflakes is based on origami.
 
 
 ## Windmill snowflakes framed with a Paris ground
-[![windmill in paris ground][p-43wmp1]][t-43wmp1]    
+[![windmill in paris ground][p-43wmp1]][t-43wmp1] 
 [variant][t-43wmp2]
 <p style="clear: both"></p>
 
