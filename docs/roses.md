@@ -227,7 +227,8 @@ Please note: when making the actual lace, it will make a big difference if the u
 
 ## Alternative placings
 
-[![roses with vertical][p-31]][t-3115]  [![roses with zigzag][p-61]][t-6101]     
+[![roses with vertical][p-31]][t-3115] 
+[![roses with zigzag][p-61]][t-6101] 
 The ground on the right can also be obtain as a [Droste on Paris ground][dr-6101]      
 <p style="clear: both"></p>
 
@@ -238,7 +239,8 @@ The ground on the right can also be obtain as a [Droste on Paris ground][dr-6101
 [dr-6101]: /GroundForge/stitches?patchWidth=15&patchHeight=20&c1=ct&a1=ct&d2=ctct&droste2=ct,d20=d23=ctct,a10=c10=ctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 Take a non-symmetrical rose ground unit, move one of the pins to the middle, and place this unit in alternating directions. Please note, the generated thread diagram displays the moved pin in the original position.              
-[![jp-1][P-jp-1]][T-jp-1] [![jp-2][P-jp-2]][T-jp-2]  
+[![jp-1][P-jp-1]][T-jp-1] 
+[![jp-2][P-jp-2]][T-jp-2]  
 
 [P-jp-1]: ../images/roses/w-jp-1.png "(not numbered)"
 [P-jp-2]: ../images/roses/w-jp-2.png "(not numbered)"
