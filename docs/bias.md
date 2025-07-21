@@ -240,38 +240,26 @@ Of course, this pull-back through two can be extended further: pull-back through
 ## Stretched
 
 The pictures below show three different units. The units are placed like the white tiles on a checker board.          
-The example 1 is a bias ground, stretched vertically, as found in the Whiting index F4. Experimenting with stitches, I created the units in shown in example 2 and 3. Example 2 is equivalent to the little snowflake. Example 3 proved to be a real surprise! These grounds also look nice when made on a hexagonal raster, connecting the units with a short plait.
+Example 1 is a bias ground, stretched vertically, as found in the Whiting index F4. Experimenting with stitches, I created the units in shown in example 2 and 3. Example 2 is equivalent to the little snowflake. Example 3 proved to be a real surprise! These grounds also look nice when made on a hexagonal raster, connecting the units with a short plait.
 
 {% include captionfig.html
     lnk="/GroundForge/stitches?patchWidth=12&patchHeight=20&a1=ctctctc&b1=tct&c1=ctctctc&b2=ctc&a3=ctc&c3=ctc&d4=ctc&tile=B8D-,-4--,B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4"
     title="0714"
     src="../images/bias/w-stretched-71.png"
-    txt="1. Bias ground"
+    txt="Example 1"
 %} 
 {% include captionfig.html
     lnk="/GroundForge/stitches?patchWidth=12&patchHeight=20&b1=ctc&a2=ctctctc&c2=tct&b3=ctc&a4=tct&c4=ctctctc&b5=ctc&a6=ctc&c6=ctc&tile=-5--,B-C-,-5--,B-C-,-5--,B-C-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6"
     title="0759"
     src="../images/bias/w-stretched-73.png"
-    txt="2. Little snowflake"
+    txt="Example 2"
 %} 
 {% include captionfig.html
     lnk="/GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctc&b1=ctc&c1=tctct&d1=ctc&a2=ctcl&b2=ctc&a3=ctc&b3=ctc&c3=ctc&b4=ctc&c4=rctc&tile=83A4,48--,48D-,-48-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4"
     title="0775"
     src="../images/bias/w-stretched-74.png"
-    txt="3."
+    txt="Example 3"
 %} 
-
-[![0714][p-stretched-71]][T-0714]
-[![0759][p-stretched-73]][T-0759]
-[![0775][p-stretched-74]][T-0775]
-
-[p-stretched-71]: ../images/bias/w-stretched-71.png "0714"
-[p-stretched-73]: ../images/bias/w-stretched-73.png "0759"
-[p-stretched-74]: ../images/bias/w-stretched-74.png "0775"
-
-[T-0714]: /GroundForge/stitches?patchWidth=12&patchHeight=20&a1=ctctctc&b1=tct&c1=ctctctc&b2=ctc&a3=ctc&c3=ctc&d4=ctc&tile=B8D-,-4--,B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
-[T-0759]: /GroundForge/stitches?patchWidth=12&patchHeight=20&b1=ctc&a2=ctctctc&c2=tct&b3=ctc&a4=tct&c4=ctctctc&b5=ctc&a6=ctc&c6=ctc&tile=-5--,B-C-,-5--,B-C-,-5--,B-C-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6
-[T-0775]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctc&b1=ctc&c1=tctct&d1=ctc&a2=ctcl&b2=ctc&a3=ctc&b3=ctc&c3=ctc&b4=ctc&c4=rctc&tile=83A4,48--,48D-,-48-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 
 
 
