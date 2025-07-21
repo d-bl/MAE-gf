@@ -222,9 +222,10 @@ Please note: when making the actual lace, it will make a big difference if the u
 
 [![roses with vertical][p-31]][t-3115]  [![roses with zigzag][p-61]][t-6101]     
 The ground on the right can also be obtain as a [Droste on Paris ground][dr-6101]      
+<p style="clear: both"></p>
 
-[p-31]: ../images/roses/g31.svg "3115"
-[p-61]: ../images/roses/g61.svg "6101"
+[p-31]: ../images/roses/g31.svg?align=left "3115"
+[p-61]: ../images/roses/g61.svg?align=left "6101"
 [t-3115]: /GroundForge/stitches?patchWidth=12&patchHeight=16&b1=tctct&a2=c&c2=c&d2=tctctc&a3=ctc&c3=ctc&a4=c&c4=c&d4=ctctct&tile=-5--,B-C3,7-4-,8-15&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [t-6101]: /GroundForge/stitches?patchWidth=15&patchHeight=15&e1=ctct&c1=ct&b1=ctct&a1=ct&f2=ct&c2=ct&a2=ct&e3=ctct&c3=ct&b3=ctct&a3=ct&d4=ct&tile=O3E-H-,4-7--5,158-L-,---5-&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=6&shiftRowsSE=2
 [dr-6101]: /GroundForge/stitches?patchWidth=15&patchHeight=20&c1=ct&a1=ct&d2=ctct&droste2=ct,d20=d23=ctct,a10=c10=ctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
