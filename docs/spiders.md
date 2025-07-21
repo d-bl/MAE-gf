@@ -85,7 +85,7 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 
 ## Spiders with a narrow eye
 
-[![spider with narrow eye][p-sp-narrow-eye]][t-sp-narrow-eye]
+[![spider with narrow eye][p-sp-narrow-eye]][t-sp-narrow-eye] 
 Spiders with a narrow eye also can be achieved using <span class="elem">step 2</span> or <span class="elem">step 3</span> on a [_fish_][page-dr-fish] in <span class="stch">half stitch</span>.    
 For a Binche style spider with narrow eye, please see page [_snowflakes_][page-snb3].     
 <p style="clear: both"></p>
@@ -95,9 +95,9 @@ For a Binche style spider with narrow eye, please see page [_snowflakes_][page-s
 
 ### in a diamond
 
-[![spider with narrow eye, diamond][p-snq3]][t-snq3]
-
-* [example with stars][t-snq3st]
+[![spider with narrow eye, diamond][p-snq3]][t-snq3] 
+[example with stars][t-snq3st]
+<p style="clear: both"></p>
 
 [p-snq3]: ../images/spiders/g-snq3.svg "spider with a narrow eye, in ring"
 [p-sp-narrow-eye]: ../images/spiders/g-sn3.svg?align=left "spider with a narrow eye" 
