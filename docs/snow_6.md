@@ -43,10 +43,9 @@ Also know as "Bolletje".
 
 ## Snowflakes with an eye
 
-These snowflakes can also be found on page [_Spiders with an eye_][page_sp_eye] and [_Spiders with a narrow eye_][page_sp_nrw], where they are connected as spiders.     
-
 [![spider with eye][P-SEB3]][T-SEB3] 
 [![spider with narrow eye][P-SNB3]][T_SNB3] 
+These snowflakes can also be found on page [_Spiders with an eye_][page_sp_eye] and [_Spiders with a narrow eye_][page_sp_nrw], where they are connected as spiders.   
 <p style="clear: both"></p>
 
 [page_sp_eye]: ../docs/spiders#spiders-with-an-eye
@@ -70,12 +69,12 @@ Please note: GroundForge doesn't make a difference between star I and star II.
 ### Binche style
 
 [![star mirror][p-st-kh-Mb]][t-st-kh-m-b] 
-[![star I and II][p-st-kh-Ib]][t-st-kh-i-b]        
-For the 3-pairs version of these stars, please see [_3-pair stars_][page-3-star].
+[![star I and II][p-st-kh-Ib]][t-st-kh-i-b] 
+For the 3-pairs version of these stars, please see [_3-pair stars_][page-3-star]. 
 <p style="clear: both"></p>
 
-[![star from narrow eyed spider][p-sna3]][t-sna3]
-This star is a variant on the _snowflake with a narrow eye_ above. For the spider-style connection, see page [_Spiders with outgoing pairs_][page-SB3].
+[![star from narrow eyed spider][p-sna3]][t-sna3] 
+This star is a variant on the _snowflake with a narrow eye_ above. For the spider-style connection, see page [_Spiders with outgoing pairs_][page-SB3]. 
 <p style="clear: both"></p>
 
 [page-3-star]: ../docs/snow_3#stars
