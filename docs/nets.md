@@ -109,6 +109,7 @@ The following examples look like sprang plaiting.
 
 [![p1-net3]][t-net3b] 
 See also [_Paris grounds_][page-paris].   
+<p style="clear: both"></p>
 
 [p1-net3]: ../images/nets/net3.png?align=left "paris ground with double crossing"
 [page-paris]: ../docs/paris
@@ -119,6 +120,7 @@ See also [_Paris grounds_][page-paris].
 
 [![p1-net4]][t-net4] 
 See also [_Lattice_][page-lotus].    
+<p style="clear: both"></p>
 
 [p1-net4]: ../images/nets/net4.png?align=left "knots"
 [page-lotus]: ../docs/lotus
@@ -128,7 +130,8 @@ See also [_Lattice_][page-lotus].
 ## Honeycomb net Bias
 
 [![p1-net5]][t-0204] 
-This scheme is equal to the [_Bias ground_][page-bias].    
+This scheme is equal to the [_Bias ground_][page-bias].   
+<p style="clear: both"></p>
 
 [p1-net5]: ../images/nets/net5.png?align=left "bias ground"
 [page-bias]: ../docs/bias
