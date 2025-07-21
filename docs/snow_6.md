@@ -52,7 +52,7 @@ These snowflakes can also be found on page [_Spiders with an eye_][page_sp_eye] 
 [page_sp_nrw]: ../docs/spiders#spiders-with-a-narrow-eye
 
 [P-SEB3]: ../images/snow_6/g-seb3.svg?align=left "snowflake with eye"
-[P-SNB3]: ../images/snow_6/g-snb3.svg "snowflake with a narrow eye" 
+[P-SNB3]: ../images/snow_6/g-snb3.svg?align=left "snowflake with a narrow eye" 
 
 [T-SEB3]: /GroundForge/stitches.html?patchWidth=24&patchHeight=24&tile=7-r-4-5-,-5-5-5-5,5-5-5-5-,x5-5x-r-&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4&g1=ctc&e1=ctcll&c1=ctctctc&a1=ctcrr&h2=ctcrr&f2=ctcll&d2=ctc&b2=ctc&g3=ctc&e3=ctc&c3=ctc&a3=ctc&g4=ctc&d4=ctclctc&b4=ctcrctc
 
