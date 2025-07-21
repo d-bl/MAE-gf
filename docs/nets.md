@@ -71,7 +71,9 @@ A horizontal net ground made with non traditional stitches like <span class="stc
 
 The following examples look like a knitwork.   
 
-* [example 1][t-brei1],  [example 2][t-brei2],  [&amp;-ground][t-amp]    
+* [example 1][t-brei1]
+* [example 2][t-brei2]
+* [&amp;-ground][t-amp]    
 
 [t-brei1]: /GroundForge/stitches?patchWidth=7&patchHeight=9&i1=ctct&b1=rcl&b2=lcr&a2=ctct&footside=x,4&tile=1,8&headside=7,x&footsideStitch=ctct&tileStitch=ctc&headsideStitch=ctct&shiftColsSW=1&shiftRowsSW=0&shiftColsSE=0&shiftRowsSE=2
 [t-brei2]: /GroundForge/stitches?patchWidth=7&patchHeight=9&i1=ctct&b1=rccl&b2=lccr&a2=ctct&footside=x,4&tile=1,8&headside=7,x&footsideStitch=ctct&tileStitch=ctc&headsideStitch=ctct&shiftColsSW=1&shiftRowsSW=0&shiftColsSE=0&shiftRowsSE=2
@@ -97,40 +99,38 @@ The following examples look like a knitwork.
 
 The following examples look like sprang plaiting.    
 
-* [example 1][vi-sprang-1], [example 2][vi-sprang-2]
+* [example 1][vi-sprang-1]
+* [example 2][vi-sprang-2]
 
 [vi-sprang-1]: /GroundForge/stitches?patchWidth=14&patchHeight=14&a1=clcl&tile=5-&footsideStitch=ctctt&tileStitch=clcl&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
 [vi-sprang-2]: /GroundForge/stitches?patchWidth=14&patchHeight=14&a1=cllcl&tile=5-&footsideStitch=ctctt&tileStitch=cllcl&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
 
 ## Honeycomb net Kat
 
+[![p1-net3]][t-net3b] 
 See also [_Paris grounds_][page-paris].   
 
-[![p1-net3]][t-net3b]
-
-[p1-net3]: ../images/nets/net3.png "paris ground with double crossing"
+[p1-net3]: ../images/nets/net3.png?align=left "paris ground with double crossing"
 [page-paris]: ../docs/paris
 
 [t-net3b]: /GroundForge/stitches?patchWidth=12&patchHeight=16&c1=ctc&a1=ctc&d2=tcct&tile=B-C-,---5&tileStitch=ctc&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ## Honeycomb net Weaving Paris
 
+[![p1-net4]][t-net4] 
 See also [_Lattice_][page-lotus].    
 
-[![p1-net4]][t-net4]
-
-[p1-net4]: ../images/nets/net4.png "knots"
+[p1-net4]: ../images/nets/net4.png?align=left "knots"
 [page-lotus]: ../docs/lotus
 
 [t-net4]: /GroundForge/stitches?patchWidth=16&patchHeight=14&b1=ctc&c2=crr&a2=crr&d3=ctc&c4=cll&a4=cll&tile=-5--,6v9v,---5,2z0z&tileStitch=ctc&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Honeycomb net Bias
 
+[![p1-net5]][t-0204] 
 This scheme is equal to the [_Bias ground_][page-bias].    
 
-[![p1-net5]][t-0204] 
-
-[p1-net5]: ../images/nets/net5.png "bias ground"
+[p1-net5]: ../images/nets/net5.png?align=left "bias ground"
 [page-bias]: ../docs/bias
 [t-0204]: /GroundForge/stitches?patchWidth=15&patchHeight=15&d1=lct&c1=ctctc&a1=ctctct&tile=6-48&tileStitch=ctct&shiftColsSW=-3&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
 
