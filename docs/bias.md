@@ -130,10 +130,11 @@ Sometimes, the bias ground is referred to as [_rose ground_][page-rose], especia
 
 This ground is also called _rose ground_.         
 
-[![crossed][P-bias-at]][T-0278-KK]  
-See also [mrs Whiting's index][L-whiting]: D6 and F4.    
+[![crossed][P-bias-at]][T-0278-KK] 
+See also [mrs Whiting's index][L-whiting]: D6 and F4.  
+<p style="clear: both"></p>
 
-[P-bias-at]: ../images/bias/g-bias-at.svg "tradtional bias crossed, 0278-KK"
+[P-bias-at]: ../images/bias/g-bias-at.svg?align=left "tradtional bias crossed, 0278-KK"
 
 [T-0278-KK]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=c&a2=c&b2=ctct&c2=c&d2=tctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=8-48,8314
 
@@ -141,10 +142,11 @@ See also [mrs Whiting's index][L-whiting]: D6 and F4.
 
 ## Bias Ground crossed alternating
 
-[![][p-bias-aa]][T-0280-LLh]  
-See also [mrs Whiting's index][L-whiting]: E6.   
+[![][p-bias-aa]][T-0280-LLh] 
+See also [mrs Whiting's index][L-whiting]: E6.  
+<p style="clear: both"></p>
 
-[p-bias-aa]: ../images/bias/g-bias-aa.svg "alternated bias crossing, 0280-LL"
+[p-bias-aa]: ../images/bias/g-bias-aa.svg?align=left "alternated bias crossing, 0280-LL"
 [t-0280-LLh]: /GroundForge/stitches?patchWidth=12&patchHeight=12&h1=ctc&g1=lcr&f1=ctc&d1=ctc&c1=lctcr&b1=ctc&a1=rctcl&h2=lctcr&g2=ctc&f2=rctcl&e2=ctc&d2=lcr&c2=ctc&a2=ctc&h3=ctc&f3=ctc&e3=lctcr&d3=ctc&c3=rctcl&b3=ctc&a3=lcr&h4=rctcl&g4=ctc&f4=lcr&e4=ctc&c4=ctc&b4=lctcr&a4=ctc&tile=1488-483,8-483148,831488-4,488-4831&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Bias Ground with a diagonal in between
@@ -188,10 +190,11 @@ Take just one unit of the Bias ground and place them all in the same direction, 
 
 [![same direction][pic-02-OG]][T-0228-OG] 
 [![alternating][pic-02-OGy]][T-0228-OGy]  
-* [example VI][T-0267-OGy]
+[example VI][T-0267-OGy]  
+<p style="clear: both"></p>
 
-[pic-02-OG]: ../images/bias/g-02-OG.svg "units in same direction, 0228-N"
-[pic-02-OGy]: ../images/bias/g-02-OGy.svg "units in alternating directions, 0228-N"
+[pic-02-OG]: ../images/bias/g-02-OG.svg?align=left "units in same direction, 0228-N"
+[pic-02-OGy]: ../images/bias/g-02-OGy.svg?align=left "units in alternating directions, 0228-N"
 [foto-0228-OGy]: ../images/bias/g-0228-foto.jpg?align=right "solo units placed in alternating directions, 0228-N"
 [T-0228-OG]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=tct&b1=ctc&d1=ctc&a2=ctc&c2=ctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=86-5,4-5-
 [T-0228-OGy]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=tct&b1=ctc&d1=ctc&a2=ctc&c2=ctc&b3=ctc&c3=tct&d3=ctc&a4=ctc&c4=ctc&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=0&shiftRowsSW=4&tile=15-2,7-5-,-586,5-4-
@@ -200,7 +203,7 @@ Take just one unit of the Bias ground and place them all in the same direction, 
 ### Crossed
 
 [![alternating and cross][p-02-YQ2]][t-0248-YQ2]
-Take one unit of the Bias ground, place them in alternating directions, and cross at the corners.            
+Take one unit of the Bias ground, place them in alternating directions, and cross at the corners.  
 <p style="clear: both"></p>
 
 [p-02-YQ2]: ../images/bias/g-02-YQ2.svg?align=left "alternating and crossed, 0248-N"
@@ -237,7 +240,26 @@ Of course, this pull-back through two can be extended further: pull-back through
 ## Stretched
 
 The pictures below show three different units. The units are placed like the white tiles on a checker board.          
-The one on the left is a bias ground, stretched vertically, as found in the Whiting index F4. Experimenting with stitches, I created the units in the middle and the right. The ground in the middle is equivalent to the little snowflake. The one on the right proved to be a real surprise! See the example. These grounds also look nice when made on a hexagonal raster, connecting the units with a short plait.
+The example 1 is a bias ground, stretched vertically, as found in the Whiting index F4. Experimenting with stitches, I created the units in shown in example 2 and 3. Example 2 is equivalent to the little snowflake. Example 3 proved to be a real surprise! These grounds also look nice when made on a hexagonal raster, connecting the units with a short plait.
+
+{% include captionfig.html
+    lnk="/GroundForge/stitches?patchWidth=12&patchHeight=20&a1=ctctctc&b1=tct&c1=ctctctc&b2=ctc&a3=ctc&c3=ctc&d4=ctc&tile=B8D-,-4--,B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4"
+    title="0714"
+    src="../images/bias/w-stretched-71.png"
+    txt="1. Bias ground"
+%} 
+{% include captionfig.html
+    lnk="/GroundForge/stitches?patchWidth=12&patchHeight=20&b1=ctc&a2=ctctctc&c2=tct&b3=ctc&a4=tct&c4=ctctctc&b5=ctc&a6=ctc&c6=ctc&tile=-5--,B-C-,-5--,B-C-,-5--,B-C-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6"
+    title="0759"
+    src="../images/bias/w-stretched-73.png"
+    txt="2. Little snowflake"
+%} 
+{% include captionfig.html
+    lnk="/GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctc&b1=ctc&c1=tctct&d1=ctc&a2=ctcl&b2=ctc&a3=ctc&b3=ctc&c3=ctc&b4=ctc&c4=rctc&tile=83A4,48--,48D-,-48-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4"
+    title="0775"
+    src="../images/bias/w-stretched-74.png"
+    txt="3."
+%} 
 
 [![0714][p-stretched-71]][T-0714]
 [![0759][p-stretched-73]][T-0759]
