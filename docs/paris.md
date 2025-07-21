@@ -49,14 +49,14 @@ The photo shows the example on the bottom of this page, but slighty adapted to g
 
 ## Stretched Paris ground
 
-For the stretched paris ground, see on page [_rose grounds_][p-rose-paris].       
+For the stretched paris ground, see on page [_Rose grounds_][p-rose-paris].       
 
 [p-rose-paris]: ../docs/roses#stretched-paris-ground
 
 ## Paris ground in a diamond
 
 [![p-paris-in-sqr]][t-paris-in-sqr]
-This ground is also known as _dropped stitch ground"_.      
+This ground is also known as _Dropped stitch ground"_.      
 <p style="clear: both"></p>
 
 [p-paris-in-sqr]: ../images/paris/g-paris-in-sqr.svg?align=left "dropped stitch ground"
@@ -109,10 +109,6 @@ This ground is also known as _Copenhagen hole_.
 
 ## Another arrangement
 
-[![swiss cheese][p-g44]][t-swiss] 
-[![bias ground][p-g35v]][t-pa3511]
-[![paris ground with snowflakes][p-g39v]][t-bs3912]         
-
 {% include captionfig.html
     lnk="/GroundForge/stitches?patchWidth=16&patchHeight=16&e1=tctc&c1=ctcl&a1=ctcr&f2=ctc&d2=ctc&e3=ctct&c3=ctc&a3=ctc&tile=5-5-5-,---5-5,C-B-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3"
     title="swiss cheese"
@@ -132,7 +128,7 @@ This ground is also known as _Copenhagen hole_.
     txt="example 3"
 %}     
 
-Please note the resambles of example 2 with the [_bias ground_][page-bias-trad], example 3 with the [_diagonal placed little snowflakes_][page-snow4-diag] and [_alternative placed little snowflakes_][page-snow4-alt].  
+Please note the resambles of example 2 with the [_Bias ground_][page-bias-trad], example 3 with the [_Diagonal placed little snowflakes_][page-snow4-diag] and [_Alernative placed little snowflakes_][page-snow4-alt].  
 <p style="clear: both"></p>
 
 [page-bias-trad]: ../docs/bias#traditional-bias-ground
