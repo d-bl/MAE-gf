@@ -204,10 +204,29 @@ By putting the traditional rose ground unit in a diamond, little stars can be ma
 ![torchon-flemish][pic-tor-flem]             
 Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates. Example 1 looks like a star.    
 
-
 [![R-0112][PR-0112]][TR-0112] [![R-0116][PR-0116]][TR-0116] [![R-0504][PR-0504]][TR-0504] 
 
 [pic-tor-flem]: ../images/roses/g-tor-fl.svg?align=right "torchon - flemish"
+
+{% include captionfig.html
+    lnk="/GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctc&b1=ctt&c1=ctctt&e1=ctctt&f1=ctt&b2=ctctt&c2=c&d2=ctct&e2=c&f2=ctctt&a3=ctctt&c3=ctcr&e3=ctcl&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3"
+    title="0112-K"
+    src="../images/roses/R-0112.png"
+    txt="example 1"
+%} 
+{% include captionfig.html
+    lnk="/GroundForge/stitches?patchWidth=12&patchHeight=12&f1=c&e1=ctcr&c1=ctcl&b1=c&a1=ctctc&f2=ctcr&e2=c&d2=ctctc&c2=c&b2=ctcl&e3=ctc&c3=ctc&a3=ctct&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3"
+    title="0116-K"
+    src="../images/roses/R-0116.png"
+    txt="example 2"
+%} 
+{% include captionfig.html
+    lnk="/GroundForge/stitches?patchWidth=12&patchHeight=12&f1=tct&e1=ctct&c1=ctct&b1=tct&a1=tctctc&f2=ctct&e2=ct&d2=ctctct&c2=ct&b2=ctct&e3=crc&c3=clc&a3=ctct&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3"
+    title="0504-N"
+    src="../images/roses/R-0504.png"
+    txt="example 3"
+%} 
+
 
 [PR-0112]: ../images/roses/R-0112.png "0112-K"
 [PR-0116]: ../images/roses/R-0116.png "0116-K"
