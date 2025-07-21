@@ -70,8 +70,8 @@ This ground is also known as _Copenhagen hole_.
 
 ### Alternative arrangements
 
-a:&nbsp;[![G54][p-g54]][t-g54-1] 
-b:&nbsp;[![G64][p-g64]][t-g64-1] 
+[![G54][p-g54]][t-g54-1] 
+[![G64][p-g64]][t-g64-1] 
 
 [p-big-paris]: ../images/paris/g-big-paris.svg?align=left "big paris ground, 3412"
 [p-g54]: ../images/paris/G54.svg "alternative placing big paris ground 1, 5401"
@@ -85,10 +85,10 @@ b:&nbsp;[![G64][p-g64]][t-g64-1]
 
 ### Extension of big paris ground
 
-a:&nbsp;[![extension big paris][p-ex-big]][t-ex-big] 
-b:&nbsp;[![extension big paris with 3 pair join][p-ex-3p]][t-ex-3p] 
-c:&nbsp;[![][p-ex-v1]][t-ex-v1] 
-d:&nbsp;[![][p-ex-v2]][t-ex-v2]         
+[![extension big paris][p-ex-big]][t-ex-big] 
+[![extension big paris with 3 pair join][p-ex-3p]][t-ex-3p] 
+[![][p-ex-v1]][t-ex-v1] 
+[![][p-ex-v2]][t-ex-v2]         
 <p style="clear: both"></p>
 
 ### Extension of dropped stitch ground
@@ -109,11 +109,30 @@ d:&nbsp;[![][p-ex-v2]][t-ex-v2]
 
 ## Another arrangement
 
-a:&nbsp;[![swiss cheese][p-g44]][t-swiss] 
-b:&nbsp;[![bias ground][p-g35v]][t-pa3511]
-c:&nbsp;[![paris ground with snowflakes][p-g39v]][t-bs3912]         
+[![swiss cheese][p-g44]][t-swiss] 
+[![bias ground][p-g35v]][t-pa3511]
+[![paris ground with snowflakes][p-g39v]][t-bs3912]         
 
-Please note the resambles of ground b) with the [_bias ground_][page-bias-trad], ground c) with the [_diagonal placed little snowflakes_][page-snow4-diag] and [_alternative placed little snowflakes_][page-snow4-alt].  
+{% include captionfig.html
+    lnk="/GroundForge/stitches?patchWidth=16&patchHeight=16&e1=tctc&c1=ctcl&a1=ctcr&f2=ctc&d2=ctc&e3=ctct&c3=ctc&a3=ctc&tile=5-5-5-,---5-5,C-B-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3"
+    title="swiss cheese"
+    src="../images/paris/G44.svg"
+    txt="example 1"
+%} 
+{% include captionfig.html
+    lnk="/GroundForge/stitches.html?patchWidth=16&patchHeight=16&tile=58-4&shiftColsSW=-3&shiftRowsSW=1&shiftColsSE=2&shiftRowsSE=1&d1=ctc&b1=crc&a1=clcr"
+    title="bias ground"
+    src="../images/paris/G35v.svg"
+    txt="example 2"
+%} 
+{% include captionfig.html
+    lnk="/GroundForge/stitches.html?patchWidth=15&patchHeight=15&tile=7-4-,-5-5,5x-x&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=1&shiftRowsSE=3&c1=ctct&a1=ctct&d2=ctc&b2=ctc&a3=ctctc"
+    title="paris ground with snowflakes"
+    src="../images/paris/G39v.svg"
+    txt="example 3"
+%} 
+
+Please note the resambles of example 2 with the [_bias ground_][page-bias-trad], example 3 with the [_diagonal placed little snowflakes_][page-snow4-diag] and [_alternative placed little snowflakes_][page-snow4-alt].  
 <p style="clear: both"></p>
 
 [p-g44]: ../images/paris/G44.svg "swiss cheese"
