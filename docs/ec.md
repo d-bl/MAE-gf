@@ -8,6 +8,7 @@ title: Embellished clothwork
 ## Contents
 
 * [Introduction](#introduction)
+* [A note on pins](#a-note-on-pins)
 * [A note on footsides](#a-note-on-footsides)
 * [1 column](#1-column)
 * [2 columns](#2-columns)
@@ -19,14 +20,12 @@ title: Embellished clothwork
 Usually, a clothwork area is made in one stitch (cloth stitch, half stitch or whole stitch) going more or less horizontally from left to right and back again. In Embellished Clothwork different, asymmetric stitches are applied in one area, going strictly horizontally from left to right and back on the next row.     
 
 For embellished clothwork with one stitch and its mirrored versions only, see _<a href="/GroundForge/nets" target="_blank">net variations</a>_.       
-An explanation of the color code used on this page can be found on _<a href="/GroundForge-help/color-rules" target="_blank">color rules</a>_.   
 
-If you hoover with your mouse over a picture on this page, a number is displayed. These numbers have no specific meaning, but can be used for reference. Sometimes, a name is displayed. This refers to the name of the work where this variation was used for the first time (to our knowlegde).      
+If you hoover with your mouse over a picture on this page, a number is displayed. These numbers have no specific meaning, but can be used for reference. Sometimes, a name is displayed. This refers to the name of the work where this variation was used for the first time (to our knowlegde).    
 
-Pleae note: if the ground is made with asymmetric stitches like <span class="stch">crcl</span>, the ground might benefit if a pin is put in every stitch, like <span class="stch">cr-P-cl</span> and even <span class="stch">ct-P-c</span>.   
-Please note: the diagrams on this page show all twists between stitches.    
+## A note on pins
 
-[pg-stitches]: ../docs/stitches
+If the ground is made with asymmetric stitches like <span class="stch">crcl</span>, the ground might benefit if a pin is put in every stitch, like <span class="stch">cr-P-cl</span> and even <span class="stch">ct-P-c</span>.   
 
 ## A note on footsides
 
