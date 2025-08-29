@@ -76,7 +76,7 @@ A zip file with more than 2000 rose ground variants can be <a href="https://gith
 
 ## Sunny stitch
 
-This stitch is created with a little loop at the sides of the rose ground. To obtain this, an onorthodox stitch is used at the sides of the unit. The examples below all use the same unit, but these units are connected in different ways. The colour <span class="b-blck">white</span> means: <span class="stch">crcllcrc</span> on the left  and <span class="stch">clcrrclc</span> on the right side of the unit.           
+This stitch is created with a little loop at the sides of the rose ground. To obtain this, an onorthodox stitch is used at the sides of the unit. The examples below all use the same unit, but these units are connected in different ways.          
 
 [![connection with clothstitches][P-0902-l]][T-0902-l] 
 [![connection with plaits][P-0902-f]][T-0902-f] 
