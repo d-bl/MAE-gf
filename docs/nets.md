@@ -74,13 +74,17 @@ A horizontal net ground made with non traditional stitches like <span class="stc
 
 The following examples look like a knitwork.   
 
-* [example 1][t-brei1]
-* [example 2][t-brei2]
-* [&amp;-ground][t-amp]    
+[![p-ec002]][t-brei1] 
+[![p-ec003]][t-brei2] 
+[![p-ec001]][t-amp]             
 
 [t-brei1]: /GroundForge/stitches?patchWidth=7&patchHeight=9&i1=ctct&b1=rcl&b2=lcr&a2=ctct&footside=x,4&tile=1,8&headside=7,x&footsideStitch=ctct&tileStitch=ctc&headsideStitch=ctct&shiftColsSW=1&shiftRowsSW=0&shiftColsSE=0&shiftRowsSE=2
 [t-brei2]: /GroundForge/stitches?patchWidth=7&patchHeight=9&i1=ctct&b1=rccl&b2=lccr&a2=ctct&footside=x,4&tile=1,8&headside=7,x&footsideStitch=ctct&tileStitch=ctc&headsideStitch=ctct&shiftColsSW=1&shiftRowsSW=0&shiftColsSE=0&shiftRowsSE=2
 [t-amp]: /GroundForge/stitches?patchWidth=8&patchHeight=8&a1=crctclcr&a2=clctcrcl&tile=1,8&tileStitch=ctc&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
+
+[p-ec001]: ../images/ec/EC001.png "EC-001, &-ground"
+[p-ec002]: ../images/ec/EC002.png "EC-002, knitting"
+[p-ec003]: ../images/ec/EC003.png "EC-003, knitting"
 
 ## Diagonal net
 
