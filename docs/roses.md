@@ -97,7 +97,7 @@ This stitch is created with a little loop at the sides of the rose ground. To ob
 [![traditional][P-0671-NG]][T-0671-NG] 
 [![0654-KG][P-0654-KG]][T-0654-KG] 
 [![0673-NG][P-0673-NG]][T-0673-NG] 
-[![0676-KV][P-0676-KV]][T-0676-KV] 
+[![0676-KG][P-0676-KG]][T-0676-KG] 
 [![0698-KG][P-0698-KG]][T-0698-KG] 
 [![0697-NG][P-0697-NG]][T-0697-NG] 
 [![0651-KG][P-0651-KG]][T-0651-KG]  
@@ -105,7 +105,7 @@ This stitch is created with a little loop at the sides of the rose ground. To ob
 
 [T-0671-NG]: /GroundForge/stitches?patchWidth=12&patchHeight=16&d1=ct&c1=ctct&b1=ct&a1=ctct&d2=ct&b2=ct&tile=5831,-4-7&tileStitch=ctct&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0673-NG]: /GroundForge/stitches?patchWidth=12&patchHeight=16&d1=tct&c1=ctc&b1=tct&a1=ctc&d2=c&b2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0676-KV]: /GroundForge/stitches?patchWidth=12&patchHeight=16&d1=c&c1=ctc&b1=c&a1=t&d2=c&b2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0676-KG]: /GroundForge/stitches?patchWidth=12&patchHeight=16&d1=c&c1=ctc&b1=c&a1=t&d2=c&b2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=c&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0654-KG]: /GroundForge/stitches?patchWidth=12&patchHeight=16&d1=cr&c1=ctct&b1=cl&a1=ctc&d2=ct&b2=ct&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 [T-0698-KG]: /GroundForge/stitches?patchWidth=12&patchHeight=16&d1=c&c1=ctctct&b1=c&a1=tctctc&d2=c&b2=c&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -116,7 +116,7 @@ This stitch is created with a little loop at the sides of the rose ground. To ob
 [P-0671-NG]: ../images/roses/0671-ng.png "traditional, 0671-N" 
 [P-0654-KG]: ../images/roses/0654-kg.png "0654-K"
 [P-0673-NG]: ../images/roses/0673-ng.png "0673-N"
-[P-0676-KV]: ../images/roses/0676-kv.png "0676-K"
+[P-0676-KG]: ../images/roses/0676-kg.png "0676-K"
 
 [P-0698-KG]: ../images/roses/0698-kg.png "0698-K"
 [P-0697-NG]: ../images/roses/0697-ng.png "0697-N"
