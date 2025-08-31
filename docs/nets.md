@@ -33,7 +33,7 @@ Please note: the second and third diagrams are equivalent in GroundForge terms. 
 
 It gets interesting, if we would use two (or more) different stitches. These grounds are known as "chaotic ground", "alternating ground", ...    
 
-For net-grounds with one stitch and its mirrored versions only, see page [_catalogue of stitches_][pg-stitches] and page _<a href="/GroundForge/nets" target="_blank">nets</a>_.       
+For net-grounds with one stitch and its mirrored versions only, see page [_catalogue of stitches_][pg-stitches] and page _<a href="/GroundForge/nets" target="_blank">net variations</a>_.       
 
 [p-net1]: ../images/nets/net1.png "horizontal net"
 [p-net2]: ../images/nets/net2.png "diagonal net"
@@ -51,7 +51,10 @@ For net-grounds with one stitch and its mirrored versions only, see page [_catal
 Horizontal nets can also be found in tape lace like Milanese, Hunnia and Russian lace.    
 A horizontal net ground made with non traditional stitches like <span class="stch">crcl</span> is called [_Embellished clothwork_][page-ec].     
 
-[![p-net1a]][t-net1a]  [![p-net1b]][t-net1b]  [![p-net1c]][t-net1c]  [![p-net1d]][t-net1d]     
+[![p-net1a]][t-net1a] 
+[![p-net1b]][t-net1b] 
+[![p-net1c]][t-net1c] 
+[![p-net1d]][t-net1d]     
 
 [p-net1a]: ../images/nets/net1a.png "vertical alternating ground; EC-004"
 [p-net1b]: ../images/nets/net1b.png "horizontal alternating ground; EC-005"
@@ -81,8 +84,10 @@ The following examples look like a knitwork.
 
 ## Diagonal net
 
-[![p-net2a]][t-net2a]  [![p-net2c]][t-net2c]       
-[![double crossed tulle in a ring][p-cc-ring]][t-cc-ring]  [![mini spider in ring][p-sp-ring]][t-sp-ring]          
+[![p-net2a]][t-net2a] 
+[![p-net2c]][t-net2c] 
+[![double crossed tulle in a ring][p-cc-ring]][t-cc-ring] 
+[![mini spider in ring][p-sp-ring]][t-sp-ring]          
 
 [t-net2a]: /GroundForge/stitches?patchWidth=12&patchHeight=12&c1=crc&a1=crc&d2=ct&b2=ct&c3=crc&a3=crc&d4=ct&b4=ct&tile=5-5-,-5-5,5-5-,-5-5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 [t-net2c]: /GroundForge/stitches?patchWidth=12&patchHeight=12&c1=ct&a1=clc&d2=ct&b2=clc&tile=5-5-,-5-5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
