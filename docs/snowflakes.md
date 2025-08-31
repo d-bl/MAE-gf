@@ -219,7 +219,7 @@ Some of the grounds can be made either as a crossed snowflake or as a rose groun
 [![as rose ground][pp-0116-kg]][tt-0116-kg]
 <p style="clear: both"></p>
    
-[pp-0116-kg]: ../images/roses/0116-kg-s.png "0116-K and 0356-K as a rose ground"
+[pp-0116-kg]: ../images/snow/0116-kg-s.png "0116-K and 0356-K as a rose ground"
 [pp-0356-kg]: ../images/snow/0356-kg-s.png "0356-K and 0116-K as a crossed snowflake ground"
 
 [tt-0116-kg]: /GroundForge/stitches?patchWidth=12&patchHeight=16&d1=c&c1=ctctc&b1=c&a1=ctctc&d2=ctc&b2=ctc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
