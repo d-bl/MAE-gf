@@ -108,11 +108,14 @@ The following examples look like a knitwork.
 
 The following examples look like sprang plaiting.    
 
-* [example 1][vi-sprang-1]
-* [example 2][vi-sprang-2]
+[![p-sprang-1]][vi-sprang-1] 
+[![p-sprang-2]][vi-sprang-2]    
 
 [vi-sprang-1]: /GroundForge/stitches?patchWidth=14&patchHeight=14&a1=clcl&tile=5-&footsideStitch=ctctt&tileStitch=clcl&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
 [vi-sprang-2]: /GroundForge/stitches?patchWidth=14&patchHeight=14&a1=cllcl&tile=5-&footsideStitch=ctctt&tileStitch=cllcl&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
+
+[p-sprang-1]: ../images/nets/sprang-1.png "sprang 1"
+[p-sprang-2]: ../images/nets/sprang-2.png "sprang 2"
 
 ## Honeycomb net Kat
 
