@@ -118,8 +118,8 @@ Usually, the little snowflake is drawn as picture on the left, on a 60 degree gr
 <p style="clear: both"></p>
 
 [p-snow-diamond]: ../images/snow/g-sn-uni-sq.svg?align=right "snowflake in a diamond"
-[P-0305-oiv]: ../images/snow/0305-oiv.png "0305-O"
-[P-0366-oiv]: ../images/snow/0366-oiv.png "0366-I"
+[P-0305-oiv]: ../images/snow_4/0305-oiv.png "0305-O"
+[P-0366-oiv]: ../images/snow_4/0366-oiv.png "0366-I"
 
 [T-0305-oiv]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ct&d1=ctctt&b2=ctr&c2=ctctt&d2=ctct&e2=ctctt&f2=ctl&a3=ctctt&b3=ctctt&c3=ct&e3=ct&f3=ctctt&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5--5--,-C632B,566-22
 [T-0366-oiv]: /GroundForge/stitches?patchWidth=12&patchHeight=12&paintStitches=ctct&d1=ctct&a1=tctct&f2=ctcl&e2=ctct&d2=ctc&c2=ctct&b2=ctcr&f3=ctct&e3=ctc&c3=ctc&b3=ctct&a3=ctct&tile=5--5--,-C632B,566-22&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
@@ -133,8 +133,8 @@ Usually, the little snowflake is drawn as picture on the left, on a 60 degree gr
 <p style="clear: both"></p>
 
 [p-snow-diax]: ../images/snow/g-sn-uni-sc.svg?align=right "snowflake crossed in a diamond"
-[P-0341-div]: ../images/snow/0341-div.png "0341-D"
-[P-0356-kio]: ../images/snow/0356-kio.png "0356-K"
+[P-0341-div]: ../images/snow_4/0341-div.png "0341-D"
+[P-0356-kio]: ../images/snow_4/0356-kio.png "0356-K"
 
 [T-0341-div]: /GroundForge/stitches?patchWidth=17&patchHeight=16&j1=ctctt&f1=ctctt&d1=ctct&c1=ct&b1=ctct&d2=ct&b2=ct&h3=ctctt&c3=ctct&d4=ct&b4=ct&j5=ctctt&f5=ctctt&d5=ctctt&c5=ct&b5=ctctt&tile=-O3E-5---5,-4-7--W-Y-,--5----5--,-B-C--Y-W-,-158-L---H&tileStitch=ctct&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5
 [T-0356-kio]: /GroundForge/stitches?patchWidth=17&patchHeight=16&j1=ctcl&f1=ctcr&d1=c&c1=ctct&b1=c&d2=cr&b2=cl&h3=ctct&c3=ctc&d4=c&b4=c&j5=ctcr&f5=ctcl&d5=c&c5=tctc&b5=c&tile=-O3E-5---5,-4-7--W-Y-,--5----5--,-B-C--Y-W-,-158-L---H&footsideStitch=tctct&tileStitch=ctc&headsideStitch=tctct&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5
