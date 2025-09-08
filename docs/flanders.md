@@ -33,8 +33,6 @@ For the actual lace the pins can be placed like a Flanders ground, or as a Torch
      title="rose ground"
 %}   
 
-Should you notice a photograph that doesn't match the generated thread diagram, please [contact](about-us#write-us) us.    
-
 ## Grounds
 
 {% include flanders.html src="106-1" name="Ans" d1="ct" a1="tc" b1="tctc" d2="tc" b2="tc" c1="tctc" %}
