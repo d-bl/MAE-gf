@@ -62,13 +62,13 @@ The traditional units separated with plaits. Please note: the plaits should stay
 
 ## Another fish
 
-The following grounds were created to work "upwards" from one square to another. As Groundforge does not support going upwards, the pattern in Groundforge is turned one quarter.   
+![Another fish][g-1111]
+
+The following grounds were created to work "upwards" from one square to another. As Groundforge does not support going upwards, the pattern in Groundforge is turned one quarter.  
+<p style="clear: both"></p>
 
 [![another fish 1][p-1114]][t-1114] 
 [![another fish 2][p-1111]][t-1111]
-
-![Another fish][g-1111]
-
 <p style="clear: both"></p>
 
 [g-1111]: ../images/misca/G-mine2.svg?align=right "Working upwards, 1111"
