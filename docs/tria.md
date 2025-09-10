@@ -18,7 +18,7 @@ title: Triangular grounds (Pagoda grounds)
 ## Introduction
 
 ![unit][p-pg-unit]
-On this page we show several placings of one unit of the <i>Pagoda</i> or <i>Triangular</i> ground. One unit is shown in the picture on the right.<br>Please note that some of the examples are mirrored.    
+On this page we show several placings of one unit of the <i>Pagoda</i> or <i>Triangular</i> ground. One unit is shown in the picture on the right.        
 <p style="clear: both"></p>
 
 [p-pg-unit]: ../images/tria/w-pg-unit.png?align=right "triangles"
