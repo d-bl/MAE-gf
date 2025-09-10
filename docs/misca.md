@@ -62,17 +62,21 @@ The traditional units separated with plaits. Please note: the plaits should stay
 
 ## Another fish
 
-![Another fish][P-1111]
 The following grounds were created to work "upwards" from one square to another. As Groundforge does not support going upwards, the pattern in Groundforge is turned one quarter.   
 
-* [example 1][T-1114]
-* [example 2][T-1111] 
+[![another fish 1][p-1114]][t-1114] 
+[![another fish 2][p-1111]][t-1111]
+
+![Another fish][g-1111]
+
 <p style="clear: both"></p>
 
-[P-1111]: ../images/misca/G-mine2.svg?align=right "working upwards, 1111"
+[g-1111]: ../images/misca/G-mine2.svg?align=right "Working upwards, 1111"
+[p-1111]: ../images/misca/1111.png?align=left "Another fish 2" 
+[p-1114]: ../images/misca/1114.png?align=left "Another fish 1" 
 
-[T-1111]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctct&c1=ct&b1=ctct&a1=ct&d2=ct&c2=ctct&a2=ctct&d3=ctct&c3=ct&b3=ctct&a3=ct&c4=ctct&b4=ct&a4=ctct&tile=8325,6-76,1563,224-&tileStitch=ct&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
-[T-1114]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctct&b1=ctc&c1=tctc&d1=ctc&a2=lctc&c2=ctcr&d2=c&a3=ctct&b3=ctc&c3=tctc&d3=ctc&a4=ctc&b4=c&c4=ctcl&tile=8325,6-76,1563,224-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[t-1111]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctct&c1=ct&b1=ctct&a1=ct&d2=ct&c2=ctct&a2=ctct&d3=ctct&c3=ct&b3=ctct&a3=ct&c4=ctct&b4=ct&a4=ctct&tile=8325,6-76,1563,224-&tileStitch=ct&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[t-1114]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctct&b1=ctc&c1=tctc&d1=ctc&a2=lctc&c2=ctcr&d2=c&a3=ctct&b3=ctc&c3=tctc&d3=ctc&a4=ctc&b4=c&c4=ctcl&tile=8325,6-76,1563,224-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Bias and Paris ground
 
@@ -80,7 +84,7 @@ The following grounds were created to work "upwards" from one square to another.
 As the "another fish" pattern, the pattern in Groundforge is turned one quarter.                  
 <p style="clear: both"></p>
 
-[p-2111]: ../images/misca/G-mine1.svg?align=left "working upwards, 2111"
+[p-2111]: ../images/misca/G-mine1.svg?align=left "Working upwards, 2111"
 [t-2111]: /GroundForge/stitches?patchWidth=12&patchHeight=12&b1=ctct&d1=ctct&a2=ctct&b2=ct&c2=ctct&d2=ct&e2=ctct&a3=ct&b3=ctct&d3=ctct&e3=ct&f3=ctct&tile=-7-4--,B831C-,66-225&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
 ## Windmills
