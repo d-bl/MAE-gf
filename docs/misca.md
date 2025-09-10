@@ -21,13 +21,17 @@ Miscellaneous examples, collected on this page.
 
 ## Vase ground
 
+[![vase ground 1][p-vase1]][t-vase1] 
+[![vase ground 2][p-vase2]][t-vase2]
+
 ![vase ground][p-vase]        
 
-* [example 1][t-vase1]
-* [example 2][t-vase2] 
 <p style="clear: both"></p>
 
 [p-vase]: ../images/misca/vase-ground.svg?align=right "vase ground"
+[p-vase1]: ../images/misca/vase-1.png?align=left "vase ground 1"
+[p-vase2]: ../images/misca/vase-2.png?align=left "vase ground 2"
+
 [t-vase1]: /GroundForge/stitches?patchWidth=30&patchHeight=30&g1=tctct&h2=ctc&f2=ctc&e3=ctc&c3=tctct&a3=ctc&h4=ctc&f4=ctc&d4=ctc&b4=ctc&tile=YX-XWX5X,XX-XX4-7,7-5-4X-X,-5-5-7-4,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [t-vase2]: /GroundForge/stitches?patchWidth=30&patchHeight=30&g1=ctc&h2=ctc&f2=ctc&e3=tctct&c3=ctc&a3=tctct&h4=tctct&f4=tctct&d4=ctc&b4=ctc&tile=YX-XWX5X,XX-XX4-7,7-5-4X-X,-5-5-7-4,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
