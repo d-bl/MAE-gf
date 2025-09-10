@@ -129,7 +129,7 @@ For a Binche style spider with narrow eye, please see page [_snowflakes_][page-s
 
 ## Binche spiders
 
-The Binche spiders are moved to page [_Snowflakes_][page_snow_6]. Also see [_Counting snowflake families_][count-page]. .   
+The Binche spiders are moved to page [_Snowflakes_][page_snow_6]. Also see [_Counting snowflake families_][count-page].   
 
 [page_snow_6]: ../docs/snow_6#binche-snowflakes
 [count-page]: ../docs/counting-snow/
