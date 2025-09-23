@@ -17,7 +17,7 @@ There are many ways of making snowflakes. See page [_Counting snowflake families
 
 ## Binche snowflakes
 
-[![binche snow][p-binche-snow]][t-binche-snow]
+[![binche snow][p-binche-snow]][T-ST3-03]
 Also know as "Bolletje".     
 <p style="clear: both"></p>
 
@@ -26,7 +26,7 @@ Also know as "Bolletje".
 [![family 123654][P-SP-BB3]][T-SP-BB3-01] 
 <p style="clear: both"></p>
 
-[t-binche-snow]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=ctcll&f1=ctcrr&g1=ctc&b2=ctc&e2=ctctctc&h2=ctc&a3=ctc&c3=ctcrr&d3=ctc&f3=ctc&g3=ctcll&shiftColsSE=4&shiftRowsSE=3&shiftColsSW=-4&shiftRowsSW=3&tile=5-25-56-,-5--5--5,5-C6-2B-
+[ST3-03]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=ctcll&f1=ctcrr&g1=ctc&b2=ctc&e2=ctctctc&h2=ctc&a3=ctc&c3=ctcrr&d3=ctc&f3=ctc&g3=ctcll&shiftColsSE=4&shiftRowsSE=3&shiftColsSW=-4&shiftRowsSW=3&tile=5-25-56-,-5--5--5,5-C6-2B-
 
 [T-SP-BB1-01]: /GroundForge/stitches?patchWidth=16&patchHeight=16&a1=ctc&c1=ctc&d1=ctct&f1=rctct&g1=ctc&h1=lctct&j1=ctct&k1=ctc&b2=ctc&g2=ctct&l2=ctc&a3=ctc&c3=ctc&d3=lctct&f3=ctct&g3=ctc&h3=ctct&j3=rctct&k3=ctc&b4=ctc&c4=lctct&d4=ctct&e4=ctct&f4=ctc&h4=ctc&i4=ctct&j4=ctct&k4=rctct&l4=ctc&tile=5-27-256-46-,-5----5----5,5-CD-B3C-AB-,-56866-22125&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-6&shiftRowsSW=4&shiftColsSE=6&shiftRowsSE=4
 
