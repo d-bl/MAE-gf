@@ -40,10 +40,10 @@ This star is a variant on the _snowflake with a narrow eye_ above. For the spide
 <p style="clear: both"></p>
 
 [P-SNA3]: ../images/snow_6/g-sna3.svg?align=left "star from narrow eyed spider"
-[p-st-kh-Ib]: ../images/snow_6/st-kh-Ib.svg?align=left "star I and II" 
-[p-st-kh-Mb]: ../images/snow_6/st-kh-Mb.svg?align=left "star mirror"
-[p-st-kh-Is]: ../images/snow_6/st-kh-Is.svg?align=left "star I and II" 
-[p-st-kh-Ms]: ../images/snow_6/st-kh-Ms.svg?align=left "star mirror"
+[p-st-kh-Ib]: ../images/star_6/st-kh-Ib.svg?align=left "star I and II" 
+[p-st-kh-Mb]: ../images/star_6/st-kh-Mb.svg?align=left "star mirror"
+[p-st-kh-Is]: ../images/star_6/st-kh-Is.svg?align=left "star I and II" 
+[p-st-kh-Ms]: ../images/star_6/st-kh-Ms.svg?align=left "star mirror"
 
 [T-SNA3-01]: /GroundForge/stitches.html?patchWidth=24&patchHeight=24&tile=8-4-,x5-5,4-5-,7-15,-5x-,5-73&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=3&c1=ctc&a1=ctc&d2=ctctc&b2=rrctctcrr&c3=ctc&a3=ctc&d4=ctc&c4=ctc&a4=ctc&b5=llctctcll&d6=ctc&c6=ctc&a6=ctc
 
