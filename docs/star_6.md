@@ -2,7 +2,7 @@
 layout: default
 title: Stars
 ---
-# Snowflakes
+# Stars
 
 ## Contents
 * [Introduction](#introduction)
