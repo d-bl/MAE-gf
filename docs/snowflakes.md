@@ -25,8 +25,9 @@ On this page several snowflake-grounds with 4 pairs are collected.
 
 ![Snowflake 60][p-snow-60]
 
-Usually, the little snowflake is drawn as picture on the left, on a 60 degree grid. Most of the variants shown on this page benefit of extra pins on the sides. As in the picture on the right. In the prickings below, the pins are not drawn. 
-The little snowflake can also be drawn on a 45 degree grid - especially the ones that are "crossed". 
+Usually, the little snowflake is drawn as picture on the left, on a 60 degree grid. The little snowflake can also be drawn on a 45 degree grid - especially the ones that are "crossed".    
+Most of the variants shown on this page benefit of extra pins on the sides. As in the picture on the right. In the prickings below, the pins are not drawn. 
+
 <p style="clear: both"></p>
 
 [p-snow-60]: ../images/snow/w-little-snow.png?align=right "snowflake drawing"
