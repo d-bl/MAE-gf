@@ -37,7 +37,7 @@ Miscellaneous examples, collected on this page.
 
 ## 3 pairs join
 
-The 3 pairs joins are moved to their own [_page_][p_snow_3].
+The 3 pairs joins are moved to their [own page][p_snow_3].
 
 [p_snow_3]: ../docs/snow_3
 
