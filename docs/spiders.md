@@ -136,9 +136,9 @@ The Binche spiders are moved to page [_Snowflakes_][page_snow_6]. Also see [_Cou
 
 ### traditional spider, on a Binche pricking
 
-[![binche small spider][P-ST3]][T-ST3-02]
+[![binche small spider][P-ST3B]][T-ST3-02]
 
-[P-ST3]: ../images/spiders/w-bi-spider.png "spider on binche pricking"
+[P-ST3B]: ../images/spiders/w-bi-spider.png "spider on binche pricking"
 [T-ST3-02]: /GroundForge/stitches?patchWidth=15&patchHeight=15&a1=ctcctc&e1=ctctttctc&b2=ctc&c2=ctcrrr&d2=ctc&e2=ctc&f2=ctc&g2=ctclll&h2=ctc&a3=ctc&b3=ctcrrr&c3=ctc&d3=ctc&f3=ctc&g3=ctc&h3=ctclll&tile=5---5---,-CD632AB,5666-222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
 
 ## Stacked spiders
