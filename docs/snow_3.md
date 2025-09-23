@@ -54,7 +54,7 @@ This [rose ground variant][T-3cc] looks like a three paired join, but has crossi
 
 Please note: star d uses the same GroundForge schema as half little snowflake a). For the 6 pairs version of star b and d see [_stars with 6 pairs_][page-6-stars].     
 
-[page-6-stars]: ../docs/snow_6#stars
+[page-6-stars]: ../docs/star_6
 
 ## Triangles    
 
