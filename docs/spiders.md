@@ -11,7 +11,7 @@ title: Spiders
 * [Torchon spiders](#torchon-spiders)
 * [Spiders with an eye](#spiders-with-an-eye)
 * [Spiders with a narrow eye](#spiders-with-a-narrow-eye)
-* [Spiders with outgoing pairs](#spiders-with-outgoing-pairs)
+* [Spiders with bouncing pairs](#spiders-with-bouncing-pairs)
 * [Binche spiders](#binche-spiders)
 * [Stacked spiders](#stacked-spiders)
      
@@ -111,7 +111,7 @@ For a Binche style spider with narrow eye, please see page [_snowflakes_][page-s
 
 [T-SNB3-01]: /GroundForge/stitches?patchWidth=16&patchHeight=16&a1=ctc&b1=ctc&d1=ctc&e1=ctc&f1=ctc&a2=ctc&e2=ctc&a3=ctc&b3=ctc&d3=ctc&e3=ctc&f3=ctc&a4=ctcrr&c4=ttctc&e4=ctcll&b5=ctc&d5=ctc&f5=ctctt&tile=86-215,4---7-,1C-B83,7-5-4-,-5-5-5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=5
 
-## Spiders with outgoing pairs
+## Spiders with bouncing pairs
 
 [![spider with outgoing pairs][P-SB3]][T-SB3-01]
 
