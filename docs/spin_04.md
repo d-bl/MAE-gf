@@ -10,10 +10,11 @@ title: Spiders 8 legs
 * [Introduction](#introduction)
 * [Torchon spiders](#torchon-spiders)
 * [Spiders with an eye](#spiders-with-an-eye)
+* [Stacked spiders](#stacked-spiders)
      
 ## Introduction
 
-On this page we show examples of grounds with spiders with 8 legs.       
+On this page we show examples of grounds with spiders with 8 (4x2) legs.       
 
 ## Torchon spiders
 
@@ -42,3 +43,9 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 
 [T-SEB2-01]: /GroundForge/stitches?patchWidth=8&patchHeight=8&a1=rctclctcrr&c1=lctcrctcll&b2=ctc&d2=ctct&tile=5-5-,-5-5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
+## Stacked spiders
+
+[![stacked spiders][P-SP-SA2]][T-SP-SA2-01]
+
+[P-SP-SA2]: ../images/spiders/g-sa1.svg "stacked spider"
+[T-SP-SA2-01]: /GroundForge/stitches?patchWidth=15&patchHeight=15&b1=ctc&a2=ctcll&c2=ctcrr&b3=ctctt&d3=ctc&a4=ctc&c4=ctc&d5=ctc&a6=ctcrr&c6=ctcll&b7=ctctt&d7=ctc&a8=ctc&c8=ctc&tile=-5--,B-C-,-5-5,5-5-,---5,C-B-,-5-5,5-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=8&shiftColsSE=2&shiftRowsSE=8
