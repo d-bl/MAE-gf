@@ -11,6 +11,7 @@ title: Spiders 12 legs
 * [Torchon spiders](#torchon-spiders)
 * [Spiders with an eye](#spiders-with-an-eye)
 * [Spiders with a narrow eye](#spiders-with-a-narrow-eye)
+* [Spiders with bouncing pairs](#spiders-with-bouncing-pairs)
      
 ## Introduction
 
@@ -76,7 +77,21 @@ For a Binche style spider with narrow eye, please see page [_snowflakes_][page-s
 [T-SNBQ3-02]: /GroundForge/stitches?patchWidth=16&patchHeight=16&h1=clc&f1=crc&c1=ctct&h2=ctt&g2=ctc&f2=ctt&e2=rcl&d2=rctct&c2=ctc&b2=lctct&a2=lcr&h3=ctc&f3=ctc&e3=rctct&d3=ctc&b3=ctc&a3=lctct&h4=lctct&g4=ctc&f4=rctct&e4=rrclcrc&d4=ttc&c4=ctc&b4=ttc&a4=llcrclc&tile=--5--7-4,C632B831,66-224-7,31583256&tileStitch=ctc&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [T-SNB3-01]: /GroundForge/stitches?patchWidth=16&patchHeight=16&a1=ctc&b1=ctc&d1=ctc&e1=ctc&f1=ctc&a2=ctc&e2=ctc&a3=ctc&b3=ctc&d3=ctc&e3=ctc&f3=ctc&a4=ctcrr&c4=ttctc&e4=ctcll&b5=ctc&d5=ctc&f5=ctctt&tile=86-215,4---7-,1C-B83,7-5-4-,-5-5-5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=5
 
+## Spiders with bouncing pairs
 
+[![spider with outgoing pairs][P-SB3]][T-SB3-01]
+
+[P-SB3]: ../images/spiders/g-sb3.svg "spider with outgoing pairs"
+
+[T-SB3-01]: /GroundForge/stitches.html?patchWidth=16&patchHeight=16&tile=4-5-73,76-24-,-158-5,5x-x5-&shiftColsSW=-3&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=4&f1=tctct&e1=ctc&c1=ctc&a1=ctc&e2=ctcll&d2=ctc&b2=ctc&a2=ctcrr&f3=ctctt&d3=ctc&c3=tctct&b3=ctc&e4=ctcrr&a4=ctcll
+
+### in a diamond
+
+[![spider with outgoing pairs in a diamond][P-SBQ3]][T-SBQ3-01]
+
+[P-SBQ3]: ../images/spiders/g-sbq3.svg "spider with bouncing pairs, in ring"
+
+[T-SBQ3-01]: /GroundForge/stitches.html?patchWidth=16&patchHeight=16&tile=-535-734,66-224-7,-158-256,5x-x5-5-,&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4&h1=ctc&g1=ctc&f1=ctc&d1=ctctl&c1=ctc&b1=ctctr&h2=ctcrr&f2=ctcll&e2=ctctl&d2=ctc&b2=ctc&a2=ctctr&h3=ctctr&g3=ctctt&f3=ctctl&d3=ctc&c3=ctc&b3=ctc&g4=ctct&e4=ctcrr&a4=ctcll
 
 
 
