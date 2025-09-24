@@ -13,7 +13,7 @@ title: Spiders 16 legs
      
 ## Introduction
 
-On this page we show examples of grounds with spiders with 16 legs (4x4).      
+On this page we show examples of grounds with spiders with 16 (4x4) legs.      
 
 ## Torchon spiders
 
