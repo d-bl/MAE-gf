@@ -45,7 +45,7 @@ A zip file with more than 2000 rose ground variants can be <a href="https://gith
 
 [p-rose-pricking]: ../images/roses/g01.svg?align=right "rose ground"
 [P-0111-NG]: ../images/roses/0111-ng.png "traditonal, 0111-N" 
-[P-0112-KG]: ../images/roses/0112-kg.png "0112-K"
+[P-0112-KG]: ../images/roses/0112-kg.png "8 pointed star, 0112-K"
 [P-0106-LG]: ../images/roses/0106-lg.png "0106-L"
 [P-0113-NG]: ../images/roses/0113-ng.png "0113-N"
 [P-0116-LG]: ../images/roses/0116-lg.png "0116-L"
