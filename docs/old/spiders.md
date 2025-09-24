@@ -38,14 +38,14 @@ All spiders 4x4 legs.
 
 [![4x2 legs][P-SQ2]][T-SQ2-01]  [![4x3 legs][P-SQ3]][T-SQ3-01]  [![4x4 legs][P-SQ4]][T-SQ4-01]  [![4x5 legs][P-SQ5]][T-SQ5-01]
 
-[P-ST2]: ../images/spiders/s-4x2.png "4x2 legs"
-[P-ST3]: ../images/spiders/s-4x3.png "4x3 legs"
-[P-ST4]: ../images/spiders/s-4x4.png "4x4 legs"
-[P-ST5]: ../images/spiders/s-4x5.png "4x5 legs"
-[P-SQ2]: ../images/spiders/r-4x2.png "4x2 legs, in ring" 
-[P-SQ3]: ../images/spiders/r-4x3.png "4x3 legs, in ring"
-[P-SQ4]: ../images/spiders/r-4x4.png "4x4 legs, in ring"
-[P-SQ5]: ../images/spiders/r-4x5.png "4x5 legs, in ring"
+[P-ST2]: https://d-bl.github.io/MAE-gf/images/spiders/s-4x2.png "4x2 legs"
+[P-ST3]: https://d-bl.github.io/MAE-gf/images/spiders/s-4x3.png "4x3 legs"
+[P-ST4]: https://d-bl.github.io/MAE-gf/images/spiders/s-4x4.png "4x4 legs"
+[P-ST5]: https://d-bl.github.io/MAE-gf/images/spiders/s-4x5.png "4x5 legs"
+[P-SQ2]: https://d-bl.github.io/MAE-gf/images/spiders/r-4x2.png "4x2 legs, in ring" 
+[P-SQ3]: https://d-bl.github.io/MAE-gf/images/spiders/r-4x3.png "4x3 legs, in ring"
+[P-SQ4]: https://d-bl.github.io/MAE-gf/images/spiders/r-4x4.png "4x4 legs, in ring"
+[P-SQ5]: https://d-bl.github.io/MAE-gf/images/spiders/r-4x5.png "4x5 legs, in ring"
 
 
 [T-ST2-01]: /GroundForge/stitches?whiting=F2_P178&patchWidth=12&patchHeight=15&b1=ctcctc&a2=ctcll&c2=ctcrr&b3=ctctt&d3=ctc&a4=ctc&c4=ctc&tile=-5--,B-C-,-5-5,5-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
@@ -74,11 +74,11 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 
 [![4x3 legs][P-SEQ3]][T-SEQ3-01]  [![4x4 legs][P-SEQ4]][T-SEQ4-01]
 
-[P-SEB2]: ../images/spiders/se-4x2.png "4x2, with eye"
-[P-SEB3]: ../images/spiders/se-4x3.png "4x3, with eye"
-[P-SEB4]: ../images/spiders/se-4x4.png "4x4, with eye"
-[P-SEQ3]: ../images/spiders/re-4x3.png "4x3, with eye, in ring"
-[P-SEQ4]: ../images/spiders/re-4x4.png "4x4, with eye, in ring"
+[P-SEB2]: https://d-bl.github.io/MAE-gf/images/spiders/se-4x2.png "4x2, with eye"
+[P-SEB3]: https://d-bl.github.io/MAE-gf/images/spiders/se-4x3.png "4x3, with eye"
+[P-SEB4]: https://d-bl.github.io/MAE-gf/images/spiders/se-4x4.png "4x4, with eye"
+[P-SEQ3]: https://d-bl.github.io/MAE-gf/images/spiders/re-4x3.png "4x3, with eye, in ring"
+[P-SEQ4]: https://d-bl.github.io/MAE-gf/images/spiders/re-4x4.png "4x4, with eye, in ring"
 
 [T-SEB2-01]: /GroundForge/stitches?patchWidth=8&patchHeight=8&a1=rctclctcrr&c1=lctcrctcll&b2=ctc&d2=ctct&tile=5-5-,-5-5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-SEB3-01]: /GroundForge/stitches?patchWidth=16&patchHeight=16&a1=ctc&c1=ctc&e1=ctc&b2=ctclctc&f2=ctcrctc&a3=ctc&c3=ctcrr&e3=ctcll&b4=ctcrr&d4=ctc&f4=ctcll&a5=ctctt&c5=ctc&e5=ctc&tile=5-5-5-,-5---5,5-C-B-,-5-5-5,5-5-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=5
@@ -103,8 +103,8 @@ For a Binche style spider with narrow eye, please see page [_snowflakes_][page-s
 [example with stars][T-SNBQ3-02]
 <p style="clear: both"></p>
 
-[P-SNBQ3]: ../images/spiders/g-snq3.svg?align=left "spider with a narrow eye, in ring"
-[P-SNB3]: ../images/spiders/g-sn3.svg?align=left "spider with a narrow eye" 
+[P-SNBQ3]: https://d-bl.github.io/MAE-gf/images/spiders/g-snq3.svg?align=left "spider with a narrow eye, in ring"
+[P-SNB3]: https://d-bl.github.io/MAE-gf/images/spiders/g-sn3.svg?align=left "spider with a narrow eye" 
 
 [T-SNBQ3-01]: /GroundForge/stitches?patchWidth=16&patchHeight=16&c1=ctct&f1=ctc&h1=ctc&a2=ctc&b2=lctct&c2=ctc&d2=rctct&e2=ctc&f2=ctc&g2=ctc&h2=ctc&a3=lctct&b3=ctc&d3=ctc&e3=rctct&f3=ctc&h3=ctc&a4=ctc&b4=ctc&c4=ctc&d4=ctc&e4=ctc&f4=rctct&g4=ctc&h4=lctct&tile=--5--7-4,C632B831,66-224-7,31583256&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [T-SNBQ3-02]: /GroundForge/stitches?patchWidth=16&patchHeight=16&h1=clc&f1=crc&c1=ctct&h2=ctt&g2=ctc&f2=ctt&e2=rcl&d2=rctct&c2=ctc&b2=lctct&a2=lcr&h3=ctc&f3=ctc&e3=rctct&d3=ctc&b3=ctc&a3=lctct&h4=lctct&g4=ctc&f4=rctct&e4=rrclcrc&d4=ttc&c4=ctc&b4=ttc&a4=llcrclc&tile=--5--7-4,C632B831,66-224-7,31583256&tileStitch=ctc&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
@@ -115,7 +115,7 @@ For a Binche style spider with narrow eye, please see page [_snowflakes_][page-s
 
 [![spider with outgoing pairs][P-SB3]][T-SB3-01]
 
-[P-SB3]: ../images/spiders/g-sb3.svg "spider with outgoing pairs"
+[P-SB3]: https://d-bl.github.io/MAE-gf/images/spiders/g-sb3.svg "spider with outgoing pairs"
 
 [T-SB3-01]: /GroundForge/stitches.html?patchWidth=16&patchHeight=16&tile=4-5-73,76-24-,-158-5,5x-x5-&shiftColsSW=-3&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=4&f1=tctct&e1=ctc&c1=ctc&a1=ctc&e2=ctcll&d2=ctc&b2=ctc&a2=ctcrr&f3=ctctt&d3=ctc&c3=tctct&b3=ctc&e4=ctcrr&a4=ctcll
 
@@ -123,7 +123,7 @@ For a Binche style spider with narrow eye, please see page [_snowflakes_][page-s
 
 [![spider with outgoing pairs in a diamond][P-SBQ3]][T-SBQ3-01]
 
-[P-SBQ3]: ../images/spiders/g-sbq3.svg "spider with outgoing pairs, in ring"
+[P-SBQ3]: https://d-bl.github.io/MAE-gf/images/spiders/g-sbq3.svg "spider with outgoing pairs, in ring"
 
 [T-SBQ3-01]: /GroundForge/stitches.html?patchWidth=16&patchHeight=16&tile=-535-734,66-224-7,-158-256,5x-x5-5-,&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4&h1=ctc&g1=ctc&f1=ctc&d1=ctctl&c1=ctc&b1=ctctr&h2=ctcrr&f2=ctcll&e2=ctctl&d2=ctc&b2=ctc&a2=ctctr&h3=ctctr&g3=ctctt&f3=ctctl&d3=ctc&c3=ctc&b3=ctc&g4=ctct&e4=ctcrr&a4=ctcll
 
@@ -138,14 +138,14 @@ The Binche spiders are moved to page [_Snowflakes_][page_snow_6]. Also see [_Cou
 
 [![binche small spider][P-ST3B]][T-ST3-02]
 
-[P-ST3B]: ../images/spiders/w-bi-spider.png "spider on binche pricking"
+[P-ST3B]: https://d-bl.github.io/MAE-gf/images/spiders/w-bi-spider.png "spider on binche pricking"
 [T-ST3-02]: /GroundForge/stitches?patchWidth=15&patchHeight=15&a1=ctcctc&e1=ctctttctc&b2=ctc&c2=ctcrrr&d2=ctc&e2=ctc&f2=ctc&g2=ctclll&h2=ctc&a3=ctc&b3=ctcrrr&c3=ctc&d3=ctc&f3=ctc&g3=ctc&h3=ctclll&tile=5---5---,-CD632AB,5666-222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
 
 ## Stacked spiders
 
 [![stacked spiders][P-SP-SA1]][T-SP-SA1-01]
 
-[P-SP-SA1]: ../images/spiders/g-sa1.svg "stacked spider"
+[P-SP-SA1]: https://d-bl.github.io/MAE-gf/images/spiders/g-sa1.svg "stacked spider"
 [T-SP-SA1-01]: /GroundForge/stitches?patchWidth=15&patchHeight=15&b1=ctc&a2=ctcll&c2=ctcrr&b3=ctctt&d3=ctc&a4=ctc&c4=ctc&d5=ctc&a6=ctcrr&c6=ctcll&b7=ctctt&d7=ctc&a8=ctc&c8=ctc&tile=-5--,B-C-,-5-5,5-5-,---5,C-B-,-5-5,5-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=8&shiftColsSE=2&shiftRowsSE=8
 
 
