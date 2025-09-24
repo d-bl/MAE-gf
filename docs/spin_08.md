@@ -10,7 +10,6 @@ title: Spiders 16 legs
 * [Introduction](#introduction)
 * [Torchon spiders](#torchon-spiders)
 * [Spiders with an eye](#spiders-with-an-eye)
-* [Stacked spiders](#stacked-spiders)
      
 ## Introduction
 
