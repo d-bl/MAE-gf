@@ -39,7 +39,7 @@ Please note: for a traditional Torchon spider, a stitch like <span class="stch">
 
 ![4x3 legs in a diamond][P-SQ3]
 
-[![4x3 legs][P-SQ3-01]][T-SQ3-01]  
+[![4x3 legs][P-SQ3-01]][T-SQ3-01] 
 <p style="clear: both"></p>
 
 [P-SQ3]: ../images/spin_6/r-4x3.png?align=right "4x3 legs, in diamond"
