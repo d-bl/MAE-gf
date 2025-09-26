@@ -43,26 +43,25 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 
 [![4x3 legs][P-SEB31]][T-SEB3-01] 
 [![spider with eye][P-SEB32]][T-SEB3-02] 
-
 <p style="clear: both"></p>
 
 ### in a diamond
 
 [![4x3 legs][P-SEQ3]][T-SEQ3-01]  
 
-[P-SEB31]: ../images/spiders/se-4x3.png "4x3, with eye"
-[P-SEQ3]: ../images/spiders/re-4x3.png "4x3, with eye, in ring"
-[P-SEB32]: ../images/snow_6/g-seb3.svg?align=left "snowflake with eye"
+[P-SEB31]: ../images/spiders/se-4x3.png "4x3 legs, with eye"
+[P-SEQ3]: ../images/spiders/re-4x3.png "4x3 legs, with eye, in ring"
+[P-SEB32]: ../images/snow_6/g-seb3.svg "4x3 legs, with eye"
 
 [T-SEB3-01]: /GroundForge/stitches?patchWidth=16&patchHeight=16&a1=ctc&c1=ctc&e1=ctc&b2=ctclctc&f2=ctcrctc&a3=ctc&c3=ctcrr&e3=ctcll&b4=ctcrr&d4=ctc&f4=ctcll&a5=ctctt&c5=ctc&e5=ctc&tile=5-5-5-,-5---5,5-C-B-,-5-5-5,5-5-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=5
 [T-SEQ3-01]: /GroundForge/stitches?patchWidth=15&patchHeight=15&b1=ctclctc&e1=ctct&h1=ctcrctc&a2=ctc&c2=ctc&d2=lctct&e2=ctc&f2=rctct&g2=ctc&b3=ctc&c3=lctct&d3=ctc&f3=ctc&g3=rctct&h3=ctc&a4=ctc&b4=lctct&c4=ctc&e4=ctc&g4=ctc&h4=rctct&tile=-5--5--5,5-C632B-,-566-225,566-5-22&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [T-SEB3-02]: /GroundForge/stitches.html?patchWidth=24&patchHeight=24&tile=7-r-4-5-,-5-5-5-5,5-5-5-5-,x5-5x-r-&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4&g1=ctc&e1=ctcll&c1=ctctctc&a1=ctcrr&h2=ctcrr&f2=ctcll&d2=ctc&b2=ctc&g3=ctc&e3=ctc&c3=ctc&a3=ctc&g4=ctc&d4=ctclctc&b4=ctcrctc
 
-
 ## Spiders with a narrow eye
 
 [![spider with narrow eye 1][P-SNB31]][T-SNB3-01] 
-[![spider with narrow eye][P-SNB32]][T_SNB3-02]      
+[![spider with narrow eye][P-SNB32]][T_SNB3-02]          
+<p style="clear: both"></p>
 
 [![spider with narrow eye 2][P-SNA31]][T-SNA3-01] 
 [![star from narrow eyed spider][P-SNA32]][T-SNA3-02] 
@@ -70,7 +69,7 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 
 Spiders with a narrow eye also can be achieved using <span class="elem">step 2</span> or <span class="elem">step 3</span> on a [_fish_][page-dr-fish] in <span class="stch">half stitch</span>.    
 For a Binche style spider with narrow eye, please see page [_snowflakes_][page-snb3].     
-<p style="clear: both"></p>
+
 
 [page-snb3]: ../docs/snow_6#snowflakes-with-an-eye
 [page-dr-fish]: ../docs/droste#fish
@@ -82,12 +81,12 @@ For a Binche style spider with narrow eye, please see page [_snowflakes_][page-s
 [example with stars][T-SNBQ3-02]
 <p style="clear: both"></p>
 
-[P-SNB31]: ../images/spiders/g-sn3.svg?align=left "spider with a narrow eye" 
+[P-SNB31]: ../images/spiders/g-sn3.svg "spider with a narrow eye" 
 [P-SNA31]: ../images/spiders/g-sb3.svg "spider with a narrow eye"
-[P-SNA32]: ../images/snow_6/g-sna3.svg?align=left "star from narrow eyed spider"
-[P-SNB32]: ../images/snow_6/g-snb3.svg?align=left "snowflake with a narrow eye" 
+[P-SNA32]: ../images/snow_6/g-sna3.svg "star from narrow eyed spider"
+[P-SNB32]: ../images/snow_6/g-snb3.svg "snowflake with a narrow eye" 
 
-[P-SNBQ3]: ../images/spiders/g-snq3.svg?align=left "spider with a narrow eye, in ring"
+[P-SNBQ3]: ../images/spiders/g-snq3.svg "spider with a narrow eye, in ring"
 [P-SNAQ3]: ../images/spiders/g-sbq3.svg "spider with a narrow eye, in ring"
 
 [T-SNBQ3-01]: /GroundForge/stitches?patchWidth=16&patchHeight=16&c1=ctct&f1=ctc&h1=ctc&a2=ctc&b2=lctct&c2=ctc&d2=rctct&e2=ctc&f2=ctc&g2=ctc&h2=ctc&a3=lctct&b3=ctc&d3=ctc&e3=rctct&f3=ctc&h3=ctc&a4=ctc&b4=ctc&c4=ctc&d4=ctc&e4=ctc&f4=rctct&g4=ctc&h4=lctct&tile=--5--7-4,C632B831,66-224-7,31583256&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
