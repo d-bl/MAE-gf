@@ -192,7 +192,7 @@ Most of the variants shown on this page benefit of extra pins on the sides. As i
 
 Please note the resemblance with [_paris grounds_][page-paris-alt] and ground d) with the [_stacked spiders_][page-st-sp]. 
 
-[page-st-sp]: ../docs/spiders#stacked-spiders
+[page-st-sp]: ../docs/spin_04#stacked-spiders
 [page-paris-alt]: ../docs/paris#another-arrangement
 
 ## Binche Snowflake
@@ -226,8 +226,6 @@ Some of the grounds can be made either as a crossed snowflake or as a rose groun
 [tt-0116-kg]: /GroundForge/stitches?patchWidth=12&patchHeight=16&d1=c&c1=ctctc&b1=c&a1=ctctc&d2=ctc&b2=ctc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [tt-0356-kg]: /GroundForge/stitches?patchWidth=20&patchHeight=20&e1=c&c1=c&h2=ctct&f2=c&d2=tctc&b2=c&g3=cl&a3=cr&h4=ctc&tile=--B-C---,-E-5-O-K,5-----5-,-------5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
-
-[page-spiders]: ../docs/spiders#binche-spiders
 [page-tips]: ../docs/tricks#ground-names
 [page-rose]: ../docs/roses#rose-ground-in-a-diamond
 [page-snow-3]: ../docs/snow_3#half_little_snowflake
