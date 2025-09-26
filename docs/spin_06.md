@@ -69,6 +69,7 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 ![4x3 with eye in diamond][P-SEQ3]
 
 [![4x3 legs][P-SEQ3-01]][T-SEQ3-01]  
+<p style="clear: both"></p>
 
 [P-SEQ3]: ../images/spiders/re-4x3.png?align=right "4x3 legs, with eye, in ring"
 [P-SEQ3-01]: /images/spin_6/SEQ3-01.png "4x3 legs, with eye, in ring"
