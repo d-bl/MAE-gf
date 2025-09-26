@@ -39,7 +39,7 @@ Please note: for a traditional Torchon spider, a stitch like <span class="stch">
 
 ![4x3 legs in a diamond][P-SQ3]
 
-[![4x3 legs][P-SQ3-01]][T-SQ3-01] 
+[![4x3 legs in a diamond][P-SQ3-01]][T-SQ3-01] 
 <p style="clear: both"></p>
 
 [P-SQ3]: ../images/spin_6/r-4x3.png?align=right "4x3 legs, in diamond"
@@ -53,8 +53,8 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 
 ![4x3 with eye][P-SEB3] 
 
-[![4x3 legs][P-SEB3-01]][T-SEB3-01] 
-[![spider with eye][P-SEB3-02]][T-SEB3-02] 
+[![4x3 legs with eye][P-SEB3-01]][T-SEB3-01] 
+[![4x3 legs with eye][P-SEB3-02]][T-SEB3-02] 
 <p style="clear: both"></p>
 
 [P-SEB3]: ../images/spin_6/se-4x3.png?align=right "4x3 legs, with eye"
@@ -68,7 +68,7 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 
 ![4x3 with eye in diamond][P-SEQ3]
 
-[![4x3 legs][P-SEQ3-01]][T-SEQ3-01]  
+[![4x3 legs with eye in diamond][P-SEQ3-01]][T-SEQ3-01] 
 <p style="clear: both"></p>
 
 [P-SEQ3]: ../images/spin_6/re-4x3.png?align=right "4x3 legs, with eye, in ring"
@@ -80,7 +80,7 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 
 ![spider with narrow eye][P-SNB3]
 
-[![spider with narrow eye 1][P-SNB3-01]][T-SNB3-01] 
+[![spider with narrow eye][P-SNB3-01]][T-SNB3-01] 
 [![spider with narrow eye][P-SNB3-02]][T_SNB3-02]          
 
 <p style="clear: both"></p>
@@ -94,7 +94,7 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 
 ![spider with narrow eye][P-SNA3]
 
-[![spider with narrow eye 2][P-SNA3-01]][T-SNA3-01] 
+[![spider with narrow eye][P-SNA3-01]][T-SNA3-01] 
 [![star from narrow eyed spider][P-SNA3-02]][T-SNA3-02] 
 <p style="clear: both"></p>
 
