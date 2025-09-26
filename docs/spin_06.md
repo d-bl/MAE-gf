@@ -72,7 +72,7 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 <p style="clear: both"></p>
 
 [P-SEQ3]: ../images/spin_6/re-4x3.png?align=right "4x3 legs, with eye, in ring"
-[P-SEQ3-01]: /images/spin_6/SEQ3-01.png
+[P-SEQ3-01]: ../images/spin_6/SEQ3-01.png
 
 [T-SEQ3-01]: /GroundForge/stitches?patchWidth=15&patchHeight=15&b1=ctclctc&e1=ctct&h1=ctcrctc&a2=ctc&c2=ctc&d2=lctct&e2=ctc&f2=rctct&g2=ctc&b3=ctc&c3=lctct&d3=ctc&f3=ctc&g3=rctct&h3=ctc&a4=ctc&b4=lctct&c4=ctc&e4=ctc&g4=ctc&h4=rctct&tile=-5--5--5,5-C632B-,-566-225,566-5-22&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
