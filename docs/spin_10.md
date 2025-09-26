@@ -3,7 +3,7 @@ layout: default
 title: Spiders 20 legs
 ---
 
-# Spiders
+# Spiders with 20 legs
 
 ## Contents
 
