@@ -28,7 +28,7 @@ Please note: for a traditional Torchon spider, a stitch like <span class="stch">
 [![binche style][P-ST3-02]][T-ST3-02]
 <p style="clear: both"></p>
 
-[P-ST3]: ../images/spiders/s-4x3.png?align=right "4x3 legs"
+[P-ST3]: ../images/spin_6/s-4x3.png?align=right "4x3 legs"
 [P-ST3-01]: ../images/spin_6/ST3-01.png
 [P-ST3-02]: ../images/spin_6/ST3-02.png
 
@@ -42,7 +42,7 @@ Please note: for a traditional Torchon spider, a stitch like <span class="stch">
 [![4x3 legs][P-SQ3-01]][T-SQ3-01]  
 <p style="clear: both"></p>
 
-[P-SQ3]: ../images/spiders/r-4x3.png?align=right "4x3 legs, in diamond"
+[P-SQ3]: ../images/spin_6/r-4x3.png?align=right "4x3 legs, in diamond"
 [P-SQ3-01]: ../images/spin_6/SQ3-01.png
 
 [T-SQ3-01]: /GroundForge/stitches?patchWidth=15&patchHeight=15&e1=ctct&a1=ctct&h2=ct&g2=ctc&f2=ctcr&e2=ctc&d2=ctcl&c2=ctc&b2=ct&h3=ctc&g3=ctcr&f3=ctc&e3=tct&d3=ctc&c3=ctcl&b3=ctc&a3=ct&h4=ctct&g4=ctc&f4=rct&d4=lct&c4=ctc&b4=ctct&a4=ctc&tile=5---5---,-CD632AB,56663222,5666-222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4&a3=ct&h4=rctct&g4=ctc&f4=rct&d4=lct&c4=ctc&b4=ctct&a4=ctc&tile=5---5---,-CD632AB,56663222,5666-222&tileStitch=ctc&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
@@ -57,7 +57,7 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 [![spider with eye][P-SEB3-02]][T-SEB3-02] 
 <p style="clear: both"></p>
 
-[P-SEB3]: ../images/spiders/se-4x3.png?align=right "4x3 legs, with eye"
+[P-SEB3]: ../images/spin_6/se-4x3.png?align=right "4x3 legs, with eye"
 [P-SEB3-01]: ../images/spin_6/SEB3-01.png "4x3 legs, with eye"
 [P-SEB3-02]: ../images/spin_6/SEB3-02.png "4x3 legs, with eye"
 
@@ -71,7 +71,7 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 [![4x3 legs][P-SEQ3-01]][T-SEQ3-01]  
 <p style="clear: both"></p>
 
-[P-SEQ3]: ../images/spiders/re-4x3.png?align=right "4x3 legs, with eye, in ring"
+[P-SEQ3]: ../images/spin_6/re-4x3.png?align=right "4x3 legs, with eye, in ring"
 [P-SEQ3-01]: /images/spin_6/SEQ3-01.png "4x3 legs, with eye, in ring"
 
 [T-SEQ3-01]: /GroundForge/stitches?patchWidth=15&patchHeight=15&b1=ctclctc&e1=ctct&h1=ctcrctc&a2=ctc&c2=ctc&d2=lctct&e2=ctc&f2=rctct&g2=ctc&b3=ctc&c3=lctct&d3=ctc&f3=ctc&g3=rctct&h3=ctc&a4=ctc&b4=lctct&c4=ctc&e4=ctc&g4=ctc&h4=rctct&tile=-5--5--5,5-C632B-,-566-225,566-5-22&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
@@ -119,7 +119,7 @@ For a Binche style spider with narrow eye, please see page [_snowflakes_][page-s
 [![spider with narrow eye and stars][P-SNBQ3-02]][T-SNBQ3-02]
 <p style="clear: both"></p>
 
-[P-SNBQ3]: ../images/spiders/g-snq3.svg?align=right "spider with a narrow eye, in ring"
+[P-SNBQ3]: ../images/spin_6/g-snq3.svg?align=right "spider with a narrow eye, in ring"
 [P-SNBQ3-01]: ../images/spin_6/SNBQ3-01.png "spider with narrow eye, in ring"
 [P-SNBQ3-02]: ../images/spin_6/SNBQ3-02.png "spider with narrow eye, in ring, with stars"
 
@@ -131,7 +131,7 @@ For a Binche style spider with narrow eye, please see page [_snowflakes_][page-s
 [![spider with outgoing pairs in a diamond][P-SNAQ3-01]][T-SNAQ3-01] 
 <p style="clear: both"></p>
 
-[P-SNAQ3]: ../images/spiders/g-sbq3.svg?align=right "spider with a narrow eye, in ring"
+[P-SNAQ3]: ../images/spin_6/g-sbq3.svg?align=right "spider with a narrow eye, in ring"
 [P-SNAQ3-01]: ../images/spin_6/SNAQ3-01.png "spider with narrow eye, in ring"
 
 [T-SNAQ3-01]: /GroundForge/stitches.html?patchWidth=16&patchHeight=16&tile=-535-734,66-224-7,-158-256,5x-x5-5-,&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4&h1=ctc&g1=ctc&f1=ctc&d1=ctctl&c1=ctc&b1=ctctr&h2=ctcrr&f2=ctcll&e2=ctctl&d2=ctc&b2=ctc&a2=ctctr&h3=ctctr&g3=ctctt&f3=ctctl&d3=ctc&c3=ctc&b3=ctc&g4=ctct&e4=ctcrr&a4=ctcll
