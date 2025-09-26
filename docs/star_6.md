@@ -26,12 +26,7 @@ Please note: GroundForge doesn't make a difference between star I and star II.
 For the 3-pairs version of these stars, please see [_3-pair stars_][page-3-star]. 
 <p style="clear: both"></p>
 
-[![star from narrow eyed spider][P-SNA3]][T-SNA3-01] 
-This star is a variant on the _snowflake with a narrow eye_ above. For the spider-style connection, see page [_Spiders with outgoing pairs_][page-SB3]. 
-<p style="clear: both"></p>
-
 [page-3-star]: ../docs/snow_3#stars
-[page-SB3]: ../docs/spiders#spiders-with-outgoing-pairs
 
 ### Spider style
 
@@ -39,13 +34,10 @@ This star is a variant on the _snowflake with a narrow eye_ above. For the spide
 [![star I and II][p-st-kh-Is]][t-st-kh-i-02] 
 <p style="clear: both"></p>
 
-[P-SNA3]: ../images/snow_6/g-sna3.svg?align=left "star from narrow eyed spider"
 [p-st-kh-Ib]: ../images/star_6/st-kh-Ib.svg?align=left "star I and II" 
 [p-st-kh-Mb]: ../images/star_6/st-kh-Mb.svg?align=left "star mirror"
 [p-st-kh-Is]: ../images/star_6/st-kh-Is.svg?align=left "star I and II" 
 [p-st-kh-Ms]: ../images/star_6/st-kh-Ms.svg?align=left "star mirror"
-
-[T-SNA3-01]: /GroundForge/stitches.html?patchWidth=24&patchHeight=24&tile=8-4-,x5-5,4-5-,7-15,-5x-,5-73&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=3&c1=ctc&a1=ctc&d2=ctctc&b2=rrctctcrr&c3=ctc&a3=ctc&d4=ctc&c4=ctc&a4=ctc&b5=llctctcll&d6=ctc&c6=ctc&a6=ctc
 
 [t-st-kh-i-01]: /GroundForge/stitches.html?patchWidth=24&patchHeight=24&tile=x-r-x535,86-214-7,x158x-5-,4-5-7-r-&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4&h1=ctc&g1=ctc&f1=ctc&c1=ctctctc&h2=ctc&f2=ctc&e2=ctctctc&d2=ctc&b2=ctc&a2=ctctctc&g3=ctc&d3=ctc&c3=ctc&b3=ctc&g4=ctc&e4=ctc&c4=tctct&a4=ctc
 
