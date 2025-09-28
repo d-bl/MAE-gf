@@ -30,7 +30,7 @@ Most of the variants shown on this page benefit of extra pins on the sides. As i
 
 <p style="clear: both"></p>
 
-[p-snow-60]: ../images/snow/w-little-snow.png?align=right "snowflake drawing"
+[p-snow-60]: ../images/snow_4/w-little-snow.png?align=right "snowflake drawing"
 
 ## Little Snowflake
 
