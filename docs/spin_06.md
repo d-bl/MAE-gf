@@ -117,7 +117,7 @@ Spiders with a narrow eye also can be achieved using <span class="elem">step 2</
 [![spider with narrow eye and stars][P-SNBQ3-02]][T-SNBQ3-02]
 <p style="clear: both"></p>
 
-[P-SNBQ3]: ../images/spin_6/g-snq3.svg?align=right "spider with a narrow eye, in ring"
+[P-SNBQ3]: ../images/spin_6/g-snbq3.svg?align=right "spider with a narrow eye, in ring"
 [P-SNBQ3-01]: ../images/spin_6/SNBQ3-01.png
 [P-SNBQ3-02]: ../images/spin_6/SNBQ3-02.png "with stars"
 
@@ -129,7 +129,7 @@ Spiders with a narrow eye also can be achieved using <span class="elem">step 2</
 [![spider narrow eye in a diamond][P-SNAQ3-01]][T-SNAQ3-01] 
 <p style="clear: both"></p>
 
-[P-SNAQ3]: ../images/spin_6/g-sbq3.svg?align=right "spider with a narrow eye, in ring"
+[P-SNAQ3]: ../images/spin_6/g-snaq3.svg?align=right "spider with a narrow eye, in ring"
 [P-SNAQ3-01]: ../images/spin_6/SNAQ3-01.png
 
 [T-SNAQ3-01]: /GroundForge/stitches.html?patchWidth=16&patchHeight=16&tile=-535-734,66-224-7,-158-256,5x-x5-5-,&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4&h1=ctc&g1=ctc&f1=ctc&d1=ctctl&c1=ctc&b1=ctctr&h2=ctcrr&f2=ctcll&e2=ctctl&d2=ctc&b2=ctc&a2=ctctr&h3=ctctr&g3=ctctt&f3=ctctl&d3=ctc&c3=ctc&b3=ctc&g4=ctct&e4=ctcrr&a4=ctcll
