@@ -47,16 +47,16 @@ Most of the variants shown on this page benefit of extra pins on the sides. As i
 [![0366-og][P-0366-og]][T-0366-og]
 <p style="clear: both"></p>
 
-[p-little-snow]: ../images/snow/g-sn-oo.svg?align=right "little snowflake"
-[P-0345-og]: ../images/snow/0345-og.png "0345-O"
-[P-0347-og]: ../images/snow/0347-og.png "0347-O"
-[P-0381-og]: ../images/snow/0381-og.png "0381-O"
-[P-0341-og]: ../images/snow/0341-og.png "half stitch spider, 0341-O"
-[P-0304-og]: ../images/snow/0304-og.png "0304-O"
-[P-0355-og]: ../images/snow/0355-og.png "0355-O"
-[P-0301-og]: ../images/snow/0301-og.png "s Gravenmoers, 0301-O"
-[P-0307-og]: ../images/snow/0307-og.png "0307-O"
-[P-0366-og]: ../images/snow/0366-og.png "0366-O"
+[p-little-snow]: ../images/snow_4/g-sn-oo.svg?align=right "little snowflake"
+[P-0345-og]: ../images/snow_4/0345-og.png "0345-O"
+[P-0347-og]: ../images/snow_4/0347-og.png "0347-O"
+[P-0381-og]: ../images/snow_4/0381-og.png "0381-O"
+[P-0341-og]: ../images/snow_4/0341-og.png "half stitch spider, 0341-O"
+[P-0304-og]: ../images/snow_4/0304-og.png "0304-O"
+[P-0355-og]: ../images/snow_4/0355-og.png "0355-O"
+[P-0301-og]: ../images/snow_4/0301-og.png "s Gravenmoers, 0301-O"
+[P-0307-og]: ../images/snow_4/0307-og.png "0307-O"
+[P-0366-og]: ../images/snow_4/0366-og.png "0366-O"
 
 [T-0345-og]: /GroundForge/stitches?patchWidth=12&patchHeight=20&c1=cr&a1=cl&b2=ctc&c3=c&a3=c&d4=tct&b4=tct&tile=5-5-,-5--,B-C-,-5-5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 [T-0347-og]: /GroundForge/stitches?patchWidth=12&patchHeight=20&c1=c&a1=c&b2=ctc&c3=c&a3=c&d4=tct&b4=tct&tile=5-5-,-5--,B-C-,-5-5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
@@ -85,18 +85,18 @@ Most of the variants shown on this page benefit of extra pins on the sides. As i
 [![0366-ng][P-0366-ng]][T-0366-ng] 
 <p style="clear: both"></p>
 
-[p-sn-cr]: ../images/snow/g-sn-cr.svg?align=right "little snowflake, crossed"
-[P-0305-kg]: ../images/snow/0305-kg.png "0305-K"
-[P-0306-kg]: ../images/snow/0306-kg.png "0306-K"
-[P-0356-kg]: ../images/snow/0356-kg.png "0356-K"
-[P-0381-ng]: ../images/snow/0381-ng.png "0381-N"
-[P-0309-ng]: ../images/snow/0309-ng.png "0309-N"
-[P-0341-ng]: ../images/snow/0341-ng.png "0341-N"
-[P-0301-ng]: ../images/snow/0301-ng.png "s Gravenmoers, 0301-N"
-[P-0307-ng]: ../images/snow/0307-ng.png "0307-N"
-[P-0342-lg]: ../images/snow/0342-lg.png "0342-L"
-[P-0343-dg]: ../images/snow/0343-dg.png "0343-D"
-[P-0366-ng]: ../images/snow/0366-ng.png "0366-N"
+[p-sn-cr]: ../images/snow_4/g-sn-cr.svg?align=right "little snowflake, crossed"
+[P-0305-kg]: ../images/snow_4/0305-kg.png "0305-K"
+[P-0306-kg]: ../images/snow_4/0306-kg.png "0306-K"
+[P-0356-kg]: ../images/snow_4/0356-kg.png "0356-K"
+[P-0381-ng]: ../images/snow_4/0381-ng.png "0381-N"
+[P-0309-ng]: ../images/snow_4/0309-ng.png "0309-N"
+[P-0341-ng]: ../images/snow_4/0341-ng.png "0341-N"
+[P-0301-ng]: ../images/snow_4/0301-ng.png "s Gravenmoers, 0301-N"
+[P-0307-ng]: ../images/snow_4/0307-ng.png "0307-N"
+[P-0342-lg]: ../images/snow_4/0342-lg.png "0342-L"
+[P-0343-dg]: ../images/snow_4/0343-dg.png "0343-D"
+[P-0366-ng]: ../images/snow_4/0366-ng.png "0366-N"
 
 [T-0305-kg]: /GroundForge/stitches?patchWidth=24&patchHeight=24&e1=c&c1=c&h2=tctct&f2=c&d2=tctct&b2=c&g3=cl&a3=cr&h4=tct&tile=--B-C---,-E-5-O-K,5-----5-,-------5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [T-0306-kg]: /GroundForge/stitches?patchWidth=24&patchHeight=24&c1=c&e1=c&b2=c&d2=tctc&f2=c&h2=ctct&a3=cr&g3=cl&h4=tct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=-4&shiftRowsSW=4&tile=--B-C---,-E-5-O-K,5-----5-,-------5
@@ -118,11 +118,11 @@ Most of the variants shown on this page benefit of extra pins on the sides. As i
 [![0366-oiv][P-0366-oiv]][T-0366-oiv]
 <p style="clear: both"></p>
 
-[p-snow-diamond]: ../images/snow/g-sn-uni-sq.svg?align=right "snowflake in a diamond"
+[p-snow-diamond]: ../images/snow_4/g-sn-uni-sq.svg?align=right "snowflake in a diamond"
 [P-0305-oiv]: ../images/snow_4/0305-oiv.png "0305-O"
 [P-0366-oiv]: ../images/snow_4/0366-oiv.png "0366-I"
 
-[T-0305-oiv]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ct&d1=ctctt&b2=ctr&c2=ctctt&d2=ctct&e2=ctctt&f2=ctl&a3=ctctt&b3=ctctt&c3=ct&e3=ct&f3=ctctt&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5--5--,-C632B,566-22
+[T-0305-oiv]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ct&d1=ctctt&b2=ctr&c2=ctctt&d2=ctct_4&e2=ctctt&f2=ctl&a3=ctctt&b3=ctctt&c3=ct&e3=ct&f3=ctctt&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5--5--,-C632B,566-22
 [T-0366-oiv]: /GroundForge/stitches?patchWidth=12&patchHeight=12&paintStitches=ctct&d1=ctct&a1=tctct&f2=ctcl&e2=ctct&d2=ctc&c2=ctct&b2=ctcr&f3=ctct&e3=ctc&c3=ctc&b3=ctct&a3=ctct&tile=5--5--,-C632B,566-22&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
 ## Snowflake in a diamond, crossed
@@ -133,7 +133,7 @@ Most of the variants shown on this page benefit of extra pins on the sides. As i
 [![0356-kio][P-0356-kio]][T-0356-kio]   
 <p style="clear: both"></p>
 
-[p-snow-diax]: ../images/snow/g-sn-uni-sc.svg?align=right "snowflake crossed in a diamond"
+[p-snow-diax]: ../images/snow_4/g-sn-uni-sc.svg?align=right "snowflake crossed in a diamond"
 [P-0341-div]: ../images/snow_4/0341-div.png "0341-D"
 [P-0356-kio]: ../images/snow_4/0356-kio.png "0356-K"
 
@@ -145,13 +145,13 @@ Most of the variants shown on this page benefit of extra pins on the sides. As i
 {% include captionfig.html
     lnk="/GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctc&c1=ctc&b1=ctc&a1=tctct&c2=ctc&b2=ctc&a2=ctc&tile=1011,114-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2"
     title="diagonal snowflakes a"
-    src="../images/snow/g-sn-dia.svg"
+    src="../images/snow_4/g-sn-dia.svg"
     txt="diagonal snowflakes a"
 %} 
 {% include captionfig.html
     lnk="/GroundForge/stitches?patchWidth=30&patchHeight=30&tile=688,14-&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&c1=ct&b1=ctct&a1=ct&b2=ct&a2=ct"
     title="diagnonal snowflakes b"
-    src="../images/snow/G39d.svg"
+    src="../images/snow_4/G39d.svg"
     txt="diagonal snowflakes b"
 %} 
 <p style="clear: both"></p>
@@ -161,31 +161,31 @@ Most of the variants shown on this page benefit of extra pins on the sides. As i
 {% include captionfig.html
     lnk="/GroundForge/stitches?patchWidth=15&patchHeight=20&c1=ct&a1=ctct&d2=cl&b2=cr&c3=ctct&d4=ct&b4=ct&c5=ct&a5=ct&tile=5-5-,-5-5,--5-,-b-c,5-5-&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=5"
     title="offset snowflakes, ground 63"
-    src="../images/snow/G63.svg"
+    src="../images/snow_4/G63.svg"
     txt="other arrangement a"
 %} 
 {% include captionfig.html
     lnk="/GroundForge/stitches?patchWidth=20&patchHeight=20&c1=ctc&a1=ctc&b2=tctct&c3=ctc&a3=ctc&d4=-&b4=-&d5=ctctctc&b5=ctctctc&tile=5-5-,x5x-,4-7-,-5-5,-r-r&footsideStitch=ctctt&tileStitch=ctctctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=5&shiftColsSE=2&shiftRowsSE=5"
     title="ground 37"
-    src="../images/snow/G37.svg"
+    src="../images/snow_4/G37.svg"
     txt="other arrangement b"
 %} 
 {% include captionfig.html
     lnk="/GroundForge/stitches?patchWidth=20&patchHeight=20&e1=-&c1=ctc&a1=ctc&e2=-&b2=tctct&e3=ctctctc&c3=ctc&a3=ctc&tile=5-5-5-,x5x-r-,4-7-r-&footsideStitch=ctctt&tileStitch=ctctctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3"
     title="ground 38"
-    src="../images/snow/G38.svg"
+    src="../images/snow_4/G38.svg"
     txt="other arrangement c"
 %} 
 {% include captionfig.html
     lnk="/GroundForge/stitches.html?patchWidth=16&patchHeight=16&tile=5-5-,-5-5,5x-x,-7-4&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=0&shiftRowsSE=4&c1=ctct&a1=ctc&d2=ctc&b2=ctc&a3=ctc&d4=ctcl&b4=ctcr"
     title="stacked snowflakes"
-    src="../images/snow/G03DV.svg"
+    src="../images/snow_4/G03DV.svg"
     txt="other arrangement d"
 %} 
 {% include captionfig.html
     lnk="/GroundForge/stitches.html?patchWidth=15&patchHeight=15&tile=7-4-,-5-5,5x-x&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=1&shiftRowsSE=3&c1=ctcl&a1=ctc&d2=ctc&b2=ctc&a3=tctct"
     title="ground 39"
-    src="../images/snow/G39v.svg"
+    src="../images/snow_4/G39v.svg"
     txt="other arrangement e"
 %} 
 <p style="clear: both"></p>
@@ -207,7 +207,7 @@ If the stitches indicated in white in the picture on the right are omitted, we g
 The examples are moved to a [_page with other 3 paired joins_][page-snow-3].
 <p style="clear: both"></p>
 
-[p-half-snowflake]: ../images/snow/half-snowflake.png?align=right "half little snowflake"
+[p-half-snowflake]: ../images/snow_4/half-snowflake.png?align=right "half little snowflake"
 
 ## Windmill snowflakes
 
