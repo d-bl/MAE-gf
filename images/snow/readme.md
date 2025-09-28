@@ -1,1 +1,0 @@
-Pictures on page Snowflakes.
