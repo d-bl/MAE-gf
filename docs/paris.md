@@ -128,7 +128,7 @@ This ground is also known as _Copenhagen hole_.
     txt="example 3"
 %}     
 
-Please note the resambles of example 2 with the [_Bias ground_][page-bias-trad], example 3 with the [_Diagonal placed little snowflakes_][page-snow4-diag] and [_Alernative placed little snowflakes_][page-snow4-alt].  
+Please note the resambles of example 2 with the [_Bias ground_][page-bias-trad], example 3 with the [_Diagonal placed little snowflakes_][page-snow4-diag] and [_Alternative placed little snowflakes_][page-snow4-alt].  
 <p style="clear: both"></p>
 
 [page-bias-trad]: ../docs/bias#traditional-bias-ground
