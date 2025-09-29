@@ -28,7 +28,7 @@ Please note: for a traditional Torchon spider, a stitch like <span class="stch">
 [![binche style][P-STB3-01]][T-STB3-01]
 <p style="clear: both"></p>
 
-[P-ST3]: ../images/spin_6/s-4x3.png?align=right "4x3 legs"
+[P-ST3]: ../images/spin_6/ST3.png?align=right "4x3 legs"
 [P-STS3-01]: ../images/spin_6/STS3-01.png
 [P-STB3-01]: ../images/spin_6/STB3-01.png
 
@@ -42,7 +42,7 @@ Please note: for a traditional Torchon spider, a stitch like <span class="stch">
 [![4x3 legs in a diamond][P-STQ3-01]][T-STQ3-01] 
 <p style="clear: both"></p>
 
-[P-STQ3]: ../images/spin_6/r-4x3.png?align=right "4x3 legs, in diamond"
+[P-STQ3]: ../images/spin_6/STQ3.png?align=right "4x3 legs, in diamond"
 [P-STQ3-01]: ../images/spin_6/STQ3-01.png
 
 [T-STQ3-01]: /GroundForge/stitches?patchWidth=15&patchHeight=15&e1=ctct&a1=ctct&h2=ct&g2=ctc&f2=ctcr&e2=ctc&d2=ctcl&c2=ctc&b2=ct&h3=ctc&g3=ctcr&f3=ctc&e3=tct&d3=ctc&c3=ctcl&b3=ctc&a3=ct&h4=ctct&g4=ctc&f4=rct&d4=lct&c4=ctc&b4=ctct&a4=ctc&tile=5---5---,-CD632AB,56663222,5666-222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4&a3=ct&h4=rctct&g4=ctc&f4=rct&d4=lct&c4=ctc&b4=ctct&a4=ctc&tile=5---5---,-CD632AB,56663222,5666-222&tileStitch=ctc&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
@@ -57,7 +57,7 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 [![4x3 legs with eye][P-SEB3-01]][T-SEB3-01] 
 <p style="clear: both"></p>
 
-[P-SE3]: ../images/spin_6/se-4x3.png?align=right "4x3 legs, with eye"
+[P-SE3]: ../images/spin_6/SE3.png?align=right "4x3 legs, with eye"
 [P-SES3-01]: ../images/spin_6/SES3-01.png
 [P-SEB3-01]: ../images/spin_6/SEB3-01.png
 
@@ -71,7 +71,7 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 [![4x3 legs with eye in diamond][P-SEQ3-01]][T-SEQ3-01] 
 <p style="clear: both"></p>
 
-[P-SEQ3]: ../images/spin_6/re-4x3.png?align=right "4x3 legs, with eye, in ring"
+[P-SEQ3]: ../images/spin_6/SEQ3.png?align=right "4x3 legs, with eye, in ring"
 [P-SEQ3-01]: ../images/spin_6/SEQ3-01.png
 
 [T-SEQ3-01]: /GroundForge/stitches?patchWidth=15&patchHeight=15&b1=ctclctc&e1=ctct&h1=ctcrctc&a2=ctc&c2=ctc&d2=lctct&e2=ctc&f2=rctct&g2=ctc&b3=ctc&c3=lctct&d3=ctc&f3=ctc&g3=rctct&h3=ctc&a4=ctc&b4=lctct&c4=ctc&e4=ctc&g4=ctc&h4=rctct&tile=-5--5--5,5-C632B-,-566-225,566-5-22&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
