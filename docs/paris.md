@@ -32,6 +32,7 @@ The photo shows the example on the bottom of this page, but slighty adapted to g
 [![0408-kg][P-0408-KG]][T-0408-KG] 
 [![0441-xg][P-0441-XG]][T-0441-XG] 
 [![0424-kf][P-0424-KF]][T-0424-KF] 
+[![0404-kg][P-0404-KG]][T-0404-KG] 
 <p style="clear: both"></p>
 
 [pic-par-grnd]: ../images/paris/G04.svg?align=right "paris ground" 
@@ -40,12 +41,14 @@ The photo shows the example on the bottom of this page, but slighty adapted to g
 [P-0408-KG]: ../images/paris/0408-kg.png "0408-K"
 [P-0424-KF]: ../images/paris/0424-kf.png "0424-P"
 [P-0441-XG]: ../images/paris/0441-xg.png "0441-X"
+[P-0404-KG]: ../images/paris/0404-kg.png "0404-K"
 
 [T-0400-DG]: /GroundForge/stitches?patchWidth=15&patchHeight=20&c1=ctct&a1=ctct&d2=ctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0403-KG]: /GroundForge/stitches?patchWidth=15&patchHeight=20&a1=c&c1=c&d2=tctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0424-KF]: /GroundForge/stitches?patchWidth=15&patchHeight=20&a1=ctctctcr&c1=ctctctcl&d2=ctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0408-KG]: /GroundForge/stitches?patchWidth=15&patchHeight=20&c1=c&a1=c&d2=ctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0441-XG]: /GroundForge/stitches?patchWidth=15&patchHeight=20&c1=crclcrc&a1=clcrclc&d2=tct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0404-KG]: /GroundForge/stitches?patchWidth=12&patchHeight=16&a1=cr&c1=cl&d2=ctctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ## Stretched Paris ground
 
