@@ -68,15 +68,18 @@ The following grounds were created to work "upwards" from one square to another.
 <p style="clear: both"></p>
 
 [![another fish 1][p-1114]][t-1114] 
-[![another fish 2][p-1111]][t-1111]
+[![another fish 2][p-1111]][t-1111] 
+[![another fish 3][p-1117]][t-1117]
 <p style="clear: both"></p>
 
 [g-1111]: ../images/misca/G-mine2.svg?align=right "Working upwards, 1111"
-[p-1111]: ../images/misca/1111.png?align=left "Another fish 2" 
-[p-1114]: ../images/misca/1114.png?align=left "Another fish 1" 
+[p-1111]: ../images/misca/1111.png "Another fish 2" 
+[p-1114]: ../images/misca/1114.png "Another fish 1" 
+[p-1117]: ../images/misca/1117.png?align=left "Another fish 3"
 
 [t-1111]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctct&c1=ct&b1=ctct&a1=ct&d2=ct&c2=ctct&a2=ctct&d3=ctct&c3=ct&b3=ctct&a3=ct&c4=ctct&b4=ct&a4=ctct&tile=8325,6-76,1563,224-&tileStitch=ct&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [t-1114]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctct&b1=ctc&c1=tctc&d1=ctc&a2=lctc&c2=ctcr&d2=c&a3=ctct&b3=ctc&c3=tctc&d3=ctc&a4=ctc&b4=c&c4=ctcl&tile=8325,6-76,1563,224-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[t-1117]: /GroundForge/stitches.html?patchWidth=24&patchHeight=24&tile=8325,6-76,1563,224-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4&d1=ctc&c1=cr&b1=ctct&a1=cl&d2=cl&c2=ctcl&a2=ctct&d3=ctct&c3=cl&b3=ctc&a3=cr&c4=ctcr&b4=cr&a4=ctct
 
 ## Bias and Paris ground
 
