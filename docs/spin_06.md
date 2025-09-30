@@ -11,6 +11,7 @@ title: Spiders 12 legs
 * [Torchon spiders](#torchon-spiders)
 * [Spiders with an eye](#spiders-with-an-eye)
 * [Spiders with a narrow eye](#spiders-with-a-narrow-eye)
+* [Open centered spider](#open-centered-spider)
      
 ## Introduction
 
@@ -134,4 +135,14 @@ Spiders with a narrow eye also can be achieved using <span class="elem">step 2</
 
 [T-SNAQ3-01]: /GroundForge/stitches.html?patchWidth=16&patchHeight=16&tile=-535-734,66-224-7,-158-256,5x-x5-5-,&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4&h1=ctc&g1=ctc&f1=ctc&d1=ctctl&c1=ctc&b1=ctctr&h2=ctcrr&f2=ctcll&e2=ctctl&d2=ctc&b2=ctc&a2=ctctr&h3=ctctr&g3=ctctt&f3=ctctl&d3=ctc&c3=ctc&b3=ctc&g4=ctct&e4=ctcrr&a4=ctcll
 
+## Open centered spider
 
+![open centered spider][P-SOCQ3]
+
+[![open centered spider][P-SOCQ3-01]][T-SOCQ3-01]
+<p style="clear: both"></p>
+
+[P-SOCQ3]: ../images/spin_6/g-socq3.svg?align=right "open centered spider"
+[P-SOCQ3-01]: ../images/spin_6/SOCQ3-01.png?align=left"
+
+[T-SOCQ3-01]: /GroundForge/stitches.html?patchWidth=20&patchHeight=25&tile=xx5-5-5xx-,x4-535-7x-,486632217-,6666-22225,6-4x-x7-25&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5&g1=rctcr&e1=ctct&c1=lctcl&h2=ctc&f2=rrctclt&e2=ctc&d2=llctcrt&b2=ctc&i3=ctcrctc&h3=ctc&g3=rrctclt&f3=ctc&e3=ctc&d3=ctc&c3=llctcrt&b3=ctc&a3=ctclctc&j4=ctc&i4=ctc&h4=rrctclt&g4=ctc&f4=ctclctc&d4=ctcrctc&c4=ctc&b4=llctcrt&a4=ctc&j5=ctc&i5=rrctclt&g5=ctc&c5=ctc&a5=llctcrt
