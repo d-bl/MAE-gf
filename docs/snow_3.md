@@ -101,6 +101,12 @@ Please note: star d uses the same GroundForge schema as half little snowflake a)
     src="../images/snow_3/3pr-123.png"
     txt="snowflake c"
 %} 
+{% include captionfig.html
+    lnk="/GroundForge/stitches.html?patchWidth=12&patchHeight=20&tile=76x-,yxxy,6-x4,x24-,xxww,x-27&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6&b1=ctc&a1=ct&d3=ctcll&a3=tctt&c4=ct&b4=ctc&d6=ctcrr&c6=tctt"
+    title="familie 231"
+    src="../images/snow_3/3pr-sn2.png"
+    txt="snowflake d"
+%} 
 <p style="clear: both"></p>   
 
 ## Half little snowflakes
