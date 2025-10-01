@@ -23,28 +23,20 @@ On this page we show examples of grounds with spiders with 12 (4x3) legs. Also s
 
 Please note: for a traditional Torchon spider, a stitch like <span class="stch">ctcctc</span> or <span class="stch">ctctctc</span> has to be chosen in the heart of the spider.
 
-![4x3 legs][P-ST3]  
+![4x3 legs][P-ST3] 
 
 [![4x3 legs][P-STS3-01]][T-STS3-01] 
-[![binche style][P-STB3-01]][T-STB3-01]
+[![binche style][P-STB3-01]][T-STB3-01] 
+[![4x3 legs in a diamond][P-STQ3-01]][T-STQ3-01] 
 <p style="clear: both"></p>
 
 [P-ST3]: ../images/spin_6/ST3.png?align=right "4x3 legs"
 [P-STS3-01]: ../images/spin_6/STS3-01.png
 [P-STB3-01]: ../images/spin_6/STB3-01.png
+[P-STQ3-01]: ../images/spin_6/STQ3-01.png
 
 [T-STS3-01]: /GroundForge/stitches?whiting=E4_P158&patchWidth=12&patchHeight=15&b1=ctcctc&a2=ctc&c2=ctc&d2=ctcrr&f2=ctcll&a3=ctcll&b3=ctc&c3=ctcrr&e3=ctc&b4=ctctt&d4=ctc&e4=ctc&f4=ctc&a5=ctc&c5=ctc&d5=ctc&f5=ctc&tile=-5----,B-CD-A,256-5-,-5-535,5-56-2&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=5
 [T-STB3-01]: /GroundForge/stitches?patchWidth=15&patchHeight=15&a1=ctcctc&e1=ctctttctc&b2=ctc&c2=ctcrrr&d2=ctc&e2=ctc&f2=ctc&g2=ctclll&h2=ctc&a3=ctc&b3=ctcrrr&c3=ctc&d3=ctc&f3=ctc&g3=ctc&h3=ctclll&tile=5---5---,-CD632AB,5666-222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
-
-### in a diamond
-
-![4x3 legs in a diamond][P-STQ3]
-
-[![4x3 legs in a diamond][P-STQ3-01]][T-STQ3-01] 
-<p style="clear: both"></p>
-
-[P-STQ3]: ../images/spin_6/STQ3.png?align=right "4x3 legs, in diamond"
-[P-STQ3-01]: ../images/spin_6/STQ3-01.png
 
 [T-STQ3-01]: /GroundForge/stitches?patchWidth=15&patchHeight=15&e1=ctct&a1=ctct&h2=ct&g2=ctc&f2=ctcr&e2=ctc&d2=ctcl&c2=ctc&b2=ct&h3=ctc&g3=ctcr&f3=ctc&e3=tct&d3=ctc&c3=ctcl&b3=ctc&a3=ct&h4=ctct&g4=ctc&f4=rct&d4=lct&c4=ctc&b4=ctct&a4=ctc&tile=5---5---,-CD632AB,56663222,5666-222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4&a3=ct&h4=rctct&g4=ctc&f4=rct&d4=lct&c4=ctc&b4=ctct&a4=ctc&tile=5---5---,-CD632AB,56663222,5666-222&tileStitch=ctc&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
@@ -56,42 +48,45 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 
 [![4x3 legs with eye][P-SES3-01]][T-SES3-01] 
 [![4x3 legs with eye][P-SEB3-01]][T-SEB3-01] 
+[![4x3 legs with eye in diamond][P-SEQ3-01]][T-SEQ3-01] 
 <p style="clear: both"></p>
 
 [P-SE3]: ../images/spin_6/SE3.png?align=right "4x3 legs, with eye"
 [P-SES3-01]: ../images/spin_6/SES3-01.png
 [P-SEB3-01]: ../images/spin_6/SEB3-01.png
+[P-SEQ3-01]: ../images/spin_6/SEQ3-01.png
 
 [T-SES3-01]: /GroundForge/stitches?patchWidth=16&patchHeight=16&a1=ctc&c1=ctc&e1=ctc&b2=ctclctc&f2=ctcrctc&a3=ctc&c3=ctcrr&e3=ctcll&b4=ctcrr&d4=ctc&f4=ctcll&a5=ctctt&c5=ctc&e5=ctc&tile=5-5-5-,-5---5,5-C-B-,-5-5-5,5-5-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=5
 [T-SEB3-01]: /GroundForge/stitches.html?patchWidth=24&patchHeight=24&tile=7-r-4-5-,-5-5-5-5,5-5-5-5-,x5-5x-r-&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4&g1=ctc&e1=ctcll&c1=ctctctc&a1=ctcrr&h2=ctcrr&f2=ctcll&d2=ctc&b2=ctc&g3=ctc&e3=ctc&c3=ctc&a3=ctc&g4=ctc&d4=ctclctc&b4=ctcrctc
-
-### in a diamond
-
-![4x3 with eye in diamond][P-SEQ3]
-
-[![4x3 legs with eye in diamond][P-SEQ3-01]][T-SEQ3-01] 
-<p style="clear: both"></p>
-
-[P-SEQ3]: ../images/spin_6/SEQ3.png?align=right "4x3 legs, with eye, in ring"
-[P-SEQ3-01]: ../images/spin_6/SEQ3-01.png
 
 [T-SEQ3-01]: /GroundForge/stitches?patchWidth=15&patchHeight=15&b1=ctclctc&e1=ctct&h1=ctcrctc&a2=ctc&c2=ctc&d2=lctct&e2=ctc&f2=rctct&g2=ctc&b3=ctc&c3=lctct&d3=ctc&f3=ctc&g3=rctct&h3=ctc&a4=ctc&b4=lctct&c4=ctc&e4=ctc&g4=ctc&h4=rctct&tile=-5--5--5,5-C632B-,-566-225,566-5-22&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Spiders with a narrow eye
 
+Spiders with a narrow eye also can be achieved using <span class="elem">step 2</span> or <span class="elem">step 3</span> on a [_fish_](../docs/droste#fish) in <span class="stch">half stitch</span>.   
+
 ![spider with narrow eye][P-SNB3]
 
 [![spider with narrow eye][P-SNBS3-01]][T-SNBS3-01] 
-[![spider with narrow eye][P-SNBB3-01]][T_SNBB3-01]          
+[![spider with narrow eye][P-SNBB3-01]][T_SNBB3-01] 
+[![spider with narrow eye, diamond][P-SNBQ3-01]][T-SNBQ3-01] 
+[![spider with narrow eye and stars][P-SNBQ3-02]][T-SNBQ3-02]
 
 <p style="clear: both"></p>
 
 [P-SNB3]: ../images/spin_6/g-snb3.svg?align=right "spider with a narrow eye" 
 [P-SNBS3-01]: ../images/spin_6/SNBS3-01.png
 [P-SNBB3-01]: ../images/spin_6/SNBB3-01.png
+[P-SNBQ3-01]: ../images/spin_6/SNBQ3-01.png
+[P-SNBQ3-02]: ../images/spin_6/SNBQ3-02.png "with stars"
 
 [T-SNBS3-01]: /GroundForge/stitches?patchWidth=16&patchHeight=16&a1=ctc&b1=ctc&d1=ctc&e1=ctc&f1=ctc&a2=ctc&e2=ctc&a3=ctc&b3=ctc&d3=ctc&e3=ctc&f3=ctc&a4=ctcrr&c4=ttctc&e4=ctcll&b5=ctc&d5=ctc&f5=ctctt&tile=86-215,4---7-,1C-B83,7-5-4-,-5-5-5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=5
+
 [T_SNBB3-01]: /GroundForge/stitches.html?patchWidth=24&patchHeight=24&tile=86-5,4x-r,17-r,7-5-,-215,-x7-,-483,5-4-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=4&shiftRowsSE=4&d1=ctc&b1=ctc&a1=ctc&d2=ctc&a2=ctc&d3=ctctctc&b3=ctcr&a3=ctc&c4=ctc&a4=ctcr&d5=ctc&c5=ctc&b5=ctc&c6=ctc&d7=ctc&c7=ctc&b7=ctcl&c8=ctcl&a8=ctc
+
+[T-SNBQ3-01]: /GroundForge/stitches?patchWidth=16&patchHeight=16&c1=ctct&f1=ctc&h1=ctc&a2=ctc&b2=lctct&c2=ctc&d2=rctct&e2=ctc&f2=ctc&g2=ctc&h2=ctc&a3=lctct&b3=ctc&d3=ctc&e3=rctct&f3=ctc&h3=ctc&a4=ctc&b4=ctc&c4=ctc&d4=ctc&e4=ctc&f4=rctct&g4=ctc&h4=lctct&tile=--5--7-4,C632B831,66-224-7,31583256&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+
+[T-SNBQ3-02]: /GroundForge/stitches?patchWidth=16&patchHeight=16&h1=clc&f1=crc&c1=ctct&h2=ctt&g2=ctc&f2=ctt&e2=rcl&d2=rctct&c2=ctc&b2=lctct&a2=lcr&h3=ctc&f3=ctc&e3=rctct&d3=ctc&b3=ctc&a3=lctct&h4=lctct&g4=ctc&f4=rctct&e4=rrclcrc&d4=ttc&c4=ctc&b4=ttc&a4=llcrclc&tile=--5--7-4,C632B831,66-224-7,31583256&tileStitch=ctc&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ![spider with narrow eye][P-SNA3]
 
@@ -101,48 +96,38 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 
 [P-SNA3]: ../images/spin_6/g-sna3.svg?align=right "spider with narrow eye"
 [P-SNAS3-01]: ../images/spin_6/SNAS3-01.png
-[P-SNAB3-01]: ../images/spin_6/SNAB3-01.png
+[P-SNAB3-01]: ../images/spin_6/SNAB3-01.png 
+[P-SNAQ3-01]: ../images/spin_6/SNAQ3-01.png
 
 [T-SNAS3-01]: /GroundForge/stitches.html?patchWidth=16&patchHeight=16&tile=4-5-73,76-24-,-158-5,5x-x5-&shiftColsSW=-3&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=4&f1=tctct&e1=ctc&c1=ctc&a1=ctc&e2=ctcll&d2=ctc&b2=ctc&a2=ctcrr&f3=ctctt&d3=ctc&c3=tctct&b3=ctc&e4=ctcrr&a4=ctcll
+
 [T-SNAB3-01]: /GroundForge/stitches.html?patchWidth=24&patchHeight=24&tile=8-4-,x5-5,4-5-,7-15,-5x-,5-73&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=3&c1=ctc&a1=ctc&d2=ctctc&b2=rrctctcrr&c3=ctc&a3=ctc&d4=ctc&c4=ctc&a4=ctc&b5=llctctcll&d6=ctc&c6=ctc&a6=ctc
-
-Spiders with a narrow eye also can be achieved using <span class="elem">step 2</span> or <span class="elem">step 3</span> on a [_fish_][page-dr-fish] in <span class="stch">half stitch</span>.    
-
-[page-dr-fish]: ../docs/droste#fish
-
-### in a diamond
-
-![spider with narrow eye in diamond][P-SNBQ3]
-
-[![spider with narrow eye, diamond][P-SNBQ3-01]][T-SNBQ3-01] 
-[![spider with narrow eye and stars][P-SNBQ3-02]][T-SNBQ3-02]
-<p style="clear: both"></p>
-
-[P-SNBQ3]: ../images/spin_6/g-snbq3.svg?align=right "spider with a narrow eye, in ring"
-[P-SNBQ3-01]: ../images/spin_6/SNBQ3-01.png
-[P-SNBQ3-02]: ../images/spin_6/SNBQ3-02.png "with stars"
-
-[T-SNBQ3-01]: /GroundForge/stitches?patchWidth=16&patchHeight=16&c1=ctct&f1=ctc&h1=ctc&a2=ctc&b2=lctct&c2=ctc&d2=rctct&e2=ctc&f2=ctc&g2=ctc&h2=ctc&a3=lctct&b3=ctc&d3=ctc&e3=rctct&f3=ctc&h3=ctc&a4=ctc&b4=ctc&c4=ctc&d4=ctc&e4=ctc&f4=rctct&g4=ctc&h4=lctct&tile=--5--7-4,C632B831,66-224-7,31583256&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
-[T-SNBQ3-02]: /GroundForge/stitches?patchWidth=16&patchHeight=16&h1=clc&f1=crc&c1=ctct&h2=ctt&g2=ctc&f2=ctt&e2=rcl&d2=rctct&c2=ctc&b2=lctct&a2=lcr&h3=ctc&f3=ctc&e3=rctct&d3=ctc&b3=ctc&a3=lctct&h4=lctct&g4=ctc&f4=rctct&e4=rrclcrc&d4=ttc&c4=ctc&b4=ttc&a4=llcrclc&tile=--5--7-4,C632B831,66-224-7,31583256&tileStitch=ctc&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
-
-![spider with narrow eye in diamond][P-SNAQ3]
-
-[![spider narrow eye in a diamond][P-SNAQ3-01]][T-SNAQ3-01] 
-<p style="clear: both"></p>
-
-[P-SNAQ3]: ../images/spin_6/g-snaq3.svg?align=right "spider with a narrow eye, in ring"
-[P-SNAQ3-01]: ../images/spin_6/SNAQ3-01.png
 
 [T-SNAQ3-01]: /GroundForge/stitches.html?patchWidth=16&patchHeight=16&tile=-535-734,66-224-7,-158-256,5x-x5-5-,&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4&h1=ctc&g1=ctc&f1=ctc&d1=ctctl&c1=ctc&b1=ctctr&h2=ctcrr&f2=ctcll&e2=ctctl&d2=ctc&b2=ctc&a2=ctctr&h3=ctctr&g3=ctctt&f3=ctctl&d3=ctc&c3=ctc&b3=ctc&g4=ctct&e4=ctcrr&a4=ctcll
 
 ## Open centered spider
 
-![open centered spider][P-SOCQ3]
+Please note: these spiders have 12 legs. On each side, a pair is "bouncing": it takes a detour outside the spider and returns in.    
 
-[![open centered spider][P-SOCQ3-01]][T-SOCQ3-01]
+![open centered spider][P-SOC3]
+
+[![open centered spider 1][P-SOC13-01]][T-SOC13-01] 
+[![open centered spider 2][P-SOC23-01]][T-SOC23-01] 
+[![open centered spider B][P-SOCB3-01]][T-SOCB3-01] 
+[![open centered spider Q][P-SOCQ3-01]][T-SOCQ3-01] 
 <p style="clear: both"></p>
 
-[P-SOCQ3]: ../images/spin_6/g-socq3.svg?align=right "open centered spider"
-[P-SOCQ3-01]: ../images/spin_6/SOCQ3-01.png?align=left"
+[P-SOC3]: ../images/spin_6/g-soc3.svg?align=right "open centered spider"
+
+[P-SOC13-01]: ../images/spin_6/SOC13-01.png?align=left"
+[P-SOC23-01]: ../images/spin_6/SOC23-01.png
+[P-SOCB3-01]: ../images/spin_6/SOCB3-01.png
+[P-SOCQ3-01]: ../images/spin_6/SOCQ3-01.png
+
+[T-SOC13-01]: /GroundForge/stitches.html?patchWidth=30&patchHeight=30&tile=25-56-,x7-4x-,xx5xx-,x4-7x-,48-17-,6-5-25,-535-5,&shiftColsSW=-3&shiftRowsSW=7&shiftColsSE=3&shiftRowsSE=7&e1=ctcrrctc&d1=ctc&b1=ctc&a1=ctcllctc&d2=ctcll&b2=ctcrr&c3=ctctt&d4=ctc&b4=ctc&e5=ctcrrctc&d5=ctcll&b5=ctcrr&a5=ctcllctc&f6=tct&e6=ctcll&c6=ctc&a6=ctcrr&f7=ctctt&d7=ctc&c7=tct&b7=ctc
+
+[T-SOC23-01]: /GroundForge/stitches.html?patchWidth=30&patchHeight=30&tile=xx5-5xx-,x4-5-7x-,4863217-,666-2225,-4x-x7-5&shiftColsSW=-4&shiftRowsSW=5&shiftColsSE=4&shiftRowsSE=5&e1=ctctt&c1=ctctt&f2=ctc&d2=ctc&b2=ctc&g3=ctcrrctc&f3=ctcll&e3=ctc&d3=ctc&c3=ctc&b3=ctcrr&a3=ctcllctc&h4=ctc&g4=ctcll&f4=ctc&e4=ctcllctc&c4=ctcrrctc&b4=ctc&a4=ctcrr&h5=ctctt&f5=ctcrr&b5=ctcll
+
+[T-SOCB3-01]: /GroundForge/stitches.html?patchWidth=30&patchHeight=30&tile=xx5--5--5xx-,x4-w632y-7x-,48v66-22z17-,6v-4x-x7-z25&shiftColsSW=-6&shiftRowsSW=4&shiftColsSE=6&shiftRowsSE=4&i1=ttctctt&f1=ctctctc&c1=ttctctt&j2=ctc&g2=ctc&f2=ctc&e2=ctc&b2=ctc&k3=ctcrrctc&j3=ctcll&h3=ctc&g3=ctcllctc&e3=ctcrrctc&d3=ctc&b3=ctcrr&a3=ctcllctc&l4=ctc&k4=ctc&h4=ctc&d4=ctc&a4=ctc
 
 [T-SOCQ3-01]: /GroundForge/stitches.html?patchWidth=20&patchHeight=25&tile=xx5-5-5xx-,x4-535-7x-,486632217-,6666-22225,6-4x-x7-25&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5&g1=rctcr&e1=ctct&c1=lctcl&h2=ctc&f2=rrctclt&e2=ctc&d2=llctcrt&b2=ctc&i3=ctcrctc&h3=ctc&g3=rrctclt&f3=ctc&e3=ctc&d3=ctc&c3=llctcrt&b3=ctc&a3=ctclctc&j4=ctc&i4=ctc&h4=rrctclt&g4=ctc&f4=ctclctc&d4=ctcrctc&c4=ctc&b4=llctcrt&a4=ctc&j5=ctc&i5=rrctclt&g5=ctc&c5=ctc&a5=llctcrt
