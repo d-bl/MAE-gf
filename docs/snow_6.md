@@ -41,7 +41,7 @@ Also know as "Bolletje".
 [P-SP-BB3]: ../images/snow_6/bs-123654.png "family 123654"
 [P-SP-BB2]: ../images/snow_6/bs-623451.png "family 623451"
 [P-SP-BB1]: ../images/snow_6/bs-563412.png "family 563412"
-[P-SVB3-01]: ../images/snow_6/SVB3-01.png "family 351625"
+[P-SVB3-01]: ../images/snow_6/SVB3-01.png "family 351624"
 
 [count-page]: ../docs/counting-snow/
 
