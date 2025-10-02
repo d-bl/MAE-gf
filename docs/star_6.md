@@ -9,7 +9,8 @@ title: Stars
 * [Stars](#stars)
 
 ## Introduction
-On this pages examples of stars with 6 pairs coming in and going out.   
+On this pages examples of stars with 6 pairs coming in and going out.      
+For the 3-pairs version of these stars, please see [_3-pair stars_](../docs/snow_3#stars). 
 
 ## Stars
 
@@ -18,8 +19,6 @@ The stars are also published in the following books:
 * Viele gute Gründe, by U. Löhr: B3.47 to B3.51.    
 
 Please note: GroundForge doesn't make a difference between star I and star II.     
-
-For the 3-pairs version of these stars, please see [_3-pair stars_](../docs/snow_3#stars). 
 
 ![star mirror][p-st-kh-M]
 
