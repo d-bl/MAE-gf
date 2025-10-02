@@ -21,9 +21,9 @@ On this page we show examples of grounds with spiders with 12 (4x3) legs. Also s
 
 ## Torchon spiders
 
-Please note: for a traditional Torchon spider, a stitch like <span class="stch">ctcctc</span> or <span class="stch">ctctctc</span> has to be chosen in the heart of the spider.
-
 ![4x3 legs][P-ST3] 
+
+Please note: for a traditional Torchon spider, a stitch like <span class="stch">ctcctc</span> or <span class="stch">ctctctc</span> has to be chosen in the heart of the spider.
 
 [![4x3 legs][P-STS3-01]][T-STS3-01] 
 [![binche style][P-STB3-01]][T-STB3-01] 
@@ -42,9 +42,9 @@ Please note: for a traditional Torchon spider, a stitch like <span class="stch">
 
 ## Spiders with an eye
 
-Please note: to get a clear eye in the middle, the stitches in the eye of the spider have to be chosen like the example for the 4x3 legged spider: <span class="stch">B2=ctclctc F2=ctcrctc </span>.
-
 ![4x3 with eye][P-SE3] 
+
+Please note: to get a clear eye in the middle, the stitches in the eye of the spider have to be chosen like the example for the 4x3 legged spider: <span class="stch">B2=ctclctc F2=ctcrctc </span>.
 
 [![4x3 legs with eye][P-SES3-01]][T-SES3-01] 
 [![4x3 legs with eye][P-SEB3-01]][T-SEB3-01] 
@@ -107,9 +107,9 @@ Spiders with a narrow eye also can be achieved using <span class="elem">step 2</
 
 ## Open centered spider
 
-Please note: these spiders have 12 legs. On each side, a pair is "bouncing": it takes a detour outside the spider and returns in. The outside of the spider is indicated in <span class="b-pink">pink</span>.      
-
 ![open centered spider][P-SOC3]
+
+Please note: these spiders have 12 legs. On each side, a pair is "bouncing": it takes a detour outside the spider and returns in. The outside of the spider is indicated in <span class="b-pink">pink</span> in the diagram on the right.      
 
 [![open centered spider 1][P-SOC13-01]][T-SOC13-01] 
 [![open centered spider 2][P-SOC23-01]][T-SOC23-01] 
