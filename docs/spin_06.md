@@ -107,7 +107,7 @@ Spiders with a narrow eye also can be achieved using <span class="elem">step 2</
 
 ## Open centered spider
 
-Please note: these spiders have 12 legs. On each side, a pair is "bouncing": it takes a detour outside the spider and returns in.    
+Please note: these spiders have 12 legs. On each side, a pair is "bouncing": it takes a detour outside the spider and returns in. The outside of the spider is indicated in <span class="b-pink">pink</span>.      
 
 ![open centered spider][P-SOC3]
 
