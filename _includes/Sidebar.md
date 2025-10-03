@@ -20,7 +20,7 @@ n-Pair joins:
 * 4 pair joins
   * [Little snowflakes](/MAE-gf/docs/snowflakes)  
   * [spiders with 8 legs](/MAE-gf/docs/spin_04)  
-  * [indmills](/MAE-gf/docs/windmills)
+  * [windmills](/MAE-gf/docs/windmills)
 * 6 pair joins
   * [snowflakes](/MAE-gf/docs/snow_6)
     (more in the [mixer](/GroundForge/mix4snow/))
