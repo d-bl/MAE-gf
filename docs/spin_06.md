@@ -11,7 +11,7 @@ title: Spiders 12 legs
 * [Torchon spiders](#torchon-spiders)
 * [Spiders with an eye](#spiders-with-an-eye)
 * [Spiders with a narrow eye](#spiders-with-a-narrow-eye)
-* [Open centered spider](#open-centered-spider)
+* [Open centered spiders](#open-centered-spiders)
      
 ## Introduction
 
@@ -105,7 +105,7 @@ Spiders with a narrow eye also can be achieved using <span class="elem">step 2</
 
 [T-SNAQ3-01]: /GroundForge/stitches.html?patchWidth=16&patchHeight=16&tile=-535-734,66-224-7,-158-256,5x-x5-5-,&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4&h1=ctc&g1=ctc&f1=ctc&d1=ctctl&c1=ctc&b1=ctctr&h2=ctcrr&f2=ctcll&e2=ctctl&d2=ctc&b2=ctc&a2=ctctr&h3=ctctr&g3=ctctt&f3=ctctl&d3=ctc&c3=ctc&b3=ctc&g4=ctct&e4=ctcrr&a4=ctcll
 
-## Open centered spider
+## Open centered spiders
 
 ![open centered spider][P-SOC3]
 
