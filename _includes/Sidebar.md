@@ -19,7 +19,7 @@
   * [Little snowflakes](/MAE-gf/docs/snowflakes)  
   * [Spiders with 8 legs](/MAE-gf/docs/spin_04)  
   * [Windmills](/MAE-gf/docs/windmills)
-  * 6 pair joins
+* 6 pair joins
   * [Snowflakes](/MAE-gf/docs/snow_6)
   * [Spiders with 12 legs](/MAE-gf/docs/spin_06)  
   * [Stars](/MAE-gf/docs/star_6)
