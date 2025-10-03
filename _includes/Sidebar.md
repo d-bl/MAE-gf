@@ -9,7 +9,7 @@
 [Catalogue of stitches](/MAE-gf/docs/stitches)  
 [Listing and counting stitches](/MAE-gf/docs/counting)  
 &nbsp;  
-n-Pair joins:  
+n-Pair joins:
 * [Counting families](/MAE-gf/docs/counting-snow)  
 * [Stitches](/MAE-gf/docs/snow-stitches)
 * *examples*  
