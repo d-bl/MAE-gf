@@ -29,7 +29,7 @@ n-Pair joins:
 * 8 pair joins
   * [Spiders with 16 legs](/MAE-gf/docs/spin_08)
 * 10 pair joins
-  * [ Spiders  with 20 legs](/MAE-gf/docs/spin_10)  
+  * [Spiders with 20 legs](/MAE-gf/docs/spin_10)  
  
 &nbsp;  
 [Net Grounds](/MAE-gf/docs/nets)  
