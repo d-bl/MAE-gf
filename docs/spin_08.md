@@ -10,6 +10,8 @@ title: Spiders 16 legs
 * [Introduction](#introduction)
 * [Torchon spiders](#torchon-spiders)
 * [Spiders with an eye](#spiders-with-an-eye)
+* [Open centered spiders](#open-centered-spiders)
+* [Other spiders](#other-spiders)
      
 ## Introduction
 
@@ -50,10 +52,7 @@ Please note: for a traditional Torchon spider, a stitch like <span class="stch">
 
 Please note: to get a clear eye in the middle, the stitches in the eye of the spider have to be chosen like the example for the 4x3 legged spider: <span class="stch">B2=ctclctc F2=ctcrctc </span>.
 
-[![4x4 legs][P-SEB4]][T-SEB4-01]
-
-### in a diamond
-
+[![4x4 legs][P-SEB4]][T-SEB4-01] 
 [![4x4 legs][P-SEQ4]][T-SEQ4-01]
 
 [P-SEB4]: ../images/spiders/se-4x4.png "4x4, with eye"
@@ -63,6 +62,18 @@ Please note: to get a clear eye in the middle, the stitches in the eye of the sp
 
 [T-SEQ4-01]: /GroundForge/stitches?patchWidth=20&patchHeight=20&b1=lctcl&f1=ctct&j1=rctcr&a2=ctc&c2=ctc&d2=ctc&e2=lctct&f2=ctc&g2=rctct&h2=ctc&i2=ctc&b3=ctc&c3=ctc&d3=lctct&e3=ctc&f3=ctc&g3=ctc&h3=rctct&i3=ctc&j3=ctc&a4=ctc&b4=ctc&c4=lctct&d4=ctc&e4=ctc&g4=ctc&h4=ctc&i4=rctct&j4=ctc&a5=ctc&b5=lctct&c5=ctc&d5=ctc&f5=ctc&h5=ctc&i5=ctc&j5=rctct&tile=-5---5---5,5-CD632AB-,-566632225,56666-2222,5666-5-222&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5
 
+## Open centered spiders
 
+![open centered spider][P-SOC4]
 
+Please note: these spiders have 16 legs. On each side, a pair is "bouncing": it takes a detour outside the spider and returns in. The outside of the spider is indicated in <span class="b-pink">pink</span> in the diagram on the right.      
+<p style="clear: both"></p>
+
+[P-SOC4]: ../images/spin_8/g-soc4.svg?align=right "open centered spider"
+
+## Other spiders
+
+![][P-SNA4]
+
+[P-SNA4]: ../images/spin_8/g-sna4.svg?align=right
 
