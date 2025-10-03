@@ -14,7 +14,6 @@ n-Pair joins:
 * [Stitches](/MAE-gf/docs/snow-stitches)  
 
 * *examples*  
-
 * 3 pair joins
   * [all](/MAE-gf/docs/snow_3)
 * 4 pair joins
