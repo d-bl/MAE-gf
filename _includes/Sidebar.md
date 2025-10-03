@@ -13,7 +13,7 @@ n-Pair joins:
 * [Counting families](/MAE-gf/docs/counting-snow)  
 * [Stitches](/MAE-gf/docs/snow-stitches)  
 
-*examples*  
+* *examples*  
 
 * 3 pair joins
   * [all](/MAE-gf/docs/snow_3)
@@ -22,8 +22,8 @@ n-Pair joins:
   * [spiders with 8 legs](/MAE-gf/docs/spin_04)  
   * [indmills](/MAE-gf/docs/windmills)
 * 6 pair joins
-  * [snowflakes](/MAE-gf/docs/snow_6)  
-    more in the [mixer](/GroundForge/mix4snow/)
+  * [snowflakes](/MAE-gf/docs/snow_6)
+    (more in the [mixer](/GroundForge/mix4snow/))
   * [Spiders with 12 legs](/MAE-gf/docs/spin_06)  
   * [Stars](/MAE-gf/docs/star_6)
 * 8 pair joins
