@@ -24,44 +24,27 @@ title: Net grounds
   
 ## Introduction
 
-Net grounds are grounds with repeats of usualy one stitch. There are several ways of placing the stitches:    
-
-![net1][p-net1] ![net2][p-net2] ![net2x][p-net2x]       
-![net3][p-net3] ![net4][p-net4] ![net5][p-net5]
-
-Please note: the second and third diagrams are equivalent in GroundForge terms. It is possible to define a strechted honeycomb for the prototype diagram. The pair diagram however will initially show kite shapes, when activating the animation these kites will reshape into squares with a 45 degree angle. Only when defining plaits as stitches you will see the honeycomb again in the [thread diagram][t-hexagon-1].    
-
-It gets interesting, if we would use two (or more) different stitches. These grounds are known as "chaotic ground", "alternating ground", ...    
-
-For net-grounds with one stitch and its mirrored versions only, see page [_catalogue of stitches_][pg-stitches] and page _<a href="/GroundForge/nets" target="_blank">net variations</a>_.       
-
-[p-net1]: ../images/nets/net1.png "horizontal net"
-[p-net2]: ../images/nets/net2.png "diagonal net"
-[p-net2x]: ../images/nets/net2x.png "diagonal net"
-[p-net3]: ../images/nets/net3.png "paris ground / kat"
-[p-net4]: ../images/nets/net4.png "weaving paris"
-[p-net5]: ../images/nets/net5.png "bias ground"
-
-[pg-stitches]: ../docs/stitches
-
-[t-hexagon-1]: /GroundForge/stitches?patchWidth=12&patchHeight=16&c1=-&a1=-&c2=ctctctctt&a2=ctctctctt&d3=ctctctctt&b3=ctctctctt&tile=5-5-,r-r-,-5-5&footsideStitch=ctctt&tileStitch=ctctctctt&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
+Net grounds are grounds with repeats of usualy one stitch. There are several ways of placing the stitches.  
+For net-grounds with one stitch and its mirrored versions only, see page [_catalogue of stitches_](../docs/stitches) and page _<a href="/GroundForge/nets" target="_blank">net variations</a>_.       
 
 ## Horizontal net
 
+![net1][p-net1]
+
 Horizontal nets can also be found in tape lace like Milanese, Hunnia and Russian lace.    
-A horizontal net ground made with non traditional stitches like <span class="stch">crcl</span> is called [_Embellished clothwork_][page-ec].     
+A horizontal net ground made with non traditional stitches like <span class="stch">crcl</span> is called [_Embellished clothwork_](../docs/ec).     
 
 [![p-net1a]][t-net1a] 
 [![p-net1b]][t-net1b] 
 [![p-net1c]][t-net1c] 
 [![p-net1d]][t-net1d]     
+<p style="clear: both"></p>
 
+[p-net1]: ../images/nets/net1.png?align=right "horizontal net"
 [p-net1a]: ../images/nets/net1a.png "vertical alternating ground; EC-004"
 [p-net1b]: ../images/nets/net1b.png "horizontal alternating ground; EC-005"
 [p-net1c]: ../images/nets/net1c.png "diagonally alternating ground; EC-006"
 [p-net1d]: ../images/nets/net1d.png "knights movement placing; EC-007"
-
-[page-ec]: ../docs/ec
 
 [t-net1a]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=clcl&b1=ct&a1=clcl&d2=ct&c2=crcr&b2=ct&a2=crcr&d3=ct&c3=clcl&b3=ct&a3=clcl&d4=ct&c4=crcr&b4=ct&a4=crcr&tile=8888,1111,8888,1111&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [t-net1b]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=clc&c1=clc&b1=clc&a1=clc&d2=ct&c2=ct&b2=ct&a2=ct&d3=crc&c3=crc&b3=crc&a3=crc&d4=ct&c4=ct&b4=ct&a4=ct&tile=8888,1111,8888,1111&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
@@ -88,19 +71,29 @@ The following examples look like a knitwork.
 
 ## Diagonal net
 
+![net2][p-net2] 
+![net6][p-net6] 
+
+Please note: the diagrams are equivalent in GroundForge terms. It is possible to define a strechted honeycomb for the prototype diagram. The pair diagram however will initially show kite shapes, when activating the animation these kites will reshape into squares with a 45 degree angle. Only when defining plaits as stitches you will see the honeycomb again in the thread diagramm.   
+
 [![p-net2a]][t-net2a] 
 [![p-net2c]][t-net2c] 
+[![p-net6a]][t-net6a]
 [![double crossed tulle in a ring][p-cc-ring]][t-cc-ring] 
 [![mini spider in ring][p-sp-ring]][t-sp-ring]          
 
 [t-net2a]: /GroundForge/stitches?patchWidth=12&patchHeight=12&c1=crc&a1=crc&d2=ct&b2=ct&c3=crc&a3=crc&d4=ct&b4=ct&tile=5-5-,-5-5,5-5-,-5-5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 [t-net2c]: /GroundForge/stitches?patchWidth=12&patchHeight=12&c1=ct&a1=clc&d2=ct&b2=clc&tile=5-5-,-5-5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-net6a]: /GroundForge/stitches?patchWidth=12&patchHeight=16&c1=-&a1=-&c2=ctctctctt&a2=ctctctctt&d3=ctctctctt&b3=ctctctctt&tile=5-5-,r-r-,-5-5&footsideStitch=ctctt&tileStitch=ctctctctt&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
 
 [t-cc-ring]: /GroundForge/stitches?patchWidth=12&patchHeight=12&c1=ct&a1=ct&d2=ct&b2=cct&c3=ct&a3=ct&d4=cct&b4=ct&tile=5-5-,-5-5,5-5-,-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [t-sp-ring]: /GroundForge/stitches?patchWidth=12&patchHeight=12&c1=ctcr&a1=ctcl&d2=ctct&b2=ctctc&c3=ctcl&a3=ctcr&d4=ctctc&b4=ctct&tile=5-5-,-5-5,5-5-,-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
+[p-net2]: ../images/nets/net2.png?align=right "diagonal net"
+[p-net6]: ../images/nets/net6.png?align=right "honeycomb"
 [p-net2a]: ../images/nets/net2a.png "horizontally alternating"
 [p-net2c]: ../images/nets/net2c.png "diagonally alternating"
+[p-net6a]: ../images/nets/net6a.png "honeycomb"
 [p-sp-ring]: ../images/nets/2-sp-ring.png "mini spider in ring"
 [p-cc-ring]: ../images/nets/cc-ring.png "double crossed tulle in ring"
 
@@ -119,33 +112,46 @@ The following examples look like sprang plaiting.
 
 ## Honeycomb net Kat
 
-[![p1-net3]][t-net3b] 
-See also [_Paris grounds_][page-paris].   
+![net3][p-net3] 
+
+See also [_Paris grounds_](../docs/paris).   
+
+[![p-net3b]][t-net3b] 
+
 <p style="clear: both"></p>
 
-[p1-net3]: ../images/nets/net3.png?align=left "paris ground with double crossing"
-[page-paris]: ../docs/paris
+[p-net3]: ../images/nets/net3.png?align=right "paris ground / kat"
+[p-net3b]: ../images/nets/net3b.png?align=left "paris ground with double crossing"
 
 [t-net3b]: /GroundForge/stitches?patchWidth=12&patchHeight=16&c1=ctc&a1=ctc&d2=tcct&tile=B-C-,---5&tileStitch=ctc&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ## Honeycomb net Weaving Paris
 
-[![p1-net4]][t-net4] 
-See also [_Lattice_][page-lotus].    
+![net4][p-net4] 
+
+See also [_Lattice_](../docs/lotus).
+
+[![p-net4a]][t-net4a] 
+    
 <p style="clear: both"></p>
 
-[p1-net4]: ../images/nets/net4.png?align=left "knots"
-[page-lotus]: ../docs/lotus
+[p-net4]: ../images/nets/net4.png?align=right "weaving paris"
+[p-net4a]: ../images/nets/net4a.png?align=left "knots"
 
-[t-net4]: /GroundForge/stitches?patchWidth=16&patchHeight=14&b1=ctc&c2=crr&a2=crr&d3=ctc&c4=cll&a4=cll&tile=-5--,6v9v,---5,2z0z&tileStitch=ctc&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[t-net4a]: /GroundForge/stitches?patchWidth=16&patchHeight=14&b1=ctc&c2=crr&a2=crr&d3=ctc&c4=cll&a4=cll&tile=-5--,6v9v,---5,2z0z&tileStitch=ctc&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Honeycomb net Bias
 
-[![p1-net5]][t-0204] 
-This scheme is equal to the [_Bias ground_][page-bias].   
+![net5][p-net5]
+
+This scheme is equal to the [_Bias ground_](../docs/bias).   
+
+[![p-net5a]][t-0204] 
+
 <p style="clear: both"></p>
 
-[p1-net5]: ../images/nets/net5.png?align=left "bias ground"
-[page-bias]: ../docs/bias
+[p-net5]: ../images/nets/net5.png?align=right "bias ground"
+[p-net5a]: ../images/nets/net5a.png?align=left "bias ground"
+
 [t-0204]: /GroundForge/stitches?patchWidth=15&patchHeight=15&d1=lct&c1=ctctc&a1=ctctct&tile=6-48&tileStitch=ctct&shiftColsSW=-3&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
 
