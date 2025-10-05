@@ -35,7 +35,7 @@ Please note: for a traditional Torchon spider, a stitch like <span class="stch">
 
 ## Spiders with an eye
 
-Please note: to get a clear eye in the middle, the stitches in the eye of the spider have to be chosen like the example for the 4x3 legged spider: <span class="stch">B2=ctclctc F2=ctcrctc </span>.
+Please note: to get a clear eye in the middle, stitches like <span class="stch">ctclctc </span> and <span class="stch">ctcrctc </span> have to be chosen in the heart of the spider.
 
 [![4x2 legs][P-SEB2]][T-SEB2-01]  
 
