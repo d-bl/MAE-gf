@@ -21,13 +21,11 @@ The stars are also published in the following books:
 Please note: GroundForge doesn't make a difference between star I and star II.     
 
 ![star mirror][p-st-kh-M]
-
 [![star mirror][p-st-kh-Ms-01]][t-st-kh-Ms-01] 
 [![star mirror][p-st-kh-Mb-01]][t-st-kh-Mb-01] 
 <p style="clear: both"></p>
 
 ![star I & II][p-st-kh-I]
-
 [![star I and II][p-st-kh-Is-01]][t-st-kh-Is-01] 
 [![star I and II][p-st-kh-Ib-01]][t-st-kh-Ib-01] 
 <p style="clear: both"></p>
