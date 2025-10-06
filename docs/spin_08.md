@@ -21,7 +21,6 @@ On this page we show examples of grounds with spiders with 16 (4x4) legs.
 ## Torchon spiders
 
 ![4x4 legs][P-ST4]
-
 Please note: for a traditional Torchon spider, a stitch like <span class="stch">ctcctc</span> or <span class="stch">ctctctc</span> has to be chosen in the heart of the spider.
 
 [![][P-ST4-01]][T-ST4-01] 
@@ -53,7 +52,6 @@ Please note: for a traditional Torchon spider, a stitch like <span class="stch">
 ## Spiders with an eye
 
 ![spider with eye, 4x4][P-SE4]
-
 Please note: to get a clear eye in the middle, stitches like <span class="stch">ctclctc </span> and <span class="stch">ctcrctc </span> have to be chosen in the heart of the spider.
 
 [![][P-SE4-01]][T-SE4-01]
@@ -71,7 +69,6 @@ Please note: to get a clear eye in the middle, stitches like <span class="stch">
 ## Open centered spiders
 
 ![open centered spider][P-SOC4]
-
 [![open centered spider 1][P-SOC14-01]][T-SOC14-01] 
 [![open centered spider 2][P-SOC24-01]][T-SOC24-01] 
 [![open centered spider B][P-SOCB4-01]][T-SOCB4-01] 
@@ -96,8 +93,7 @@ Please note: to get a clear eye in the middle, stitches like <span class="stch">
 
 ## Double eyed spiders
 
-![double eyed spider][P-SND4] 
-
+![double eyed spider][P-SND4]
 [![][P-SNDQ4-01]][T-SNDQ4-01]
 <p style="clear: both"></p>
 
@@ -109,7 +105,6 @@ Please note: to get a clear eye in the middle, stitches like <span class="stch">
 ## Other spiders
 
 ![][P-SNA4]
-
 [![][P-SNAQ4-01]][T-SNAQ4-01]
 <p style="clear: both"></p>
 
@@ -119,7 +114,6 @@ Please note: to get a clear eye in the middle, stitches like <span class="stch">
 [T-SNAQ4-01]: /GroundForge/stitches.html?patchWidth=20&patchHeight=20&tile=-xx5-5-5xx,-14-535-78,5886632211,5666632222,56-14-78-2&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5&h1=ctctcl&f1=ctct&d1=ctctcr&j2=ctc&i2=lct&g2=ctct&f2=ctc&e2=ctct&c2=rct&b2=ctc&j3=tct&i3=ctcl&h3=ctct&g3=ctc&f3=tct&e3=ctc&d3=ctct&c3=ctcr&b3=tct&a3=ctc&j4=ctcl&i4=ctct&h4=ctc&g4=rct&f4=ctc&e4=lct&d4=ctc&c4=ctct&b4=ctcr&a4=ct&j5=ctct&h5=tct&g5=ctc&e5=ctc&d5=tct&b5=ctct&a5=ctct
 
 ![][P-SNC4]
-
 [![][P-SNCQ4-01]][T-SNCQ4-01]
 <p style="clear: both"></p>
 
