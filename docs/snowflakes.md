@@ -35,7 +35,6 @@ Most of the variants shown on this page benefit of extra pins on the sides. As i
 ## Little Snowflake
 
 ![little snowflake][p-little-snow]
-
 [![0345-og][P-0345-og]][T-0345-og] 
 [![0347-og][P-0347-og]][T-0347-og] 
 [![0381-og][P-0381-og]][T-0381-og] 
@@ -71,7 +70,6 @@ Most of the variants shown on this page benefit of extra pins on the sides. As i
 ## Little snowflake, crossed
 
 ![little snowflake crossed][p-sn-cr]
-
 [![0305-kg][P-0305-kg]][T-0305-kg]
 [![0306-kg][P-0306-kg]][T-0306-kg] 
 [![0356-kg][P-0356-kg]][T-0356-kg] 
@@ -113,7 +111,6 @@ Most of the variants shown on this page benefit of extra pins on the sides. As i
 ## Snowflake in a diamond
 
 ![snowflake in diamond][p-snow-diamond]
-
 [![0305-oiv][P-0305-oiv]][T-0305-oiv] 
 [![0366-oiv][P-0366-oiv]][T-0366-oiv]
 <p style="clear: both"></p>
@@ -128,7 +125,6 @@ Most of the variants shown on this page benefit of extra pins on the sides. As i
 ## Snowflake in a diamond, crossed
 
 ![snowflake diamond crossed][p-snow-diax]
-
 [![0341-div][P-0341-div]][T-0341-div] 
 [![0356-kio][P-0356-kio]][T-0356-kio]   
 <p style="clear: both"></p>
