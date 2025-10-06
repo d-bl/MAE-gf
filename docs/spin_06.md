@@ -10,7 +10,7 @@ title: Spiders 12 legs
 * [Introduction](#introduction)
 * [Torchon spiders](#torchon-spiders)
 * [Spiders with an eye](#spiders-with-an-eye)
-* [Spiders with a narrow eye](#spiders-with-a-narrow-eye
+* [Spiders with a narrow eye](#spiders-with-a-narrow-eye)
      
 ## Introduction
 
@@ -21,7 +21,6 @@ On this page we show examples of grounds with spiders with 12 (4x3) legs. Also s
 ## Torchon spiders
 
 ![4x3 legs][P-ST3] 
-
 Please note: for a traditional Torchon spider, a stitch like <span class="stch">ctcctc</span> or <span class="stch">ctctctc</span> has to be chosen in the heart of the spider.
 
 [![4x3 legs][P-STS3-01]][T-STS3-01] 
@@ -42,7 +41,6 @@ Please note: for a traditional Torchon spider, a stitch like <span class="stch">
 ## Spiders with an eye
 
 ![4x3 with eye][P-SE3] 
-
 Please note: to get a clear eye in the middle, stitches like <span class="stch">ctclctc </span> and <span class="stch">ctcrctc </span> have to be chosen in the heart of the spider.
 
 [![4x3 legs with eye][P-SES3-01]][T-SES3-01] 
@@ -62,7 +60,7 @@ Please note: to get a clear eye in the middle, stitches like <span class="stch">
 
 ## Spiders with a narrow eye
 
-Spiders with a narrow eye also can be achieved using <span class="elem">step 2</span> or <span class="elem">step 3</span> on a [_fish_](../docs/droste#fish) in <span class="stch">half stitch</span>.   
+Spiders with a narrow eye also can be achieved using <span class="elem">step 2</span> or <span class="elem">step 3</span> on a [_fish_](../docs/droste#fish) in <span class="stch">half stitch</span>.     
 
 ![spider with narrow eye][P-SNB3]
 
