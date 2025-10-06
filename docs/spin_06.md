@@ -20,7 +20,7 @@ On this page we show examples of grounds with spiders with 12 (4x3) legs. Also s
 
 ## Torchon spiders
 
-![4x3 legs][P-ST3] 
+![4x3 legs][P-ST3]
 Please note: for a traditional Torchon spider, a stitch like <span class="stch">ctcctc</span> or <span class="stch">ctctctc</span> has to be chosen in the heart of the spider.
 
 [![4x3 legs][P-STS3-01]][T-STS3-01] 
@@ -40,7 +40,7 @@ Please note: for a traditional Torchon spider, a stitch like <span class="stch">
 
 ## Spiders with an eye
 
-![4x3 with eye][P-SE3] 
+![4x3 with eye][P-SE3]
 Please note: to get a clear eye in the middle, stitches like <span class="stch">ctclctc </span> and <span class="stch">ctcrctc </span> have to be chosen in the heart of the spider.
 
 [![4x3 legs with eye][P-SES3-01]][T-SES3-01] 
@@ -63,7 +63,6 @@ Please note: to get a clear eye in the middle, stitches like <span class="stch">
 Spiders with a narrow eye also can be achieved using <span class="elem">step 2</span> or <span class="elem">step 3</span> on a [_fish_](../docs/droste#fish) in <span class="stch">half stitch</span>.     
 
 ![spider with narrow eye][P-SNB3]
-
 [![spider with narrow eye][P-SNBS3-01]][T-SNBS3-01] 
 [![spider with narrow eye][P-SNBB3-01]][T_SNBB3-01] 
 [![spider with narrow eye, diamond][P-SNBQ3-01]][T-SNBQ3-01] 
@@ -86,7 +85,6 @@ Spiders with a narrow eye also can be achieved using <span class="elem">step 2</
 [T-SNBQ3-02]: /GroundForge/stitches?patchWidth=16&patchHeight=16&h1=clc&f1=crc&c1=ctct&h2=ctt&g2=ctc&f2=ctt&e2=rcl&d2=rctct&c2=ctc&b2=lctct&a2=lcr&h3=ctc&f3=ctc&e3=rctct&d3=ctc&b3=ctc&a3=lctct&h4=lctct&g4=ctc&f4=rctct&e4=rrclcrc&d4=ttc&c4=ctc&b4=ttc&a4=llcrclc&tile=--5--7-4,C632B831,66-224-7,31583256&tileStitch=ctc&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ![spider with narrow eye][P-SNA3]
-
 [![spider with narrow eye][P-SNAS3-01]][T-SNAS3-01] 
 [![star from narrow eyed spider][P-SNAB3-01]][T-SNAB3-01] 
 <p style="clear: both"></p>
