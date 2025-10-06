@@ -21,11 +21,10 @@ Miscellaneous examples, collected on this page.
 
 ## Vase ground
 
+![vase ground][p-vase]
 [![vase ground 1][p-vase1]][t-vase1] 
 [![vase ground 2][p-vase2]][t-vase2]
-
-![vase ground][p-vase]        
-
+ 
 <p style="clear: both"></p>
 
 [p-vase]: ../images/misca/vase-ground.svg?align=right "vase ground"
@@ -63,7 +62,6 @@ The traditional units separated with plaits. Please note: the plaits should stay
 ## Another fish
 
 ![Another fish][g-1111]
-
 The following grounds were created to work "upwards" from one square to another. As Groundforge does not support going upwards, the pattern in Groundforge is turned one quarter.  
 <p style="clear: both"></p>
 
