@@ -169,9 +169,9 @@ Ants came to life as a variation of the Slavic ground. The result looks like ant
 
 ## Stretched Paris ground
 
+![stretched paris ground][p-strpg]
 These examples came to life as variations on a rose-ground with "do nothing (much)" on the left and right. Please see the resemblance with the _[Paris ground][page-paris]_.   
 
-![stretched paris ground][p-strpg]
 [![0403-KG][P-0403-KG]][T-0403-KG] 
 [![0424-KG][P-0424-KG]][T-0424-KG]
 [![0404-KG][P-0404-KG]][T-0404-KG] 
