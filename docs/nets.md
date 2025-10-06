@@ -30,7 +30,6 @@ For net-grounds with one stitch and its mirrored versions only, see page [_catal
 ## Horizontal net
 
 ![net1][p-net1]
-
 Horizontal nets can also be found in tape lace like Milanese, Hunnia and Russian lace.    
 A horizontal net ground made with non traditional stitches like <span class="stch">crcl</span> is called [_Embellished clothwork_](../docs/ec).     
 
@@ -72,8 +71,7 @@ The following examples look like a knitwork.
 ## Diagonal net
 
 ![net2][p-net2] 
-![net6][p-net6] 
-
+![net6][p-net6]
 Please note: the diagrams are equivalent in GroundForge terms. It is possible to define a strechted honeycomb for the prototype diagram. The pair diagram however will initially show kite shapes, when activating the animation these kites will reshape into squares with a 45 degree angle. Only when defining plaits as stitches you will see the honeycomb again in the thread diagramm.   
 
 [![p-net2a]][t-net2a] 
@@ -112,8 +110,7 @@ The following examples look like sprang plaiting.
 
 ## Honeycomb net Kat
 
-![net3][p-net3] 
-
+![net3][p-net3]
 See also [_Paris grounds_](../docs/paris).   
 
 [![p-net3b]][t-net3b] 
@@ -127,8 +124,7 @@ See also [_Paris grounds_](../docs/paris).
 
 ## Honeycomb net Weaving Paris
 
-![net4][p-net4] 
-
+![net4][p-net4]
 See also [_Lattice_](../docs/lotus).
 
 [![p-net4a]][t-net4a] 
@@ -143,7 +139,6 @@ See also [_Lattice_](../docs/lotus).
 ## Honeycomb net Bias
 
 ![net5][p-net5]
-
 This scheme is equal to the [_Bias ground_](../docs/bias).   
 
 [![p-net5a]][t-0204] 
