@@ -72,16 +72,27 @@ Please note: to get a clear eye in the middle, stitches like <span class="stch">
 
 ![open centered spider][P-SOC4]
 
-Please note: these spiders have 16 legs. On each side, a pair is "bouncing": it takes a detour outside the spider and returns in. The outside of the spider is indicated in <span class="b-pink">pink</span> in the diagram on the right.      
-
-[![][P-SOCQ4-01]][T-SOCQ4-01]
-
+[![open centered spider 1][P-SOC14-01]][T-SOC14-01] 
+[![open centered spider 2][P-SOC24-01]][T-SOC24-01] 
+[![open centered spider B][P-SOCB4-01]][T-SOCB4-01] 
+[![open centered spider Q][P-SOCQ4-01]][T-SOCQ4-01] 
 <p style="clear: both"></p>
 
 [P-SOC4]: ../images/spin_8/g-soc4.svg?align=right "open centered spider"
+
+[P-SOC14-01]: ../images/spin_8/SOC14-01.png?align=left"
+[P-SOC24-01]: ../images/spin_8/SOC24-01.png
+[P-SOCB4-01]: ../images/spin_8/SOCB4-01.png
 [P-SOCQ4-01]: ../images/spin_8/SOCQ4-01.png
 
-[T-SOCQ4-01]: /GroundForge/stitches.html?patchWidth=20&patchHeight=30&tile=xxx5-5-5xxx-,x14-535-78x-,48866322117-,666663222225,66666-222225,6-14x-x78-25&shiftColsSW=-6&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6&h1=rctcr&f1=ctct&d1=lctcl&j2=ctc&i2=ctc&g2=rrctctl&f2=ctc&e2=llctctr&c2=ctc&b2=ctc&k3=ctcrrctc&j3=ctc&i3=ctc&h3=rrctctl&g3=ctc&f3=ctc&e3=ctc&d3=llctctr&c3=ctc&b3=ctc&a3=ctcllctc&l4=ctc&k4=ctc&j4=ctc&i4=rrctctl&h4=ctc&g4=ctc&f4=ctc&e4=ctc&d4=ctc&c4=llctctr&b4=ctc&a4=ctc&l5=ctc&k5=ctc&j5=rrctctl&i5=ctc&h5=ctc&g5=ctcllctc&e5=ctcrrctc&d5=ctc&c5=ctc&b5=llctctr&a5=ctc&l6=ctc&k6=rrctctl&i6=ctc&h6=ctc&d6=ctc&c6=ctc&a6=llctctr
+[T-SOC14-01]: /GroundForge/stitches.html?patchWidth=30&patchHeight=30&tile=25-56-,x7-4x-,xx5xx-,x4-7x-,48-17-,6-5-25,-535-5,&shiftColsSW=-3&shiftRowsSW=7&shiftColsSE=3&shiftRowsSE=7&e1=ctcrrctc&d1=ctc&b1=ctc&a1=ctcllctc&d2=ctcll&b2=ctcrr&c3=ctctt&d4=ctc&b4=ctc&e5=ctcrrctc&d5=ctcll&b5=ctcrr&a5=ctcllctc&f6=tct&e6=ctcll&c6=ctc&a6=ctcrr&f7=ctctt&d7=ctc&c7=tct&b7=ctc
+
+[T-SOC24-01]: /GroundForge/stitches.html?patchWidth=30&patchHeight=30&tile=xx5-5xx-,x4-5-7x-,4863217-,666-2225,-4x-x7-5&shiftColsSW=-4&shiftRowsSW=5&shiftColsSE=4&shiftRowsSE=5&e1=ctctt&c1=ctctt&f2=ctc&d2=ctc&b2=ctc&g3=ctcrrctc&f3=ctcll&e3=ctc&d3=ctc&c3=ctc&b3=ctcrr&a3=ctcllctc&h4=ctc&g4=ctcll&f4=ctc&e4=ctcllctc&c4=ctcrrctc&b4=ctc&a4=ctcrr&h5=ctctt&f5=ctcrr&b5=ctcll
+
+[T-SOCB4-01]: /GroundForge/stitches.html?patchWidth=30&patchHeight=30&tile=xx5--5--5xx-,x4-w632y-7x-,48v66-22z17-,6v-4x-x7-z25&shiftColsSW=-6&shiftRowsSW=4&shiftColsSE=6&shiftRowsSE=4&i1=ttctctt&f1=ctctctc&c1=ttctctt&j2=ctc&g2=ctc&f2=ctc&e2=ctc&b2=ctc&k3=ctcrrctc&j3=ctcll&h3=ctc&g3=ctcllctc&e3=ctcrrctc&d3=ctc&b3=ctcrr&a3=ctcllctc&l4=ctc&k4=ctc&h4=ctc&d4=ctc&a4=ctc
+
+[T-SOCQ4-01]: /GroundForge/stitches.html?patchWidth=20&patchHeight=25&tile=xx5-5-5xx-,x4-535-7x-,486632217-,6666-22225,6-4x-x7-25&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5&g1=rctcr&e1=ctct&c1=lctcl&h2=ctc&f2=rrctclt&e2=ctc&d2=llctcrt&b2=ctc&i3=ctcrctc&h3=ctc&g3=rrctclt&f3=ctc&e3=ctc&d3=ctc&c3=llctcrt&b3=ctc&a3=ctclctc&j4=ctc&i4=ctc&h4=rrctclt&g4=ctc&f4=ctclctc&d4=ctcrctc&c4=ctc&b4=llctcrt&a4=ctc&j5=ctc&i5=rrctclt&g5=ctc&c5=ctc&a5=llctcrt
+
 
 ## Double eyed spiders
 
