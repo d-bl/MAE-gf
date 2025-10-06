@@ -9,7 +9,7 @@ title: Spiders 20 legs
 
 * [Introduction](#introduction)
 * [Torchon spiders](#torchon-spiders)
-* [Open centered spiders][#open-centered-spiders]
+* [Open centered spiders](#open-centered-spiders)
      
 ## Introduction
 
@@ -33,8 +33,7 @@ Please note: for a traditional Torchon spider, a stitch like <span class="stch">
 
 ## Open centered spiders
 
-![open centered spider][P-SOC5]
-
+![open centered spider][P-SOC5]  
 [![][P-SOCQ5-01]][T-SOCQ5-01]
 
 <p style="clear: both"></p>
