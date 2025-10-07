@@ -196,9 +196,8 @@ These examples came to life as variations on a rose-ground with "do nothing (muc
 
 ## Rose ground in a diamond
 
+![torchon-flemish][pic-tor-flem]
 By putting the traditional rose ground unit in a diamond, little stars can be made.    
-
-![torchon-flemish][pic-tor-flem]             
 Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates. Example 1 looks like a star.    
 
 {% include captionfig.html
@@ -225,6 +224,7 @@ Please note: when making the actual lace, it will make a big difference if the u
     src="../images/roses/R-0143.png"
     txt="example 4, butterfly rose ground"
 %} 
+
 [pic-tor-flem]: ../images/roses/g-tor-fl.svg?align=right "torchon - flemish"
 
 ## Alternative placings
