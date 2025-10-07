@@ -198,7 +198,6 @@ The six-pair snowflake is moved to its [_own page_][page_snow_6].
 ## Half little snowflake
 
 ![half little snowflake][p-half-snowflake]
-
 If the stitches indicated in white in the picture on the right are omitted, we get a half little snowflake. This can be used in several configurations.  
 The examples are moved to a [_page with other 3 paired joins_][page-snow-3].
 <p style="clear: both"></p>
