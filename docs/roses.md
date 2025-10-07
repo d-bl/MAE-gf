@@ -240,10 +240,12 @@ The ground on the right can also be obtain as a [Droste on Paris ground][dr-6101
 [t-6101]: /GroundForge/stitches?patchWidth=15&patchHeight=15&e1=ctct&c1=ct&b1=ctct&a1=ct&f2=ct&c2=ct&a2=ct&e3=ctct&c3=ct&b3=ctct&a3=ct&d4=ct&tile=O3E-H-,4-7--5,158-L-,---5-&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=6&shiftRowsSE=2
 [dr-6101]: /GroundForge/stitches?patchWidth=15&patchHeight=20&c1=ct&a1=ct&d2=ctct&droste2=ct,d20=d23=ctct,a10=c10=ctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-Take a non-symmetrical rose ground unit, move one of the pins to the middle, and place this unit in alternating directions. Please note, the generated thread diagram displays the moved pin in the original position.              
+![][P-JP]
+Take a non-symmetrical rose ground unit, move one of the pins to the middle, and place this unit in alternating directions. Please note, the generated thread diagram displays the moved pin in the original position.            
 [![jp-1][P-jp-1]][T-jp-1] 
-[![jp-2][P-jp-2]][T-jp-2]  
+[![jp-2][P-jp-2]][T-jp-2] 
 
+[P-JP]: ../images/roses/g-jp.svg?align=right
 [P-jp-1]: ../images/roses/w-jp-1.png "(not numbered)"
 [P-jp-2]: ../images/roses/w-jp-2.png "(not numbered)"
 
