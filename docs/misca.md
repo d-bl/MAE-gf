@@ -42,9 +42,9 @@ The 3 pairs joins are moved to their [own page][p_snow_3].
 
 ## Fusion
 
+![fusion][p-fusion]
 The traditional units separated with plaits. Please note: the plaits should stay plaits. The snowflake-unit example is meant to be made with pins at the sides of the snowflake-unit. The ground came into being as a half stitch spider, but forgetting the twists at the corners.            
 
-![fusion][p-fusion]
 [![rose-ground-unit][P-0116-kf]][T-0116-kf] 
 [![bias-unit][P-0284-kf]][T-0284-kf] 
 [![snowflake-unit][P-0342-kf]][T-0342-kf] 
