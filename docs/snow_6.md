@@ -18,11 +18,11 @@ There are many ways of making snowflakes. See pages [_Counting snowflake familie
 
 ## Binche snowflakes
 
-[![binche snow][P-STB3-03]][T-STB3-03]
+[![binche snow][P-STB3-03]][T-STB3-03] 
 [![family 563412][P-SP-BB1]][T-SP-BB1-01] 
 [![family 623451][P-SP-BB2]][T-SP-BB2-01] 
-[![family 123654][P-SP-BB3]][T-SP-BB3-01]      
-[![family 351624][P-SVB3-01]][T-SVB3-01]
+[![family 123654][P-SP-BB3]][T-SP-BB3-01] 
+[![family 351624][P-SVB3-01]][T-SVB3-01] 
 <p style="clear: both"></p>
 
 [T-STB3-03]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=ctcll&f1=ctcrr&g1=ctc&b2=ctc&e2=ctctctc&h2=ctc&a3=ctc&c3=ctcrr&d3=ctc&f3=ctc&g3=ctcll&shiftColsSE=4&shiftRowsSE=3&shiftColsSW=-4&shiftRowsSW=3&tile=5-25-56-,-5--5--5,5-C6-2B-
