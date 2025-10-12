@@ -14,7 +14,7 @@ title: Snowflakes
 ## Introduction
 ![binche snow][p-binche-snow]
 On this pages examples of snowflakes with 6 pairs coming in and going out.   
-There are many ways of making snowflakes. See pages [_Counting snowflake families_](../docs/counting-snow/) and [_Snowflake mixer_](../GroundForge/mix4snow/).     
+There are many ways of making snowflakes. See pages [_Counting snowflake families_](../docs/counting-snow/) and [_Snowflake mixer_](/GroundForge/mix4snow/).     
 
 ## Binche snowflakes
 
@@ -35,7 +35,7 @@ There are many ways of making snowflakes. See pages [_Counting snowflake familie
 
 [T-SVB3-01]: /GroundForge/stitches.html?patchWidth=20&patchHeight=20&tile=5---5-,v9v6-2,--5-5-,z0z5-5&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=6&shiftRowsSE=2&e1=ctctctc&a1=ctc&f2=ctc&d2=ctc&b2=ctctctc&e3=ctc&c3=ctc&f4=ctc&d4=ctc&b4=ctctctc
 
-[p-binche-snow]: ../images/snow_6/g-binche-snow.svg?align=left "binche snowflake, also known as 'Bolletje'"
+[p-binche-snow]: ../images/snow_6/g-binche-snow.svg?align=right "binche snowflake, also known as 'Bolletje'"
 [P-STB3-03]: ../images/snow_6/STB3-03.png "family 563412"
 [P-SP-BB1]: ../images/snow_6/SP-BB1-01.png "family 563412"
 [P-SP-BB2]: ../images/snow_6/SP-BB2-01.png "family 623451"
@@ -45,7 +45,7 @@ There are many ways of making snowflakes. See pages [_Counting snowflake familie
 
 ## Snowflakes with an eye
 
-The snowflakes with an eye are moved to [_spiders with an eye_](../docs/spin_06#spiders-with-an-eye)
+The snowflakes with an eye are moved to [_spiders with an eye_](../docs/spin_06#spiders-with-an-eye).
 
 ## Stars
 
@@ -56,4 +56,4 @@ The stars have been moved to their [own page](../docs/star_6).
 More snowflakes with six pairs can be found on other pages:  
 
 * [_triangular grounds kissing_](../docs/tria#pagodas-kissing)
-* [_bigger triangular ground_](./docs/tria#bigger-pagodas)
+* [_bigger triangular ground_](../docs/tria#bigger-pagodas)
