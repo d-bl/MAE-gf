@@ -61,7 +61,7 @@ On the right a distorted version that matches a Torchon grid. The units of the r
 
 ### Generate diagrams (color coded / threads)
 
-After completing the stitches for the first step in the form below, click on the button of the desired type of rose-ground units. In the page that will appear next, click the ![](../images/wand.png) in the "threads" section for the thread diagram.
+After completing the stitches for the first step in the form below, click on the button of the desired type of rose-ground units. In the page that will appear next, click the ![](../images/wand.png) in the "threads" section for the thread diagram. Please note: on a small device, like a cell-phone, you might want to rotate the device 90 degrees for a good view on the form.
 
 {% include wobble.html %}
 
