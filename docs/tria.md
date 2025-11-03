@@ -18,7 +18,8 @@ title: Triangular grounds (Pagoda grounds)
 ## Introduction
 
 ![unit][p-pg-unit]
-On this page we show several placings of one unit of the <i>Pagoda</i> or <i>Triangular</i> ground. One unit is shown in the picture on the right.        
+On this page we show several placings of one unit of the <i>Pagoda</i> or <i>Triangular</i> ground. One unit is shown in the picture on the right.       
+Please note: traditionally the pagoda-ground uses a weaver which returns round the pin with two twists at the pointy bit. 
 <p style="clear: both"></p>
 
 [p-pg-unit]: ../images/tria/w-pg-unit.png?align=right "triangles"
@@ -27,7 +28,6 @@ On this page we show several placings of one unit of the <i>Pagoda</i> or <i>Tri
 
 ![torchon pagoda][t-pg-trad]
 [![torchon pagoda][p-pg-trad-01]][t-pg-trad-01]
-Please note: traditionally the pagoda-ground uses a weaver which returns round the pin with two twists at the pointy bit. The example looked better not turning.
 <p style="clear: both"></p>
 
 [p-pg-trad]: ../images/tria/g-pg-trad.svg?align=right "traditional triangular ground"
