@@ -66,8 +66,8 @@ Please note: traditionally the pagoda-ground uses a weaver which returns round t
 [![pagoda alternating in diamond][p-pg-sqlr]][t-pg-sqlr]  
 <p style="clear: both"></p>
 
-[p-pg-sqll]: ../images/tria/g-pg-sqre.svg?align=left "triangles in a diamond, placed in same direction"
-[p-pg-sqlr]: ../images/tria/g-pg-qalt.svg?align=left "triangles in a diamond, placed alternating"
+[p-pg-sqll]: ../images/tria/g-pg-sqll.svg?align=left "triangles in a diamond, placed in same direction"
+[p-pg-sqlr]: ../images/tria/g-pg-sqlr.svg?align=left "triangles in a diamond, placed alternating"
 
 [t-pg-sqll]: /GroundForge/stitches?patchWidth=15&patchHeight=15&a1=lctcllctcll&b1=ctc&c1=ctc&e1=ctct&b2=ctc&c2=ctcrr&d2=ctctr&f2=ctctl&a3=ctct&b3=ctctt&c3=ctctr&e3=ctc&tile=215-5-,-786-5,246-5-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 [t-pg-sqlr]: /GroundForge/stitches?patchWidth=16&patchHeight=16&e1=ctc&d1=ctcl&c1=ctct&a1=ctct&f2=ctct&e2=ctctct&d2=ctct&b2=ctctc&e3=ctct&c3=ctc&b3=ctc&a3=ctctcl&f4=ctct&d4=ctct&c4=ctcr&b4=ctc&e5=ctctc&c5=ctct&b5=ctctct&a5=ctct&f6=ctctcr&e6=ctc&d6=ctc&b6=ctct&tile=5-214-,-5-276,215-5-,-786-5,246-5-,-5-586,,,,&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6
