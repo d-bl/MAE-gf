@@ -83,8 +83,10 @@ The following grounds were created to work "upwards" from one square to another.
 ## Bias and Paris ground
 
 ![bias and paris][g-21]
+As the "another fish" pattern, the pattern in Groundforge is turned one quarter.
+<p style="clear: both"></p>
+
 [![bias and paris][p-2111]][t-2111]
-As the "another fish" pattern, the pattern in Groundforge is turned one quarter.                  
 <p style="clear: both"></p>
 
 [g-21]: ../images/misca/G-mine1.svg?align=right "Working upwards 2"
