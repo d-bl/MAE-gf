@@ -24,7 +24,7 @@ Please note: for a traditional Torchon spider, a stitch like <span class="stch">
 [![4x5 legs][P-SQ5-01]][T-SQ5-01]
 <p style="clear: both"></p>
 
-[G-ST5]: /images/spin_10/ST5.png?align=right "4x5 legs"
+[G-ST5]: ../images/spin_10/ST5.png?align=right "4x5 legs"
 [P-ST5-01]: ../images/spin_10/ST5-01.png
 [P-SQ5-01]: ../images/spin_10/SQ5-01.png
 
