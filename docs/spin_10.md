@@ -17,9 +17,9 @@ On this page we show examples of grounds with spiders with 20 (4x5) legs. Larger
 
 ## Torchon spiders
 
-Please note: for a traditional Torchon spider, a stitch like <span class="stch">ctcctc</span> or <span class="stch">ctctctc</span> has to be chosen in the heart of the spider.
-
 ![4x5 legs][G-ST5]
+Please note: for a traditional Torchon spider, a stitch like <span class="stch">ctcctc</span> or <span class="stch">ctctctc</span> has to be chosen in the heart of the spider. 
+
 [![4x5 legs][P-ST5-01]][T-ST5-01]
 [![4x5 legs][P-SQ5-01]][T-SQ5-01]
 <p style="clear: both"></p>
