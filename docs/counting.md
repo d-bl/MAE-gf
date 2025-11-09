@@ -66,46 +66,46 @@ Please note: the following list consists of words starting and ending with "C". 
     <td> 2 </td>
     <td> 2 </td>
     <td> 1 </td>
-    <td> <a href="/GroundForge/nets?b=ctc">CTC</a>;  
-         <a href="/GroundForge/nets?b=crc">CRC</a> </td>  
+    <td> {% include ctrl.html s1="ctc" %} 
+         {% include ctrl.html s1="CRC" %}
     <td><a href="../documents/counting/c..c_length3.txt" download>results</a></td></tr>      
     
   <tr><td> 4 </td>
     <td> 5 </td>
     <td> 3 </td>
     <td> 1 </td>
-    <td> <a href="/GroundForge/nets?b=cctc">cctc</a>; 
-         <a href="/GroundForge/nets?b=ccrc">ccrc</a>; 
-         <a href="/GroundForge/nets?b=cttc">CTTC</a>; 
-         <a href="/GroundForge/nets?b=ctrc">CTRC</a>; 
-         <a href="/GroundForge/nets?b=crrc">CRRC</a> </td>
+    <td> {% include ctrl.html s1="cctc" %}
+         {% include ctrl.html s1="ccrc" %}
+         {% include ctrl.html s1="cttc" %}
+         {% include ctrl.html s1="ctrc" %}
+         {% include ctrl.html s1="crrc" %}
     <td><a href="../documents/counting/c..c_length4.txt" download>results</a></td></tr> 
   
   <tr><td> 5 </td>
     <td> 13 </td>
     <td> 8 </td>  
     <td> 3 </td>
-    <td> <a href="/GroundForge/nets?b=cctcc">cctcc</a>; <a href="/GroundForge/nets?b=ccrcc">ccrcc</a>;
-         <a href="/GroundForge/nets?b=ccttc">ccttc</a>; <a href="/GroundForge/nets?b=cctrc">cctrc</a>;
-         <a href="/GroundForge/nets?b=ccrrc">ccrrc</a>; <a href="/GroundForge/nets?b=CTCTC">CTCTC</a>; 
-         <a href="/GroundForge/nets?b=CTCRC">CTCRC</a>; <a href="/GroundForge/nets?b=CRCRC">CRCRC</a>; 
-         <a href="/GroundForge/nets?b=CRCLC">CRCLC</a>; <a href="/GroundForge/nets?b=CTTTC">CTTTC</a>; 
-         <a href="/GroundForge/nets?b=CTTRC">CTTRC</a>; <a href="/GroundForge/nets?b=CTRRC">CTRRC</a>; 
-         <a href="/GroundForge/nets?b=CRRRC">CRRRC</a> </td>
+    <td> <a href="/GroundForge/nets?b=cctcc" target="_blank">cctcc</a>; <a href="/GroundForge/nets?b=ccrcc" target="_blank">ccrcc</a>;
+         <a href="/GroundForge/nets?b=ccttc" target="_blank">ccttc</a>; <a href="/GroundForge/nets?b=cctrc" target="_blank">cctrc</a>;
+         <a href="/GroundForge/nets?b=ccrrc" target="_blank">ccrrc</a>; <a href="/GroundForge/nets?b=CTCTC" target="_blank">CTCTC</a>; 
+         <a href="/GroundForge/nets?b=CTCRC" target="_blank">CTCRC</a>; <a href="/GroundForge/nets?b=CRCRC" target="_blank">CRCRC</a>; 
+         <a href="/GroundForge/nets?b=CRCLC" target="_blank">CRCLC</a>; <a href="/GroundForge/nets?b=CTTTC" target="_blank">CTTTC</a>; 
+         <a href="/GroundForge/nets?b=CTTRC" target="_blank">CTTRC</a>; <a href="/GroundForge/nets?b=CTRRC" target="_blank">CTRRC</a>; 
+         <a href="/GroundForge/nets?b=CRRRC" target="_blank">CRRRC</a> </td>
     <td><a href="../documents/counting/c..c_length5.txt" download>results</a></td></tr>         
  
   <tr><td> 6 </td>
     <td> 24 </td>
     <td> 8 </td>
     <td> 2 </td>
-    <td> <a href="/GroundForge/nets?b=cctctc">cctctc</a>; <a href="/GroundForge/nets?b=cctcrc">cctcrc</a>; <a href="/GroundForge/nets?b=ccrctc">ccrctc</a>; 
-         <a href="/GroundForge/nets?b=ccrcrc">ccrcrc</a>; <a href="/GroundForge/nets?b=ccrclc">ccrclc</a>; <a href="/GroundForge/nets?b=ccttcc">ccttcc</a>; 
-         <a href="/GroundForge/nets?b=cctrcc">cctrcc</a>; <a href="/GroundForge/nets?b=ccrrcc">ccrrcc</a>; <a href="/GroundForge/nets?b=cctttc">cctttc</a>; 
-         <a href="/GroundForge/nets?b=ccttrc">ccttrc</a>; <a href="/GroundForge/nets?b=cctrrc">cctrrc</a>; <a href="/GroundForge/nets?b=ccrrrc">ccrrrc</a>; 
-         <a href="/GroundForge/nets?b=ctcctc">ctcctc</a>; <a href="/GroundForge/nets?b=ctccrc">ctccrc</a>; <a href="/GroundForge/nets?b=crccrc">crccrc</a>; 
-         <a href="/GroundForge/nets?b=crcclc">crcclc</a>; <a href="/GroundForge/nets?b=CTCTTC">CTCTTC</a>; <a href="/GroundForge/nets?b=CTCTRC">CTCTRC</a>; 
-         <a href="/GroundForge/nets?b=CTCRRC">CTCRRC</a>; <a href="/GroundForge/nets?b=CRCRRC">CRCRRC</a>; <a href="/GroundForge/nets?b=CRCLLC">CRCLLC</a>; 
-         <a href="/GroundForge/nets?b=CTTCRC">CTTCRC</a>; <a href="/GroundForge/nets?b=CTRCRC">CTRCRC</a>; <a href="/GroundForge/nets?b=CTRCLC">CTRCLC</a> </td>
+    <td> <a href="/GroundForge/nets?b=cctctc" target="_blank">cctctc</a>; <a href="/GroundForge/nets?b=cctcrc" target="_blank">cctcrc</a>; <a href="/GroundForge/nets?b=ccrctc" target="_blank">ccrctc</a>; 
+         <a href="/GroundForge/nets?b=ccrcrc" target="_blank">ccrcrc</a>; <a href="/GroundForge/nets?b=ccrclc" target="_blank">ccrclc</a>; <a href="/GroundForge/nets?b=ccttcc" target="_blank">ccttcc</a>; 
+         <a href="/GroundForge/nets?b=cctrcc" target="_blank">cctrcc</a>; <a href="/GroundForge/nets?b=ccrrcc" target="_blank">ccrrcc</a>; <a href="/GroundForge/nets?b=cctttc" target="_blank">cctttc</a>; 
+         <a href="/GroundForge/nets?b=ccttrc" target="_blank">ccttrc</a>; <a href="/GroundForge/nets?b=cctrrc" target="_blank">cctrrc</a>; <a href="/GroundForge/nets?b=ccrrrc" target="_blank">ccrrrc</a>; 
+         <a href="/GroundForge/nets?b=ctcctc" target="_blank">ctcctc</a>; <a href="/GroundForge/nets?b=ctccrc" target="_blank">ctccrc</a>; <a href="/GroundForge/nets?b=crccrc" target="_blank">crccrc</a>; 
+         <a href="/GroundForge/nets?b=crcclc" target="_blank">crcclc</a>; <a href="/GroundForge/nets?b=CTCTTC" target="_blank">CTCTTC</a>; <a href="/GroundForge/nets?b=CTCTRC" target="_blank">CTCTRC</a>; 
+         <a href="/GroundForge/nets?b=CTCRRC" target="_blank">CTCRRC</a>; <a href="/GroundForge/nets?b=CRCRRC" target="_blank">CRCRRC</a>; <a href="/GroundForge/nets?b=CRCLLC" target="_blank">CRCLLC</a>; 
+         <a href="/GroundForge/nets?b=CTTCRC" target="_blank">CTTCRC</a>; <a href="/GroundForge/nets?b=CTRCRC" target="_blank">CTRCRC</a>; <a href="/GroundForge/nets?b=CTRCLC" target="_blank">CTRCLC</a> </td>
     <td><a href="../documents/counting/c..c_length6.txt" download>results</a></td></tr>
   
   <tr><td> 7 </td>
