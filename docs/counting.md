@@ -67,7 +67,7 @@ Please note: the following list consists of words starting and ending with "C". 
     <td> 2 </td>
     <td> 1 </td>
     <td> {% include ctrl.html s1="ctc" %} 
-         {% include ctrl.html s1="CRC" %}
+         {% include ctrl.html s1="CRC" %} </td>
     <td><a href="../documents/counting/c..c_length3.txt" download>results</a></td></tr>      
     
   <tr><td> 4 </td>
@@ -78,7 +78,7 @@ Please note: the following list consists of words starting and ending with "C". 
          {% include ctrl.html s1="ccrc" %}
          {% include ctrl.html s1="cttc" %}
          {% include ctrl.html s1="ctrc" %}
-         {% include ctrl.html s1="crrc" %}
+         {% include ctrl.html s1="crrc" %} </td>
     <td><a href="../documents/counting/c..c_length4.txt" download>results</a></td></tr> 
   
   <tr><td> 5 </td>
