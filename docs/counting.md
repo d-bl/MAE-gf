@@ -66,7 +66,7 @@ Please note: the following list consists of words starting and ending with "C". 
     <td> 2 </td>
     <td> 2 </td>
     <td> 1 </td>
-    <td> <a href="/GroundForge/nets?b=ctc" target="_blank">ctc</a>; 
+    <td> <a href="/GroundForge/nets?b=CTC" target="_blank">CTC</a>; 
          <a href="/GroundForge/nets?b=CRC" target="_blank">CRC</a>; 
     </td>
     <td><a href="../documents/counting/c..c_length3.txt" download>results</a></td></tr>      
@@ -77,9 +77,9 @@ Please note: the following list consists of words starting and ending with "C". 
     <td> 1 </td>
     <td> <a href="/GroundForge/nets?b=cctc" target="_blank">cctc</a>; 
          <a href="/GroundForge/nets?b=ccrc" target="_blank">ccrc</a>; 
-         <a href="/GroundForge/nets?b=cttc" target="_blank">cttc</a>; 
-         <a href="/GroundForge/nets?b=ctrc" target="_blank">ctrc</a>; 
-         <a href="/GroundForge/nets?b=crrc" target="_blank">crrc</a>;
+         <a href="/GroundForge/nets?b=CTTC" target="_blank">CTTC</a>; 
+         <a href="/GroundForge/nets?b=CTRC" target="_blank">CTRC</a>; 
+         <a href="/GroundForge/nets?b=CRRC" target="_blank">CRRC</a>;
     </td>
     <td><a href="../documents/counting/c..c_length4.txt" download>results</a></td></tr> 
   
