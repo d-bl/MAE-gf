@@ -18,8 +18,8 @@ On this page we show examples of grounds with spiders with 8 (4x2) legs.
 
 ## Torchon spiders
 
-![4x2 legs][G-ST2] 
-Please note: for a traditional Torchon spider, a stitch like <span class="stch">ctcctc</span> or <span class="stch">ctctctc</span> has to be chosen in the heart of the spider.
+![4x2 legs][G-ST2]
+Please note: for a traditional Torchon spider, a stitch like <span class="stch">ctcctc</span> or <span class="stch">ctctctc</span> has to be chosen in the heart of the spider. 
 
 [![4x2 legs][P-ST2-01]][T-ST2-01] 
 [![4x2 legs][P-SQ2-01]][T-SQ2-01]  
@@ -35,8 +35,8 @@ Please note: for a traditional Torchon spider, a stitch like <span class="stch">
 
 ## Spiders with an eye
 
-![4x2 legs][G-SE2] 
-Please note: to get a clear eye in the middle, stitches like <span class="stch">ctclctc </span> and <span class="stch">ctcrctc </span> have to be chosen in the heart of the spider.
+![4x2 legs][G-SE2]
+Please note: to get a clear eye in the middle, stitches like <span class="stch">ctclctc </span> and <span class="stch">ctcrctc </span> have to be chosen in the heart of the spider. 
 
 [![4x2 legs][P-SE2-01]][T-SE2-01]  
 <p style="clear: both"></p> 
