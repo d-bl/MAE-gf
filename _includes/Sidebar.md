@@ -11,7 +11,6 @@
 
 * n-Pair joins:
 * [Counting families](/MAE-gf/docs/counting-snow)  
-* [Stitches](/MAE-gf/docs/snow-stitches)
 * *examples*  
 * 3 pair joins
   * [All](/MAE-gf/docs/snow_3)
