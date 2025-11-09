@@ -22,7 +22,7 @@
   * [Snowflakes](/MAE-gf/docs/snow_6)
   * [Spiders with 12 legs](/MAE-gf/docs/spin_06)  
   * [Stars](/MAE-gf/docs/star_6)
-  * [Combine with mixer](/GroundForge/mix4snow/_blank)
+  * [Combine with mixer][p-mixer]
 * 8 pair joins
   * [Spiders with 16 legs](/MAE-gf/docs/spin_08)
 * 10 pair joins
@@ -49,6 +49,8 @@
 [![colors used, 4 colors per stitch](/MAE-gf/images/to-color-rules.png)](/GroundForge-help/color-rules)
 
 ---
+
+[p-mixer]: /GroundForge/mix4snow/_blank
 
 ### Contribute
 
