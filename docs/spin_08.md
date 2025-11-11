@@ -29,6 +29,7 @@ Please note: for a traditional Torchon spider, a stitch like <span class="stch">
 [![][P-ST4-04]][T-ST4-04] 
 [![][P-ST4-05]][T-ST4-05] 
 [![][P-ST4-06]][T-ST4-06] 
+[![][P-ST84-01]][T-ST84-01] 
 [![][P-STQ4-01]][T-STQ4-01]  
 <p style="clear: both"></p>
 
@@ -40,6 +41,7 @@ Please note: for a traditional Torchon spider, a stitch like <span class="stch">
 [P-ST4-05]: ../images/spin_8/ST4-05.png
 [P-ST4-06]: ../images/spin_8/ST4-06.png
 [P-STQ4-01]: ../images/spin_8/STQ4-01.png
+[P-ST84-01]: ../images/spin_8/ST84-01.png
 
 [T-ST4-01]: /GroundForge/stitches?patchWidth=12&patchHeight=16&b1=ctcttcc&a2=ctc&c2=ctc&d2=ctc&e2=ctcrr&g2=ctcll&h2=ctc&a3=ctc&b3=ctc&c3=ctc&d3=ctcrr&f3=ctc&h3=ctcll&a4=ctcll&b4=ctc&c4=ctcrr&e4=ctc&f4=ctc&g4=ctc&b5=ctctt&d5=ctc&e5=ctc&f5=ctc&g5=ctc&h5=ctc&a6=ctc&c6=ctc&d6=ctc&e6=ctc&g6=ctc&h6=ctc&tile=-5------,B-CDD-AA,2566-5-2,256-535-,-5-56325,5-566-22&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6
 [T-ST4-02]: /GroundForge/stitches?patchWidth=12&patchHeight=16&b1=ctctct&h2=ct&g2=ctll&e2=ctrr&d2=ct&c2=ct&a2=ct&h3=ctll&f3=ct&d3=ctrr&c3=ct&b3=ct&a3=ct&g4=ct&f4=ct&e4=ct&c4=ctrr&b4=ct&a4=ctll&h5=ct&g5=ct&f5=ct&e5=ct&d5=ct&b5=cttt&h6=ct&g6=ct&e6=ct&d6=ct&c6=ct&a6=ct&tile=-5------,B-CDD-AA,2566-5-2,256-535-,-5-56325,5-566-22&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6
@@ -47,7 +49,10 @@ Please note: for a traditional Torchon spider, a stitch like <span class="stch">
 [T-ST4-04]: /GroundForge/stitches?patchWidth=12&patchHeight=16&b1=ctctct&h2=ct&g2=ctctll&e2=ctctrr&d2=ct&c2=ctct&a2=ctct&h3=ctctll&f3=ctct&d3=ctctrr&c3=ct&b3=ctct&a3=ct&g4=ctct&f4=ct&e4=ctct&c4=ctctrr&b4=ct&a4=ctctll&h5=ctct&g5=ct&f5=ctct&e5=ct&d5=ctct&b5=ctcttt&h6=ct&g6=ctct&e6=ctct&d6=ct&c6=ctct&a6=ctct&tile=-5------,B-CDD-AA,2566-5-2,256-535-,-5-56325,5-566-22&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6
 [T-ST4-05]: /GroundForge/stitches?patchWidth=12&patchHeight=16&b1=ctctct&h2=ct&g2=ctctll&e2=ctctrr&d2=ct&c2=ctct&a2=ctct&h3=ctll&f3=ct&d3=ctrr&c3=ctct&b3=ct&a3=ctct&g4=ctct&f4=ct&e4=ctct&c4=ctctrr&b4=ct&a4=ctctll&h5=ct&g5=ctct&f5=ct&e5=ctct&d5=ct&b5=cttt&h6=ct&g6=ctct&e6=ctct&d6=ct&c6=ctct&a6=ctct&tile=-5------,B-CDD-AA,2566-5-2,256-535-,-5-56325,5-566-22&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6
 [T-ST4-06]: /GroundForge/stitches?patchWidth=12&patchHeight=16&b1=ctctct&h2=ctct&g2=ctll&e2=ctrr&d2=ctct&c2=ct&a2=ct&h3=ctctll&f3=ctct&d3=ctctrr&c3=ct&b3=ctct&a3=ct&g4=ct&f4=ctct&e4=ct&c4=ctrr&b4=ctct&a4=ctll&h5=ctct&g5=ct&f5=ctct&e5=ct&d5=ctct&b5=ctcttt&h6=ctct&g6=ct&e6=ct&d6=ctct&c6=ct&a6=ct&tile=-5------,B-CDD-AA,2566-5-2,256-535-,-5-56325,5-566-22&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6
+
 [T-STQ4-01]: /GroundForge/stitches.html?patchWidth=20&patchHeight=20&tile=5----5----,-CDD632AAB,5666632222,5666632222,56666-2222&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5&f1=ctct&a1=ctcc&j2=rct&i2=ctc&h2=rct&g2=ctcr&f2=tct&e2=ctcl&d2=lct&c2=ctc&b2=lct&j3=ctc&i3=rct&h3=ctcr&g3=rct&f3=ctc&e3=lct&d3=ctcl&c3=lct&b3=ctc&a3=ct&j4=rct&i4=ctcr&h4=rct&g4=ctc&f4=tct&e4=ctc&d4=lct&c4=ctcl&b4=lct&a4=ctc&j5=ctcr&i5=rct&h5=ctc&g5=rct&e5=lct&d5=ctc&c5=lct&b5=ctcl&a5=ct
+[T-ST84-01]: /GroundForge/stitches.html?patchWidth=20&patchHeight=16&tile=x5xxx-xx,4-788-11,25668312,256-437-,15866322,7-466-22&shiftColsSW=-4&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6&b1=tctct&h2=ctc&g2=ctc&e2=ctc&d2=ctc&c2=c&a2=c&h3=ctcll&g3=ttctctt&f3=ctc&e3=ttctctt&d3=ctc&c3=ctc&b3=tc&a3=ctc&g4=ctc&f4=ctc&e4=ctc&c4=ctc&b4=ctc&a4=ctc&h5=ctc&g5=ctc&f5=ct&e5=ctc&d5=ctc&c5=ttctctt&b5=ctc&a5=ttctctt&h6=ctc&g6=cr&e6=cl&d6=ctc&c6=ctc&a6=ctc
+
 
 ## Spiders with an eye
 
