@@ -72,6 +72,7 @@ Please note: to get a clear eye in the middle, stitches like <span class="stch">
 [![open centered spider 1][P-SOC14-01]][T-SOC14-01] 
 [![open centered spider 2][P-SOC24-01]][T-SOC24-01] 
 [![open centered spider B][P-SOCB4-01]][T-SOCB4-01] 
+[![open centered spider 8][P-SOC84-01]][T-SOC84-01]
 [![open centered spider Q][P-SOCQ4-01]][T-SOCQ4-01] 
 <p style="clear: both"></p>
 
@@ -81,6 +82,7 @@ Please note: to get a clear eye in the middle, stitches like <span class="stch">
 [P-SOC24-01]: ../images/spin_8/SOC24-01.png
 [P-SOCB4-01]: ../images/spin_8/SOCB4-01.png
 [P-SOCQ4-01]: ../images/spin_8/SOCQ4-01.png
+[P-SOC84-01]: ../images/spin_8/SOC84-01.png
 
 [T-SOC14-01]: /GroundForge/stitches.html?patchWidth=30&patchHeight=30&tile=25-56-,x7-4x-,xx5xx-,x4-7x-,48-17-,6-5-25,-535-5,&shiftColsSW=-3&shiftRowsSW=7&shiftColsSE=3&shiftRowsSE=7&e1=ctcrrctc&d1=ctc&b1=ctc&a1=ctcllctc&d2=ctcll&b2=ctcrr&c3=ctctt&d4=ctc&b4=ctc&e5=ctcrrctc&d5=ctcll&b5=ctcrr&a5=ctcllctc&f6=tct&e6=ctcll&c6=ctc&a6=ctcrr&f7=ctctt&d7=ctc&c7=tct&b7=ctc
 
@@ -90,6 +92,7 @@ Please note: to get a clear eye in the middle, stitches like <span class="stch">
 
 [T-SOCQ4-01]: /GroundForge/stitches.html?patchWidth=20&patchHeight=25&tile=xx5-5-5xx-,x4-535-7x-,486632217-,6666-22225,6-4x-x7-25&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5&g1=rctcr&e1=ctct&c1=lctcl&h2=ctc&f2=rrctclt&e2=ctc&d2=llctcrt&b2=ctc&i3=ctcrctc&h3=ctc&g3=rrctclt&f3=ctc&e3=ctc&d3=ctc&c3=llctcrt&b3=ctc&a3=ctclctc&j4=ctc&i4=ctc&h4=rrctclt&g4=ctc&f4=ctclctc&d4=ctcrctc&c4=ctc&b4=llctcrt&a4=ctc&j5=ctc&i5=rrctclt&g5=ctc&c5=ctc&a5=llctcrt
 
+[T-SOC84-01]: /GroundForge/stitches.html?patchWidth=20&patchHeight=25&tile=17-48831,-256-437,215866-2,7x-x4x-x,x7-4xx-x,4x-x7x-x&shiftColsSW=-4&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6&h1=ttctctt&g1=ct&f1=ttctctt&e1=ctc&d1=crcl&b1=clcr&a1=ctc&h2=ct&g2=ct&f2=ct&d2=ct&c2=ct&b2=ct&h3=crcl&f3=clcr&e3=ctc&d3=ttctctt&c3=c&b3=ttctctt&a3=ctc&e4=ctc&a4=ctc&d5=ctc&b5=ctc&e6=ctc&a6=ctc
 
 ## Double eyed spiders
 
