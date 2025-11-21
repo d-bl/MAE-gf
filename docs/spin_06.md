@@ -14,9 +14,7 @@ title: Spiders 12 legs
      
 ## Introduction
 
-On this page we show examples of grounds with spiders with 12 (4x3) legs. Also see [_Counting snowflake families_][count-page].   
-
-[count-page]: ../docs/counting-snow/     
+On this page we show examples of grounds with spiders with 12 (4x3) legs. Also see [_Counting snowflake families_](counting-snow/).   
 
 ## Torchon spiders
 
@@ -62,7 +60,7 @@ Please note: to get a clear eye in the middle, stitches like <span class="stch">
 
 ## Spiders with a narrow eye
 
-Spiders with a narrow eye also can be achieved using <span class="elem">step 2</span> or <span class="elem">step 3</span> on a [_fish_](../docs/droste#fish) in <span class="stch">half stitch</span>.     
+Spiders with a narrow eye also can be achieved using <span class="elem">step 2</span> or <span class="elem">step 3</span> on a [_fish_](droste#fish) in <span class="stch">half stitch</span>.     
 
 ![spider with narrow eye][P-SNB3]
 [![spider with narrow eye][P-SNBS3-01]][T-SNBS3-01] 
