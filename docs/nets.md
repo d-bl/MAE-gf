@@ -25,13 +25,13 @@ title: Net grounds
 ## Introduction
 
 Net grounds are grounds with repeats of usualy one stitch. There are several ways of placing the stitches.  
-For net-grounds with one stitch and its mirrored versions only, see page [_catalogue of stitches_](../docs/stitches) and page _<a href="/GroundForge/nets" target="_blank">net variations</a>_.       
+For net-grounds with one stitch and its mirrored versions only, see page [_catalogue of stitches_](stitches) and page _<a href="/GroundForge/nets" target="_blank">net variations</a>_.       
 
 ## Horizontal net
 
 ![net1][p-net1]
 Horizontal nets can also be found in tape lace like Milanese, Hunnia and Russian lace.    
-A horizontal net ground made with non traditional stitches like <span class="stch">crcl</span> is called [_Embellished clothwork_](../docs/ec).     
+A horizontal net ground made with non traditional stitches like <span class="stch">crcl</span> is called [_Embellished clothwork_](ec).     
 
 [![p-net1a]][t-net1a] 
 [![p-net1b]][t-net1b] 
@@ -111,7 +111,7 @@ The following examples look like sprang plaiting.
 ## Honeycomb net Kat
 
 ![net3][p-net3]
-See also [_Paris grounds_](../docs/paris).   
+See also [_Paris grounds_](paris).   
 
 [![p-net3b]][t-net3b] 
 
@@ -125,7 +125,7 @@ See also [_Paris grounds_](../docs/paris).
 ## Honeycomb net Weaving Paris
 
 ![net4][p-net4]
-See also [_Lattice_](../docs/lotus).
+See also [_Lattice_](lotus).
 
 [![p-net4a]][t-net4a] 
     
@@ -139,7 +139,7 @@ See also [_Lattice_](../docs/lotus).
 ## Honeycomb net Bias
 
 ![net5][p-net5]
-This scheme is equal to the [_Bias ground_](../docs/bias).   
+This scheme is equal to the [_Bias ground_](bias).   
 
 [![p-net5a]][t-0204] 
 
