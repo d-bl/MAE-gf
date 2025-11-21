@@ -26,7 +26,7 @@ dit is een test, en nog eens
 
 # test
 
-[pagina test1][pg-test1] [pagina test2](../docs/roses) [pagina test3][pg-test3] [pagina test 4](../roses) [pagina test 5](roses) [pagina test 6][pg-test6]   
+[(../docs/roses)](../docs/roses) [pg ../docs/roses][pg-test3] [pg ../roses][pg-test1] [(../roses)](../roses) [(roses)](roses) [pg roses][pg-test6]   
 
 [pg-test1]: ../roses
 [pg-test3]: ../docs/roses
