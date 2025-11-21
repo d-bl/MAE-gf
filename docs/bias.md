@@ -26,9 +26,7 @@ title: Bias grounds
 ## Introduction
 
 Traditionally, a bias ground is made as follows: make two stitches diagonally, make a stitch in the middle with these two, make two diagonal, stitch in the middle, etc.         
-Sometimes, the bias ground is referred to as [_rose ground_][page-rose], especially the _bias crossed rose style_ and _crossed short bias_.        
-
-[page-rose]: ../docs/roses
+Sometimes, the bias ground is referred to as [_rose ground_](roses), especially the _bias crossed rose style_ and _crossed short bias_.        
 
 ## Traditional Bias Ground
 
