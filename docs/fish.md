@@ -16,8 +16,8 @@ title: Fish
 
 Fish grounds are usualy used in small braids, typically 14-18 pairs of bobbins.    
 The grounds consists of a number of rows with two or more cloth stitches followed with some twists in the weaver. Fish starts and closes with a cloth stitch. In between the fish-rows, zero, one ore more rows with e.g. half stitch, pin, half stitch are made. The number of these rows define whether the fish will be in straight vertical lines, or in alternating positions.        
-If the tail is made with pairs not from the same fish, the ground is called [_Lotus_][lotus-page].    
-Fish can also be made using the <span class="elem">Droste function</span> of GroundForge. See page [_Droste_][droste-page].
+If the tail is made with pairs not from the same fish, the ground is called [_Lotus_](lotus).    
+Fish can also be made using the <span class="elem">Droste function</span> of GroundForge. See page [_Droste_](droste).
 
 Broader fish can be made, e.g. with four cloth stitches.       
 In some Milanese grounds, the heads and tails are made as a cloth stitch with pairs. Groundforge does not support this. Making the head and tail as a half spider is supported.    
@@ -47,9 +47,6 @@ Fish B,S,W means: the number of Bones, the number of Spines and the number of Wa
 
 * [Fish B3,S2,W2][Z322]; [Fish B3,S2,W3][Z323]
 * [Fish B4,S2,W2][Z422]; [Fish B4,S2,W3][Z423]
-
-[lotus-page]: ../docs/lotus
-[droste-page]: ../docs/droste
 
 [T-12-]: /GroundForge/stitches?patchWidth=9&patchHeight=11&m1=rrctctt&d1=ctc&e2=ctc&c2=ctcll&d3=ctc&a3=llctctt&e4=ctcrr&c4=ctc&footside=x-,xz,4-,xw&tile=-5-,0z2,-5-,6v9&headside=-7,YX,-X,VX&footsideStitch=ctc&tileStitch=ctc&headsideStitch=ctc&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=4
 
