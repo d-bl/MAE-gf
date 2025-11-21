@@ -39,5 +39,5 @@ This section is moved to page [_Misscelaneous_](misca#bias-and-paris-ground).
 
 ## Windmills
 
-This section is moved to page [_Misscelaneous_](windmills).
+This section is moved to page [_Windmills_](windmills).
 
