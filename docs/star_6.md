@@ -10,7 +10,7 @@ title: Stars
 
 ## Introduction
 On this pages examples of stars with 6 pairs coming in and going out.      
-For the 3-pairs version of these stars, please see [_3-pair stars_](../docs/snow_3#stars). 
+For the 3-pairs version of these stars, please see [_3-pair stars_](snow_3#stars). 
 
 ## Stars
 
