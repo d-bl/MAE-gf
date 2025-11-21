@@ -186,27 +186,24 @@ Most of the variants shown on this page benefit of extra pins on the sides. As i
 %} 
 <p style="clear: both"></p>
 
-Please note the resemblance with [_paris grounds_][page-paris-alt] and ground d) with the [_stacked spiders_][page-st-sp]. 
-
-[page-st-sp]: ../docs/spin_04#stacked-spiders
-[page-paris-alt]: ../docs/paris#another-arrangement
+Please note the resemblance with [_paris grounds_](paris#another-arrangement) and ground d) with the [_stacked spiders_](spin_04#stacked-spiders). 
 
 ## Binche Snowflake
 
-The six-pair snowflake is moved to its [_own page_][page_snow_6].
+The six-pair snowflake is moved to its [_own page_](snow_6#binche-snowflakes).
 
 ## Half little snowflake
 
 ![half little snowflake][p-half-snowflake]
 If the stitches indicated in white in the picture on the right are omitted, we get a half little snowflake. This can be used in several configurations.  
-The examples are moved to a [_page with other 3 paired joins_][page-snow-3].
+The examples are moved to a [_page with other 3 paired joins_](snow_3#half_little_snowflake).
 <p style="clear: both"></p>
 
 [p-half-snowflake]: ../images/snow_4/half-snowflake.png?align=right "half little snowflake"
 
 ## Windmill snowflakes
 
-The name of these snowflakes is based on origami. The examples are moved to their [_own page_][page_wind].
+The name of these snowflakes is based on origami. The examples are moved to their [_own page_](windmills).
 
 ## Making of
 
@@ -221,10 +218,5 @@ Some of the grounds can be made either as a crossed snowflake or as a rose groun
 [tt-0116-kg]: /GroundForge/stitches?patchWidth=12&patchHeight=16&d1=c&c1=ctctc&b1=c&a1=ctctc&d2=ctc&b2=ctc&tile=5831,-4-7&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [tt-0356-kg]: /GroundForge/stitches?patchWidth=20&patchHeight=20&e1=c&c1=c&h2=ctct&f2=c&d2=tctc&b2=c&g3=cl&a3=cr&h4=ctc&tile=--B-C---,-E-5-O-K,5-----5-,-------5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
-[page-tips]: ../docs/tricks#ground-names
-[page-rose]: ../docs/roses#rose-ground-in-a-diamond
-[page-snow-3]: ../docs/snow_3#half_little_snowflake
-[page_snow_6]: ../docs/snow_6#binche-snowflakes
-[page_wind]: ../docs/windmills
 
 
