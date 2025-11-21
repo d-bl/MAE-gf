@@ -44,12 +44,11 @@ Colors used in the examples on these pages:
 
 ## Stitches used
 
-Sometimes, onorthodox stitches are used, like <span class="stch">cross only</span> or <span class="stch">crcllcrc</span>, as in the [_Sunny Stitch_][ex-sun].    
+Sometimes, onorthodox stitches are used, like <span class="stch">cross only</span> or <span class="stch">crcllcrc</span>, as in the [_Sunny Stitch_](roses#sunny-stitch).    
 We have tried <span class="stch">ctctclllllctctc</span> as a substitute for picots. Groundforge needs some time to generate this, and the result is not as expected.       
 
 The specified twists in some stitch definitions may not be according to the expected working order. Example : <span class="stch">B1 = ctc, A2 = rrct, C2 = llct</span> instead of <span class="stch">B1 = ctctt, A2 = ct, C2 = ct</span>. The result is the same.      
 
-[ex-sun]: ../docs/roses#sunny-stitch
 [p-colors]: ../images/w-color.png?align=right "colors used"
 
     
