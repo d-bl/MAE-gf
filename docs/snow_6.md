@@ -14,7 +14,7 @@ title: Snowflakes
 ## Introduction
 ![binche snow][p-binche-snow]
 On this pages examples of snowflakes with 6 pairs coming in and going out.   
-There are many ways of making snowflakes. See pages [_Counting snowflake families_](../docs/counting-snow/) and [_Snowflake mixer_](/GroundForge/mix4snow/).     
+There are many ways of making snowflakes. See pages [_Counting snowflake families_](counting-snow/) and [_Snowflake mixer_](/GroundForge/mix4snow/).     
 
 ## Binche snowflakes
 
@@ -45,15 +45,15 @@ There are many ways of making snowflakes. See pages [_Counting snowflake familie
 
 ## Snowflakes with an eye
 
-The snowflakes with an eye are moved to [_spiders with an eye_](../docs/spin_06#spiders-with-an-eye).
+The snowflakes with an eye are moved to [_spiders with an eye_](spin_06#spiders-with-an-eye).
 
 ## Stars
 
-The stars have been moved to their [own page](../docs/star_6).
+The stars have been moved to their [own page](star_6).
 
 ## More snowflakes
 
 More snowflakes with six pairs can be found on other pages:  
 
-* [_triangular grounds kissing_](../docs/tria#pagodas-kissing)
-* [_bigger triangular ground_](../docs/tria#bigger-pagodas)
+* [_triangular grounds kissing_](tria#pagodas-kissing)
+* [_bigger triangular ground_](tria#bigger-pagodas)
