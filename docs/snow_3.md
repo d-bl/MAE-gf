@@ -52,9 +52,7 @@ This [rose ground variant][T-3cc] looks like a three paired join, but has crossi
 %} 
 <p style="clear: both"></p> 
 
-Please note: star d uses the same GroundForge schema as half little snowflake a). For the 6 pairs version of star b and d see [_stars with 6 pairs_][page-6-stars].     
-
-[page-6-stars]: ../docs/star_6
+Please note: star d uses the same GroundForge schema as half little snowflake a). For the 6 pairs version of star b and d see [_stars with 6 pairs_](star_6).     
 
 ## Triangles    
 
@@ -111,7 +109,7 @@ Please note: star d uses the same GroundForge schema as half little snowflake a)
 
 ## Half little snowflakes
 
-A three-paired join can be made with a half little snowflake. See also page [_Little snowflakes_][page-little].     
+A three-paired join can be made with a half little snowflake. See also page [_Little snowflakes_](snowflakes#half-little-snowflake).     
 
 [![p-3pr-132]][t-3pr-132]  
 <p style="clear: both"></p>
@@ -160,6 +158,4 @@ The pricking of example a is equivalent to no 47 from _Moderne Torchonspitze_, w
 [p-3pr-132]: ../images/snow_3/3pr-132.png "half little snowflake, familie 132"
 
 [t-3pr-132]: /GroundForge/stitches?patchWidth=17&patchHeight=20&paintStitches=ctcl&e1=ctcr&d1=ctct&b1=ctc&a1=ctc&f2=ctct&b2=ctc&e3=ctc&d3=ctc&b3=ctct&a3=ctcl&d4=ctc&tile=21z17-,x7-x-5,48v86-,-x-4x-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=6&shiftRowsSE=2
-
-[page-little]: ../docs/snowflakes#half-little-snowflake
 
