@@ -19,10 +19,8 @@ title: Rose grounds
 ## Introduction
 
 On this page several variants of the rose ground.     
-The variants with an extra stitch in the middle can be found on page [_Bias grounds_][page-bias].      
+The variants with an extra stitch in the middle can be found on page [_Bias grounds_](bias).      
 A zip file with more than 2000 rose ground variants can be <a href="https://github.com/d-bl/MAE-gf/releases/download/rose_rounds/rose-ground-pair-diagrams.zip" download>downloaded here</a>.     
-
-[page-bias]: ../docs/bias
 
 ## Rose ground
 
@@ -170,7 +168,7 @@ Ants came to life as a variation of the Slavic ground. The result looks like ant
 ## Stretched Paris ground
 
 ![stretched paris ground][p-strpg]
-These examples came to life as variations on a rose-ground with "do nothing (much)" on the left and right. Please see the resemblance with the _[Paris ground][page-paris]_.   
+These examples came to life as variations on a rose-ground with "do nothing (much)" on the left and right. Please see the resemblance with the _[Paris ground](paris#traditional-paris-ground)_.   
 
 [![0403-KG][P-0403-KG]][T-0403-KG] 
 [![0424-KG][P-0424-KG]][T-0424-KG]
@@ -186,7 +184,6 @@ These examples came to life as variations on a rose-ground with "do nothing (muc
 [P-0402-LG]: ../images/roses/0402-lg.png "0402-L"
 
 [p-strpg]: ../images/roses/g-halfling.svg?align=right "stretched Paris ground"
-[page-paris]: ../docs/paris#traditional-paris-ground
 
 [T-0403-KG]: /GroundForge/stitches?patchWidth=15&patchHeight=20&d1=tctct&c1=c&b1=-&a1=c&b2=-&tile=d3ar,-r--&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0424-KG]: /GroundForge/stitches?patchWidth=15&patchHeight=20&d1=ctctc&c1=cr&b1=-&a1=cl&b2=-&tile=d3ar,-r--&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
