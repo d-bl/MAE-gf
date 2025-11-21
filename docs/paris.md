@@ -52,9 +52,7 @@ The photo shows the example on the bottom of this page, but slighty adapted to g
 
 ## Stretched Paris ground
 
-For the stretched paris ground, see on page [_Rose grounds_][p-rose-paris].       
-
-[p-rose-paris]: ../docs/roses#stretched-paris-ground
+For the stretched paris ground, see on page [_Rose grounds_](roses#stretched-paris-ground).       
 
 ## Paris ground in a diamond
 
@@ -131,12 +129,8 @@ This ground is also known as _Copenhagen hole_.
     txt="example 3"
 %}     
 
-Please note the resambles of example 2 with the [_Bias ground_][page-bias-trad], example 3 with the [_Diagonal placed little snowflakes_][page-snow4-diag] and [_Alternative placed little snowflakes_][page-snow4-alt].  
+Please note the resambles of example 2 with the [_Bias ground_](bias#traditional-bias-ground), example 3 with the [_Diagonal placed little snowflakes_](snowflakes#snowflakes-diagonal) and [_Alternative placed little snowflakes_](snowflakes#other-arrangements).  
 <p style="clear: both"></p>
-
-[page-bias-trad]: ../docs/bias#traditional-bias-ground
-[page-snow4-diag]: ../docs/snowflakes#snowflakes-diagonal
-[page-snow4-alt]: ../docs/snowflakes#other-arrangements
 
 ## Way of making
 
