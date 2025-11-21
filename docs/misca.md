@@ -36,9 +36,8 @@ Miscellaneous examples, collected on this page.
 
 ## 3 pairs join
 
-The 3 pairs joins are moved to their [own page][p_snow_3].
+The 3 pairs joins are moved to their [own page](snow_3).
 
-[p_snow_3]: ../docs/snow_3
 
 ## Fusion
 
@@ -95,8 +94,5 @@ As the "another fish" pattern, the pattern in Groundforge is turned one quarter.
 
 ## Windmills
 
-The windmills are a special kind of snowflake, and moved to page _[windmills][pg-wind]_.
-
-[pg-wind]: ../docs/windmills 
-
+The windmills are a special kind of snowflake, and moved to page _[windmills](windmills)_.
 
