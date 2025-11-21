@@ -33,7 +33,7 @@ The first-step-Droste diagram can reused again: click the ![](../images/wand.png
 The same result as this second-steps-Droste fish can be achieved with [first-step-Droste][F2-223].          
 
 Defining a footside will become problematic, as we have four workers going into the same direction before returning. In practice you can bend this rule and change direction every other row, provided that plain twists separate the fish. Note that in both cases it can take a while for the last steps to appear.    
-Please note the resemblance of the second-step fish with the [narrow eyed spider](spiders#spiders-with-a-narrow-eye). 
+Please note the resemblance of the second-step fish with the [narrow eyed spider](spin_06#spiders-with-a-narrow-eye). 
 
 [F2-223]: /GroundForge/droste?patchWidth=6&patchHeight=14&b1=ctct&a2=ctct&b3=ct&a4=ctct&b5=ctc&b6=ctcl&a6=ctc&b7=ctc&a7=ctcr&droste2=ctc,b30=tct,b44=a45=b15=b14=tt,b64=a74=ttctctt&tile=-4,5-,-5,5-,-5,21,88&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=7&shiftColsSE=2&shiftRowsSE=7
 
