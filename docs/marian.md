@@ -17,37 +17,27 @@ title: Marian's grounds
 
 ## Fusion
 
-This section is moved to page [_Misscelaneous_][p-fusion].    
-
-[p-fusion]: ../docs/misca#fusion
+This section is moved to page [_Misscelaneous_](misca#fusion).    
 
 ## Sunny stitch
 
-This section is moved to page [_Rose grounds_][p-sunny].   
+This section is moved to page [_Rose grounds_](roses#sunny-stitch).   
 
-[p-sunny]: ../docs/roses#sunny-stitch
 
 ## Ants
 
-This section is moved to page [_Rose grounds_][p-ants]
-
-[p-ants]: ../docs/roses#ants
+This section is moved to page [_Rose grounds_](roses#ants)
 
 ## Another fish
 
-This section is moved to page [_Misscelaneous_][p-fish].
+This section is moved to page [_Misscelaneous_](misca#another-fish).
 
-[p-fish]: ../docs/misca#another-fish 
 
 ## Bias and Paris ground
 
-This section is moved to page [_Misscelaneous_][p-paris].
-
-[p-paris]: ../docs/misca#bias-and-paris-ground
+This section is moved to page [_Misscelaneous_](misca#bias-and-paris-ground).
 
 ## Windmills
 
-This section is moved to page [_Misscelaneous_][p-wind].
-
-[p-wind]: ../docs/misca#windmills
+This section is moved to page [_Misscelaneous_](windmills).
 
