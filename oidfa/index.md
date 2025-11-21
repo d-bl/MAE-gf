@@ -16,17 +16,17 @@ title: links OIDFA Bulletin
 
 ## Counting stitches
 
-[The catalogue of stitches](https://d-bl.github.io/MAE-gf/docs/stitches)   
-[Results of counting stitches](https://d-bl.github.io/MAE-gf/docs/counting)      
+[The catalogue of stitches](/MAE-gf/docs/stitches)   
+[Results of counting stitches](/MAE-gf/docs/counting)      
 
 ## GroundForge catalogues
 
-[Many attractive examples](https://d-bl.github.io/MAE-gf/)    
-[Tesselace](https://d-bl.github.io/tesselace-to-gf/)    
+[Many attractive examples](/MAE-gf/)    
+[Tesselace](/tesselace-to-gf/)    
 
 ## GroundForge main address
 
-[GroundForge](https://d-bl.github.io/GroundForge/stitches)    
+[GroundForge](/GroundForge/stitches)    
 
 ## Meander and Earth
 

@@ -56,4 +56,4 @@
 - [propose changes]({{ site.github.repository_url }}/edit/master/{{ page.path }}) to this page.
 
 [![Creative Commons License](/MAE-gf/assets/images/CC-BY-80x15.png)](https://creativecommons.org/licenses/by/4.0/)  
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
