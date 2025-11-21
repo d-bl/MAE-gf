@@ -22,7 +22,7 @@
   * [Snowflakes](/MAE-gf/docs/snow_6)
   * [Spiders with 12 legs](/MAE-gf/docs/spin_06)  
   * [Stars](/MAE-gf/docs/star_6)
-  * <a href=" /GroundForge/mix4snow/" target="_blanc">Combine with mixer</a>
+  * <a href="/GroundForge/mix4snow/" target="_blanc">Combine with mixer</a>
 * 8 pair joins
   * [Spiders with 16 legs](/MAE-gf/docs/spin_08)
 * 10 pair joins
