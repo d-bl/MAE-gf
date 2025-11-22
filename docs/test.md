@@ -26,17 +26,6 @@ dit is een test, en nog eens
 
 # test
 
-[(../docs/roses)](../docs/roses) [pg ../docs/roses][pg-test3] [pg ../roses][pg-test1] [(../roses)](../roses) [(roses)](roses) [pg roses][pg-test6]   
-
-[pg-test1]: ../roses
-[pg-test3]: ../docs/roses
-[pg-test6]: roses
-
-[windmills][pg-wind]
-
-[pg-wind]: ../windmills 
-
-
 buttons test
 
 <a href="../images/flanders2/105-1.png">
