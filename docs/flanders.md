@@ -19,7 +19,7 @@ Lesson learnt: Many types of stitch combinations keep the pairs together or let 
 You get the most exotic variants, even when working monochrome, with stitches that twist just one of the pairs,
 sadly these patterns are also more error prone. So do keep the generated thread diagram at hand.   
 
-See also <a href="/gw-lace-to-gf" target="_blank">Whiting</a> A2, B2, B6, C6, C9, <a href="/GroundForge-help/Droste-effect#stitches" target="_blank">Droste</a> ctct and [rose ground](roses) grounds.    
+See also <a href="/gw-lace-to-gf" target="_blank">Whiting</a> A2, B2, B6, C6, C9, <a href="/GroundForge-help/Droste-effect#stitches" target="_blank">Droste</a> ctct and [rose grounds](roses).    
 
 For the actual lace the pins can be placed like a Flanders ground, or as a Torchon Rose ground, as shown in the following picture.
 
