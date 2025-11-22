@@ -14,7 +14,7 @@ title: Snowflakes
 ## Introduction
 ![binche snow][p-binche-snow]
 On this pages examples of snowflakes with 6 pairs coming in and going out.   
-There are many ways of making snowflakes. See pages [_Counting snowflake families_](counting-snow/) and _<a href="/GroundForge/mix4snow/" target="_blank"><Snowflake mixer>_.
+There are many ways of making snowflakes. See pages [_Counting snowflake families_](counting-snow/) and _<a href="/GroundForge/mix4snow/" target="_blank">Snowflake mixer</a>_.
 
 ## Binche snowflakes
 
