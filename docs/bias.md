@@ -129,7 +129,7 @@ Sometimes, the bias ground is referred to as [_rose ground_](roses), especially 
 This ground is also called _rose ground_.         
 
 [![crossed][P-bias-at]][T-0278-KK] 
-See also [mrs Whiting's index][L-whiting]: D6 and F4.  
+See also <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a>: D6 and F4.  
 <p style="clear: both"></p>
 
 [P-bias-at]: ../images/bias/g-bias-at.svg?align=left "tradtional bias crossed, 0278-KK"
@@ -141,7 +141,7 @@ See also [mrs Whiting's index][L-whiting]: D6 and F4.
 ## Bias Ground crossed alternating
 
 [![][p-bias-aa]][T-0280-LLh] 
-See also [mrs Whiting's index][L-whiting]: E6.  
+See also <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a>: E6.  
 <p style="clear: both"></p>
 
 [p-bias-aa]: ../images/bias/g-bias-aa.svg?align=left "alternated bias crossing, 0280-LL"
@@ -238,7 +238,7 @@ Of course, this pull-back through two can be extended further: pull-back through
 ## Stretched
 
 The pictures below show three different units. The units are placed like the white tiles on a checker board.          
-Example 1 is a bias ground, stretched vertically, as found in the Whiting index F4. Experimenting with stitches, I created the units in shown in example 2 and 3. Example 2 is equivalent to the little snowflake. Example 3 proved to be a real surprise! These grounds also look nice when made on a hexagonal raster, connecting the units with a short plait.
+Example 1 is a bias ground, stretched vertically, as found in <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a> F4. Experimenting with stitches, I created the units in shown in example 2 and 3. Example 2 is equivalent to the little snowflake. Example 3 proved to be a real surprise! These grounds also look nice when made on a hexagonal raster, connecting the units with a short plait.
 
 {% include captionfig.html
     lnk="/GroundForge/stitches?patchWidth=12&patchHeight=20&a1=ctctctc&b1=tct&c1=ctctctc&b2=ctc&a3=ctc&c3=ctc&d4=ctc&tile=B8D-,-4--,B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4"
