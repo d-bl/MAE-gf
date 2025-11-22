@@ -46,16 +46,14 @@
 [Notes](/MAE-gf/docs/tricks)  
 &nbsp;  
 <a href="/MAE-gf/docs/tricks#color-code" target="_blank"> <img src="/MAE-gf/images/w-color.png" alt="Colors used, Belgian code"></a>   
-<a href="/GroundForge-help/color-rules" target="_blank"> <img src="/MAE-gf/images/to-color-rules.png" alt="Colors used, 4 colors per stitch"></a>      
-[![colors used, Belgian code](/MAE-gf/images/w-color.png)](/MAE-gf/docs/tricks#color-code)  
-[![colors used, 4 colors per stitch](/MAE-gf/images/to-color-rules.png)](/GroundForge-help/color-rules)
-
+<a href="/GroundForge-help/color-rules" target="_blank"> <img src="/MAE-gf/images/to-color-rules.png" alt="Colors used, 4 colors per stitch"></a>   
+     
 ---
 
 ### Contribute
 
 - [Share and reuse](/GroundForge-help/Reuse)
-- [propose changes]({{ site.github.repository_url }}/edit/master/{{ page.path }}) to this page.
+- [Propose changes]({{ site.github.repository_url }}/edit/master/{{ page.path }}) to this page.
 
 [![Creative Commons License](/MAE-gf/assets/images/CC-BY-80x15.png)](https://creativecommons.org/licenses/by/4.0/)  
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
