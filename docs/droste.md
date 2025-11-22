@@ -17,13 +17,11 @@ title: Droste
 
 On this page, several grounds are made with the "Droste-effect": reuse thread diagrams as pair diagrams. Some of these, like "Wobble" can only be made by GroundForge using this technique.      
 
-See the Groundforge help-page [_Droste-effect_][pg-droste] for more information.  
+See the Groundforge help-page _<a href="/GroundForge-help/Droste-effect" target="_blank">Droste-effect</a>_ for more information.  
 
 Some of the examples have forms to make playing easier. Other examples only have plain links for multi-step patterns, you need to click the ![](../images/wand.png) on the "Threads" section for the diagrams of the fist (or even second) step.                  
 
 {% include stitches.html %}
-
-[pg-droste]: /GroundForge-help/Droste-effect
 
 ## Fish
 
@@ -49,7 +47,7 @@ This ground uses the thread diagram of alternating <span class="stch">ct/ctct</s
 ![w0][p-wobble-0]
 <p style="clear: both"></p>
 
-The pricking on the left is generated with one of the "ground from template" [tools](/inkscape-bobbinlace/Ground-from-Template) and a plain text file (<a href="../data/wobble.txt" download>download</a>). The changing angle of the rose ground units inspired the name.
+The pricking on the left is generated with one of the "ground from template" <a href="/inkscape-bobbinlace/Ground-from-Template" target="_blank">tools</a> and a plain text file (<a href="../data/wobble.txt" download>download</a>). The changing angle of the rose ground units inspired the name.
                 
 On the right a distorted version that matches a Torchon grid. The units of the rose-ground are placed in different directions, indicated with blue arrows. These units can be replaced with units of a bias ground. The green arrows indicate the working order inherited from the original pair diagram.
 
@@ -84,7 +82,7 @@ The picture on the right shows another general scheme also based on the Paris gr
 [![rcl][p-paris-rcl]][T-paris-rcl] 
 <p style="clear: both"></p>
 
-Mrs. V. Irvine has worked an example using the left pricking. See [_Favourite Flaveolate_][p-VI-001] for a photo, and [here][t-VI-001] for how she made it. Pins where used to get the triangle shape at the "joints" of the hexagons.      
+Mrs. V. Irvine has worked an example using the left pricking. See _<a href="https://www.flickr.com/photos/veronika_irvine/23167573524/in/album-72157649379176771/" target="_blank">Favourite Flaveolate</a>_ for a photo, and [here][t-VI-001] for how she made it. Pins where used to get the triangle shape at the "joints" of the hexagons.      
 
 [p-paris-droste]: ../images/droste/paris-droste-0.svg?align=right "variation on fancy Zeccatello"
 [p-fancy-z]: ../images/droste/paris-droste-f12.svg?align=right "fancy Zeccatello"
@@ -94,7 +92,6 @@ Mrs. V. Irvine has worked an example using the left pricking. See [_Favourite Fl
 [i-paris-lcr]: ../images/droste/i-paris-lcr.svg "bias grond via lcr"
 [i-paris-rcl]: ../images/droste/i-paris-rcl.svg "bias ground via rcl"
 [i-paris-ctc]: ../images/droste/i-paris-ctc.svg "rose ground via ctc"
-[p-VI-001]: https://www.flickr.com/photos/veronika_irvine/23167573524/in/album-72157649379176771/
 
 [Paris]: /GroundForge/droste?tile=-5&tileStitch=ct&droste2=ctct&patchWidth=5&patchHeight=6&shiftColsSW=-2&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=1
 [F12]: /GroundForge/stitches?whiting=F12_P190&patchWidth=10&patchHeight=10&f1=ctc&d1=tctct&b1=ctc&g2=ctctctc&e2=tctct&c2=tctct&a2=ctctctc&f3=ctc&d3=tctct&b3=ctc&g4=ctcrrctc&f4=ctc&e4=ctcllctc&c4=ctcrrctc&b4=ctc&a4=ctcllctc&tile=-4-5-7--,b-5-5-c-,-5-5-5--,a15-58d-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
