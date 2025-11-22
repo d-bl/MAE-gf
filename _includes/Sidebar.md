@@ -56,6 +56,4 @@
 [Propose changes]({{ site.github.repository_url }}/edit/master/{{ page.path }}) to this page.   
 
 <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank"><img src="/MAE-gf/assets/images/CC-BY-80x15.png" alt="Creative Commons License"></a>   
-[![Creative Commons License](/MAE-gf/assets/images/CC-BY-80x15.png)](https://creativecommons.org/licenses/by/4.0/)  
 This work is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International License</a>. 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
