@@ -74,17 +74,17 @@ In turn the _fancy Zeccatello_ uses the thread diagram of a Paris variation as p
 Note that the cloth stitch units are in fact a unit of a bias ground.    
 The picture on the right shows a general scheme. The stitches of the Paris ground are replaced with units. In the picture, one unit is indicated with a blue ellipse. The buttons below replace this unit with the unit shown on the button, and the unit to the right with its mirrored version.          
               
-[![ctc][i-paris-ctc]][Z-paris-ctc] 
-[![lcr][i-paris-lcr]][Z-paris-lcr] 
-[![rcl][i-paris-rcl]][Z-paris-rcl] 
+[![ctc][p-zec-ctc]][t-zec-ctc] 
+[![lcr][p-zec-lcr]][t-zec-lcr] 
+[![rcl][p-zec-rcl]][t-zec-rcl] 
 <p style="clear: both"></p>
 
 ![pd][p-paris-droste]
 The picture on the right shows another general scheme also based on the Paris ground. The stitches of the Paris ground are replaced with units. In the picture, one unit is indicated with a blue ellipse. The buttons below replace this unit with the unit shown on the button,  and the unit to the right with its mirrored version.           
               
-[![ctc][p-paris-ctc]][T-paris-ctc] 
-[![lcr][p-paris-lcr]][T-paris-lcr] 
-[![rcl][p-paris-rcl]][T-paris-rcl] 
+[![ctc][p-paris-ctc]][t-paris-ctc] 
+[![lcr][p-paris-lcr]][t-paris-lcr] 
+[![rcl][p-paris-rcl]][t-paris-rcl] 
 <p style="clear: both"></p>
 
 Mrs. V. Irvine has worked an example using the left pricking. See _<a href="https://www.flickr.com/photos/veronika_irvine/23167573524/in/album-72157649379176771/" target="_blank">Favourite Flaveolate</a>_ for a photo, and [here][t-VI-001] for how she made it. Pins where used to get the triangle shape at the "joints" of the hexagons.      
@@ -94,22 +94,22 @@ Mrs. V. Irvine has worked an example using the left pricking. See _<a href="http
 [p-paris-lcr]: ../images/droste/paris-lcr.svg "bias ground via lcr"
 [p-paris-rcl]: ../images/droste/paris-rcl.svg "bias ground via rcl"
 [p-paris-ctc]: ../images/droste/paris-ctc.svg "rose ground via ctc"
-[i-paris-lcr]: ../images/droste/i-paris-lcr.svg "bias grond via lcr"
-[i-paris-rcl]: ../images/droste/i-paris-rcl.svg "bias ground via rcl"
-[i-paris-ctc]: ../images/droste/i-paris-ctc.svg "rose ground via ctc"
+[p-zec-lcr]: ../images/droste/zec-lcr.svg "bias grond via lcr"
+[p-zec-rcl]: ../images/droste/zec-rcl.svg "bias ground via rcl"
+[p-zec-ctc]: ../images/droste/zec-ctc.svg "rose ground via ctc"
 
 [Paris]: /GroundForge/droste?tile=-5&tileStitch=ct&droste2=ctct&patchWidth=5&patchHeight=6&shiftColsSW=-2&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=1
 [F12]: /GroundForge/stitches?whiting=F12_P190&patchWidth=10&patchHeight=10&f1=ctc&d1=tctct&b1=ctc&g2=ctctctc&e2=tctct&c2=tctct&a2=ctctctc&f3=ctc&d3=tctct&b3=ctc&g4=ctcrrctc&f4=ctc&e4=ctcllctc&c4=ctcrrctc&b4=ctc&a4=ctcllctc&tile=-4-5-7--,b-5-5-c-,-5-5-5--,a15-58d-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [Fxx-droste]: /GroundForge/droste?patchWidth=12&patchHeight=16&c1=clcrct&a1=crclct&d2=ctct&droste2=ctct,c11=a13=ctcllctc,a11=c13=ctcrrctc,d25=c10=c12=c14=ctc,d24=a10=a12=a14,a16=c15=ctctctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [F12-droste]: /GroundForge/droste?whiting=F12_P190&patchWidth=12&patchHeight=16&c1=clcrcl&a1=crclcr&d2=ctc&droste2=ctct,c11=ctcllctc,a11=ctcrrctc,a13=ctcllctcl,c13=ctcrrctcr,c10=c12=ctc,c14=ctcr,a14=ctcl,a10=a12=ctc,a15=c15=ctctctc,d20=ctctt,d23=tctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[T-paris-rcl]: /GroundForge/droste?patchWidth=10&patchHeight=10&c1=crclct&a1=clcrct&d2=ctct&droste2=c15=a16=tctctct,a15=c16=tctct,d24=d25=tctct,c12=a12=tct,d20=d21=d22=d23=ctc,c10=c11=c13=c14=ctc,a10=a11=a13=a14=ctc,,&tile=B-C-,---5&tileStitch=ctc&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-paris-lcr]: /GroundForge/droste?patchWidth=10&patchHeight=10&c1=clcrct&a1=crclct&d2=ctct&droste2=c15=a16=tctctct,a15=c16=tctct,d24=d25=tctct,c12=a12=tct,d20=d21=d22=d23=ctc,c10=c11=c13=c14=ctc,a10=a11=a13=a14=ctc&tile=B-C-,---5&tileStitch=ctc&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-paris-ctc]: /GroundForge/droste?patchWidth=10&patchHeight=10&c1=ctct&a1=ctct&d2=ctct&droste2=a15=c14=tctctctct,d25=c15=c,d24=a14=c,c10=c11=c12=c13=ctctc,d20=d21=d22=d23=ctc,a10=a11=a12=a13=ctctc,,&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-paris-rcl]: /GroundForge/droste?patchWidth=10&patchHeight=10&c1=crclct&a1=clcrct&d2=ctct&droste2=c15=a16=tctctct,a15=c16=tctct,d24=d25=tctct,c12=a12=tct,d20=d21=d22=d23=ctc,c10=c11=c13=c14=ctc,a10=a11=a13=a14=ctc,,&tile=B-C-,---5&tileStitch=ctc&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-paris-lcr]: /GroundForge/droste?patchWidth=10&patchHeight=10&c1=clcrct&a1=crclct&d2=ctct&droste2=c15=a16=tctctct,a15=c16=tctct,d24=d25=tctct,c12=a12=tct,d20=d21=d22=d23=ctc,c10=c11=c13=c14=ctc,a10=a11=a13=a14=ctc&tile=B-C-,---5&tileStitch=ctc&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-paris-ctc]: /GroundForge/droste?patchWidth=10&patchHeight=10&c1=ctct&a1=ctct&d2=ctct&droste2=a15=c14=tctctctct,d25=c15=c,d24=a14=c,c10=c11=c12=c13=ctctc,d20=d21=d22=d23=ctc,a10=a11=a12=a13=ctctc,,&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[Z-paris-ctc]: /GroundForge/droste?patchWidth=10&patchHeight=10&c1=ctcl&a1=ctcr&d2=ctc&droste2=a14=c14=ctctct,d20=tctctc,d21=d22=c,d23=tctct,c10=a10=ctctc,c11=c12=a11=a12=c,c13=a13=tctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[Z-paris-lcr]: /GroundForge/droste?patchWidth=10&patchHeight=10&c1=clcrcl&a1=crclcr&d2=ctc&droste2=a15=c15=tctctct,d20=tctct,d21=lcllcl,d22=rcrrcr,d23=tctct,c10=a10=ctct,c11=c13=a11=a13=ctc,c12=a12=c,c14=a14=tctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[Z-paris-rcl]: /GroundForge/droste?patchWidth=10&patchHeight=10&c1=crclcl&a1=clcrcr&d2=ctc&droste2=a15=c15=tctctct,d20=tctct,d21=lcllcl,d22=rcrrcr,d23=tctct,c10=a10=ctct,c11=c13=a11=a13=ctc,c12=a12=c,c14=a14=tctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-zec-ctc]: /GroundForge/droste?patchWidth=10&patchHeight=10&c1=ctcl&a1=ctcr&d2=ctc&droste2=a14=c14=ctctct,d20=tctctc,d21=d22=c,d23=tctct,c10=a10=ctctc,c11=c12=a11=a12=c,c13=a13=tctct&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-zec-lcr]: /GroundForge/droste?patchWidth=10&patchHeight=10&c1=clcrcl&a1=crclcr&d2=ctc&droste2=a15=c15=tctctct,d20=tctct,d21=lcllcl,d22=rcrrcr,d23=tctct,c10=a10=ctct,c11=c13=a11=a13=ctc,c12=a12=c,c14=a14=tctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-zec-rcl]: /GroundForge/droste?patchWidth=10&patchHeight=10&c1=crclcl&a1=clcrcr&d2=ctc&droste2=a15=c15=tctctct,d20=tctct,d21=lcllcl,d22=rcrrcr,d23=tctct,c10=a10=ctct,c11=c13=a11=a13=ctc,c12=a12=c,c14=a14=tctc&tile=B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 [t-VI-001]: /GroundForge/stitches?patchWidth=30&patchHeight=15&g1=ctc&f1=ctpcl&d1=ctc&b1=ctpcr&a1=ctc&g2=ctpc&e2=ctc&c2=ctc&a2=ctpcl&g3=ctc&f3=ctpcl&d3=ctct&b3=ctpcr&a3=ctc&g4=ctcl&a4=ctcr&g6=ctcl&a6=ctcr&tile=89-k-01,7-5-5-4,1e-5-o8,4-----7,-------,9-----0&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=7&shiftRowsSE=3
 
@@ -118,11 +118,11 @@ Mrs. V. Irvine has worked an example using the left pricking. See _<a href="http
 ### &quot;&amp;&quot; ground
 
 The following examples use a stitch like <span class="stch">crctclcr</span> in the original thread diagram.        
-[![example 1][p-damp1]][D-LL-1]  [![example 2][p-damp2]][D-LL-2]  [![example 3][p-damp3]][D-LL-3]     
+[![example 1][p-damp1]][t-damp1]  [![example 2][p-damp2]][t-damp2]  [![example 3][p-damp3]][t-damp3]     
 
-[D-LL-1]: /GroundForge/droste?patchWidth=8&patchHeight=8&a1=crctclcr&a2=clctcrcl&droste2=ctct&tile=1,8&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
-[D-LL-2]: /GroundForge/droste?patchWidth=8&patchHeight=8&a1=crctclcr&droste2=ct,a18=ctct&tile=5-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
-[D-LL-3]: /GroundForge/droste?patchWidth=8&patchHeight=8&a1=crctclcr&b2=clctcrcl&droste2=ctc,a18=ctct,a16=a17=ctcl,b26=b27=ctcr&tile=5-,-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-damp1]: /GroundForge/droste?patchWidth=8&patchHeight=8&a1=crctclcr&a2=clctcrcl&droste2=ctct&tile=1,8&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
+[t-damp2]: /GroundForge/droste?patchWidth=8&patchHeight=8&a1=crctclcr&droste2=ct,a18=ctct&tile=5-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1
+[t-damp3]: /GroundForge/droste?patchWidth=8&patchHeight=8&a1=crctclcr&b2=clctcrcl&droste2=ctc,a18=ctct,a16=a17=ctcl,b26=b27=ctcr&tile=5-,-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 [p-damp1]: ../images/droste/damp1.png "droste-ll-1; EC-001"
 [p-damp2]: ../images/droste/damp2.png "droste-ll-2"
