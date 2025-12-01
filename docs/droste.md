@@ -43,7 +43,7 @@ This ground uses the thread diagram of alternating <span class="stch">ct/ctct</s
 
 The pricking on the left is generated with one of the "ground from template" <a href="/inkscape-bobbinlace/Ground-from-Template" target="_blank">tools</a> and a plain text file (<a href="../data/wobble.txt" download>download</a>). The changing angle of the rose ground units inspired the name.
                 
-On the right a distorted version that matches a Torchon grid. The units of the rose-ground are placed in different directions, indicated with blue arrows. The green arrows indicate the working order inherited from the original pair diagram.  
+On the right a distorted version that matches a Torchon grid. The units of the rose-ground are placed in different directions. The green arrows indicate the working order inherited from the original pair diagram.  
 The buttons below replace the unit with the unit shown on the button.    
 
 [![ctc][i-wobble-ctc]][t-wobble-ctc]
