@@ -23,7 +23,7 @@ See the Groundforge help-page _<a href="/GroundForge-help/Droste-effect" target=
 
 _Double fish B2,S2,W3_ (see page [_fish_](fish#fish-notation)) also can be defined as [first-step-Droste][F3-223] using the thread diagram as pair diagram. Please replace <span class="elem">cross b102</span> in the thread diagram of this first step with a <span class="stch">half knot</span> or two to mimic a twisted pair.       
 
-The first-step-Droste diagram can reused again: click the ![](../images/wand.png) on the second step diagrams. Please note: you might have to scroll the diagram to see the result.             
+The first-step-Droste diagram can be reused again: click the ![](../images/wand.png) on the second step diagrams. Please note: you might have to scroll the diagram to see the result.             
 The same result as this second-steps-Droste fish can be achieved with [first-step-Droste][F2-223].          
 
 Defining a footside will become problematic, as we have four workers going into the same direction before returning. In practice you can bend this rule and change direction every other row, provided that plain twists separate the fish. Note that in both cases it can take a while for the last steps to appear.    
@@ -39,6 +39,7 @@ This ground uses the thread diagram of alternating <span class="stch">ct/ctct</s
 
 ![w2][p-wobble-2]
 ![w0][p-wobble-0]
+![w0][p-wobble-t]
 <p style="clear: both"></p>
 
 The pricking on the left is generated with one of the "ground from template" <a href="/inkscape-bobbinlace/Ground-from-Template" target="_blank">tools</a> and a plain text file (<a href="../data/wobble.txt" download>download</a>). The changing angle of the rose ground units inspired the name.
@@ -52,6 +53,7 @@ The buttons below replace the unit with the unit shown on the button.
 <p style="clear: both"></p>
 
 [p-wobble-0]: ../images/droste/wobble.svg?align=right "wobble, distorted" 
+[p-wobble-t]: ../images/droste/wobble.png?align=right "wobble, distorted" 
 [p-wobble-2]: ../images/droste/wobble2.svg?align=left "wobble"
 [i-wobble-ctc]: ../images/droste/rose.svg "rose ground via ctc"
 [i-wobble-lcr]: ../images/droste/bias-ltr.svg "bias ground via lcr"
