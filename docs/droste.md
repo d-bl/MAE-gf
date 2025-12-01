@@ -19,10 +19,6 @@ On this page, several grounds are made with the "Droste-effect": reuse thread di
 
 See the Groundforge help-page _<a href="/GroundForge-help/Droste-effect" target="_blank">Droste-effect</a>_ for more information.  
 
-Some of the examples have forms to make playing easier. Other examples only have plain links for multi-step patterns, you need to click the ![](../images/wand.png) on the "Threads" section for the diagrams of the fist (or even second) step.                  
-
-{% include stitches.html %}
-
 ## Fish
 
 _Double fish B2,S2,W3_ (see page [_fish_](fish#fish-notation)) also can be defined as [first-step-Droste][F3-223] using the thread diagram as pair diagram. Please replace <span class="elem">cross b102</span> in the thread diagram of this first step with a <span class="stch">half knot</span> or two to mimic a twisted pair.       
@@ -117,7 +113,8 @@ Mrs. V. Irvine has worked an example using the left pricking. See _<a href="http
 
 ### &quot;&amp;&quot; ground
 
-The following examples use a stitch like <span class="stch">crctclcr</span> in the original thread diagram.        
+The following examples use a stitch like <span class="stch">crctclcr</span> in the original thread diagram.    
+
 [![example 1][p-damp1]][t-damp1]  [![example 2][p-damp2]][t-damp2]  [![example 3][p-damp3]][t-damp3]     
 
 [t-damp1]: /GroundForge/droste?patchWidth=8&patchHeight=8&a1=crctclcr&a2=clctcrcl&droste2=ctct&tile=1,8&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
