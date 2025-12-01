@@ -39,7 +39,6 @@ This ground uses the thread diagram of alternating <span class="stch">ct/ctct</s
 
 ![w2][p-wobble-2]
 ![w0][p-wobble-0]
-![w0][p-wobble-t]
 <p style="clear: both"></p>
 
 The pricking on the left is generated with one of the "ground from template" <a href="/inkscape-bobbinlace/Ground-from-Template" target="_blank">tools</a> and a plain text file (<a href="../data/wobble.txt" download>download</a>). The changing angle of the rose ground units inspired the name.
@@ -52,8 +51,7 @@ The buttons below replace the unit with the unit shown on the button.
 [![rcl][i-wobble-rcl]][t-wobble-rcl]
 <p style="clear: both"></p>
 
-[p-wobble-0]: ../images/droste/wobble.svg?align=right "wobble, distorted" 
-[p-wobble-t]: ../images/droste/wobble.png?align=right "wobble, distorted" 
+[p-wobble-0]: ../images/droste/wobble.png?align=right "wobble, distorted" 
 [p-wobble-2]: ../images/droste/wobble2.svg?align=left "wobble"
 [i-wobble-ctc]: ../images/droste/rose.svg "rose ground via ctc"
 [i-wobble-lcr]: ../images/droste/bias-ltr.svg "bias ground via lcr"
