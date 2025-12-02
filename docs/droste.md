@@ -53,9 +53,9 @@ The buttons below replace the unit with the unit shown on the button.
 
 [p-wobble-0]: ../images/droste/wobble.svg?align=right "wobble, distorted" 
 [p-wobble-2]: ../images/droste/wobble2.svg?align=left "wobble"
-[i-wobble-ctc]: ../images/droste/rose.svg "rose ground via ctc"
-[i-wobble-lcr]: ../images/droste/bias-ltr.svg "bias ground via lcr"
-[i-wobble-rcl]: ../images/droste/bias-rtl.svg "bias ground via rcl"
+[i-wobble-ctc]: ../images/droste/wobble-ctc.svg "rose ground via ctc"
+[i-wobble-lcr]: ../images/droste/wobble-ltr.svg "bias ground via lcr"
+[i-wobble-rcl]: ../images/droste/wobble-rtl.svg "bias ground via rcl"
 
 [t-wobble-ctc]: /GroundForge/droste?footside=b,-&tile=88,11&headside=-,c&footsideStitch=cttt&tileStitch=ctct&headsideStitch=cttt&patchWidth=5&patchHeight=10&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&&c1=ctct&b2=ctct&b1=ct&a1=ctll&g2=ctrr&c2=ct&droste2=b12=b11=ct,c10=b20=ctct,c22=c21=ct,c12=b22=ct,c11=b21=ct,c14=b24=ctct,c13=b23=ctct,c15=b25=ctct,b10=c20=ctct,a11=rrrtcttt,g22=lllctcttt&
 [t-wobble-lcr]: /GroundForge/droste?footside=b,-&tile=88,11&headside=-,c&footsideStitch=cttt&tileStitch=ctct&headsideStitch=cttt&patchWidth=5&patchHeight=10&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&&c1=clcrct&b2=clcrct&b1=ct&a1=ctll&g2=ctrr&c2=ct&droste2=b12=b11=ct,c10=b20=ctct,c22=c21=ct,c13=b23=ct,c12=b22=ct,c11=b21=ct,c16=b26=ctct,c14=b24=ctct,c15=b25=ctct,b10=c20=ctct&
