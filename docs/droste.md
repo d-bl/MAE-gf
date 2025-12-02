@@ -51,7 +51,7 @@ The buttons below replace the unit with the unit shown on the button.
 [![rcl][i-wobble-rcl]][t-wobble-rcl]
 <p style="clear: both"></p>
 
-[p-wobble-0]: ../images/droste/wobble.png?align=right "wobble, distorted" 
+[p-wobble-0]: ../images/droste/wobble.svg?align=right "wobble, distorted" 
 [p-wobble-2]: ../images/droste/wobble2.svg?align=left "wobble"
 [i-wobble-ctc]: ../images/droste/rose.svg "rose ground via ctc"
 [i-wobble-lcr]: ../images/droste/bias-ltr.svg "bias ground via lcr"
