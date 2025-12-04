@@ -32,7 +32,7 @@ We have learned, that the figure on the left is called a [_little snowflake_][t-
 ## Color code
 
 ![colours][p-colors]
-Colors used in the examples on these pages:
+On some pages we have drawn a pairs-diagram. The colors used in these diagrams:
 
 * Cross only. In working scheme's coloured in <span class="b-grey">grey</span>.
 * Half stitch = (twist if not already done), cross, twist. Coloured <span class="b-gree">green</span>.
