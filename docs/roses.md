@@ -195,31 +195,29 @@ These examples came to life as variations on a rose-ground with "do nothing (muc
 
 ![torchon-flemish][pic-tor-flem]
 By putting the traditional rose ground unit in a diamond, little stars can be made.    
-Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture illustrates. Example 1 looks like a star.    
+Please note: when making the actual lace, it will make a big difference if the unit in the middle is made torchon-style or flemish-style, as the picture on the right illustrates.     
 
 {% include captionfig.html
     lnk="/GroundForge/stitches?patchWidth=24&patchHeight=24&a1=ctc&b1=ctt&c1=ctctt&e1=ctctt&f1=ctt&b2=ctctt&c2=c&d2=ctct&e2=c&f2=ctctt&a3=ctctt&c3=ctcr&e3=ctcl&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3"
     title="8 pointed star, 0112-K"
     src="../images/roses/R-0112.png"
-    txt="example 1, 8 pointed star"
+    txt="8 pointed star"
 %} 
 {% include captionfig.html
     lnk="/GroundForge/stitches?patchWidth=24&patchHeight=24&f1=c&e1=ctcr&c1=ctcl&b1=c&a1=ctctc&f2=ctcr&e2=c&d2=ctctc&c2=c&b2=ctcl&e3=ctc&c3=ctc&a3=ctct&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3"
     title="0116-K"
     src="../images/roses/R-0116.png"
-    txt="example 2"
-%} 
+    %} 
 {% include captionfig.html
     lnk="/GroundForge/stitches?patchWidth=24&patchHeight=24&f1=tct&e1=ctct&c1=ctct&b1=tct&a1=tctctc&f2=ctct&e2=ct&d2=ctctct&c2=ct&b2=ctct&e3=crc&c3=clc&a3=ctct&tile=586-21,-48317,5-4-7-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3"
     title="0504-N"
     src="../images/roses/R-0504.png"
-    txt="example 3"
-%} 
+    %} 
 {% include captionfig.html
     lnk="/GroundForge/stitches.html?patchWidth=24&patchHeight=24&tile=586-21,-48317,5-4-7-&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3&f1=ct&e1=ctct&c1=ctct&b1=ct&a1=ctctc&f2=ctct&e2=c&d2=ctc&c2=c&b2=ctct&e3=crc&c3=clc&a3=ctct"
     title="butterfly rose ground, 0143-K"
     src="../images/roses/R-0143.png"
-    txt="example 4, butterfly rose ground"
+    txt="butterfly rose ground"
 %} 
 
 [pic-tor-flem]: ../images/roses/g-tor-fl.svg?align=right "torchon - flemish"
