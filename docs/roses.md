@@ -236,7 +236,7 @@ This ground can also be obtain as a [Droste on Paris ground][dr-6101]
 <p style="clear: both"></p>
 
 [p-31]: ../images/roses/g31.svg?align=right "roses with vertical"
-[p-61]: ../images/roses/g61.svg?align=rigth "roses with zigzag"
+[p-61]: ../images/roses/g61.svg?align=right "roses with zigzag"
 [p-3115]: ../images/roses/3115.png "3115"
 [p-6101]: ../images/roses/6101.png "6101"
 
