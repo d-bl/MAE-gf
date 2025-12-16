@@ -189,9 +189,9 @@ Please note the resemblance of these grounds with [_paris grounds_](paris#anothe
 
 [p-g63]: ../images/snow_4/G63.svg?align=right "offset snowflakes, ground 63"
 [p-6301]: ../images/snow_4/6301.png
-[p-g37]: ../images/snow_4/G37.svg?align=right "ground 37"
+[p-g37]: ../images/snow_4/G37.svg?align=right "feather ground, ground 37"
 [p-3701]: ../images/snow_4/3701.png
-[p-g38]: ../images/snow_4/G38.svg?align=right "ground 38"
+[p-g38]: ../images/snow_4/G38.svg?align=right "feather ground, ground 38"
 [p-3801]: ../images/snow_4/3801.png
 [p-g35]: ../images/snow_4/G35.svg?align=right "stacked snowflakes, ground 35"
 [p-3501]: ../images/snow_4/3501.png
