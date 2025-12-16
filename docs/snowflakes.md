@@ -148,10 +148,10 @@ Most of the variants shown on this page benefit of extra pins on the sides. As i
 
 ![diagonal snowflake][p-g39]
 [![3901][p-3901]][t-3901] 
-[![3902][p-3902]][t-3902] 
-<p style="clear: both"></p>
+[![3902][p-3902]][t-3902]    
 
-Please note: the diagonal rows can be placed with the connecting pairs horizontally or diagonally. See the examples.          
+Please note: the diagonal rows can be placed with the connecting pairs horizontally or diagonally. See the examples.    
+<p style="clear: both"></p>
 
 [p-g32]: ../images/snow_4/G32.svg?align=right "diagonal small snowflake, ground 32"
 [p-3201]: ../images/snow_4/3201.png
