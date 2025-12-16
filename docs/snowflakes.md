@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Little snowflakes
+title: Small snowflakes
 ---
 
-# Little snowflakes
+# Small snowflakes
 
 ## Contents
 
@@ -138,56 +138,72 @@ Most of the variants shown on this page benefit of extra pins on the sides. As i
 
 ## Snowflakes diagonal
 
-{% include captionfig.html
-    lnk="/GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctc&c1=ctc&b1=ctc&a1=tctct&c2=ctc&b2=ctc&a2=ctc&tile=1011,114-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2"
-    title="diagonal snowflakes a"
-    src="../images/snow_4/G33.svg"
-    txt="diagonal snowflakes a"
-%} 
-{% include captionfig.html
-    lnk="/GroundForge/stitches?patchWidth=30&patchHeight=30&tile=688,14-&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&c1=ct&b1=ctct&a1=ct&b2=ct&a2=ct"
-    title="diagnonal snowflakes b"
-    src="../images/snow_4/G39d.svg"
-    txt="diagonal snowflakes b"
-%} 
+![diagonal small snowflake][p-g32]
+[![3201][p-3201]][t-3201] 
 <p style="clear: both"></p>
+
+![diagonal snowflake][p-g33]
+[![3301][p-3301]][t-3301] 
+<p style="clear: both"></p>
+
+![diagonal snowflake][p-g39]
+[![3901][p-3901]][t-3901] 
+[![3902][p-3902]][t-3902] 
+<p style="clear: both"></p>
+
+[p-g32]: ../images/snow_4/G32.svg?align=right "diagonal small snowflake, ground 32"
+[p-3201]: ../images/snow_4/3201.png
+[p-g33]: ../images/snow_4/G33.svg?align=right "ground 33"
+[p-3301]: ../images/snow_4/3301.png
+[p-g39]: ../images/snow_4/G39.svg?align=right "ground 39"
+[p-3901]: ../images/snow_4/3901.png
+[p-3902]: ../images/snow_4/3902.png
+
+[t-3201]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=86-7,115-&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=ctcl&b1=ctc&a1=ctctctc&c2=ctc&b2=ctc&a2=ctcl
+                           
+[t-3301]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctc&c1=ctc&b1=ctc&a1=tctct&c2=ctc&b2=ctc&a2=ctc&tile=1011,114-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+
+[t-3901]: /GroundForge/stitches?patchWidth=30&patchHeight=30&tile=688,14-&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&c1=ct&b1=ctct&a1=ct&b2=ct&a2=ct
+
+[t-3902]: /GroundForge/stitches.html?patchWidth=15&patchHeight=15&tile=7-4-,-5-5,5x-x&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=1&shiftRowsSE=3&c1=ctcl&a1=ctc&d2=ctc&b2=ctc&a3=tctct
 
 ## Other arrangements
 
-{% include captionfig.html
-    lnk="/GroundForge/stitches?patchWidth=15&patchHeight=20&c1=ct&a1=ctct&d2=cl&b2=cr&c3=ctct&d4=ct&b4=ct&c5=ct&a5=ct&tile=5-5-,-5-5,--5-,-b-c,5-5-&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=5"
-    title="offset snowflakes, ground 63"
-    src="../images/snow_4/G63.svg"
-    txt="other arrangement a"
-%} 
-{% include captionfig.html
-    lnk="/GroundForge/stitches?patchWidth=20&patchHeight=20&c1=ctc&a1=ctc&b2=tctct&c3=ctc&a3=ctc&d4=-&b4=-&d5=ctctctc&b5=ctctctc&tile=5-5-,x5x-,4-7-,-5-5,-r-r&footsideStitch=ctctt&tileStitch=ctctctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=5&shiftColsSE=2&shiftRowsSE=5"
-    title="ground 37"
-    src="../images/snow_4/G37.svg"
-    txt="other arrangement b"
-%} 
-{% include captionfig.html
-    lnk="/GroundForge/stitches?patchWidth=20&patchHeight=20&e1=-&c1=ctc&a1=ctc&e2=-&b2=tctct&e3=ctctctc&c3=ctc&a3=ctc&tile=5-5-5-,x5x-r-,4-7-r-&footsideStitch=ctctt&tileStitch=ctctctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3"
-    title="ground 38"
-    src="../images/snow_4/G38.svg"
-    txt="other arrangement c"
-%} 
-{% include captionfig.html
-    lnk="/GroundForge/stitches.html?patchWidth=16&patchHeight=16&tile=5-5-,-5-5,5x-x,-7-4&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=0&shiftRowsSE=4&c1=ctct&a1=ctc&d2=ctc&b2=ctc&a3=ctc&d4=ctcl&b4=ctcr"
-    title="stacked snowflakes"
-    src="../images/snow_4/G35.svg"
-    txt="other arrangement d"
-%} 
-{% include captionfig.html
-    lnk="/GroundForge/stitches.html?patchWidth=15&patchHeight=15&tile=7-4-,-5-5,5x-x&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=1&shiftRowsSE=3&c1=ctcl&a1=ctc&d2=ctc&b2=ctc&a3=tctct"
-    title="ground 39"
-    src="../images/snow_4/G39v.svg"
-    txt="other arrangement e"
-%} 
+Please note the resemblance of these grounds with [_paris grounds_](paris#another-arrangement) and with the [_stacked spiders_](spin_04#stacked-spiders). 
+
+![][p-g63]
+[![6301][p-6301]][t-6301] 
 <p style="clear: both"></p>
 
-Please note the resemblance with [_paris grounds_](paris#another-arrangement) and ground d) with the [_stacked spiders_](spin_04#stacked-spiders). 
+![][p-g37]
+[![3701][p-3701]][t-3701] 
+<p style="clear: both"></p>
 
+![][p-g38]
+[![3801][p-3801]][t-3801] 
+<p style="clear: both"></p>
+
+![][p-g35]
+[![3501][p-3501]][t-3501] 
+<p style="clear: both"></p>
+
+[p-g63]: ../images/snow_4/G63.svg?align=right "offset snowflakes, ground 63"
+[p-6301]: /images/snow_4/6301.png
+[p-g37]: ../images/snow_4/G37.svg?align=right "ground 37"
+[p-3701]: /images/snow_4/3701.png
+[p-g38]: ../images/snow_4/G38.svg?align=right "ground 38"
+[p-3801]: /images/snow_4/3801.png
+[p-g35]: ../images/snow_4/G35.svg?align=right "stacked snowflakes, ground 35"
+[p-3501]: /images/snow_4/3501.png
+
+[t-6301]: /GroundForge/stitches?patchWidth=15&patchHeight=20&c1=ct&a1=ctct&d2=cl&b2=cr&c3=ctct&d4=ct&b4=ct&c5=ct&a5=ct&tile=5-5-,-5-5,--5-,-b-c,5-5-&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=5
+
+[t-3701]: /GroundForge/stitches?patchWidth=20&patchHeight=20&c1=ctc&a1=ctc&b2=tctct&c3=ctc&a3=ctc&d4=-&b4=-&d5=ctctctc&b5=ctctctc&tile=5-5-,x5x-,4-7-,-5-5,-r-r&footsideStitch=ctctt&tileStitch=ctctctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=5&shiftColsSE=2&shiftRowsSE=5
+
+[t-3801]: /GroundForge/stitches?patchWidth=20&patchHeight=20&e1=-&c1=ctc&a1=ctc&e2=-&b2=tctct&e3=ctctctc&c3=ctc&a3=ctc&tile=5-5-5-,x5x-r-,4-7-r-&footsideStitch=ctctt&tileStitch=ctctctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
+
+[t-3501]: /GroundForge/stitches.html?patchWidth=16&patchHeight=16&tile=5-5-,-5-5,5x-x,-7-4&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=0&shiftRowsSE=4&c1=ctct&a1=ctc&d2=ctc&b2=ctc&a3=ctc&d4=ctcl&b4=ctcr"
+  
 ## Binche Snowflake
 
 The six-pair snowflake is moved to its [_own page_](snow_6#binche-snowflakes).
