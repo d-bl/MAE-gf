@@ -15,7 +15,7 @@
 * 3 pair joins
   * [All](/MAE-gf/docs/snow_3)
 * 4 pair joins
-  * [Little snowflakes](/MAE-gf/docs/snowflakes)  
+  * [Small snowflakes](/MAE-gf/docs/snowflakes)  
   * [Spiders with 8 legs](/MAE-gf/docs/spin_04)  
   * [Windmills](/MAE-gf/docs/windmills)
 * 6 pair joins
