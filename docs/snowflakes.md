@@ -141,7 +141,7 @@ Most of the variants shown on this page benefit of extra pins on the sides. As i
 {% include captionfig.html
     lnk="/GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctc&c1=ctc&b1=ctc&a1=tctct&c2=ctc&b2=ctc&a2=ctc&tile=1011,114-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2"
     title="diagonal snowflakes a"
-    src="../images/snow_4/g-sn-dia.svg"
+    src="../images/snow_4/G33.svg"
     txt="diagonal snowflakes a"
 %} 
 {% include captionfig.html
@@ -175,7 +175,7 @@ Most of the variants shown on this page benefit of extra pins on the sides. As i
 {% include captionfig.html
     lnk="/GroundForge/stitches.html?patchWidth=16&patchHeight=16&tile=5-5-,-5-5,5x-x,-7-4&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=0&shiftRowsSE=4&c1=ctct&a1=ctc&d2=ctc&b2=ctc&a3=ctc&d4=ctcl&b4=ctcr"
     title="stacked snowflakes"
-    src="../images/snow_4/G03DV.svg"
+    src="../images/snow_4/G35.svg"
     txt="other arrangement d"
 %} 
 {% include captionfig.html
