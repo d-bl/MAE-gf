@@ -151,6 +151,8 @@ Most of the variants shown on this page benefit of extra pins on the sides. As i
 [![3902][p-3902]][t-3902] 
 <p style="clear: both"></p>
 
+Please note: the diagonal rows can be placed with the connecting pairs horizontally or diagonally. See the examples.          
+
 [p-g32]: ../images/snow_4/G32.svg?align=right "diagonal small snowflake, ground 32"
 [p-3201]: ../images/snow_4/3201.png
 [p-g33]: ../images/snow_4/G33.svg?align=right "ground 33"
