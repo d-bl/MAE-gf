@@ -188,13 +188,13 @@ Please note the resemblance of these grounds with [_paris grounds_](paris#anothe
 <p style="clear: both"></p>
 
 [p-g63]: ../images/snow_4/G63.svg?align=right "offset snowflakes, ground 63"
-[p-6301]: /images/snow_4/6301.png
+[p-6301]: ../images/snow_4/6301.png
 [p-g37]: ../images/snow_4/G37.svg?align=right "ground 37"
-[p-3701]: /images/snow_4/3701.png
+[p-3701]: ../images/snow_4/3701.png
 [p-g38]: ../images/snow_4/G38.svg?align=right "ground 38"
-[p-3801]: /images/snow_4/3801.png
+[p-3801]: ../images/snow_4/3801.png
 [p-g35]: ../images/snow_4/G35.svg?align=right "stacked snowflakes, ground 35"
-[p-3501]: /images/snow_4/3501.png
+[p-3501]: ../images/snow_4/3501.png
 
 [t-6301]: /GroundForge/stitches?patchWidth=15&patchHeight=20&c1=ct&a1=ctct&d2=cl&b2=cr&c3=ctct&d4=ct&b4=ct&c5=ct&a5=ct&tile=5-5-,-5-5,--5-,-b-c,5-5-&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=5
 
