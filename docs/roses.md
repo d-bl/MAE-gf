@@ -13,6 +13,7 @@ title: Rose grounds
 * [Slavic ground](#slavic-ground)
 * [Ants](#ants)
 * [Stretched Paris ground](#stretched-paris-ground)
+* [Mixed rose ground](#mixed-rose-ground)
 * [Rose ground in a diamond](#rose-ground-in-a-diamond)
 * [Alternative placings](#alternative-placings)
 
@@ -190,6 +191,14 @@ These examples came to life as variations on a rose-ground with "do nothing (muc
 [T-0404-KG]: /GroundForge/stitches?patchWidth=15&patchHeight=20&d1=ctctctc&c1=cr&b1=-&a1=cl&b2=-&tile=d3ar,-r--&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0427-NG]: /GroundForge/stitches?patchWidth=15&patchHeight=20&d1=ctctct&c1=ct&b1=-&a1=ct&b2=-&tile=d3ar,-r--&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0402-LG]: /GroundForge/stitches?patchWidth=15&patchHeight=20&d1=ctctctc&c1=ctc&b1=-&a1=ctc&b2=-&tile=d3ar,-r--&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+
+## Mixed rose ground
+
+[![01AB][P-01AB]][T-01AB]
+
+[P-01AB]: ../images/roses/01AB.png "01AB"
+
+[T-01AB]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=5831,-4-7,3158,-7-4&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4&d1=tct&c1=ctc&b1=tct&a1=ctctc&d2=ctc&b2=ctc&d3=tct&c3=ctc&b3=tct&a3=ctct&d4=c&b4=c
 
 ## Rose ground in a diamond
 
