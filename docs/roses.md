@@ -195,6 +195,7 @@ These examples came to life as variations on a rose-ground with "do nothing (muc
 ## Mixed rose ground
 
 [![01AB][P-01AB]][T-01AB]
+<p style="clear: both"></p>
 
 [P-01AB]: ../images/roses/01AB.png "01AB"
 
