@@ -44,8 +44,7 @@ Sometimes, the bias ground is referred to as [_rose ground_](roses), especially 
 [![0229-Kd][P-0229-Kd]][T-0229-Kd]
 [![0245-Ld][P-0245-Ld]][T-0245-Ld]
 [![0212-K][P-0212-K]][T-0212-K]
-[![0214-N][P-0214-N]][T-0214-N]
-
+[![0214-N][P-0214-N]][T-0214-N] 
 [![0254-Kd][P-0254-Kd]][T-0254-Kd]
 [![0265-Nd][P-0265-Nd]][T-0265-Nd]
 [![0255-Kd][P-0255-Kd]][T-0255-Kd]
