@@ -47,7 +47,7 @@ Sometimes, the bias ground is referred to as [_rose ground_](roses), especially 
 [![0214-N][P-0214-N]][T-0214-N]
 
 [![0254-Kd][P-0254-Kd]][T-0254-Kd]
-[![0265-Kd][P-0265-Kd]][T-0265-Kd]
+[![0265-Nd][P-0265-Nd]][T-0265-Nd]
 [![0255-Kd][P-0255-Kd]][T-0255-Kd]
 [![0279-K][P-0279-K]][T-0279-K]
 [![0274-Kd][P-0274-Kd]][T-0274-Kd]
@@ -68,7 +68,7 @@ Sometimes, the bias ground is referred to as [_rose ground_](roses), especially 
 [P-0228-N]: ../images/bias/0228-N.png "0228-N"
 [P-0255-Kd]: ../images/bias/0255-Kd.png "0255-K"
 [P-0257-Ld]: ../images/bias/0257-Ld.png "0257-L"
-[P-0265-Kd]: ../images/bias/0265-Kd.png "0265-K"
+[P-0265-Nd]: ../images/bias/0265-Nd.png "0265-N"
 [P-0268-Ld]: ../images/bias/0268-Ld.png "0268-L"
 [P-0229-Kd]: ../images/bias/0229-Kd.png "0229-K"
 [P-0236-Ld]: ../images/bias/0236-Ld.png "0236-L"
@@ -86,7 +86,7 @@ Sometimes, the bias ground is referred to as [_rose ground_](roses), especially 
 [T-0228-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=tct&c1=ctc&a1=ctc&d2=ctc&b2=ctc&a2=tct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0255-Kd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=cr&c1=ctct&a1=ctc&d2=ctct&b2=ctc&a2=cr&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0257-Ld]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctcr&c1=ctct&a1=ctc&d2=ctct&b2=ctc&a2=ctcr&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0265-Kd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=ctct&a1=ctcl&d2=ctcl&b2=ctct&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0265-Nd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=ctct&a1=ctcl&d2=ctcl&b2=ctct&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0268-Ld]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctc&c1=ctcl&a1=ctcl&d2=ctcl&b2=ctcl&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0229-Kd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=ctcl&a1=ctct&d2=ctct&b2=ctc&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0236-Ld]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctc&c1=ctcl&a1=ctc&d2=ctcl&b2=ctc&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
