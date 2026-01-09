@@ -72,7 +72,7 @@ The following examples look like a knitwork.
 
 ![net2][p-net2] 
 ![net6][p-net6]
-Please note: the diagrams are equivalent in GroundForge terms. It is possible to define a strechted honeycomb for the prototype diagram. The pair diagram however will initially show kite shapes, when activating the animation these kites will reshape into squares with a 45 degree angle. Only when defining plaits as stitches you will see the honeycomb again in the thread diagramm.   
+Please note: the diagrams are equivalent in GroundForge terms. It is possible to define a strechted honeycomb for the prototype diagram. The pair diagram however will initially show kite shapes, when activating the animation these kites will reshape into squares with a 45 degree angle. Only when defining plaits as stitches you will see the honeycomb again in the thread diagram.   
 
 [![p-net2a]][t-net2a] 
 [![p-net2c]][t-net2c] 
