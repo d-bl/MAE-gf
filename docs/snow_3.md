@@ -153,13 +153,13 @@ The pricking is equivalent to no 47 from _Moderne Torchonspitze_, where it is pr
 [p-sn-h7]: ../images/snow_3/g-sn-half-60-7.svg?align=right
 [p-3pr-132]: ../images/snow_3/3pr-132.png?align=right "half little snowflake, familie 132"
 
-[p-sn-h1-01]: ../images/snow_3/sn_half_1_01.png
-[p-sn-h2-01]: ../images/snow_3/sn_half_2_01.png
-[p-sn-h3-01]: ../images/snow_3/sn_half_3_01.png
-[p-sn-h4-01]: ../images/snow_3/sn_half_4_01.png
-[p-sn-h5-01]: ../images/snow_3/sn_half_5_01.png
-[p-sn-h6-01]: ../images/snow_3/sn_half_6_01.png
-[p-sn-h7-01]: ../images/snow_3/sn_half_7_01.png
+[p-sn-h1-01]: ../images/snow_3/sn-half-1-01.png
+[p-sn-h2-01]: ../images/snow_3/sn-half-2-01.png
+[p-sn-h3-01]: ../images/snow_3/sn-half-3-01.png
+[p-sn-h4-01]: ../images/snow_3/sn-half-4-01.png
+[p-sn-h5-01]: ../images/snow_3/sn-half-5-01.png
+[p-sn-h6-01]: ../images/snow_3/sn-half-6-01.png
+[p-sn-h7-01]: ../images/snow_3/sn-half-7-01.png
 
 [t-sn-h1-01]: /GroundForge/stitches?patchWidth=15&patchHeight=20&paintStitches=tctct&a1=ctc&b2=ctc&a3=tctct&b4=ctcrr&a5=ctctt&tile=7-,-5,B-,-C,B-,x-,x-,x-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=2&shiftRowsSE=4
 
