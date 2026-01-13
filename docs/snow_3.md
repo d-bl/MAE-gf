@@ -119,9 +119,9 @@ This snowflake can be used in several configurations.
 [![7][p-sn-h7-01]][t-sn-h7-01]  
 <p style="clear: both"></p>
 
-The pricking is equivalent to no 47 from _Moderne Torchonspitze_, where it is presented rose-ground style.  
 ![h366][p-sn-h1]
 [![1][p-sn-h1-01]][t-sn-h1-01] 
+The pricking is equivalent to no 47 from _Moderne Torchonspitze_, where it is presented rose-ground style.  
 <p style="clear: both"></p>
 
 ![h305][p-sn-h2]
