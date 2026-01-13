@@ -240,7 +240,7 @@ Please note: when making the actual lace, it will make a big difference if the u
 
 ![roses with zigzag][p-61] 
 [![][p-6101]][t-6101] 
-As [Droste on Paris ground][dr-6101]. 
+As [Droste on Paris ground][dr-6101].   
 <p style="clear: both"></p>
 
 [p-31]: ../images/roses/g31.svg?align=right "roses with vertical"
