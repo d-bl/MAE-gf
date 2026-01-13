@@ -109,8 +109,12 @@ Please note: star d uses the same GroundForge schema as half little snowflake a)
 
 ## Half little snowflakes
 
+![][p-3pr-132]]
+
 A three-paired join can be made with a half little snowflake. See also page [_Little snowflakes_](snowflakes#half-little-snowflake).     
 This snowflake can be used in several configurations.  
+<p style="clear: both"></p>
+
 
 [![p-3pr-132]][t-3pr-132]  
 <p style="clear: both"></p>
@@ -146,7 +150,7 @@ The pricking is equivalent to no 47 from _Moderne Torchonspitze_, where it is pr
 [p-sn-h4]: ../images/snow_3/g-sn-half-45-4.svg?align=right
 [p-sn-h5]: ../images/snow_3/g-sn-half-45-5.svg?align=right
 [p-sn-h6]: ../images/snow_3/g-sn-half-60-6.svg?align=right
-[p-3pr-132]: ../images/snow_3/3pr-132.png "half little snowflake, familie 132"
+[p-3pr-132]: ../images/snow_3/3pr-132.png?align=right "half little snowflake, familie 132"
 
 [p-sn-h1-01]: ../images/snow_3/sn_half_1_01.png
 [p-sn-h2-01]: ../images/snow_3/sn_half_2_01.png
