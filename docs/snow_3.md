@@ -150,7 +150,7 @@ The pricking is equivalent to no 47 from _Moderne Torchonspitze_, where it is pr
 [p-sn-h4]: ../images/snow_3/g-sn-half-45-4.svg?align=right
 [p-sn-h5]: ../images/snow_3/g-sn-half-45-5.svg?align=right
 [p-sn-h6]: ../images/snow_3/g-sn-half-60-6.svg?align=right
-[p-sn-h7]: ../images/snow_3/g-sn-half-60-7.svg?align=right
+[p-sn-h7]: ../images/snow_3/g-sn-half-45-7.svg?align=right
 [p-3pr-132]: ../images/snow_3/3pr-132.png?align=right "half little snowflake, familie 132"
 
 [p-sn-h1-01]: ../images/snow_3/sn-half-1-01.png
