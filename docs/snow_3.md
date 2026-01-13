@@ -109,14 +109,14 @@ Please note: star d uses the same GroundForge schema as half little snowflake a)
 
 ## Half little snowflakes
 
-![][p-3pr-132]]
+![family 132][p-3pr-132]
 
 A three-paired join can be made with a half little snowflake. See also page [_Little snowflakes_](snowflakes#half-little-snowflake).     
 This snowflake can be used in several configurations.  
 <p style="clear: both"></p>
 
-
-[![p-3pr-132]][t-3pr-132]  
+![][p-sn-h7]
+[![][p-sn-h7-01]][t-sn-h7-01]  
 <p style="clear: both"></p>
 
 ![h366][p-sn-h1]
@@ -150,6 +150,7 @@ The pricking is equivalent to no 47 from _Moderne Torchonspitze_, where it is pr
 [p-sn-h4]: ../images/snow_3/g-sn-half-45-4.svg?align=right
 [p-sn-h5]: ../images/snow_3/g-sn-half-45-5.svg?align=right
 [p-sn-h6]: ../images/snow_3/g-sn-half-60-6.svg?align=right
+[p-sn-h7]: ../images/snow_3/g-sn-half-60-7.svg?align=right
 [p-3pr-132]: ../images/snow_3/3pr-132.png?align=right "half little snowflake, familie 132"
 
 [p-sn-h1-01]: ../images/snow_3/sn_half_1_01.png
@@ -158,6 +159,7 @@ The pricking is equivalent to no 47 from _Moderne Torchonspitze_, where it is pr
 [p-sn-h4-01]: ../images/snow_3/sn_half_4_01.png
 [p-sn-h5-01]: ../images/snow_3/sn_half_5_01.png
 [p-sn-h6-01]: ../images/snow_3/sn_half_6_01.png
+[p-sn-h7-01]: ../images/snow_3/sn_half_7_01.png
 
 [t-sn-h1-01]: /GroundForge/stitches?patchWidth=15&patchHeight=20&paintStitches=tctct&a1=ctc&b2=ctc&a3=tctct&b4=ctcrr&a5=ctctt&tile=7-,-5,B-,-C,B-,x-,x-,x-&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=2&shiftRowsSE=4
 
@@ -171,5 +173,5 @@ The pricking is equivalent to no 47 from _Moderne Torchonspitze_, where it is pr
 
 [t-sn-h6-01]: /GroundForge/stitches.html?patchWidth=15&patchHeight=25&tile=7-4-,x5x-,4xx-,x7x-,4-7-,x-x5,7-xx,x-x4&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=4&shiftRowsSE=8&c1=rctct&a1=ctc&b2=ctc&a3=ctc&b4=ctc&c5=lctct&a5=ctc&d6=ctc&a7=ctc&d8=ctc
 
-[t-3pr-132]: /GroundForge/stitches?patchWidth=17&patchHeight=20&paintStitches=ctcl&e1=ctcr&d1=ctct&b1=ctc&a1=ctc&f2=ctct&b2=ctc&e3=ctc&d3=ctc&b3=ctct&a3=ctcl&d4=ctc&tile=21z17-,x7-x-5,48v86-,-x-4x-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=6&shiftRowsSE=2
+[t-sn-h7-01]: /GroundForge/stitches?patchWidth=17&patchHeight=20&paintStitches=ctcl&e1=ctcr&d1=ctct&b1=ctc&a1=ctc&f2=ctct&b2=ctc&e3=ctc&d3=ctc&b3=ctct&a3=ctcl&d4=ctc&tile=21z17-,x7-x-5,48v86-,-x-4x-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=6&shiftRowsSE=2
 
