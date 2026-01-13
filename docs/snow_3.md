@@ -138,7 +138,7 @@ The pricking is equivalent to no 47 from _Moderne Torchonspitze_, where it is pr
 
 ![hw365][p-sn-h5]
 [![][p-sn-h5-01]][t-sn-h5-01]
-<p style="clear: both"></p
+<p style="clear: both"></p>
                            
 ![h363][p-sn-h6]
 [![][p-sn-h6-01]][t-sn-h6-01]
