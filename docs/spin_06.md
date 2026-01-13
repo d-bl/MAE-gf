@@ -60,9 +60,9 @@ Please note: to get a clear eye in the middle, stitches like <span class="stch">
 
 ## Spiders with a narrow eye
 
-Spiders with a narrow eye also can be achieved using <span class="elem">step 2</span> or <span class="elem">step 3</span> on a [_fish_](droste#fish) in <span class="stch">half stitch</span>.     
-
 ![spider with narrow eye][P-SNB3]
+Spiders with a narrow eye also can be achieved using <span class="elem">step 2</span> or <span class="elem">step 3</span> on a [_fish_](droste#fish) in <span class="stch">half stitch</span>.
+
 [![spider with narrow eye][P-SNBS3-01]][T-SNBS3-01] 
 [![spider with narrow eye][P-SNBB3-01]][T_SNBB3-01] 
 [![spider with narrow eye, diamond][P-SNBQ3-01]][T-SNBQ3-01] 
