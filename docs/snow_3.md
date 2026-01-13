@@ -115,33 +115,33 @@ A three-paired join can be made with a half little snowflake. See also page [_Li
 This snowflake can be used in several configurations.  
 <p style="clear: both"></p>
 
-![][p-sn-h7]
-[![][p-sn-h7-01]][t-sn-h7-01]  
+![7][p-sn-h7]
+[![7][p-sn-h7-01]][t-sn-h7-01]  
 <p style="clear: both"></p>
 
 ![h366][p-sn-h1]
-[![][p-sn-h1-01]][t-sn-h1-01] 
+[![1][p-sn-h1-01]][t-sn-h1-01] 
 The pricking is equivalent to no 47 from _Moderne Torchonspitze_, where it is presented rose-ground style. 
 <p style="clear: both"></p>
 
 ![h305][p-sn-h2]
-[![][p-sn-h2-01]][t-sn-h2-01]
+[![2][p-sn-h2-01]][t-sn-h2-01]
 <p style="clear: both"></p>
 
 ![h362][p-sn-h3]
-[![][p-sn-h3-01]][t-sn-h3-01]
+[![3][p-sn-h3-01]][t-sn-h3-01]
 <p style="clear: both"></p>
 
 ![hw362][p-sn-h4]
-[![][p-sn-h4-01]][t-sn-h4-01]
+[![4][p-sn-h4-01]][t-sn-h4-01]
 <p style="clear: both"></p>
 
 ![hw365][p-sn-h5]
-[![][p-sn-h5-01]][t-sn-h5-01]
+[![5][p-sn-h5-01]][t-sn-h5-01]
 <p style="clear: both"></p>
                            
 ![h363][p-sn-h6]
-[![][p-sn-h6-01]][t-sn-h6-01]
+[![6][p-sn-h6-01]][t-sn-h6-01]
 <p style="clear: both"></p>
 
 [p-sn-h1]: ../images/snow_3/g-sn-half-60-1.svg?align=right "topologically equivalent to Moderne Torchonspitze no 47"
