@@ -59,7 +59,7 @@ figure { display: block; margin:0; }
 
 /* border */
 .clall, img {border-style: solid; border-width: 1px; border-color: #EBEBEB}
-.clpic, a img:not(#Sidebar) {border-style: solid; border-width: 1px; border-color: #ADD8E6; margin-right: 1em;}
+.clpic, a img:not(#sidebar) {border-style: solid; border-width: 1px; border-color: #ADD8E6; margin-right: 1em;}
 
 /* Abusing extended URLs:
  * query arguments can play the role of classes in HTML that are not available in MarkDown.
