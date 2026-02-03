@@ -110,8 +110,7 @@ Please note: star d uses the same GroundForge schema as half little snowflake a)
 ## Half little snowflakes
 
 ![family 132][p-3pr-132]
-A three-paired join can be made with a half little snowflake. See also page [_Little snowflakes_](snowflakes#half-little-snowflake).     
-This snowflake can be used in several configurations.  
+A three-paired join can be made with a half little snowflake. This snowflake can be used in several configurations.  
 <p style="clear: both"></p>
 
 ![7][p-sn-h7]

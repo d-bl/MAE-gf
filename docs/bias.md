@@ -54,6 +54,7 @@ Sometimes, the bias ground is referred to as [_rose ground_](roses), especially 
 [![0268-Ld][P-0268-Ld]][T-0268-Ld]
 [![0257-Ld][P-0257-Ld]][T-0257-Ld]
 [![0250-L][P-0250-L]][T-0250-L]
+[![0238-R][P-0238-R]][T-0238-R]
 
 [P-0221-N]: ../images/bias/0221-N.png "traditional, 0221-N" 
 [P-0246-N]: ../images/bias/0246-N.png "0246-N"
@@ -72,6 +73,7 @@ Sometimes, the bias ground is referred to as [_rose ground_](roses), especially 
 [P-0229-Kd]: ../images/bias/0229-Kd.png "0229-K"
 [P-0236-Ld]: ../images/bias/0236-Ld.png "0236-L"
 [P-0254-Kd]: ../images/bias/0254-Kd.png "0254-K"
+[P-0238-R]: ../images/bias/0238-R.png "0238-R"
 
 [T-0221-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=ctct&a1=ctct&d2=ctct&b2=ctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0246-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=ctcr&a1=ctct&d2=ctcr&b2=ctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -90,6 +92,7 @@ Sometimes, the bias ground is referred to as [_rose ground_](roses), especially 
 [T-0229-Kd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=ctcl&a1=ctct&d2=ctct&b2=ctc&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0236-Ld]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctc&c1=ctcl&a1=ctc&d2=ctcl&b2=ctc&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0254-Kd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=c&c1=ctcl&a1=ctcl&d2=ctcl&b2=ctcl&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0238-R]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctctc&c1=ctc&a1=ctc&d2=ctc&b2=ctc&a2=ctctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ### examples with two different middle stitches
 
@@ -101,7 +104,6 @@ Sometimes, the bias ground is referred to as [_rose ground_](roses), especially 
 [![0235-Nd][P-0235-Nd]][T-0235-Nd]
 [![0250-Kd][P-0250-Kd]][T-0250-Kd]
 [![0204-Kd][P-0204-Kd]][T-0204-Kd]
-[![0238-R][P-0238-R]][T-0238-R]
 
 [P-0223-N]: ../images/bias/0223-N.png "0223-ND"
 [P-0224-K]: ../images/bias/0224-K.png "0224-KD"
@@ -111,7 +113,6 @@ Sometimes, the bias ground is referred to as [_rose ground_](roses), especially 
 [P-0259-Nd]: ../images/bias/0259-Nd.png "0259-ND"
 [P-0233-Nd]: ../images/bias/0233-Nd.png "0233-NK"
 [P-0235-Nd]: ../images/bias/0235-Nd.png "0235-NL"
-[P-0238-R]: ../images/bias/0238-R.png "0238-RL"
 
 [T-0223-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctct&c1=ctct&a1=ctct&d2=ctct&b2=ctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0224-K]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=tctct&c1=ctc&a1=ctcl&d2=ctc&b2=ctcl&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -121,7 +122,6 @@ Sometimes, the bias ground is referred to as [_rose ground_](roses), especially 
 [T-0259-Nd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=ctct&a1=ctcr&d2=ctct&b2=ctcr&a2=ctct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0233-Nd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=tct&c1=ctcl&a1=ctc&d2=ctcl&b2=ctc&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0235-Nd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=tct&c1=ctcl&a1=ctc&d2=ctcl&b2=ctc&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0238-R]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctctc&c1=ctc&a1=ctc&d2=ctc&b2=ctc&a2=ctctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ##  Bias Ground crossed rose style
 
