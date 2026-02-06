@@ -56,7 +56,7 @@ Sometimes, the bias ground is referred to as [_rose ground_](roses), especially 
 [![0250-L][P-0250-L]][T-0250-L]
 [![0238-R][P-0238-R]][T-0238-R]
 
-[P-0221-N]: ../images/bias/0221-N.png "traditional, 0221-N" 
+[P-0221-N]: ../images/bias/0221-N.svg "traditional, 0221-N" 
 [P-0246-N]: ../images/bias/0246-N.png "0246-N"
 [P-0212-K]: ../images/bias/0212-K.png "0212-K"
 [P-0214-N]: ../images/bias/0214-N.png "0214-N"
