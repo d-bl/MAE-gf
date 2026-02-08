@@ -55,6 +55,11 @@ Sometimes, the bias ground is referred to as [_rose ground_](roses), especially 
 [![0257-Ld][P-0257-Ld]][T-0257-Ld]
 [![0250-L][P-0250-L]][T-0250-L]
 [![0238-R][P-0238-R]][T-0238-R]
+[![0291-K][P-0291-K]][T-0291-K]
+[![0292-L][P-0292-L]][T-0292-L]
+[![0293-L][P-0293-L]][T-0293-L]
+[![0215-K][P-0215-K]][T-0215-K]
+[![0216-K][P-0216-K]][T-0216-K]
 
 [P-0221-N]: ../images/bias/0221-N.svg "traditional, 0221-N" 
 [P-0246-N]: ../images/bias/0246-N.png "0246-N"
@@ -74,6 +79,11 @@ Sometimes, the bias ground is referred to as [_rose ground_](roses), especially 
 [P-0236-Ld]: ../images/bias/0236-Ld.png "0236-L"
 [P-0254-Kd]: ../images/bias/0254-Kd.png "0254-K"
 [P-0238-R]: ../images/bias/0238-R.png "0238-R"
+[P-0291-K]: ../images/bias/0291-K.svg "0291-K, by J. Atkinson"
+[P-0292-L]: ../images/bias/0292-L.svg "0292-K, by J. Atkinson"
+[P-0293-L]: ../images/bias/0293-L.svg "0293-K, by J. Atkinson"
+[P-0215-K]: ../images/bias/0215-K.svg "0215-K, by J. Atkinson"
+[P-0216-K]: ../images/bias/0216-K.svg "0216-K, by J. Atkinson"
 
 [T-0221-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=ctct&a1=ctct&d2=ctct&b2=ctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0246-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=ctcr&a1=ctct&d2=ctcr&b2=ctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
@@ -93,6 +103,11 @@ Sometimes, the bias ground is referred to as [_rose ground_](roses), especially 
 [T-0236-Ld]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctc&c1=ctcl&a1=ctc&d2=ctcl&b2=ctc&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0254-Kd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=c&c1=ctcl&a1=ctcl&d2=ctcl&b2=ctcl&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0238-R]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctctc&c1=ctc&a1=ctc&d2=ctc&b2=ctc&a2=ctctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[T-0291-K]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=6-48,86-4&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=c&c1=ctct&a1=ctct&d2=ctct&b2=ctcr&a2=c
+[T-0292-L]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=6-48,86-4&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=ctct&c1=ctcl&a1=ctcl&d2=ctcl&b2=ctcl&a2=ctct
+[T-0293-L]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=6-48,86-4&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=tctc&c1=ctcll&a1=ctc&d2=ctcll&b2=ctc&a2=ctct
+[T-0215-K]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=6-48,86-4&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=ct&c1=ctclctc&a1=ctcrctc&d2=ctclctc&b2=ctcrctc&a2=ct
+[T-0216-K]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=6-48,86-4&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=ct&c1=ctcrctc&a1=ctclctc&d2=ctcrctc&b2=ctclctc&a2=ct
 
 ### examples with two different middle stitches
 
@@ -236,7 +251,7 @@ Of course, this pull-back through two can be extended further: pull-back through
 
 ## Stretched
 
-The pictures below show three different units. The units are placed like the white tiles on a checker board.          
+The pictures below show three different units. The units are placed like the white tiles on a checkerboard.          
 Example 1 is a bias ground, stretched vertically, as found in <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a> F4. Experimenting with stitches, I created the units in shown in example 2 and 3. Example 2 is equivalent to the little snowflake. Example 3 proved to be a real surprise! These grounds also look nice when made on a hexagonal raster, connecting the units with a short plait.
 
 {% include captionfig.html
