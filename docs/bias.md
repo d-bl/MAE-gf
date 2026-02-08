@@ -80,7 +80,7 @@ Sometimes, the bias ground is referred to as [_rose ground_](roses), especially 
 [P-0236-Ld]: ../images/bias/0236-Ld.png "0236-L"
 [P-0254-Kd]: ../images/bias/0254-Kd.png "0254-K"
 [P-0238-R]: ../images/bias/0238-R.png "0238-R"
-[P-0292-L]: ../images/bias/0292-L.svg "0292-K, by J. Atkinson"
+[P-0292-L]: ../images/bias/0292-L.svg "0292-L, by J. Atkinson"
 [P-0215-K]: ../images/bias/0215-K.svg "0215-K, by J. Atkinson"
 [P-0216-K]: ../images/bias/0216-K.svg "0216-K, by J. Atkinson"
 
@@ -141,7 +141,7 @@ Sometimes, the bias ground is referred to as [_rose ground_](roses), especially 
 [![0293-L][P-0293-L]][T-0293-L]
 
 [P-0291-K]: ../images/bias/0291-K.svg "0291-K, by J. Atkinson"
-[P-0293-L]: ../images/bias/0293-L.svg "0293-K, by J. Atkinson"
+[P-0293-L]: ../images/bias/0293-L.svg "0293-L, by J. Atkinson"
 
 [T-0291-K]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=6-48,86-4&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=c&c1=ctct&a1=ctct&d2=ctct&b2=ctcr&a2=c
 [T-0293-L]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=6-48,86-4&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=tctc&c1=ctcll&a1=ctc&d2=ctcll&b2=ctc&a2=ctct
