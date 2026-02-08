@@ -8,7 +8,10 @@ title: Bias grounds
 ## Contents
 
 * [Introduction](#introduction)
-* [Traditional Bias Ground](#traditional-bias-ground)
+* [Traditional Bias Ground](#traditional-bias-ground)    
+** [examples with one middle stitch](#examples-with-one-middle-stitch)    
+** [examples with two different middle stitches](#examples-with-two-different-middle-stitches)   
+** [examples with two different units](#examples-with-two-different-units)
 * [Bias Ground crossed rose style](#bias-ground-crossed-rose-style)
 * [Bias Ground crossed alternating](#bias-ground-crossed-alternating)
 * [Bias Ground with a diagonal in between](#bias-ground-with-a-diagonal-in-between)
@@ -16,8 +19,8 @@ title: Bias grounds
 * [Unit bias in a diamond](#unit-bias-in-a-diamond)
 * [Bias Ground crossed and in a diamond](#bias-ground-crossed-and-in-a-diamond)      
 * [Short bias](#short-bias)         
-** [Solo](#solo)     
-** [Crossed](#crossed)
+** [solo](#solo)     
+** [crossed](#crossed)
 * [Alternate bias](#alternated-bias)
 * [Double bias](#double-bias)
 * [Bias with vertical](#bias-with-vertical)
@@ -55,9 +58,7 @@ Sometimes, the bias ground is referred to as [_rose ground_](roses), especially 
 [![0257-Ld][P-0257-Ld]][T-0257-Ld]
 [![0250-L][P-0250-L]][T-0250-L]
 [![0238-R][P-0238-R]][T-0238-R]
-[![0291-K][P-0291-K]][T-0291-K]
 [![0292-L][P-0292-L]][T-0292-L]
-[![0293-L][P-0293-L]][T-0293-L]
 [![0215-K][P-0215-K]][T-0215-K]
 [![0216-K][P-0216-K]][T-0216-K]
 
@@ -79,9 +80,7 @@ Sometimes, the bias ground is referred to as [_rose ground_](roses), especially 
 [P-0236-Ld]: ../images/bias/0236-Ld.png "0236-L"
 [P-0254-Kd]: ../images/bias/0254-Kd.png "0254-K"
 [P-0238-R]: ../images/bias/0238-R.png "0238-R"
-[P-0291-K]: ../images/bias/0291-K.svg "0291-K, by J. Atkinson"
 [P-0292-L]: ../images/bias/0292-L.svg "0292-K, by J. Atkinson"
-[P-0293-L]: ../images/bias/0293-L.svg "0293-K, by J. Atkinson"
 [P-0215-K]: ../images/bias/0215-K.svg "0215-K, by J. Atkinson"
 [P-0216-K]: ../images/bias/0216-K.svg "0216-K, by J. Atkinson"
 
@@ -103,11 +102,10 @@ Sometimes, the bias ground is referred to as [_rose ground_](roses), especially 
 [T-0236-Ld]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctc&c1=ctcl&a1=ctc&d2=ctcl&b2=ctc&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0254-Kd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=c&c1=ctcl&a1=ctcl&d2=ctcl&b2=ctcl&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0238-R]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctctc&c1=ctc&a1=ctc&d2=ctc&b2=ctc&a2=ctctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0291-K]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=6-48,86-4&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=c&c1=ctct&a1=ctct&d2=ctct&b2=ctcr&a2=c
 [T-0292-L]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=6-48,86-4&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=ctct&c1=ctcl&a1=ctcl&d2=ctcl&b2=ctcl&a2=ctct
-[T-0293-L]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=6-48,86-4&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=tctc&c1=ctcll&a1=ctc&d2=ctcll&b2=ctc&a2=ctct
 [T-0215-K]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=6-48,86-4&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=ct&c1=ctclctc&a1=ctcrctc&d2=ctclctc&b2=ctcrctc&a2=ct
 [T-0216-K]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=6-48,86-4&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=ct&c1=ctcrctc&a1=ctclctc&d2=ctcrctc&b2=ctclctc&a2=ct
+
 ### examples with two different middle stitches
 
 [![0223-N][P-0223-N]][T-0223-N]
@@ -136,6 +134,17 @@ Sometimes, the bias ground is referred to as [_rose ground_](roses), especially 
 [T-0259-Nd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=ctct&a1=ctcr&d2=ctct&b2=ctcr&a2=ctct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0233-Nd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=tct&c1=ctcl&a1=ctc&d2=ctcl&b2=ctc&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 [T-0235-Nd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=tct&c1=ctcl&a1=ctc&d2=ctcl&b2=ctc&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+
+### examples with two different units
+
+[![0291-K][P-0291-K]][T-0291-K]
+[![0293-L][P-0293-L]][T-0293-L]
+
+[P-0291-K]: ../images/bias/0291-K.svg "0291-K, by J. Atkinson"
+[P-0293-L]: ../images/bias/0293-L.svg "0293-K, by J. Atkinson"
+
+[T-0291-K]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=6-48,86-4&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=c&c1=ctct&a1=ctct&d2=ctct&b2=ctcr&a2=c
+[T-0293-L]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=6-48,86-4&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=tctc&c1=ctcll&a1=ctc&d2=ctcll&b2=ctc&a2=ctct
 
 ##  Bias Ground crossed rose style
 
@@ -193,7 +202,7 @@ See also <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a>: E6.
 
 ## Short Bias
 
-### Solo
+### solo
 
 ![short bias foto][foto-0228-OGy] 
 Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter may give nice results in two colours. The placing of the units in alternating directions is also shown in mrs Irvine's paper _Developing a Mathematical Model for Bobbin Lace_. 
@@ -211,7 +220,7 @@ Take just one unit of the Bias ground and place them all in the same direction, 
 [T-0228-OGy]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=tct&b1=ctc&d1=ctc&a2=ctc&c2=ctc&b3=ctc&c3=tct&d3=ctc&a4=ctc&c4=ctc&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=0&shiftRowsSW=4&tile=15-2,7-5-,-586,5-4-
 [T-0267-OGy]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctc&b1=ctcr&d1=ctct&a2=ctct&c2=ctcl&b3=ctcl&c3=ctc&d3=ctct&a4=ctcr&c4=ctct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=0&shiftRowsSW=4&tile=15-2,7-5-,-586,5-4-
 
-### Crossed
+### crossed
 
 [![alternating and cross][p-02-YQ2]][t-0248-YQ2]
 Take one unit of the Bias ground, place them in alternating directions, and cross at the corners.  
