@@ -108,7 +108,6 @@ Sometimes, the bias ground is referred to as [_rose ground_](roses), especially 
 [T-0293-L]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=6-48,86-4&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=tctc&c1=ctcll&a1=ctc&d2=ctcll&b2=ctc&a2=ctct
 [T-0215-K]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=6-48,86-4&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=ct&c1=ctclctc&a1=ctcrctc&d2=ctclctc&b2=ctcrctc&a2=ct
 [T-0216-K]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=6-48,86-4&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=ct&c1=ctcrctc&a1=ctclctc&d2=ctcrctc&b2=ctclctc&a2=ct
-
 ### examples with two different middle stitches
 
 [![0223-N][P-0223-N]][T-0223-N]
