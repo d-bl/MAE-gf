@@ -148,36 +148,36 @@ Sometimes, the bias ground is referred to as [_rose ground_](roses), especially 
 
 ##  Bias Ground crossed rose style
 
-![crossed][P-bias-at]
+![crossed][P-bias-xt]
 
 This ground is also called _rose ground_.         
 See also <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a>: D6 and F4.
 
-[![][P-at-0278-KK]][T-at-0278-KK] 
+[![][P-xt-0278-KK]][T-xt-0278-KK] 
 
 <p style="clear: both"></p>
 
-[P-bias-at]: ../images/bias/g-bias-at.svg?align=right "tradtional bias crossed, 0278-KK"
-[P-at-0278-KK]: ../images/bias/g-bias-at.svg "0278-KK"
+[P-bias-xt]: ../images/bias/g-bias-xt.svg?align=right "tradtional bias crossed, 0278-KK"
+[P-xt-0278-KK]: ../images/bias/g-bias-xt.svg "0278-KK"
 
-[T-at-0278-KK]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=c&a2=c&b2=ctct&c2=c&d2=tctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=8-48,8314
+[T-xt-0278-KK]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=c&a2=c&b2=ctct&c2=c&d2=tctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=8-48,8314
 
 [L-whiting]: /gw-lace-to-gf/
 
 ## Bias Ground crossed alternating
 
-![][p-bias-aa]
+![][p-bias-xa]
 
 See also <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a>: E6.  
 
-[![][p-aa-0280-LL]][T-aa-0280-LL] 
+[![][p-aa-0280-LL]][T-xa-0280-LL] 
 
 <p style="clear: both"></p>
 
-[p-bias-aa]: ../images/bias/g-bias-aa.svg?align=right "alternated bias crossing, 0280-LL"
-[p-aa-0280-LL]: ../images/bias/g-bias-aa.svg "0280-LL"
+[p-bias-xa]: ../images/bias/g-bias-xa.svg?align=right "alternated bias crossing, 0280-LL"
+[p-xa-0280-LL]: ../images/bias/g-bias-xa.svg "0280-LL"
 
-[t-aa-0280-LLh]: /GroundForge/stitches?patchWidth=12&patchHeight=12&h1=ctc&g1=lcr&f1=ctc&d1=ctc&c1=lctcr&b1=ctc&a1=rctcl&h2=lctcr&g2=ctc&f2=rctcl&e2=ctc&d2=lcr&c2=ctc&a2=ctc&h3=ctc&f3=ctc&e3=lctcr&d3=ctc&c3=rctcl&b3=ctc&a3=lcr&h4=rctcl&g4=ctc&f4=lcr&e4=ctc&c4=ctc&b4=lctcr&a4=ctc&tile=1488-483,8-483148,831488-4,488-4831&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[t-xa-0280-LLh]: /GroundForge/stitches?patchWidth=12&patchHeight=12&h1=ctc&g1=lcr&f1=ctc&d1=ctc&c1=lctcr&b1=ctc&a1=rctcl&h2=lctcr&g2=ctc&f2=rctcl&e2=ctc&d2=lcr&c2=ctc&a2=ctc&h3=ctc&f3=ctc&e3=lctcr&d3=ctc&c3=rctcl&b3=ctc&a3=lcr&h4=rctcl&g4=ctc&f4=lcr&e4=ctc&c4=ctc&b4=lctcr&a4=ctc&tile=1488-483,8-483148,831488-4,488-4831&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Bias Ground with a diagonal in between
 ![][p-bias-vg]
@@ -198,14 +198,14 @@ See also <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a>: E6.
    
 ## Bias Ground crossed and a diagonal in between
 
-![][p-bias-av]
-[![][p-av-0221-N]][t-av-0221-N]
+![][p-bias-xd]
+[![][p-av-0221-N]][t-xd-0221-N]
 <p style="clear: both"></p>
 
-[p-bias-av]: ../images/bias/g-bias-av.svg?align=right "bias crossed with diagonal"
-[p-av-0221-N]: ../images/bias/g-bias-av.svg "0221-N"
+[p-bias-xd]: ../images/bias/g-bias-xd.svg?align=right "bias crossed with diagonal"
+[p-xd-0221-N]: ../images/bias/g-bias-xd.svg "0221-N"
 
-[t-av-0221-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&e1=ctct&f1=ct&a2=ctct&b2=ctct&c2=ctct&d2=ctct&e2=ctct&f2=ctct&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-4&shiftRowsSW=2&tile=8-7-48,831214
+[t-xd-0221-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&e1=ctct&f1=ct&a2=ctct&b2=ctct&c2=ctct&d2=ctct&e2=ctct&f2=ctct&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-4&shiftRowsSW=2&tile=8-7-48,831214
 
 ## Unit bias in a diamond
 [![][p-bias-uni]
