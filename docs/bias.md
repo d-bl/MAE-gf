@@ -177,7 +177,7 @@ See also <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a>: E6.
 [p-bias-xa]: ../images/bias/g-bias-xa.svg?align=right "alternated bias crossing, 0280-LL"
 [p-xa-0280-LL]: ../images/bias/g-bias-xa.svg "0280-LL"
 
-[t-xa-0280-LLh]: /GroundForge/stitches?patchWidth=12&patchHeight=12&h1=ctc&g1=lcr&f1=ctc&d1=ctc&c1=lctcr&b1=ctc&a1=rctcl&h2=lctcr&g2=ctc&f2=rctcl&e2=ctc&d2=lcr&c2=ctc&a2=ctc&h3=ctc&f3=ctc&e3=lctcr&d3=ctc&c3=rctcl&b3=ctc&a3=lcr&h4=rctcl&g4=ctc&f4=lcr&e4=ctc&c4=ctc&b4=lctcr&a4=ctc&tile=1488-483,8-483148,831488-4,488-4831&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
+[t-xa-0280-LL]: /GroundForge/stitches?patchWidth=12&patchHeight=12&h1=ctc&g1=lcr&f1=ctc&d1=ctc&c1=lctcr&b1=ctc&a1=rctcl&h2=lctcr&g2=ctc&f2=rctcl&e2=ctc&d2=lcr&c2=ctc&a2=ctc&h3=ctc&f3=ctc&e3=lctcr&d3=ctc&c3=rctcl&b3=ctc&a3=lcr&h4=rctcl&g4=ctc&f4=lcr&e4=ctc&c4=ctc&b4=lctcr&a4=ctc&tile=1488-483,8-483148,831488-4,488-4831&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Bias Ground with a diagonal in between
 ![][p-bias-vg]
@@ -199,7 +199,7 @@ See also <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a>: E6.
 ## Bias Ground crossed and a diagonal in between
 
 ![][p-bias-xd]
-[![][p-av-0221-N]][t-xd-0221-N]
+[![][p-xd-0221-N]][t-xd-0221-N]
 <p style="clear: both"></p>
 
 [p-bias-xd]: ../images/bias/g-bias-xd.svg?align=right "bias crossed with diagonal"
@@ -319,16 +319,16 @@ These grounds also look nice when made on a hexagonal raster, connecting the uni
 A bias ground, stretched vertically, as found in <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a> F4.
 <p style="clear: both"></p>
 
-![][p-0714]][t-0714]
+![[][p-0714]][t-0714]
 
 ![][p-73]
 Equivalent to the little snowflake.
 <p style="clear: both"></p>
 
-![][p-0759]][t-0759]
+![[][p-0759]][t-0759]
 
 ![][p-74]
-![][p-0775]][t-0775]
+![[][p-0775]][t-0775]
 <p style="clear: both"></p>
 
 [p-71]: ../images/bias/G-71.png?align=right "stretched bias"
