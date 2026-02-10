@@ -40,127 +40,127 @@ Sometimes, the bias ground is referred to as [_rose ground_](roses), especially 
 
 ### examples with one middle stitch
 
-[![0221-N][P-0221-N]][T-0221-N]
-[![0228-N][P-0228-N]][T-0228-N]
-[![0246-N][P-0246-N]][T-0246-N] 
-[![0277-Kd][P-0277-Kd]][T-0277-Kd]
-[![0229-Kd][P-0229-Kd]][T-0229-Kd]
-[![0245-Ld][P-0245-Ld]][T-0245-Ld]
-[![0212-K][P-0212-K]][T-0212-K]
-[![0214-N][P-0214-N]][T-0214-N] 
-[![0254-Kd][P-0254-Kd]][T-0254-Kd]
-[![0265-Nd][P-0265-Nd]][T-0265-Nd]
-[![0255-Kd][P-0255-Kd]][T-0255-Kd]
-[![0279-K][P-0279-K]][T-0279-K]
-[![0274-Kd][P-0274-Kd]][T-0274-Kd]
-[![0236-Ld][P-0236-Ld]][T-0236-Ld]
-[![0268-Ld][P-0268-Ld]][T-0268-Ld]
-[![0257-Ld][P-0257-Ld]][T-0257-Ld]
-[![0250-L][P-0250-L]][T-0250-L]
-[![0238-R][P-0238-R]][T-0238-R]
-[![0292-L][P-0292-L]][T-0292-L]
-[![0215-K][P-0215-K]][T-0215-K]
-[![0216-K][P-0216-K]][T-0216-K]
+[![0221-N][p-0221-N]][t-0221-N]
+[![0228-N][p-0228-N]][t-0228-N]
+[![0246-N][p-0246-N]][t-0246-N] 
+[![0277-Kd][p-0277-Kd]][t-0277-Kd]
+[![0229-Kd][p-0229-Kd]][t-0229-Kd]
+[![0245-Ld][p-0245-Ld]][t-0245-Ld]
+[![0212-K][p-0212-K]][t-0212-K]
+[![0214-N][p-0214-N]][t-0214-N] 
+[![0254-Kd][p-0254-Kd]][t-0254-Kd]
+[![0265-Nd][p-0265-Nd]][t-0265-Nd]
+[![0255-Kd][p-0255-Kd]][t-0255-Kd]
+[![0279-K][p-0279-K]][t-0279-K]
+[![0274-Kd][p-0274-Kd]][t-0274-Kd]
+[![0236-Ld][p-0236-Ld]][t-0236-Ld]
+[![0268-Ld][p-0268-Ld]][t-0268-Ld]
+[![0257-Ld][p-0257-Ld]][t-0257-Ld]
+[![0250-L][p-0250-L]][t-0250-L]
+[![0238-R][p-0238-R]][t-0238-R]
+[![0292-L][p-0292-L]][t-0292-L]
+[![0215-K][p-0215-K]][t-0215-K]
+[![0216-K][p-0216-K]][t-0216-K]
 
-[P-0221-N]: ../images/bias/0221-N.svg "traditional, 0221-N" 
-[P-0246-N]: ../images/bias/0246-N.png "0246-N"
-[P-0212-K]: ../images/bias/0212-K.png "0212-K"
-[P-0214-N]: ../images/bias/0214-N.png "0214-N"
-[P-0245-Ld]: ../images/bias/0245-Ld.png "0245-L"
-[P-0274-Kd]: ../images/bias/0274-Kd.png "0274-K"
-[P-0277-Kd]: ../images/bias/0277-Kd.png "0277-K"
-[P-0250-L]: ../images/bias/0250-L.png "0250-L"
-[P-0279-K]: ../images/bias/0279-K.png "0279-K"
-[P-0228-N]: ../images/bias/0228-N.png "0228-N"
-[P-0255-Kd]: ../images/bias/0255-Kd.png "0255-K"
-[P-0257-Ld]: ../images/bias/0257-Ld.png "0257-L"
-[P-0265-Nd]: ../images/bias/0265-Nd.png "0265-N"
-[P-0268-Ld]: ../images/bias/0268-Ld.png "0268-L"
-[P-0229-Kd]: ../images/bias/0229-Kd.png "0229-K"
-[P-0236-Ld]: ../images/bias/0236-Ld.png "0236-L"
-[P-0254-Kd]: ../images/bias/0254-Kd.png "0254-K"
-[P-0238-R]: ../images/bias/0238-R.png "0238-R"
-[P-0292-L]: ../images/bias/0292-L.svg "0292-L, by J. Atkinson"
-[P-0215-K]: ../images/bias/0215-K.svg "0215-K, by J. Atkinson"
-[P-0216-K]: ../images/bias/0216-K.svg "0216-K, by J. Atkinson"
+[p-0221-N]: ../images/bias/0221-N.svg "traditional, 0221-N" 
+[p-0246-N]: ../images/bias/0246-N.png "0246-N"
+[p-0212-K]: ../images/bias/0212-K.png "0212-K"
+[p-0214-N]: ../images/bias/0214-N.png "0214-N"
+[p-0245-Ld]: ../images/bias/0245-Ld.png "0245-L"
+[p-0274-Kd]: ../images/bias/0274-Kd.png "0274-K"
+[p-0277-Kd]: ../images/bias/0277-Kd.png "0277-K"
+[p-0250-L]: ../images/bias/0250-L.png "0250-L"
+[p-0279-K]: ../images/bias/0279-K.png "0279-K"
+[p-0228-N]: ../images/bias/0228-N.png "0228-N"
+[p-0255-Kd]: ../images/bias/0255-Kd.png "0255-K"
+[p-0257-Ld]: ../images/bias/0257-Ld.png "0257-L"
+[p-0265-Nd]: ../images/bias/0265-Nd.png "0265-N"
+[p-0268-Ld]: ../images/bias/0268-Ld.png "0268-L"
+[p-0229-Kd]: ../images/bias/0229-Kd.png "0229-K"
+[p-0236-Ld]: ../images/bias/0236-Ld.png "0236-L"
+[p-0254-Kd]: ../images/bias/0254-Kd.png "0254-K"
+[p-0238-R]: ../images/bias/0238-R.png "0238-R"
+[p-0292-L]: ../images/bias/0292-L.svg "0292-L, by J. Atkinson"
+[p-0215-K]: ../images/bias/0215-K.svg "0215-K, by J. Atkinson"
+[p-0216-K]: ../images/bias/0216-K.svg "0216-K, by J. Atkinson"
 
-[T-0221-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=ctct&a1=ctct&d2=ctct&b2=ctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0246-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=ctcr&a1=ctct&d2=ctcr&b2=ctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0212-K]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=cl&c1=ctctc&a1=ctctct&d2=ctctc&b2=ctctct&a2=cl&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0214-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=ctctc&a1=ctctct&d2=ctctc&b2=ctctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0245-Ld]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=lctcr&c1=tctcl&a1=ctct&d2=ctcl&b2=ctc&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0274-Kd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=cl&c1=ctcl&a1=ctct&d2=ctcl&b2=ctct&a2=cl&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0277-Kd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=cr&c1=ctct&a1=ctct&d2=ctcl&b2=ctcl&a2=cl&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0250-L]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=lctcr&c1=ctc&a1=ctcl&d2=ctcr&b2=ctcl&a2=ctcr&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0279-K]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=cr&c1=ctcr&a1=ctcl&d2=ctcr&b2=ctcl&a2=cr&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0228-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=tct&c1=ctc&a1=ctc&d2=ctc&b2=ctc&a2=tct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0255-Kd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=cr&c1=ctct&a1=ctc&d2=ctct&b2=ctc&a2=cr&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0257-Ld]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctcr&c1=ctct&a1=ctc&d2=ctct&b2=ctc&a2=ctcr&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0265-Nd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=ctct&a1=ctcl&d2=ctcl&b2=ctct&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0268-Ld]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctc&c1=ctcl&a1=ctcl&d2=ctcl&b2=ctcl&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0229-Kd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=ctcl&a1=ctct&d2=ctct&b2=ctc&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0236-Ld]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctc&c1=ctcl&a1=ctc&d2=ctcl&b2=ctc&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0254-Kd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=c&c1=ctcl&a1=ctcl&d2=ctcl&b2=ctcl&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0238-R]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctctc&c1=ctc&a1=ctc&d2=ctc&b2=ctc&a2=ctctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0292-L]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=6-48,86-4&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=ctct&c1=ctcl&a1=ctcl&d2=ctcl&b2=ctcl&a2=ctct
-[T-0215-K]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=6-48,86-4&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=ct&c1=ctclctc&a1=ctcrctc&d2=ctclctc&b2=ctcrctc&a2=ct
-[T-0216-K]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=6-48,86-4&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=ct&c1=ctcrctc&a1=ctclctc&d2=ctcrctc&b2=ctclctc&a2=ct
+[t-0221-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=ctct&a1=ctct&d2=ctct&b2=ctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0246-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=ctcr&a1=ctct&d2=ctcr&b2=ctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0212-K]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=cl&c1=ctctc&a1=ctctct&d2=ctctc&b2=ctctct&a2=cl&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0214-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=ctctc&a1=ctctct&d2=ctctc&b2=ctctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0245-Ld]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=lctcr&c1=tctcl&a1=ctct&d2=ctcl&b2=ctc&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0274-Kd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=cl&c1=ctcl&a1=ctct&d2=ctcl&b2=ctct&a2=cl&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0277-Kd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=cr&c1=ctct&a1=ctct&d2=ctcl&b2=ctcl&a2=cl&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0250-L]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=lctcr&c1=ctc&a1=ctcl&d2=ctcr&b2=ctcl&a2=ctcr&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0279-K]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=cr&c1=ctcr&a1=ctcl&d2=ctcr&b2=ctcl&a2=cr&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0228-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=tct&c1=ctc&a1=ctc&d2=ctc&b2=ctc&a2=tct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0255-Kd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=cr&c1=ctct&a1=ctc&d2=ctct&b2=ctc&a2=cr&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0257-Ld]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctcr&c1=ctct&a1=ctc&d2=ctct&b2=ctc&a2=ctcr&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0265-Nd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=ctct&a1=ctcl&d2=ctcl&b2=ctct&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0268-Ld]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctc&c1=ctcl&a1=ctcl&d2=ctcl&b2=ctcl&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0229-Kd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=ctcl&a1=ctct&d2=ctct&b2=ctc&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0236-Ld]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctc&c1=ctcl&a1=ctc&d2=ctcl&b2=ctc&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0254-Kd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=c&c1=ctcl&a1=ctcl&d2=ctcl&b2=ctcl&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0238-R]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctctc&c1=ctc&a1=ctc&d2=ctc&b2=ctc&a2=ctctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0292-L]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=6-48,86-4&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=ctct&c1=ctcl&a1=ctcl&d2=ctcl&b2=ctcl&a2=ctct
+[t-0215-K]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=6-48,86-4&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=ct&c1=ctclctc&a1=ctcrctc&d2=ctclctc&b2=ctcrctc&a2=ct
+[t-0216-K]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=6-48,86-4&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=ct&c1=ctcrctc&a1=ctclctc&d2=ctcrctc&b2=ctclctc&a2=ct
 
 ### examples with two different middle stitches
 
-[![0223-N][P-0223-N]][T-0223-N]
-[![0247-Dd][P-0247-Dd]][T-0247-Dd]
-[![0224-K][P-0224-K]][T-0224-K]
-[![0259-Nd][P-0259-Nd]][T-0259-Nd]
-[![0233-Nd][P-0233-Nd]][T-0233-Nd]
-[![0235-Nd][P-0235-Nd]][T-0235-Nd]
-[![0250-Kd][P-0250-Kd]][T-0250-Kd]
-[![0204-Kd][P-0204-Kd]][T-0204-Kd]
+[![0223-N][p-0223-N]][t-0223-N]
+[![0247-Dd][p-0247-Dd]][t-0247-Dd]
+[![0224-K][p-0224-K]][t-0224-K]
+[![0259-Nd][p-0259-Nd]][t-0259-Nd]
+[![0233-Nd][p-0233-Nd]][t-0233-Nd]
+[![0235-Nd][p-0235-Nd]][t-0235-Nd]
+[![0250-Kd][p-0250-Kd]][t-0250-Kd]
+[![0204-Kd][p-0204-Kd]][t-0204-Kd]
 
-[P-0223-N]: ../images/bias/0223-N.png "0223-ND"
-[P-0224-K]: ../images/bias/0224-K.png "0224-KD"
-[P-0204-Kd]: ../images/bias/0204-Kd.png "0204-NK"
-[P-0247-Dd]: ../images/bias/0247-Dd.png "0247-DL"
-[P-0250-Kd]: ../images/bias/0250-Kd.png "0250-KL"
-[P-0259-Nd]: ../images/bias/0259-Nd.png "0259-ND"
-[P-0233-Nd]: ../images/bias/0233-Nd.png "0233-NK"
-[P-0235-Nd]: ../images/bias/0235-Nd.png "0235-NL"
+[p-0223-N]: ../images/bias/0223-N.png "0223-ND"
+[p-0224-K]: ../images/bias/0224-K.png "0224-KD"
+[p-0204-Kd]: ../images/bias/0204-Kd.png "0204-NK"
+[p-0247-Dd]: ../images/bias/0247-Dd.png "0247-DL"
+[p-0250-Kd]: ../images/bias/0250-Kd.png "0250-KL"
+[p-0259-Nd]: ../images/bias/0259-Nd.png "0259-ND"
+[p-0233-Nd]: ../images/bias/0233-Nd.png "0233-NK"
+[p-0235-Nd]: ../images/bias/0235-Nd.png "0235-NL"
 
-[T-0223-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctct&c1=ctct&a1=ctct&d2=ctct&b2=ctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0224-K]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=tctct&c1=ctc&a1=ctcl&d2=ctc&b2=ctcl&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0204-Kd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=c&c1=ctctcl&a1=ctctct&d2=ctct&b2=ctcl&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0247-Dd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctct&c1=ctct&a1=ctct&d2=ctcl&b2=ctct&a2=ctcl&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0250-Kd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=lcr&c1=ctcl&a1=ctcl&d2=ctct&b2=ctcl&a2=ctcr&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0259-Nd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=ctct&a1=ctcr&d2=ctct&b2=ctcr&a2=ctct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0233-Nd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=tct&c1=ctcl&a1=ctc&d2=ctcl&b2=ctc&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-[T-0235-Nd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=tct&c1=ctcl&a1=ctc&d2=ctcl&b2=ctc&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0223-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctct&c1=ctct&a1=ctct&d2=ctct&b2=ctct&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0224-K]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=tctct&c1=ctc&a1=ctcl&d2=ctc&b2=ctcl&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0204-Kd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=c&c1=ctctcl&a1=ctctct&d2=ctct&b2=ctcl&a2=ct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0247-Dd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctct&c1=ctct&a1=ctct&d2=ctcl&b2=ctct&a2=ctcl&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0250-Kd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=lcr&c1=ctcl&a1=ctcl&d2=ctct&b2=ctcl&a2=ctcr&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0259-Nd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=ctct&a1=ctcr&d2=ctct&b2=ctcr&a2=ctct&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0233-Nd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=tct&c1=ctcl&a1=ctc&d2=ctcl&b2=ctc&a2=c&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-0235-Nd]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=tct&c1=ctcl&a1=ctc&d2=ctcl&b2=ctc&a2=ctc&tile=6-48,86-4&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ### examples with two different units
 
-[![0291-K][P-0291-K]][T-0291-K]
-[![0293-L][P-0293-L]][T-0293-L]
+[![0291-K][p-0291-K]][t-0291-K]
+[![0293-L][p-0293-L]][t-0293-L]
 
-[P-0291-K]: ../images/bias/0291-K.svg "0291-K, by J. Atkinson"
-[P-0293-L]: ../images/bias/0293-L.svg "0293-L, by J. Atkinson"
+[p-0291-K]: ../images/bias/0291-K.svg "0291-K, by J. Atkinson"
+[p-0293-L]: ../images/bias/0293-L.svg "0293-L, by J. Atkinson"
 
-[T-0291-K]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=6-48,86-4&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=c&c1=ctct&a1=ctct&d2=ctct&b2=ctcr&a2=c
-[T-0293-L]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=6-48,86-4&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=tctc&c1=ctcll&a1=ctc&d2=ctcll&b2=ctc&a2=ctct
+[t-0291-K]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=6-48,86-4&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=c&c1=ctct&a1=ctct&d2=ctct&b2=ctcr&a2=c
+[t-0293-L]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=6-48,86-4&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=tctc&c1=ctcll&a1=ctc&d2=ctcll&b2=ctc&a2=ctct
 
 ##  Bias Ground crossed rose style
 
-![crossed][P-bias-xt]
+![crossed][p-bias-xt]
 
 This ground is also called _rose ground_.         
 See also <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a>: D6 and F4.
 
-[![][P-xt-0278-KK]][T-xt-0278-KK] 
+[![][p-xt-0278-KK]][t-xt-0278-KK] 
 
 <p style="clear: both"></p>
 
-[P-bias-xt]: ../images/bias/g-bias-xt.svg?align=right "tradtional bias crossed, 0278-KK"
-[P-xt-0278-KK]: ../images/bias/g-bias-xt.svg "0278-KK"
+[p-bias-xt]: ../images/bias/g-bias-xt.svg?align=right "tradtional bias crossed, 0278-KK"
+[p-xt-0278-KK]: ../images/bias/g-bias-xt.svg "0278-KK"
 
-[T-xt-0278-KK]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=c&a2=c&b2=ctct&c2=c&d2=tctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=8-48,8314
+[t-xt-0278-KK]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=c&a2=c&b2=ctct&c2=c&d2=tctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=8-48,8314
 
 [L-whiting]: /gw-lace-to-gf/
 
@@ -170,7 +170,7 @@ See also <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a>: D6 a
 
 See also <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a>: E6.  
 
-[![][p-xa-0280-LL]][T-xa-0280-LL] 
+[![][p-xa-0280-LL]][t-xa-0280-LL] 
 
 <p style="clear: both"></p>
 
@@ -237,12 +237,12 @@ Take just one unit of the Bias ground and place them all in the same direction, 
 <p style="clear: both"></p>
 
 ![same direction][p-bias-ui]
-[![][p-ui-0228-N]][T-ui-0228-N]
+[![][p-ui-0228-N]][t-ui-0228-N]
 <p style="clear: both"></p>
 
 ![alternating][p-bias-uy]
-[![][p-uy-0228-N]][T-uy-0228-N]
-[example VI][T-uy-0267-L]  
+[![][p-uy-0228-N]][t-uy-0228-N]
+[![][p-uy-0267-L]][t-uy-0267-L]  
 <p style="clear: both"></p>
 
 [p-bias-ui]: ../images/bias/g-bias-ui.svg?align=right "units in same direction"
@@ -252,9 +252,9 @@ Take just one unit of the Bias ground and place them all in the same direction, 
 [p-uy-0267-L]: ../images/bias/g-bias-uy.svg? "0267-L, by V. Irvine"
 [foto-uy-0228]: ../images/bias/uy-0228-foto.jpg?align=right "solo units placed in alternating directions, 0228-N"
 
-[T-ui-0228-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=tct&b1=ctc&d1=ctc&a2=ctc&c2=ctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=86-5,4-5-
-[T-uy-0228-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=tct&b1=ctc&d1=ctc&a2=ctc&c2=ctc&b3=ctc&c3=tct&d3=ctc&a4=ctc&c4=ctc&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=0&shiftRowsSW=4&tile=15-2,7-5-,-586,5-4-
-[T-uy-0267-L]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctc&b1=ctcr&d1=ctct&a2=ctct&c2=ctcl&b3=ctcl&c3=ctc&d3=ctct&a4=ctcr&c4=ctct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=0&shiftRowsSW=4&tile=15-2,7-5-,-586,5-4-
+[t-ui-0228-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=tct&b1=ctc&d1=ctc&a2=ctc&c2=ctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=86-5,4-5-
+[t-uy-0228-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=tct&b1=ctc&d1=ctc&a2=ctc&c2=ctc&b3=ctc&c3=tct&d3=ctc&a4=ctc&c4=ctc&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=0&shiftRowsSW=4&tile=15-2,7-5-,-586,5-4-
+[t-uy-0267-L]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctc&b1=ctcr&d1=ctct&a2=ctct&c2=ctcl&b3=ctcl&c3=ctc&d3=ctct&a4=ctcr&c4=ctct&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=0&shiftRowsSW=4&tile=15-2,7-5-,-586,5-4-
 
 ### crossed
 
@@ -331,13 +331,13 @@ Equivalent to the little snowflake.
 [![][p-0775]][t-0775]
 <p style="clear: both"></p>
 
-[p-71]: ../images/bias/G-71.png?align=right "stretched bias"
-[p-73]: ../images/bias/G-73.png?align=right "little snowflake"
-[p-74]: ../images/bias/G-74.png?align=right
+[p-71]: ../images/bias/G-71.svg?align=right "stretched bias"
+[p-73]: ../images/bias/G-73.svg?align=right "little snowflake"
+[p-74]: ../images/bias/G-74.svg?align=right
 
-[p-0714]: ../images/bias/G-71.png
-[p-0759]: ../images/bias/G-73.png
-[p-0775]: ../images/bias/G-74.png
+[p-0714]: ../images/bias/G-71.svg
+[p-0759]: ../images/bias/G-73.svg
+[p-0775]: ../images/bias/G-74.svg
 
 [t-0714]: /GroundForge/stitches?patchWidth=12&patchHeight=20&a1=ctctctc&b1=tct&c1=ctctctc&b2=ctc&a3=ctc&c3=ctc&d4=ctc&tile=B8D-,-4--,B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 [t-0759]: /GroundForge/stitches?patchWidth=12&patchHeight=20&b1=ctc&a2=ctctctc&c2=tct&b3=ctc&a4=tct&c4=ctctctc&b5=ctc&a6=ctc&c6=ctc&tile=-5--,B-C-,-5--,B-C-,-5--,B-C-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6

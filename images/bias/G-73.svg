@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14.177mm" height="22.192mm" version="1.1" viewBox="0 0 14.177 22.192" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-48.912 -124.9)">
+  <g fill="none" stroke="#000" stroke-width=".25">
+   <path d="m52 128c2.6669 2.6669 5.3336 5.3336 6.6668 8.0003 1.3332 2.6667 1.3332 5.3333 1.3332 7.9997"/>
+   <path d="m60 144c-2.6664-2.6664-5.3331-5.3331-6.6665-7.9998-1.3335-2.6667-1.3335-5.3333-1.3335-8.0002"/>
+   <path d="m58 146 2-2 2 2"/>
+   <path d="m50 126 2 2 2-2"/>
+  </g>
+  <g transform="matrix(-1 0 0 1 84.011 7.9255)">
+   <circle cx="32.011" cy="128.07" r=".32232" fill="#fafafa" fill-opacity=".98039" stroke="#fafafa" stroke-dashoffset="37.795" stroke-linejoin="round" stroke-opacity=".98039" stroke-width="1.1054" style="paint-order:normal"/>
+   <circle cx="32.011" cy="128.07" r=".24174" fill-opacity=".9759" style="paint-order:normal"/>
+  </g>
+  <g transform="matrix(-1 0 0 1 92.011 7.9255)">
+   <circle cx="32.011" cy="128.07" r=".32232" fill="#fafafa" fill-opacity=".98039" stroke="#fafafa" stroke-dashoffset="37.795" stroke-linejoin="round" stroke-opacity=".98039" stroke-width="1.1054" style="paint-order:normal"/>
+   <circle cx="32.011" cy="128.07" r=".24174" fill-opacity=".9759" style="paint-order:normal"/>
+  </g>
+  <path d="m58 126c0.66691 0.44588 1.3335 0.89156 1.8335 1.3916s0.83333 1.0544-0.66678 3.6648c-1.5001 2.6104-4.8334 7.277-6.3332 9.7771s-1.1665 2.8334-0.66652 3.3334c0.50001 0.50001 1.1667 1.1667 1.8331 1.8331" fill="none" stroke="#000" stroke-width=".25"/>
+  <path d="m62 126c-0.66666 0.66667-1.3333 1.3333-3.1667 2.8334-1.8334 1.5-4.8333 3.8333-6.3333 5.3332-1.5 1.4999-1.5 2.1665-1.3334 2.6665 0.16654 0.50001 0.49987 0.83334 2 0.33348s4.1667-1.8332 5.6666-2.3333c1.4999-0.50015 1.8333-0.16682 2 0.33318 0.1668 0.50001 0.1668 1.1667-1.3333 2.6668s-4.4999 3.8334-6.3333 5.3334c-1.8334 1.5-2.5 2.1667-3.1667 2.8333" fill="none" stroke="#000" stroke-width=".25"/>
+  <g transform="matrix(-1 0 0 1 84.011 -.074511)">
+   <circle cx="32.011" cy="128.07" r=".32232" fill="#fafafa" fill-opacity=".98039" stroke="#fafafa" stroke-dashoffset="37.795" stroke-linejoin="round" stroke-opacity=".98039" stroke-width="1.1054" style="paint-order:normal"/>
+   <circle cx="32.011" cy="128.07" r=".24174" fill-opacity=".9759" style="paint-order:normal"/>
+  </g>
+  <g transform="matrix(-1 0 0 1 92.011 -.074511)">
+   <circle cx="32.011" cy="128.07" r=".32232" fill="#fafafa" fill-opacity=".98039" stroke="#fafafa" stroke-dashoffset="37.795" stroke-linejoin="round" stroke-opacity=".98039" stroke-width="1.1054" style="paint-order:normal"/>
+   <circle cx="32.011" cy="128.07" r=".24174" fill-opacity=".9759" style="paint-order:normal"/>
+  </g>
+  <g transform="matrix(-1 0 0 1 84.011 15.925)">
+   <circle cx="32.011" cy="128.07" r=".32232" fill="#fafafa" fill-opacity=".98039" stroke="#fafafa" stroke-dashoffset="37.795" stroke-linejoin="round" stroke-opacity=".98039" stroke-width="1.1054" style="paint-order:normal"/>
+   <circle cx="32.011" cy="128.07" r=".24174" fill-opacity=".9759" style="paint-order:normal"/>
+  </g>
+  <g transform="matrix(-1 0 0 1 92.011 15.925)">
+   <circle cx="32.011" cy="128.07" r=".32232" fill="#fafafa" fill-opacity=".98039" stroke="#fafafa" stroke-dashoffset="37.795" stroke-linejoin="round" stroke-opacity=".98039" stroke-width="1.1054" style="paint-order:normal"/>
+   <circle cx="32.011" cy="128.07" r=".24174" fill-opacity=".9759" style="paint-order:normal"/>
+  </g>
+ </g>
+</svg>
