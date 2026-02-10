@@ -232,7 +232,7 @@ See also <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a>: E6.
 
 ### solo
 
-![short bias foto][foto-0228-OGy] 
+![short bias foto][foto-uy-0228] 
 Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter may give nice results in two colours. The placing of the units in alternating directions is also shown in mrs Irvine's paper _Developing a Mathematical Model for Bobbin Lace_. 
 <p style="clear: both"></p>
 
@@ -250,7 +250,7 @@ Take just one unit of the Bias ground and place them all in the same direction, 
 [p-bias-uy]: ../images/bias/g-bias-uy.svg?align=right "units in alternating directions"
 [p-uy-0228-N]: ../images/bias/g-bias-uy.svg? "0228-N"
 [p-uy-0267-L]: ../images/bias/g-bias-uy.svg? "0267-L, by V. Irvine"
-[foto-0228-OGy]: ../images/bias/g-0228-foto.jpg?align=right "solo units placed in alternating directions, 0228-N"
+[foto-uy-0228]: ../images/bias/uy-0228-foto.jpg?align=right "solo units placed in alternating directions, 0228-N"
 
 [T-ui-0228-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=tct&b1=ctc&d1=ctc&a2=ctc&c2=ctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=86-5,4-5-
 [T-uy-0228-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=tct&b1=ctc&d1=ctc&a2=ctc&c2=ctc&b3=ctc&c3=tct&d3=ctc&a4=ctc&c4=ctc&shiftColsSE=4&shiftRowsSE=4&shiftColsSW=0&shiftRowsSW=4&tile=15-2,7-5-,-586,5-4-
