@@ -306,7 +306,7 @@ Of course, this pull-back through two can be extended further: pull-back through
 <p style="clear: both"></p>
 
 [p-32]: ../images/bias/G32.svg?align=right "bias with vertical"
-[p-3228-R]: ../images/bias/G32.svg "3228-R"
+[p-3228-R]: ../images/bias/3228-R.svg "3228-R"
 
 [t-3228-R]: /GroundForge/stitches?patchWidth=12&patchHeight=20&b1=ctc&c1=ctc&d1=ctc&b2=ctc&c2=ctctc&d2=ctc&b3=ctcr&c3=ctc&d3=ctcl&a4=ttctctt&tile=-C3B,-488,-148,5---&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
