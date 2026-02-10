@@ -25,8 +25,8 @@ title: Bias grounds
 * [Double bias](#double-bias)
 * [Bias with vertical](#bias-with-vertical)
 * [Stretched](#stretched)    
-** [stretched bias](#stretched-bias)
-** [small snowflake](#equivalent-to-the-small-snowflake)
+** [stretched bias](#stretched-bias)    
+** [small snowflake](#equivalent-to-the-small-snowflake)    
 ** [zig-zag](#zig-zags)
 
 ## Introduction
