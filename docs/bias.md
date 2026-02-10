@@ -170,7 +170,7 @@ See also <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a>: D6 a
 
 See also <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a>: E6.  
 
-[![][p-aa-0280-LL]][T-xa-0280-LL] 
+[![][p-xa-0280-LL]][T-xa-0280-LL] 
 
 <p style="clear: both"></p>
 
@@ -219,7 +219,7 @@ See also <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a>: E6.
 
 ## Bias Ground crossed and in a diamond
 
-[![][p-bias-unx]][t-bias-unx]
+![][p-bias-unx]
 [![][p-unx-0221-N]][t-unx-0221-N]
 <p style="clear: both"></p>
 
@@ -258,7 +258,7 @@ Take just one unit of the Bias ground and place them all in the same direction, 
 
 ### crossed
 
-![alternating and cross][p-bias-ux]
+![alternating and cross][p-bias-uix]
 [![][p-uix-0248-N]][t-uix-0248-N]
 Take one unit of the Bias ground, place them in alternating directions, and cross at the corners.  
 <p style="clear: both"></p>
@@ -319,16 +319,16 @@ These grounds also look nice when made on a hexagonal raster, connecting the uni
 A bias ground, stretched vertically, as found in <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a> F4.
 <p style="clear: both"></p>
 
-![[p-0714]][t-0714]
+![][p-0714]][t-0714]
 
 ![][p-73]
 Equivalent to the little snowflake.
 <p style="clear: both"></p>
 
-![[p-0759]][t-0759]
+![][p-0759]][t-0759]
 
 ![][p-74]
-![[p-0775]][t-0775]
+![][p-0775]][t-0775]
 <p style="clear: both"></p>
 
 [p-71]: ../images/bias/G-71.png?align=right "stretched bias"
