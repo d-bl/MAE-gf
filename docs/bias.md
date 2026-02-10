@@ -25,6 +25,9 @@ title: Bias grounds
 * [Double bias](#double-bias)
 * [Bias with vertical](#bias-with-vertical)
 * [Stretched](#stretched)
+** [stretched bias](#stretched-bias)
+** [small snowflake](#equivalent-to-the-small-snowflake)
+** [zig-zag](#zig-zags)
 
 ## Introduction
 
@@ -312,27 +315,31 @@ Of course, this pull-back through two can be extended further: pull-back through
 
 ## Stretched
 
-The pictures below show three different units. The units are placed like the white tiles on a checkerboard.   
+The examples below show three different units. The units are placed like the white tiles on a checkerboard.   
 These grounds also look nice when made on a hexagonal raster, connecting the units with a short plait.
 
+### stretched bias
+
+A bias ground, stretched vertically, as found in <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a> F4.    
+
 ![][p-71]
-A bias ground, stretched vertically, as found in <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a> F4.
+[![][p-0714]][t-0714]
 <p style="clear: both"></p>
 
-[![][p-0714]][t-0714]
+### equivalent to the small snowflake
 
 ![][p-73]
-Equivalent to the little snowflake.
+[![][p-0759]][t-0759]
 <p style="clear: both"></p>
 
-[![][p-0759]][t-0759]
+### zig-zags
 
 ![][p-74]
 [![][p-0775]][t-0775]
 <p style="clear: both"></p>
 
 [p-71]: ../images/bias/G-71.svg?align=right "stretched bias"
-[p-73]: ../images/bias/G-73.svg?align=right "little snowflake"
+[p-73]: ../images/bias/G-73.svg?align=right "small snowflake"
 [p-74]: ../images/bias/G-74.svg?align=right
 
 [p-0714]: ../images/bias/0714.svg
