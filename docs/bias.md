@@ -335,9 +335,9 @@ Equivalent to the little snowflake.
 [p-73]: ../images/bias/G-73.svg?align=right "little snowflake"
 [p-74]: ../images/bias/G-74.svg?align=right
 
-[p-0714]: ../images/bias/G-71.svg
-[p-0759]: ../images/bias/G-73.svg
-[p-0775]: ../images/bias/G-74.svg
+[p-0714]: ../images/bias/0714.svg
+[p-0759]: ../images/bias/0759.svg
+[p-0775]: ../images/bias/0775.svg
 
 [t-0714]: /GroundForge/stitches?patchWidth=12&patchHeight=20&a1=ctctctc&b1=tct&c1=ctctctc&b2=ctc&a3=ctc&c3=ctc&d4=ctc&tile=B8D-,-4--,B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 [t-0759]: /GroundForge/stitches?patchWidth=12&patchHeight=20&b1=ctc&a2=ctctctc&c2=tct&b3=ctc&a4=tct&c4=ctctctc&b5=ctc&a6=ctc&c6=ctc&tile=-5--,B-C-,-5--,B-C-,-5--,B-C-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6
