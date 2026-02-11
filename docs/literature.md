@@ -5,7 +5,9 @@ title: Literature
 
 # Literature
 
-Some of the publications listed here are mentioned on this website. Others are for more inspiration. Of course, this list is incomplete.      
+Please note that GroundForge and all its galleries do not replace but complement the books listed here. 
+GroundForge is meant to explore and experiment with the patterns, to create variations and to share them.
+Some of the publications are mentioned on this website. Of course, this list is incomplete.      
 
 * N. Andries: Naar de bron (Binche)      
 * N. Andries, H. de Kok, G Landuyt and others: Van speldengrond tot Turnhoutse kant
