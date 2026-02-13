@@ -238,7 +238,7 @@ See also <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a>: E6.
 ### solo
 
 ![short bias foto][foto-uy-0228] 
-Take just one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter may give nice results in two colours. The placing of the units in alternating directions is also shown in mrs Irvine's paper _Developing a Mathematical Model for Bobbin Lace_. 
+Take one unit of the Bias ground and place them all in the same direction, or in alternating directions. The latter may give nice results in two colours. The placing of the units in alternating directions is also shown in mrs Irvine's paper _Developing a Mathematical Model for Bobbin Lace_. 
 <p style="clear: both"></p>
 
 ![same direction][p-bias-ui]
@@ -252,7 +252,7 @@ Take just one unit of the Bias ground and place them all in the same direction, 
 
 [p-bias-ui]: ../images/bias/g-bias-ui.svg?align=right "units in same direction"
 [p-bias-uy]: ../images/bias/g-bias-uy.svg?align=right "units in alternating directions"
-[p-ui-0228-N]: ../images/bias/p-ui-0228-N.svg "0228-N"
+[p-ui-0228-N]: ../images/bias/ui-0228-N.svg "0228-N"
 [p-uy-0228-N]: ../images/bias/uy-0228-N.svg "0228-N"
 [p-uy-0267-L]: ../images/bias/uy-0267-L.svg "0267-L, by V. Irvine"
 [foto-uy-0228]: ../images/bias/uy-0228-foto.jpg?align=right "solo units placed in alternating directions, 0228-N"
@@ -263,9 +263,11 @@ Take just one unit of the Bias ground and place them all in the same direction, 
 
 ### crossed
 
+Take one unit of the Bias ground, place them in alternating directions, and cross at the corners.  
+
 ![alternating and cross][p-bias-uix]
 [![][p-uix-0248-N]][t-uix-0248-N]
-Take one unit of the Bias ground, place them in alternating directions, and cross at the corners.  
+
 <p style="clear: both"></p>
 
 [p-bias-uix]: ../images/bias/g-bias-uix.svg?align=right "alternating and crossed"
@@ -294,10 +296,10 @@ Take one unit of the Bias ground, place them in alternating directions, and cros
 ## Double bias
 
 ![double bias][p-bias-d2]
-Of course, this pull-back through two can be extended further: pull-back through three, through four, ... However, GroundForge does not support working upwards.
+[![][p-d2-01]][t-d2-01]
 <p style="clear: both"></p>
 
-[![][p-d2-01]][t-d2-01]
+Pull back through two instead of through one. Of course, this pull-back through two can be extended further: pull-back through three, through four, ... However, GroundForge does not support working upwards.
 
 [p-bias-d2]: ../images/bias/g-bias-d2.svg?align=right "double bias"
 [p-d2-01]: ../images/bias/d2-01.svg
