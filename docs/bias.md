@@ -213,7 +213,7 @@ See also <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a>: E6.
 
 ## Unit bias in a diamond
 
-[![][p-bias-uni]
+![][p-bias-uni]
 [![][p-uni-0235-L]][t-uni-0235-L]
 <p style="clear: both"></p>
 
@@ -252,9 +252,9 @@ Take just one unit of the Bias ground and place them all in the same direction, 
 
 [p-bias-ui]: ../images/bias/g-bias-ui.svg?align=right "units in same direction"
 [p-bias-uy]: ../images/bias/g-bias-uy.svg?align=right "units in alternating directions"
-[p-ui-0228-N]: ../images/bias/p-ui-0228-N.svg? "0228-N"
-[p-uy-0228-N]: ../images/bias/uy-0228-N.svg? "0228-N"
-[p-uy-0267-L]: ../images/bias/uy-0267-L.svg? "0267-L, by V. Irvine"
+[p-ui-0228-N]: ../images/bias/p-ui-0228-N.svg "0228-N"
+[p-uy-0228-N]: ../images/bias/uy-0228-N.svg "0228-N"
+[p-uy-0267-L]: ../images/bias/uy-0267-L.svg "0267-L, by V. Irvine"
 [foto-uy-0228]: ../images/bias/uy-0228-foto.jpg?align=right "solo units placed in alternating directions, 0228-N"
 
 [t-ui-0228-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=tct&b1=ctc&d1=ctc&a2=ctc&c2=ctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=86-5,4-5-
@@ -269,7 +269,7 @@ Take one unit of the Bias ground, place them in alternating directions, and cros
 <p style="clear: both"></p>
 
 [p-bias-uix]: ../images/bias/g-bias-uix.svg?align=right "alternating and crossed"
-[p-uix-0248-N]: ../images/bias/uix-0248-N "alternating and crossed, 0248-N"
+[p-uix-0248-N]: ../images/bias/uix-0248-N.svg "alternating and crossed, 0248-N"
 
 [t-uix-0248-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctc&b1=ctc&a1=tct&d2=c&c2=ctc&b2=c&a2=ctc&d3=ctc&c3=tct&b3=ctc&d4=c&c4=ctc&b4=c&a4=ctc&tile=88-4,4831,-117,3178,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
