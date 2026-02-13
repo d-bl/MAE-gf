@@ -31,12 +31,13 @@ title: Bias grounds
 
 ## Introduction
 
-Traditionally, a bias ground is made as follows: make two stitches diagonally, make a stitch in the middle with these two, make two diagonal, stitch in the middle, etc.         
-Sometimes, the bias ground is referred to as [_rose ground_](roses), especially the _bias crossed rose style_ and _crossed short bias_.        
+On this page several variants of the bias ground. 
+Sometimes, the bias ground is referred to as [_rose ground_](roses), especially the _bias crossed rose style_ and _crossed short bias_.
 
 ## Traditional Bias Ground
 
-![traditional][p-0221-tr] 
+![traditional][p-0221-tr]
+Traditionally, a bias ground is made as follows: make two stitches diagonally, make a stitch in the middle with these two, make two diagonal, stitch in the middle, etc.
 <p style="clear: both"></p>
 
 [p-0221-tr]: ../images/bias/g-bias-tr.svg?align=right "traditional bias ground"
@@ -151,13 +152,11 @@ Sometimes, the bias ground is referred to as [_rose ground_](roses), especially 
 
 ##  Bias Ground crossed rose style
 
-![crossed][p-bias-xt]
-
 This ground is also called _rose ground_.         
 See also <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a>: D6 and F4.
 
+![crossed][p-bias-xt]
 [![][p-xt-0278-KK]][t-xt-0278-KK] 
-
 <p style="clear: both"></p>
 
 [p-bias-xt]: ../images/bias/g-bias-xt.svg?align=right "tradtional bias crossed, 0278-KK"
@@ -169,12 +168,10 @@ See also <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a>: D6 a
 
 ## Bias Ground crossed alternating
 
+See also <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a>: E6.
+
 ![][p-bias-xa]
-
-See also <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a>: E6.  
-
 [![][p-xa-0280-LL]][t-xa-0280-LL] 
-
 <p style="clear: both"></p>
 
 [p-bias-xa]: ../images/bias/g-bias-xa.svg?align=right "alternated bias crossing, 0280-LL"
@@ -263,7 +260,7 @@ Take one unit of the Bias ground and place them all in the same direction, or in
 
 ### crossed
 
-Take one unit of the Bias ground, place them in alternating directions, and cross at the corners.  
+Take one unit of the Bias ground, place them in alternating directions, and cross at the corners.
 
 ![alternating and cross][p-bias-uix]
 [![][p-uix-0248-N]][t-uix-0248-N]
@@ -324,7 +321,7 @@ These grounds also look nice when made on a hexagonal raster, connecting the uni
 
 ### stretched bias
 
-A bias ground, stretched vertically, as found in <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a> F4.    
+A bias ground, stretched vertically, as found in <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a> F4.  
 
 ![][p-71]
 [![][p-0714]][t-0714]
