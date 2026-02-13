@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg width="175" height="175" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(.24971 0 0 .24987 -105.01 -53.687)" fill="none">
+  <g stroke="#000" stroke-width="4.0034">
+   <path class="link thread12 WhiteEnd" d="m1119 912.75 17.029-1.2956"/>
+   <path class="link thread11 WhiteEnd" d="m1092.9 918.99 19.088 13.533"/>
+   <path class="link thread8 WhiteStart" d="m1118.4 918.73-1.5645 17.267"/>
+   <path class="link thread12 WhiteStart" d="m1098.7 917.6 20.253-4.8444"/>
+   <path class="link thread8 WhiteEnd" d="m1125.4 886.74-4.9555 20.185"/>
+   <path class="link thread12 WhiteEnd" d="m1060.3 920.25 26.56-1.0289"/>
+   <path class="link thread11 WhiteStart" d="m1081.2 907.26 11.688 11.737"/>
+   <path class="link thread69 WhiteEnd" d="m1047 906.66-17.584 28.949"/>
+   <path class="link thread12 WhiteStart" d="m1051.2 910.94 9.1428 9.3116"/>
+   <path class="link thread70 WhiteEnd" d="m1077 903-12.468 12.93"/>
+   <path class="link thread11 WhiteEnd" d="m1064.3 890.39 8.4085 8.377"/>
+   <path class="link thread70 WhiteStart" d="m1084.7 885.94-7.7202 17.067"/>
+   <path class="link thread12 WhiteEnd" d="m1048.4 873.86-1.1447 26.809"/>
+   <path class="link thread69 WhiteStart" d="m1059.9 894.5-12.947 12.16"/>
+   <path class="link thread11 WhiteStart" d="m1052.5 878.18 11.758 12.213"/>
+   <path class="link thread69 WhiteEnd" d="m1087.2 880.47-17.348 7.532"/>
+   <path class="link thread7 WhiteEnd" d="m1109.7 870.87 11.432 11.596"/>
+   <path class="link thread8 WhiteStart" d="m1126.7 860.22-1.3714 26.521"/>
+   <path class="link thread70 WhiteEnd" d="m1096.8 857.99-7.3134 16.972"/>
+   <path class="link thread69 WhiteStart" d="m1104.2 873.22-17.038 7.25"/>
+   <path class="link thread7 WhiteStart" d="m1101.1 862.23 8.6309 8.6385"/>
+   <path class="link thread69 WhiteEnd" d="m1127 854.23-12.999 12.488"/>
+   <path class="link thread8 WhiteEnd" d="m1113.5 841.23 9.1885 8.8395"/>
+   <path class="link thread7 WhiteEnd" d="m1080.3 842.1 12.197 11.728"/>
+   <path class="link thread70 WhiteStart" d="m1109.3 845.48-12.452 12.509"/>
+   <path class="link thread8 WhiteStart" d="m1086.3 841.95 27.209-0.7167"/>
+   <path class="link thread70 WhiteEnd" d="m1148 820.71-29.298 17.452"/>
+   <path class="link thread8 WhiteEnd" d="m1054.9 848.3 19.626-4.7746"/>
+   <path class="link thread7 WhiteStart" d="m1061.3 828.13 18.985 13.973"/>
+   <path class="link thread11 WhiteEnd" d="m1031.3 849.97 13.629 19.014"/>
+   <path class="link thread12 WhiteStart" d="m1053.4 854.11-5.0071 19.746"/>
+   <path class="link thread8 WhiteStart" d="m1037.2 849.54 17.621-1.2473"/>
+   <path class="link thread12 WhiteEnd" d="m1056.5 824.57-1.2252 17.737"/>
+   <path class="link thread7 WhiteEnd" d="m1034.1 827.65 16.437-2.2584"/>
+   <path class="link thread12 WhiteStart" d="m1053.2 795.36 3.3047 29.215"/>
+   <path class="link thread8 WhiteEnd" d="m996 845.79 29.299 3.4717"/>
+   <path class="link thread11 WhiteStart" d="m1033.4 833.6-2.0997 16.367"/>
+   <path class="link thread7 WhiteStart" d="m1020.4 825.43 13.705 2.2196"/>
+   <path class="link thread11 WhiteEnd" d="m1031.1 808.02 2.0767 13.699"/>
+  </g>
+  <g stroke-width="4.0034">
+   <path class="link thread3 WhiteStart" d="m942.26 913.9 11.156 30.448" stroke="#90f"/>
+   <path class="link thread64 WhiteEnd" d="m899.94 912.82-18.17 31.904" stroke="#000"/>
+   <path class="link thread4 WhiteStart" d="m904.17 917.07 13.792 13.867" stroke="#90f"/>
+   <path class="link thread63 WhiteEnd" d="m940.19 908.27-18.034 18.387" stroke="#000"/>
+   <path class="link thread3 WhiteEnd" d="m922.22 890.82 13.665 13.267" stroke="#90f"/>
+   <path class="link thread63 WhiteStart" d="m957.23 874.01-17.037 34.254" stroke="#000"/>
+   <path class="link thread4 WhiteEnd" d="m887.8 878.82 10.12 28.35" stroke="#90f"/>
+   <path class="link thread64 WhiteStart" d="m917.95 895.04-18.018 17.782" stroke="#000"/>
+   <path class="link thread3 WhiteStart" d="m893.46 880.79 28.76 10.029" stroke="#90f"/>
+  </g>
+  <g stroke="#000" stroke-width="4.0034">
+   <path class="link thread64 WhiteEnd" d="m959.9 868.64-32.508 19.136"/>
+   <path class="link thread63 WhiteEnd" d="m979.6 830.55-16.942 32.759"/>
+   <path class="link thread64 WhiteStart" d="m990.93 849-31.031 19.644"/>
+   <path class="link thread8 WhiteStart" d="m984 834.64 12.006 11.152"/>
+   <path class="link thread64 WhiteEnd" d="m1014.5 824.47-14.561 16.787"/>
+   <path class="link thread7 WhiteEnd" d="m1000.6 810.6 9.6905 9.6418"/>
+   <path class="link thread64 WhiteStart" d="m1026.9 812.23-12.384 12.235"/>
+   <path class="link thread8 WhiteEnd" d="m971.03 796.07 7.1275 28.664"/>
+   <path class="link thread63 WhiteStart" d="m996.21 814.73-16.607 15.819"/>
+   <path class="link thread7 WhiteStart" d="m997.81 796.11 2.7428 14.489"/>
+   <path class="link thread63 WhiteEnd" d="m1017.4 794.1-12.569 12.301"/>
+   <path class="link thread11 WhiteStart" d="m1021.6 798.37 9.5237 9.6493"/>
+   <path class="link thread64 WhiteEnd" d="m1052.5 789.4-16.854 14.681"/>
+   <path class="link thread12 WhiteEnd" d="m1037.3 773.39 11.131 11.664"/>
+   <path class="link thread64 WhiteStart" d="m1072.4 758.69-19.919 30.702"/>
+   <path class="link thread11 WhiteEnd" d="m996.69 790.21 14.819 2.7803"/>
+   <path class="link thread63 WhiteStart" d="m1033.1 777.72-15.693 16.375"/>
+   <path class="link thread12 WhiteStart" d="m1008.1 766 29.15 7.39"/>
+   <path class="link thread63 WhiteEnd" d="m1075.7 753.66-33.119 16.992"/>
+   <path class="link thread68 WhiteEnd" d="m780.26 912.56 12.053 10.618"/>
+   <path class="link thread62 WhiteStart" d="m814.46 894.03-17.65 33.11"/>
+   <path class="link thread61 WhiteStart" d="m776.36 917.12-14.493 16.969"/>
+   <path class="link thread68 WhiteStart" d="m750.4 909.19 29.858 3.3705"/>
+   <path class="link thread61 WhiteEnd" d="m817.29 888.74-31.981 20.574"/>
+   <path class="link thread9 WhiteEnd" d="m744.44 908.51-1.8435 16.603"/>
+   <path class="link thread68 WhiteEnd" d="m721.33 910.41 17.134-1.4076"/>
+   <path class="link thread9 WhiteStart" d="m731.04 889.13 13.395 19.383"/>
+   <path class="link thread67 WhiteEnd" d="m695.25 916.75 19.271 13.539"/>
+   <path class="link thread10 WhiteStart" d="m720.84 916.39-1.4077 17.348"/>
+   <path class="link thread68 WhiteStart" d="m701.08 915.33 20.243-4.9219"/>
+   <path class="link thread10 WhiteEnd" d="m727.63 884.19-4.9043 20.384"/>
+   <path class="link thread11 WhiteStart" d="m976.88 794.73 19.818-4.5209"/>
+   <path class="link thread7 WhiteEnd" d="m1002.3 764.53-4.3176 19.822"/>
+   <path class="link thread12 WhiteEnd" d="m976.94 770.71 19.52-4.7644"/>
+   <path class="link thread7 WhiteStart" d="m995.44 735.65 6.8464 28.875"/>
+   <path class="link thread11 WhiteEnd" d="m936.44 787.67 28.756 6.978"/>
+   <path class="link thread8 WhiteStart" d="m975.58 776.56-4.55 19.51"/>
+   <path class="link thread12 WhiteStart" d="m962.4 767.96 14.539 2.7504"/>
+   <path class="link thread8 WhiteEnd" d="m973.32 750.15 2.5813 14.653"/>
+  </g>
+  <g stroke-width="4.0034">
+   <path class="link thread3 WhiteEnd" d="m854.16 867.34 27.959 9.542" stroke="#90f"/>
+   <path class="link thread4 WhiteStart" d="m878.36 850.36 9.4373 28.455" stroke="#90f"/>
+   <path class="link thread62 WhiteEnd" d="m836.12 849.17-16.258 34.146" stroke="#000"/>
+   <path class="link thread61 WhiteStart" d="m848.97 870.35-31.686 18.387" stroke="#000"/>
+   <path class="link thread3 WhiteStart" d="m840.35 853.43 13.81 13.907" stroke="#90f"/>
+   <path class="link thread61 WhiteEnd" d="m876.47 844.67-18.103 18.394" stroke="#000"/>
+   <path class="link thread4 WhiteEnd" d="m858.44 827.2 13.721 13.289" stroke="#90f"/>
+   <path class="link thread61 WhiteStart" d="m895.49 812.6-19.018 32.064" stroke="#000"/>
+   <path class="link thread3 WhiteEnd" d="m822.09 813.21 11.855 30.371" stroke="#90f"/>
+   <path class="link thread62 WhiteStart" d="m854.17 831.41-18.042 17.76" stroke="#000"/>
+   <path class="link thread4 WhiteStart" d="m827.69 815.37 30.755 11.836" stroke="#90f"/>
+  </g>
+  <g stroke="#000" stroke-width="4.0034">
+   <path class="link thread62 WhiteEnd" d="m898.55 807.44-34.728 17.11"/>
+   <path class="link thread61 WhiteEnd" d="m921.39 771.09-19.644 31.267"/>
+   <path class="link thread62 WhiteStart" d="m931.12 790.45-32.568 16.993"/>
+   <path class="link thread11 WhiteStart" d="m925.42 775.54 11.018 12.137"/>
+   <path class="link thread62 WhiteEnd" d="m956.5 766.85-15.902 16.505"/>
+   <path class="link thread12 WhiteEnd" d="m942.8 752.74 9.5237 9.8007"/>
+   <path class="link thread62 WhiteStart" d="m969.06 754.38-12.555 12.468"/>
+   <path class="link thread11 WhiteEnd" d="m917.13 735.85 3.5367 29.289"/>
+   <path class="link thread61 WhiteStart" d="m938.24 756.65-16.856 14.445"/>
+   <path class="link thread12 WhiteStart" d="m940.58 739.13 2.2215 13.617"/>
+   <path class="link thread61 WhiteEnd" d="m959.42 736.4-12.345 12.137"/>
+   <path class="link thread68 WhiteEnd" d="m662.79 917.9 26.461-0.93812"/>
+   <path class="link thread67 WhiteStart" d="m683.48 904.99 11.769 11.757"/>
+  </g>
+  <g stroke-width="4.0034">
+   <path class="link thread58 WhiteEnd" d="m649.4 904.37-17.111 28.508" stroke="#90f"/>
+   <path class="link thread68 WhiteStart" d="m653.62 908.63 9.173 9.267" stroke="#000"/>
+   <path class="link thread57 WhiteEnd" d="m679.24 900.75-12.29 12.818" stroke="#90f"/>
+   <path class="link thread67 WhiteEnd" d="m666.54 888.2 8.4299 8.3321" stroke="#000"/>
+   <path class="link thread57 WhiteStart" d="m686.89 883.61-7.6527 17.14" stroke="#90f"/>
+   <path class="link thread68 WhiteEnd" d="m650.64 871.8-1.0154 26.57" stroke="#000"/>
+   <path class="link thread58 WhiteStart" d="m662.18 892.32-12.775 12.05" stroke="#90f"/>
+   <path class="link thread67 WhiteStart" d="m654.82 876.11 11.719 12.09" stroke="#000"/>
+   <path class="link thread58 WhiteEnd" d="m689.34 878.13-17.308 7.6448" stroke="#90f"/>
+  </g>
+  <g stroke="#000" stroke-width="4.0034">
+   <path class="link thread8 WhiteStart" d="m963.69 740.62 9.6295 9.53"/>
+   <path class="link thread62 WhiteEnd" d="m994.06 729.81-16.457 16.137"/>
+   <path class="link thread7 WhiteEnd" d="m977.57 715.11 12.012 10.713"/>
+   <path class="link thread62 WhiteStart" d="m1011.2 697.27-17.108 32.54"/>
+   <path class="link thread8 WhiteEnd" d="m939.61 733.21 13.888 2.2401"/>
+   <path class="link thread61 WhiteStart" d="m973.68 719.67-14.254 16.727"/>
+   <path class="link thread7 WhiteStart" d="m948.01 711.38 29.555 3.7268"/>
+   <path class="link thread61 WhiteEnd" d="m1014 691.96-31.327 19.924"/>
+   <path class="link thread9 WhiteEnd" d="m711.94 868.33 11.474 11.599"/>
+   <path class="link thread10 WhiteStart" d="m729.1 857.29-1.467 26.908"/>
+  </g>
+  <g stroke-width="4.0034">
+   <path class="link thread57 WhiteEnd" d="m699.07 855.52-7.3639 17.1" stroke="#90f"/>
+   <path class="link thread58 WhiteStart" d="m706.43 870.72-17.099 7.4169" stroke="#90f"/>
+   <path class="link thread9 WhiteStart" d="m703.33 859.76 8.6136 8.573" stroke="#000"/>
+   <path class="link thread58 WhiteEnd" d="m729.43 851.29-13.189 12.848" stroke="#90f"/>
+   <path class="link thread10 WhiteEnd" d="m715.91 838.36 9.1816 8.782" stroke="#000"/>
+   <path class="link thread58 WhiteStart" d="m747.67 822-18.245 29.298" stroke="#90f"/>
+   <path class="link thread9 WhiteEnd" d="m682.59 839.82 12.135 11.563" stroke="#000"/>
+   <path class="link thread57 WhiteStart" d="m711.71 842.65-12.634 12.876" stroke="#90f"/>
+   <path class="link thread10 WhiteStart" d="m688.59 839.56 27.32-1.1942" stroke="#000"/>
+   <path class="link thread57 WhiteEnd" d="m750.84 816.9-29.822 18.321" stroke="#90f"/>
+  </g>
+  <g stroke="#000" stroke-width="4.0034">
+   <path class="link thread10 WhiteEnd" d="m657.15 846.28 19.632-4.9794"/>
+   <path class="link thread9 WhiteStart" d="m663.8 826.09 18.795 13.731"/>
+   <path class="link thread67 WhiteEnd" d="m633.67 848.1 13.485 18.824"/>
+   <path class="link thread68 WhiteStart" d="m655.67 852.09-5.0206 19.715"/>
+   <path class="link thread10 WhiteStart" d="m639.65 847.64 17.499-1.3622"/>
+   <path class="link thread68 WhiteEnd" d="m658.95 822.55-1.3525 17.742"/>
+   <path class="link thread9 WhiteEnd" d="m636.65 825.89 16.375-2.4516"/>
+   <path class="link thread68 WhiteStart" d="m656.18 793.29 2.776 29.261"/>
+   <path class="link thread10 WhiteEnd" d="m598.83 843.96 28.873 3.4333"/>
+   <path class="link thread67 WhiteStart" d="m635.85 831.84-2.1823 16.266"/>
+   <path class="link thread9 WhiteStart" d="m623.13 823.74 13.511 2.1486"/>
+   <path class="link thread67 WhiteEnd" d="m633.97 806.27 1.8616 13.671"/>
+  </g>
+  <g stroke="#90f" stroke-width="4.0034">
+   <path class="link thread4 WhiteEnd" d="m787.3 799.03 29.228 11.914"/>
+   <path class="link thread3 WhiteStart" d="m810.27 783.37 11.812 29.844"/>
+   <path class="link thread58 WhiteEnd" d="m768.6 780.16-15.142 31.342"/>
+   <path class="link thread57 WhiteStart" d="m781.91 801.67-31.071 15.23"/>
+   <path class="link thread4 WhiteStart" d="m772.82 784.42 14.483 14.613"/>
+   <path class="link thread57 WhiteEnd" d="m808.07 777.79-16.57 16.952"/>
+   <path class="link thread3 WhiteEnd" d="m789.42 759.6 14.347 14.001"/>
+   <path class="link thread57 WhiteStart" d="m823.85 746.22-15.789 31.565"/>
+   <path class="link thread4 WhiteEnd" d="m753.96 744.97 12.331 29.645"/>
+   <path class="link thread58 WhiteStart" d="m785.15 763.81-16.559 16.346"/>
+   <path class="link thread3 WhiteStart" d="m759.51 747.26 29.918 12.337"/>
+   <path class="link thread58 WhiteEnd" d="m826.54 740.86-31.758 16.035"/>
+  </g>
+  <g stroke="#000" stroke-width="4.0034">
+   <path class="link thread8 WhiteStart" d="m923.09 735.15 16.521-1.9425"/>
+   <path class="link thread12 WhiteEnd" d="m942.06 710.63-1.8022 16.611"/>
+   <path class="link thread7 WhiteEnd" d="m919.05 712.44 17.025-1.3422"/>
+   <path class="link thread12 WhiteStart" d="m928.65 691.18 13.413 19.454"/>
+   <path class="link thread8 WhiteEnd" d="m893.02 718.8 19.211 13.588"/>
+   <path class="link thread11 WhiteStart" d="m918.56 718.42-1.4312 17.425"/>
+   <path class="link thread7 WhiteStart" d="m898.85 717.37 20.203-4.9303"/>
+   <path class="link thread11 WhiteEnd" d="m925.24 686.24-4.8088 20.368"/>
+   <path class="link thread73 WhiteStart" d="m546.03 910.9 11.141 30.09"/>
+   <path class="link thread53 WhiteEnd" d="m504.35 909.25-17.562 30.569"/>
+   <path class="link thread74 WhiteStart" d="m508.57 913.52 13.579 13.743"/>
+   <path class="link thread54 WhiteEnd" d="m543.95 905.27-17.579 17.728"/>
+   <path class="link thread73 WhiteEnd" d="m526.23 887.93 13.436 13.15"/>
+   <path class="link thread54 WhiteStart" d="m560.58 871.72-16.628 33.55"/>
+   <path class="link thread74 WhiteEnd" d="m492.53 875.96 9.8122 27.638"/>
+   <path class="link thread53 WhiteStart" d="m521.93 892.11-17.58 17.135"/>
+   <path class="link thread73 WhiteStart" d="m498.19 877.97 28.042 9.9612"/>
+   <path class="link thread53 WhiteEnd" d="m563.24 866.35-31.833 18.558"/>
+   <path class="link thread54 WhiteEnd" d="m582.68 828.93-16.671 32.088"/>
+   <path class="link thread53 WhiteStart" d="m593.76 847.16-30.513 19.19"/>
+   <path class="link thread10 WhiteStart" d="m587.07 833.02 11.762 10.941"/>
+   <path class="link thread53 WhiteEnd" d="m617.21 822.8-14.441 16.631"/>
+   <path class="link thread9 WhiteEnd" d="m603.47 809.08 9.4948 9.4801"/>
+   <path class="link thread53 WhiteStart" d="m629.7 810.49-12.492 12.313"/>
+   <path class="link thread10 WhiteEnd" d="m574.54 795.06 6.742 28.037"/>
+   <path class="link thread54 WhiteStart" d="m599.13 813.22-16.449 15.709"/>
+   <path class="link thread9 WhiteStart" d="m600.92 794.84 2.5438 14.236"/>
+   <path class="link thread54 WhiteEnd" d="m620.44 792.48-12.68 12.408"/>
+   <path class="link thread7 WhiteEnd" d="m860.48 720.16 26.547-1.109"/>
+   <path class="link thread8 WhiteStart" d="m881.27 707.02 11.753 11.778"/>
+  </g>
+  <g stroke-width="4.0034">
+   <path class="link thread57 WhiteEnd" d="m847.12 706.59-17.49 29.126" stroke="#90f"/>
+   <path class="link thread58 WhiteStart" d="m855.36 723.28-28.82 17.578" stroke="#90f"/>
+   <path class="link thread7 WhiteStart" d="m851.33 710.86 9.1528 9.2925" stroke="#000"/>
+   <path class="link thread58 WhiteEnd" d="m877.03 702.77-12.413 13.039" stroke="#90f"/>
+   <path class="link thread8 WhiteEnd" d="m864.35 690.2 8.4188 8.3486" stroke="#000"/>
+   <path class="link thread58 WhiteStart" d="m884.65 685.57-7.6186 17.202" stroke="#90f"/>
+   <path class="link thread7 WhiteEnd" d="m848.5 673.74-1.1309 26.856" stroke="#000"/>
+   <path class="link thread57 WhiteStart" d="m860 694.33-12.887 12.256" stroke="#90f"/>
+   <path class="link thread8 WhiteStart" d="m852.66 678.06 11.689 12.138" stroke="#000"/>
+   <path class="link thread57 WhiteEnd" d="m887.08 680.08-17.246 7.6752" stroke="#90f"/>
+  </g>
+  <g stroke="#000" stroke-width="4.0034">
+   <path class="link thread67 WhiteStart" d="m624.64 796.76 9.336 9.5162"/>
+   <path class="link thread53 WhiteEnd" d="m655.61 787.32-17.125 15.005"/>
+   <path class="link thread68 WhiteEnd" d="m640.63 771.54 10.849 11.427"/>
+   <path class="link thread53 WhiteStart" d="m676.19 755.93-20.575 31.382"/>
+   <path class="link thread67 WhiteEnd" d="m599.87 788.94 14.654 2.5204"/>
+   <path class="link thread54 WhiteStart" d="m636.47 775.86-16.03 16.619"/>
+   <path class="link thread68 WhiteStart" d="m611.8 764.86 28.833 6.6748"/>
+   <path class="link thread54 WhiteEnd" d="m679.48 750.92-33.545 17.808"/>
+   <path class="link thread12 WhiteEnd" d="m909.54 670.33 11.489 11.638"/>
+   <path class="link thread11 WhiteStart" d="m926.42 659.47-1.1769 26.766"/>
+  </g>
+  <g stroke-width="4.0034">
+   <path class="link thread58 WhiteEnd" d="m896.66 657.47-7.2409 17.089" stroke="#90f"/>
+   <path class="link thread57 WhiteStart" d="m904.03 672.72-16.953 7.3642" stroke="#90f"/>
+   <path class="link thread12 WhiteStart" d="m900.91 661.71 8.6297 8.6188" stroke="#000"/>
+   <path class="link thread57 WhiteEnd" d="m926.68 653.48-12.866 12.647" stroke="#90f"/>
+   <path class="link thread11 WhiteEnd" d="m913.18 640.49 9.1758 8.8278" stroke="#000"/>
+   <path class="link thread57 WhiteStart" d="m944.2 624.7-17.518 28.779" stroke="#90f"/>
+   <path class="link thread12 WhiteEnd" d="m880.21 641.67 12.123 11.645" stroke="#000"/>
+   <path class="link thread58 WhiteStart" d="m909 644.79-12.337 12.682" stroke="#90f"/>
+   <path class="link thread11 WhiteStart" d="m886.21 641.45 26.975-0.9662" stroke="#000"/>
+   <path class="link thread58 WhiteEnd" d="m947.32 619.57-29.021 17.781" stroke="#90f"/>
+  </g>
+  <g stroke="#000" stroke-width="4.0034">
+   <path class="link thread67 WhiteStart" d="m580.37 793.65 19.502-4.7148"/>
+   <path class="link thread9 WhiteEnd" d="m605.95 763.51-4.688 19.593"/>
+   <path class="link thread68 WhiteEnd" d="m580.78 770.09 19.367-5.0589"/>
+   <path class="link thread9 WhiteStart" d="m599.92 735.04 6.0334 28.466"/>
+   <path class="link thread67 WhiteEnd" d="m540.65 787.02 28.046 6.6581"/>
+   <path class="link thread10 WhiteStart" d="m579.33 775.91-4.7907 19.157"/>
+   <path class="link thread68 WhiteStart" d="m566.54 767.54 14.24 2.5495"/>
+   <path class="link thread10 WhiteEnd" d="m577.61 749.74 2.2473 14.415"/>
+  </g>
+  <g stroke-width="4.0034">
+   <path class="link thread15 WhiteEnd" d="m1114.5 735.61 29.878 11.747" stroke="#90f"/>
+   <path class="link thread64 WhiteEnd" d="m1096.3 717.3-17.636 31.143" stroke="#000"/>
+   <path class="link thread63 WhiteStart" d="m1109 738.14-33.318 15.518" stroke="#000"/>
+   <path class="link thread15 WhiteStart" d="m1100.5 721.56 13.939 14.053" stroke="#90f"/>
+   <path class="link thread63 WhiteEnd" d="m1136.2 713.7-17.507 17.654" stroke="#000"/>
+   <path class="link thread16 WhiteEnd" d="m1118.1 696.05 13.817 13.46" stroke="#90f"/>
+   <path class="link thread15 WhiteEnd" d="m1083.8 683.36 10.442 28.311" stroke="#90f"/>
+   <path class="link thread64 WhiteStart" d="m1113.8 700.24-17.487 17.059" stroke="#000"/>
+   <path class="link thread16 WhiteStart" d="m1089.4 685.44 28.673 10.61" stroke="#90f"/>
+  </g>
+  <g stroke="#000" stroke-width="4.0034">
+   <path class="link thread64 WhiteEnd" d="m1154.9 675.18-31.635 17.908"/>
+   <path class="link thread73 WhiteEnd" d="m459.8 864.31 27.08 9.6344"/>
+   <path class="link thread74 WhiteStart" d="m483.52 848.19 9.0073 27.767"/>
+   <path class="link thread50 WhiteEnd" d="m442.39 846.41-15.799 32.511"/>
+   <path class="link thread49 WhiteStart" d="m454.56 867.24-30.592 17.08"/>
+   <path class="link thread73 WhiteStart" d="m446.57 850.71 13.227 13.601"/>
+   <path class="link thread49 WhiteEnd" d="m481.67 842.48-17.628 17.591"/>
+   <path class="link thread74 WhiteEnd" d="m464.29 825.26 13.117 12.998"/>
+   <path class="link thread49 WhiteStart" d="m500.35 811.38-18.673 31.101"/>
+   <path class="link thread73 WhiteEnd" d="m429.38 811.46 10.912 29.328"/>
+   <path class="link thread50 WhiteStart" d="m459.98 829.43-17.589 16.98"/>
+   <path class="link thread74 WhiteStart" d="m434.96 813.66 29.33 11.598"/>
+   <path class="link thread50 WhiteEnd" d="m503.43 806.24-33.744 16.401"/>
+  </g>
+  <g stroke-width="4.0034">
+   <path class="link thread3 WhiteEnd" d="m718.68 731.83 29.658 11.048" stroke="#90f"/>
+   <path class="link thread4 WhiteStart" d="m742.99 714.72 10.972 30.255" stroke="#90f"/>
+   <path class="link thread53 WhiteEnd" d="m700.9 713.97-18.411 31.753" stroke="#000"/>
+   <path class="link thread54 WhiteStart" d="m713.28 734.46-33.808 16.458" stroke="#000"/>
+   <path class="link thread3 WhiteStart" d="m705.13 718.22 13.549 13.608" stroke="#90f"/>
+   <path class="link thread54 WhiteEnd" d="m740.94 709.08-18.067 18.464" stroke="#000"/>
+   <path class="link thread4 WhiteEnd" d="m723.22 691.88 13.415 13.021" stroke="#90f"/>
+   <path class="link thread54 WhiteStart" d="m757.96 674.74-17.02 34.339" stroke="#000"/>
+   <path class="link thread3 WhiteEnd" d="m689.32 680.44 9.6221 27.859" stroke="#90f"/>
+   <path class="link thread53 WhiteStart" d="m718.96 696.1-18.06 17.873" stroke="#000"/>
+   <path class="link thread4 WhiteStart" d="m695 682.36 28.221 9.5196" stroke="#90f"/>
+  </g>
+  <g stroke="#000" stroke-width="4.0034">
+   <path class="link thread53 WhiteEnd" d="m760.63 669.36-32.264 19.421"/>
+   <path class="link thread11 WhiteEnd" d="m854.93 648.09 19.468-4.9462"/>
+   <path class="link thread12 WhiteStart" d="m861.4 627.9 18.808 13.768"/>
+   <path class="link thread8 WhiteEnd" d="m831.49 649.99 13.516 18.873"/>
+   <path class="link thread7 WhiteStart" d="m853.47 653.91-4.968 19.826"/>
+   <path class="link thread11 WhiteStart" d="m837.47 649.5 17.456-1.4118"/>
+   <path class="link thread7 WhiteEnd" d="m856.56 624.36-1.2219 17.749"/>
+   <path class="link thread12 WhiteEnd" d="m834.36 627.69 16.263-2.4388"/>
+   <path class="link thread7 WhiteStart" d="m853.3 595.26 3.2617 29.098"/>
+   <path class="link thread11 WhiteEnd" d="m796.51 646.21 29.017 3.1323"/>
+   <path class="link thread8 WhiteStart" d="m833.6 633.64-2.1066 16.351"/>
+   <path class="link thread12 WhiteStart" d="m820.81 625.63 13.552 2.0542"/>
+   <path class="link thread8 WhiteEnd" d="m831.45 608.12 2.0305 13.628"/>
+   <path class="link thread54 WhiteEnd" d="m780.29 631.23-16.916 32.805"/>
+   <path class="link thread53 WhiteStart" d="m791.47 649.46-30.84 19.899"/>
+   <path class="link thread11 WhiteStart" d="m784.7 635.3 11.81 10.913"/>
+   <path class="link thread53 WhiteEnd" d="m814.88 624.73-14.472 16.92"/>
+   <path class="link thread12 WhiteEnd" d="m801.08 611.03 9.5446 9.4788"/>
+   <path class="link thread53 WhiteStart" d="m827.21 612.37-12.332 12.362"/>
+   <path class="link thread11 WhiteEnd" d="m772.1 597.12 6.7874 28.275"/>
+   <path class="link thread54 WhiteStart" d="m796.78 615.21-16.484 16.019"/>
+   <path class="link thread12 WhiteStart" d="m798.46 596.7 2.6164 14.322"/>
+   <path class="link thread54 WhiteEnd" d="m817.86 594.35-12.529 12.443"/>
+   <path class="link thread49 WhiteEnd" d="m525.99 770.87-19.332 30.305"/>
+   <path class="link thread50 WhiteStart" d="m535.32 789.77-31.887 16.465"/>
+   <path class="link thread67 WhiteStart" d="m530.03 775.32 10.626 11.704"/>
+   <path class="link thread50 WhiteEnd" d="m560.64 766.48-15.8 16.24"/>
+   <path class="link thread68 WhiteEnd" d="m547.22 752.72 9.2285 9.4647"/>
+   <path class="link thread50 WhiteStart" d="m573.34 753.95-12.702 12.524"/>
+   <path class="link thread67 WhiteEnd" d="m522.43 736.64 2.9414 28.262"/>
+   <path class="link thread49 WhiteStart" d="m542.66 756.62-16.666 14.255"/>
+   <path class="link thread68 WhiteStart" d="m545.3 739.55 1.9156 13.166"/>
+   <path class="link thread49 WhiteEnd" d="m564 736.3-12.494 12.225"/>
+   <path class="link thread10 WhiteStart" d="m568.27 740.51 9.3411 9.2284"/>
+   <path class="link thread50 WhiteEnd" d="m598.68 729.17-16.773 16.376"/>
+   <path class="link thread9 WhiteEnd" d="m582.62 714.91 11.573 10.283"/>
+   <path class="link thread50 WhiteStart" d="m616.6 696.3-17.929 32.871"/>
+   <path class="link thread10 WhiteEnd" d="m544.44 733.61 13.618 1.867"/>
+   <path class="link thread49 WhiteStart" d="m578.68 719.43-14.678 16.864"/>
+   <path class="link thread9 WhiteStart" d="m553.58 712.09 29.043 2.8149"/>
+   <path class="link thread49 WhiteEnd" d="m619.48 691.04-31.823 20.609"/>
+   <path class="link thread8 WhiteStart" d="m822.08 598.63 9.3708 9.4977"/>
+   <path class="link thread53 WhiteEnd" d="m852.63 589.3-16.697 14.84"/>
+   <path class="link thread7 WhiteEnd" d="m837.55 573.52 10.937 11.439"/>
+   <path class="link thread53 WhiteStart" d="m872.25 558.42-19.622 30.873"/>
+   <path class="link thread8 WhiteEnd" d="m797.38 590.8 14.569 2.5272"/>
+   <path class="link thread54 WhiteStart" d="m833.43 577.88-15.562 16.472"/>
+   <path class="link thread7 WhiteStart" d="m808.94 566.72 28.61 6.8034"/>
+   <path class="link thread54 WhiteEnd" d="m875.47 553.36-32.626 17.344"/>
+  </g>
+  <g stroke-width="4.0034">
+   <path class="link thread4 WhiteEnd" d="m656.22 669.52 27.399 9.0417" stroke="#90f"/>
+   <path class="link thread3 WhiteStart" d="m680.36 652.5 8.9528 27.945" stroke="#90f"/>
+   <path class="link thread50 WhiteEnd" d="m638.69 651.84-16.572 33.807" stroke="#000"/>
+   <path class="link thread49 WhiteStart" d="m651.04 672.55-31.564 18.484" stroke="#000"/>
+   <path class="link thread4 WhiteStart" d="m642.92 656.1 13.303 13.417" stroke="#90f"/>
+   <path class="link thread49 WhiteEnd" d="m678.53 646.78-18.111 18.455" stroke="#000"/>
+   <path class="link thread3 WhiteEnd" d="m661.01 629.79 13.218 12.816" stroke="#90f"/>
+   <path class="link thread49 WhiteStart" d="m697.53 614.74-18.997 32.04" stroke="#000"/>
+   <path class="link thread4 WhiteEnd" d="m625.61 616.73 10.982 29.491" stroke="#90f"/>
+   <path class="link thread50 WhiteStart" d="m656.74 634.01-18.048 17.835" stroke="#000"/>
+   <path class="link thread3 WhiteStart" d="m631.24 618.8 29.764 10.985" stroke="#90f"/>
+   <path class="link thread50 WhiteEnd" d="m700.59 609.58-34.238 17.48" stroke="#000"/>
+   <path class="link thread16 WhiteEnd" d="m1050.2 671.35 27.91 9.9869" stroke="#90f"/>
+   <path class="link thread15 WhiteStart" d="m1073.9 655.01 9.9005 28.344" stroke="#90f"/>
+   <path class="link thread62 WhiteEnd" d="m1032.1 652.98-15.577 33.538" stroke="#000"/>
+   <path class="link thread61 WhiteStart" d="m1045 674.31-31.053 17.651" stroke="#000"/>
+   <path class="link thread16 WhiteStart" d="m1036.3 657.25 13.946 14.098" stroke="#90f"/>
+   <path class="link thread61 WhiteEnd" d="m1071.9 649.35-17.468 17.726" stroke="#000"/>
+   <path class="link thread15 WhiteEnd" d="m1053.8 631.66 13.847 13.498" stroke="#90f"/>
+   <path class="link thread61 WhiteStart" d="m1089.9 618.32-17.982 31.032" stroke="#000"/>
+   <path class="link thread16 WhiteEnd" d="m1017.6 617.03 12.2 30.39" stroke="#90f"/>
+   <path class="link thread62 WhiteStart" d="m1049.5 635.87-17.422 17.116" stroke="#000"/>
+   <path class="link thread15 WhiteStart" d="m1023.2 619.28 30.576 12.385" stroke="#90f"/>
+  </g>
+  <g stroke="#000" stroke-width="4.0034">
+   <path class="link thread62 WhiteEnd" d="m1092.9 613.12-33.711 15.969"/>
+   <path class="link thread8 WhiteStart" d="m777.93 595.66 19.459-4.8614"/>
+   <path class="link thread12 WhiteEnd" d="m803.1 565.33-4.4029 19.618"/>
+   <path class="link thread7 WhiteEnd" d="m778.14 571.94 19.161-5.0768"/>
+   <path class="link thread12 WhiteStart" d="m796.55 537 6.5478 28.332"/>
+   <path class="link thread8 WhiteEnd" d="m738.06 589.43 28.19 6.3688"/>
+   <path class="link thread11 WhiteStart" d="m776.74 577.78-4.6367 19.34"/>
+   <path class="link thread7 WhiteStart" d="m763.89 569.48 14.25 2.4615"/>
+   <path class="link thread11 WhiteEnd" d="m774.7 551.61 2.4363 14.418"/>
+   <path class="link thread73 WhiteStart" d="m418.61 782.61 10.774 28.847"/>
+  </g>
+  <path class="link thread45 WhiteStart" d="m431.99 746.73-15.478 30.262" stroke="#90f" stroke-width="4.0034"/>
+  <path class="link thread46 WhiteEnd" d="m434.72 741.39-30.227 14.972" stroke="#90f" stroke-width="4.0034"/>
+  <g stroke="#000" stroke-width="4.0034">
+   <path class="link thread10 WhiteStart" d="m528.37 735.83 16.064-2.2112"/>
+   <path class="link thread68 WhiteEnd" d="m547.6 711.51-2.3143 16.163"/>
+   <path class="link thread9 WhiteEnd" d="m524.86 713.65 16.77-1.5768"/>
+   <path class="link thread68 WhiteStart" d="m535.08 692.84 12.523 18.671"/>
+   <path class="link thread10 WhiteEnd" d="m499.28 720.22 18.254 12.951"/>
+   <path class="link thread67 WhiteStart" d="m524.23 719.62-1.7987 17.026"/>
+   <path class="link thread9 WhiteStart" d="m505.09 718.73 19.766-5.0773"/>
+   <path class="link thread67 WhiteEnd" d="m531.74 687.86-5.3322 19.995"/>
+   <path class="link thread61 WhiteEnd" d="m1114.6 577.83-18.538 30.184"/>
+   <path class="link thread62 WhiteStart" d="m1124.5 597.3-31.568 15.826"/>
+   <path class="link thread20 WhiteStart" d="m1118.6 582.27 11.218 12.342"/>
+   <path class="link thread20 WhiteEnd" d="m1109.4 542.87 4.3095 29.024"/>
+   <path class="link thread61 WhiteStart" d="m1130.7 564.24-16.122 13.59"/>
+   <path class="link thread9 WhiteEnd" d="m467.69 721.63 25.599-1.1398"/>
+   <path class="link thread10 WhiteStart" d="m488.24 708.94 11.044 11.281"/>
+  </g>
+  <g stroke-width="4.0034">
+   <path class="link thread45 WhiteEnd" d="m454.88 708.35-17.036 27.911" stroke="#90f"/>
+   <path class="link thread46 WhiteStart" d="m462.54 724.71-27.822 16.674" stroke="#90f"/>
+   <path class="link thread9 WhiteStart" d="m459.05 712.67 8.6408 8.9567" stroke="#000"/>
+   <path class="link thread46 WhiteEnd" d="m484.04 704.65-12.189 12.654" stroke="#90f"/>
+   <path class="link thread10 WhiteEnd" d="m471.98 692.44 7.8484 7.9426" stroke="#000"/>
+   <path class="link thread46 WhiteStart" d="m491.92 687.75-7.8768 16.907" stroke="#90f"/>
+   <path class="link thread9 WhiteEnd" d="m457.08 676.51-1.786 25.86" stroke="#000"/>
+   <path class="link thread45 WhiteStart" d="m467.58 696.53-12.701 11.822" stroke="#90f"/>
+   <path class="link thread10 WhiteStart" d="m461.18 680.89 10.796 11.552" stroke="#000"/>
+   <path class="link thread45 WhiteEnd" d="m494.45 682.31-17.007 7.6688" stroke="#90f"/>
+  </g>
+  <g stroke="#000" stroke-width="4.0034">
+   <path class="link thread49 WhiteEnd" d="m723.33 573.28-19.558 31.217"/>
+   <path class="link thread50 WhiteStart" d="m732.78 592.27-32.188 17.313"/>
+   <path class="link thread8 WhiteStart" d="m727.38 577.71 10.686 11.714"/>
+   <path class="link thread50 WhiteEnd" d="m757.98 568.46-15.783 16.616"/>
+   <path class="link thread7 WhiteEnd" d="m744.52 554.67 9.2661 9.4978"/>
+   <path class="link thread50 WhiteStart" d="m770.48 555.87-12.5 12.593"/>
+   <path class="link thread8 WhiteEnd" d="m719.65 538.71 3.0494 28.607"/>
+   <path class="link thread49 WhiteStart" d="m740.01 558.63-16.681 14.653"/>
+   <path class="link thread7 WhiteStart" d="m742.52 541.37 2.0013 13.293"/>
+   <path class="link thread49 WhiteEnd" d="m761.07 538.15-12.306 12.278"/>
+   <path class="link thread68 WhiteEnd" d="m516.8 672.43 10.761 11.115"/>
+   <path class="link thread67 WhiteStart" d="m533.83 661.5-2.096 26.353"/>
+  </g>
+  <g stroke-width="4.0034">
+   <path class="link thread46 WhiteEnd" d="m504.58 659.98-7.6494 16.865" stroke="#90f"/>
+   <path class="link thread45 WhiteStart" d="m511.31 674.86-16.863 7.4504" stroke="#90f"/>
+   <path class="link thread68 WhiteStart" d="m508.78 664.26 8.0206 8.1723" stroke="#000"/>
+   <path class="link thread45 WhiteEnd" d="m534.31 655.52-13.191 12.74" stroke="#90f"/>
+   <path class="link thread67 WhiteEnd" d="m521.38 642.84 8.6425 8.483" stroke="#000"/>
+   <path class="link thread45 WhiteStart" d="m552.64 626.52-18.333 29.004" stroke="#90f"/>
+   <path class="link thread68 WhiteEnd" d="m489.07 644.75 11.229 11.021" stroke="#000"/>
+   <path class="link thread46 WhiteStart" d="m517.18 647.12-12.605 12.855" stroke="#90f"/>
+   <path class="link thread67 WhiteStart" d="m495.06 644.4 26.326-1.5601" stroke="#000"/>
+   <path class="link thread46 WhiteEnd" d="m555.85 621.45-29.365 18.226" stroke="#90f"/>
+  </g>
+  <g stroke="#000" stroke-width="4.0034">
+   <path class="link thread11 WhiteStart" d="m765.34 542.37 9.3596 9.2415"/>
+   <path class="link thread50 WhiteEnd" d="m795.2 531.15-16.252 16.22"/>
+   <path class="link thread12 WhiteEnd" d="m779.07 516.86 11.642 10.312"/>
+   <path class="link thread50 WhiteStart" d="m812.02 498.79-16.817 32.358"/>
+   <path class="link thread11 WhiteEnd" d="m741.63 535.44 13.506 1.8823"/>
+   <path class="link thread49 WhiteStart" d="m775.2 521.44-14.121 16.709"/>
+   <path class="link thread12 WhiteStart" d="m750.35 513.91 28.717 2.9495"/>
+   <path class="link thread49 WhiteEnd" d="m814.79 493.47-30.698 20.105"/>
+   <path class="link thread23 WhiteStart" d="m1115.4 542.36 16.275-1.3964"/>
+   <path class="link thread24 WhiteEnd" d="m1110.7 519.85 16.615-0.84907"/>
+   <path class="link thread19 WhiteStart" d="m1119.4 499.23 13.891 19.462"/>
+   <path class="link thread23 WhiteEnd" d="m1085.2 525.35 19.315 14"/>
+   <path class="link thread20 WhiteStart" d="m1110.4 525.84-0.98 17.029"/>
+   <path class="link thread24 WhiteStart" d="m1091.1 524.08 19.632-4.2336"/>
+   <path class="link thread20 WhiteEnd" d="m1115.9 494.35-4.0247 19.623"/>
+   <path class="link thread67 WhiteEnd" d="m464.26 651.46 19.016-5.14"/>
+   <path class="link thread68 WhiteStart" d="m471.55 631.76 17.516 12.992"/>
+   <path class="link thread10 WhiteEnd" d="m441.58 653.48 12.153 18.053"/>
+   <path class="link thread9 WhiteStart" d="m462.61 657.23-5.5255 19.281"/>
+   <path class="link thread67 WhiteStart" d="m447.56 652.95 16.705-1.4867"/>
+   <path class="link thread9 WhiteEnd" d="m466.73 628.19-1.8392 17.306"/>
+   <path class="link thread68 WhiteEnd" d="m445.23 631.88 15.59-2.6798"/>
+   <path class="link thread9 WhiteStart" d="m465 599.94 1.7353 28.25"/>
+   <path class="link thread67 WhiteEnd" d="m408.55 649.72 27.067 3.0773"/>
+   <path class="link thread10 WhiteStart" d="m444.23 637.8-2.6513 15.679"/>
+   <path class="link thread68 WhiteStart" d="m432.53 629.93 12.698 1.9518"/>
+   <path class="link thread10 WhiteEnd" d="m443.31 612.7 1.3196 13.21"/>
+  </g>
+  <g stroke="#90f" stroke-width="4.0034">
+   <path class="link thread15 WhiteEnd" d="m983.01 602.38 29.095 12.311"/>
+   <path class="link thread16 WhiteStart" d="m1005.3 587.24 12.294 29.787"/>
+   <path class="link thread57 WhiteEnd" d="m964.12 583.36-14.278 30.772"/>
+   <path class="link thread58 WhiteStart" d="m977.6 604.98-30.281 14.591"/>
+   <path class="link thread15 WhiteStart" d="m968.35 587.61 14.656 14.761"/>
+   <path class="link thread58 WhiteEnd" d="m1003 581.69-15.862 16.375"/>
+   <path class="link thread16 WhiteEnd" d="m984.23 563.34 14.519 14.167"/>
+   <path class="link thread58 WhiteStart" d="m1017.7 551.02-14.659 30.674"/>
+   <path class="link thread15 WhiteEnd" d="m948.91 548.3 12.827 29.555"/>
+   <path class="link thread57 WhiteStart" d="m979.98 567.57-15.855 15.788"/>
+   <path class="link thread16 WhiteStart" d="m954.43 550.65 29.801 12.687"/>
+   <path class="link thread57 WhiteEnd" d="m1020.3 545.6-30.675 15.083"/>
+   <path class="link thread3 WhiteEnd" d="m591.82 603.42 28.21 11.113"/>
+   <path class="link thread4 WhiteStart" d="m614.62 587.79 10.996 28.935"/>
+   <path class="link thread45 WhiteEnd" d="m573.86 585.26-15.338 30.819"/>
+   <path class="link thread46 WhiteStart" d="m586.46 606.1-30.611 15.344"/>
+   <path class="link thread3 WhiteStart" d="m578.08 589.52 13.744 13.893"/>
+   <path class="link thread46 WhiteEnd" d="m612.49 582.18-16.48 16.932"/>
+   <path class="link thread4 WhiteEnd" d="m594.58 564.68 13.612 13.309"/>
+   <path class="link thread46 WhiteStart" d="m628.25 550.92-15.764 31.264"/>
+   <path class="link thread3 WhiteEnd" d="m560.41 551.25 11.238 28.431"/>
+   <path class="link thread45 WhiteStart" d="m590.33 568.91-16.468 16.35"/>
+   <path class="link thread4 WhiteStart" d="m566 553.44 28.586 11.239"/>
+   <path class="link thread45 WhiteEnd" d="m630.95 545.56-31.056 16.326"/>
+  </g>
+  <g stroke="#000" stroke-width="4.0034">
+   <path class="link thread11 WhiteStart" d="m725.58 537.83 16.044-2.3839"/>
+   <path class="link thread7 WhiteEnd" d="m744.38 513.3-2.0154 16.189"/>
+   <path class="link thread12 WhiteEnd" d="m721.77 515.6 16.647-1.6962"/>
+   <path class="link thread7 WhiteStart" d="m731.53 494.75 12.85 18.548"/>
+   <path class="link thread11 WhiteEnd" d="m696.25 522.49 18.469 12.796"/>
+   <path class="link thread8 WhiteStart" d="m721.22 521.58-1.5714 17.13"/>
+   <path class="link thread12 WhiteStart" d="m702.04 520.93 19.728-5.327"/>
+   <path class="link thread8 WhiteEnd" d="m728.12 489.82-4.9145 19.958"/>
+   <path class="link thread12 WhiteEnd" d="m664.38 524.61 25.879-1.7162"/>
+   <path class="link thread11 WhiteStart" d="m684.99 511.36 11.254 11.134"/>
+  </g>
+  <g stroke-width="4.0034">
+   <path class="link thread46 WhiteEnd" d="m651.3 511.58-17.265 28.835" stroke="#90f"/>
+   <path class="link thread45 WhiteStart" d="m659.3 527.79-28.344 17.769" stroke="#90f"/>
+   <path class="link thread12 WhiteStart" d="m655.55 515.81 8.83 8.7939" stroke="#000"/>
+   <path class="link thread45 WhiteEnd" d="m680.73 507.14-12.247 13.086" stroke="#90f"/>
+   <path class="link thread11 WhiteEnd" d="m668.4 495.14 8.0259 7.8115" stroke="#000"/>
+   <path class="link thread45 WhiteStart" d="m688.31 490.12-7.5865 17.017" stroke="#90f"/>
+   <path class="link thread12 WhiteEnd" d="m653.06 479.57-1.4353 26.016" stroke="#000"/>
+   <path class="link thread46 WhiteStart" d="m664.08 499.3-12.776 12.278" stroke="#90f"/>
+   <path class="link thread11 WhiteStart" d="m657.28 483.85 11.126 11.296" stroke="#000"/>
+   <path class="link thread46 WhiteEnd" d="m690.76 484.64-16.924 7.9502" stroke="#90f"/>
+   <path class="link thread24 WhiteEnd" d="m1053.2 525.89 26.053-0.43962" stroke="#000"/>
+   <path class="link thread23 WhiteStart" d="m1073.3 513.39 11.908 11.955" stroke="#000"/>
+   <path class="link thread58 WhiteEnd" d="m1039.6 512.28-16.333 28.13" stroke="#90f"/>
+   <path class="link thread57 WhiteStart" d="m1048 528.97-27.725 16.629" stroke="#90f"/>
+   <path class="link thread24 WhiteStart" d="m1043.9 516.54 9.2952 9.3489" stroke="#000"/>
+   <path class="link thread57 WhiteEnd" d="m1069.1 509.14-11.778 12.397" stroke="#90f"/>
+   <path class="link thread23 WhiteEnd" d="m1056.2 496.42 8.6426 8.5138" stroke="#000"/>
+   <path class="link thread57 WhiteStart" d="m1075.9 492.71-6.8056 16.428" stroke="#90f"/>
+   <path class="link thread24 WhiteEnd" d="m1040 480.01-0.29 26.27" stroke="#000"/>
+   <path class="link thread58 WhiteStart" d="m1051.8 500.57-12.192 11.711" stroke="#90f"/>
+   <path class="link thread23 WhiteStart" d="m1044.2 484.29 11.951 12.129" stroke="#000"/>
+   <path class="link thread58 WhiteEnd" d="m1078.2 487.17-16.487 6.9238" stroke="#90f"/>
+  </g>
+  <g stroke="#000" stroke-width="4.0034">
+   <path class="link thread41 WhiteEnd" d="m426.6 629.02-14.109 16.181"/>
+   <path class="link thread41 WhiteStart" d="m439.02 616.89-12.419 12.125"/>
+   <path class="link thread42 WhiteEnd" d="m430.69 599.12-12.6 12.224"/>
+   <path class="link thread7 WhiteEnd" d="m712.86 474.58 11.012 10.999"/>
+   <path class="link thread8 WhiteStart" d="m729.43 463.82-1.3178 26.003"/>
+  </g>
+  <g stroke-width="4.0034">
+   <path class="link thread45 WhiteEnd" d="m700.34 462.31-7.22 16.823" stroke="#90f"/>
+   <path class="link thread46 WhiteStart" d="m707.4 477.07-16.641 7.5765" stroke="#90f"/>
+   <path class="link thread7 WhiteStart" d="m704.63 466.51 8.232 8.0732" stroke="#000"/>
+   <path class="link thread46 WhiteEnd" d="m729.74 457.82-12.621 12.529" stroke="#90f"/>
+   <path class="link thread8 WhiteEnd" d="m716.53 445.34 8.8505 8.364" stroke="#000"/>
+   <path class="link thread46 WhiteStart" d="m746.75 429.61-17.014 28.208" stroke="#90f"/>
+   <path class="link thread7 WhiteEnd" d="m684.41 447.41 11.551 10.794" stroke="#000"/>
+   <path class="link thread45 WhiteStart" d="m712.38 449.68-12.042 12.625" stroke="#90f"/>
+   <path class="link thread8 WhiteStart" d="m690.4 447.03 26.13-1.689" stroke="#000"/>
+   <path class="link thread45 WhiteEnd" d="m749.85 424.48-28.239 17.678" stroke="#90f"/>
+   <path class="link thread19 WhiteEnd" d="m1099.9 478.4 11.79 11.72" stroke="#000"/>
+   <path class="link thread20 WhiteStart" d="m1116 468.6-0.093 25.752" stroke="#000"/>
+   <path class="link thread57 WhiteEnd" d="m1086.8 465.37-6.393 16.221" stroke="#90f"/>
+   <path class="link thread58 WhiteStart" d="m1094.3 480.65-16.159 6.5254" stroke="#90f"/>
+   <path class="link thread19 WhiteStart" d="m1091 469.59 8.8706 8.8047" stroke="#000"/>
+   <path class="link thread58 WhiteEnd" d="m1116.1 462.6-11.871 11.607" stroke="#90f"/>
+   <path class="link thread20 WhiteEnd" d="m1102.4 449.51 9.3192 8.931" stroke="#000"/>
+   <path class="link thread58 WhiteStart" d="m1131.7 436.09-15.632 26.509" stroke="#90f"/>
+   <path class="link thread19 WhiteEnd" d="m1070.2 449.42 12.254 11.785" stroke="#000"/>
+   <path class="link thread57 WhiteStart" d="m1098.2 453.79-11.425 11.581" stroke="#90f"/>
+   <path class="link thread20 WhiteStart" d="m1076.2 449.44 26.218 0.0738" stroke="#000"/>
+   <path class="link thread57 WhiteEnd" d="m1134.7 430.92-27.129 15.603" stroke="#90f"/>
+  </g>
+  <g stroke="#000" stroke-width="4.0034">
+   <path class="link thread10 WhiteStart" d="m434.77 603.51 8.5428 9.1901"/>
+   <path class="link thread41 WhiteEnd" d="m464.63 593.95-16.812 14.791"/>
+   <path class="link thread9 WhiteEnd" d="m450.69 578.59 9.907 10.915"/>
+   <path class="link thread41 WhiteStart" d="m485.03 563.21-20.399 30.737"/>
+   <path class="link thread42 WhiteStart" d="m446.5 582.89-15.817 16.23"/>
+   <path class="link thread9 WhiteStart" d="m423.7 572.63 26.989 5.9606"/>
+   <path class="link thread42 WhiteEnd" d="m488.35 558.21-32.379 17.523"/>
+   <path class="link thread20 WhiteEnd" d="m1045.5 455.03 18.83-4.2738"/>
+   <path class="link thread19 WhiteStart" d="m1051.2 435.5 19.014 13.92"/>
+   <path class="link thread23 WhiteEnd" d="m1022.4 456.39 13.992 18.807"/>
+   <path class="link thread24 WhiteStart" d="m1044.2 460.88-4.2211 19.13"/>
+   <path class="link thread20 WhiteStart" d="m1028.4 456.04 17.098-1.0133"/>
+   <path class="link thread24 WhiteEnd" d="m1046.3 431.96-0.6115 17.07"/>
+   <path class="link thread19 WhiteEnd" d="m1024.4 434.47 15.927-1.8286"/>
+   <path class="link thread24 WhiteStart" d="m1041.7 404.08 4.6215 27.88"/>
+   <path class="link thread20 WhiteEnd" d="m987.77 451.89 28.697 3.7284"/>
+   <path class="link thread23 WhiteStart" d="m1023.9 440.45-1.4741 15.947"/>
+   <path class="link thread19 WhiteStart" d="m1011 432.18 13.454 2.2926"/>
+   <path class="link thread23 WhiteEnd" d="m1020.7 415.4 2.5868 13.18"/>
+  </g>
+  <g stroke-width="4.0034">
+   <path class="link thread4 WhiteEnd" d="m526.53 539.15 28.235 10.079" stroke="#90f"/>
+   <path class="link thread3 WhiteStart" d="m550.41 522.31 10.01 28.934" stroke="#90f"/>
+   <path class="link thread41 WhiteEnd" d="m509.6 522.17-18.208 30.874" stroke="#000"/>
+   <path class="link thread42 WhiteStart" d="m521.16 541.83-32.813 16.381" stroke="#000"/>
+   <path class="link thread4 WhiteStart" d="m513.84 526.42 12.69 12.731" stroke="#90f"/>
+   <path class="link thread42 WhiteEnd" d="m548.44 516.64-17.729 18.21" stroke="#000"/>
+   <path class="link thread3 WhiteEnd" d="m531.59 500.27 12.55 12.192" stroke="#90f"/>
+   <path class="link thread42 WhiteStart" d="m565.21 483.1-16.767 33.539" stroke="#000"/>
+   <path class="link thread4 WhiteEnd" d="m499.23 490.13 8.523 26.329" stroke="#90f"/>
+   <path class="link thread41 WhiteStart" d="m527.34 504.5-17.735 17.666" stroke="#000"/>
+   <path class="link thread3 WhiteStart" d="m504.96 491.93 26.631 8.3435" stroke="#90f"/>
+   <path class="link thread41 WhiteEnd" d="m567.89 477.74-31.206 19.369" stroke="#000"/>
+   <path class="link thread16 WhiteEnd" d="m913.74 534.86 29.558 11.3" stroke="#90f"/>
+   <path class="link thread15 WhiteStart" d="m937.26 518.28 11.647 30.022" stroke="#90f"/>
+   <path class="link thread53 WhiteEnd" d="m895.73 516.95-17.341 31.168" stroke="#000"/>
+   <path class="link thread54 WhiteStart" d="m908.34 537.47-32.871 15.892" stroke="#000"/>
+   <path class="link thread16 WhiteStart" d="m899.99 521.18 13.759 13.677" stroke="#90f"/>
+   <path class="link thread54 WhiteEnd" d="m935.09 512.68-17.184 17.851" stroke="#000"/>
+   <path class="link thread15 WhiteEnd" d="m917.14 495.42 13.626 13.102" stroke="#90f"/>
+   <path class="link thread54 WhiteStart" d="m950.67 479.4-15.576 33.281" stroke="#000"/>
+   <path class="link thread16 WhiteEnd" d="m883.42 483.63 10.234 27.695" stroke="#90f"/>
+   <path class="link thread53 WhiteStart" d="m912.91 499.68-17.178 17.273" stroke="#000"/>
+   <path class="link thread15 WhiteStart" d="m889.08 485.61 28.058 9.8141" stroke="#90f"/>
+  </g>
+  <g stroke="#000" stroke-width="4.0034">
+   <path class="link thread53 WhiteEnd" d="m953.21 473.97-30.913 18.387"/>
+   <path class="link thread8 WhiteEnd" d="m659.69 454.49 18.952-5.4245"/>
+   <path class="link thread7 WhiteStart" d="m666.41 434.91 17.996 12.506"/>
+   <path class="link thread11 WhiteEnd" d="m636.78 457.02 12.768 17.683"/>
+   <path class="link thread12 WhiteStart" d="m658.16 460.29-5.0914 19.281"/>
+   <path class="link thread8 WhiteStart" d="m642.75 456.36 16.94-1.8747"/>
+   <path class="link thread12 WhiteEnd" d="m661.48 431.48-1.3296 17.024"/>
+   <path class="link thread7 WhiteEnd" d="m639.96 435.46 15.623-2.8854"/>
+   <path class="link thread12 WhiteStart" d="m658.52 404.08 2.9624 27.399"/>
+   <path class="link thread8 WhiteEnd" d="m602.91 454.52 27.896 2.0621"/>
+   <path class="link thread11 WhiteStart" d="m639.09 441.4-2.3021 15.629"/>
+   <path class="link thread7 WhiteStart" d="m626.92 433.95 13.043 1.5129"/>
+   <path class="link thread11 WhiteEnd" d="m637.25 416.65 1.8558 12.872"/>
+   <path class="link thread54 WhiteEnd" d="m971.25 436.96-15.408 31.615"/>
+   <path class="link thread53 WhiteStart" d="m982.71 455.12-29.504 18.845"/>
+   <path class="link thread20 WhiteStart" d="m975.7 440.98 12.072 10.91"/>
+   <path class="link thread53 WhiteEnd" d="m1005.1 431.17-13.459 16.115"/>
+   <path class="link thread19 WhiteEnd" d="m991.05 417.68 9.6968 9.3319"/>
+   <path class="link thread53 WhiteStart" d="m1016.5 419.67-11.403 11.505"/>
+   <path class="link thread20 WhiteEnd" d="m961.85 403.49 7.7779 27.694"/>
+   <path class="link thread54 WhiteStart" d="m986.75 421.86-15.508 15.095"/>
+   <path class="link thread19 WhiteStart" d="m987.98 403.77 3.0751 13.909"/>
+   <path class="link thread54 WhiteEnd" d="m1006.9 401.87-11.601 11.573"/>
+   <path class="link thread42 WhiteEnd" d="m587.15 440.55-16.497 31.862"/>
+   <path class="link thread41 WhiteStart" d="m597.9 457.84-30.011 19.9"/>
+   <path class="link thread8 WhiteStart" d="m591.64 444.53 11.267 9.9929"/>
+   <path class="link thread41 WhiteEnd" d="m620.96 433.25-14.169 16.691"/>
+   <path class="link thread7 WhiteEnd" d="m607.42 420.4 9.1838 8.7192"/>
+   <path class="link thread41 WhiteStart" d="m633.05 420.93-12.089 12.323"/>
+   <path class="link thread8 WhiteEnd" d="m579.68 408.16 6.1226 26.544"/>
+   <path class="link thread42 WhiteStart" d="m603.17 424.63-16.017 15.913"/>
+   <path class="link thread7 WhiteStart" d="m605.05 406.99 2.3734 13.418"/>
+   <path class="link thread42 WhiteEnd" d="m623.92 403.72-12.283 12.418"/>
+   <path class="link thread38 WhiteStart" d="m429.55 506.65-17.532 31.662"/>
+   <path class="link thread37 WhiteEnd" d="m432.45 501.4-30.219 19.795"/>
+   <path class="link thread23 WhiteStart" d="m1011.2 406.07 9.5149 9.3341"/>
+   <path class="link thread53 WhiteEnd" d="m1040.7 398.16-15.481 13.33"/>
+   <path class="link thread24 WhiteEnd" d="m1025.3 382.45 11.244 11.431"/>
+   <path class="link thread53 WhiteStart" d="m1058.1 370.1-17.39 28.055"/>
+   <path class="link thread23 WhiteEnd" d="m986.68 397.91 14.33 2.8045"/>
+   <path class="link thread54 WhiteStart" d="m1021.2 386.81-14.25 15.06"/>
+   <path class="link thread24 WhiteStart" d="m997.1 374.89 28.172 7.5578"/>
+   <path class="link thread54 WhiteEnd" d="m1061.3 365-30.604 14.83"/>
+   <path class="link thread11 WhiteStart" d="m628.23 407.9 9.0181 8.7499"/>
+   <path class="link thread41 WhiteEnd" d="m657.88 398.12-16.165 14.52"/>
+   <path class="link thread12 WhiteEnd" d="m643.21 383.37 10.44 10.492"/>
+   <path class="link thread41 WhiteStart" d="m676.67 368.53-18.797 29.587"/>
+   <path class="link thread11 WhiteEnd" d="m604 401.08 13.973 1.8536"/>
+   <path class="link thread42 WhiteStart" d="m639.08 387.73-15.154 15.991"/>
+   <path class="link thread12 WhiteStart" d="m615.84 378.05 27.365 5.323"/>
+   <path class="link thread42 WhiteEnd" d="m679.89 363.47-31.413 17.044"/>
+   <path class="link thread11 WhiteStart" d="m585.44 406.48 18.565-5.4007"/>
+   <path class="link thread7 WhiteEnd" d="m609.95 376.91-4.5131 18.346"/>
+   <path class="link thread12 WhiteEnd" d="m585.92 384.1 18.283-5.476"/>
+   <path class="link thread7 WhiteStart" d="m603.73 351 6.2234 25.908"/>
+   <path class="link thread11 WhiteEnd" d="m546.97 402.02 26.808 5.0263"/>
+   <path class="link thread8 WhiteStart" d="m584.41 389.91-4.734 18.244"/>
+   <path class="link thread12 WhiteStart" d="m572.28 382.28 13.641 1.8186"/>
+   <path class="link thread8 WhiteEnd" d="m582.6 364.85 2.3006 13.341"/>
+  </g>
+  <g stroke-width="4.0034">
+   <path class="link thread15 WhiteEnd" d="m850.43 472.49 27.299 9.2152" stroke="#90f"/>
+   <path class="link thread16 WhiteStart" d="m873.68 456.02 9.7329 27.606" stroke="#90f"/>
+   <path class="link thread50 WhiteEnd" d="m832.58 454.91-15.278 33.115" stroke="#000"/>
+   <path class="link thread49 WhiteStart" d="m845.26 475.53-30.476 17.934" stroke="#000"/>
+   <path class="link thread15 WhiteStart" d="m836.85 459.12 13.581 13.376" stroke="#90f"/>
+   <path class="link thread49 WhiteEnd" d="m871.69 450.36-17.1 17.803" stroke="#000"/>
+   <path class="link thread16 WhiteEnd" d="m853.85 433.42 13.484 12.809" stroke="#90f"/>
+   <path class="link thread49 WhiteStart" d="m889.07 419.5-17.385 30.857" stroke="#000"/>
+   <path class="link thread15 WhiteEnd" d="m818.54 420.27 11.785 29.076" stroke="#90f"/>
+   <path class="link thread50 WhiteStart" d="m849.63 437.68-17.056 17.223" stroke="#000"/>
+   <path class="link thread16 WhiteStart" d="m824.16 422.36 29.694 11.056" stroke="#90f"/>
+  </g>
+  <g stroke="#000" stroke-width="4.0034">
+   <path class="link thread50 WhiteEnd" d="m892.02 414.28-32.801 16.453"/>
+   <path class="link thread23 WhiteStart" d="m967.7 402.17 18.983-4.262"/>
+   <path class="link thread19 WhiteEnd" d="m991.31 373.34-3.5156 18.677"/>
+   <path class="link thread24 WhiteEnd" d="m966.85 378.93 18.606-4.2575"/>
+   <path class="link thread19 WhiteStart" d="m983.37 346.45 7.9382 26.89"/>
+   <path class="link thread23 WhiteEnd" d="m928.1 395.23 27.914 6.8324"/>
+   <path class="link thread20 WhiteStart" d="m965.65 384.81-3.8089 18.675"/>
+   <path class="link thread24 WhiteStart" d="m952.74 376.25 14.117 2.685"/>
+   <path class="link thread20 WhiteEnd" d="m962.51 359.26 3.0491 13.814"/>
+  </g>
+  <g stroke-width="4.0034">
+   <path class="link thread3 WhiteEnd" d="m467.79 480.33 25.712 8.0152" stroke="#90f"/>
+   <path class="link thread4 WhiteStart" d="m491.23 463.84 8.0016 26.29" stroke="#90f"/>
+   <path class="link thread38 WhiteEnd" d="m451.27 463.77-16.135 32.265" stroke="#000"/>
+   <path class="link thread37 WhiteStart" d="m462.64 483.4-30.187 17.994" stroke="#000"/>
+   <path class="link thread3 WhiteStart" d="m455.51 468.01 12.285 12.317" stroke="#90f"/>
+   <path class="link thread37 WhiteEnd" d="m489.48 458.1-17.501 17.935" stroke="#000"/>
+   <path class="link thread4 WhiteEnd" d="m472.96 442.17 12.202 11.77" stroke="#90f"/>
+   <path class="link thread37 WhiteStart" d="m507.79 427.26-18.306 30.841" stroke="#000"/>
+   <path class="link thread3 WhiteEnd" d="m439.59 430.79 9.6748 27.325" stroke="#90f"/>
+   <path class="link thread38 WhiteStart" d="m468.71 446.4-17.442 17.366" stroke="#000"/>
+   <path class="link thread4 WhiteStart" d="m445.27 432.72 27.692 9.444" stroke="#90f"/>
+  </g>
+  <g stroke="#000" stroke-width="4.0034">
+   <path class="link thread38 WhiteEnd" d="m510.85 422.1-32.586 17.256"/>
+   <path class="link thread49 WhiteEnd" d="m912.97 379.29-17.868 29.842"/>
+   <path class="link thread50 WhiteStart" d="m922.8 398.03-30.779 16.247"/>
+   <path class="link thread23 WhiteStart" d="m917.1 383.64 11.004 11.591"/>
+   <path class="link thread50 WhiteEnd" d="m946.84 375.13-14.647 15.712"/>
+   <path class="link thread24 WhiteEnd" d="m933.13 361.63 9.4392 9.2897"/>
+   <path class="link thread50 WhiteStart" d="m958.3 363.53-11.453 11.598"/>
+   <path class="link thread23 WhiteEnd" d="m907.8 345.64 4.2562 27.713"/>
+   <path class="link thread49 WhiteStart" d="m928.61 365.58-15.644 13.703"/>
+   <path class="link thread24 WhiteStart" d="m930.63 348.78 2.4971 12.846"/>
+   <path class="link thread49 WhiteEnd" d="m948.66 346.09-11.287 11.292"/>
+   <path class="link thread37 WhiteEnd" d="m532.66 387.19-18.631 29.821"/>
+   <path class="link thread38 WhiteStart" d="m541.73 404.94-30.877 17.163"/>
+   <path class="link thread11 WhiteStart" d="m536.83 391.51 10.144 10.513"/>
+   <path class="link thread38 WhiteEnd" d="m566.33 381.49-15.242 16.166"/>
+   <path class="link thread12 WhiteEnd" d="m553.1 368.81 8.8965 8.5264"/>
+   <path class="link thread38 WhiteStart" d="m578.41 369.14-12.074 12.352"/>
+   <path class="link thread11 WhiteEnd" d="m529.46 354.93 2.6113 26.288"/>
+   <path class="link thread37 WhiteStart" d="m548.64 372.83-15.978 14.367"/>
+   <path class="link thread12 WhiteStart" d="m551.32 356.65 1.787 12.166"/>
+   <path class="link thread37 WhiteEnd" d="m569.22 352.47-11.902 12.07"/>
+   <path class="link thread20 WhiteStart" d="m953 350.23 9.5066 9.0336"/>
+   <path class="link thread50 WhiteEnd" d="m981.67 340.69-14.852 14.392"/>
+   <path class="link thread19 WhiteEnd" d="m965.19 326.45 11.94 10.32"/>
+   <path class="link thread50 WhiteStart" d="m996.02 311.73-14.353 28.966"/>
+   <path class="link thread20 WhiteEnd" d="m929.48 342.89 13.253 2.2128"/>
+   <path class="link thread49 WhiteStart" d="m961.33 331.04-12.673 15.055"/>
+   <path class="link thread19 WhiteStart" d="m937.11 322.43 28.082 4.0223"/>
+   <path class="link thread49 WhiteEnd" d="m998.69 306.35-28.352 17.011"/>
+   <path class="link thread8 WhiteStart" d="m573.62 356.55 8.9773 8.3042"/>
+   <path class="link thread38 WhiteEnd" d="m602.33 345.16-15.48 15.448"/>
+   <path class="link thread7 WhiteEnd" d="m586.65 332.1 11.063 9.2229"/>
+   <path class="link thread38 WhiteStart" d="m618.03 315.17-15.707 29.997"/>
+   <path class="link thread8 WhiteEnd" d="m550.44 350.71 12.8 1.1995"/>
+   <path class="link thread37 WhiteStart" d="m582.75 336.66-13.535 15.814"/>
+   <path class="link thread7 WhiteStart" d="m559.49 330.42 27.167 1.6738"/>
+   <path class="link thread37 WhiteEnd" d="m620.82 309.85-29.134 18.974"/>
+   <path class="link thread8 WhiteStart" d="m535.34 353.75 15.103-3.0382"/>
+   <path class="link thread12 WhiteEnd" d="m553.5 330.06-2.1773 14.721"/>
+   <path class="link thread7 WhiteEnd" d="m531.59 333.16 15.973-2.2654"/>
+   <path class="link thread12 WhiteStart" d="m541.28 313.98 12.217 16.071"/>
+   <path class="link thread8 WhiteEnd" d="m507.16 340.59 17.251 11.094"/>
+   <path class="link thread11 WhiteStart" d="m531 339.14-1.5437 15.798"/>
+   <path class="link thread7 WhiteStart" d="m512.9 338.85 18.684-5.6838"/>
+   <path class="link thread11 WhiteEnd" d="m537.65 309.21-4.5927 18.14"/>
+   <path class="link thread20 WhiteStart" d="m913.75 344.89 15.73-1.9943"/>
+   <path class="link thread24 WhiteEnd" d="m931.17 321.58-1.2133 15.335"/>
+   <path class="link thread19 WhiteEnd" d="m908.95 323.44 16.239-1.3612"/>
+   <path class="link thread24 WhiteStart" d="m917.5 303.92 13.666 17.653"/>
+   <path class="link thread20 WhiteEnd" d="m884.09 329.54 18.747 12.731"/>
+   <path class="link thread23 WhiteStart" d="m908.64 329.43-0.84021 16.211"/>
+   <path class="link thread19 WhiteStart" d="m889.92 328.11 19.034-4.6711"/>
+   <path class="link thread23 WhiteEnd" d="m913.83 299.18-3.6963 18.377"/>
+  </g>
+  <path class="link thread4 WhiteEnd" d="m407.97 418.87 26.011 9.7967" stroke="#90f" stroke-width="4.0034"/>
+  <path class="link thread3 WhiteStart" d="m429.7 404.2 9.8894 26.582" stroke="#90f" stroke-width="4.0034"/>
+  <g stroke="#000" stroke-width="4.0034">
+   <path class="link thread33 WhiteEnd" d="m427.61 398.58-15.471 15.983"/>
+   <path class="link thread33 WhiteStart" d="m442.3 369.34-14.688 29.235"/>
+   <path class="link thread34 WhiteEnd" d="m444.99 363.98-28.824 15.591"/>
+  </g>
+  <g stroke="#90f" stroke-width="4.0034">
+   <path class="link thread16 WhiteEnd" d="m784.71 407.02 28.237 11.06"/>
+   <path class="link thread15 WhiteStart" d="m806.57 391.99 11.966 28.279"/>
+   <path class="link thread46 WhiteEnd" d="m766.19 389.29-13.813 29.745"/>
+   <path class="link thread45 WhiteStart" d="m779.35 409.71-29.498 14.769"/>
+   <path class="link thread16 WhiteStart" d="m770.53 393.44 14.189 13.582"/>
+   <path class="link thread45 WhiteEnd" d="m804.23 386.47-15.388 16.205"/>
+   <path class="link thread15 WhiteEnd" d="m785.77 369.33 14.064 13.053"/>
+   <path class="link thread45 WhiteStart" d="m818.21 356.62-13.977 29.846"/>
+   <path class="link thread16 WhiteEnd" d="m751.29 356.46 12.423 27.369"/>
+   <path class="link thread46 WhiteStart" d="m781.57 373.61-15.379 15.677"/>
+   <path class="link thread15 WhiteStart" d="m756.91 358.56 28.863 10.774"/>
+   <path class="link thread46 WhiteEnd" d="m820.75 351.19-29.657 15.383"/>
+  </g>
+  <g stroke="#000" stroke-width="4.0034">
+   <path class="link thread7 WhiteEnd" d="m476.72 343.74 24.469-2.5308"/>
+   <path class="link thread8 WhiteStart" d="m496.62 330.95 10.54 9.6389"/>
+   <path class="link thread33 WhiteEnd" d="m463.81 332.1-15.772 26.719"/>
+   <path class="link thread34 WhiteStart" d="m471.67 346.97-26.672 17.015"/>
+   <path class="link thread7 WhiteStart" d="m468.27 336.12 8.4541 7.6259"/>
+   <path class="link thread34 WhiteEnd" d="m492.19 326.91-11.41 12.418"/>
+   <path class="link thread8 WhiteEnd" d="m480.21 316.2 7.5062 6.7098"/>
+   <path class="link thread34 WhiteStart" d="m499.14 311.15-6.9492 15.752"/>
+   <path class="link thread7 WhiteEnd" d="m465.31 302.8-1.1906 23.301"/>
+   <path class="link thread33 WhiteStart" d="m475.91 320.37-12.091 11.723"/>
+   <path class="link thread8 WhiteStart" d="m469.77 306.81 10.44 9.3828"/>
+   <path class="link thread33 WhiteEnd" d="m501.56 305.66-15.97 7.8788"/>
+   <path class="link thread19 WhiteEnd" d="m852.75 331.24 25.349-1.3747"/>
+   <path class="link thread20 WhiteStart" d="m872.49 318.72 11.6 10.818"/>
+  </g>
+  <g stroke-width="4.0034">
+   <path class="link thread45 WhiteEnd" d="m839.18 318.79-15.456 27.177" stroke="#90f"/>
+   <path class="link thread46 WhiteStart" d="m847.66 334.41-26.904 16.771" stroke="#90f"/>
+   <path class="link thread19 WhiteStart" d="m843.6 322.85 9.1513 8.3922" stroke="#000"/>
+   <path class="link thread46 WhiteEnd" d="m868.1 314.63-11.28 12.204" stroke="#90f"/>
+   <path class="link thread20 WhiteEnd" d="m855.27 302.98 8.3941 7.6211" stroke="#000"/>
+   <path class="link thread46 WhiteStart" d="m874.42 298.98-6.3156 15.651" stroke="#90f"/>
+   <path class="link thread19 WhiteEnd" d="m839.16 288.43 0.0166 24.36" stroke="#000"/>
+   <path class="link thread45 WhiteStart" d="m850.99 307.18-11.811 11.611" stroke="#90f"/>
+   <path class="link thread20 WhiteStart" d="m843.61 292.45 11.657 10.523" stroke="#000"/>
+   <path class="link thread45 WhiteEnd" d="m876.66 293.41-15.919 7.1133" stroke="#90f"/>
+   <path class="link thread24 WhiteEnd" d="m897.8 284.57 11.593 10.565" stroke="#000"/>
+   <path class="link thread23 WhiteStart" d="m913.5 275.63 0.32794 23.551" stroke="#000"/>
+   <path class="link thread46 WhiteEnd" d="m884.76 272.62-5.922 15.207" stroke="#90f"/>
+   <path class="link thread45 WhiteStart" d="m892.27 286.89-15.605 6.526" stroke="#90f"/>
+   <path class="link thread24 WhiteStart" d="m889.19 276.67 8.6184 7.9022" stroke="#000"/>
+   <path class="link thread45 WhiteEnd" d="m913.42 269.63-11.281 10.796" stroke="#90f"/>
+   <path class="link thread23 WhiteEnd" d="m899.74 257.59 9.1779 8.0766" stroke="#000"/>
+   <path class="link thread45 WhiteStart" d="m927.83 245.72-14.408 23.913" stroke="#90f"/>
+   <path class="link thread24 WhiteEnd" d="m868.35 258.51 11.866 10.194" stroke="#000"/>
+   <path class="link thread46 WhiteStart" d="m895.5 261.84-10.739 10.778" stroke="#90f"/>
+   <path class="link thread23 WhiteStart" d="m874.34 258.34 25.394-0.74734" stroke="#000"/>
+   <path class="link thread46 WhiteEnd" d="m930.92 240.58-25.919 14.139" stroke="#90f"/>
+  </g>
+  <g stroke="#000" stroke-width="4.0034">
+   <path class="link thread12 WhiteEnd" d="m522.73 295.73 10.467 9.4534"/>
+   <path class="link thread11 WhiteStart" d="m538.59 286.14-0.94268 23.067"/>
+   <path class="link thread34 WhiteEnd" d="m510.56 284.78-6.6194 15.375"/>
+   <path class="link thread33 WhiteStart" d="m517.3 298.28-15.736 7.3827"/>
+   <path class="link thread12 WhiteStart" d="m515.02 288.79 7.7156 6.9419"/>
+   <path class="link thread33 WhiteEnd" d="m538.84 280.15-11.795 11.414"/>
+   <path class="link thread11 WhiteEnd" d="m525.8 268.94 8.4892 7.2981"/>
+   <path class="link thread33 WhiteStart" d="m554.15 255.27-15.307 24.871"/>
+   <path class="link thread12 WhiteEnd" d="m495.2 271.99 10.741 8.9454"/>
+   <path class="link thread34 WhiteStart" d="m521.64 273.26-11.083 11.518"/>
+   <path class="link thread11 WhiteStart" d="m501.17 271.4 24.625-2.4598"/>
+   <path class="link thread34 WhiteEnd" d="m557.29 250.16-26.337 15.699"/>
+   <path class="link thread11 WhiteEnd" d="m471.64 279.76 17.863-5.8864"/>
+   <path class="link thread12 WhiteStart" d="m478.33 262.11 16.877 9.8867"/>
+   <path class="link thread8 WhiteEnd" d="m449.74 283.09 11.85 15.008"/>
+   <path class="link thread7 WhiteStart" d="m470.05 285.54-4.742 17.261"/>
+   <path class="link thread11 WhiteStart" d="m455.67 282.18 15.968-2.428"/>
+   <path class="link thread7 WhiteEnd" d="m473.15 259.07-1.0717 14.7"/>
+   <path class="link thread12 WhiteEnd" d="m452.92 263.57 14.374-3.1929"/>
+   <path class="link thread7 WhiteStart" d="m469.87 236.39 3.2821 22.684"/>
+   <path class="link thread11 WhiteEnd" d="m418.06 282.28 25.688 0.65228"/>
+   <path class="link thread8 WhiteStart" d="m451.96 269.49-2.2127 13.598"/>
+   <path class="link thread12 WhiteStart" d="m440.77 262.87 12.15 0.69577"/>
+   <path class="link thread8 WhiteEnd" d="m449.9 246.81 1.956 10.853"/>
+   <path class="link thread23 WhiteEnd" d="m844.32 264.93 18.234-4.8676"/>
+   <path class="link thread24 WhiteStart" d="m849.83 246.94 18.512 11.57"/>
+   <path class="link thread20 WhiteEnd" d="m821.67 267.27 13.667 16.54"/>
+   <path class="link thread19 WhiteStart" d="m843.03 270.79-3.8733 17.644"/>
+   <path class="link thread23 WhiteStart" d="m827.64 266.65 16.681-1.7232"/>
+   <path class="link thread19 WhiteEnd" d="m844.75 243.76-0.30822 15.166"/>
+   <path class="link thread24 WhiteEnd" d="m823.57 246.89 15.241-2.2519"/>
+   <path class="link thread19 WhiteStart" d="m839.61 219.96 5.1328 23.805"/>
+   <path class="link thread23 WhiteEnd" d="m787.93 264.88 27.751 1.9651"/>
+   <path class="link thread20 WhiteStart" d="m823.01 252.87-1.3452 14.402"/>
+   <path class="link thread24 WhiteStart" d="m810.47 245.55 13.096 1.3436"/>
+   <path class="link thread20 WhiteEnd" d="m819.28 229.62 2.8414 11.448"/>
+   <path class="link thread27 WhiteEnd" d="m1097.7 349.19 29.491 11.807"/>
+   <path class="link thread28 WhiteStart" d="m1119.8 334.72 12.962 28.508"/>
+   <path class="link thread53 WhiteEnd" d="m1079.1 331.59-15.006 28.117"/>
+   <path class="link thread54 WhiteStart" d="m1092.2 351.58-30.91 13.426"/>
+   <path class="link thread27 WhiteStart" d="m1083.5 335.72 14.225 13.469"/>
+   <path class="link thread54 WhiteEnd" d="m1117.3 329.26-15.408 15.656"/>
+   <path class="link thread28 WhiteEnd" d="m1098.8 312.23 14.115 12.965"/>
+   <path class="link thread54 WhiteStart" d="m1130.2 299.65-12.882 29.607"/>
+   <path class="link thread27 WhiteEnd" d="m1065.2 300.01 11.502 26.09"/>
+   <path class="link thread53 WhiteStart" d="m1094.5 316.44-15.389 15.153"/>
+   <path class="link thread28 WhiteStart" d="m1070.8 302.07 27.948 10.166"/>
+   <path class="link thread53 WhiteEnd" d="m1132.6 294.15-28.519 15.255"/>
+  </g>
+  <g stroke-width="4.0034">
+   <path class="link thread15 WhiteEnd" d="m717.01 344.98 28.59 9.5762" stroke="#90f"/>
+   <path class="link thread16 WhiteStart" d="m739.86 328.95 11.426 27.511" stroke="#90f"/>
+   <path class="link thread41 WhiteEnd" d="m699.28 328.8-16.462 29.429" stroke="#000"/>
+   <path class="link thread42 WhiteStart" d="m711.64 347.65-31.745 15.816" stroke="#000"/>
+   <path class="link thread15 WhiteStart" d="m703.72 332.85 13.293 12.129" stroke="#90f"/>
+   <path class="link thread42 WhiteEnd" d="m737.56 323.41-16.414 17.226" stroke="#000"/>
+   <path class="link thread16 WhiteEnd" d="m719.89 307.77 13.175 11.664" stroke="#90f"/>
+   <path class="link thread42 WhiteStart" d="m752.04 292.14-14.48 31.268" stroke="#000"/>
+   <path class="link thread15 WhiteEnd" d="m687.09 298.43 9.96 24.807" stroke="#90f"/>
+   <path class="link thread41 WhiteStart" d="m715.69 312.05-16.411 16.752" stroke="#000"/>
+   <path class="link thread16 WhiteStart" d="m692.86 300.07 27.035 7.6951" stroke="#90f"/>
+  </g>
+  <g stroke="#000" stroke-width="4.0034">
+   <path class="link thread41 WhiteEnd" d="m754.56 286.69-29.541 17.955"/>
+   <path class="link thread29 WhiteEnd" d="m434.78 262.53-12.846 15.175"/>
+   <path class="link thread12 WhiteEnd" d="m421.26 251.86 8.8119 6.9513"/>
+   <path class="link thread29 WhiteStart" d="m445.74 251.13-10.96 11.395"/>
+   <path class="link thread30 WhiteEnd" d="m436.56 236.05-11.132 11.499"/>
+   <path class="link thread42 WhiteEnd" d="m771.26 252.15-14.089 29.146"/>
+   <path class="link thread41 WhiteStart" d="m782.91 268.16-28.348 18.532"/>
+   <path class="link thread23 WhiteStart" d="m776.03 255.79 11.901 9.09"/>
+   <path class="link thread41 WhiteEnd" d="m804.51 244.94-12.74 15.328"/>
+   <path class="link thread24 WhiteEnd" d="m790.08 233.6 9.7106 7.6287"/>
+   <path class="link thread41 WhiteStart" d="m815.12 233.94-10.611 10.997"/>
+   <path class="link thread23 WhiteEnd" d="m761.34 222.39 8.0278 24.069"/>
+   <path class="link thread42 WhiteStart" d="m785.8 237.81-14.542 14.334"/>
+   <path class="link thread24 WhiteStart" d="m786.8 221.73 3.2789 11.866"/>
+   <path class="link thread42 WhiteEnd" d="m805.07 218.21-10.802 11.088"/>
+   <path class="link thread8 WhiteStart" d="m441.23 239.82 8.6669 6.9912"/>
+   <path class="link thread29 WhiteEnd" d="m469.01 230.45-14.552 12.457"/>
+   <path class="link thread7 WhiteEnd" d="m454.61 218.03 9.8549 8.4977"/>
+   <path class="link thread29 WhiteStart" d="m485.24 206.05-16.228 24.398"/>
+   <path class="link thread8 WhiteEnd" d="m417.65 234.84 12.924 0.8286"/>
+   <path class="link thread30 WhiteStart" d="m450.36 222.27-13.802 13.777"/>
+   <path class="link thread20 WhiteStart" d="m809.75 221.97 9.5374 7.6517"/>
+   <path class="link thread41 WhiteEnd" d="m838.35 214.09-14.413 11.739"/>
+   <path class="link thread28 WhiteEnd" d="m1032.3 288.46 27.257 9.5685"/>
+   <path class="link thread27 WhiteStart" d="m1054 274.49 11.17 25.529"/>
+   <path class="link thread50 WhiteEnd" d="m1013.7 271.6-12.632 29.241"/>
+   <path class="link thread49 WhiteStart" d="m1027 291.28-28.287 15.072"/>
+   <path class="link thread28 WhiteStart" d="m1018.1 275.63 14.128 12.824"/>
+   <path class="link thread49 WhiteEnd" d="m1051.6 268.99-15.114 15.214"/>
+   <path class="link thread27 WhiteEnd" d="m1033.1 252.64 14.001 12.373"/>
+   <path class="link thread49 WhiteStart" d="m1066.1 242.56-14.516 26.425"/>
+   <path class="link thread28 WhiteEnd" d="m997.76 239.7 13.255 26.537"/>
+   <path class="link thread50 WhiteStart" d="m1028.8 256.83-15.124 14.768"/>
+   <path class="link thread27 WhiteStart" d="m1003.4 241.76 29.719 10.882"/>
+   <path class="link thread50 WhiteEnd" d="m1069 237.3-30.384 12.981"/>
+   <path class="link thread32 WhiteEnd" d="m1103 221.83 27.44 7.1873"/>
+   <path class="link thread20 WhiteStart" d="m767.13 220.82 18.072-4.8725"/>
+   <path class="link thread20 WhiteEnd" d="m728.53 216.94 26.885 4.4666"/>
+   <path class="link thread23 WhiteStart" d="m764.83 206.14-3.4948 16.242"/>
+  </g>
+  <g stroke-width="4.0034">
+   <path class="link thread16 WhiteEnd" d="m655.03 289.57 26.27 7.2638" stroke="#90f"/>
+   <path class="link thread15 WhiteStart" d="m677.41 274.11 9.6794 24.314" stroke="#90f"/>
+   <path class="link thread38 WhiteEnd" d="m637.38 274.32-14.033 30.093" stroke="#000"/>
+   <path class="link thread37 WhiteStart" d="m649.87 292.62-29.057 17.226" stroke="#000"/>
+   <path class="link thread16 WhiteStart" d="m641.93 278.24 13.109 11.324" stroke="#90f"/>
+   <path class="link thread37 WhiteEnd" d="m675.19 268.54-16.002 16.694" stroke="#000"/>
+   <path class="link thread15 WhiteEnd" d="m657.56 253.81 13.024 10.885" stroke="#90f"/>
+   <path class="link thread37 WhiteStart" d="m690.99 240.6-15.797 27.94" stroke="#000"/>
+   <path class="link thread16 WhiteEnd" d="m623.23 244.06 11.613 24.821" stroke="#90f"/>
+   <path class="link thread38 WhiteStart" d="m653.35 258.08-15.969 16.235" stroke="#000"/>
+   <path class="link thread15 WhiteStart" d="m629 245.7 28.56 8.105" stroke="#90f"/>
+  </g>
+  <g stroke="#000" stroke-width="4.0034">
+   <path class="link thread38 WhiteEnd" d="m693.94 235.38-31.026 15.719"/>
+   <path class="link thread49 WhiteEnd" d="m1087.1 207.28-14.964 24.887"/>
+   <path class="link thread50 WhiteStart" d="m1097.5 224.32-28.491 12.985"/>
+   <path class="link thread32 WhiteStart" d="m1091.5 211.33 11.47 10.504"/>
+   <path class="link thread37 WhiteEnd" d="m713.06 203.86-16.011 26.389"/>
+   <path class="link thread38 WhiteStart" d="m723.24 219.76-29.299 15.618"/>
+  </g>
+  <g stroke-width="4.0034">
+   <path class="link thread15 WhiteEnd" d="m590.35 233.94 27.143 8.3554" stroke="#90f"/>
+   <path class="link thread16 WhiteStart" d="m611.18 220.57 12.048 23.49" stroke="#90f"/>
+   <path class="link thread33 WhiteEnd" d="m571.92 219.39-12.05 25.356" stroke="#000"/>
+   <path class="link thread34 WhiteStart" d="m584.96 236.59-27.674 13.578" stroke="#000"/>
+   <path class="link thread15 WhiteStart" d="m576.62 223.11 13.726 10.836" stroke="#90f"/>
+  </g>
+  <g stroke="#000" stroke-width="4.0034">
+   <path class="link thread34 WhiteEnd" d="m608.44 215.24-13.92 14.395"/>
+   <path class="link thread27 WhiteEnd" d="m963.77 226.66 28.391 10.888"/>
+   <path class="link thread28 WhiteStart" d="m984.21 214.53 13.555 25.17"/>
+  </g>
+  <g stroke-width="4.0034">
+   <path class="link thread45 WhiteEnd" d="m944.31 210.31-10.961 24.775" stroke="#90f"/>
+   <path class="link thread46 WhiteStart" d="m958.25 229-27.321 11.575" stroke="#90f"/>
+   <path class="link thread27 WhiteStart" d="m948.91 214.17 14.863 12.487" stroke="#000"/>
+   <path class="link thread46 WhiteEnd" d="m981.36 209.25-13.328 13.195" stroke="#90f"/>
+  </g>
+  <rect transform="matrix(1 -.0014157 -.00035422 -1 0 0)" x="428.44" y="-907.84" width="684.55" height="683.4" stroke="#fafafa" stroke-linejoin="round" stroke-width="16.013"/>
+ </g>
+</svg>

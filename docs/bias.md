@@ -39,7 +39,7 @@ Sometimes, the bias ground is referred to as [_rose ground_](roses), especially 
 ![traditional][p-0221-tr] 
 <p style="clear: both"></p>
 
-[p-0221-tr]: ../images/bias/g-bias-tr.svg?align=left "traditional bias ground"
+[p-0221-tr]: ../images/bias/g-bias-tr.svg?align=right "traditional bias ground"
 
 ### examples with one middle stitch
 
@@ -161,7 +161,7 @@ See also <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a>: D6 a
 <p style="clear: both"></p>
 
 [p-bias-xt]: ../images/bias/g-bias-xt.svg?align=right "tradtional bias crossed, 0278-KK"
-[p-xt-0278-KK]: ../images/bias/g-bias-xt.svg "0278-KK"
+[p-xt-0278-KK]: ../images/bias/xt-0278-KK.svg "0278-KK"
 
 [t-xt-0278-KK]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=c&a2=c&b2=ctct&c2=c&d2=tctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=8-48,8314
 
@@ -178,11 +178,12 @@ See also <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a>: E6.
 <p style="clear: both"></p>
 
 [p-bias-xa]: ../images/bias/g-bias-xa.svg?align=right "alternated bias crossing, 0280-LL"
-[p-xa-0280-LL]: ../images/bias/g-bias-xa.svg "0280-LL"
+[p-xa-0280-LL]: ../images/bias/xa-0280-LL.svg "0280-LL"
 
 [t-xa-0280-LL]: /GroundForge/stitches?patchWidth=12&patchHeight=12&h1=ctc&g1=lcr&f1=ctc&d1=ctc&c1=lctcr&b1=ctc&a1=rctcl&h2=lctcr&g2=ctc&f2=rctcl&e2=ctc&d2=lcr&c2=ctc&a2=ctc&h3=ctc&f3=ctc&e3=lctcr&d3=ctc&c3=rctcl&b3=ctc&a3=lcr&h4=rctcl&g4=ctc&f4=lcr&e4=ctc&c4=ctc&b4=lctcr&a4=ctc&tile=1488-483,8-483148,831488-4,488-4831&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Bias Ground with a diagonal in between
+
 ![][p-bias-vg]
 [![][p-vg-0221-N]][t-vg-0221-N]
 <p style="clear: both"></p>
@@ -193,8 +194,8 @@ See also <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a>: E6.
 
 [p-bias-vg]: ../images/bias/g-bias-vg.svg?align=right "bias with diagonalN"
 [p-bias-sq]: ../images/bias/g-bias-sq.svg?align=right "bias in diamond"
-[p-vg-0221-N]: ../images/bias/g-bias-vg.svg "0221-N"
-[p-sq-0036-L]: ../images/bias/g-bias-sq.svg "0236-L"
+[p-vg-0221-N]: ../images/bias/vg-0221-N.svg "0221-N"
+[p-sq-0036-L]: ../images/bias/sq-0036-L.svg "0236-L"
 
 [t-vg-0221-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&d1=ct&e1=ctct&b2=ctct&d2=ctct&e2=ct&f2=ctct&a3=ctct&c3=ctct&e3=ctct&f3=ct&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5-486-,-5-486,6-5-48
 [t-sq-0036-L]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&d1=ctc&e1=ctc&b2=ctct&d2=ctcl&e2=ctc&f2=ctc&a3=ctct&c3=ctct&e3=ctcl&f3=ctct&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=5-486-,-5-486,6-5-48
@@ -206,17 +207,18 @@ See also <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a>: E6.
 <p style="clear: both"></p>
 
 [p-bias-xd]: ../images/bias/g-bias-xd.svg?align=right "bias crossed with diagonal"
-[p-xd-0221-N]: ../images/bias/g-bias-xd.svg "0221-N"
+[p-xd-0221-N]: ../images/bias/xd-0221-N.svg "0221-N"
 
 [t-xd-0221-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctct&c1=ctct&e1=ctct&f1=ct&a2=ctct&b2=ctct&c2=ctct&d2=ctct&e2=ctct&f2=ctct&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-4&shiftRowsSW=2&tile=8-7-48,831214
 
 ## Unit bias in a diamond
+
 [![][p-bias-uni]
 [![][p-uni-0235-L]][t-uni-0235-L]
 <p style="clear: both"></p>
 
 [p-bias-uni]: ../images/bias/g-bias-uni.svg?align=right "one bias unit in diamond"
-[p-uni-0235-L]: ../images/bias/g-bias-uni.svg "0235-L"
+[p-uni-0235-L]: ../images/bias/uni-0235-L.svg "0235-L"
 
 [t-uni-0235-L]: /GroundForge/stitches?patchWidth=12&patchHeight=12&b1=ctct&d1=ctct&f1=ctct&a2=ctc&c2=ctct&e2=ctct&a3=ctc&b3=ctcr&d3=ctct&f3=ctcl&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=-5-4-5,5-5-5-,86-5-5
 
@@ -227,7 +229,7 @@ See also <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a>: E6.
 <p style="clear: both"></p>
 
 [p-bias-unx]: ../images/bias/g-bias-unx.svg?align=right "one crossed bias unit in diamond"
-[p-unx-0221-N]: ../images/bias/g-bias-unx.svg "0221-N"
+[p-unx-0221-N]: ../images/bias/unx-0221-N.svg "0221-N"
 
 [t-unx-0221-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&b1=ctct&c1=ct&d1=ctct&e1=ct&f1=ctct&a2=ctct&b2=ct&c2=ctct&e2=ctct&f2=ct&a3=ct&b3=ctct&d3=ctct&f3=ctct&shiftColsSE=3&shiftRowsSE=3&shiftColsSW=-3&shiftRowsSW=3&tile=-21486,317-48,88-5-4
 
@@ -249,10 +251,10 @@ Take just one unit of the Bias ground and place them all in the same direction, 
 <p style="clear: both"></p>
 
 [p-bias-ui]: ../images/bias/g-bias-ui.svg?align=right "units in same direction"
-[p-ui-0228-N]: ../images/bias/g-bias-ui.svg? "0228-N"
 [p-bias-uy]: ../images/bias/g-bias-uy.svg?align=right "units in alternating directions"
-[p-uy-0228-N]: ../images/bias/g-bias-uy.svg? "0228-N"
-[p-uy-0267-L]: ../images/bias/g-bias-uy.svg? "0267-L, by V. Irvine"
+[p-ui-0228-N]: ../images/bias/p-ui-0228-N.svg? "0228-N"
+[p-uy-0228-N]: ../images/bias/uy-0228-N.svg? "0228-N"
+[p-uy-0267-L]: ../images/bias/uy-0267-L.svg? "0267-L, by V. Irvine"
 [foto-uy-0228]: ../images/bias/uy-0228-foto.jpg?align=right "solo units placed in alternating directions, 0228-N"
 
 [t-ui-0228-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=tct&b1=ctc&d1=ctc&a2=ctc&c2=ctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=86-5,4-5-
@@ -266,8 +268,8 @@ Take just one unit of the Bias ground and place them all in the same direction, 
 Take one unit of the Bias ground, place them in alternating directions, and cross at the corners.  
 <p style="clear: both"></p>
 
-[p-bias-uix]: ../images/bias/g-bias-uix.svg?align=left "alternating and crossed, 0248-N"
-[p-uix-0248-N]: ../images/bias/g-bias-uix.svg?align=left "alternating and crossed, 0248-N"
+[p-bias-uix]: ../images/bias/g-bias-uix.svg?align=right "alternating and crossed"
+[p-uix-0248-N]: ../images/bias/uix-0248-N "alternating and crossed, 0248-N"
 
 [t-uix-0248-N]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctc&b1=ctc&a1=tct&d2=c&c2=ctc&b2=c&a2=ctc&d3=ctc&c3=tct&b3=ctc&d4=c&c4=ctc&b4=c&a4=ctc&tile=88-4,4831,-117,3178,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
@@ -282,9 +284,9 @@ Take one unit of the Bias ground, place them in alternating directions, and cros
 <p style="clear: both"></p>
 
 [p-bias-ya]: ../images/bias/g-bias-ya.svg?align=right "alternated"
-[p-ya-0221-N]: ../images/bias/g-bias-ya.svg "0221-N"
 [p-bias-yb]: ../images/bias/g-bias-yb.svg?align=right "alternated and offset"
-[p-yb-0221-D]: ../images/bias/g-bias-yb.svg "0221-D"
+[p-ya-0221-N]: ../images/bias/ya-0221-N.svg "0221-N"
+[p-yb-0221-D]: ../images/bias/b-0221-D.svg "0221-D"
 
 [t-ya-0221-N]: /GroundForge/stitches.html?patchWidth=15&patchHeight=15&tile=14-2,8-58&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=ctct&b1=ctct&a1=ct&d2=ct&c2=ctct&a2=ctct
 [t-yb-0221-D]: /GroundForge/stitches.html?patchWidth=15&patchHeight=15&tile=14-,8-2,-58&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=3&shiftRowsSE=1&b1=ctct&a1=ctct&c2=ctct&a2=ctct&c3=ct&b3=ctct
@@ -298,7 +300,7 @@ Of course, this pull-back through two can be extended further: pull-back through
 [![][p-d2-01]][t-d2-01]
 
 [p-bias-d2]: ../images/bias/g-bias-d2.svg?align=right "double bias"
-[p-d2-01]: ../images/bias/g-bias-d2.svg
+[p-d2-01]: ../images/bias/d2-01.svg
 
 [t-d2-01]: /GroundForge/stitches?patchWidth=15&patchHeight=15&d1=rctcr&c1=ctc&b1=ctc&a1=lctcl&b2=ctc&tile=2A1C,-7--&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=1
 
