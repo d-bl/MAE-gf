@@ -16,6 +16,9 @@
 
 On this website you will find pages with additional patterns for use in Groundforge, a web application made by [Jo Pol][gf-jo]. Given are the parameter-section and stitches, although not always traditional.    
 
+GroundForge is meant to explore and experiment with the patterns, to create variations and to share them. 
+All grounds and ground-variants in this gallery are traditional, or published with permission, or found by ourselves. Of course, coïncidences happen. 
+
 ## How to use these pages
 
 All examples are links to the Groundforge main page. Just follow the link. If a picture has a light-blue coloured border, please click on the picture. Please feel free to play with the stitches. E.g. try what happens if you change the default <span class="stch">ctc</span> of the spiders or fish in <span class="stch">ct</span>.     
