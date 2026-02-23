@@ -11,7 +11,7 @@ title: Windmills
 * [Windmill snowflakes framed with a Paris ground](#windmill-snowflakes-framed-with-a-paris-ground)
 * [Ringed paired windmills snowflakes](#ringed-paired-windmill-snowflakes)
 * [Windmill snowflakes in a diamond](#windmill-snowflakes-in-a-diamond)  
-* [Diagonal windmills](#diagonal-windmills)
+* [Diagonal windmills](#diagonal-windmill-snowflakes)
 
 ## Introduction
 
@@ -60,10 +60,12 @@ The name of these snowflakes is based on origami.
 [p-43v1]: ../images/windmills/43v1.svg "43v1"
 [t-43v1]: /GroundForge/stitches?patchWidth=12&patchHeight=12&g1=ctct&e1=ctct&c1=ctc&a1=ctct&h2=ctct&f2=ctct&d2=ctc&c2=ctc&b2=ctc&g3=ctct&e3=ctcr&d3=ctc&c3=ctc&b3=ctc&a3=ctcl&h4=ctct&f4=ctct&d4=ctcr&c4=ctc&b4=ctc&tile=5-5-5-7-,-215-5-5,58886-5-,-114-5-5&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
-## Diagonal windmills
+## Diagonal windmill snowflakes
 
 ![diagnonal windmill][p-G43d]
+[![][p-43d1]][t-43d1]
+<p style="clear: both"></p>
 
 [p-G43d]: ../images/windmills/G43d.svg?align=right "diagonal windmill"
-
+[p-43v1]: ../images/windmills/43d1.svg "43d1"
 [t-43d1]: /GroundForge/stitches.html?patchWidth=20&patchHeight=20&tile=-215-5-5-4-,5-7-586-5-5&shiftColsSW=-4&shiftRowsSW=2&shiftColsSE=6&shiftRowsSE=2&j1=ctc&h1=tct&f1=ctc&d1=ctc&c1=tctctct&b1=ctc&k2=ctc&i2=ctc&g2=ctc&f2=tctctct&e2=ctc&c2=ctc&a2=ctc
