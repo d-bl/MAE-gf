@@ -11,7 +11,7 @@ title: Windmills
 * [Windmill snowflakes framed with a Paris ground](#windmill-snowflakes-framed-with-a-paris-ground)
 * [Ringed paired windmills snowflakes](#ringed-paired-windmill-snowflakes)
 * [Windmill snowflakes in a diamond](#windmill-snowflakes-in-a-diamond)  
-* [Diagonal windmills](#diagonal-windmill-snowflakes)
+* [Diagonal windmill snowflakes](#diagonal-windmill-snowflakes)
 
 ## Introduction
 
