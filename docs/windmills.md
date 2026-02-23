@@ -67,5 +67,5 @@ The name of these snowflakes is based on origami.
 <p style="clear: both"></p>
 
 [p-G43d]: ../images/windmills/G43d.svg?align=right "diagonal windmill"
-[p-43v1]: ../images/windmills/43d1.svg "43d1"
+[p-43d1]: ../images/windmills/43d1.svg "43d1"
 [t-43d1]: /GroundForge/stitches.html?patchWidth=20&patchHeight=20&tile=-215-5-5-4-,5-7-586-5-5&shiftColsSW=-4&shiftRowsSW=2&shiftColsSE=6&shiftRowsSE=2&j1=ctc&h1=tct&f1=ctc&d1=ctc&c1=tctctct&b1=ctc&k2=ctc&i2=ctc&g2=ctc&f2=tctctct&e2=ctc&c2=ctc&a2=ctc
