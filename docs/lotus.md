@@ -19,10 +19,6 @@ If the end is made with the same pairs as the start, the ground is called [_Fish
 
 Please note: some of the examples below are known als _Lattice_.           
 
-Please note: if a lotus has an odd number of horizontal, like H3, the weavers change direction at the next set of lotus. This is not shown in the definitions used for the examples.
-
-<p style="clear: both"></p>
-
 ## Lotus notation
 
 Lotus H,V,X means: the number of Horizontal rows, the number of Verticals and the number of rows in between. See the picture. 

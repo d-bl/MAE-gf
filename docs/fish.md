@@ -20,8 +20,7 @@ If the tail is made with pairs not from the same fish, the ground is called [_Lo
 Fish can also be made using the <span class="elem">Droste function</span> of GroundForge. See page [_Droste_](droste).
 
 Broader fish can be made, e.g. with four cloth stitches.       
-In some Milanese grounds, the heads and tails are made as a cloth stitch with pairs. Groundforge does not support this. Making the head and tail as a half spider is supported.    
-Please note: if a fish has an odd number of bones, like B3, the weavers change direction at the next set of fish. This is not shown in the definitions used for the examples.   
+In some Milanese grounds, the heads and tails are made as a cloth stitch with pairs. Groundforge does not support this. Making the head and tail as a half spider is supported. 
 
 ## Fish notation
 
