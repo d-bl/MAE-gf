@@ -76,7 +76,7 @@ Fish B,S,W means: the number of Bones, the number of Spines and the number of Wa
 
 [t-F223]: /GroundForge/stitches?patchWidth=8&patchHeight=17&b1=ctct&a2=ctct&b3=ct&a4=ctct&b5=ctc&a6=rctc&b6=ctc&a7=ctcr&b7=ctc&tile=-4,5-,-5,5-,-5,21,88,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=7&shiftColsSE=2&shiftRowsSE=7
 
-[t-F322]: /GroundForge/stitches?patchWidth=8&patchHeight=17&a1=ctct&b2=ctct&a3=ctc&a4=ctclll&b4=ctc&a5=ctc&b5=ctcrrr&a6=ctclll&b6=ctc&a7=ctct&tile=5-,-5,5-,12,88,11,4-,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=7&shiftColsSE=1&shiftRowsSE=7
+[t-F322]: /GroundForge/stitches.html?patchWidth=10&patchHeight=22&tile=-5,5-,12,88,11,4-,-5,5-,-5,98,11,88,-4,5-&shiftColsSW=0&shiftRowsSW=14&shiftColsSE=2&shiftRowsSE=14&b1=ctct&a2=ctc&b3=ctc&a3=ctclll&b4=ctcrrr&a4=ctc&b5=ctc&a5=ctclll&a6=ctct&b7=ctct&a8=ctct&b9=ctc&b10=ctc&a10=ctcrrr&b11=ctclll&a11=ctc&b12=ctc&a12=ctcrrr&b13=ctct&a14=ctct
 
 [t-F42-]: /GroundForge/stitches?whiting=D16_P150&patchWidth=10&patchHeight=12&a1=ctc&a2=ctcll&b2=ctc&a3=ctc&b3=ctcrr&a4=ctcll&b4=ctc&a5=ctc&b5=ctcrr&tile=4-,12,88,11,88,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=5&shiftColsSE=2&shiftRowsSE=5
 
@@ -84,9 +84,9 @@ Fish B,S,W means: the number of Bones, the number of Spines and the number of Wa
 
 [t-F422]: /GroundForge/stitches?whiting=F16_P195&patchWidth=10&patchHeight=16&a1=ctct&b2=ctct&a3=ctc&a4=ctcll&b4=ctc&a5=ctc&b5=ctcrr&a6=ctcll&b6=ctc&a7=ctc&b7=ctcrr&a8=ctct&tile=5-,-5,5-,12,88,11,88,4-,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=8&shiftColsSE=1&shiftRowsSE=8
 
-[t-F52-]: /GroundForge/stitches?patchWidth=10&patchHeight=14&a1=ctc&a2=ctcll&b2=ctc&a3=ctc&b3=ctcrr&a4=ctcll&b4=ctc&a5=ctc&b5=ctcrr&a6=ctcll&b6=ctc&tile=4-,12,88,11,88,11,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6
+[t-F52-]: /GroundForge/stitches.html?patchWidth=15&patchHeight=20&tile=4-,12,88,11,88,11,4-,89,11,88,11,88&shiftColsSW=0&shiftRowsSW=12&shiftColsSE=2&shiftRowsSE=12&a1=ctc&b2=ctc&a2=ctcll&b3=ctcrr&a3=ctc&b4=ctc&a4=ctcll&b5=ctcrr&a5=ctc&b6=ctc&a6=ctcll&a7=ctc&b8=ctcrr&a8=ctc&b9=ctc&a9=ctcll&b10=ctcrr&a10=ctc&b11=ctc&a11=ctcll&b12=ctcrr&a12=ctc
 
-[t-F520]: /GroundForge/stitches?patchWidth=10&patchHeight=14&a1=ctc&a2=ctcll&b2=ctc&a3=ctc&b3=ctcrr&a4=ctcll&b4=ctc&a5=ctc&b5=ctcrr&a6=ctcll&b6=ctc&a7=ctct&tile=5-,12,88,11,88,11,4-,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=7&shiftColsSE=1&shiftRowsSE=7
+[t-F520]: /GroundForge/stitches.html?patchWidth=15&patchHeight=20&tile=5-,12,88,11,88,11,4-,-5,98,11,88,11,88,-4,&shiftColsSW=0&shiftRowsSW=14&shiftColsSE=2&shiftRowsSE=14&a1=ctc&b2=ctc&a2=ctcll&b3=ctcrr&a3=ctc&b4=ctc&a4=ctcll&b5=ctcrr&a5=ctc&b6=ctc&a6=ctcll&a7=ctct&b8=ctc&b9=ctc&a9=ctcrr&b10=ctcll&a10=ctc&b11=ctc&a11=ctcrr&b12=ctcll&a12=ctc&b13=ctc&a13=ctcrr&b14=ctct
 
 [Z422]: /GroundForge/stitches?patchWidth=5&patchHeight=22&g1=ctt&c1=ctt&a1=ctctt&h2=ctctt&b2=ctc&g3=ctc&c3=ctc&b3=ctcll&g4=ctcrr&c4=ctcrr&b4=ctc&a4=ctctt&h5=ctctt&g5=ctc&c5=ctc&b5=ctcll&g6=ctcrr&c6=ctcrr&b6=ctc&a6=ctctt&h7=ctctt&b7=ctctt&g8=ctt&c8=ctt&a8=ctctt&h10=ctctt&a10=ctctr&g11=ctcll&g12=ctcrr&a12=rrctctt&h13=ctctt&g13=ctcll&a14=rrctctt&g15=ctctt&a15=rrctctt&h16=ctctt&footside=4,x,x,4,x,4,x,4,x,4,x,4,x,4,4,x&tile=-5,5-,12,88,11,88,4-,-5,&headside=5x,-7,5x,8x,17,8x,-7,5x,xx,w7,4x,8x,17,xx,7x,-7&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=8&shiftColsSE=1&shiftRowsSE=8
 
