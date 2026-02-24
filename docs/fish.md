@@ -15,7 +15,7 @@ title: Fish
 ## Introduction
 
 Fish grounds are usualy used in small braids, typically 14-18 pairs of bobbins.    
-The grounds consist of a number of rows with two or more cloth stitches followed with some twists in the weaver. Fish starts and closes with a cloth stitch. In between the fish-rows, zero, one ore more rows with e.g. half stitch, pin, half stitch are made. The number of these rows define whether the fish will be in straight vertical lines, or in alternating positions.        
+The grounds consist of a number of rows with two or more cloth stitches followed with some twists in the weaver. Fish starts and closes with a cloth stitch. In between the fish-rows, zero, one or more rows with e.g. half stitch, pin, half stitch are made. The number of these rows define whether the fish will be in straight vertical lines, or in alternating positions.        
 If the tail is made with pairs not from the same fish, the ground is called [_Lotus_](lotus).    
 Fish can also be made using the <span class="elem">Droste function</span> of GroundForge. See page [_Droste_](droste).
 
@@ -24,7 +24,7 @@ In some Milanese grounds, the heads and tails are made as a cloth stitch with pa
 
 ## Fish notation
 
-Lets call the horizontal rows the _bones_, the vertical lines the _spines_, and the in between rows the _waves_.
+Let's call the horizontal rows the _bones_, the vertical lines the _spines_, and the in between rows the _waves_.
 Fish B,S,W means: the number of Bones, the number of Spines and the number of Waves. There are two ways of zero waves, noted with "0" and "-" respectively. See the picture.   
 
 {% include picts-centr.html
