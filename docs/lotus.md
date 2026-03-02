@@ -44,15 +44,15 @@ Lotus H,V,X means: the number of Horizontal rows, the number of Verticals and th
 [![Lotus H5,V2,X0][p-L520]][t-L520]
 [![Lotus H5,V2,X2][p-L522]][t-L522]
 
-[p-L12-]: ../images/lotus/L12-.svg "lotus H1 V2 X-"
-[p-L120]: ../images/lotus/L120.svg "lotus H1 V2 X0"
-[p-L22-]: ../images/lotus/L22-.svg "lotus H2 V2 X-"
-[p-L220]: ../images/lotus/L220.svg "lotus H2 V2 X0"
-[p-L222]: ../images/lotus/L222.svg "lotus H2 V2 X2"
-[p-L421]: ../images/lotus/L421.svg "lotus H4 V2 X1"
-[p-L422]: ../images/lotus/L422.svg "lotus H4 V2 X2"
-[p-L520]: ../images/lotus/L520.svg "lotus H5 V2 X0"
-[p-L522]: ../images/lotus/L522.svg "lotus H5 V2 X2"
+[p-L12-]: ../images/lotus/L12-.svg "lotus H1, V2, X-"
+[p-L120]: ../images/lotus/L120.svg "lotus H1, V2, X0"
+[p-L22-]: ../images/lotus/L22-.svg "lotus H2, V2, X-"
+[p-L220]: ../images/lotus/L220.svg "lotus H2, V2, X0"
+[p-L222]: ../images/lotus/L222.svg "double lotus H2, V2, X2"
+[p-L421]: ../images/lotus/L421.svg "lotus H4, V2, X1"
+[p-L422]: ../images/lotus/L422.svg "double lotus H4, V2, X2"
+[p-L520]: ../images/lotus/L520.svg "lotus H5, V2, X0"
+[p-L522]: ../images/lotus/L522.svg "lotus H5, V2, X2"
 
 [t-L12-]: /GroundForge/stitches?patchWidth=16&patchHeight=14&b1=ctc&c2=cr&a2=cr&d3=ctc&c4=cl&a4=cl&tile=-5--,6v9v,---5,2z0z&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
