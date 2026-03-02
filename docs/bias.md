@@ -284,11 +284,11 @@ Take one unit of the Bias ground, place them in alternating directions, and cros
 
 ## Double bias
 
+Pull back through two instead of through one. Of course, this pull-back through two can be extended further: pull-back through three, through four, ... However, GroundForge does not support working upwards.
+
 ![double bias][p-bias-d2]
 [![][p-d2-01]][t-d2-01]
 <p style="clear: both"></p>
-
-Pull back through two instead of through one. Of course, this pull-back through two can be extended further: pull-back through three, through four, ... However, GroundForge does not support working upwards.
 
 [p-bias-d2]: ../images/bias/g-bias-d2.svg?align=right "double bias"
 [p-d2-01]: ../images/bias/d2-01.svg
