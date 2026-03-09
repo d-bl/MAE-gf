@@ -25,13 +25,14 @@ title: Net grounds
 ## Introduction
 
 Net grounds are grounds with repeats of usualy one stitch. There are several ways of placing the stitches.  
-For net-grounds with one stitch and its mirrored versions only, see page [_catalogue of stitches_](stitches) and page _<a href="/GroundForge/nets" target="_blank">net variations</a>_.       
+For net-grounds with one stitch and its mirrored versions only, see page [_catalogue of stitches_](stitches) and page _<a href="/GroundForge/nets" target="_blank">net variations</a>_.    
+Different "tile-repeats" on the horizontal and diagonal net can be found on page _<a href="/GroundForge/tileGallery/" target="_blank">pattern gallery</a>_.      
 
 ## Horizontal net
 
 ![net1][p-net1]
 Horizontal nets can also be found in tape lace like Milanese, Hunnia and Russian lace.    
-A horizontal net ground made with non traditional stitches like <span class="stch">crcl</span> is called [_Embellished clothwork_](ec).     
+A horizontal net ground made with non-traditional stitches like <span class="stch">crcl</span> is called [_Embellished clothwork_](ec).     
 
 [![p-net1a]][t-net1a] 
 [![p-net1b]][t-net1b] 
