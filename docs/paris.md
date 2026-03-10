@@ -146,8 +146,8 @@ This ground is also known as _Copenhagen hole_.
 
 ### bias ground
 
-![bias ground][p-G-35v]
-[![][p-35v1]][t-35v1]
+![bias ground][p-G-24]
+[![][p-24-01]][t-24-01]
 <p style="clear: both"></p>
 
 ### diagonally placed little snowflake
@@ -157,16 +157,16 @@ This ground is also known as _Copenhagen hole_.
 <p style="clear: both"></p>
 
 [p-G-44]: ../images/paris/G44.svg?align=right "swiss cheese"
-[p-G-35v]: ../images/paris/G35v.svg?align=right "bias ground"
+[p-G-24]: ../images/paris/G24.svg?align=right "bias ground"
 [p-G-39v]: ../images/paris/G39v.svg?align=right "paris ground with snowflakes"
 
 [p-4401]: ../images/paris/4401.svg "4401"
-[p-35v1]: ../images/paris/35v1.svg
+[p-24-01]: ../images/paris/24-01.svg
 [p-39v1]: ../images/paris/39v1.svg
 
 [t-4401]: /GroundForge/stitches?patchWidth=16&patchHeight=16&e1=tctc&c1=ctcl&a1=ctcr&f2=ctc&d2=ctc&e3=ctct&c3=ctc&a3=ctc&tile=5-5-5-,---5-5,C-B-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
-[t-35v1]: /GroundForge/stitches.html?patchWidth=16&patchHeight=16&tile=58-4&shiftColsSW=-3&shiftRowsSW=1&shiftColsSE=2&shiftRowsSE=1&d1=ctc&b1=crc&a1=clcr
+[t-24-01]: /GroundForge/stitches.html?patchWidth=16&patchHeight=16&tile=58-4&shiftColsSW=-3&shiftRowsSW=1&shiftColsSE=2&shiftRowsSE=1&d1=ctc&b1=crc&a1=clcr
  
 [t-39v1]: /GroundForge/stitches.html?patchWidth=15&patchHeight=15&tile=7-4-,-5-5,5x-x&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=1&shiftRowsSE=3&c1=ctct&a1=ctct&d2=ctc&b2=ctc&a3=ctctc
  
