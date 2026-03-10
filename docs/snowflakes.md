@@ -177,12 +177,12 @@ Please note the resemblance of these grounds with [_paris grounds_](paris#anothe
 [![6301][p-6301]][t-6301] 
 <p style="clear: both"></p>
 
-![][p-g37]
-[![3701][p-3701]][t-3701] 
+![][p-FG01]
+[![FG01-01][p-FG01-01]][t-FG01-01] 
 <p style="clear: both"></p>
 
-![][p-g38]
-[![3801][p-3801]][t-3801] 
+![][p-FG02]
+[![FG02-01][p-FG02-01]][t-FG02-01] 
 <p style="clear: both"></p>
 
 ![][p-g53]
@@ -191,18 +191,18 @@ Please note the resemblance of these grounds with [_paris grounds_](paris#anothe
 
 [p-g63]: ../images/snow_4/G63.svg?align=right "offset snowflakes, ground 63"
 [p-6301]: ../images/snow_4/6301.png
-[p-g37]: ../images/snow_4/G37.svg?align=right "feather ground, ground 37"
-[p-3701]: ../images/snow_4/3701.png
-[p-g38]: ../images/snow_4/G38.svg?align=right "feather ground, ground 38"
-[p-3801]: ../images/snow_4/3801.png
+[p-FG01]: ../images/snow_4/FG01.svg?align=right "feather ground 1"
+[p-FG01-01]: ../images/snow_4/FG01-01.png
+[p-FG02]: ../images/snow_4/FG02.svg?align=right "feather ground 2"
+[p-FG02-01]: ../images/snow_4/FG02-01.png
 [p-g53]: ../images/snow_4/G53.svg?align=right "stacked snowflakes, ground 53"
 [p-53-01]: ../images/snow_4/53-01.png
 
 [t-6301]: /GroundForge/stitches?patchWidth=15&patchHeight=20&c1=ct&a1=ctct&d2=cl&b2=cr&c3=ctct&d4=ct&b4=ct&c5=ct&a5=ct&tile=5-5-,-5-5,--5-,-b-c,5-5-&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=5
 
-[t-3701]: /GroundForge/stitches?patchWidth=20&patchHeight=20&c1=ctc&a1=ctc&b2=tctct&c3=ctc&a3=ctc&d4=-&b4=-&d5=ctctctc&b5=ctctctc&tile=5-5-,x5x-,4-7-,-5-5,-r-r&footsideStitch=ctctt&tileStitch=ctctctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=5&shiftColsSE=2&shiftRowsSE=5
+[t-FG01-01]: /GroundForge/stitches?patchWidth=20&patchHeight=20&c1=ctc&a1=ctc&b2=tctct&c3=ctc&a3=ctc&d4=-&b4=-&d5=ctctctc&b5=ctctctc&tile=5-5-,x5x-,4-7-,-5-5,-r-r&footsideStitch=ctctt&tileStitch=ctctctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=5&shiftColsSE=2&shiftRowsSE=5
 
-[t-3801]: /GroundForge/stitches?patchWidth=20&patchHeight=20&e1=-&c1=ctc&a1=ctc&e2=-&b2=tctct&e3=ctctctc&c3=ctc&a3=ctc&tile=5-5-5-,x5x-r-,4-7-r-&footsideStitch=ctctt&tileStitch=ctctctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
+[t-FG02-01]: /GroundForge/stitches?patchWidth=20&patchHeight=20&e1=-&c1=ctc&a1=ctc&e2=-&b2=tctct&e3=ctctctc&c3=ctc&a3=ctc&tile=5-5-5-,x5x-r-,4-7-r-&footsideStitch=ctctt&tileStitch=ctctctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
 [t-53-01]: /GroundForge/stitches.html?patchWidth=16&patchHeight=16&tile=5-5-,-5-5,5x-x,-7-4&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=0&shiftRowsSE=4&c1=ctct&a1=ctc&d2=ctc&b2=ctc&a3=ctc&d4=ctcl&b4=ctcr"
   
