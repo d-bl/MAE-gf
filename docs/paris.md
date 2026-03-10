@@ -59,7 +59,7 @@ This ground is also known as _Dropped stitch ground_.
 <p style="clear: both"></p>
 
 [p-paris-in-sqr]: ../images/paris/g-paris-in-sqr.svg?align=right "dropped stitch ground"
-[p-paris-in-sqr-01]: ../images/paris/paris-in-sqr-01.svg
+[p-paris-in-sqr-01]: ../images/paris/paris-in-sqr-01.svg "dropped stitch ground - 01"
 [t-paris-in-sqr-01]: /GroundForge/stitches?patchWidth=16&patchHeight=16&a1=ctct&c1=ctct&e1=ctc&g1=ctc&b2=ctct&d2=ctc&f2=tctc&h2=ctc&a3=ctc&c3=ctc&e3=tctcr&g3=tctcl&b4=ctc&d4=tctct&h4=tctct&tile=C-B-5-5-,-5-5-5-5,5-5-5-5-,-5-5---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Big Paris ground
@@ -84,9 +84,9 @@ This ground is also known as _Copenhagen hole_.
 [p-G-54]: ../images/paris/G54.svg?align=right "alternative placing big paris ground 1"
 [p-G-64]: ../images/paris/G64.svg?align=right "alternative placing big paris ground 2"
 
-[p-3412]: ../images/paris/3412.svg
-[p-5401]: ../images/paris/5401.svg
-[p-6401]: ../images/paris/6401.svg
+[p-3412]: ../images/paris/3412.svg "big paris ground - 12"
+[p-5401]: ../images/paris/5401.svg "alternative placing big paris ground 1 - 01"
+[p-6401]: ../images/paris/6401.svg "alternative placing big paris ground 2 - 01"
 
 [t-3412]: /GroundForge/stitches?patchWidth=16&patchHeight=24&b1=ct&f1=ct&c2=c&e2=c&b3=ct&d3=ctc&f3=ct&tile=-5---5,--C-B-,-B-5-C&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 [t-5401]: /GroundForge/stitches?patchWidth=15&patchHeight=18&b1=ctc&e2=ctct&c2=ctct&a2=ctct&d3=ctct&b3=ctct&e4=ctcr&c4=ctcl&a4=ctct&tile=-5---,b-c-b,-5-5-,b-5-c&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=4
