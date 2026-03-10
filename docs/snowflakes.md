@@ -153,13 +153,13 @@ Most of the variants shown on this page benefit of extra pins on the sides. As i
 Please note: the diagonal rows can be placed with the connecting pairs horizontally or diagonally. See the examples.    
 <p style="clear: both"></p>
 
-[p-g23]: ../images/snow_4/G23.svg?align=right "diagonal small snowflake, ground 23"
-[p-23-01]: ../images/snow_4/23-01.png
+[p-g23]: ../images/snow_4/G23.svg?align=right "diagonal small snowflake"
+[p-23-01]: ../images/snow_4/23-01.png "diagonal small snowflakes - 01"
 [p-g33]: ../images/snow_4/G33.svg?align=right "ground 33"
-[p-3301]: ../images/snow_4/3301.png
+[p-3301]: ../images/snow_4/3301.png "33-01"
 [p-g93]: ../images/snow_4/G93.svg?align=right "ground 93"
-[p-93-01]: ../images/snow_4/93-01.png
-[p-94-01]: ../images/snow_4/94-01.png
+[p-93-01]: ../images/snow_4/93-01.png "93-01"
+[p-94-01]: ../images/snow_4/94-01.png "paris snowflakes - 01"
 
 [t-23-01]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=86-7,115-&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=ctcl&b1=ctc&a1=ctctctc&c2=ctc&b2=ctc&a2=ctcl
                            
@@ -189,14 +189,14 @@ Please note the resemblance of these grounds with [_paris grounds_](paris#anothe
 [![53-01][p-53-01]][t-53-01] 
 <p style="clear: both"></p>
 
-[p-g63]: ../images/snow_4/G63.svg?align=right "offset snowflakes, ground 63"
-[p-6301]: ../images/snow_4/6301.png
+[p-g63]: ../images/snow_4/G63.svg?align=right "offset snowflakes"
+[p-6301]: ../images/snow_4/6301.png "offset snowflakes - 01"
 [p-FG01]: ../images/snow_4/FG01.svg?align=right "feather ground 1"
-[p-FG01-01]: ../images/snow_4/FG01-01.png
+[p-FG01-01]: ../images/snow_4/FG01-01.png "feather ground 1 - 01"
 [p-FG02]: ../images/snow_4/FG02.svg?align=right "feather ground 2"
-[p-FG02-01]: ../images/snow_4/FG02-01.png
-[p-g53]: ../images/snow_4/G53.svg?align=right "stacked snowflakes, ground 53"
-[p-53-01]: ../images/snow_4/53-01.png
+[p-FG02-01]: ../images/snow_4/FG02-01.png "feather ground 2 - 01"
+[p-g53]: ../images/snow_4/G53.svg?align=right "stacked snowflakes"
+[p-53-01]: ../images/snow_4/53-01.png "stacked snowflakes - 01"
 
 [t-6301]: /GroundForge/stitches?patchWidth=15&patchHeight=20&c1=ct&a1=ctct&d2=cl&b2=cr&c3=ctct&d4=ct&b4=ct&c5=ct&a5=ct&tile=5-5-,-5-5,--5-,-b-c,5-5-&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=5
 
@@ -204,7 +204,7 @@ Please note the resemblance of these grounds with [_paris grounds_](paris#anothe
 
 [t-FG02-01]: /GroundForge/stitches?patchWidth=20&patchHeight=20&e1=-&c1=ctc&a1=ctc&e2=-&b2=tctct&e3=ctctctc&c3=ctc&a3=ctc&tile=5-5-5-,x5x-r-,4-7-r-&footsideStitch=ctctt&tileStitch=ctctctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
-[t-53-01]: /GroundForge/stitches.html?patchWidth=16&patchHeight=16&tile=5-5-,-5-5,5x-x,-7-4&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=0&shiftRowsSE=4&c1=ctct&a1=ctc&d2=ctc&b2=ctc&a3=ctc&d4=ctcl&b4=ctcr"
+[t-53-01]: /GroundForge/stitches.html?patchWidth=16&patchHeight=16&tile=5-5-,-5-5,5x-x,-7-4&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=0&shiftRowsSE=4&c1=ctct&a1=ctc&d2=ctc&b2=ctc&a3=ctc&d4=ctcl&b4=ctcr
   
 ## Binche Snowflake
 

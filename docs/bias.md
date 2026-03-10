@@ -151,7 +151,7 @@ See also <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a>: D6 a
 [![][p-xt-0278-KK]][t-xt-0278-KK] 
 <p style="clear: both"></p>
 
-[p-bias-xt]: ../images/bias/g-bias-xt.svg?align=right "tradtional bias crossed, 0278-KK"
+[p-bias-xt]: ../images/bias/g-bias-xt.svg?align=right "tradtional bias crossed"
 [p-xt-0278-KK]: ../images/bias/xt-0278-KK.svg "0278-KK"
 
 [t-xt-0278-KK]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctc&c1=ctc&d1=c&a2=c&b2=ctct&c2=c&d2=tctc&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=8-48,8314
@@ -181,7 +181,7 @@ See also <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a>: E6.
 [![][p-sq-0036-L]][t-sq-0036-L]
 <p style="clear: both"></p>
 
-[p-bias-vg]: ../images/bias/g-bias-vg.svg?align=right "bias with diagonalN"
+[p-bias-vg]: ../images/bias/g-bias-vg.svg?align=right "bias with diagonal"
 [p-bias-sq]: ../images/bias/g-bias-sq.svg?align=right "bias in diamond"
 [p-vg-0221-N]: ../images/bias/vg-0221-N.svg "0221-N"
 [p-sq-0036-L]: ../images/bias/sq-0036-L.svg "0236-L"
@@ -291,17 +291,17 @@ Pull back through two instead of through one. Of course, this pull-back through 
 <p style="clear: both"></p>
 
 [p-bias-d2]: ../images/bias/g-bias-d2.svg?align=right "double bias"
-[p-d2-01]: ../images/bias/d2-01.svg
+[p-d2-01]: ../images/bias/d2-01.svg "double bias - 01"
 
 [t-d2-01]: /GroundForge/stitches?patchWidth=15&patchHeight=15&d1=rctcr&c1=ctc&b1=ctc&a1=lctcl&b2=ctc&tile=2A1C,-7--&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=1
 
 ## Bias with vertical
 
-![bias with vertical][p-22]
+![bias with vertical][p-G22]
 [![bias with vertical][p-2228]][t-2228]
 <p style="clear: both"></p>
 
-[p-22]: ../images/bias/G22.svg?align=right "bias with vertical"
+[p-G22]: ../images/bias/G22.svg?align=right "bias with vertical"
 [p-2228]: ../images/bias/2228.svg "2228-R"
 
 [t-2228]: /GroundForge/stitches?patchWidth=12&patchHeight=20&b1=ctc&c1=ctc&d1=ctc&b2=ctc&c2=ctctc&d2=ctc&b3=ctcr&c3=ctc&d3=ctcl&a4=ttctctt&tile=-C3B,-488,-148,5---&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
@@ -315,29 +315,29 @@ These grounds also look nice when made on a hexagonal raster, connecting the uni
 
 A bias ground, stretched vertically, as found in <a href="/gw-lace-to-gf/" target="_blank">mrs Whiting's index</a> F4.  
 
-![][p-71]
+![][p-G71]
 [![][p-0714]][t-0714]
 <p style="clear: both"></p>
 
 ### equivalent to the small snowflake
 
-![][p-73]
+![][p-G73]
 [![][p-0759]][t-0759]
 <p style="clear: both"></p>
 
 ### zig-zags
 
-![][p-74]
+![][p-G74]
 [![][p-0775]][t-0775]
 <p style="clear: both"></p>
 
-[p-71]: ../images/bias/G-71.svg?align=right "stretched bias"
-[p-73]: ../images/bias/G-73.svg?align=right "small snowflake"
-[p-74]: ../images/bias/G-74.svg?align=right
+[p-G71]: ../images/bias/G-71.svg?align=right "stretched bias"
+[p-G73]: ../images/bias/G-73.svg?align=right "small snowflake"
+[p-G74]: ../images/bias/G-74.svg?align=right
 
-[p-0714]: ../images/bias/0714.svg
-[p-0759]: ../images/bias/0759.svg
-[p-0775]: ../images/bias/0775.svg
+[p-0714]: ../images/bias/0714.svg "0714"
+[p-0759]: ../images/bias/0759.svg "0759"
+[p-0775]: ../images/bias/0775.svg "0775"
 
 [t-0714]: /GroundForge/stitches?patchWidth=12&patchHeight=20&a1=ctctctc&b1=tct&c1=ctctctc&b2=ctc&a3=ctc&c3=ctc&d4=ctc&tile=B8D-,-4--,B-C-,---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4
 [t-0759]: /GroundForge/stitches?patchWidth=12&patchHeight=20&b1=ctc&a2=ctctctc&c2=tct&b3=ctc&a4=tct&c4=ctctctc&b5=ctc&a6=ctc&c6=ctc&tile=-5--,B-C-,-5--,B-C-,-5--,B-C-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=6&shiftColsSE=2&shiftRowsSE=6
