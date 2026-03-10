@@ -185,8 +185,8 @@ Please note the resemblance of these grounds with [_paris grounds_](paris#anothe
 [![3801][p-3801]][t-3801] 
 <p style="clear: both"></p>
 
-![][p-g35]
-[![3501][p-3501]][t-3501] 
+![][p-g53]
+[![53-01][p-53-01]][t-53-01] 
 <p style="clear: both"></p>
 
 [p-g63]: ../images/snow_4/G63.svg?align=right "offset snowflakes, ground 63"
@@ -195,8 +195,8 @@ Please note the resemblance of these grounds with [_paris grounds_](paris#anothe
 [p-3701]: ../images/snow_4/3701.png
 [p-g38]: ../images/snow_4/G38.svg?align=right "feather ground, ground 38"
 [p-3801]: ../images/snow_4/3801.png
-[p-g35]: ../images/snow_4/G35.svg?align=right "stacked snowflakes, ground 35"
-[p-3501]: ../images/snow_4/3501.png
+[p-g53]: ../images/snow_4/G53.svg?align=right "stacked snowflakes, ground 53"
+[p-53-01]: ../images/snow_4/53-01.png
 
 [t-6301]: /GroundForge/stitches?patchWidth=15&patchHeight=20&c1=ct&a1=ctct&d2=cl&b2=cr&c3=ctct&d4=ct&b4=ct&c5=ct&a5=ct&tile=5-5-,-5-5,--5-,-b-c,5-5-&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=5
 
@@ -204,7 +204,7 @@ Please note the resemblance of these grounds with [_paris grounds_](paris#anothe
 
 [t-3801]: /GroundForge/stitches?patchWidth=20&patchHeight=20&e1=-&c1=ctc&a1=ctc&e2=-&b2=tctct&e3=ctctctc&c3=ctc&a3=ctc&tile=5-5-5-,x5x-r-,4-7-r-&footsideStitch=ctctt&tileStitch=ctctctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
-[t-3501]: /GroundForge/stitches.html?patchWidth=16&patchHeight=16&tile=5-5-,-5-5,5x-x,-7-4&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=0&shiftRowsSE=4&c1=ctct&a1=ctc&d2=ctc&b2=ctc&a3=ctc&d4=ctcl&b4=ctcr"
+[t-53-01]: /GroundForge/stitches.html?patchWidth=16&patchHeight=16&tile=5-5-,-5-5,5x-x,-7-4&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=0&shiftRowsSE=4&c1=ctct&a1=ctc&d2=ctc&b2=ctc&a3=ctc&d4=ctcl&b4=ctcr"
   
 ## Binche Snowflake
 
