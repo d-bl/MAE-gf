@@ -146,9 +146,9 @@ Most of the variants shown on this page benefit of extra pins on the sides. As i
 [![3301][p-3301]][t-3301] 
 <p style="clear: both"></p>
 
-![diagonal snowflake][p-g39]
-[![3901][p-3901]][t-3901] 
-[![3902][p-3902]][t-3902]    
+![diagonal snowflake][p-g93]
+[![93-01][p-93-01]][t-93-01] 
+[![94-01][p-94-01]][t-94-01]    
 
 Please note: the diagonal rows can be placed with the connecting pairs horizontally or diagonally. See the examples.    
 <p style="clear: both"></p>
@@ -157,17 +157,17 @@ Please note: the diagonal rows can be placed with the connecting pairs horizonta
 [p-23-01]: ../images/snow_4/23-01.png
 [p-g33]: ../images/snow_4/G33.svg?align=right "ground 33"
 [p-3301]: ../images/snow_4/3301.png
-[p-g39]: ../images/snow_4/G39.svg?align=right "ground 39"
-[p-3901]: ../images/snow_4/3901.png
-[p-3902]: ../images/snow_4/3902.png
+[p-g93]: ../images/snow_4/G93.svg?align=right "ground 93"
+[p-93-01]: ../images/snow_4/93-01.png
+[p-94-01]: ../images/snow_4/94-01.png
 
 [t-23-01]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=86-7,115-&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=ctcl&b1=ctc&a1=ctctctc&c2=ctc&b2=ctc&a2=ctcl
                            
 [t-3301]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctc&c1=ctc&b1=ctc&a1=tctct&c2=ctc&b2=ctc&a2=ctc&tile=1011,114-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[t-3901]: /GroundForge/stitches?patchWidth=30&patchHeight=30&tile=688,14-&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&c1=ct&b1=ctct&a1=ct&b2=ct&a2=ct
+[t-93-01]: /GroundForge/stitches?patchWidth=30&patchHeight=30&tile=688,14-&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&c1=ct&b1=ctct&a1=ct&b2=ct&a2=ct
 
-[t-3902]: /GroundForge/stitches.html?patchWidth=15&patchHeight=15&tile=7-4-,-5-5,5x-x&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=1&shiftRowsSE=3&c1=ctcl&a1=ctc&d2=ctc&b2=ctc&a3=tctct
+[t-94-01]: /GroundForge/stitches.html?patchWidth=15&patchHeight=15&tile=7-4-,-5-5,5x-x&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=1&shiftRowsSE=3&c1=ctcl&a1=ctc&d2=ctc&b2=ctc&a3=tctct
 
 ## Other arrangements
 
