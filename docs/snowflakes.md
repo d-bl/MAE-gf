@@ -138,8 +138,8 @@ Most of the variants shown on this page benefit of extra pins on the sides. As i
 
 ## Snowflakes diagonal
 
-![diagonal small snowflake][p-g32]
-[![3201][p-3201]][t-3201] 
+![diagonal small snowflake][p-g23]
+[![223-01][p-23-01]][t-23-01] 
 <p style="clear: both"></p>
 
 ![diagonal snowflake][p-g33]
@@ -153,15 +153,15 @@ Most of the variants shown on this page benefit of extra pins on the sides. As i
 Please note: the diagonal rows can be placed with the connecting pairs horizontally or diagonally. See the examples.    
 <p style="clear: both"></p>
 
-[p-g32]: ../images/snow_4/G23.svg?align=right "diagonal small snowflake, ground 32"
-[p-3201]: ../images/snow_4/23-01.png
+[p-g23]: ../images/snow_4/G23.svg?align=right "diagonal small snowflake, ground 23"
+[p-23-01]: ../images/snow_4/23-01.png
 [p-g33]: ../images/snow_4/G33.svg?align=right "ground 33"
 [p-3301]: ../images/snow_4/3301.png
 [p-g39]: ../images/snow_4/G39.svg?align=right "ground 39"
 [p-3901]: ../images/snow_4/3901.png
 [p-3902]: ../images/snow_4/3902.png
 
-[t-3201]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=86-7,115-&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=ctcl&b1=ctc&a1=ctctctc&c2=ctc&b2=ctc&a2=ctcl
+[t-23-01]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&tile=86-7,115-&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&d1=ctcl&b1=ctc&a1=ctctctc&c2=ctc&b2=ctc&a2=ctcl
                            
 [t-3301]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctc&c1=ctc&b1=ctc&a1=tctct&c2=ctc&b2=ctc&a2=ctc&tile=1011,114-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
