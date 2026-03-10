@@ -124,7 +124,7 @@ This ground is also known as _Copenhagen hole_.
 [p-ex-v1]: ../images/paris/g-ebp-v1.svg?align=right "extended big paris ground 1"
 [p-ex-v2]: ../images/paris/g-ebp-v2.svg?align=right "extended big paris ground 2"
 
-[p-ex-big-01]: ../images/paris/ex-big-01.svg
+[p-ex-big-01]: ../images/paris/ex-big-01.svg "extended big paris ground - 01"
 [p-ex-drop-01]: ../images/paris/ex-drop-01.svg "extended drop stitch - 01"
 [p-ex-3p-01]: ../images/paris/ex-3pr-01.svg "extended with 3 pr join - 01"
 [p-ex-v1-01]: ../images/paris/ex-v1-01.svg "extended big paris ground 1 - 01"
