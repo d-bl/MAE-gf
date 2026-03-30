@@ -24,7 +24,7 @@ On this page we show examples of grounds with snowflakes with 20 (4x5) legs.
 [vlok B][T-MS5B-01]
 <p style="clear: both"></p>
 
-![][P-MS5B]
+![][P-MS5C]
 [vlok C][T-MS5C-01]
 <p style="clear: both"></p>
 
