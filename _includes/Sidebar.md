@@ -27,6 +27,7 @@
   * [Spiders with 16 legs](/MAE-gf/docs/spin_08)
 * 10 pair joins
   * [Spiders with 20 legs](/MAE-gf/docs/spin_10)  
+  * [Snowflakes with 20 legs](/MAE-gf/docs/snow_10)
  
 &nbsp;  
 [Net Grounds](/MAE-gf/docs/nets)  

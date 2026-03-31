@@ -128,7 +128,7 @@ This ground is also known as _Copenhagen hole_.
 [p-ex-drop-01]: ../images/paris/ex-drop-01.svg "extended drop stitch - 01"
 [p-ex-3p-01]: ../images/paris/ex-3pr-01.svg "extended with 3 pr join - 01"
 [p-ex-v1-01]: ../images/paris/ex-v1-01.svg "extended big paris ground 1 - 01"
-[p-ex-v2-01]: ../images/paris/ex-v2-01.svg "extended big paris ground 1 - 02"
+[p-ex-v2-01]: ../images/paris/ex-v2-01.svg "extended big paris ground 2 - 01"
 
 [t-ex-drop-01]: /GroundForge/stitches?patchWidth=15&patchHeight=20&d1=ctct&e2=ctctlllllll&c2=ctctrrrrrrr&f3=ctctlllll&b3=ctctrrrrr&g4=ctctlll&a4=ctctrrr&tile=xxx5xxx,xx4-7xx,x4x-x7x,4xx-xx7&tileStitch=ctct&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [t-ex-big-01]: /GroundForge/stitches?patchWidth=15&patchHeight=20&g1=ctct&e1=ctct&c1=ctct&h2=ctct&f2=ctct&d2=ctct&b2=ctct&g3=ctct&c3=ctct&h4=ctct&f4=ctct&d4=ctct&b4=ctct&tile=--5-5-5-,-b-5-5-c,--5---5-,-b-c-b-c,&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
