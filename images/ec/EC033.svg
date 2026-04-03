@@ -1,22 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg width="197.24" height="146.5" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g transform="matrix(.24958 0 0 .24974 -124.35 -107.35)" stroke-width="2.0028">
+<svg width="198.06" height="142.94" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(.24958 0 0 .24974 -124.32 -107.38)" stroke-width="2.0028">
   <g fill="none" stroke="#000" stroke-width="4.0055">
-   <path class="link thread44 WhiteStart" d="m1177.8 995.94-7.1359 49.057"/>
-   <path class="link thread36 WhiteStart" d="m925.23 997.35-6.4736 49.652"/>
-   <path class="link thread28 WhiteStart" d="m672.32 996.94-5.7342 49.027"/>
-   <path class="link thread63 WhiteStart" d="m535.64 1008.4-16.375 21.891"/>
-   <path class="link thread24 WhiteEnd" d="m539.24 1003.6 3.5402 23.283"/>
    <path class="link thread24 WhiteStart" d="m534.02 966.84 5.2148 36.774"/>
    <path class="link thread63 WhiteEnd" d="m565.57 997.25-20.497 4.956"/>
-   <path class="link thread25 WhiteStart" d="m566.42 1003.2 3.363 23.486"/>
    <path class="link thread15 WhiteEnd" d="m590.33 993.9 3.4126 21.536"/>
    <path class="link thread25 WhiteEnd" d="m564.3 965.61 1.0246 25.636"/>
    <path class="link thread63 WhiteStart" d="m584.38 994.71-18.816 2.5413"/>
    <path class="link thread15 WhiteStart" d="m588.26 971.67 2.0679 22.235"/>
    <path class="link thread63 WhiteEnd" d="m614.39 991.91-18.085 1.4995"/>
-   <path class="link thread59 WhiteStart" d="m615.52 997.8 3.215 16.886"/>
    <path class="link thread21 WhiteEnd" d="m634.45 991.59-12.344 18.14"/>
    <path class="link thread59 WhiteEnd" d="m618.18 967.61-2.8632 18.371"/>
    <path class="link thread63 WhiteStart" d="m628.45 991.68-14.058 0.22463"/>
@@ -27,17 +20,13 @@
    <path class="link thread63 WhiteStart" d="m713.12 984.48-40.103 6.5064"/>
    <path class="link thread11 WhiteStart" d="m721.17 954.89-2.1293 28.63"/>
    <path class="link thread63 WhiteEnd" d="m746.31 954.64-23.151 24.518"/>
-   <path class="link thread67 WhiteStart" d="m787.76 1009.6-17.024 22.504"/>
-   <path class="link thread32 WhiteEnd" d="m791.38 1004.8 3.2842 23.772"/>
    <path class="link thread32 WhiteStart" d="m786.42 967.08 4.9605 37.724"/>
    <path class="link thread67 WhiteEnd" d="m818.1 998.21-20.903 5.1586"/>
-   <path class="link thread33 WhiteStart" d="m818.87 1004.2 3.0766 23.95"/>
    <path class="link thread7 WhiteEnd" d="m843.12 994.72 3.1465 21.935"/>
    <path class="link thread33 WhiteEnd" d="m817.14 966.01 0.7807 26.203"/>
    <path class="link thread67 WhiteStart" d="m837.17 995.55-19.07 2.6551"/>
    <path class="link thread7 WhiteStart" d="m841.22 972.06 1.8928 22.66"/>
    <path class="link thread67 WhiteEnd" d="m867.33 992.6-18.241 1.5993"/>
-   <path class="link thread61 WhiteStart" d="m868.37 998.51 2.9955 17.149"/>
    <path class="link thread29 WhiteEnd" d="m887.4 992.25-12.644 18.463"/>
    <path class="link thread61 WhiteEnd" d="m871.37 967.98-3.0631 18.701"/>
    <path class="link thread67 WhiteStart" d="m881.4 992.35-14.063 0.248"/>
@@ -48,17 +37,13 @@
    <path class="link thread67 WhiteStart" d="m966.28 984.56-40.27 6.8376"/>
    <path class="link thread5 WhiteStart" d="m974.66 954.73-2.4605 28.829"/>
    <path class="link thread67 WhiteEnd" d="m999.79 954.46-23.467 24.749"/>
-   <path class="link thread65 WhiteStart" d="m1040.7 1009.2-17.369 22.75"/>
-   <path class="link thread40 WhiteEnd" d="m1044.3 1004.5 2.9958 23.704"/>
    <path class="link thread40 WhiteStart" d="m1039.8 966.74 4.5638 37.742"/>
    <path class="link thread65 WhiteEnd" d="m1071.1 997.6-20.992 5.3827"/>
-   <path class="link thread41 WhiteStart" d="m1071.8 1003.6 2.7546 23.837"/>
    <path class="link thread6 WhiteEnd" d="m1096.2 993.91 2.8449 21.789"/>
    <path class="link thread41 WhiteEnd" d="m1070.5 965.46 0.4926 26.141"/>
    <path class="link thread65 WhiteStart" d="m1090.2 994.79-19.093 2.8151"/>
    <path class="link thread6 WhiteStart" d="m1094.5 971.39 1.6477 22.524"/>
    <path class="link thread65 WhiteEnd" d="m1120.3 991.59-18.201 1.7486"/>
-   <path class="link thread68 WhiteStart" d="m1121.3 997.51 2.7524 16.99"/>
    <path class="link thread37 WhiteEnd" d="m1140.3 991.16-12.844 18.419"/>
    <path class="link thread68 WhiteEnd" d="m1124.6 967.1-3.2391 18.582"/>
    <path class="link thread65 WhiteStart" d="m1134.3 991.29-13.989 0.29947"/>
@@ -69,7 +54,6 @@
    <path class="link thread65 WhiteStart" d="m1218.7 982.95-39.998 7.0517"/>
    <path class="link thread14 WhiteStart" d="m1227.4 953.62-2.8084 28.287"/>
    <path class="link thread65 WhiteEnd" d="m1252.3 953.18-23.521 24.409"/>
-   <path class="link thread66 WhiteStart" d="m1292 1006.6-17.414 22.432"/>
    <path class="link thread45 WhiteStart" d="m1258.2 954.09 32.712 5.0059"/>
    <path class="link thread10 WhiteEnd" d="m1258.9 919.99 32.246-1.8589"/>
    <path class="link thread45 WhiteEnd" d="m1228 947.65 18.432 4.1966"/>
@@ -770,7 +754,7 @@
    <path class="link thread6 WhiteStart" d="m487.05 432.3 21.35-2.5719"/>
   </g>
  </g>
- <g transform="translate(-340.96 -318.49)">
-  <rect transform="matrix(1 -.0010446 -.00048007 -1 0 0)" x="342.8" y="-463.35" width="193.18" height="142.3" fill="none" stroke="#fafafa" stroke-linejoin="round" stroke-width="4"/>
+ <g transform="matrix(1.0039 0 0 .97543 -342.26 -310.64)" stroke-width="1.0106">
+  <rect transform="matrix(1 -.0010446 -.00048007 -1 0 0)" x="342.8" y="-463.35" width="193.18" height="142.3" fill="none" stroke="#fafafa" stroke-linejoin="round" stroke-width="4.0422"/>
  </g>
 </svg>
