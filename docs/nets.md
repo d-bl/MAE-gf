@@ -51,8 +51,6 @@ A horizontal net ground made with non-traditional stitches like <span class="stc
 [t-net1c]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ct&c1=clcr&b1=ct&a1=clcr&d2=crcl&c2=ct&b2=crcl&a2=ct&d3=ct&c3=clcr&b3=ct&a3=clcr&d4=crcl&c4=ct&b4=crcl&a4=ct&tile=8888,1111,8888,1111&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [t-net1d]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=crcl&c1=ct&b1=ct&a1=ct&d2=ct&c2=ct&b2=ct&a2=ct&d3=ct&c3=ct&b3=clcr&a3=ct&d4=crcl&c4=ct&b4=clcr&a4=ct&tile=8888,1111,8888,1111&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=2
 
-[t-meander]: /GroundForge/stitches?patchWidth=6&patchHeight=12&h1=-&c1=clcr&b1=crcl&a1=rctctctctt&h2=lctctctctt&c2=clcr&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
-
 ### Knitting
 
 The following examples look like a knitwork.   

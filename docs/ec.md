@@ -43,7 +43,7 @@ Or stitches like <span class="stch">cllPcrcllPcr</span> on the left footside and
 [p-meander]: ../images/ec/f-ec-008.png?align=right "Meander, EC-008"  
 [p-earth]: ../images/ec/f-ec-010.png?align=right "Earth, EC-010"
 
-[t-ex010]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&n1=ctctt&c1=clcr&b1=ctc&a1=cllcrcllcr&n2=crrclcrrcl&c2=ctc&b2=clcr&a2=-
+[t-ex010]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&n1=ctctt&c1=clcr&b1=ctc&a1=cllcrcllcr&n2=crrclcrrcl&c2=ctc&b2=clcr&a2=t
 
 ## 1 column
 
@@ -57,11 +57,11 @@ Or stitches like <span class="stch">cllPcrcllPcr</span> on the left footside and
 [p-ec002]: ../images/ec/EC002.png "EC-002, knitting"
 [p-ec003]: ../images/ec/EC003.png "EC-003, knitting"
 
-[t-ec001]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=clctcrcl&n1=ctctt&b1=clctcrcl&a1=ctctctctct&n2=ctctctctct&b2=crctclcr&a2=-&footside=r,1&tile=8,1&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
+[t-ec001]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=clctcrcl&n1=ctctt&b1=clctcrcl&a1=ctctctctct&n2=ctctctctct&b2=crctclcr&a2=t&footside=r,1&tile=8,1&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
 
-[t-ec002]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=ctctct&n1=ctctt&b1=crr&a1=ctctct&n2=ctctct&b2=cll&a2=-&footside=r,1&tile=8,1&headside=8,r&shiftColsSW=1&shiftRowsSW=0&shiftColsSE=0&shiftRowsSE=2
+[t-ec002]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=ctctct&n1=ctctt&b1=crr&a1=ctctct&n2=ctctct&b2=cll&a2=t&footside=r,1&tile=8,1&headside=8,r&shiftColsSW=1&shiftRowsSW=0&shiftColsSE=0&shiftRowsSE=2
 
-[t-ec003]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=ctctct&n1=ctctt&b1=ccrr&a1=ctctct&n2=ctctct&b2=ccll&a2=-&footside=r,1&tile=8,1&headside=8,r&shiftColsSW=1&shiftRowsSW=0&shiftColsSE=0&shiftRowsSE=2
+[t-ec003]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=ctctct&n1=ctctt&b1=ccrr&a1=ctctct&n2=ctctct&b2=ccll&a2=t&footside=r,1&tile=8,1&headside=8,r&shiftColsSW=1&shiftRowsSW=0&shiftColsSE=0&shiftRowsSE=2
 
 
 
@@ -97,31 +97,31 @@ Or stitches like <span class="stch">cllPcrcllPcr</span> on the left footside and
 [p-ec022]: ../images/ec/EC022.png "EC-022"
 [p-ec031]: ../images/ec/EC031.png "EC-031"
 
-[t-ec008]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=clcr&b1=crcl&a1=ctctctct&n2=ctctctct&c2=clcr&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-ec008]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=clcr&b1=crcl&a1=ctctctct&n2=ctctctct&c2=clcr&b2=crcl&a2=t&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[t-ec009]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=crcl&b1=ctc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=clcr&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-ec009]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=crcl&b1=ctc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=clcr&a2=t&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[t-ec010]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=ctctctct&n1=ctctt&c1=clcr&b1=ctc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=clcr&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-ec010]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=ctctctct&n1=ctctt&c1=clcr&b1=ctc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=clcr&a2=t&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[t-ec011]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=crcl&n1=ctctt&c1=clcr&b1=ctc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2    
+[t-ec011]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=crcl&n1=ctctt&c1=clcr&b1=ctc&a1=ctctctct&n2=ctctctct&c2=ctc&b2=crcl&a2=t&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2    
 
-[t-ec016]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=ctctctctct&n1=ctctt&c1=ct&b1=clcr&a1=ctctctct&n2=ctctctct&c2=ct&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-ec016]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=ctctctctct&n1=ctctt&c1=ct&b1=clcr&a1=ctctctct&n2=ctctctct&c2=ct&b2=crcl&a2=t&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[t-ec017]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=ct&n1=ctctt&c1=ct&b1=crcl&a1=ctctctct&n2=ctctctct&c2=ct&b2=clcr&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-ec017]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=ct&n1=ctctt&c1=ct&b1=crcl&a1=ctctctct&n2=ctctctct&c2=ct&b2=clcr&a2=t&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[t-ec018]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=crcr&n1=ctctt&c1=ct&b1=clcl&a1=ctctctct&n2=ctctctct&c2=ct&b2=crcr&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-ec018]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=crcr&n1=ctctt&c1=ct&b1=clcl&a1=ctctctct&n2=ctctctct&c2=ct&b2=crcr&a2=t&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[t-ec019]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=clcl&n1=ctctt&c1=ctc&b1=clcl&a1=ctctctct&n2=ctctctct&c2=ctc&b2=crcr&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-ec019]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=clcl&n1=ctctt&c1=ctc&b1=clcl&a1=ctctctct&n2=ctctctct&c2=ctc&b2=crcr&a2=t&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[t-ec020]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=clcl&n1=ctctt&c1=ctc&b1=crcr&a1=ctctctct&n2=ctctctct&c2=ctc&b2=clcl&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-ec020]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=clcl&n1=ctctt&c1=ctc&b1=crcr&a1=ctctctct&n2=ctctctct&c2=ctc&b2=clcl&a2=t&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[t-ec021]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=crct&n1=ctctt&c1=ctc&b1=clct&a1=ctctctct&n2=ctctctct&c2=ctc&b2=crct&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-ec021]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=crct&n1=ctctt&c1=ctc&b1=clct&a1=ctctctct&n2=ctctctct&c2=ctc&b2=crct&a2=t&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[t-ec022]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=clct&n1=ctctt&c1=ctc&b1=crct&a1=ctctctct&n2=ctctctct&c2=ctc&b2=clct&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-ec022]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=clct&n1=ctctt&c1=ctc&b1=crct&a1=ctctctct&n2=ctctctct&c2=ctc&b2=clct&a2=t&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[t-ec027]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=ct&b1=crcl&a1=ctctctct&n2=ctctctct&c2=ct&b2=crcl&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-ec027]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=ct&b1=crcl&a1=ctctctct&n2=ctctctct&c2=ct&b2=crcl&a2=t&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-[t-ec031]: /GroundForge/stitches?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=cct&b1=ctct&a1=ctctctct&n2=ctctctct&c2=ctct&b2=cct&a2=-&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-ec031]: /GroundForge/stitches?patchWidth=12&patchHeight=12&paintStitches=-&n1=ctctt&c1=cct&b1=ctct&a1=ctctctct&n2=ctctctct&c2=ctct&b2=cct&a2=t&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ### 2 columns, 2 rows, offset 1
 
@@ -129,7 +129,7 @@ Or stitches like <span class="stch">cllPcrcllPcr</span> on the left footside and
 
 [p-ec029]: ../images/ec/EC029.png "EC-029"
 
-[t-ec029]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2&n1=ctc&c1=ct&b1=clcrrclc&a1=ctctctct&n2=ctctctct&c2=crcllcrc&b2=ct&a2=-
+[t-ec029]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&footside=r,1&tile=88,11&headside=8,r&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2&n1=ctc&c1=ct&b1=clcrrclc&a1=ctctctct&n2=ctctctct&c2=crcllcrc&b2=ct&a2=t
 
 
 ## 3 columns
@@ -144,11 +144,11 @@ Or stitches like <span class="stch">cllPcrcllPcr</span> on the left footside and
 [p-ec023]: ../images/ec/EC023.png "EC-023"
 [p-ec025]: ../images/ec/EC025.png "EC-025"
 
-[t-ec014]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=ctctctct&n1=ctctt&d1=crcl&c1=ct&b1=clcr&a1=ctctctct&n2=ctctctct&d2=crcl&c2=ct&b2=clcr&a2=-&footside=r,1&tile=888,111&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=3&shiftRowsSE=2
+[t-ec014]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=ctctctct&n1=ctctt&d1=crcl&c1=ct&b1=clcr&a1=ctctctct&n2=ctctctct&d2=crcl&c2=ct&b2=clcr&a2=t&footside=r,1&tile=888,111&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=3&shiftRowsSE=2
 
-[t-ec023]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=crcl&n1=ctctt&d1=ctc&c1=crcl&b1=clcr&a1=ctctctct&n2=ctctctct&d2=ctc&c2=crcl&b2=clcr&a2=-&footside=r,1&tile=888,111&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=3&shiftRowsSE=2
+[t-ec023]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=crcl&n1=ctctt&d1=ctc&c1=crcl&b1=clcr&a1=ctctctct&n2=ctctctct&d2=ctc&c2=crcl&b2=clcr&a2=t&footside=r,1&tile=888,111&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=3&shiftRowsSE=2
 
-[t-ec025]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=crcl&n1=ctc&d1=ctc&c1=crcl&b1=clcr&a1=ctctctct&n2=ctctctct&d2=crcl&c2=ctc&b2=clcr&a2=-&footside=r,1&tile=888,111&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=3&shiftRowsSE=2
+[t-ec025]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=crcl&n1=ctc&d1=ctc&c1=crcl&b1=clcr&a1=ctctctct&n2=ctctctct&d2=crcl&c2=ctc&b2=clcr&a2=t&footside=r,1&tile=888,111&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=3&shiftRowsSE=2
 
 ### 3 columns, 2 rows, offset 1
 
@@ -160,11 +160,11 @@ Or stitches like <span class="stch">cllPcrcllPcr</span> on the left footside and
 [p-ec013]: ../images/ec/EC013.png "EC-013" 
 [p-ec026]: ../images/ec/EC026.png "by M. Thoman, EC-026"
 
-[t-ec012]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=clc&n1=ctctt&d1=clc&c1=ct&b1=ctc&a1=ctctctct&n2=ctctctct&d2=clc&c2=ctc&b2=ct&a2=-&footside=r,1&tile=888,111&headside=8,r&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
+[t-ec012]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=clc&n1=ctctt&d1=clc&c1=ct&b1=ctc&a1=ctctctct&n2=ctctctct&d2=clc&c2=ctc&b2=ct&a2=t&footside=r,1&tile=888,111&headside=8,r&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2
 
-[t-ec013]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=crc&n1=ctctt&d1=clc&c1=ct&b1=ctc&a1=ctctctct&n2=ctctctct&d2=crc&c2=ctc&b2=ct&a2=-&footside=r,1&tile=888,111&headside=8,r&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2   
+[t-ec013]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=crc&n1=ctctt&d1=clc&c1=ct&b1=ctc&a1=ctctctct&n2=ctctctct&d2=crc&c2=ctc&b2=ct&a2=t&footside=r,1&tile=888,111&headside=8,r&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2   
 
-[t-ec026]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=ctctctct&n1=ctctt&d1=ctctctct&c1=ctc&b1=clcr&a1=ctctctct&n2=ctctctct&d2=ctc&c2=clcr&b2=ctctctct&a2=-&footside=r,1&tile=888,111&headside=8,r&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
+[t-ec026]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=ctctctct&n1=ctctt&d1=ctctctct&c1=ctc&b1=clcr&a1=ctctctct&n2=ctctctct&d2=ctc&c2=clcr&b2=ctctctct&a2=t&footside=r,1&tile=888,111&headside=8,r&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ### 3 columns, 6 rows
 
@@ -172,7 +172,7 @@ Or stitches like <span class="stch">cllPcrcllPcr</span> on the left footside and
 
 [p-ec015]: ../images/ec/EC015.png "EC-015"
 
-[t-ec015]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=clct&n1=ctc&d1=crcl&c1=ct&b1=clcr&a1=ctctctct&n2=ctctctct&d2=ct&c2=clc&b2=crct&a2=-&d3=clcr&c3=crc&b3=ct&d4=clcr&c4=crcl&b4=ct&d5=ct&c5=clct&b5=crc&d6=crcl&c6=ct&b6=clc&footside=r,1&tile=888,111,888,111,888,111&headside=8,r&shiftColsSW=-3&shiftRowsSW=6&shiftColsSE=0&shiftRowsSE=6
+[t-ec015]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=clct&n1=ctc&d1=crcl&c1=ct&b1=clcr&a1=ctctctct&n2=ctctctct&d2=ct&c2=clc&b2=crct&a2=t&d3=clcr&c3=crc&b3=ct&d4=clcr&c4=crcl&b4=ct&d5=ct&c5=clct&b5=crc&d6=crcl&c6=ct&b6=clc&footside=r,1&tile=888,111,888,111,888,111&headside=8,r&shiftColsSW=-3&shiftRowsSW=6&shiftColsSE=0&shiftRowsSE=6
 
 ## 4 columns
 
@@ -186,10 +186,20 @@ Or stitches like <span class="stch">cllPcrcllPcr</span> on the left footside and
 [p-ec024]: ../images/ec/EC024.png "EC-024"
 [p-ec030]: ../images/ec/EC030.png "EC-030, double meander"
 
-[t-ec024]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=crcl&n1=ctc&e1=ctc&d1=crcl&c1=ctc&b1=clcr&a1=ctctctct&n2=ctctctct&e2=ctc&d2=crcl&c2=ctc&b2=clcr&a2=-&footside=r,1&tile=8888,1111&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=2
+[t-ec024]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&paintStitches=crcl&n1=ctc&e1=ctc&d1=crcl&c1=ctc&b1=clcr&a1=ctctctct&n2=ctctctct&e2=ctc&d2=crcl&c2=ctc&b2=clcr&a2=t&footside=r,1&tile=8888,1111&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=2
 
-[t-ec028]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&footside=r,1&tile=8888,1111&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=2&n1=ctctt&e1=clcr&d1=ctc&c1=crcl&b1=ct&a1=ctctctct&n2=ctctctct&e2=clcr&d2=ct&c2=crcl&b2=ctc&a2=-
+[t-ec028]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&footside=r,1&tile=8888,1111&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=2&n1=ctctt&e1=clcr&d1=ctc&c1=crcl&b1=ct&a1=ctctctct&n2=ctctctct&e2=clcr&d2=ct&c2=crcl&b2=ctc&a2=t
 
-[t-ec030]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&footside=r,1&tile=8888,1111&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=2&n1=ctc&e1=ctc&d1=crrcl&c1=ctc&b1=cllc&a1=ctctctct&n2=ctctctct&e2=ctc&d2=crrc&c2=ctc&b2=cllcr&a2=-
+[t-ec030]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&footside=r,1&tile=8888,1111&headside=8,r&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=2&n1=ctc&e1=ctc&d1=crrcl&c1=ctc&b1=cllc&a1=ctctctct&n2=ctctctct&e2=ctc&d2=crrc&c2=ctc&b2=cllcr&a2=t
 
+### 4 columns, 2 rows, offset 2
 
+[![EC-032][p-ec032]][t-ec032]
+[![EC-033][p-ec033]][t-ec033] 
+
+[p-ec032]: ../images/ec/EC032.svg "EC-032"
+[p-ec033]: ../images/ec/EC033.svg "EC-033"
+
+[t-ec032]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&footside=r,1&tile=8888,1111&headside=8,r&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&n1=ctctt&e1=ctc&d1=crc&c1=ctc&b1=clc&a1=ctctctct&n2=ctctctct&e2=crc&d2=ctc&c2=clc&b2=ctc&a2=t
+
+[t-ec033]: /GroundForge/stitches.html?patchWidth=12&patchHeight=12&footside=r,1&tile=8888,1111&headside=8,r&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&n1=ctctt&e1=crc&d1=ct&c1=clc&b1=ctc&a1=ctctctct&n2=ctctctct&e2=ct&d2=clc&c2=ctc&b2=crc&a2=t
