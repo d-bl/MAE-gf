@@ -59,7 +59,7 @@ This ground is also known as _Dropped stitch ground_.
 <p style="clear: both"></p>
 
 [p-paris-in-sqr]: ../images/paris/g-paris-in-sqr.svg?align=right "dropped stitch ground"
-[p-paris-in-sqr-01]: ../images/paris/paris-in-sqr-01.svg "dropped stitch ground - 01"
+[p-paris-in-sqr-01]: ../images/paris/paris-in-sqr-01.svg 
 [t-paris-in-sqr-01]: /GroundForge/stitches?patchWidth=16&patchHeight=16&a1=ctct&c1=ctct&e1=ctc&g1=ctc&b2=ctct&d2=ctc&f2=tctc&h2=ctc&a3=ctc&c3=ctc&e3=tctcr&g3=tctcl&b4=ctc&d4=tctct&h4=tctct&tile=C-B-5-5-,-5-5-5-5,5-5-5-5-,-5-5---5&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 
 ## Big Paris ground
@@ -84,9 +84,9 @@ This ground is also known as _Copenhagen hole_.
 [p-G-54]: ../images/paris/G54.svg?align=right "alternative placing big paris ground 1"
 [p-G-64]: ../images/paris/G64.svg?align=right "alternative placing big paris ground 2"
 
-[p-3412]: ../images/paris/3412.svg "big paris ground - 12"
-[p-5401]: ../images/paris/5401.svg "alternative placing big paris ground 1 - 01"
-[p-6401]: ../images/paris/6401.svg "alternative placing big paris ground 2 - 01"
+[p-3412]: ../images/paris/3412.svg 
+[p-5401]: ../images/paris/5401.svg 
+[p-6401]: ../images/paris/6401.svg 
 
 [t-3412]: /GroundForge/stitches?patchWidth=16&patchHeight=24&b1=ct&f1=ct&c2=c&e2=c&b3=ct&d3=ctc&f3=ct&tile=-5---5,--C-B-,-B-5-C&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 [t-5401]: /GroundForge/stitches?patchWidth=15&patchHeight=18&b1=ctc&e2=ctct&c2=ctct&a2=ctct&d3=ctct&b3=ctct&e4=ctcr&c4=ctcl&a4=ctct&tile=-5---,b-c-b,-5-5-,b-5-c&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=4
@@ -121,14 +121,14 @@ This ground is also known as _Copenhagen hole_.
 [p-ex-big]: ../images/paris/g-extended-big-paris.svg?align=right "extended big paris ground"
 [p-ex-drop]: ../images/paris/g-extended-drop-stitch.svg?align=right "extended drop stitch ground"
 [p-ex-3p]: ../images/paris/g-ebp-3-pair.svg?align=right "extended big paris ground with 3 pair joins"
-[p-ex-v1]: ../images/paris/g-ebp-v1.svg?align=right "extended big paris ground 1"
-[p-ex-v2]: ../images/paris/g-ebp-v2.svg?align=right "extended big paris ground 2"
+[p-ex-v1]: ../images/paris/g-ebp-v1.svg?align=right "extended big paris ground, variant 1"
+[p-ex-v2]: ../images/paris/g-ebp-v2.svg?align=right "extended big paris ground, variant 2"
 
-[p-ex-big-01]: ../images/paris/ex-big-01.svg "extended big paris ground - 01"
-[p-ex-drop-01]: ../images/paris/ex-drop-01.svg "extended drop stitch - 01"
-[p-ex-3p-01]: ../images/paris/ex-3pr-01.svg "extended with 3 pr join - 01"
-[p-ex-v1-01]: ../images/paris/ex-v1-01.svg "extended big paris ground 1 - 01"
-[p-ex-v2-01]: ../images/paris/ex-v2-01.svg "extended big paris ground 2 - 01"
+[p-ex-big-01]: ../images/paris/ex-big-01.svg 
+[p-ex-drop-01]: ../images/paris/ex-drop-01.svg 
+[p-ex-3p-01]: ../images/paris/ex-3pr-01.svg 
+[p-ex-v1-01]: ../images/paris/ex-v1-01.svg
+[p-ex-v2-01]: ../images/paris/ex-v2-01.svg
 
 [t-ex-drop-01]: /GroundForge/stitches?patchWidth=15&patchHeight=20&d1=ctct&e2=ctctlllllll&c2=ctctrrrrrrr&f3=ctctlllll&b3=ctctrrrrr&g4=ctctlll&a4=ctctrrr&tile=xxx5xxx,xx4-7xx,x4x-x7x,4xx-xx7&tileStitch=ctct&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [t-ex-big-01]: /GroundForge/stitches?patchWidth=15&patchHeight=20&g1=ctct&e1=ctct&c1=ctct&h2=ctct&f2=ctct&d2=ctct&b2=ctct&g3=ctct&c3=ctct&h4=ctct&f4=ctct&d4=ctct&b4=ctct&tile=--5-5-5-,-b-5-5-c,--5---5-,-b-c-b-c,&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
@@ -160,9 +160,9 @@ This ground is also known as _Copenhagen hole_.
 [p-G-24]: ../images/paris/G24.svg?align=right "bias ground"
 [p-G-94]: ../images/paris/G94.svg?align=right "paris ground with snowflakes"
 
-[p-4401]: ../images/paris/4401.svg "swiss cheese - 01"
-[p-24-01]: ../images/paris/24-01.svg "paris bias - 01"
-[p-94-02]: ../images/paris/94-02.svg "paris snowflakes - 02"
+[p-4401]: ../images/paris/4401.svg 
+[p-24-01]: ../images/paris/24-01.svg 
+[p-94-02]: ../images/paris/94-02.svg 
 
 [t-4401]: /GroundForge/stitches?patchWidth=16&patchHeight=16&e1=tctc&c1=ctcl&a1=ctcr&f2=ctc&d2=ctc&e3=ctct&c3=ctc&a3=ctc&tile=5-5-5-,---5-5,C-B-5-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
