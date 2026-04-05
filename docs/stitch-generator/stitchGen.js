@@ -32,7 +32,6 @@ while (countCrosses < maxCrosses) {
 
  // display, should go on index.md
     document.write(stitch);
-    document.getElementsByName("stitch").innerHTML = stitch;
 
     return stitch;
 }

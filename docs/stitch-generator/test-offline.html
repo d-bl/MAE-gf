@@ -22,8 +22,6 @@
     while (countCrosses < maxCrosses) {
         stitch = stitch.concat(genTwists("L", maxTwists));
         stitch = stitch.concat(genTwists("R", maxTwists));
-        document.write("stitch");
-        document.write(" na LR  ");
 
         moreCrosses = genCross();
 
@@ -33,8 +31,7 @@
         } else {
             countCrosses = 1000;
         }
-        document.write(stitch);
-    }
+      }
 
     // twists between stitches
     stitch = stitch.concat(genTwists("L", maxTwists));
@@ -42,8 +39,6 @@
 
     // display, should go on index.md
     document.write(stitch);
-    document.write(" abc  ");
-    document.getElementsByName("stitch").innerHTML = stitch;
 
     function genTwists(LR, maxTwists)
     {
