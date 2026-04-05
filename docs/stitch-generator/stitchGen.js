@@ -46,6 +46,5 @@ if (countTwists === 2) {return LR.concat(LR)}
 
 function genCross()
 {
-    let countCrosses = Math.floor(Math.random() * 10000)%2;
-    return countCrosses;
+    return  Math.floor(Math.random() * 10000)%2;
 }
