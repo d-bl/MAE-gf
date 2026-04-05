@@ -4,30 +4,30 @@ function stitchGen() {
     let maxTwists = 2, maxCrosses = 3;
     let stitch = "C";
     let countCrosses = 1;
-    let moreCrosses = 0;
+    let moreCrosses = 1;
 
 // read:
 // max-crosses
 // max-twists
 // number of wanted stitches
 
-while (countCrosses < maxCrosses) {
-    stitch = stitch.concat(genTwists("L", maxTwists));
-    stitch = stitch.concat(genTwists("R", maxTwists));
+    while (countCrosses < maxCrosses && moreCrosses !== 0 ) {
+        stitch = stitch.concat(genTwists("L", maxTwists));
+        stitch = stitch.concat(genTwists("R", maxTwists));
 
-    moreCrosses = genCross();
+        moreCrosses = genCross();
 
-    if (moreCrosses !== 0) {
-        stitch = stitch.concat("C");
-        countCrosses++;
-    } else {
-        countCrosses = 1000;
+        if (moreCrosses !== 0) {
+            stitch = stitch.concat("C");
+            countCrosses++;
+        }
     }
-}
 
-// twists between stitches
-    stitch = stitch.concat(genTwists("L", maxTwists));
-    stitch = stitch.concat(genTwists("R", maxTwists));
+// twists between stitches, only if we ended with a "C"
+    if (moreCrosses !== 0) {
+        stitch = stitch.concat(genTwists("L", maxTwists));
+        stitch = stitch.concat(genTwists("R", maxTwists));
+    }
 
  // display, should go on index.md
 
