@@ -8,7 +8,12 @@ javascript:
 
 # Stitch Generator
 
-<a href="javascript:stitchGen">"Generate stitch"</a>
+<p id="stitch"></p>
+
+<a href="javascript:stitchGen">Generate stitch</a>
+
+document.getElementById("demo").innerHTML = stitch
+
 
 
 

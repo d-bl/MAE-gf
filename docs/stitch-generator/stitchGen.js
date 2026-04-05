@@ -10,23 +10,26 @@ function stitchGen() {
 // max-crosses
 // max-twists
 
-// while count-crosses < max-crosses
 while (countCrosses < maxCrosses) {
     stitch = stitch.concat(genTwists("L", maxTwists));
     stitch = stitch.concat(genTwists("R", maxTwists));
 
     moreCrosses = genCross();
 
-    if (moreCrosses === 0) {
-        countCrosses = 1000;
-    } else {
+    if (moreCrosses !== 0) {
         stitch = stitch.concat(C);
+        countCrosses++;
+    } else {
+        countCrosses = 1000;
     }
 }
 
 // twists between stitches
     stitch = stitch.concat(genTwists("L", maxTwists));
     stitch = stitch.concat(genTwists("R", maxTwists));
+
+ // display, should go on index.md
+       document.getElementsByName("stitch").innerHTML = stitch
 
     return stitch;
 }
