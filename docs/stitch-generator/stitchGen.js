@@ -1,7 +1,18 @@
-function stitchGen() {
+// function stitchList(noStitchesRequired, maxTwists, maxCrosses) {
+//    let countStitches = 1;
+//    let stitch = ""
+//
+//    while (countStitches <= noStitchesRequired) {
+//        stitchGen(maxTwists,maxCrosses);
+//        countStitches ++;
+//    }
+//    return stitch
+//}
+
+function stitchGen(maxTwists, maxCrosses) {
 
 // define & initialize variables
-    let maxTwists = 2, maxCrosses = 3;
+
     let stitch = "C";
     let countCrosses = 1;
     let moreCrosses = 1;
