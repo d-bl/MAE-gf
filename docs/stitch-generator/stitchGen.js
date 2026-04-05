@@ -1,0 +1,46 @@
+function stitchGen() {
+
+// define & initialize variables
+    let maxTwists = 2, maxCrosses = 3;
+    let stitch = "C";
+    let countCrosses = 1;
+    let moreCrosses = 0;
+
+// read:
+// max-crosses
+// max-twists
+
+// while count-crosses < max-crosses
+while (countCrosses < maxCrosses) {
+    stitch = stitch.concat(genTwists("L", maxTwists));
+    stitch = stitch.concat(genTwists("R", maxTwists));
+
+    moreCrosses = genCross();
+
+    if (moreCrosses === 0) {
+        countCrosses = 1000;
+    } else {
+        stitch = stitch.concat(C);
+    }
+}
+
+// twists between stitches
+    stitch = stitch.concat(genTwists("L", maxTwists));
+    stitch = stitch.concat(genTwists("R", maxTwists));
+
+    return stitch;
+}
+
+function genTwists(LR, maxTwists)
+{
+let countTwists = Math.floor(Math.random() * 10000)%maxTwists;
+if (countTwists === 0) {return}
+if (countTwists === 1) {return LR}
+if (countTwists === 2) {return LR.concat(LR)}
+}
+
+function genCross()
+{
+    let countCrosses = Math.floor(Math.random() * 10000)%2;
+    return countCrosses;
+}
