@@ -40,7 +40,7 @@ while (countCrosses < maxCrosses) {
 function genTwists(LR, maxTwists)
 {
 let countTwists = Math.floor(Math.random() * 10000)%maxTwists;
-if (countTwists === 0) {return}
+if (countTwists === 0) {return ""}
 if (countTwists === 1) {return LR}
 if (countTwists === 2) {return LR.concat(LR)}
 }
