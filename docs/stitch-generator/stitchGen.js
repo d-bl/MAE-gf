@@ -30,7 +30,6 @@ while (countCrosses < maxCrosses) {
     stitch = stitch.concat(genTwists("R", maxTwists));
 
  // display, should go on index.md
-    document.write(stitch);
 
     return stitch;
 }
