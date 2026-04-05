@@ -9,8 +9,7 @@ function stitchGen() {
 // read:
 // max-crosses
 // max-twists
-
-    document.write("gestart script");
+// number of wanted stitches
 
 while (countCrosses < maxCrosses) {
     stitch = stitch.concat(genTwists("L", maxTwists));

@@ -8,12 +8,13 @@ javascript:
 
 # Stitch Generator
 
-<a href="javascript:stitchGen">Generate stitch</a>
+<script type="text/javascript" src="stitchGen.js"></script>
 
 <button type="button" onclick="document.getElementById('slag').innerHTML = stitchGen()">
-Generate stitch</button>
+    Generate stitch</button>
 
 <p id="slag"></p>
+
 
 
 
