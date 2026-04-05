@@ -10,6 +10,8 @@ function stitchGen() {
 // max-crosses
 // max-twists
 
+    document.write("gestart");
+
 while (countCrosses < maxCrosses) {
     stitch = stitch.concat(genTwists("L", maxTwists));
     stitch = stitch.concat(genTwists("R", maxTwists));
@@ -29,7 +31,8 @@ while (countCrosses < maxCrosses) {
     stitch = stitch.concat(genTwists("R", maxTwists));
 
  // display, should go on index.md
-       document.getElementsByName("stitch").innerHTML = stitch
+    document.write(stitch);
+    document.getElementsByName("stitch").innerHTML = stitch;
 
     return stitch;
 }
