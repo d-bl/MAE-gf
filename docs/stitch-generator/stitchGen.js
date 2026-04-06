@@ -16,11 +16,10 @@ function stitchGen(maxCrosses, maxTwists) {
 
     // define & initialize variables
     let stitch = "";
-    let lengthCrosses = 0;
     let countCrosses = 1;
 
     // how many crosses, minimal 1 cross, therefor add 1 to random integer
-    lengthCrosses = Math.floor(Math.random() * 10000)%maxCrosses + 1;
+    let lengthCrosses = Math.floor(Math.random() * 10000)%maxCrosses + 1;
 
     while (countCrosses <= lengthCrosses ) {
         stitch +="C";
