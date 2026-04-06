@@ -15,7 +15,7 @@ You can specify:
 * the maximum number of crosses in a stitch, between 1 and 9;
 * the maximum number of twists between two crosses or between two stitches, between 1 and 9. Please note: twists are shown als "L"'s and "R"'s.
 
-Please note: a number that is too low or to high will be set to 1 resp. the maximal number allowed.   
+Please note: a number that is too low or too high will be set to 1 resp. the maximal number allowed.   
 
 <div>                                             
     <label for="stitchesRequired">number of required stitches: </label>
@@ -27,7 +27,7 @@ Please note: a number that is too low or to high will be set to 1 resp. the maxi
     <br>
 
     <label for="maxTwists">number of twists between crosses: </label>
-    <input type="number" name="maxTwists" id="maxTwists" min="1" max="9" value="3" onchange="return document.getElementById('maxTwists')" >
+    <input type="number" name="maxTwists" id="maxTwists" min="1" max="9" value="2" onchange="return document.getElementById('maxTwists')" >
     <br>
 </div>
 <br>
