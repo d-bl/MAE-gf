@@ -8,10 +8,19 @@ javascript:
 
 # Stitch Generator
 
-Get: value maxTwists
-Get: value maxCrosses
-Get: number of required stitches
+<div>                             
+    <label for="stitchesRequired">number of required stitches     : </label>
+    <input type="number" name="stitchesRequired" id="stitchesRequired" min="1" max="9" value="1" onblur="return document.getElementById('stitchesRequired').innerHTML" autofocus>
+    <br>
+                             
+    <label for="maxCrosses">maximal number of crosses       : </label>
+    <input type="number" name="maxCrosses" id="maxCrosses" min="1" max="9" value="1" onblur="return document.getElementById('maxCrosses').innerHTML" autofocus>
+    <br>
 
+    <label for="maxTwists">number of twists between crosses: </label>
+    <input type="number" name="maxTwists" id="maxTwists" min="1" max="9" value="1" onblur="return document.getElementById('maxTwists').innerHTML" autofocus>
+    <br>
+</div>
 
 <script type="text/javascript" src="stitchGen.js"></script>
 <button type="button" onclick="document.getElementById('slag').innerHTML = stitchListGen(5, 2, 2)">

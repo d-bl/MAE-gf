@@ -9,13 +9,19 @@
     <input type="number" name="stitchesRequired" id="stitchesRequired" min="1" max="9" value="1" onblur="return document.getElementById('stitchesRequired').innerHTML" autofocus>
     <br>
 
-</div>
+    <label for="maxCrosses">maximal number of crosses: </label>
+    <input type="number" name="maxCrosses" id="maxCrosses" min="1" max="9" value="1" onblur="return document.getElementById('maxCrosses').innerHTML" autofocus>
+    <br>
 
-stitchesRequired.value
+    <label for="maxTwists">number of twists between crosses: </label>
+    <input type="number" name="maxTwists" id="maxTwists" min="1" max="9" value="1" onblur="return document.getElementById('maxTwists').innerHTML" autofocus>
+    <br>
+
+</div>
 
 <br>
 <script type="text/javascript" src="stitchGen.js"></script>
-<button type="button" onclick="document.getElementById('slag').innerHTML = stitchListGen(1, 2, 2)">
+<button type="button" onclick="document.getElementById('slag').innerHTML = stitchListGen(3, 2, 2)">
     Generate stitch</button>
 
 <p id="slag"></p>
