@@ -1,10 +1,7 @@
-function stitchListGen(noStitchesRequired, maxCrosses, maxTwists) {
+function stitchListGen(StitchesRequired, maxCrosses, maxTwists) {
     let stitchList = "";
 
-    // read: maxCrosses
-    // read: maxTwists
-
-    for (let countStitches = 1; countStitches <= noStitchesRequired; countStitches++) {
+    for (let countStitches = 1; countStitches <= StitchesRequired; countStitches++) {
         stitchList += stitchGen(maxCrosses, maxTwists);
         stitchList += "<br>";
     }

@@ -4,12 +4,20 @@
    </head>
 <body>
 
+<div>
+    <label for="stitchesRequired">number of required stitches: </label>
+    <input type="number" name="stitchesRequired" id="stitchesRequired" min="1" max="9" value="1" onblur="return document.getElementById('stitchesRequired').innerHTML" autofocus>
+    <br>
+
+</div>
+
+stitchesRequired.value
+
+<br>
 <script type="text/javascript" src="stitchGen.js"></script>
-<button type="button" onclick="document.getElementById('slag').innerHTML = stitchListGen(5, 2, 2)">
+<button type="button" onclick="document.getElementById('slag').innerHTML = stitchListGen(1, 2, 2)">
     Generate stitch</button>
 
-<p>
-<span id="slag"></span>
-</p>
+<p id="slag"></p>
 
 </body>
