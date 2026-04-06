@@ -2,17 +2,17 @@ function stitchListGen(pS,pC,pT) {
     let stitchList = "";
 
     let stitchesRequired, maxCrosses, maxTwists;
-    //let stitchesRequired = Number(document.getElementById("stitchesRequired").value);
-    //let maxCrosses = Number(document.getElementById("maxCrosses").value);
-    //let maxTwists = Number(document.getElementById("maxTwists").value);
-    // without Number() the value is a string. With unexpected results in function genTwists.
 
     // The function can be called with or without parameters.attributes.
-    if (pS === undefined) {stitchesRequired = Number(document.getElementById("stitchesRequired").value);}
+    // without Number() the value is a string. With unexpected results in function genTwists.
+    if (pS === undefined) {
+        stitchesRequired = Number(document.getElementById("stitchesRequired").value);}
     else {stitchesRequired = pS;}
-    if (pC === undefined) {maxCrosses = Number(document.getElementById("maxCrosses").value);}
+    if (pC === undefined) {
+        maxCrosses = Number(document.getElementById("maxCrosses").value);}
     else {maxCrosses = pC;}
-    if (pT === undefined) {maxTwists = Number(document.getElementById("maxTwists").value);}
+    if (pT === undefined) {
+        maxTwists = Number(document.getElementById("maxTwists").value);}
     else {maxTwists = pT;}
 
     // validate input

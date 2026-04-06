@@ -15,7 +15,7 @@ You can specify:
 * the maximum number of crosses in a stitch, between 1 and 9;
 * the maximum number of twists between two crosses or between two stitches, between 1 and 9. Please note: twists are shown als "L"'s and "R"'s.
 
-Please note: a number that is too low or to high will be set to 1 resp. the maximal allowed number.   
+Please note: a number that is too low or to high will be set to 1 resp. the maximal number allowed.   
 
 <div>                                             
     <label for="stitchesRequired">number of required stitches: </label>
@@ -34,6 +34,6 @@ Please note: a number that is too low or to high will be set to 1 resp. the maxi
 
 <script type="text/javascript" src="stitchGen.js"></script>
 <button type="button" onclick="document.getElementById('slag').innerHTML = stitchListGen()">
-    Generate stitch</button>
+    Generate list of stitches</button>
 
 <p id="slag"></p>
