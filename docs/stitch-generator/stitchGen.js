@@ -1,59 +1,46 @@
-// function stitchList(noStitchesRequired, maxTwists, maxCrosses) {
-//    let countStitches = 1;
-//    let stitch = ""
-//
-//    while (countStitches <= noStitchesRequired) {
-//        stitchGen(maxTwists,maxCrosses);
-//        countStitches ++;
-//    }
-//    return stitch
-//}
+function stitchListGen(noStitchesRequired, maxCrosses, maxTwists) {
+    let stitchList = "";
 
-function stitchGen(maxTwists, maxCrosses) {
+    // read: maxCrosses
+    // read: maxTwists
 
-// define & initialize variables
+    for (let countStitches = 1; countStitches <= noStitchesRequired; countStitches++) {
+        stitchList += stitchGen(maxCrosses, maxTwists);
+        stitchList += "<br>";
+    }
 
-    let stitch = "C";
+    return stitchList;
+}
+
+function stitchGen(maxCrosses, maxTwists) {
+
+    // define & initialize variables
+    let stitch = "";
+    let lengthCrosses = 0;
     let countCrosses = 1;
-    let moreCrosses = 1;
 
-// read:
-// max-crosses
-// max-twists
-// number of wanted stitches
+    // how many crosses, minimal 1 cross, therefor add 1 to random integer
+    lengthCrosses = Math.floor(Math.random() * 10000)%maxCrosses + 1;
 
-    while (countCrosses < maxCrosses && moreCrosses !== 0 ) {
+    while (countCrosses <= lengthCrosses ) {
+        stitch +="C";
         stitch = stitch.concat(genTwists("L", maxTwists));
         stitch = stitch.concat(genTwists("R", maxTwists));
-
-        moreCrosses = genCross();
-
-        if (moreCrosses !== 0) {
-            stitch = stitch.concat("C");
-            countCrosses++;
-        }
+        countCrosses ++;
     }
-
-// twists between stitches, only if we ended with a "C"
-    if (moreCrosses !== 0) {
-        stitch = stitch.concat(genTwists("L", maxTwists));
-        stitch = stitch.concat(genTwists("R", maxTwists));
-    }
-
- // display, should go on index.md
-
     return stitch;
 }
 
+// generate a string of "L" or "R"
+// note: string of 0, 1, ..., maxTwists, therefor modulo (maxTwists + 1)
 function genTwists(LR, maxTwists)
 {
-let countTwists = Math.floor(Math.random() * 10000)%maxTwists;
-if (countTwists === 0) {return ""}
-if (countTwists === 1) {return LR}
-if (countTwists === 2) {return LR.concat(LR)}
+    let stringTwists = "";
+    let lengthTwists = Math.floor(Math.random() * 10000)%(maxTwists + 1);
+
+    for (let i = 1; i <= lengthTwists; i++) {
+        stringTwists += LR;
+    }
+    return stringTwists;
 }
 
-function genCross()
-{
-    return  Math.floor(Math.random() * 10000)%2;
-}
