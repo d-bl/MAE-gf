@@ -6,7 +6,7 @@
 
 <div>
     <label for="stitchesRequired">number of required stitches: </label>
-    <input type="number" name="stitchesRequired" id="stitchesRequired" min="1" max="9" value="1" onchange="return document.getElementById('stitchesRequired')" >
+    <input type="number" name="stitchesRequired" id="stitchesRequired" min="1" max="25" value="1" onchange="return document.getElementById('stitchesRequired')" >
     <br>
 
     <label for="maxCrosses">maximal number of crosses: </label>
@@ -14,7 +14,7 @@
     <br>
 
     <label for="maxTwists">number of twists between crosses: </label>
-    <input type="number" name="maxTwists" id="maxTwists" min="1" max="9" value="2" onchange="return document.getElementById('maxTwists')" >
+    <input type="number" name="maxTwists" id="maxTwists" min="1" max="9" value="3" onchange="return document.getElementById('maxTwists')" >
     <br>
 
 </div>
@@ -23,7 +23,14 @@
 <script type="text/javascript" src="stitchGen.js"></script>
 <button type="button" onclick="document.getElementById('slag').innerHTML = stitchListGen()">
     Generate list of stitches</button>
+<button type="button" onclick="document.getElementById('slag2').innerHTML = stitchListGen(2,2,2)">
+    Generate list of stitches with fixed attributes</button>
+
 
 <p id="slag"></p>
+<br>
+<br>
+<p id="slag2"></p>
+
 
 </body>
