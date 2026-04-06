@@ -1,7 +1,11 @@
-function stitchListGen(StitchesRequired, maxCrosses, maxTwists) {
+function stitchListGen() {
     let stitchList = "";
+    //var stitchesRequired = document.getElementById("StitchesRequired").value;
+    var stitchesRequired = document.getElementById("stitchesRequired").value;
+    var maxCrosses = document.getElementById("maxCrosses").value;
+    var maxTwists = document.getElementById("maxTwists").value;
 
-    for (let countStitches = 1; countStitches <= StitchesRequired; countStitches++) {
+    for (let countStitches = 1; countStitches <= stitchesRequired; countStitches++) {
         stitchList += stitchGen(maxCrosses, maxTwists);
         stitchList += "<br>";
     }
