@@ -16,21 +16,18 @@
     <label for="maxTwists">maximal number of twists between crosses: </label>
     <input type="number" name="maxTwists" id="maxTwists" min="1" max="9" value="2" onchange="return document.getElementById('maxTwists')" >
     <br>
-
 </div>
 
 <br>
 <script type="text/javascript" src="stitchGen.js"></script>
-<button type="button" onclick="document.getElementById('slag').innerHTML = stitchListGen()">
+<button type="button" onclick="document.getElementById('slag').innerHTML = genStitchList()">
     Generate list of stitches</button>
-<button type="button" onclick="document.getElementById('slag2').innerHTML = stitchListGen(2,2,2)">
+<button type="button" onclick="document.getElementById('slag2').innerHTML = genStitchList(2,2,2)">
     Generate list of stitches with fixed attributes</button>
-
 
 <p id="slag"></p>
 <br>
 <br>
 <p id="slag2"></p>
-
 
 </body>

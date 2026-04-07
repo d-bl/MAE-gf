@@ -9,11 +9,12 @@ javascript:
 # Stitches Generator
 
 This feature generates a list of random stitches.  
+All stitches start with a cross ("C").   
 You can specify:
 
 * how many stitches you want, between 1 and 25;
 * the maximum number of crosses in a stitch, between 1 and 9;
-* the maximum number of twists between two crosses or between two stitches, between 1 and 9. Please note: twists are shown als "L"'s and "R"'s.
+* the maximum number of twists between two crosses or between two stitches, between 1 and 9. 
 
 Please note: a number that is too low or too high will be set to 1 resp. the maximal number allowed.   
 
@@ -33,7 +34,7 @@ Please note: a number that is too low or too high will be set to 1 resp. the max
 <br>
 
 <script type="text/javascript" src="stitchGen.js"></script>
-<button type="button" onclick="document.getElementById('slag').innerHTML = stitchListGen()">
+<button type="button" onclick="document.getElementById('slag').innerHTML = genStitchList()">
     Generate list of stitches</button>
 
 <p id="slag"></p>
