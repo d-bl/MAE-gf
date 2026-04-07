@@ -8,7 +8,7 @@ javascript:
 
 # Stitches Generator
 
-{% include pict-centr.html
+{% include picts-centr.html
 src="stitch-generator.svg"
 alt="stitch-generator in Alphabet 1"
 title="stitch-generator in Alphabet 1"
