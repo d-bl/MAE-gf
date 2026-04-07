@@ -8,6 +8,12 @@ javascript:
 
 # Stitches Generator
 
+{% include pict-centr.html
+src="stitch-generator.svg"
+alt="stitch-generator in Alphabet 1"
+title="stitch-generator in Alphabet 1"
+%}
+
 This feature generates a list of random stitches.  
 All stitches start with a cross ("C").   
 You can specify:
