@@ -10,8 +10,8 @@ javascript:
 
 {% include picts-centr.html
 src="stitch-generator.svg"
-alt="stitch-generator in Alphabet 1"
-title="stitch-generator in Alphabet 1"
+alt="stitch-generator in Alphabet 1, by M. Tempels"
+title="stitch-generator in Alphabet 1, by M. Tempels"
 %}
 
 This feature generates a list of random stitches.  
