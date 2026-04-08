@@ -31,11 +31,11 @@ Please note: a number that is too low or too high will be set to 1 resp. the max
     <br>
 
     <label for="maxCrosses">maximal number of crosses: </label>
-    <input type="number" name="maxCrosses" id="maxCrosses" min="1" max="5" value="3" oninput=genVal(this) >
+    <input type="number" name="maxCrosses" id="maxCrosses" min="1" max="5" value="3" oninput="genVal(this)" >
     <br>
 
     <label for="maxTwists">maximal number of twists between crosses: </label>
-    <input type="number" name="maxTwists" id="maxTwists" min="1" max="5" value="2" oninput=genVal(this) >
+    <input type="number" name="maxTwists" id="maxTwists" min="1" max="5" value="2" oninput="genVal(this)" >
     <br>
 </div>
 <div>

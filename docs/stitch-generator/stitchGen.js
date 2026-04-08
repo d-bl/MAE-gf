@@ -123,5 +123,6 @@ function genVal(vId)
         }
     }
 
+    // the innerHTML does not seem to work yet, therefor return ""
     return ""
 }
