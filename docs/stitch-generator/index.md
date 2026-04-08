@@ -39,7 +39,7 @@ Please note: a number that is too low or too high will be set to 1 resp. the max
     <br>
 </div>
 <div>
-    <br><br>
+    <br>
     Twists between stitches:<br>
     <input type="checkbox" id="twistsBefore" name="twistsBefore" value= "tBefore" >
     <label for="twistsBefore">twists before</label>
