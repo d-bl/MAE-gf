@@ -52,7 +52,6 @@ function genStitch(maxCrosses, maxTwists, twistsBefore, twistsAfter) {
 
     // define & initialize variables
     let stitch = "";
-    let countCrosses = 1;
 
     // how many crosses, minimal 1 cross, therefor add 1 to random integer
     let lengthCrosses = Math.floor(Math.random() * 10000)%maxCrosses + 1;
@@ -62,12 +61,12 @@ function genStitch(maxCrosses, maxTwists, twistsBefore, twistsAfter) {
     }
 
     // generate part of stitch. Uses "while" and "concat" for learning purposes.
-    while (countCrosses <= lengthCrosses - 1 ) {
+    for (let countCrosses=1; countCrosses <= lengthCrosses - 1; countCrosses ++) {
         stitch +="C";
-        stitch = stitch.concat(genTwists(maxTwists));
-        countCrosses ++;
+        stitch += genTwists(maxTwists);
     }
 
+    // last Cross
     stitch += "C";
 
     if (twistsAfter) {
