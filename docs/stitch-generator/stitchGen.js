@@ -123,5 +123,5 @@ function genVal(vId)
         }
     }
 
-    return vId;
+    return true;
 }
