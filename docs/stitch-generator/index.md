@@ -39,15 +39,6 @@ Please note: a number that is too low or too high will be set to 1 resp. the max
 </div>
 
 <div>
-    <p>Twists between stitches:<br>
-    <input type="checkbox" id="twistsBefore" name="twistsBefore" value= "tBefore" >
-    <label for="twistsBefore">twists before</label>
-    <input type="checkbox" id="twistsAfter" name="twistsAfter" value="tAfter" checked >
-    <label for="twistsAfter">twists after</label>
-    </p>
-</div>
-
-<div>
     <br> <br>
     <script type="text/javascript" src="stitchGen.js"></script>
     <button type="button" onclick="document.getElementById('slag').innerHTML = genStitchList()">
