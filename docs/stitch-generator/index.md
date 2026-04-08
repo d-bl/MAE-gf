@@ -51,8 +51,6 @@ Please note: a number that is too low or too high will be set to 1 resp. the max
     <script type="text/javascript" src="stitchGen.js"></script>
     <button type="button" onclick="document.getElementById('slag').innerHTML = genStitchList()">
         Generate list of stitches</button>
-    <button type="button" onclick="document.getElementById('slag2').innerHTML = genStitchList(2,2,2,false,true)">
-        Generate list of stitches with fixed attributes</button>
 </div>
 
 <p id="slag"></p>
