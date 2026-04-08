@@ -7,7 +7,7 @@
 [Intro](/MAE-gf/index)  
 &nbsp;  
 [Catalogue of stitches](/MAE-gf/docs/stitches)  
-[Listing and counting stitches](/MAE-gf/docs/counting)
+[Listing and counting stitches](/MAE-gf/docs/counting) 
 [Generate a list of stitches](/MAE-gf/docs/stitch-generator)
 
 * n-Pair joins:
