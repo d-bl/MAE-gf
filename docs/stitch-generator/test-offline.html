@@ -1,0 +1,43 @@
+<html lang="en">
+<head>
+    <title>test stand alone</title>
+   </head>
+<body>
+
+<script type="text/javascript" src="stitchGen.js"></script>
+<div>
+    <label for="stitchesRequired">number of required stitches: </label>
+    <input type="number" name="stitchesRequired" id="stitchesRequired" min="1" max="25" value="1" oninput="genVal(this)" >
+    <br>
+
+    <label for="maxCrosses">maximal number of crosses: </label>
+    <input type="number" name="maxCrosses" id="maxCrosses" min="1" max="5" value="3" oninput="genVal(this)" >
+    <br>
+
+    <label for="maxTwists">maximal number of twists between crosses: </label>
+    <input type="number" name="maxTwists" id="maxTwists" min="1" max="5" value="2" oninput="genVal(this)" >
+    <br>
+</div>
+<div>
+    <br>
+    Twists between stitches:<br>
+    <input type="checkbox" id="twistsBefore" name="twistsBefore" value= "tBefore" >
+    <label for="twistsBefore">twists before</label>
+    <input type="checkbox" id="twistsAfter" name="twistsAfter" value="tAfter" checked >
+    <label for="twistsAfter">twists after</label>
+</div>
+<div>
+    <br><br>
+    <button type="button" onclick="document.getElementById('slag').innerHTML = genStitchList()">
+        Generate list of stitches</button>
+    <button type="button" onclick="document.getElementById('slag2').innerHTML = genStitchList(2,2,2,false,true)">
+        Generate list of stitches with fixed attributes</button>
+    <br><br>
+</div>
+
+<p id="slag"></p>
+<br>
+<br>
+<p id="slag2"></p>
+
+</body>
