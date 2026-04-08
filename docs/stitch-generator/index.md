@@ -27,7 +27,7 @@ Please note: a number that is too low or too high will be set to 1 resp. the max
 <script type="text/javascript" src="stitchGen.js"></script>
 <div>
     <label for="stitchesRequired">number of required stitches: </label>
-    <input type="number" name="stitchesRequired" id="stitchesRequired" min="1" max="25" value="1" oninput=genVal(this) >
+    <input type="number" name="stitchesRequired" id="stitchesRequired" min="1" max="25" value="1" oninput="genVal(this)" >
     <br>
 
     <label for="maxCrosses">maximal number of crosses: </label>
