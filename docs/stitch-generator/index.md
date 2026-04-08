@@ -25,6 +25,7 @@ You can specify:
 Please note: a number that is too low or too high will be set to 1 resp. the maximal number allowed.   
 
 <form>
+    <p>
     <label for="stitchesRequired">number of required stitches: </label>
     <input type="number" name="stitchesRequired" id="stitchesRequired" min="1" max="25" value="1" oninput=genVal(this) >
     <br>
@@ -36,6 +37,7 @@ Please note: a number that is too low or too high will be set to 1 resp. the max
     <label for="maxTwists">maximal number of twists between crosses: </label>
     <input type="number" name="maxTwists" id="maxTwists" min="1" max="5" value="2" oninput=genVal(this) >
     <br>
+    </p>
 
     <p>Twists between stitches:<br>
     <input type="checkbox" id="twistsBefore" name="twistsBefore" value= "tBefore" >
