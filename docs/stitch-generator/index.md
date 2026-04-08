@@ -24,6 +24,7 @@ You can specify:
 
 Please note: a number that is too low or too high will be set to 1 resp. the maximal number allowed.   
 
+<script type="text/javascript" src="stitchGen.js"></script>
 <div>
     <label for="stitchesRequired">number of required stitches: </label>
     <input type="number" name="stitchesRequired" id="stitchesRequired" min="1" max="25" value="1" oninput=genVal(this) >
@@ -37,10 +38,24 @@ Please note: a number that is too low or too high will be set to 1 resp. the max
     <input type="number" name="maxTwists" id="maxTwists" min="1" max="5" value="2" oninput=genVal(this) >
     <br>
 </div>
-
+<div>
+    <br><br>
+    Twists between stitches:<br>
+    <input type="checkbox" id="twistsBefore" name="twistsBefore" value= "tBefore" >
+    <label for="twistsBefore">twists before</label>
+    <input type="checkbox" id="twistsAfter" name="twistsAfter" value="tAfter" checked >
+    <label for="twistsAfter">twists after</label>
+</div>
+<div>
+    <br><br>
+    <script type="text/javascript" src="stitchGen.js"></script>
+    <button type="button" onclick="document.getElementById('slag').innerHTML = genStitchList()">
+        Generate list of stitches</button>
+    <button type="button" onclick="document.getElementById('slag2').innerHTML = genStitchList(2,2,2,false,true)">
+        Generate list of stitches with fixed attributes</button>
+</div>
 <div>
     <br> <br>
-    <script type="text/javascript" src="stitchGen.js"></script>
     <button type="button" onclick="document.getElementById('slag').innerHTML = genStitchList()">
         Generate list of stitches</button>
     <button type="button" onclick="document.getElementById('slag2').innerHTML = genStitchList(2,2,2,false,true)">
