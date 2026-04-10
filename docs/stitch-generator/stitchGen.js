@@ -103,11 +103,11 @@ function genVal(vId)
     if (!toBeep) {
         if (valWrd < vMin) {
             toBeep = true;
-            vId.innerHTML = vMin;
+            vId.value = vMin;
         }
         if (valWrd > vMax) {
             toBeep = true;
-            vId.innerHTML = vMax;
+            vId.value = vMax;
         }
     }
 
@@ -123,6 +123,5 @@ function genVal(vId)
         }
     }
 
-    // the innerHTML does not seem to work yet, therefor return ""
-    return ""
+    return vId;
 }
