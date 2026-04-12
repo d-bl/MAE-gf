@@ -17,9 +17,9 @@ title="stitch-generator in Alphabet 1, by M. Tempels"
 This feature generates a list of random stitches.  
 You can specify:
 
-* How many stitches you want, between 1 and 25.
-* The maximum number of crosses in a stitch, between 1 and 5. The stitch has at least one cross.
-* The maximum number of twists between two crosses or between two stitches, between 1 and 5. The stitch can have 0 twists.
+* How many stitches you want. Minimal 1, maximal 25.
+* The maximum number of crosses in a stitch, between 1 and 5. The generated stitch has at least one cross.
+* The maximum number of twists between two crosses or between two stitches, between 1 and 5. The generated stitch can have 0 twists.
 * Between two stitches, twists can be at the front, at the back, at front and back of the generated stitch or none.
 
 Please note: a number that is too low or too high will be set to 1 resp. the maximal number allowed.   
