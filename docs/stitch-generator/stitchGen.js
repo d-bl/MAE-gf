@@ -1,31 +1,42 @@
-function genStitchList(pS,pC,pT,pB,pA) {
+function genStitchList(pS,pC,pTBC,pTBS,pB,pA) {
     //const stitchArray = [];
     let stitchString = "";
-    let stitchesRequired, maxCrosses, maxTwists;
-    let twistsBefore, twistsAfter
+    let stitchesRequired, maxCrosses, maxTwistsBetweenCrosses, maxTwistsBetweenStitches;
+    let twistsBefore, twistsAfter;
 
     // The function can be called with or without parameters.attributes.
     // without Number() the document.value is a string. With unexpected results in function genTwists.
+    // number of stitches
     if (pS === undefined) {
         stitchesRequired = Number(document.getElementById("stitchesRequired").value);
     } else {
         stitchesRequired = pS;
     }
+    // maximum number of crosses
     if (pC === undefined) {
         maxCrosses = Number(document.getElementById("maxCrosses").value);
     } else {
         maxCrosses = pC;
     }
-    if (pT === undefined) {
-        maxTwists = Number(document.getElementById("maxTwists").value);
+    // maximum number of twists between two crosses
+    if (pTBC === undefined) {
+        maxTwistsBetweenCrosses = Number(document.getElementById("maxTwistsBetweenCrosses").value);
     } else {
-        maxTwists = pT;
+        maxTwistsBetweenCrosses = pTBC;
     }
+    // maximum number of twists between two stitches
+    if (pTBS === undefined) {
+        maxTwistsBetweenStitches = Number(document.getElementById("maxTwistsBetweenStitches").value);
+    } else {
+        maxTwistsBetweenStitches = pTBS;
+    }
+    // twists before stitch
     if (pB === undefined) {
         twistsBefore = document.getElementById("twistsBefore").checked;
     } else {
         twistsBefore = pB;
     }
+    // twists after stitch
     if (pA === undefined) {
         twistsAfter = document.getElementById("twistsAfter").checked;
     } else {
@@ -36,19 +47,21 @@ function genStitchList(pS,pC,pT,pB,pA) {
     if (stitchesRequired < 1)  {        stitchesRequired = 1;     }
     if (stitchesRequired > 25) {        stitchesRequired = 25;    }
     if (maxCrosses < 1) {        maxCrosses = 1;    }
-    if (maxCrosses > 5) {        maxCrosses = 9;    }
-    if (maxTwists < 1) {        maxTwists = 1;    }
-    if (maxTwists > 5) {        maxTwists = 9;    }
+    if (maxCrosses > 5) {        maxCrosses = 5;    }
+    if (maxTwistsBetweenCrosses < 1) {        maxTwistsBetweenCrosses = 1;    }
+    if (maxTwistsBetweenCrosses > 5) {        maxTwistsBetweenCrosses = 5;    }
+    if (maxTwistsBetweenStitches < 1) {        maxTwistsBetweenStitches = 1;    }
+    if (maxTwistsBetweenStitches > 5) {        maxTwistsBetweenStitches = 5;    }
 
     for (let countStitches = 1; countStitches <= stitchesRequired; countStitches++) {
         //stitchArray += genStitch(maxCrosses, maxTwists) + "<br>";
-        stitchString += genStitch(maxCrosses, maxTwists, twistsBefore, twistsAfter) + "<br>";
+        stitchString += genStitch(maxCrosses, maxTwistsBetweenCrosses, maxTwistsBetweenStitches, twistsBefore, twistsAfter) + "<br>";
     }
     // returning array gives warning about type in getElementById
     return stitchString;
 }
 
-function genStitch(maxCrosses, maxTwists, twistsBefore, twistsAfter) {
+function genStitch(maxCrosses, maxTwistsBetweenCrosses, maxTwistsBetweenStitches, twistsBefore,  twistsAfter) {
 
     // define & initialize variables
     let stitch = "";
@@ -57,20 +70,20 @@ function genStitch(maxCrosses, maxTwists, twistsBefore, twistsAfter) {
     let lengthCrosses = Math.floor(Math.random() * 10000)%maxCrosses + 1;
 
     if (twistsBefore) {
-        stitch += genTwists(maxTwists);
+        stitch += genTwists(maxTwistsBetweenStitches);
     }
 
     // generate part of stitch. Uses "while" and "concat" for learning purposes.
     for (let countCrosses=1; countCrosses <= lengthCrosses - 1; countCrosses ++) {
         stitch +="C";
-        stitch += genTwists(maxTwists);
+        stitch += genTwists(maxTwistsBetweenCrosses);
     }
 
     // last Cross
     stitch += "C";
 
     if (twistsAfter) {
-        stitch += genTwists(maxTwists);
+        stitch += genTwists(maxTwistsBetweenStitches);
     }
 
     return stitch;

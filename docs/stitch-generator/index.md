@@ -15,32 +15,33 @@ title="stitch-generator in Alphabet 1, by M. Tempels"
 %}
 
 This feature generates a list of random stitches.  
-You can specify:
-
-* How many stitches you want. Minimal 1, maximal 25.
-* The maximum number of crosses in a stitch, between 1 and 5. The generated stitch has at least one cross.
-* The maximum number of twists between two crosses or between two stitches, between 1 and 5. The generated stitch can have 0 twists.
-* Between two stitches, twists can be at the front, at the back, at front and back of the generated stitch or none.
-
 Please note: a number that is too low or too high will be set to 1 resp. the maximal number allowed.   
 
 <script type="text/javascript" src="stitchGen.js"></script>
 <div>
-    <label for="stitchesRequired">number of required stitches: </label>
+    <label for="stitchesRequired">The number of stitches required: &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; </label>
     <input type="number" name="stitchesRequired" id="stitchesRequired" min="1" max="25" value="1" onchange="genVal(this)" >
+    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; Minimal 1, maximal 25.
     <br>
 
-    <label for="maxCrosses">maximal number of crosses: </label>
+    <label for="maxCrosses">The maximal number of crosses in a stitch: </label>
     <input type="number" name="maxCrosses" id="maxCrosses" min="1" max="5" value="3" onchange="genVal(this)" >
+    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; Between 1 and 5. The generated stitch has at least one cross.
     <br>
 
-    <label for="maxTwists">maximal number of twists between crosses: </label>
-    <input type="number" name="maxTwists" id="maxTwists" min="1" max="5" value="2" onchange="genVal(this)" >
+    <label for="maxTwistsBetweenCrosses">The maximal number of twists between two crosses: </label>
+    <input type="number" name="maxTwistsBetweenCrosses" id="maxTwistsBetweenCrosses" min="1" max="5" value="1" onchange="genVal(this)" >
+    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; Between 1 and 5. The generated stitch can have 0 twists between two crosses.
+    <br>
+
+    <label for="maxTwistsBetweenStitches">The maximal number of twists between two stitches: </label>
+    <input type="number" name="maxTwistsBetweenStitches" id="maxTwistsBetweenStitches" min="1" max="5" value="2" onchange="genVal(this)" >
+    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; Between 1 and 5. The generated stitch can have 0 twists at the front and at the back.
     <br>
 </div>
 <div>
     <br>
-    Twists between stitches:<br>
+    Between two stitches, twists can be at the front, at the back, at front and back of the generated stitch or none.<br>
     <input type="checkbox" id="twistsBefore" name="twistsBefore" value= "tBefore" >
     <label for="twistsBefore">twists before</label>
     <input type="checkbox" id="twistsAfter" name="twistsAfter" value="tAfter" checked >
