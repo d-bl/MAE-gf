@@ -18,8 +18,9 @@ This feature generates a list of random stitches.
 Please note: a number that is too low or too high will be set to 1 resp. the maximal number allowed.   
 
 <script type="text/javascript" src="stitchGen.js"></script>
+
 <div>
-    <table>
+    <table class="cctt">
         <tr>
             <td><label for="stitchesRequired">The number of stitches required: </label></td>
             <td><input type="number" name="stitchesRequired" id="stitchesRequired" min="1" max="25" value="1" onchange="genVal(this)" ></td>
