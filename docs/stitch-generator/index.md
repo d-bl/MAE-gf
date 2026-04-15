@@ -51,9 +51,11 @@ Please note: a number that is too low or too high will be set to 1 resp. the max
     <tr>
        <td>Placements of twists between stitches</td>
        <td><input type="checkbox" id="twistsBefore" name="twistsBefore" value="tBefore">
+            &nbsp;
            <label for="twistsBefore">before</label>
        </td>
        <td><input type="checkbox" id="twistsAfter" name="twistsAfter" value="tAfter" checked>
+            &nbsp;
            <label for="twistsAfter">after</label>
        </td>
        <td>Between two stitches, twists can be at the front (RCTC), at the back (CTCL), at front and back (RCTCL) of the generated stitch or none (CTC).</td>
