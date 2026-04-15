@@ -49,14 +49,14 @@ Please note: a number that is too low or too high will be set to 1 resp. the max
             The generated stitch can have 0 twists at the front and at the back.</td>
     </tr>
     <tr>
-       <td></td>
-       <td><input type="checkbox" id="twistsBefore" name="twistsBefore" value="tBefore"/>
-           <label for="twistsBefore">twists before</label>
+       <td>Placements of twists between stitches</td>
+       <td><input type="checkbox" id="twistsBefore" name="twistsBefore" value="tBefore">
+           <label for="twistsBefore">before</label>
        </td>
-       <td><input type="checkbox" id="twistsAfter" name="twistsAfter" value="tAfter" checked/>
-           <label for="twistsAfter">twists after</label>
-        </td>
-        <td>Between two stitches, twists can be at the front, at the back, at front and back of the generated stitch or none.</td>
+       <td><input type="checkbox" id="twistsAfter" name="twistsAfter" value="tAfter" checked>
+           <label for="twistsAfter">after</label>
+       </td>
+       <td>Between two stitches, twists can be at the front (RCTC), at the back (CTCL), at front and back (RCTCL) of the generated stitch or none (CTC).</td>
     </tr>
 </table>
 

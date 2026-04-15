@@ -1,11 +1,14 @@
-function genStitchList(pS,pC,pTBC,pTBS,pB,pA) {
+function genStitchList(pS,pC,pTBC,pTBS,pB,pA)
+{
     //const stitchArray = [];
     let stitchString = "";
     let stitchesRequired, maxCrosses, maxTwistsBetweenCrosses, maxTwistsBetweenStitches;
     let twistsBefore, twistsAfter;
+    let maxTwistsBefore= 0, maxTwistsAfter= 0;
 
-    // The function can be called with or without parameters.attributes.
-    // without Number() the document.value is a string. With unexpected results in function genTwists.
+    // The function can be called with or without attributes.
+    // without Number(), document.value is a string. With unexpected results in function genTwists.
+
     // number of stitches
     if (pS === undefined) {
         stitchesRequired = Number(document.getElementById("stitchesRequired").value);
@@ -36,41 +39,47 @@ function genStitchList(pS,pC,pTBC,pTBS,pB,pA) {
     } else {
         twistsBefore = pB;
     }
+    if (twistsBefore) {maxTwistsBefore = maxTwistsBetweenStitches; }
     // twists after stitch
     if (pA === undefined) {
         twistsAfter = document.getElementById("twistsAfter").checked;
     } else {
         twistsAfter = pA;
     }
+    if (twistsAfter) {maxTwistsAfter = maxTwistsBetweenStitches; }
 
     // validate input - needed if called without arguments.
     if (stitchesRequired < 1)  {        stitchesRequired = 1;     }
     if (stitchesRequired > 25) {        stitchesRequired = 25;    }
-    if (maxCrosses < 1) {        maxCrosses = 1;    }
-    if (maxCrosses > 5) {        maxCrosses = 5;    }
-    if (maxTwistsBetweenCrosses < 1) {        maxTwistsBetweenCrosses = 1;    }
-    if (maxTwistsBetweenCrosses > 5) {        maxTwistsBetweenCrosses = 5;    }
-    if (maxTwistsBetweenStitches < 1) {        maxTwistsBetweenStitches = 1;    }
-    if (maxTwistsBetweenStitches > 5) {        maxTwistsBetweenStitches = 5;    }
 
     for (let countStitches = 1; countStitches <= stitchesRequired; countStitches++) {
-        //stitchArray += genStitch(maxCrosses, maxTwists) + "<br>";
-        stitchString += genStitch(maxCrosses, maxTwistsBetweenCrosses, maxTwistsBetweenStitches, twistsBefore, twistsAfter) + "<br>";
+        //stitchArray += genStitch(maxCrosses, maxTwistsBetweenCrosses, maxTwistsBefore, maxTwistsAfter) + "<br>";
+        stitchString += genStitch(maxCrosses, maxTwistsBetweenCrosses, maxTwistsBefore, maxTwistsAfter) + "<br>";
     }
     // returning array gives warning about type in getElementById
     return stitchString;
 }
 
-function genStitch(maxCrosses, maxTwistsBetweenCrosses, maxTwistsBetweenStitches, twistsBefore,  twistsAfter) {
-
+function genStitch(maxCrosses, maxTwistsBetweenCrosses, maxTwistsBefore,  maxTwistsAfter)
+{
     // define & initialize variables
     let stitch = "";
+
+    // validate input - needed if called with arguments.
+    if (maxCrosses < 1) {        maxCrosses = 1;    }
+    if (maxCrosses > 5) {        maxCrosses = 5;    }
+    if (maxTwistsBetweenCrosses < 1) {        maxTwistsBetweenCrosses = 1;    }
+    if (maxTwistsBetweenCrosses > 5) {        maxTwistsBetweenCrosses = 5;    }
+    if (maxTwistsBefore < 0) {        maxTwistsBefore = 0;    }
+    if (maxTwistsBefore > 5) {        maxTwistsBefore = 5;    }
+    if (maxTwistsAfter < 0) {        maxTwistsAfter = 0;    }
+    if (maxTwistsAfter > 5) {        maxTwistsAfter = 5;    }
 
     // how many crosses, minimal 1 cross, therefor add 1 to random integer
     let lengthCrosses = Math.floor(Math.random() * 10000)%maxCrosses + 1;
 
-    if (twistsBefore) {
-        stitch += genTwists(maxTwistsBetweenStitches);
+    if (maxTwistsBefore > 0) {
+        stitch += genTwists(maxTwistsBefore);
     }
 
     // generate part of stitch. Uses "while" and "concat" for learning purposes.
@@ -82,8 +91,8 @@ function genStitch(maxCrosses, maxTwistsBetweenCrosses, maxTwistsBetweenStitches
     // last Cross
     stitch += "C";
 
-    if (twistsAfter) {
-        stitch += genTwists(maxTwistsBetweenStitches);
+    if (maxTwistsAfter > 0) {
+        stitch += genTwists(maxTwistsAfter);
     }
 
     return stitch;

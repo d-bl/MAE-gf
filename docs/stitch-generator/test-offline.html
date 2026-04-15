@@ -39,14 +39,14 @@
                 The generated stitch can have 0 twists at the front and at the back.</td>
         </tr>
         <tr>
-            <td></td>
-            <td><input type="checkbox" id="twistsBefore" name="twistsBefore" value="tBefore"/>
-                <label for="twistsBefore">twists before</label>
+            <td>Placements of twists between stitches</td>
+            <td><input type="checkbox" id="twistsBefore" name="twistsBefore" value="tBefore">
+                <label for="twistsBefore">before</label>
             </td>
-            <td><input type="checkbox" id="twistsAfter" name="twistsAfter" value="tAfter" checked/>
-                <label for="twistsAfter">twists after</label>
+            <td><input type="checkbox" id="twistsAfter" name="twistsAfter" value="tAfter" checked>
+                <label for="twistsAfter">after</label>
             </td>
-            <td>Between two stitches, twists can be at the front, at the back, at front and back of the generated stitch or none.</td>
+            <td>Between two stitches, twists can be at the front (RCTC), at the back (CTCL), at front and back (RCTCL) of the generated stitch or none (CTC).</td>
         </tr>
     </table>
 
@@ -58,6 +58,9 @@
         <button type="button" onclick="document.getElementById('slag2').innerHTML = genStitchList(3,2,1,2,false,true)">
             Generate list of stitches with fixed attributes
         </button>
+        <button type="button" onclick="document.getElementById('slag3').innerHTML = genStitch(3,1,0,2)">
+            Generate one stitch with fixed attributes
+        </button>
         <br><br>
     </div>
 
@@ -65,5 +68,8 @@
     <br>
     <br>
     <p id="slag2"></p>
+    <br>
+    <br>
+    <p id="slag3"></p>
 
 </body>
