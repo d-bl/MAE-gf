@@ -84,8 +84,7 @@ img[src$="x=button"] {box-shadow: 3px 3px #ebebeb;}
 .oidfa th {text-align:left; padding:5px; font-weight:bold;}
 
 /* table in stitch-generator/index.md */
-.stgen table {border-spacing:5px;}
-.stgen td {text-align:left; padding:5px; border-style:hidden;}
-.stgen th {text-align:left; padding:5px; border-style:hidden; font-weight:bold;}
+.stgen td {text-align:left; vertical-align:top; padding: 5px 15px 5px 5px; border-style:hidden;}
+.stgen th {text-align:left; vertical-align:top; padding: 5px 15px 5px 5px; border-style:hidden; font-weight:bold;}
 
 

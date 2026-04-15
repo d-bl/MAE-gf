@@ -36,23 +36,23 @@ Please note: a number that is too low or too high will be set to 1 resp. the max
         <td><label for="maxTwistsBetweenCrosses">The maximal number of twists between two crosses </label></td>
         <td><input type="number" name="maxTwistsBetweenCrosses" id="maxTwistsBetweenCrosses" min="1" max="5" value="1" onchange="genVal(this)" ></td>
         <td>Between 1 and 5. <br> 
-            The generated stitch can have 0 twists between two crosses.</td>
+            The generated stitch can have 0 twists between two crosses, e.g. "cc".</td>
     </tr>
     <tr>
         <td><label for="maxTwistsBetweenStitches">The maximal number of twists between two stitches </label></td>
         <td><input type="number" name="maxTwistsBetweenStitches" id="maxTwistsBetweenStitches" min="1" max="5" value="2" onchange="genVal(this)" ></td>
         <td>Between 1 and 5. <br> 
-            The generated stitch can have 0 twists at the front and at the back.</td>
+            The generated stitch can have 0 twists at the front and at the back, e.g. "ctc".</td>
     </tr>
     <tr>
-       <td>Placements of twists between stitches</td>
+       <td>Position of twists between stitches</td>
        <td><input type="checkbox" id="twistsBefore" name="twistsBefore" value="tBefore">
            <label for="twistsBefore">before</label>
-       </td>
-       <td><input type="checkbox" id="twistsAfter" name="twistsAfter" value="tAfter" checked>
+       <br>
+           <input type="checkbox" id="twistsAfter" name="twistsAfter" value="tAfter" checked>
            <label for="twistsAfter">after</label>
        </td>
-       <td>Between two stitches, twists can be at the front (RCTC), at the back (CTCL), at front and back (RCTCL) of the generated stitch or none (CTC).</td>
+       <td>Between two stitches, twists can be at the front (Rctc), at the back (ctcL), at front and back (RctcL) of the generated stitch or none (ctc).</td>
     </tr>
 </table>
 
