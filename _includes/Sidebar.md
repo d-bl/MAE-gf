@@ -8,7 +8,7 @@
 &nbsp;  
 [Catalogue of stitches](/MAE-gf/docs/stitches)  
 [Listing and counting stitches](/MAE-gf/docs/counting)  
-[Generate a list of random stitches](/MAE-gf/docs/stitch-generator)
+<a href="/GroundForge/random-stitches/" target="_blank">Generate a list of random stitches</a>
 
 * n-Pair joins:
 * [Counting families](/MAE-gf/docs/counting-snow)  
