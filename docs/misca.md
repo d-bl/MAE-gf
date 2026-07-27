@@ -50,9 +50,9 @@ The traditional units separated with plaits. Please note: the plaits should stay
 <p style="clear: both"></p>
 
 [p-fusion]: ../images/misca/G-fusion.svg?align=right "fusion"
-[P-0116-f]: ../images/misca/0116-kf.png "fusion, 0116"
-[P-0284-f]: ../images/misca/0284-kf.png "fusion, 0284"
-[P-0342-f]: ../images/misca/0342-kf.png "fusion, 0342"
+[P-0116-f]: ../images/misca/0116-kf.svg "fusion, 0116"
+[P-0284-f]: ../images/misca/0284-kf.svg "fusion, 0284"
+[P-0342-f]: ../images/misca/0342-kf.svg "fusion, 0342"
 
 [T-0116-f]: /GroundForge/stitches?patchWidth=16&patchHeight=16&c1=ctctctctctc&b1=ctctc&a1=ctctctctctc&c2=ctc&a2=ctc&c3=-&b3=ctctc&a3=-&tile=q3s-,4-7-,158-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 [T-0342-f]: /GroundForge/stitches?patchWidth=16&patchHeight=16&c1=ctctctctctc&b1=ct&a1=ctctctctctc&c2=ct&a2=ct&b3=ctct&c4=cl&a4=cr&c5=-&b5=c&a5=-&tile=Q3S,4-7,-5-,B-C,158&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=5&shiftColsSE=3&shiftRowsSE=5
