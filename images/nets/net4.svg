@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20.785mm" height="12mm" version="1.1" viewBox="0 0 20.785 12" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <clipPath id="clipPath1769">
+   <path d="m11.981 73.731h12v-20.785h-12z" fill="none" stroke="#000" stroke-linejoin="round" stroke-opacity=".98039" stroke-width=".25"/>
+  </clipPath>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-24.374 -29.875)">
+  <g transform="rotate(90 40.106 57.999)" clip-path="url(#clipPath1769)" fill="none" stroke-linejoin="round" stroke-opacity=".98039" stroke-width=".25">
+   <path d="m8.7853 66.875 6.9282-4" stroke="#000"/>
+   <path d="m8.7853 70.875 13.856-8" stroke="#000"/>
+   <path d="m8.7853 74.875 20.785-12" stroke="#000"/>
+   <path d="m15.713 74.875c13.856-8 13.856-8 13.856-8" stroke="#000"/>
+   <path d="m22.642 74.875 6.9282-4" stroke="#000"/>
+   <path d="m19.178 62.875v12" stroke="#800080"/>
+   <path d="m12.249 62.875c17.321 10 17.321 10 17.321 10" stroke="#000"/>
+   <path d="m8.7853 64.875c17.321 10 17.321 10 17.321 10" stroke="#000"/>
+   <path d="m8.7853 68.875 10.392 6" stroke="#000"/>
+   <path d="m8.7853 72.875 3.4641 2" stroke="#000"/>
+   <path d="m19.178 62.875 10.392 6" stroke="#000"/>
+   <path d="m26.106 62.875 3.4641 2" stroke="#000"/>
+   <path d="m15.713 62.875v12" stroke="#800080"/>
+   <path d="m12.249 62.875v12" stroke="#800080"/>
+   <path d="m8.7853 62.875v12" stroke="#800080"/>
+   <path d="m22.642 62.875v12" stroke="#800080"/>
+   <path d="m26.106 62.875v12" stroke="#800080"/>
+   <path d="m29.57 62.875v12" stroke="#800080"/>
+   <path d="m8.7853 54.875 6.9282-4" stroke="#000"/>
+   <path d="m8.7853 58.875 13.856-8" stroke="#000"/>
+   <path d="m8.7853 62.875 20.785-12" stroke="#000"/>
+   <path d="m15.713 62.875c13.856-8 13.856-8 13.856-8" stroke="#000"/>
+   <path d="m22.642 62.875 6.9282-4" stroke="#000"/>
+   <path d="m19.178 50.875v12" stroke="#800080"/>
+   <path d="m12.249 50.875c17.321 10 17.321 10 17.321 10" stroke="#000"/>
+   <path d="m8.7853 52.875c17.321 10 17.321 10 17.321 10" stroke="#000"/>
+   <path d="m8.7853 56.875 10.392 6" stroke="#000"/>
+   <path d="m8.7853 60.875 3.4641 2" stroke="#000"/>
+   <path d="m19.178 50.875 10.392 6" stroke="#000"/>
+   <path d="m26.106 50.875 3.4641 2" stroke="#000"/>
+   <path d="m15.713 50.875v12" stroke="#800080"/>
+   <path d="m12.249 50.875v12" stroke="#800080"/>
+   <path d="m8.7853 50.875v12" stroke="#800080"/>
+   <path d="m22.642 50.875v12" stroke="#800080"/>
+   <path d="m26.106 50.875v12" stroke="#800080"/>
+   <path d="m29.57 50.875v12" stroke="#800080"/>
+  </g>
+ </g>
+</svg>
