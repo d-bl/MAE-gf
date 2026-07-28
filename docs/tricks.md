@@ -25,7 +25,7 @@ We have learned, that the figure on the left is called a [_little snowflake_][t-
 <p style="clear: both"></p>
 
 [p-rs-sl]: ../images/tricks/w-vierge.png?align=right "slavic rose ground"
-[p-sn-sp]: ../images/tricks/g-snowspin.png?align=right "snowflake &amp; spider"
+[p-sn-sp]: ../images/tricks/g-snowspin.svg?align=right "snowflake &amp; spider"
 [t-rs-sl]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctct&b1=ct&c1=ctct&d1=ct&b2=ct&d2=ct&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2&tile=5831,-4-7
 [t-snowflake]: /GroundForge/stitches?patchWidth=16&patchHeight=16&b1=ctc&a2=ctc&c2=ctc&b3=ctcttt&d3=tttctc&a4=ctc&c4=ctc&shiftColsSE=2&shiftRowsSE=4&shiftColsSW=-2&shiftRowsSW=4&tile=-5--,B-C-,-5-5,5-5-
 [t-spider]: /GroundForge/stitches?patchWidth=16&patchHeight=16&b1=ctcctc&a2=ctc&c2=ctc&b3=ctcttt&d3=tttctc&a4=ctc&c4=ctc&shiftColsSE=2&shiftRowsSE=4&shiftColsSW=-2&shiftRowsSW=4&tile=-5--,B-C-,-5-5,5-5-
@@ -50,7 +50,7 @@ We have tried <span class="stch">ctctclllllctctc</span> as a substitute for pico
 
 The specified twists in some stitch definitions may not be according to the expected working order. Example : <span class="stch">B1 = ctc, A2 = rrct, C2 = llct</span> instead of <span class="stch">B1 = ctctt, A2 = ct, C2 = ct</span>. The result is the same.      
 
-[p-colors]: ../images/w-color.png?align=right "colors used"
+[p-colors]: ../images/w-color.svg?align=right "colors used"
 
 ## Way of making
 

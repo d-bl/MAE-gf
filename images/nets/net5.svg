@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31.178mm" height="18mm" version="1.1" viewBox="0 0 31.178 18" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <clipPath id="clipPath1849">
+   <path d="m81.406 169v12h20.785v-12z" fill="none" stroke="#000" stroke-linejoin="round" stroke-opacity=".98039" stroke-width=".25"/>
+  </clipPath>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="matrix(1.5 0 0 1.5 -122.11 -253.5)" stroke-width=".35278">
+  <g clip-path="url(#clipPath1849)" fill="none" stroke="#000" stroke-linejoin="round" stroke-opacity=".98039" stroke-width=".35278">
+   <path transform="translate(32.784,139.13)" d="m55.551 41.875 1.732-1v-4l3.4641-2v-4l1.732-1 1e-6 2-3.4641 2v4l-3.4641 2v2"/>
+   <path transform="translate(32.784,139.13)" d="m59.015 29.875-3.4641 2v4l-3.4641 2v4"/>
+   <path transform="translate(32.784,139.13)" d="m57.283 28.875v4l-3.4641 2v4l-3.4641 2v2"/>
+   <path transform="translate(32.784,139.13)" d="m52.087 29.875v4l-3.4641 2"/>
+   <path transform="translate(32.784,139.13)" d="m48.622 39.875v-2l1.7321-1v-4l3.4641-2v-2"/>
+   <path transform="translate(32.784,139.13)" d="m48.622 29.875v2"/>
+   <path transform="translate(32.784,139.13)" d="m65.943 29.875v4l-3.4641 2v4l-3.4641 2"/>
+   <path transform="translate(32.784,139.13)" d="m67.675 28.875v2l-3.4641 2v4l-3.4641 2v4"/>
+   <path transform="translate(32.784,139.13)" d="m64.211 42.875v-2l3.4641-2v-4l1.732-1"/>
+   <path transform="translate(32.784,139.13)" d="m65.943 41.875v-4l3.4641-2v-4"/>
+   <path transform="translate(32.784,139.13)" d="m69.407 39.875v2"/>
+   <path transform="translate(32.784,139.13)" d="m48.622 31.875v-2"/>
+   <path d="m81.406 171 17.321 10"/>
+   <path d="m84.87 169 17.321 10"/>
+   <path d="m91.799 169 10.392 6"/>
+   <path d="m98.727 169 3.4641 2"/>
+   <path d="m81.406 175 10.392 6"/>
+   <path d="m81.406 179 3.4641 2"/>
+  </g>
+ </g>
+</svg>
