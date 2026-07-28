@@ -48,7 +48,7 @@
 [Notes](/MAE-gf/docs/tricks)  
 &nbsp;  
 <a href="/MAE-gf/docs/tricks#color-code" target="_blank"> <img src="/MAE-gf/images/w-color.svg" alt="Colors used, Belgian code" title="Colors used, Belgian code"></a>   
-<a href="/GroundForge-help/color-rules" target="_blank"> <img src="/MAE-gf/images/to-color-rules.png" alt="Colors used, 4 colors per stitch" title="Colors used, 4 colors per stitch"></a>   
+<a href="/GroundForge-help/color-rules" target="_blank"> <img src="/MAE-gf/images/to-color-rules.svg" alt="Colors used, 4 colors per stitch" title="Colors used, 4 colors per stitch"></a>   
      
 ---
 
