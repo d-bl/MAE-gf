@@ -28,8 +28,8 @@ Miscellaneous examples, collected on this page.
 <p style="clear: both"></p>
 
 [p-74]: ../images/misca/vase-ground.svg?align=right "vase ground"
-[p-vase1]: ../images/misca/vase-1.png?align=left "vase ground 1, by P. Fouché"
-[p-vase2]: ../images/misca/vase-2.png?align=left "vase ground 2, by P. Fouché"
+[p-vase1]: ../images/misca/vase-1.svg?align=left "vase ground 1, by P. Fouché"
+[p-vase2]: ../images/misca/vase-2.svg?align=left "vase ground 2, by P. Fouché"
 
 [t-vase1]: /GroundForge/stitches?patchWidth=30&patchHeight=30&g1=tctct&h2=ctc&f2=ctc&e3=ctc&c3=tctct&a3=ctc&h4=ctc&f4=ctc&d4=ctc&b4=ctc&tile=YX-XWX5X,XX-XX4-7,7-5-4X-X,-5-5-7-4,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [t-vase2]: /GroundForge/stitches?patchWidth=30&patchHeight=30&g1=ctc&h2=ctc&f2=ctc&e3=tctct&c3=ctc&a3=tctct&h4=tctct&f4=tctct&d4=ctc&b4=ctc&tile=YX-XWX5X,XX-XX4-7,7-5-4X-X,-5-5-7-4,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-4&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
@@ -71,9 +71,9 @@ The following grounds were created to work "upwards" from one square to another.
 
 [g-11]: ../images/misca/G-mine2.svg?align=right "Working upwards 1"
 
-[p-1114]: ../images/misca/1114.png?align=left "Another fish 1" 
-[p-1111]: ../images/misca/1111.png "Another fish 2" 
-[p-1117]: ../images/misca/1117.png "Another fish 3"
+[p-1114]: ../images/misca/1114.svg?align=left "Another fish 1" 
+[p-1111]: ../images/misca/1111.svg "Another fish 2" 
+[p-1117]: ../images/misca/1117.svg "Another fish 3"
 
 [t-1111]: /GroundForge/stitches?patchWidth=12&patchHeight=12&d1=ctct&c1=ct&b1=ctct&a1=ct&d2=ct&c2=ctct&a2=ctct&d3=ctct&c3=ct&b3=ctct&a3=ct&c4=ctct&b4=ct&a4=ctct&tile=8325,6-76,1563,224-&tileStitch=ct&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
 [t-1114]: /GroundForge/stitches?patchWidth=12&patchHeight=12&a1=ctct&b1=ctc&c1=tctc&d1=ctc&a2=lctc&c2=ctcr&d2=c&a3=ctct&b3=ctc&c3=tctc&d3=ctc&a4=ctc&b4=c&c4=ctcl&tile=8325,6-76,1563,224-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4
@@ -89,7 +89,7 @@ As the "another fish" pattern, the pattern in Groundforge is turned one quarter.
 <p style="clear: both"></p>
 
 [g-21]: ../images/misca/G-mine1.svg?align=right "Working upwards 2"
-[p-2111]: ../images/misca/2111.png
+[p-2111]: ../images/misca/2111.svg
 [t-2111]: /GroundForge/stitches?patchWidth=12&patchHeight=12&b1=ctct&d1=ctct&a2=ctct&b2=ct&c2=ctct&d2=ct&e2=ctct&a3=ct&b3=ctct&d3=ctct&e3=ct&f3=ctct&tile=-7-4--,B831C-,66-225&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-3&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=3
 
 ## Windmills
