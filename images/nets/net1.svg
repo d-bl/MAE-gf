@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="20.785mm" height="12mm" version="1.1" viewBox="0 0 20.785 12" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<svg width="31.178mm" height="18mm" version="1.1" viewBox="0 0 31.178 18" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <defs>
   <clipPath id="clipPath1938">
    <path d="m32.909 147v12h20.785v-12h-20.785" fill="none" stroke="#000" stroke-linejoin="round" stroke-opacity=".98039" stroke-width=".25"/>
@@ -13,8 +13,8 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <g transform="translate(-32.909 -147)">
-  <g clip-path="url(#clipPath1938)" fill="none" stroke="#000" stroke-linejoin="round" stroke-opacity=".98039" stroke-width=".25">
+ <g transform="matrix(1.5 0 0 1.5 -49.364 -220.5)" stroke-width=".66667">
+  <g clip-path="url(#clipPath1938)" fill="none" stroke="#000" stroke-linejoin="round" stroke-opacity=".98039" stroke-width=".35278">
    <path d="m31.177 148 24.213 0.0195"/>
    <path d="m32.909 151h20.785"/>
    <path d="m31.177 154h24.215"/>
